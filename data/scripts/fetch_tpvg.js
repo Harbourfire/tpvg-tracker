@@ -145,11 +145,7 @@ if (statusMatch) {
   return null;
 }
 
-    const entry = {
-      uic,
-      info: match ? match[0].trim() : "nema podataka",
-      time: new Date().toISOString()
-    };
+    
 
     const last = getLastEventForUIC(uic, history);
 
