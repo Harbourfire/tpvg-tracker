@@ -157,6 +157,15 @@ if (!last || last.raw !== parsedEvent.raw) {
 }
   }
 
+// ⏱ zadrži samo zadnjih 72 sata
+const NOW = Date.now();
+const HOURS_72 = 72 * 60 * 60 * 1000;
+
+history = history.filter(e => {
+  const t = new Date(e.seen_at || e.time).getTime();
+  return NOW - t <= HOURS_72;
+});
+  
   fs.writeFileSync(
     "data/lokomotive.json",
     JSON.stringify(history, null, 2)
