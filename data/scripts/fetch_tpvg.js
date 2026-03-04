@@ -1,6 +1,103 @@
 const fs = require("fs");
 const https = require("https");
 
+
+
+function parseTpvgStatus(raw) {
+  const now = new Date().toISOString();
+
+  const clean = raw.trim();
+
+  // 1) nema podataka
+  if (/^nema podataka$/i.test(clean)) {
+    return {
+      type: "nema_podataka",
+      station: null,
+      train_number: null,
+      event_time: null,
+      seen_at: now,
+      raw: clean
+    };
+  }
+
+  // 2) izvan HŽ
+  const outHzMatch = clean.match(/izvan HŽ\s+(\d+)/i);
+  if (outHzMatch) {
+    return {
+      type: "izvan_mreze",
+      station: outHzMatch[1],
+      train_number: null,
+      event_time: null,
+      seen_at: now,
+      raw: clean
+    };
+  }
+
+  // pomoćne regexe
+  const trainMatch = clean.match(/Br\. vlaka\s+(\d+)/i);
+  const dateTimeMatch = clean.match(/(\d{2})\.(\d{2})\.(\d{2})\.\s+(\d{2}):(\d{2})/);
+  const stationMatch = clean.match(/kolodvor\s+([A-ZČĆŽŠĐ\s-]+)/i);
+
+  let event_time = null;
+  if (dateTimeMatch) {
+    const [_, d, m, y, hh, mm] = dateTimeMatch;
+    event_time = `20${y}-${m}-${d}T${hh}:${mm}:00`;
+  }
+
+  const train_number = trainMatch ? trainMatch[1] : null;
+  const station = stationMatch ? stationMatch[1].trim() : null;
+
+  // 3) eksplicitni prometni događaji
+  const EVENT_KEYWORDS = [
+    { key: "formiran", type: "formiran" },
+    { key: "odlazak", type: "odlazak" },
+    { key: "dolazak", type: "dolazak" },
+    { key: "prolazak", type: "prolazak" },
+    { key: "promjena sas", type: "promjena_sastava" },
+    { key: "pretrasiran", type: "pretrasiran" },
+    { key: "raspušten", type: "raspusten" }
+  ];
+
+  for (const ev of EVENT_KEYWORDS) {
+    if (clean.toLowerCase().includes(ev.key)) {
+      return {
+        type: ev.type,
+        station,
+        train_number,
+        event_time,
+        seen_at: now,
+        raw: clean
+      };
+    }
+  }
+
+  // 4) implicitno rasformiranje / stajanje
+  // ima datum + kolodvor, ali NEMA prometni glagol
+  if (event_time && station) {
+    return {
+      type: "stajanje",
+      interpreted_as: "rasformiran",
+      station,
+      train_number,
+      event_time,
+      seen_at: now,
+      raw: clean
+    };
+  }
+
+  // 5) fallback (za svaki nepoznati format)
+  return {
+    type: "nepoznato",
+    station,
+    train_number,
+    event_time,
+    seen_at: now,
+    raw: clean
+  };
+}
+
+
+
 // 🔧 OVDJE UPISUJEŠ UIC BROJEVE
 const UIC_LIST = [
   "927820620171"
@@ -31,7 +128,22 @@ function fetchTPVG(uic) {
     const html = await fetchTPVG(uic);
 
     // vrlo jednostavno parsiranje (kasnije možemo poboljšati)
-    const match = html.match(/Br\. Vlaka([^<]+)/);
+    let statusText = "nema podataka";
+
+// pokušaj izvući cijeli red sa statusom
+const statusMatch = html.match(/(Br\. vlaka[^<]+|nema podataka|izvan HŽ[^<]+)/i);
+
+if (statusMatch) {
+  statusText = statusMatch[0].trim();
+}
+    const parsedEvent = parseTpvgStatus(statusText);
+
+    function getLastEventForUIC(uic, history) {
+  for (let i = history.length - 1; i >= 0; i--) {
+    if (history[i].uic === uic) return history[i];
+  }
+  return null;
+}
 
     const entry = {
       uic,
@@ -39,7 +151,14 @@ function fetchTPVG(uic) {
       time: new Date().toISOString()
     };
 
-    history.push(entry);
+    const last = getLastEventForUIC(uic, history);
+
+if (!last || last.raw !== parsedEvent.raw) {
+  history.push({
+    uic,
+    ...parsedEvent
+  });
+}
   }
 
   fs.writeFileSync(
