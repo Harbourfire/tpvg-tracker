@@ -11,7 +11,7 @@ function parseTpvgStatus(raw) {
   // 1) nema podataka
   if (/^nema podataka$/i.test(clean)) {
     return {
-      type: "nema_podataka",
+      type: "nema podataka",
       station: null,
       train_number: null,
       event_time: null,
@@ -24,7 +24,7 @@ function parseTpvgStatus(raw) {
   const outHzMatch = clean.match(/izvan HŽ\s+(\d+)/i);
   if (outHzMatch) {
     return {
-      type: "izvan_mreze",
+      type: "izvan HŽ",
       station: outHzMatch[1],
       train_number: null,
       event_time: null,
@@ -53,9 +53,9 @@ function parseTpvgStatus(raw) {
     { key: "odlazak", type: "odlazak" },
     { key: "dolazak", type: "dolazak" },
     { key: "prolazak", type: "prolazak" },
-    { key: "promjena sas", type: "promjena_sastava" },
+    { key: "promjena sas", type: "promjena sastava" },
     { key: "pretrasiran", type: "pretrasiran" },
-    { key: "raspušten", type: "raspusten" }
+    { key: "raspušten", type: "raspušten" }
   ];
 
   for (const ev of EVENT_KEYWORDS) {
