@@ -136,6 +136,14 @@ const statusMatch = html.match(/(Br\. vlaka[^<]+|nema podataka|izvan HŽ[^<]+)/i
 if (statusMatch) {
   statusText = statusMatch[0].trim();
 }
+
+// ako postoji red koji počinje s kolodvor (rasformiranje)
+const stationLine = html.match(/kolodvor\s+[A-ZČĆŽŠĐ\s-]+[^<]*/i);
+
+if (!statusMatch && stationLine) {
+  statusText = stationLine[0].trim();
+}
+    
     const parsedEvent = parseTpvgStatus(statusText);
 
     function getLastEventForUIC(uic, history) {
