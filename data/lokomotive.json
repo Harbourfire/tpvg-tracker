@@ -70,5 +70,32 @@
     "event_time": "2026-03-05T22:54:00",
     "seen_at": "2026-03-05T22:01:32.861Z",
     "raw": "Br. Vlaka 81284 odlazak      05.03.26. 22:54, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "nema podataka",
+    "station": null,
+    "train_number": null,
+    "event_time": null,
+    "seen_at": "2026-03-06T00:03:22.430Z",
+    "raw": "nema podataka"
+  },
+  {
+    "uic": "917811410179",
+    "type": "odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81291",
+    "event_time": "2026-03-06T00:59:00",
+    "seen_at": "2026-03-06T00:03:22.751Z",
+    "raw": "Br. Vlaka 81291 odlazak      06.03.26. 00:59, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820620189",
+    "type": "formiran",
+    "station": "VINKOVCI",
+    "train_number": "89151",
+    "event_time": "2026-03-06T00:09:00",
+    "seen_at": "2026-03-06T00:03:23.073Z",
+    "raw": "Br. Vlaka 89151 formiran     06.03.26. 00:09, kolodvor VINKOVCI"
   }
 ]
