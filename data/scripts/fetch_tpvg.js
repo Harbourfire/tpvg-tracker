@@ -101,7 +101,8 @@ function parseTpvgStatus(raw) {
 // 🔧 OVDJE UPISUJEŠ UIC BROJEVE
 const UIC_LIST = [
   "927820620171",
-  "927820440141"
+  "927820440141",
+  "927820620189"
 ];
 
 // učitaj postojeće podatke
