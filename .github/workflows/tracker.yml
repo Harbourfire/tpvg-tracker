@@ -3,7 +3,11 @@ name: TPVG Tracker
 on:
   schedule:
     - cron: "* * * * *"
+
   workflow_dispatch:
+
+  push:
+    branches: [ main ]
 
 jobs:
   run:
