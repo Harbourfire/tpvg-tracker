@@ -102,7 +102,8 @@ function parseTpvgStatus(raw) {
 const UIC_LIST = [
   "927820620171",
   "927820440141",
-  "927820620189"
+  "927820620189",
+  "927820620197"
 ];
 
 // učitaj postojeće podatke
