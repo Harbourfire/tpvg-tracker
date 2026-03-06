@@ -97,5 +97,32 @@
     "event_time": "2026-03-06T00:09:00",
     "seen_at": "2026-03-06T00:03:23.073Z",
     "raw": "Br. Vlaka 89151 formiran     06.03.26. 00:09, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81299",
+    "event_time": "2026-03-06T05:54:00",
+    "seen_at": "2026-03-06T05:02:01.659Z",
+    "raw": "Br. Vlaka 81299 odlazak      06.03.26. 05:54, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "917811410179",
+    "type": "dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "81291",
+    "event_time": "2026-03-06T04:57:00",
+    "seen_at": "2026-03-06T05:02:01.991Z",
+    "raw": "Br. Vlaka 81291 dolazak      06.03.26. 04:57, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "nema podataka",
+    "station": null,
+    "train_number": null,
+    "event_time": null,
+    "seen_at": "2026-03-06T05:02:02.242Z",
+    "raw": "nema podataka"
   }
 ]
