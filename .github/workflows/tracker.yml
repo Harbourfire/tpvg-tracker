@@ -31,3 +31,13 @@ jobs:
           git add data/lokomotive.json
           git commit -m "Update TPVG data" || echo "No changes"
           git push
+
+      - name: Trigger next run
+        run: |
+          curl -X POST \
+          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          -H "Accept: application/vnd.github.v3+json" \
+          https://api.github.com/repos/Harbourfire/tpvg-tracker/actions/workflows/tracker.yml/dispatches \
+          -d '{"ref":"main"}'
+
+          
