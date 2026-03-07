@@ -12,7 +12,7 @@ const finalStationMatch = clean.match(/Trenutna pozicija je u kolodvoru\s+(\d+)\
 
 if (finalStationMatch) {
   return {
-    type: "rasformiran",
+    type: "Rasformiran",
     station: finalStationMatch[2].trim(),
     train_number: null,
     event_time: headerTime || now,
@@ -24,7 +24,7 @@ if (finalStationMatch) {
   // 1) nema podataka
   if (/^nema podataka$/i.test(clean)) {
     return {
-      type: "nema podataka",
+      type: "Nema podataka",
       station: null,
       train_number: null,
       event_time: null,
@@ -37,7 +37,7 @@ if (finalStationMatch) {
   const outHzMatch = clean.match(/izvan HŽ\s+(\d+)/i);
   if (outHzMatch) {
     return {
-      type: "izvan HŽ",
+      type: "Izvan HŽ",
       station: outHzMatch[1],
       train_number: null,
       event_time: null,
@@ -62,13 +62,13 @@ if (finalStationMatch) {
 
   // 3) eksplicitni prometni događaji
   const EVENT_KEYWORDS = [
-    { key: "formiran", type: "formiran" },
+    { key: "formiran", type: "Formiran" },
     { key: "odlazak", type: "Odlazak" },
     { key: "dolazak", type: "Dolazak" },
-    { key: "prolazak", type: "prolazak" },
-    { key: "promjena sas", type: "promjena sastava" },
-    { key: "pretrasiran", type: "pretrasiran" },
-    { key: "raspušten", type: "raspušten" }
+    { key: "prolazak", type: "Prolazak" },
+    { key: "promjena sas", type: "Promjena sastava" },
+    { key: "pretrasiran", type: "Pretrasiran" },
+    { key: "raspušten", type: "Raspušten" }
   ];
 
   for (const ev of EVENT_KEYWORDS) {
@@ -88,8 +88,8 @@ if (finalStationMatch) {
   // ima datum + kolodvor, ali NEMA prometni glagol
   if (event_time && station) {
     return {
-      type: "stajanje",
-      interpreted_as: "rasformiran",
+      type: "Stajanje",
+      interpreted_as: "Rasformiran",
       station,
       train_number,
       event_time,
@@ -100,7 +100,7 @@ if (finalStationMatch) {
 
   // 5) fallback (za svaki nepoznati format)
   return {
-    type: "nepoznato",
+    type: "Nepoznato",
     station,
     train_number,
     event_time,
