@@ -181,12 +181,7 @@ const statusMatch = html.match(/(Br\. vlaka[^<]+|nema podataka|izvan HŽ[^<]+)/i
 if (statusMatch) {
   statusText = statusMatch[0].trim();
 }
-    // završetak vožnje (trenutna pozicija u kolodvoru)
-const finalMatch = html.match(/Trenutna pozicija je u kolodvoru\s+\d+\s+[A-ZČĆŽŠĐ\s-]+/i);
 
-if (!statusMatch && finalMatch) {
-  statusText = finalMatch[0].trim();
-}
 
 // završetak vožnje (trenutna pozicija u kolodvoru)
 const finalMatch = html.match(/Trenutna pozicija je u kolodvoru\s+\d+\s+[A-ZČĆŽŠĐ\s-]+/i);
