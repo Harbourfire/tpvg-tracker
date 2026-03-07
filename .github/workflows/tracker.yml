@@ -32,6 +32,9 @@ jobs:
           git commit -m "Update TPVG data" || echo "No changes"
           git push
 
+        - name: Wait 45 seconds
+          run: sleep 45
+
       - name: Trigger next run
         run: |
           curl -X POST \
