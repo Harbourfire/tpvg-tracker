@@ -63,8 +63,8 @@ if (finalStationMatch) {
   // 3) eksplicitni prometni događaji
   const EVENT_KEYWORDS = [
     { key: "formiran", type: "formiran" },
-    { key: "odlazak", type: "odlazak" },
-    { key: "dolazak", type: "dolazak" },
+    { key: "odlazak", type: "Odlazak" },
+    { key: "dolazak", type: "Dolazak" },
     { key: "prolazak", type: "prolazak" },
     { key: "promjena sas", type: "promjena sastava" },
     { key: "pretrasiran", type: "pretrasiran" },
