@@ -3,7 +3,7 @@ const https = require("https");
 
 
 
-function parseTpvgStatus(raw) {
+function parseTpvgStatus(raw, headerTime) {
   const now = new Date().toISOString();
 
   const clean = raw.trim();
@@ -15,7 +15,7 @@ if (finalStationMatch) {
     type: "rasformiran",
     station: finalStationMatch[2].trim(),
     train_number: null,
-    event_time: now,
+    event_time: headerTime || now,
     seen_at: now,
     raw: clean
   };
@@ -162,15 +162,37 @@ function fetchTPVG(uic) {
 (async () => {
   for (const uic of UIC_LIST) {
     const html = await fetchTPVG(uic);
+    // vrijeme iz TPVG zaglavlja (Tekuća evidencija)
+let headerTime = null;
+
+const headerTimeMatch = html.match(/(\d{2})\.(\d{2})\.(\d{2})\.\s*u\s*(\d{2}):(\d{2})/i);
+
+if (headerTimeMatch) {
+  const [_, d, m, y, hh, mm] = headerTimeMatch;
+  headerTime = `20${y}-${m}-${d}T${hh}:${mm}:00`;
+}
 
     // vrlo jednostavno parsiranje (kasnije možemo poboljšati)
     let statusText = "nema podataka";
 
-// pokušaj izvući cijeli red sa statusom
+// standardni prometni zapisi
 const statusMatch = html.match(/(Br\. vlaka[^<]+|nema podataka|izvan HŽ[^<]+)/i);
 
 if (statusMatch) {
   statusText = statusMatch[0].trim();
+}
+    // završetak vožnje (trenutna pozicija u kolodvoru)
+const finalMatch = html.match(/Trenutna pozicija je u kolodvoru\s+\d+\s+[A-ZČĆŽŠĐ\s-]+/i);
+
+if (!statusMatch && finalMatch) {
+  statusText = finalMatch[0].trim();
+}
+
+// završetak vožnje (trenutna pozicija u kolodvoru)
+const finalMatch = html.match(/Trenutna pozicija je u kolodvoru\s+\d+\s+[A-ZČĆŽŠĐ\s-]+/i);
+
+if (!statusMatch && finalMatch) {
+  statusText = finalMatch[0].trim();
 }
 
 // ako postoji red koji počinje s kolodvor (rasformiranje)
@@ -180,7 +202,7 @@ if (!statusMatch && stationLine) {
   statusText = stationLine[0].trim();
 }
     
-    const parsedEvent = parseTpvgStatus(statusText);
+    const parsedEvent = parseTpvgStatus(statusText, headerTime);
     if (parsedEvent.type === "nema podataka") continue;
 
     function getLastEventForUIC(uic, history) {
