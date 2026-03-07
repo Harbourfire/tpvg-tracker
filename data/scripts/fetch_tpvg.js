@@ -3,7 +3,8 @@ const https = require("https");
 
 // mapa šifri kolodvora
 const STATION_CODES = {
-  "72303": "Zagreb RK"
+  "72303": "Zagreb RK",
+  "72304": "Zagreb RK (PS)"
 };
 function translateStation(station) {
   if (!station) return station;
