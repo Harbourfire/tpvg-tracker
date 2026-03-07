@@ -174,7 +174,7 @@ if (headerTimeMatch) {
 }
 
     // vrlo jednostavno parsiranje (kasnije možemo poboljšati)
-    let statusText = "nema podataka";
+    let statusText = "Nema podataka";
 
 // standardni prometni zapisi
 const statusMatch = html.match(/(Br\. vlaka[^<]+|nema podataka|izvan HŽ[^<]+)/i);
