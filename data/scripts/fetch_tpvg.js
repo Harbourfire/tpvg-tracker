@@ -185,10 +185,10 @@ if (statusMatch) {
 
 
 // završetak vožnje (trenutna pozicija u kolodvoru)
-const finalMatch = html.match(/Trenutna pozicija je u kolodvoru\s+\d+\s+[A-ZČĆŽŠĐ\s-]+/i);
+const finalMatch = html.match(/>\s*(\d{4,6})\s+([A-ZČĆŽŠĐ\s-]+)\s*</);
 
 if (!statusMatch && finalMatch) {
-  statusText = finalMatch[0].trim();
+  statusText = `Trenutna pozicija je u kolodvoru ${finalMatch[1]} ${finalMatch[2]}`;
 }
 
 // ako postoji red koji počinje s kolodvor (rasformiranje)
