@@ -199,7 +199,7 @@ if (!statusMatch && stationLine) {
 }
     
     const parsedEvent = parseTpvgStatus(statusText, headerTime);
-    if (parsedEvent.type === "nema podataka") continue;
+    if (parsedEvent.type === "Nema podataka") continue;
 
     function getLastEventForUIC(uic, history) {
   for (let i = history.length - 1; i >= 0; i--) {
