@@ -1,7 +1,21 @@
 const fs = require("fs");
 const https = require("https");
 
+// mapa šifri kolodvora
+const STATION_CODES = {
+  "72303": "Zagreb RK"
+};
+function translateStation(station) {
+  if (!station) return station;
 
+  const s = station.trim();
+
+  if (STATION_CODES[s]) {
+    return STATION_CODES[s];
+  }
+
+  return station;
+}
 
 function parseTpvgStatus(raw, headerTime) {
   const now = new Date().toISOString();
@@ -58,7 +72,7 @@ if (finalStationMatch) {
   }
 
   const train_number = trainMatch ? trainMatch[1] : null;
-  const station = stationMatch ? stationMatch[1].trim() : null;
+  const station = stationMatch ? translateStation(stationMatch[1]) : null;
 
   // 3) eksplicitni prometni događaji
   const EVENT_KEYWORDS = [
