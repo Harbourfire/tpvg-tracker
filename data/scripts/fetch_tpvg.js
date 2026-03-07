@@ -23,12 +23,12 @@ function parseTpvgStatus(raw, headerTime) {
 
   const clean = raw.trim();
   // završetak vožnje (lokomotiva stoji u kolodvoru)
-const finalStationMatch = clean.match(/Trenutna pozicija je u kolodvoru\s+(\d+)\s+([A-ZČĆŽŠĐ\s-]+)/i);
+const finalStationMatch = clean.match(/Trenutna pozicija je u kolodvoru\s+(\d+)\s+([A-ZČĆŽŠĐ\s\d-]+)/i);
 
 if (finalStationMatch) {
   return {
     type: "Rasformiran",
-    station: finalStationMatch[2].trim(),
+    station: translateStation(finalStationMatch[2].trim()),
     train_number: null,
     event_time: headerTime || now,
     seen_at: now,
