@@ -34,7 +34,7 @@ function parseTpvgStatus(raw) {
   }
 
   // pomoćne regexe
-  const trainMatch = clean.match(/Br\. vlaka\s+(\d+)/i);
+  const trainMatch = clean.match(/Br\.?\s*vlaka\s*\.{0,2}\s*(\d{3,5})/i);
   const dateTimeMatch = clean.match(/(\d{2})\.(\d{2})\.(\d{2})\.\s+(\d{2}):(\d{2})/);
   const stationMatch = clean.match(/kolodvor\s+([A-ZČĆŽŠĐ\s-]+)/i);
 
