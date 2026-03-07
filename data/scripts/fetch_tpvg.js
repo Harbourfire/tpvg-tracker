@@ -7,6 +7,19 @@ function parseTpvgStatus(raw) {
   const now = new Date().toISOString();
 
   const clean = raw.trim();
+  // završetak vožnje (lokomotiva stoji u kolodvoru)
+const finalStationMatch = clean.match(/Trenutna pozicija je u kolodvoru\s+(\d+)\s+([A-ZČĆŽŠĐ\s-]+)/i);
+
+if (finalStationMatch) {
+  return {
+    type: "rasformiran",
+    station: finalStationMatch[2].trim(),
+    train_number: null,
+    event_time: now,
+    seen_at: now,
+    raw: clean
+  };
+}
 
   // 1) nema podataka
   if (/^nema podataka$/i.test(clean)) {
