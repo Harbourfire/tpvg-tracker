@@ -3860,5 +3860,41 @@
     "event_time": "2026-03-08T19:43:00",
     "seen_at": "2026-03-08T18:45:01.303Z",
     "raw": "Br. Vlaka 81254 dolazak      08.03.26. 19:43, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "KRIŽEVCI",
+    "train_number": null,
+    "event_time": "2026-03-08T14:00:00",
+    "seen_at": "2026-03-08T18:51:47.671Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Promjena sastava",
+    "station": "KRIŽEVCI",
+    "train_number": "89871",
+    "event_time": "2026-03-08T19:05:00",
+    "seen_at": "2026-03-08T18:51:49.793Z",
+    "raw": "Br. Vlaka 89871 promjena sas 08.03.26. 19:05, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Promjena sastava",
+    "station": "KRIŽEVCI",
+    "train_number": "89871",
+    "event_time": "2026-03-08T19:05:00",
+    "seen_at": "2026-03-08T18:51:50.290Z",
+    "raw": "Br. Vlaka 89871 promjena sas 08.03.26. 19:05, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "957870230084",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "3409",
+    "event_time": "2026-03-08T17:03:00",
+    "seen_at": "2026-03-08T18:51:51.465Z",
+    "raw": "Br. Vlaka .3409 formiran     08.03.26. 17:03, kolodvor ČAKOVEC"
   }
 ]
