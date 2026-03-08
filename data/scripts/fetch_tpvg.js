@@ -3,19 +3,20 @@ const https = require("https");
 
 // mapa šifri kolodvora
 const STATION_CODES = {
-  "72303": "Zagreb RK",
-  "72304": "Zagreb RK (PS)"
+  "72303": "ZAGREB RK",
+  "72304": "Zagreb RK (PS)",
+  "ZAGREB ZAP": "ZAGREB ZAPADNI"
 };
 function translateStation(station) {
   if (!station) return station;
 
-  const s = station.trim();
+  const s = station.trim().toUpperCase();
 
   if (STATION_CODES[s]) {
     return STATION_CODES[s];
   }
 
-  return station;
+  return s;
 }
 
 function parseTpvgStatus(raw, headerTime) {
