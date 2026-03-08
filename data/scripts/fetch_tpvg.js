@@ -64,7 +64,7 @@ if (finalStationMatch) {
   // pomoćne regexe
   const trainMatch = clean.match(/Br\.?\s*vlaka\s*\.{0,2}\s*(\d{3,5})/i);
   const dateTimeMatch = clean.match(/(\d{2})\.(\d{2})\.(\d{2})\.\s+(\d{2}):(\d{2})/);
-  const stationMatch = clean.match(/kolodvor\s+([A-ZČĆŽŠĐ0-9\s-]+)/i);
+  const stationMatch = clean.match(/kolodvor\s+([A-ZČĆŽŠĐ0-9\s.\-]+)/i);
 
   let event_time = null;
   if (dateTimeMatch) {
@@ -80,7 +80,7 @@ if (finalStationMatch) {
     { key: "formiran", type: "Formiran" },
     { key: "odlazak", type: "Odlazak" },
     { key: "dolazak", type: "Dolazak" },
-    { key: "prolazak", type: "Prolazak" },
+    { key: "prolazak", type: "Odlazak" },
     { key: "promjena sas", type: "Promjena sastava" },
     { key: "pretrasiran", type: "Pretrasiran" },
     { key: "raspušten", type: "Raspušten" }
@@ -103,7 +103,7 @@ if (finalStationMatch) {
   // ima datum + kolodvor, ali NEMA prometni glagol
   if (event_time && station) {
     return {
-      type: "Stajanje",
+      type: "Dolazak",
       interpreted_as: "Rasformiran",
       station,
       train_number,
@@ -201,14 +201,14 @@ if (statusMatch) {
 
 
 // završetak vožnje (trenutna pozicija u kolodvoru)
-const finalMatch = html.match(/>\s*(\d{4,6})\s+([A-ZČĆŽŠĐ0-9\s-]+)\s*</);
+const finalMatch = html.match(/>\s*(\d{4,6})\s+([A-ZČĆŽŠĐ0-9\s.\-]+)\s*</);
 
 if (!statusMatch && finalMatch) {
   statusText = `Trenutna pozicija je u kolodvoru ${finalMatch[1]} ${finalMatch[2]}`;
 }
 
 // ako postoji red koji počinje s kolodvor (rasformiranje)
-const stationLine = html.match(/kolodvor\s+[A-ZČĆŽŠĐ0-9\s-]+[^<]*/i);
+const stationLine = html.match(/kolodvor\s+[A-ZČĆŽŠĐ0-9\s.\-]+[^<]*/i);
 
 if (!statusMatch && stationLine) {
   statusText = stationLine[0].trim();
