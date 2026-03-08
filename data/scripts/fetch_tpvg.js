@@ -5,7 +5,9 @@ const https = require("https");
 const STATION_CODES = {
   "72303": "ZAGREB RK",
   "72304": "ZAGREB RK (PS)",
-  "ZAGREB ZAP": "ZAGREB ZAPADNI"
+  "ZAGREB ZAP": "ZAGREB ZAPADNI",
+  "72302": "ZAGREB ŽITNJAK",
+  "73164": "NOVO DRNJE"
 };
 function translateStation(station) {
   if (!station) return station;
