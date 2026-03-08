@@ -33,7 +33,7 @@ jobs:
           git push
 
       - name: Wait 30 seconds
-        run: sleep 20
+        run: sleep 22
 
       - name: Trigger next run
         run: |
