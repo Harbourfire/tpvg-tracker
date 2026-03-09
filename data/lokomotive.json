@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "formiran",
-    "station": "PLAŠKI",
-    "train_number": "82189",
-    "event_time": "2026-03-06T11:58:00",
-    "seen_at": "2026-03-06T19:54:02.362Z",
-    "raw": "Br. Vlaka 82189 formiran     06.03.26. 11:58, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
     "type": "odlazak",
     "station": "PLAŠKI",
     "train_number": "82189",
@@ -7424,5 +7415,23 @@
     "event_time": "2026-03-09T20:44:00",
     "seen_at": "2026-03-09T19:53:46.566Z",
     "raw": "Br. Vlaka 89126 odlazak      09.03.26. 20:44, kolodvor 72302"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK",
+    "train_number": null,
+    "event_time": "2026-03-09T20:52:00",
+    "seen_at": "2026-03-09T19:54:23.756Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK",
+    "train_number": null,
+    "event_time": "2026-03-09T20:52:00",
+    "seen_at": "2026-03-09T19:54:24.190Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
