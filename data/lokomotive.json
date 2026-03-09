@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "odlazak",
-    "station": "BLATA",
-    "train_number": "82189",
-    "event_time": "2026-03-06T21:24:00",
-    "seen_at": "2026-03-06T20:24:55.089Z",
-    "raw": "Br. Vlaka 82189 odlazak      06.03.26. 21:24, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "82189",
     "event_time": "2026-03-06T21:35:00",
@@ -7595,5 +7586,14 @@
     "event_time": "2026-03-09T21:21:00",
     "seen_at": "2026-03-09T20:22:01.276Z",
     "raw": "Br. Vlaka 29219 formiran     09.03.26. 21:21, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69326",
+    "event_time": "2026-03-09T21:24:00",
+    "seen_at": "2026-03-09T20:25:12.755Z",
+    "raw": "Br. Vlaka 69326 odlazak      09.03.26. 21:24, kolodvor ORIOVAC"
   }
 ]
