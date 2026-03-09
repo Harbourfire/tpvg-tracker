@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "dolazak",
-    "station": "PLAŠKI",
-    "train_number": "89770",
-    "event_time": "2026-03-06T20:53:00",
-    "seen_at": "2026-03-06T19:53:28.251Z",
-    "raw": "Br. Vlaka 89770 dolazak      06.03.26. 20:53, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
     "type": "formiran",
     "station": "PLAŠKI",
     "train_number": "82189",
@@ -7415,5 +7406,23 @@
     "event_time": "2026-03-09T20:44:00",
     "seen_at": "2026-03-09T19:46:58.192Z",
     "raw": "Br. Vlaka .5546 odlazak      09.03.26. 20:44, kolodvor KAŠTEL SUĆURAC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89126",
+    "event_time": "2026-03-09T20:44:00",
+    "seen_at": "2026-03-09T19:53:46.054Z",
+    "raw": "Br. Vlaka 89126 odlazak      09.03.26. 20:44, kolodvor 72302"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89126",
+    "event_time": "2026-03-09T20:44:00",
+    "seen_at": "2026-03-09T19:53:46.566Z",
+    "raw": "Br. Vlaka 89126 odlazak      09.03.26. 20:44, kolodvor 72302"
   }
 ]
