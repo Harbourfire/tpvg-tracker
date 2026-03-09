@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "89770",
-    "event_time": "2026-03-06T20:30:00",
-    "seen_at": "2026-03-06T19:35:42.976Z",
-    "raw": "Br. Vlaka 89770 odlazak      06.03.26. 20:30, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "odlazak",
     "station": "BLATA",
     "train_number": "89770",
     "event_time": "2026-03-06T20:41:00",
@@ -7379,5 +7370,14 @@
     "event_time": "2026-03-09T20:29:00",
     "seen_at": "2026-03-09T19:30:35.893Z",
     "raw": "Br. Vlaka .5546 odlazak      09.03.26. 20:29, kolodvor SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-03-09T20:33:00",
+    "seen_at": "2026-03-09T19:36:14.515Z",
+    "raw": "Br. Vlaka 61004 dolazak      09.03.26. 20:33, kolodvor OSIJEK"
   }
 ]
