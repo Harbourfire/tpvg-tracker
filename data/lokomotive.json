@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "formiran",
-    "station": "VINKOVCI",
-    "train_number": "45100",
-    "event_time": "2026-03-06T22:42:00",
-    "seen_at": "2026-03-06T22:21:41.242Z",
-    "raw": "Br. Vlaka 45100 formiran     06.03.26. 22:42, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "odlazak",
     "station": "GOSPIĆ",
@@ -8117,5 +8108,23 @@
     "event_time": "2026-03-09T23:17:00",
     "seen_at": "2026-03-09T22:21:15.335Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48982",
+    "event_time": "2026-03-09T23:21:00",
+    "seen_at": "2026-03-09T22:21:57.106Z",
+    "raw": "Br. Vlaka 48982 odlazak      09.03.26. 23:21, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48982",
+    "event_time": "2026-03-09T23:21:00",
+    "seen_at": "2026-03-09T22:21:57.620Z",
+    "raw": "Br. Vlaka 48982 odlazak      09.03.26. 23:21, kolodvor KRIŽEVCI"
   }
 ]
