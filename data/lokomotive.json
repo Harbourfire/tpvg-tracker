@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81135",
-    "event_time": "2026-03-06T22:31:00",
-    "seen_at": "2026-03-06T21:32:11.543Z",
-    "raw": "Br. Vlaka 81135 odlazak      06.03.26. 22:31, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "81135",
     "event_time": "2026-03-06T22:45:00",
@@ -7973,5 +7964,14 @@
     "event_time": "2026-03-09T22:30:00",
     "seen_at": "2026-03-09T21:31:02.246Z",
     "raw": "Br. Vlaka 29083 odlazak      09.03.26. 22:30, kolodvor KAŠTEL STARI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "89255",
+    "event_time": "2026-03-09T22:31:00",
+    "seen_at": "2026-03-09T21:32:16.473Z",
+    "raw": "Br. Vlaka 89255 odlazak      09.03.26. 22:31, kolodvor ZAGREB ZAP. KOL."
   }
 ]
