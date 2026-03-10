@@ -1,113 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44994",
-    "event_time": "2026-03-07T10:26:00",
-    "seen_at": "2026-03-07T09:28:57.869Z",
-    "raw": "Br. Vlaka 44994 odlazak      07.03.26. 10:26, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69352",
-    "event_time": "2026-03-07T10:28:00",
-    "seen_at": "2026-03-07T09:29:27.773Z",
-    "raw": "Br. Vlaka 69352 odlazak      07.03.26. 10:28, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44994",
-    "event_time": "2026-03-07T10:32:00",
-    "seen_at": "2026-03-07T09:37:42.675Z",
-    "raw": "Br. Vlaka 44994 dolazak      07.03.26. 10:32, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "89921",
-    "event_time": "2026-03-07T10:05:00",
-    "seen_at": "2026-03-07T09:38:46.910Z",
-    "raw": "Br. Vlaka 89921 formiran     07.03.26. 10:05, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "odlazak",
-    "station": "IVANKOVO",
-    "train_number": "69352",
-    "event_time": "2026-03-07T10:37:00",
-    "seen_at": "2026-03-07T09:39:41.688Z",
-    "raw": "Br. Vlaka 69352 odlazak      07.03.26. 10:37, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "promjena sastava",
-    "station": "KOTORIBA-GR",
-    "train_number": "44994",
-    "event_time": "2026-03-07T10:32:00",
-    "seen_at": "2026-03-07T09:40:52.479Z",
-    "raw": "Br. Vlaka 44994 promjena sas 07.03.26. 10:32, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "89921",
-    "event_time": "2026-03-07T10:05:00",
-    "seen_at": "2026-03-07T09:42:43.441Z",
-    "raw": "Br. Vlaka 89921 formiran     07.03.26. 10:05, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "ČAČINCI",
-    "train_number": "781",
-    "event_time": "2026-03-07T10:43:00",
-    "seen_at": "2026-03-07T09:44:24.533Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 10:43, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "69352",
-    "event_time": "2026-03-07T10:45:00",
-    "seen_at": "2026-03-07T09:45:25.799Z",
-    "raw": "Br. Vlaka 69352 odlazak      07.03.26. 10:45, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "781",
-    "event_time": "2026-03-07T10:52:00",
-    "seen_at": "2026-03-07T09:53:23.340Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 10:52, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69352",
-    "event_time": "2026-03-07T10:52:00",
-    "seen_at": "2026-03-07T09:54:16.515Z",
-    "raw": "Br. Vlaka 69352 odlazak      07.03.26. 10:52, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "69352",
-    "event_time": "2026-03-07T10:59:00",
-    "seen_at": "2026-03-07T10:00:44.139Z",
-    "raw": "Br. Vlaka 69352 odlazak      07.03.26. 10:59, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "odlazak",
     "station": "GARČIN",
@@ -9089,5 +8981,32 @@
     "event_time": "2026-03-10T10:19:00",
     "seen_at": "2026-03-10T09:24:57.713Z",
     "raw": "Br. Vlaka 89753 odlazak      10.03.26. 10:19, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VUKOVAR",
+    "train_number": null,
+    "event_time": "2026-03-10T10:22:00",
+    "seen_at": "2026-03-10T10:02:32.208Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
+  },
+  {
+    "uic": "957871220258",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "6207",
+    "event_time": "2026-03-10T10:48:00",
+    "seen_at": "2026-03-10T10:02:37.068Z",
+    "raw": "Br. Vlaka .6207 odlazak      10.03.26. 10:48, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89217",
+    "event_time": "2026-03-10T10:58:00",
+    "seen_at": "2026-03-10T10:02:37.306Z",
+    "raw": "Br. Vlaka 89217 odlazak      10.03.26. 10:58, kolodvor ZAGREB KLARA"
   }
 ]
