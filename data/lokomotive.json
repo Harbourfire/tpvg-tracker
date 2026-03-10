@@ -1,87 +1,6 @@
 [
   {
     "uic": "957870230084",
-    "type": "Dolazak",
-    "station": "KOŠKA",
-    "train_number": "780",
-    "event_time": "2026-03-07T17:15:00",
-    "seen_at": "2026-03-07T16:17:40.360Z",
-    "raw": "Br. Vlaka ..780 dolazak      07.03.26. 17:15, kolodvor KOŠKA"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "780",
-    "event_time": "2026-03-07T17:15:00",
-    "seen_at": "2026-03-07T16:18:15.135Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 17:15, kolodvor KOŠKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81254",
-    "event_time": "2026-03-07T17:22:00",
-    "seen_at": "2026-03-07T16:22:56.398Z",
-    "raw": "Br. Vlaka 81254 dolazak      07.03.26. 17:22, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "NAŠICE",
-    "train_number": "780",
-    "event_time": "2026-03-07T17:32:00",
-    "seen_at": "2026-03-07T16:37:41.575Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 17:32, kolodvor NAŠICE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81254",
-    "event_time": "2026-03-07T17:37:00",
-    "seen_at": "2026-03-07T16:41:32.311Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 17:37, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Dolazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "780",
-    "event_time": "2026-03-07T17:47:00",
-    "seen_at": "2026-03-07T16:49:25.576Z",
-    "raw": "Br. Vlaka ..780 dolazak      07.03.26. 17:47, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81254",
-    "event_time": "2026-03-07T17:53:00",
-    "seen_at": "2026-03-07T16:55:09.671Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 17:53, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "780",
-    "event_time": "2026-03-07T17:57:00",
-    "seen_at": "2026-03-07T17:00:16.852Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 17:57, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81254",
-    "event_time": "2026-03-07T18:07:00",
-    "seen_at": "2026-03-07T17:08:32.667Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 18:07, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "957870230084",
     "type": "Odlazak",
     "station": "ZDENCI-ORAHOVICA",
     "train_number": "780",
@@ -8675,5 +8594,41 @@
     "event_time": "2026-03-10T17:10:00",
     "seen_at": "2026-03-10T16:11:13.719Z",
     "raw": "Br. Vlaka 81114 formiran     10.03.26. 17:10, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-10T12:11:00",
+    "seen_at": "2026-03-10T17:13:04.414Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Rasformiran",
+    "station": "SPLIT",
+    "train_number": null,
+    "event_time": "2026-03-10T17:30:00",
+    "seen_at": "2026-03-10T17:13:04.416Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76660 SPLIT"
+  },
+  {
+    "uic": "957871220258",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-10T18:05:00",
+    "seen_at": "2026-03-10T17:13:04.416Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "81114",
+    "event_time": "2026-03-10T18:07:00",
+    "seen_at": "2026-03-10T17:13:04.416Z",
+    "raw": "Br. Vlaka 81114 odlazak      10.03.26. 18:07, kolodvor ZDENČINA"
   }
 ]
