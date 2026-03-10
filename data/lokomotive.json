@@ -223,5 +223,23 @@
     "event_time": "2026-03-11T00:05:00",
     "seen_at": "2026-03-10T23:06:09.780Z",
     "raw": "Br. Vlaka 45100 odlazak      11.03.26. 00:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45100",
+    "event_time": "2026-03-11T00:54:00",
+    "seen_at": "2026-03-10T23:55:37.897Z",
+    "raw": "Br. Vlaka 45100 dolazak      11.03.26. 00:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-11T00:54:00",
+    "seen_at": "2026-03-10T23:55:59.184Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
