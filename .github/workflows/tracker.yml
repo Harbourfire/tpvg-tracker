@@ -17,18 +17,38 @@ jobs:
         with:
           node-version: 20
 
-      - name: Run tracker loop
-        run: |
-          for i in {1..4}
-          do
-            node data/scripts/fetch_tpvg.js
-            sleep 15
-          done
+      # 1. provjera
+      - name: Check TPVG (1)
+        run: node data/scripts/fetch_tpvg.js
 
-      - name: Commit data
+      - name: Commit (1)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git add data/lokomotive.json
+          git commit -m "Update TPVG data" || echo "No changes"
+          git push
+
+      - run: sleep 20
+
+      # 2. provjera
+      - name: Check TPVG (2)
+        run: node data/scripts/fetch_tpvg.js
+
+      - name: Commit (2)
+        run: |
+          git add data/lokomotive.json
+          git commit -m "Update TPVG data" || echo "No changes"
+          git push
+
+      - run: sleep 20
+
+      # 3. provjera
+      - name: Check TPVG (3)
+        run: node data/scripts/fetch_tpvg.js
+
+      - name: Commit (3)
+        run: |
           git add data/lokomotive.json
           git commit -m "Update TPVG data" || echo "No changes"
           git push
