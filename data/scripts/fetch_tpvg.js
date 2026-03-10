@@ -180,12 +180,21 @@ function fetchTPVG(uic) {
 }
 
 (async () => {
-  const results = await Promise.all(
-  UIC_LIST.map(async (uic) => {
-    const html = await fetchTPVG(uic);
-    return { uic, html };
-  })
-);
+  const BATCH_SIZE = 10;
+let results = [];
+
+for (let i = 0; i < UIC_LIST.length; i += BATCH_SIZE) {
+  const batch = UIC_LIST.slice(i, i + BATCH_SIZE);
+
+  const batchResults = await Promise.all(
+    batch.map(async (uic) => {
+      const html = await fetchTPVG(uic);
+      return { uic, html };
+    })
+  );
+
+  results = results.concat(batchResults);
+}
 
 for (const { uic, html } of results) {
     // vrijeme iz TPVG zaglavlja (Tekuća evidencija)
