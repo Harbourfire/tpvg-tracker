@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "odlazak",
-    "station": "MEDAK",
-    "train_number": "82527",
-    "event_time": "2026-03-07T08:06:00",
-    "seen_at": "2026-03-07T07:06:38.671Z",
-    "raw": "Br. Vlaka 82527 odlazak      07.03.26. 08:06, kolodvor MEDAK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "odlazak",
     "station": "LOVINAC",
     "train_number": "82527",
     "event_time": "2026-03-07T08:17:00",
@@ -8900,5 +8891,14 @@
     "event_time": "2026-03-10T07:09:00",
     "seen_at": "2026-03-10T07:05:42.544Z",
     "raw": "Br. Vlaka .6205 formiran     10.03.26. 07:09, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "49826",
+    "event_time": "2026-03-10T08:06:00",
+    "seen_at": "2026-03-10T07:06:50.566Z",
+    "raw": "Br. Vlaka 49826 formiran     10.03.26. 08:06, kolodvor VINKOVCI"
   }
 ]
