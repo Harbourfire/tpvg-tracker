@@ -168,14 +168,23 @@ try {
 }
 
 function fetchTPVG(uic) {
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     const url = `https://tpvg.hzinfra.hr:7777/?vag=${uic}`;
 
-    https.get(url, (res) => {
+    const req = https.get(url, (res) => {
       let data = "";
+
       res.on("data", chunk => data += chunk);
       res.on("end", () => resolve(data));
-    }).on("error", reject);
+    });
+
+    // timeout 8 sekundi
+    req.setTimeout(8000, () => {
+      req.destroy();
+      resolve("");
+    });
+
+    req.on("error", () => resolve(""));
   });
 }
 
