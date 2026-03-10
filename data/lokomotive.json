@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "dolazak",
-    "station": "KNIN",
-    "train_number": "82527",
-    "event_time": "2026-03-07T09:40:00",
-    "seen_at": "2026-03-07T08:43:13.181Z",
-    "raw": "Br. Vlaka 82527 dolazak      07.03.26. 09:40, kolodvor KNIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44994",
-    "event_time": "2026-03-07T09:55:00",
-    "seen_at": "2026-03-07T08:55:13.263Z",
-    "raw": "Br. Vlaka 44994 odlazak      07.03.26. 09:55, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620189",
-    "type": "formiran",
-    "station": "VINKOVCI",
-    "train_number": "69352",
-    "event_time": "2026-03-07T08:22:00",
-    "seen_at": "2026-03-07T08:56:22.333Z",
-    "raw": "Br. Vlaka 69352 formiran     07.03.26. 08:22, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820622037",
     "type": "odlazak",
     "station": "MALA SUBOTICA",
@@ -9053,5 +9026,41 @@
     "event_time": "2026-03-10T09:17:00",
     "seen_at": "2026-03-10T08:21:40.787Z",
     "raw": "Br. Vlaka .5527 odlazak      10.03.26. 09:17, kolodvor KAŠTEL SUĆURAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "89753",
+    "event_time": "2026-03-10T09:50:00",
+    "seen_at": "2026-03-10T09:04:10.384Z",
+    "raw": "Br. Vlaka 89753 odlazak      10.03.26. 09:50, kolodvor DALJ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-03-10T09:36:00",
+    "seen_at": "2026-03-10T09:04:13.905Z",
+    "raw": "Br. Vlaka 48799 dolazak      10.03.26. 09:36, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Odlazak",
+    "station": "SPLIT PREDGRAĐE",
+    "train_number": "5527",
+    "event_time": "2026-03-10T09:30:00",
+    "seen_at": "2026-03-10T09:04:15.783Z",
+    "raw": "Br. Vlaka .5527 odlazak      10.03.26. 09:30, kolodvor SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Formiran",
+    "station": "ZAGREB RK",
+    "train_number": "89217",
+    "event_time": "2026-03-10T09:42:00",
+    "seen_at": "2026-03-10T09:04:16.335Z",
+    "raw": "Br. Vlaka 89217 formiran     10.03.26. 09:42, kolodvor 72303"
   }
 ]
