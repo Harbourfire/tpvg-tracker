@@ -1,14 +1,5 @@
 [
   {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "SLATINA",
-    "train_number": null,
-    "event_time": "2026-03-07T10:20:00",
-    "seen_at": "2026-03-07T09:25:16.783Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 10:20, kolodvor SLATINA"
-  },
-  {
     "uic": "927820622037",
     "type": "odlazak",
     "station": "KOTORIBA",
@@ -9071,5 +9062,32 @@
     "event_time": "2026-03-10T09:38:00",
     "seen_at": "2026-03-10T09:20:52.020Z",
     "raw": "Br. Vlaka 29076 odlazak      10.03.26. 09:38, kolodvor SPLIT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "89753",
+    "event_time": "2026-03-10T10:17:00",
+    "seen_at": "2026-03-10T09:24:13.822Z",
+    "raw": "Br. Vlaka 89753 dolazak      10.03.26. 10:17, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "957870230043",
+    "type": "Rasformiran",
+    "station": "SPLIT PREDGRAĐE",
+    "train_number": null,
+    "event_time": "2026-03-10T09:42:00",
+    "seen_at": "2026-03-10T09:24:19.278Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76661 SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "89753",
+    "event_time": "2026-03-10T10:19:00",
+    "seen_at": "2026-03-10T09:24:57.713Z",
+    "raw": "Br. Vlaka 89753 odlazak      10.03.26. 10:19, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
