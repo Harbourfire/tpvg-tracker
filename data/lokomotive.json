@@ -1,113 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T15:37:00",
-    "seen_at": "2026-03-07T14:39:40.190Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 15:37, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PAĐENE",
-    "train_number": "81254",
-    "event_time": "2026-03-07T15:47:00",
-    "seen_at": "2026-03-07T14:48:41.565Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 15:47, kolodvor PAĐENE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T15:44:00",
-    "seen_at": "2026-03-07T14:51:31.001Z",
-    "raw": "Br. Vlaka 89921 dolazak      07.03.26. 15:44, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T15:49:00",
-    "seen_at": "2026-03-07T14:55:20.561Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 15:49, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "81254",
-    "event_time": "2026-03-07T15:54:00",
-    "seen_at": "2026-03-07T14:55:51.058Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 15:54, kolodvor PLAVNO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T15:56:00",
-    "seen_at": "2026-03-07T15:00:50.957Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 15:56, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZRMANJA",
-    "train_number": "81254",
-    "event_time": "2026-03-07T16:11:00",
-    "seen_at": "2026-03-07T15:12:47.632Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 16:11, kolodvor ZRMANJA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-03-07T16:10:00",
-    "seen_at": "2026-03-07T15:15:01.330Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "780",
-    "event_time": "2026-03-07T16:18:00",
-    "seen_at": "2026-03-07T15:21:19.419Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 16:18, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "81254",
-    "event_time": "2026-03-07T16:22:00",
-    "seen_at": "2026-03-07T15:23:31.736Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 16:22, kolodvor MALOVAN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GRAČAC",
-    "train_number": "81254",
-    "event_time": "2026-03-07T16:38:00",
-    "seen_at": "2026-03-07T15:39:18.854Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 16:38, kolodvor GRAČAC"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "780",
-    "event_time": "2026-03-07T16:37:00",
-    "seen_at": "2026-03-07T15:41:45.343Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 16:37, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "LOVINAC",
@@ -8684,5 +8576,77 @@
     "event_time": "2026-03-10T15:32:00",
     "seen_at": "2026-03-10T14:32:40.485Z",
     "raw": "Br. Vlaka 89169 odlazak      10.03.26. 15:32, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "47985",
+    "event_time": "2026-03-10T11:18:00",
+    "seen_at": "2026-03-10T15:50:41.860Z",
+    "raw": "Br. Vlaka 47985 promjena sas 10.03.26. 11:18, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-10T16:32:00",
+    "seen_at": "2026-03-10T15:50:43.982Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-10T16:09:00",
+    "seen_at": "2026-03-10T15:50:44.916Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-10T16:07:00",
+    "seen_at": "2026-03-10T15:50:46.311Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "957870230084",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "3316",
+    "event_time": "2026-03-10T16:15:00",
+    "seen_at": "2026-03-10T15:50:47.020Z",
+    "raw": "Br. Vlaka .3316 formiran     10.03.26. 16:15, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Formiran",
+    "station": "KAŠTEL STARI",
+    "train_number": "5543",
+    "event_time": "2026-03-10T15:55:00",
+    "seen_at": "2026-03-10T15:50:47.299Z",
+    "raw": "Br. Vlaka .5543 formiran     10.03.26. 15:55, kolodvor KAŠTEL STARI"
+  },
+  {
+    "uic": "957871220258",
+    "type": "Odlazak",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "6322",
+    "event_time": "2026-03-10T16:44:00",
+    "seen_at": "2026-03-10T15:50:47.581Z",
+    "raw": "Br. Vlaka .6322 odlazak      10.03.26. 16:44, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": null,
+    "event_time": "2026-03-10T16:14:00",
+    "seen_at": "2026-03-10T15:50:47.812Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
   }
 ]
