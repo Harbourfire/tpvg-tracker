@@ -180,8 +180,14 @@ function fetchTPVG(uic) {
 }
 
 (async () => {
-  for (const uic of UIC_LIST) {
+  const results = await Promise.all(
+  UIC_LIST.map(async (uic) => {
     const html = await fetchTPVG(uic);
+    return { uic, html };
+  })
+);
+
+for (const { uic, html } of results) {
     // vrijeme iz TPVG zaglavlja (Tekuća evidencija)
 let headerTime = null;
 
