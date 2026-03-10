@@ -1,231 +1,6 @@
 [
   {
     "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SPLIT",
-    "train_number": "5546",
-    "event_time": "2026-03-07T20:24:00",
-    "seen_at": "2026-03-07T19:27:47.451Z",
-    "raw": "Br. Vlaka .5546 odlazak      07.03.26. 20:24, kolodvor SPLIT"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "5546",
-    "event_time": "2026-03-07T20:29:00",
-    "seen_at": "2026-03-07T19:31:16.114Z",
-    "raw": "Br. Vlaka .5546 odlazak      07.03.26. 20:29, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "BREGI",
-    "train_number": "780",
-    "event_time": "2026-03-07T20:32:00",
-    "seen_at": "2026-03-07T19:34:03.697Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 20:32, kolodvor BREGI"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SOLIN",
-    "train_number": "5546",
-    "event_time": "2026-03-07T20:38:00",
-    "seen_at": "2026-03-07T19:38:39.111Z",
-    "raw": "Br. Vlaka .5546 odlazak      07.03.26. 20:38, kolodvor SOLIN"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "780",
-    "event_time": "2026-03-07T20:42:00",
-    "seen_at": "2026-03-07T19:43:42.025Z",
-    "raw": "Br. Vlaka ..780 dolazak      07.03.26. 20:42, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "KAŠTEL SUĆURAC",
-    "train_number": "5546",
-    "event_time": "2026-03-07T20:44:00",
-    "seen_at": "2026-03-07T19:45:23.220Z",
-    "raw": "Br. Vlaka .5546 odlazak      07.03.26. 20:44, kolodvor KAŠTEL SUĆURAC"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "780",
-    "event_time": "2026-03-07T20:45:00",
-    "seen_at": "2026-03-07T19:47:10.159Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 20:45, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Rasformiran",
-    "station": "KAŠTEL STARI",
-    "train_number": null,
-    "event_time": "2026-03-07T20:55:00",
-    "seen_at": "2026-03-07T19:55:33.433Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76508 KAŠTEL STARI"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Formiran",
-    "station": "KAŠTEL STARI",
-    "train_number": "5549",
-    "event_time": "2026-03-07T17:35:00",
-    "seen_at": "2026-03-07T19:56:10.204Z",
-    "raw": "Br. Vlaka .5549 formiran     07.03.26. 17:35, kolodvor KAŠTEL STARI"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "780",
-    "event_time": "2026-03-07T20:56:00",
-    "seen_at": "2026-03-07T19:57:15.857Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 20:56, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "KAŠTEL STARI",
-    "train_number": "5549",
-    "event_time": "2026-03-07T21:01:00",
-    "seen_at": "2026-03-07T20:01:45.667Z",
-    "raw": "Br. Vlaka .5549 odlazak      07.03.26. 21:01, kolodvor KAŠTEL STARI"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "780",
-    "event_time": "2026-03-07T21:03:00",
-    "seen_at": "2026-03-07T20:04:35.795Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 21:03, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "KAŠTEL SUĆURAC",
-    "train_number": "5549",
-    "event_time": "2026-03-07T21:13:00",
-    "seen_at": "2026-03-07T20:14:04.483Z",
-    "raw": "Br. Vlaka .5549 odlazak      07.03.26. 21:13, kolodvor KAŠTEL SUĆURAC"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Dolazak",
-    "station": "SOLIN",
-    "train_number": "5549",
-    "event_time": "2026-03-07T21:18:00",
-    "seen_at": "2026-03-07T20:19:39.642Z",
-    "raw": "Br. Vlaka .5549 dolazak      07.03.26. 21:18, kolodvor SOLIN"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SOLIN",
-    "train_number": "5549",
-    "event_time": "2026-03-07T21:19:00",
-    "seen_at": "2026-03-07T20:20:14.501Z",
-    "raw": "Br. Vlaka .5549 odlazak      07.03.26. 21:19, kolodvor SOLIN"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "780",
-    "event_time": "2026-03-07T21:21:00",
-    "seen_at": "2026-03-07T20:21:23.412Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 21:21, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "780",
-    "event_time": "2026-03-07T21:28:00",
-    "seen_at": "2026-03-07T20:29:09.099Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 21:28, kolodvor GRADEC"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "5549",
-    "event_time": "2026-03-07T21:27:00",
-    "seen_at": "2026-03-07T20:29:09.367Z",
-    "raw": "Br. Vlaka .5549 odlazak      07.03.26. 21:27, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Dolazak",
-    "station": "SPLIT",
-    "train_number": "5549",
-    "event_time": "2026-03-07T21:31:00",
-    "seen_at": "2026-03-07T20:31:59.992Z",
-    "raw": "Br. Vlaka .5549 dolazak      07.03.26. 21:31, kolodvor SPLIT"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Rasformiran",
-    "station": "SPLIT",
-    "train_number": null,
-    "event_time": "2026-03-07T21:31:00",
-    "seen_at": "2026-03-07T20:33:42.936Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76660 SPLIT"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Formiran",
-    "station": "SPLIT",
-    "train_number": "29088",
-    "event_time": "2026-03-07T17:35:00",
-    "seen_at": "2026-03-07T20:34:17.363Z",
-    "raw": "Br. Vlaka 29088 formiran     07.03.26. 17:35, kolodvor SPLIT"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SPLIT",
-    "train_number": "29088",
-    "event_time": "2026-03-07T21:32:00",
-    "seen_at": "2026-03-07T20:35:25.202Z",
-    "raw": "Br. Vlaka 29088 odlazak      07.03.26. 21:32, kolodvor SPLIT"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "780",
-    "event_time": "2026-03-07T21:35:00",
-    "seen_at": "2026-03-07T20:36:32.568Z",
-    "raw": "Br. Vlaka ..780 odlazak      07.03.26. 21:35, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Dolazak",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "29088",
-    "event_time": "2026-03-07T21:36:00",
-    "seen_at": "2026-03-07T20:45:50.815Z",
-    "raw": "Br. Vlaka 29088 dolazak      07.03.26. 21:36, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "29088",
-    "event_time": "2026-03-07T21:45:00",
-    "seen_at": "2026-03-07T20:46:12.568Z",
-    "raw": "Br. Vlaka 29088 odlazak      07.03.26. 21:45, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "957870230043",
     "type": "Dolazak",
     "station": "SOLIN",
     "train_number": "29088",
@@ -8324,5 +8099,50 @@
     "event_time": "2026-03-10T20:14:00",
     "seen_at": "2026-03-10T19:27:18.619Z",
     "raw": "Br. Vlaka 81114 odlazak      10.03.26. 20:14, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89177",
+    "event_time": "2026-03-10T21:37:00",
+    "seen_at": "2026-03-10T20:58:55.117Z",
+    "raw": "Br. Vlaka 89177 odlazak      10.03.26. 21:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "45588",
+    "event_time": "2026-03-10T21:15:00",
+    "seen_at": "2026-03-10T20:58:55.117Z",
+    "raw": "Br. Vlaka 45588 dolazak      10.03.26. 21:15, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "957870230084",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "3313",
+    "event_time": "2026-03-10T21:50:00",
+    "seen_at": "2026-03-10T20:58:55.118Z",
+    "raw": "Br. Vlaka .3313 odlazak      10.03.26. 21:50, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Odlazak",
+    "station": "SPLIT PREDGRAĐE",
+    "train_number": "5550",
+    "event_time": "2026-03-10T21:57:00",
+    "seen_at": "2026-03-10T20:58:55.118Z",
+    "raw": "Br. Vlaka .5550 odlazak      10.03.26. 21:57, kolodvor SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Dolazak",
+    "station": "MORAVICE",
+    "train_number": "81114",
+    "event_time": "2026-03-10T21:44:00",
+    "seen_at": "2026-03-10T20:58:55.118Z",
+    "raw": "Br. Vlaka 81114 dolazak      10.03.26. 21:44, kolodvor MORAVICE"
   }
 ]
