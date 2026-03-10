@@ -7,7 +7,8 @@ const STATION_CODES = {
   "72304": "ZAGREB RK (PS)",
   "ZAGREB ZAP": "ZAGREB ZAPADNI",
   "72302": "ZAGREB ŽITNJAK",
-  "73164": "NOVO DRNJE"
+  "73164": "NOVO DRNJE",
+  "71308": "BRČKO - BiH (IZVAN HŽ)"
 };
 function translateStation(station) {
   if (!station) return station;
