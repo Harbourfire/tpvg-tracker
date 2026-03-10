@@ -1,104 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "odlazak",
-    "station": "GARČIN",
-    "train_number": "69352",
-    "event_time": "2026-03-07T11:05:00",
-    "seen_at": "2026-03-07T10:06:33.797Z",
-    "raw": "Br. Vlaka 69352 odlazak      07.03.26. 11:05, kolodvor GARČIN"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "781",
-    "event_time": "2026-03-07T11:08:00",
-    "seen_at": "2026-03-07T10:13:06.261Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 11:08, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "NAŠICE",
-    "train_number": "781",
-    "event_time": "2026-03-07T11:22:00",
-    "seen_at": "2026-03-07T10:24:47.678Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 11:22, kolodvor NAŠICE"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "KOŠKA",
-    "train_number": "781",
-    "event_time": "2026-03-07T11:39:00",
-    "seen_at": "2026-03-07T10:43:55.404Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 11:39, kolodvor KOŠKA"
-  },
-  {
-    "uic": "957870230084",
-    "type": "dolazak",
-    "station": "BIZOVAC",
-    "train_number": "781",
-    "event_time": "2026-03-07T11:58:00",
-    "seen_at": "2026-03-07T10:59:52.972Z",
-    "raw": "Br. Vlaka ..781 dolazak      07.03.26. 11:58, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "BIZOVAC",
-    "train_number": "781",
-    "event_time": "2026-03-07T11:58:00",
-    "seen_at": "2026-03-07T11:00:37.023Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 11:58, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "957870230084",
-    "type": "odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "781",
-    "event_time": "2026-03-07T12:22:00",
-    "seen_at": "2026-03-07T11:24:20.532Z",
-    "raw": "Br. Vlaka ..781 odlazak      07.03.26. 12:22, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89921",
-    "event_time": "2026-03-07T12:21:00",
-    "seen_at": "2026-03-07T11:27:11.982Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 12:21, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T12:26:00",
-    "seen_at": "2026-03-07T11:27:56.257Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 12:26, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89921",
-    "event_time": "2026-03-07T12:39:00",
-    "seen_at": "2026-03-07T11:39:43.857Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 12:39, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T12:46:00",
-    "seen_at": "2026-03-07T11:47:25.549Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 12:46, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820622037",
     "type": "dolazak",
     "station": "ČAKOVEC",
@@ -9008,5 +8909,50 @@
     "event_time": "2026-03-10T10:58:00",
     "seen_at": "2026-03-10T10:02:37.306Z",
     "raw": "Br. Vlaka 89217 odlazak      10.03.26. 10:58, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-03-10T12:30:00",
+    "seen_at": "2026-03-10T11:49:16.126Z",
+    "raw": "Br. Vlaka 45104 odlazak      10.03.26. 12:30, kolodvor OTOK"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89754",
+    "event_time": "2026-03-10T12:44:00",
+    "seen_at": "2026-03-10T11:49:20.583Z",
+    "raw": "Br. Vlaka 89754 odlazak      10.03.26. 12:44, kolodvor SIBINJ"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Odlazak",
+    "station": "KAŠTEL SUĆURAC",
+    "train_number": "5532",
+    "event_time": "2026-03-10T12:41:00",
+    "seen_at": "2026-03-10T11:49:21.537Z",
+    "raw": "Br. Vlaka .5532 odlazak      10.03.26. 12:41, kolodvor KAŠTEL SUĆURAC"
+  },
+  {
+    "uic": "957871220258",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "6209",
+    "event_time": "2026-03-10T12:40:00",
+    "seen_at": "2026-03-10T11:49:21.817Z",
+    "raw": "Br. Vlaka .6209 odlazak      10.03.26. 12:40, kolodvor DARDA"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Rasformiran",
+    "station": "VELIKA GORICA",
+    "train_number": null,
+    "event_time": "2026-03-10T11:11:00",
+    "seen_at": "2026-03-10T11:49:22.045Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72908 VELIKA GORICA"
   }
 ]
