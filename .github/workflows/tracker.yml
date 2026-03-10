@@ -6,9 +6,6 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches: [ main ]
-
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -16,13 +13,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Run script
-        run: node data/scripts/fetch_tpvg.js
+      - name: Run tracker loop
+        run: |
+          for i in {1..4}
+          do
+            node data/scripts/fetch_tpvg.js
+            sleep 15
+          done
 
       - name: Commit data
         run: |
@@ -31,16 +32,3 @@ jobs:
           git add data/lokomotive.json
           git commit -m "Update TPVG data" || echo "No changes"
           git push
-
-      - name: Wait 30 seconds
-        run: sleep 22
-
-      - name: Trigger next run
-        run: |
-          curl -X POST \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/Harbourfire/tpvg-tracker/actions/workflows/tracker.yml/dispatches \
-          -d '{"ref":"main"}'
-
-          
