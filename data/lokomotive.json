@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "odlazak",
-    "station": "GRAČAC",
-    "train_number": "82527",
-    "event_time": "2026-03-07T08:30:00",
-    "seen_at": "2026-03-07T07:31:06.306Z",
-    "raw": "Br. Vlaka 82527 odlazak      07.03.26. 08:30, kolodvor GRAČAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "odlazak",
     "station": "MALOVAN",
     "train_number": "82527",
     "event_time": "2026-03-07T08:51:00",
@@ -8945,5 +8936,14 @@
     "event_time": "2026-03-10T08:12:00",
     "seen_at": "2026-03-10T07:30:53.490Z",
     "raw": "Br. Vlaka .5524 odlazak      10.03.26. 08:12, kolodvor SPLIT"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Odlazak",
+    "station": "SPLIT PREDGRAĐE",
+    "train_number": "5524",
+    "event_time": "2026-03-10T08:23:00",
+    "seen_at": "2026-03-10T07:31:33.869Z",
+    "raw": "Br. Vlaka .5524 odlazak      10.03.26. 08:23, kolodvor SPLIT PREDGRAĐE"
   }
 ]
