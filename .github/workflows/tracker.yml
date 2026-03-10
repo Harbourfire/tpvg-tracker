@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: 20
 
-      # 1. provjera
+      # prva provjera
       - name: Check TPVG (1)
         run: node data/scripts/fetch_tpvg.js
 
@@ -29,25 +29,13 @@ jobs:
           git commit -m "Update TPVG data" || echo "No changes"
           git push
 
-      - run: sleep 20
+      - run: sleep 25
 
-      # 2. provjera
+      # druga provjera
       - name: Check TPVG (2)
         run: node data/scripts/fetch_tpvg.js
 
       - name: Commit (2)
-        run: |
-          git add data/lokomotive.json
-          git commit -m "Update TPVG data" || echo "No changes"
-          git push
-
-      - run: sleep 20
-
-      # 3. provjera
-      - name: Check TPVG (3)
-        run: node data/scripts/fetch_tpvg.js
-
-      - name: Commit (3)
         run: |
           git add data/lokomotive.json
           git commit -m "Update TPVG data" || echo "No changes"
