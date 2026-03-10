@@ -1,447 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-03-07T12:53:00",
-    "seen_at": "2026-03-07T11:55:55.600Z",
-    "raw": "Br. Vlaka 89921 dolazak      07.03.26. 12:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-03-07T13:04:00",
-    "seen_at": "2026-03-07T12:05:10.612Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 13:04, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "947861120030",
-    "type": "odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "5004",
-    "event_time": "2026-03-07T13:05:00",
-    "seen_at": "2026-03-07T12:05:58.839Z",
-    "raw": "Br. Vlaka .5004 odlazak      07.03.26. 13:05, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "947861120030",
-    "type": "formiran",
-    "station": "ZAGREB GL",
-    "train_number": "5109",
-    "event_time": "2026-03-07T12:14:00",
-    "seen_at": "2026-03-07T12:17:47.946Z",
-    "raw": "Br. Vlaka .5109 formiran     07.03.26. 12:14, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820622037",
-    "type": "dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89921",
-    "event_time": "2026-03-07T13:17:00",
-    "seen_at": "2026-03-07T12:19:15.178Z",
-    "raw": "Br. Vlaka 89921 dolazak      07.03.26. 13:17, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "957870230043",
-    "type": "dolazak",
-    "station": "KAŠTEL SUĆURAC",
-    "train_number": "5534",
-    "event_time": "2026-03-07T13:38:00",
-    "seen_at": "2026-03-07T12:42:06.221Z",
-    "raw": "Br. Vlaka .5534 dolazak      07.03.26. 13:38, kolodvor KAŠTEL SUĆURAC"
-  },
-  {
-    "uic": "957870230043",
-    "type": "odlazak",
-    "station": "KAŠTEL SUĆURAC",
-    "train_number": "5534",
-    "event_time": "2026-03-07T13:43:00",
-    "seen_at": "2026-03-07T12:47:16.847Z",
-    "raw": "Br. Vlaka .5534 odlazak      07.03.26. 13:43, kolodvor KAŠTEL SUĆURAC"
-  },
-  {
-    "uic": "957870230043",
-    "type": "formiran",
-    "station": "KAŠTEL STARI",
-    "train_number": "5537",
-    "event_time": "2026-03-07T09:58:00",
-    "seen_at": "2026-03-07T13:01:10.915Z",
-    "raw": "Br. Vlaka .5537 formiran     07.03.26. 09:58, kolodvor KAŠTEL STARI"
-  },
-  {
-    "uic": "957871220258",
-    "type": "odlazak",
-    "station": "OSIJEK",
-    "train_number": "2607",
-    "event_time": "2026-03-07T13:23:00",
-    "seen_at": "2026-03-07T13:04:02.294Z",
-    "raw": "Br. Vlaka .2607 odlazak      07.03.26. 13:23, kolodvor OSIJEK"
-  },
-  {
-    "uic": "957870230043",
-    "type": "odlazak",
-    "station": "KAŠTEL STARI",
-    "train_number": "5537",
-    "event_time": "2026-03-07T14:04:00",
-    "seen_at": "2026-03-07T13:05:13.429Z",
-    "raw": "Br. Vlaka .5537 odlazak      07.03.26. 14:04, kolodvor KAŠTEL STARI"
-  },
-  {
-    "uic": "957871220258",
-    "type": "dolazak",
-    "station": "VINKOVCI",
-    "train_number": "2607",
-    "event_time": "2026-03-07T14:08:00",
-    "seen_at": "2026-03-07T13:09:08.116Z",
-    "raw": "Br. Vlaka .2607 dolazak      07.03.26. 14:08, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-05T23:00:00",
-    "seen_at": "2026-03-07T13:21:18.146Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-07T11:16:00",
-    "seen_at": "2026-03-07T13:21:18.615Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620197",
-    "type": "rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-04T11:57:00",
-    "seen_at": "2026-03-07T13:21:18.817Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-04T23:03:00",
-    "seen_at": "2026-03-07T13:21:19.020Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-06T13:58:00",
-    "seen_at": "2026-03-07T13:21:19.221Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620387",
-    "type": "rasformiran",
-    "station": "KNIN",
-    "train_number": null,
-    "event_time": "2026-02-12T18:00:00",
-    "seen_at": "2026-03-07T13:21:19.646Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "rasformiran",
-    "station": "BIZOVAC",
-    "train_number": null,
-    "event_time": "2026-03-05T05:11:00",
-    "seen_at": "2026-03-07T13:21:20.055Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-07T01:20:00",
-    "seen_at": "2026-03-07T13:21:20.516Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "rasformiran",
-    "station": "JALŽABET",
-    "train_number": null,
-    "event_time": "2026-02-28T08:41:00",
-    "seen_at": "2026-03-07T13:21:20.720Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73806 JALŽABET"
-  },
-  {
-    "uic": "927820440026",
-    "type": "rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-02T20:00:00",
-    "seen_at": "2026-03-07T13:21:20.929Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "927820440067",
-    "type": "rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-02-27T02:30:00",
-    "seen_at": "2026-03-07T13:21:21.133Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-06T20:15:00",
-    "seen_at": "2026-03-07T13:21:21.541Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "987821320346",
-    "type": "rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-06T16:46:00",
-    "seen_at": "2026-03-07T13:21:22.150Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "987821323035",
-    "type": "rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-02T16:00:00",
-    "seen_at": "2026-03-07T13:21:22.358Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "987821323118",
-    "type": "rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-03-06T13:32:00",
-    "seen_at": "2026-03-07T13:21:22.558Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
-    "uic": "957870230084",
-    "type": "rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-07T12:34:00",
-    "seen_at": "2026-03-07T13:21:22.761Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "957871220258",
-    "type": "rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-07T14:08:00",
-    "seen_at": "2026-03-07T13:21:23.210Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "957870230043",
-    "type": "odlazak",
-    "station": "KAŠTEL SUĆURAC",
-    "train_number": "5537",
-    "event_time": "2026-03-07T14:20:00",
-    "seen_at": "2026-03-07T13:21:58.327Z",
-    "raw": "Br. Vlaka .5537 odlazak      07.03.26. 14:20, kolodvor KAŠTEL SUĆURAC"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:28:30.324Z",
-    "raw": "nema podataka"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:28:30.771Z",
-    "raw": "nema podataka"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:28:32.385Z",
-    "raw": "nema podataka"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:28:32.834Z",
-    "raw": "nema podataka"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:28:33.056Z",
-    "raw": "nema podataka"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SOLIN",
-    "train_number": "5537",
-    "event_time": "2026-03-07T14:34:00",
-    "seen_at": "2026-03-07T13:36:42.719Z",
-    "raw": "Br. Vlaka .5537 odlazak      07.03.26. 14:34, kolodvor SOLIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89921",
-    "event_time": "2026-03-07T14:39:00",
-    "seen_at": "2026-03-07T13:42:13.933Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 14:39, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Odlazak",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "5537",
-    "event_time": "2026-03-07T14:42:00",
-    "seen_at": "2026-03-07T13:43:26.884Z",
-    "raw": "Br. Vlaka .5537 odlazak      07.03.26. 14:42, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:44:12.420Z",
-    "raw": "Nema podataka"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:44:12.767Z",
-    "raw": "Nema podataka"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:44:14.023Z",
-    "raw": "Nema podataka"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:44:14.366Z",
-    "raw": "Nema podataka"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Nema podataka",
-    "station": null,
-    "train_number": null,
-    "event_time": null,
-    "seen_at": "2026-03-07T13:44:14.540Z",
-    "raw": "Nema podataka"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89921",
-    "event_time": "2026-03-07T14:46:00",
-    "seen_at": "2026-03-07T13:48:29.686Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 14:46, kolodvor TURČIN"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Rasformiran",
-    "station": "SPLIT",
-    "train_number": null,
-    "event_time": "2026-03-07T14:46:00",
-    "seen_at": "2026-03-07T13:55:47.795Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76660 SPLIT"
-  },
-  {
-    "uic": "957870230043",
-    "type": "Formiran",
-    "station": "SPLIT",
-    "train_number": "5542",
-    "event_time": "2026-03-07T14:07:00",
-    "seen_at": "2026-03-07T13:56:05.872Z",
-    "raw": "Br. Vlaka .5542 formiran     07.03.26. 14:07, kolodvor SPLIT"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89921",
-    "event_time": "2026-03-07T15:08:00",
-    "seen_at": "2026-03-07T14:08:21.206Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 15:08, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "957870230084",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "780",
-    "event_time": "2026-03-07T09:13:00",
-    "seen_at": "2026-03-07T14:08:56.707Z",
-    "raw": "Br. Vlaka ..780 formiran     07.03.26. 09:13, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KNIN",
-    "train_number": "81254",
-    "event_time": "2026-03-07T15:30:00",
-    "seen_at": "2026-03-07T14:31:37.061Z",
-    "raw": "Br. Vlaka 81254 odlazak      07.03.26. 15:30, kolodvor KNIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89921",
-    "event_time": "2026-03-07T15:29:00",
-    "seen_at": "2026-03-07T14:31:38.958Z",
-    "raw": "Br. Vlaka 89921 odlazak      07.03.26. 15:29, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "89921",
@@ -8954,5 +8513,176 @@
     "event_time": "2026-03-10T11:11:00",
     "seen_at": "2026-03-10T11:49:22.045Z",
     "raw": "Trenutna pozicija je u kolodvoru 72908 VELIKA GORICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-10T16:00:00",
+    "seen_at": "2026-03-10T14:31:54.860Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "46896",
+    "event_time": "2026-03-10T15:11:00",
+    "seen_at": "2026-03-10T14:31:55.287Z",
+    "raw": "Br. Vlaka 46896 odlazak      10.03.26. 15:11, kolodvor DARDA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "VALPOVO",
+    "train_number": "45588",
+    "event_time": "2026-03-10T13:46:00",
+    "seen_at": "2026-03-10T14:31:56.634Z",
+    "raw": "Br. Vlaka 45588 formiran     10.03.26. 13:46, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89756",
+    "event_time": "2026-03-10T14:44:00",
+    "seen_at": "2026-03-10T14:31:57.052Z",
+    "raw": "Br. Vlaka 89756 odlazak      10.03.26. 14:44, kolodvor DARDA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89259",
+    "event_time": "2026-03-10T15:29:00",
+    "seen_at": "2026-03-10T14:31:57.849Z",
+    "raw": "Br. Vlaka 89259 odlazak      10.03.26. 15:29, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-03-10T14:05:00",
+    "seen_at": "2026-03-10T14:31:58.589Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89169",
+    "event_time": "2026-03-10T15:20:00",
+    "seen_at": "2026-03-10T14:31:59.009Z",
+    "raw": "Br. Vlaka 89169 odlazak      10.03.26. 15:20, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "957870230084",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "3013",
+    "event_time": "2026-03-10T15:23:00",
+    "seen_at": "2026-03-10T14:31:59.242Z",
+    "raw": "Br. Vlaka .3013 odlazak      10.03.26. 15:23, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "957870230043",
+    "type": "Odlazak",
+    "station": "SOLIN",
+    "train_number": "5539",
+    "event_time": "2026-03-10T15:21:00",
+    "seen_at": "2026-03-10T14:31:59.477Z",
+    "raw": "Br. Vlaka .5539 odlazak      10.03.26. 15:21, kolodvor SOLIN"
+  },
+  {
+    "uic": "957871220258",
+    "type": "Formiran",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "6322",
+    "event_time": "2026-03-10T15:05:00",
+    "seen_at": "2026-03-10T14:31:59.715Z",
+    "raw": "Br. Vlaka .6322 formiran     10.03.26. 15:05, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "917811412134",
+    "type": "Formiran",
+    "station": "ZAGREB RK",
+    "train_number": "69582",
+    "event_time": "2026-03-10T14:32:00",
+    "seen_at": "2026-03-10T14:31:59.946Z",
+    "raw": "Br. Vlaka 69582 formiran     10.03.26. 14:32, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-04T23:03:00",
+    "seen_at": "2026-03-10T14:32:16.373Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-06T13:58:00",
+    "seen_at": "2026-03-10T14:32:16.557Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "KNIN",
+    "train_number": null,
+    "event_time": "2026-02-12T18:00:00",
+    "seen_at": "2026-03-10T14:32:16.929Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "JALŽABET",
+    "train_number": null,
+    "event_time": "2026-02-28T08:41:00",
+    "seen_at": "2026-03-10T14:32:17.966Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73806 JALŽABET"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-02-27T02:30:00",
+    "seen_at": "2026-03-10T14:32:18.336Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2026-03-06T20:15:00",
+    "seen_at": "2026-03-10T14:32:18.750Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-02T16:00:00",
+    "seen_at": "2026-03-10T14:32:19.486Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89169",
+    "event_time": "2026-03-10T15:32:00",
+    "seen_at": "2026-03-10T14:32:40.485Z",
+    "raw": "Br. Vlaka 89169 odlazak      10.03.26. 15:32, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
