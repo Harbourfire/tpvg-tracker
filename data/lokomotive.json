@@ -1051,5 +1051,41 @@
     "event_time": "2026-03-11T14:21:00",
     "seen_at": "2026-03-11T13:22:13.502Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-03-11T14:26:00",
+    "seen_at": "2026-03-11T13:27:07.495Z",
+    "raw": "Br. Vlaka 44994 dolazak      11.03.26. 14:26, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-03-11T14:27:00",
+    "seen_at": "2026-03-11T13:27:54.294Z",
+    "raw": "Br. Vlaka 44994 odlazak      11.03.26. 14:27, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44994",
+    "event_time": "2026-03-11T14:33:00",
+    "seen_at": "2026-03-11T13:34:40.845Z",
+    "raw": "Br. Vlaka 44994 dolazak      11.03.26. 14:33, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-03-11T14:33:00",
+    "seen_at": "2026-03-11T13:35:02.138Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
   }
 ]
