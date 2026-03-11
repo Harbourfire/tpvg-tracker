@@ -1096,5 +1096,32 @@
     "event_time": "2026-03-11T11:47:00",
     "seen_at": "2026-03-11T13:56:59.622Z",
     "raw": "Br. Vlaka 82327 promjena sas 11.03.26. 11:47, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "89753",
+    "event_time": "2026-03-11T15:05:00",
+    "seen_at": "2026-03-11T14:05:54.031Z",
+    "raw": "Br. Vlaka 89753 formiran     11.03.26. 15:05, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "82327",
+    "event_time": "2026-03-11T15:05:00",
+    "seen_at": "2026-03-11T14:06:58.658Z",
+    "raw": "Br. Vlaka 82327 odlazak      11.03.26. 15:05, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89753",
+    "event_time": "2026-03-11T15:05:00",
+    "seen_at": "2026-03-11T14:10:35.524Z",
+    "raw": "Br. Vlaka 89753 odlazak      11.03.26. 15:05, kolodvor ČAKOVEC"
   }
 ]
