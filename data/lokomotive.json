@@ -817,5 +817,32 @@
     "event_time": "2026-03-11T10:52:00",
     "seen_at": "2026-03-11T09:53:25.754Z",
     "raw": "Br. Vlaka 89181 odlazak      11.03.26. 10:52, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44994",
+    "event_time": "2026-03-11T10:42:00",
+    "seen_at": "2026-03-11T09:59:40.316Z",
+    "raw": "Br. Vlaka 44994 dolazak      11.03.26. 10:42, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89181",
+    "event_time": "2026-03-11T10:58:00",
+    "seen_at": "2026-03-11T09:59:40.316Z",
+    "raw": "Br. Vlaka 89181 dolazak      11.03.26. 10:58, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-11T10:58:00",
+    "seen_at": "2026-03-11T10:00:01.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
   }
 ]
