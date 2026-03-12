@@ -1,5 +1,7 @@
 name: TPVG Tracker
-
+concurrency:
+  group: tpvg-tracker
+  cancel-in-progress: false
 on:
   workflow_dispatch:
   schedule:
