@@ -1564,5 +1564,68 @@
     "event_time": "2026-03-12T00:51:00",
     "seen_at": "2026-03-11T23:51:45.352Z",
     "raw": "Br. Vlaka 45588 odlazak      12.03.26. 00:51, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "44995",
+    "event_time": "2026-03-12T00:58:00",
+    "seen_at": "2026-03-12T00:01:10.381Z",
+    "raw": "Br. Vlaka 44995 dolazak      12.03.26. 00:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-12T01:01:00",
+    "seen_at": "2026-03-12T00:05:07.190Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "ZAGREB RK",
+    "train_number": "45588",
+    "event_time": "2026-03-12T01:02:00",
+    "seen_at": "2026-03-12T00:05:50.357Z",
+    "raw": "Br. Vlaka 45588 dolazak      12.03.26. 01:02, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK",
+    "train_number": null,
+    "event_time": "2026-03-10T20:00:00",
+    "seen_at": "2026-03-12T00:06:11.987Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "82117",
+    "train_number": null,
+    "event_time": "2026-03-12T00:06:11.987Z",
+    "seen_at": "2026-03-12T00:06:11.987Z",
+    "raw": "Trenutna pozicija je u kolodvoru 82117 82117"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "ZAGREB RK",
+    "train_number": "69711",
+    "event_time": "2026-03-11T22:24:00",
+    "seen_at": "2026-03-12T00:06:33.570Z",
+    "raw": "Br. Vlaka 69711 formiran     11.03.26. 22:24, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89722",
+    "event_time": "2026-03-11T22:21:00",
+    "seen_at": "2026-03-12T00:08:42.444Z",
+    "raw": "Br. Vlaka 89722 formiran     11.03.26. 22:21, kolodvor VINKOVCI"
   }
 ]
