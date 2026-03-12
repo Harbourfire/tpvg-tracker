@@ -1915,5 +1915,41 @@
     "event_time": "2026-03-12T11:44:00",
     "seen_at": "2026-03-12T10:47:12.113Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RK",
+    "train_number": "69614",
+    "event_time": "2026-03-12T11:57:00",
+    "seen_at": "2026-03-12T10:58:07.353Z",
+    "raw": "Br. Vlaka 69614 odlazak      12.03.26. 11:57, kolodvor 72303"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": "45104",
+    "event_time": "2026-03-12T11:58:00",
+    "seen_at": "2026-03-12T10:58:28.638Z",
+    "raw": "Br. Vlaka 45104 formiran     12.03.26. 11:58, kolodvor 71308"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": "45104",
+    "event_time": "2026-03-12T11:23:00",
+    "seen_at": "2026-03-12T11:00:14.090Z",
+    "raw": "Br. Vlaka 45104 odlazak      12.03.26. 11:23, kolodvor 71308"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-12T11:32:00",
+    "seen_at": "2026-03-12T11:00:35.431Z",
+    "raw": "Br. Vlaka 45104 dolazak      12.03.26. 11:32, kolodvor DRENOVCI"
   }
 ]
