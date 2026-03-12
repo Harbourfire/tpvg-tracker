@@ -1645,5 +1645,41 @@
     "event_time": "2026-03-12T01:14:00",
     "seen_at": "2026-03-12T00:15:34.970Z",
     "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-12T02:00:00",
+    "seen_at": "2026-03-12T00:17:56.978Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89722",
+    "event_time": "2026-03-11T22:21:00",
+    "seen_at": "2026-03-12T00:18:39.709Z",
+    "raw": "Br. Vlaka 89722 formiran     11.03.26. 22:21, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89722",
+    "event_time": "2026-03-12T01:20:00",
+    "seen_at": "2026-03-12T00:20:26.063Z",
+    "raw": "Br. Vlaka 89722 odlazak      12.03.26. 01:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89722",
+    "event_time": "2026-03-12T01:20:00",
+    "seen_at": "2026-03-12T00:20:26.064Z",
+    "raw": "Br. Vlaka 89722 odlazak      12.03.26. 01:20, kolodvor VINKOVCI"
   }
 ]
