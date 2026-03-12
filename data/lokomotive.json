@@ -1717,5 +1717,41 @@
     "event_time": "2026-03-12T02:08:00",
     "seen_at": "2026-03-12T01:09:09.283Z",
     "raw": "Br. Vlaka 45131 formiran     12.03.26. 02:08, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-12T02:10:00",
+    "seen_at": "2026-03-12T01:11:14.702Z",
+    "raw": "Br. Vlaka 45131 odlazak      12.03.26. 02:10, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "69711",
+    "event_time": "2026-03-12T02:12:00",
+    "seen_at": "2026-03-12T01:12:18.714Z",
+    "raw": "Br. Vlaka 69711 odlazak      12.03.26. 02:12, kolodvor 72302"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "69711",
+    "event_time": "2026-03-12T02:16:00",
+    "seen_at": "2026-03-12T01:17:38.490Z",
+    "raw": "Br. Vlaka 69711 dolazak      12.03.26. 02:16, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-12T02:16:00",
+    "seen_at": "2026-03-12T01:18:21.265Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
   }
 ]
