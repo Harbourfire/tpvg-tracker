@@ -1771,5 +1771,41 @@
     "event_time": "2026-03-12T03:05:00",
     "seen_at": "2026-03-12T02:05:53.472Z",
     "raw": "Br. Vlaka 89922 formiran     12.03.26. 03:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89922",
+    "event_time": "2026-03-12T05:56:00",
+    "seen_at": "2026-03-12T05:08:01.260Z",
+    "raw": "Br. Vlaka 89922 odlazak      12.03.26. 05:56, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-12T02:15:00",
+    "seen_at": "2026-03-12T05:08:01.261Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89922",
+    "event_time": "2026-03-12T06:09:00",
+    "seen_at": "2026-03-12T05:11:56.767Z",
+    "raw": "Br. Vlaka 89922 dolazak      12.03.26. 06:09, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-12T06:15:00",
+    "seen_at": "2026-03-12T05:15:50.757Z",
+    "raw": "Br. Vlaka 45105 formiran     12.03.26. 06:15, kolodvor VINKOVCI"
   }
 ]
