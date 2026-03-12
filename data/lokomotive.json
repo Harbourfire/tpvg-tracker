@@ -2464,5 +2464,77 @@
     "event_time": "2026-03-12T21:25:00",
     "seen_at": "2026-03-12T20:26:30.794Z",
     "raw": "Br. Vlaka 89871 odlazak      12.03.26. 21:25, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "89871",
+    "event_time": "2026-03-12T21:42:00",
+    "seen_at": "2026-03-12T20:43:53.131Z",
+    "raw": "Br. Vlaka 89871 dolazak      12.03.26. 21:42, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89162",
+    "event_time": "2026-03-12T21:35:00",
+    "seen_at": "2026-03-12T20:43:53.132Z",
+    "raw": "Br. Vlaka 89162 odlazak      12.03.26. 21:35, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK (PS)",
+    "train_number": null,
+    "event_time": "2026-03-10T14:11:00",
+    "seen_at": "2026-03-12T20:43:53.132Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-12T20:03:00",
+    "seen_at": "2026-03-12T20:43:53.132Z",
+    "raw": "Br. Vlaka 63305 formiran     12.03.26. 20:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-03-11T19:08:00",
+    "seen_at": "2026-03-12T20:43:53.132Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-03-11T19:08:00",
+    "seen_at": "2026-03-12T20:43:53.132Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-12T20:03:00",
+    "seen_at": "2026-03-12T20:43:53.133Z",
+    "raw": "Br. Vlaka 63305 formiran     12.03.26. 20:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89162",
+    "event_time": "2026-03-12T21:45:00",
+    "seen_at": "2026-03-12T20:46:46.160Z",
+    "raw": "Br. Vlaka 89162 odlazak      12.03.26. 21:45, kolodvor BEDEKOVČINA"
   }
 ]
