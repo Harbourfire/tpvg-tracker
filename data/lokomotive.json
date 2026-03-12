@@ -709,5 +709,32 @@
     "event_time": "2026-03-13T00:33:00",
     "seen_at": "2026-03-12T23:36:33.125Z",
     "raw": "Br. Vlaka 63305 odlazak      13.03.26. 00:33, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "83812",
+    "event_time": "2026-03-13T00:41:00",
+    "seen_at": "2026-03-12T23:47:10.101Z",
+    "raw": "Br. Vlaka 83812 dolazak      13.03.26. 00:41, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-13T00:30:00",
+    "seen_at": "2026-03-12T23:48:16.473Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-03-13T00:37:00",
+    "seen_at": "2026-03-12T23:48:38.289Z",
+    "raw": "Br. Vlaka 61004 formiran     13.03.26. 00:37, kolodvor OSIJEK"
   }
 ]
