@@ -628,5 +628,41 @@
     "event_time": "2026-03-12T23:59:00",
     "seen_at": "2026-03-12T23:05:16.678Z",
     "raw": "Br. Vlaka 63305 dolazak      12.03.26. 23:59, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-12T23:53:00",
+    "seen_at": "2026-03-12T23:06:15.324Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-12T23:59:00",
+    "seen_at": "2026-03-12T23:10:39.839Z",
+    "raw": "Br. Vlaka 63305 promjena sas 12.03.26. 23:59, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-12T23:59:00",
+    "seen_at": "2026-03-12T23:10:39.839Z",
+    "raw": "Br. Vlaka 63305 promjena sas 12.03.26. 23:59, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "81987",
+    "event_time": "2026-03-13T00:13:00",
+    "seen_at": "2026-03-12T23:14:19.490Z",
+    "raw": "Br. Vlaka 81987 odlazak      13.03.26. 00:13, kolodvor VRBOVEC"
   }
 ]
