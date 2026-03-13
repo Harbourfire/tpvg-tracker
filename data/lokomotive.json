@@ -2464,5 +2464,41 @@
     "event_time": "2026-03-13T14:33:00",
     "seen_at": "2026-03-13T13:33:40.576Z",
     "raw": "Br. Vlaka 49827 odlazak      13.03.26. 14:33, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "89432",
+    "event_time": "2026-03-13T14:41:00",
+    "seen_at": "2026-03-13T13:42:10.986Z",
+    "raw": "Br. Vlaka 89432 dolazak      13.03.26. 14:41, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "49827",
+    "event_time": "2026-03-13T14:47:00",
+    "seen_at": "2026-03-13T13:47:17.848Z",
+    "raw": "Br. Vlaka 49827 dolazak      13.03.26. 14:47, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-13T12:03:00",
+    "seen_at": "2026-03-13T13:48:01.962Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69491",
+    "event_time": "2026-03-13T14:08:00",
+    "seen_at": "2026-03-13T13:49:07.953Z",
+    "raw": "Br. Vlaka 69491 formiran     13.03.26. 14:08, kolodvor SLAVONSKI BROD"
   }
 ]
