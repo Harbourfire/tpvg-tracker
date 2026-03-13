@@ -1357,5 +1357,23 @@
     "event_time": "2026-03-13T05:28:00",
     "seen_at": "2026-03-13T04:30:52.812Z",
     "raw": "Br. Vlaka 81987 odlazak      13.03.26. 05:28, kolodvor ŠPIŠIĆ BUKOVICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "81987",
+    "event_time": "2026-03-13T05:37:00",
+    "seen_at": "2026-03-13T04:40:48.149Z",
+    "raw": "Br. Vlaka 81987 dolazak      13.03.26. 05:37, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-03-13T05:37:00",
+    "seen_at": "2026-03-13T04:41:09.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
   }
 ]
