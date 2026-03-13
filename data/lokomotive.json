@@ -2968,5 +2968,41 @@
     "event_time": "2026-03-13T19:04:00",
     "seen_at": "2026-03-13T18:04:31.097Z",
     "raw": "Br. Vlaka 81214 odlazak      13.03.26. 19:04, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "81214",
+    "event_time": "2026-03-13T19:10:00",
+    "seen_at": "2026-03-13T18:10:12.519Z",
+    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 19:10, kolodvor LUKA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-13T19:00:00",
+    "seen_at": "2026-03-13T18:10:12.520Z",
+    "raw": "Br. Vlaka 63310 dolazak      13.03.26. 19:00, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-13T19:00:00",
+    "seen_at": "2026-03-13T18:12:22.690Z",
+    "raw": "Br. Vlaka 63310 promjena sas 13.03.26. 19:00, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "81214",
+    "event_time": "2026-03-13T19:14:00",
+    "seen_at": "2026-03-13T18:14:31.735Z",
+    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 19:14, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
