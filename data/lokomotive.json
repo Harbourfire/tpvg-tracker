@@ -1717,5 +1717,50 @@
     "event_time": "2026-03-13T08:53:00",
     "seen_at": "2026-03-13T07:53:27.733Z",
     "raw": "Br. Vlaka 76505 odlazak      13.03.26. 08:53, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": null,
+    "event_time": "2026-03-13T08:49:00",
+    "seen_at": "2026-03-13T07:55:08.823Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "DEANOVEC",
+    "train_number": "89173",
+    "event_time": "2026-03-13T08:57:00",
+    "seen_at": "2026-03-13T07:59:05.999Z",
+    "raw": "Br. Vlaka 89173 dolazak      13.03.26. 08:57, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "ERDUT",
+    "train_number": "69852",
+    "event_time": "2026-03-13T09:00:00",
+    "seen_at": "2026-03-13T08:00:32.276Z",
+    "raw": "Br. Vlaka 69852 dolazak      13.03.26. 09:00, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "69852",
+    "event_time": "2026-03-13T09:00:00",
+    "seen_at": "2026-03-13T08:00:53.893Z",
+    "raw": "Br. Vlaka 69852 promjena sas 13.03.26. 09:00, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-03-13T08:20:00",
+    "seen_at": "2026-03-13T08:01:37.036Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
   }
 ]
