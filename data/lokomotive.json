@@ -2815,5 +2815,50 @@
     "event_time": "2026-03-13T17:18:00",
     "seen_at": "2026-03-13T16:18:37.075Z",
     "raw": "Br. Vlaka 81214 odlazak      13.03.26. 17:18, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "69177",
+    "event_time": "2026-03-13T17:21:00",
+    "seen_at": "2026-03-13T16:23:13.725Z",
+    "raw": "Br. Vlaka 69177 dolazak      13.03.26. 17:21, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "VRHOVINE",
+    "train_number": null,
+    "event_time": "2026-03-13T17:21:00",
+    "seen_at": "2026-03-13T16:23:36.728Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-03-13T14:57:00",
+    "seen_at": "2026-03-13T16:24:42.716Z",
+    "raw": "Br. Vlaka 63312 formiran     13.03.26. 14:57, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81214",
+    "event_time": "2026-03-13T17:25:00",
+    "seen_at": "2026-03-13T16:25:48.227Z",
+    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 17:25, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-03-13T17:28:00",
+    "seen_at": "2026-03-13T16:29:04.751Z",
+    "raw": "Br. Vlaka 63312 odlazak      13.03.26. 17:28, kolodvor VRHOVINE"
   }
 ]
