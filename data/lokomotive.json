@@ -5065,5 +5065,32 @@
     "event_time": "2026-03-14T15:47:00",
     "seen_at": "2026-03-14T14:47:26.971Z",
     "raw": "Br. Vlaka 47990 odlazak      14.03.26. 15:47, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47990",
+    "event_time": "2026-03-14T15:54:00",
+    "seen_at": "2026-03-14T14:54:34.439Z",
+    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 15:54, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63310",
+    "event_time": "2026-03-14T15:50:00",
+    "seen_at": "2026-03-14T14:54:56.174Z",
+    "raw": "Br. Vlaka 63310 dolazak      14.03.26. 15:50, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-14T15:50:00",
+    "seen_at": "2026-03-14T14:55:18.871Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
