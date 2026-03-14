@@ -5344,5 +5344,77 @@
     "event_time": "2026-03-14T17:52:00",
     "seen_at": "2026-03-14T16:56:21.447Z",
     "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "47938",
+    "event_time": "2026-03-14T18:01:00",
+    "seen_at": "2026-03-14T17:04:48.272Z",
+    "raw": "Br. Vlaka 47938 dolazak      14.03.26. 18:01, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "47938",
+    "event_time": "2026-03-14T18:01:00",
+    "seen_at": "2026-03-14T17:04:48.272Z",
+    "raw": "Br. Vlaka 47938 dolazak      14.03.26. 18:01, kolodvor BUZET"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "82124",
+    "event_time": "2026-03-14T18:05:00",
+    "seen_at": "2026-03-14T17:05:52.975Z",
+    "raw": "Br. Vlaka 82124 formiran     14.03.26. 18:05, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK (PS)",
+    "train_number": null,
+    "event_time": "2026-03-14T18:06:00",
+    "seen_at": "2026-03-14T17:06:36.556Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-14T18:06:00",
+    "seen_at": "2026-03-14T17:06:57.960Z",
+    "raw": "Br. Vlaka 69006 odlazak      14.03.26. 18:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-14T18:06:00",
+    "seen_at": "2026-03-14T17:06:57.961Z",
+    "raw": "Br. Vlaka 69006 odlazak      14.03.26. 18:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "47938",
+    "event_time": "2026-03-14T18:03:00",
+    "seen_at": "2026-03-14T17:10:34.033Z",
+    "raw": "Br. Vlaka 47938 odlazak      14.03.26. 18:03, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "47938",
+    "event_time": "2026-03-14T18:03:00",
+    "seen_at": "2026-03-14T17:10:34.033Z",
+    "raw": "Br. Vlaka 47938 odlazak      14.03.26. 18:03, kolodvor BUZET"
   }
 ]
