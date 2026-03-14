@@ -4399,5 +4399,50 @@
     "event_time": "2026-03-14T11:27:00",
     "seen_at": "2026-03-14T10:29:14.374Z",
     "raw": "Br. Vlaka 47990 dolazak      14.03.26. 11:27, kolodvor MALOVAN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK",
+    "train_number": null,
+    "event_time": "2026-03-14T00:33:00",
+    "seen_at": "2026-03-14T10:30:13.656Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81995",
+    "event_time": "2026-03-14T11:30:00",
+    "seen_at": "2026-03-14T10:32:03.236Z",
+    "raw": "Br. Vlaka 81995 odlazak      14.03.26. 11:30, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "ZAGREB RK",
+    "train_number": "49841",
+    "event_time": "2026-03-14T11:29:00",
+    "seen_at": "2026-03-14T10:32:47.164Z",
+    "raw": "Br. Vlaka 49841 formiran     14.03.26. 11:29, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-14T11:35:00",
+    "seen_at": "2026-03-14T10:35:41.581Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "MALOVAN",
+    "train_number": "47990",
+    "event_time": "2026-03-14T11:36:00",
+    "seen_at": "2026-03-14T10:38:14.932Z",
+    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 11:36, kolodvor MALOVAN"
   }
 ]
