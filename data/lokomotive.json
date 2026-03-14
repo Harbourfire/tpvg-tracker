@@ -4534,5 +4534,50 @@
     "event_time": "2026-03-14T12:17:00",
     "seen_at": "2026-03-14T11:18:10.718Z",
     "raw": "Br. Vlaka 47990 odlazak      14.03.26. 12:17, kolodvor MEDAK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "49841",
+    "event_time": "2026-03-14T12:22:00",
+    "seen_at": "2026-03-14T11:23:47.974Z",
+    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 12:22, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "47982",
+    "event_time": "2026-03-14T12:26:00",
+    "seen_at": "2026-03-14T11:26:42.657Z",
+    "raw": "Br. Vlaka 47982 dolazak      14.03.26. 12:26, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-03-14T11:00:00",
+    "seen_at": "2026-03-14T11:31:04.806Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "49841",
+    "event_time": "2026-03-14T12:28:00",
+    "seen_at": "2026-03-14T11:31:26.760Z",
+    "raw": "Br. Vlaka 49841 dolazak      14.03.26. 12:28, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "47990",
+    "event_time": "2026-03-14T12:29:00",
+    "seen_at": "2026-03-14T11:31:26.760Z",
+    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 12:29, kolodvor GOSPIĆ"
   }
 ]
