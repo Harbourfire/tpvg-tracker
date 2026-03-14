@@ -5542,5 +5542,59 @@
     "event_time": "2026-03-14T18:51:00",
     "seen_at": "2026-03-14T17:51:37.186Z",
     "raw": "Br. Vlaka 69005 odlazak      14.03.26. 18:51, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "69005",
+    "event_time": "2026-03-14T18:56:00",
+    "seen_at": "2026-03-14T17:57:13.755Z",
+    "raw": "Br. Vlaka 69005 dolazak      14.03.26. 18:56, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "69005",
+    "event_time": "2026-03-14T18:56:00",
+    "seen_at": "2026-03-14T17:57:13.755Z",
+    "raw": "Br. Vlaka 69005 dolazak      14.03.26. 18:56, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-14T18:56:00",
+    "seen_at": "2026-03-14T17:57:57.840Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-14T18:56:00",
+    "seen_at": "2026-03-14T17:57:57.840Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "47990",
+    "event_time": "2026-03-14T18:52:00",
+    "seen_at": "2026-03-14T18:01:59.271Z",
+    "raw": "Br. Vlaka 47990 dolazak      14.03.26. 18:52, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47990",
+    "event_time": "2026-03-14T18:57:00",
+    "seen_at": "2026-03-14T18:02:21.446Z",
+    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 18:57, kolodvor SESVETE"
   }
 ]
