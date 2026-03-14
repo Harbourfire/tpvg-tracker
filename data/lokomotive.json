@@ -4714,5 +4714,41 @@
     "event_time": "2026-03-14T13:40:00",
     "seen_at": "2026-03-14T12:43:14.600Z",
     "raw": "Br. Vlaka 63310 dolazak      14.03.26. 13:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-14T13:40:00",
+    "seen_at": "2026-03-14T12:44:10.986Z",
+    "raw": "Br. Vlaka 63310 promjena sas 14.03.26. 13:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "47990",
+    "event_time": "2026-03-14T13:49:00",
+    "seen_at": "2026-03-14T12:50:42.516Z",
+    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 13:49, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-14T13:49:00",
+    "seen_at": "2026-03-14T12:51:47.707Z",
+    "raw": "Br. Vlaka 63310 odlazak      14.03.26. 13:49, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVOSELEC",
+    "train_number": "49841",
+    "event_time": "2026-03-14T13:50:00",
+    "seen_at": "2026-03-14T12:52:09.299Z",
+    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 13:50, kolodvor NOVOSELEC"
   }
 ]
