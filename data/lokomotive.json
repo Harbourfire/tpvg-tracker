@@ -7396,5 +7396,77 @@
     "event_time": "2026-03-15T10:54:00",
     "seen_at": "2026-03-15T09:55:00.776Z",
     "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "89540",
+    "event_time": "2026-03-15T10:55:00",
+    "seen_at": "2026-03-15T10:04:40.741Z",
+    "raw": "Br. Vlaka 89540 dolazak      15.03.26. 10:55, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82505",
+    "event_time": "2026-03-15T11:02:00",
+    "seen_at": "2026-03-15T10:05:46.458Z",
+    "raw": "Br. Vlaka 82505 dolazak      15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82505",
+    "event_time": "2026-03-15T11:02:00",
+    "seen_at": "2026-03-15T10:05:46.458Z",
+    "raw": "Br. Vlaka 82505 dolazak      15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "47944",
+    "event_time": "2026-03-14T22:00:00",
+    "seen_at": "2026-03-15T10:07:55.804Z",
+    "raw": "Br. Vlaka 47944 formiran     14.03.26. 22:00, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89540",
+    "event_time": "2026-03-15T11:07:00",
+    "seen_at": "2026-03-15T10:07:55.804Z",
+    "raw": "Br. Vlaka 89540 odlazak      15.03.26. 11:07, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82505",
+    "event_time": "2026-03-15T11:02:00",
+    "seen_at": "2026-03-15T10:08:17.385Z",
+    "raw": "Br. Vlaka 82505 promjena sas 15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82505",
+    "event_time": "2026-03-15T11:02:00",
+    "seen_at": "2026-03-15T10:08:17.385Z",
+    "raw": "Br. Vlaka 82505 promjena sas 15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RK",
+    "train_number": "47945",
+    "event_time": "2026-03-15T11:10:00",
+    "seen_at": "2026-03-15T10:10:49.104Z",
+    "raw": "Br. Vlaka 47945 odlazak      15.03.26. 11:10, kolodvor 72303"
   }
 ]
