@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-12T23:36:00",
-    "seen_at": "2026-03-12T22:37:39.779Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.03.26. 23:36, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-12T23:36:00",
-    "seen_at": "2026-03-12T22:37:39.779Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.03.26. 23:36, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89871",
-    "event_time": "2026-03-12T23:35:00",
-    "seen_at": "2026-03-12T22:38:01.463Z",
-    "raw": "Br. Vlaka 89871 dolazak      12.03.26. 23:35, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89871",
-    "event_time": "2026-03-12T23:36:00",
-    "seen_at": "2026-03-12T22:38:24.117Z",
-    "raw": "Br. Vlaka 89871 odlazak      12.03.26. 23:36, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NOVO DRNJE",
@@ -8530,5 +8494,14 @@
     "event_time": "2026-03-15T23:25:00",
     "seen_at": "2026-03-15T22:25:16.990Z",
     "raw": "Br. Vlaka 89875 odlazak      15.03.26. 23:25, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "89875",
+    "event_time": "2026-03-15T23:39:00",
+    "seen_at": "2026-03-15T22:39:55.859Z",
+    "raw": "Br. Vlaka 89875 odlazak      15.03.26. 23:39, kolodvor LEPAVINA"
   }
 ]
