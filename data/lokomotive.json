@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89162",
-    "event_time": "2026-03-12T22:58:00",
-    "seen_at": "2026-03-12T21:58:47.023Z",
-    "raw": "Br. Vlaka 89162 odlazak      12.03.26. 22:58, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-12T22:58:00",
-    "seen_at": "2026-03-12T21:58:47.024Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.03.26. 22:58, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-12T22:58:00",
-    "seen_at": "2026-03-12T21:58:47.024Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.03.26. 22:58, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "89871",
-    "event_time": "2026-03-12T23:00:00",
-    "seen_at": "2026-03-12T22:00:14.603Z",
-    "raw": "Br. Vlaka 89871 odlazak      12.03.26. 23:00, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45940",
-    "event_time": "2026-03-12T18:40:00",
-    "seen_at": "2026-03-12T22:05:32.426Z",
-    "raw": "Br. Vlaka 45940 formiran     12.03.26. 18:40, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "KRIŽEVCI",
@@ -8620,5 +8575,23 @@
     "event_time": "2026-03-15T22:55:00",
     "seen_at": "2026-03-15T21:55:55.223Z",
     "raw": "Br. Vlaka 81276 odlazak      15.03.26. 22:55, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-15T23:02:00",
+    "seen_at": "2026-03-15T22:02:39.085Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-15T23:02:00",
+    "seen_at": "2026-03-15T22:02:39.085Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
