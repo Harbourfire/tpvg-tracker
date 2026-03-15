@@ -8503,5 +8503,41 @@
     "event_time": "2026-03-15T21:34:00",
     "seen_at": "2026-03-15T20:34:39.681Z",
     "raw": "Br. Vlaka 69006 odlazak      15.03.26. 21:34, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-15T21:39:00",
+    "seen_at": "2026-03-15T20:39:40.012Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-15T21:39:00",
+    "seen_at": "2026-03-15T20:39:40.012Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-15T20:46:00",
+    "seen_at": "2026-03-15T20:40:45.331Z",
+    "raw": "Br. Vlaka 69005 formiran     15.03.26. 20:46, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-15T20:46:00",
+    "seen_at": "2026-03-15T20:41:06.951Z",
+    "raw": "Br. Vlaka 69005 formiran     15.03.26. 20:46, kolodvor OGULIN"
   }
 ]
