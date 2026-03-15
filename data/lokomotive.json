@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "83812",
-    "event_time": "2026-03-13T00:02:00",
-    "seen_at": "2026-03-12T23:04:11.016Z",
-    "raw": "Br. Vlaka 83812 odlazak      13.03.26. 00:02, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-03-12T23:59:00",
-    "seen_at": "2026-03-12T23:05:16.678Z",
-    "raw": "Br. Vlaka 63305 dolazak      12.03.26. 23:59, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-03-12T23:59:00",
-    "seen_at": "2026-03-12T23:05:16.678Z",
-    "raw": "Br. Vlaka 63305 dolazak      12.03.26. 23:59, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-12T23:53:00",
-    "seen_at": "2026-03-12T23:06:15.324Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
     "uic": "928012230050",
     "type": "Promjena sastava",
     "station": "LIČKO LEŠĆE",
@@ -8494,5 +8458,23 @@
     "event_time": "2026-03-15T23:59:00",
     "seen_at": "2026-03-15T23:00:18.585Z",
     "raw": "Br. Vlaka 47981 odlazak      15.03.26. 23:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:03:00",
+    "seen_at": "2026-03-15T23:05:14.242Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 00:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:03:00",
+    "seen_at": "2026-03-15T23:05:14.242Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 00:03, kolodvor OŠTARIJE"
   }
 ]
