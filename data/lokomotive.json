@@ -6136,5 +6136,59 @@
     "event_time": "2026-03-15T01:07:00",
     "seen_at": "2026-03-15T00:07:58.979Z",
     "raw": "Br. Vlaka 63305 odlazak      15.03.26. 01:07, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-15T01:08:00",
+    "seen_at": "2026-03-15T00:21:27.674Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89874",
+    "event_time": "2026-03-14T15:03:00",
+    "seen_at": "2026-03-15T00:22:11.975Z",
+    "raw": "Br. Vlaka 89874 formiran     14.03.26. 15:03, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81221",
+    "event_time": "2026-03-15T01:23:00",
+    "seen_at": "2026-03-15T00:23:40.399Z",
+    "raw": "Br. Vlaka 81221 dolazak      15.03.26. 01:23, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-15T01:24:00",
+    "seen_at": "2026-03-15T00:25:08.025Z",
+    "raw": "Br. Vlaka 63305 odlazak      15.03.26. 01:24, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-15T01:24:00",
+    "seen_at": "2026-03-15T00:25:08.025Z",
+    "raw": "Br. Vlaka 63305 odlazak      15.03.26. 01:24, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "81128",
+    "event_time": "2026-03-15T01:23:00",
+    "seen_at": "2026-03-15T00:27:19.775Z",
+    "raw": "Br. Vlaka 81128 odlazak      15.03.26. 01:23, kolodvor VRBOVEC"
   }
 ]
