@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "81987",
-    "event_time": "2026-03-13T00:32:00",
-    "seen_at": "2026-03-12T23:33:18.165Z",
-    "raw": "Br. Vlaka 81987 odlazak      13.03.26. 00:32, kolodvor SV. IVAN ŽABNO"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -8467,5 +8458,23 @@
     "event_time": "2026-03-16T00:24:00",
     "seen_at": "2026-03-15T23:27:13.348Z",
     "raw": "Br. Vlaka 63305 dolazak      16.03.26. 00:24, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:24:00",
+    "seen_at": "2026-03-15T23:29:17.675Z",
+    "raw": "Br. Vlaka 63305 promjena sas 16.03.26. 00:24, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:24:00",
+    "seen_at": "2026-03-15T23:29:17.675Z",
+    "raw": "Br. Vlaka 63305 promjena sas 16.03.26. 00:24, kolodvor PLAŠKI"
   }
 ]
