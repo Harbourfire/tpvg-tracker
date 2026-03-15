@@ -7108,5 +7108,32 @@
     "event_time": "2026-03-15T09:18:00",
     "seen_at": "2026-03-15T08:18:44.122Z",
     "raw": "Br. Vlaka 89870 odlazak      15.03.26. 09:18, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "89870",
+    "event_time": "2026-03-15T09:26:00",
+    "seen_at": "2026-03-15T08:27:13.647Z",
+    "raw": "Br. Vlaka 89870 odlazak      15.03.26. 09:26, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BIZOVAC",
+    "train_number": null,
+    "event_time": "2026-03-15T09:25:00",
+    "seen_at": "2026-03-15T08:30:06.813Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "BIZOVAC",
+    "train_number": "89540",
+    "event_time": "2026-03-15T04:41:00",
+    "seen_at": "2026-03-15T08:34:48.004Z",
+    "raw": "Br. Vlaka 89540 formiran     15.03.26. 04:41, kolodvor BIZOVAC"
   }
 ]
