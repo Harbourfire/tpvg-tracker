@@ -2,15 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "81987",
-    "event_time": "2026-03-13T00:22:00",
-    "seen_at": "2026-03-12T23:23:13.875Z",
-    "raw": "Br. Vlaka 81987 odlazak      13.03.26. 00:22, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "SV. IVAN ŽABNO",
     "train_number": "81987",
     "event_time": "2026-03-13T00:32:00",
@@ -8458,5 +8449,23 @@
     "event_time": "2026-03-16T00:08:00",
     "seen_at": "2026-03-15T23:10:16.010Z",
     "raw": "Br. Vlaka 63305 odlazak      16.03.26. 00:08, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:24:00",
+    "seen_at": "2026-03-15T23:27:13.348Z",
+    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 00:24, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:24:00",
+    "seen_at": "2026-03-15T23:27:13.348Z",
+    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 00:24, kolodvor PLAŠKI"
   }
 ]
