@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "83812",
-    "event_time": "2026-03-13T00:41:00",
-    "seen_at": "2026-03-12T23:47:10.101Z",
-    "raw": "Br. Vlaka 83812 dolazak      13.03.26. 00:41, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-13T00:30:00",
-    "seen_at": "2026-03-12T23:48:16.473Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-03-13T00:37:00",
-    "seen_at": "2026-03-12T23:48:38.289Z",
-    "raw": "Br. Vlaka 61004 formiran     13.03.26. 00:37, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-13T00:50:00",
-    "seen_at": "2026-03-12T23:51:20.752Z",
-    "raw": "Br. Vlaka 63305 odlazak      13.03.26. 00:50, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-13T00:50:00",
-    "seen_at": "2026-03-12T23:51:20.752Z",
-    "raw": "Br. Vlaka 63305 odlazak      13.03.26. 00:50, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "BJELOVAR",
@@ -8458,5 +8413,50 @@
     "event_time": "2026-03-16T00:24:00",
     "seen_at": "2026-03-15T23:29:17.675Z",
     "raw": "Br. Vlaka 63305 promjena sas 16.03.26. 00:24, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:44:00",
+    "seen_at": "2026-03-15T23:46:12.246Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 00:44, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-16T00:44:00",
+    "seen_at": "2026-03-15T23:46:12.246Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 00:44, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-16T00:48:00",
+    "seen_at": "2026-03-15T23:49:05.928Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89875",
+    "event_time": "2026-03-16T00:35:00",
+    "seen_at": "2026-03-15T23:50:31.835Z",
+    "raw": "Br. Vlaka 89875 odlazak      16.03.26. 00:35, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89875",
+    "event_time": "2026-03-16T00:48:00",
+    "seen_at": "2026-03-15T23:51:36.743Z",
+    "raw": "Br. Vlaka 89875 odlazak      16.03.26. 00:48, kolodvor 73164"
   }
 ]
