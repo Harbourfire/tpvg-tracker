@@ -7477,5 +7477,41 @@
     "event_time": "2026-03-15T11:15:00",
     "seen_at": "2026-03-15T10:15:43.243Z",
     "raw": "Br. Vlaka 47945 odlazak      15.03.26. 11:15, kolodvor 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-03-15T11:25:00",
+    "seen_at": "2026-03-15T10:25:40.850Z",
+    "raw": "Br. Vlaka 47945 odlazak      15.03.26. 11:25, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89540",
+    "event_time": "2026-03-15T11:27:00",
+    "seen_at": "2026-03-15T10:28:12.694Z",
+    "raw": "Br. Vlaka 89540 dolazak      15.03.26. 11:27, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89540",
+    "event_time": "2026-03-15T11:27:00",
+    "seen_at": "2026-03-15T10:29:17.623Z",
+    "raw": "Br. Vlaka 89540 promjena sas 15.03.26. 11:27, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "47981",
+    "event_time": "2026-03-15T11:25:00",
+    "seen_at": "2026-03-15T10:29:39.143Z",
+    "raw": "Br. Vlaka 47981 promjena sas 15.03.26. 11:25, kolodvor BELI MANASTIR"
   }
 ]
