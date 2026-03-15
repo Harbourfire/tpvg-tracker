@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "89871",
-    "event_time": "2026-03-12T23:08:00",
-    "seen_at": "2026-03-12T22:08:26.802Z",
-    "raw": "Br. Vlaka 89871 odlazak      12.03.26. 23:08, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-12T23:08:00",
-    "seen_at": "2026-03-12T22:08:48.732Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.03.26. 23:08, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-12T23:08:00",
-    "seen_at": "2026-03-12T22:08:48.732Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.03.26. 23:08, kolodvor BLATA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RK",
-    "train_number": "81987",
-    "event_time": "2026-03-12T23:10:00",
-    "seen_at": "2026-03-12T22:11:22.960Z",
-    "raw": "Br. Vlaka 81987 odlazak      12.03.26. 23:10, kolodvor 72303"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89162",
-    "event_time": "2026-03-12T23:04:00",
-    "seen_at": "2026-03-12T22:12:06.722Z",
-    "raw": "Br. Vlaka 89162 dolazak      12.03.26. 23:04, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-12T23:04:00",
-    "seen_at": "2026-03-12T22:12:41.891Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -8593,5 +8539,41 @@
     "event_time": "2026-03-15T23:02:00",
     "seen_at": "2026-03-15T22:02:39.085Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-15T21:45:00",
+    "seen_at": "2026-03-15T22:08:14.220Z",
+    "raw": "Br. Vlaka 63305 formiran     15.03.26. 21:45, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-15T21:45:00",
+    "seen_at": "2026-03-15T22:08:14.220Z",
+    "raw": "Br. Vlaka 63305 formiran     15.03.26. 21:45, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "89875",
+    "event_time": "2026-03-15T23:11:00",
+    "seen_at": "2026-03-15T22:11:31.512Z",
+    "raw": "Br. Vlaka 89875 odlazak      15.03.26. 23:11, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-12T23:04:00",
+    "seen_at": "2026-03-15T22:13:20.185Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
