@@ -7342,5 +7342,59 @@
     "event_time": "2026-03-15T10:42:00",
     "seen_at": "2026-03-15T09:43:37.313Z",
     "raw": "Br. Vlaka 89540 odlazak      15.03.26. 10:42, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82505",
+    "event_time": "2026-03-15T10:46:00",
+    "seen_at": "2026-03-15T09:47:49.143Z",
+    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:46, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82505",
+    "event_time": "2026-03-15T10:46:00",
+    "seen_at": "2026-03-15T09:47:49.143Z",
+    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:46, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89193",
+    "event_time": "2026-03-15T10:46:00",
+    "seen_at": "2026-03-15T09:48:10.877Z",
+    "raw": "Br. Vlaka 89193 dolazak      15.03.26. 10:46, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89193",
+    "event_time": "2026-03-15T10:50:00",
+    "seen_at": "2026-03-15T09:52:29.576Z",
+    "raw": "Br. Vlaka 89193 odlazak      15.03.26. 10:50, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89193",
+    "event_time": "2026-03-15T10:54:00",
+    "seen_at": "2026-03-15T09:54:39.116Z",
+    "raw": "Br. Vlaka 89193 dolazak      15.03.26. 10:54, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-15T10:54:00",
+    "seen_at": "2026-03-15T09:55:00.776Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
   }
 ]
