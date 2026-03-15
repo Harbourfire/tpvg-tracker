@@ -8431,5 +8431,50 @@
     "event_time": "2026-03-15T20:40:00",
     "seen_at": "2026-03-15T20:17:15.778Z",
     "raw": "Br. Vlaka 81266 dolazak      15.03.26. 20:40, kolodvor PAĐENE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-15T15:27:00",
+    "seen_at": "2026-03-15T20:20:00.995Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "81276",
+    "event_time": "2026-03-15T21:22:00",
+    "seen_at": "2026-03-15T20:24:25.840Z",
+    "raw": "Br. Vlaka 81276 dolazak      15.03.26. 21:22, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "81276",
+    "event_time": "2026-03-15T21:22:00",
+    "seen_at": "2026-03-15T20:24:25.840Z",
+    "raw": "Br. Vlaka 81276 dolazak      15.03.26. 21:22, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Formiran",
+    "station": "PAĐENE",
+    "train_number": "89167",
+    "event_time": "2026-03-15T21:03:00",
+    "seen_at": "2026-03-15T20:25:31.631Z",
+    "raw": "Br. Vlaka 89167 formiran     15.03.26. 21:03, kolodvor PAĐENE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89875",
+    "event_time": "2026-03-15T21:26:00",
+    "seen_at": "2026-03-15T20:26:38.204Z",
+    "raw": "Br. Vlaka 89875 formiran     15.03.26. 21:26, kolodvor ZAPREŠIĆ"
   }
 ]
