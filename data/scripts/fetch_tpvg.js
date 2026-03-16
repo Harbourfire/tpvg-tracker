@@ -11,7 +11,7 @@ const STATION_CODES = {
   "71308": "IZVAN HŽ - BRČKO",
   "74609": "ĐURMANEC dg.",
   "78804": "SLAVONSKI ŠAMAC dg.",
-  "92515": "PREČEC",
+  "92515": "PREČEC STAJALIŠTE",
   "73115": "GRADEC STAJALIŠTE",
   "77424": "BUZET dg.",
   "71020": "TOVARNIK dg."
