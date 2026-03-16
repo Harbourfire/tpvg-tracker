@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-03-13T12:25:00",
-    "seen_at": "2026-03-13T11:25:21.122Z",
-    "raw": "Br. Vlaka 45104 odlazak      13.03.26. 12:25, kolodvor OTOK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "81214",
-    "event_time": "2026-03-13T12:27:00",
-    "seen_at": "2026-03-13T11:28:28.217Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 12:27, kolodvor NOVSKA"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -7819,5 +7801,23 @@
     "event_time": "2026-03-16T12:05:00",
     "seen_at": "2026-03-16T11:11:00.606Z",
     "raw": "Br. Vlaka 82141 promjena sas 16.03.26. 12:05, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:27:00",
+    "seen_at": "2026-03-16T11:28:14.546Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:27, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:27:00",
+    "seen_at": "2026-03-16T11:28:14.546Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:27, kolodvor PLAŠKI"
   }
 ]
