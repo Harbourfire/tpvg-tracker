@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-03-12T22:05:00",
-    "seen_at": "2026-03-13T11:40:20.968Z",
-    "raw": "Br. Vlaka 69751 formiran     12.03.26. 22:05, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82515",
-    "event_time": "2026-03-13T12:38:00",
-    "seen_at": "2026-03-13T11:40:20.968Z",
-    "raw": "Br. Vlaka 82515 odlazak      13.03.26. 12:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -7819,5 +7801,41 @@
     "event_time": "2026-03-16T12:27:00",
     "seen_at": "2026-03-16T11:28:14.546Z",
     "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:27, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-16T12:25:00",
+    "seen_at": "2026-03-16T11:35:25.848Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:38:00",
+    "seen_at": "2026-03-16T11:38:41.361Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:38, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:38:00",
+    "seen_at": "2026-03-16T11:38:41.361Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:38, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89173",
+    "event_time": "2026-03-16T12:37:00",
+    "seen_at": "2026-03-16T11:40:07.942Z",
+    "raw": "Br. Vlaka 89173 formiran     16.03.26. 12:37, kolodvor OSIJEK"
   }
 ]
