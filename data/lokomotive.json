@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-03-14T00:24:00",
-    "seen_at": "2026-03-13T23:24:23.334Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 00:24, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-03-14T00:24:00",
-    "seen_at": "2026-03-13T23:24:23.334Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 00:24, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "PERUŠIĆ",
     "train_number": "63305",
     "event_time": "2026-03-14T00:43:00",
@@ -8107,5 +8089,41 @@
     "event_time": "2026-03-17T00:15:00",
     "seen_at": "2026-03-16T23:20:08.543Z",
     "raw": "Br. Vlaka 48799 dolazak      17.03.26. 00:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-17T00:20:00",
+    "seen_at": "2026-03-16T23:24:43.471Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47939",
+    "event_time": "2026-03-17T00:26:00",
+    "seen_at": "2026-03-16T23:26:31.516Z",
+    "raw": "Br. Vlaka 47939 formiran     17.03.26. 00:26, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-03-17T00:30:00",
+    "seen_at": "2026-03-16T23:30:52.201Z",
+    "raw": "Br. Vlaka 48799 odlazak      17.03.26. 00:30, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-03-17T00:30:00",
+    "seen_at": "2026-03-16T23:30:52.202Z",
+    "raw": "Br. Vlaka 48799 odlazak      17.03.26. 00:30, kolodvor SAVSKI MAROF"
   }
 ]
