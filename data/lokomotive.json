@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "81214",
-    "event_time": "2026-03-13T22:34:00",
-    "seen_at": "2026-03-13T21:34:31.035Z",
-    "raw": "Br. Vlaka 81214 dolazak      13.03.26. 22:34, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-03-13T22:34:00",
-    "seen_at": "2026-03-13T21:35:08.555Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-13T22:36:00",
-    "seen_at": "2026-03-13T21:39:11.539Z",
-    "raw": "Br. Vlaka 63305 odlazak      13.03.26. 22:36, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-13T22:36:00",
-    "seen_at": "2026-03-13T21:39:11.539Z",
-    "raw": "Br. Vlaka 63305 odlazak      13.03.26. 22:36, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440026",
     "type": "Formiran",
     "station": "ČAKOVEC",
     "train_number": "89183",
@@ -7819,5 +7783,68 @@
     "event_time": "2026-03-16T22:23:00",
     "seen_at": "2026-03-16T21:24:40.390Z",
     "raw": "Br. Vlaka 63305 odlazak      16.03.26. 22:23, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T22:40:00",
+    "seen_at": "2026-03-16T21:41:47.777Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 22:40, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T22:40:00",
+    "seen_at": "2026-03-16T21:41:47.777Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 22:40, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81228",
+    "event_time": "2026-03-16T22:40:00",
+    "seen_at": "2026-03-16T21:42:31.809Z",
+    "raw": "Br. Vlaka 81228 odlazak      16.03.26. 22:40, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "48799",
+    "event_time": "2026-03-16T22:26:00",
+    "seen_at": "2026-03-16T21:43:15.934Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 22:26, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "48799",
+    "event_time": "2026-03-16T22:26:00",
+    "seen_at": "2026-03-16T21:43:15.935Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 22:26, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "48799",
+    "event_time": "2026-03-16T22:41:00",
+    "seen_at": "2026-03-16T21:43:37.840Z",
+    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 22:41, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "48799",
+    "event_time": "2026-03-16T22:41:00",
+    "seen_at": "2026-03-16T21:43:37.841Z",
+    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 22:41, kolodvor DUGO SELO"
   }
 ]
