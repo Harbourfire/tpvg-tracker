@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "92515",
-    "train_number": "89173",
-    "event_time": "2026-03-13T08:41:00",
-    "seen_at": "2026-03-13T07:41:19.031Z",
-    "raw": "Br. Vlaka 89173 odlazak      13.03.26. 08:41, kolodvor 92515"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DRENOVCI",
@@ -8125,5 +8116,23 @@
     "event_time": "2026-03-16T08:30:00",
     "seen_at": "2026-03-16T07:32:05.653Z",
     "raw": "Br. Vlaka 45105 odlazak      16.03.26. 08:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": "45105",
+    "event_time": "2026-03-16T08:39:00",
+    "seen_at": "2026-03-16T07:39:15.257Z",
+    "raw": "Br. Vlaka 45105 dolazak      16.03.26. 08:39, kolodvor 71308"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": null,
+    "event_time": "2026-03-16T08:39:00",
+    "seen_at": "2026-03-16T07:40:21.240Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
   }
 ]
