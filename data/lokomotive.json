@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KUTINA",
-    "train_number": "81214",
-    "event_time": "2026-03-13T11:26:00",
-    "seen_at": "2026-03-13T10:26:39.742Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 11:26, kolodvor KUTINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89541",
-    "event_time": "2026-03-13T11:25:00",
-    "seen_at": "2026-03-13T10:27:24.227Z",
-    "raw": "Br. Vlaka 89541 odlazak      13.03.26. 11:25, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82515",
-    "event_time": "2026-03-13T11:27:00",
-    "seen_at": "2026-03-13T10:28:07.570Z",
-    "raw": "Br. Vlaka 82515 odlazak      13.03.26. 11:27, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -7882,5 +7855,41 @@
     "event_time": "2026-03-16T11:15:00",
     "seen_at": "2026-03-16T10:18:32.463Z",
     "raw": "Br. Vlaka 71203 odlazak      16.03.26. 11:15, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-16T11:25:00",
+    "seen_at": "2026-03-16T10:26:05.568Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": "45104",
+    "event_time": "2026-03-16T11:26:00",
+    "seen_at": "2026-03-16T10:26:27.540Z",
+    "raw": "Br. Vlaka 45104 formiran     16.03.26. 11:26, kolodvor 71308"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "BRČKO - BiH (IZVAN HŽ)",
+    "train_number": "45104",
+    "event_time": "2026-03-16T11:08:00",
+    "seen_at": "2026-03-16T10:27:33.052Z",
+    "raw": "Br. Vlaka 45104 odlazak      16.03.26. 11:08, kolodvor 71308"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-16T11:17:00",
+    "seen_at": "2026-03-16T10:27:54.991Z",
+    "raw": "Br. Vlaka 45104 dolazak      16.03.26. 11:17, kolodvor DRENOVCI"
   }
 ]
