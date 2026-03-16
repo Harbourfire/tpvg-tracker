@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69852",
-    "event_time": "2026-03-13T08:22:00",
-    "seen_at": "2026-03-13T07:22:52.314Z",
-    "raw": "Br. Vlaka 69852 odlazak      13.03.26. 08:22, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "89173",
-    "event_time": "2026-03-13T08:25:00",
-    "seen_at": "2026-03-13T07:28:10.174Z",
-    "raw": "Br. Vlaka 89173 dolazak      13.03.26. 08:25, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89173",
-    "event_time": "2026-03-13T08:26:00",
-    "seen_at": "2026-03-13T07:28:31.787Z",
-    "raw": "Br. Vlaka 89173 odlazak      13.03.26. 08:26, kolodvor DUGO SELO"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "92515",
@@ -8134,5 +8107,14 @@
     "event_time": "2026-03-16T08:11:00",
     "seen_at": "2026-03-16T07:16:44.103Z",
     "raw": "Br. Vlaka 45105 dolazak      16.03.26. 08:11, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-03-16T08:20:00",
+    "seen_at": "2026-03-16T07:27:08.118Z",
+    "raw": "Br. Vlaka 71202 odlazak      16.03.26. 08:20, kolodvor VINKOVCI"
   }
 ]
