@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81214",
-    "event_time": "2026-03-13T21:00:00",
-    "seen_at": "2026-03-13T20:05:00.852Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 21:00, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "TURČIN",
     "train_number": "81214",
@@ -7657,5 +7648,14 @@
     "event_time": "2026-03-16T20:53:00",
     "seen_at": "2026-03-16T19:55:27.915Z",
     "raw": "Br. Vlaka 82322 odlazak      16.03.26. 20:53, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "82322",
+    "event_time": "2026-03-16T21:05:00",
+    "seen_at": "2026-03-16T20:07:30.746Z",
+    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:05, kolodvor IVANKOVO"
   }
 ]
