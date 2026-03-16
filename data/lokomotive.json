@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "45131",
-    "event_time": "2026-03-13T13:12:00",
-    "seen_at": "2026-03-13T12:20:06.698Z",
-    "raw": "Br. Vlaka 45131 dolazak      13.03.26. 13:12, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": null,
-    "event_time": "2026-03-13T11:12:00",
-    "seen_at": "2026-03-13T12:20:28.197Z",
-    "raw": "Trenutna pozicija je u kolodvoru 78803 SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "89432",
-    "event_time": "2026-03-13T13:07:00",
-    "seen_at": "2026-03-13T12:20:49.775Z",
-    "raw": "Br. Vlaka 89432 promjena sas 13.03.26. 13:07, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81214",
-    "event_time": "2026-03-13T13:20:00",
-    "seen_at": "2026-03-13T12:23:56.228Z",
-    "raw": "Br. Vlaka 81214 dolazak      13.03.26. 13:20, kolodvor SUNJA"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "VINKOVCI",
@@ -7792,5 +7756,23 @@
     "event_time": "2026-03-16T12:49:00",
     "seen_at": "2026-03-16T11:50:32.435Z",
     "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:49, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82141",
+    "event_time": "2026-03-16T13:19:00",
+    "seen_at": "2026-03-16T12:20:50.449Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 13:19, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82141",
+    "event_time": "2026-03-16T13:19:00",
+    "seen_at": "2026-03-16T12:20:50.449Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 13:19, kolodvor LIČKA JESENICA"
   }
 ]
