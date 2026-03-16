@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "MOSLAVAČKA GRAČENICA",
-    "train_number": "89173",
-    "event_time": "2026-03-13T09:41:00",
-    "seen_at": "2026-03-13T08:42:29.134Z",
-    "raw": "Br. Vlaka 89173 odlazak      13.03.26. 09:41, kolodvor MOSLAVAČKA GRAČENICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45940",
-    "event_time": "2026-03-13T09:41:00",
-    "seen_at": "2026-03-13T08:43:12.649Z",
-    "raw": "Br. Vlaka 45940 dolazak      13.03.26. 09:41, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "KUTINA",
     "train_number": "89173",
@@ -7981,5 +7963,23 @@
     "event_time": "2026-03-16T08:35:00",
     "seen_at": "2026-03-16T07:55:23.753Z",
     "raw": "Br. Vlaka 71202 dolazak      16.03.26. 08:35, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82141",
+    "event_time": "2026-03-16T09:39:00",
+    "seen_at": "2026-03-16T08:46:38.955Z",
+    "raw": "Br. Vlaka 82141 formiran     16.03.26. 09:39, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82141",
+    "event_time": "2026-03-16T09:39:00",
+    "seen_at": "2026-03-16T08:47:00.711Z",
+    "raw": "Br. Vlaka 82141 formiran     16.03.26. 09:39, kolodvor OŠTARIJE"
   }
 ]
