@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "81214",
-    "event_time": "2026-03-13T16:53:00",
-    "seen_at": "2026-03-13T15:53:27.281Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 16:53, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "66854",
-    "event_time": "2026-03-13T16:55:00",
-    "seen_at": "2026-03-13T15:57:37.186Z",
-    "raw": "Br. Vlaka 66854 dolazak      13.03.26. 16:55, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-13T16:55:00",
-    "seen_at": "2026-03-13T15:59:25.280Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-13T16:59:00",
-    "seen_at": "2026-03-13T16:01:14.452Z",
-    "raw": "Br. Vlaka 63310 dolazak      13.03.26. 16:59, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-13T15:13:00",
-    "seen_at": "2026-03-13T16:01:36.653Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "RUDOPOLJE",
-    "train_number": "69177",
-    "event_time": "2026-03-13T14:57:00",
-    "seen_at": "2026-03-13T16:01:58.702Z",
-    "raw": "Br. Vlaka 69177 formiran     13.03.26. 14:57, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "VELIKA GORICA",
     "train_number": "81214",
@@ -7729,5 +7675,14 @@
     "event_time": "2026-03-16T16:45:00",
     "seen_at": "2026-03-16T15:47:11.251Z",
     "raw": "Br. Vlaka 48799 dolazak      16.03.26. 16:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "81228",
+    "event_time": "2026-03-16T16:37:00",
+    "seen_at": "2026-03-16T16:00:32.710Z",
+    "raw": "Br. Vlaka 81228 promjena sas 16.03.26. 16:37, kolodvor OSIJEK"
   }
 ]
