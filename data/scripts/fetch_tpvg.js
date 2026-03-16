@@ -8,7 +8,13 @@ const STATION_CODES = {
   "ZAGREB ZAP": "ZAGREB ZAPADNI",
   "72302": "ZAGREB ŽITNJAK",
   "73164": "NOVO DRNJE",
-  "71308": "BRČKO - BiH (IZVAN HŽ)"
+  "71308": "IZVAN HŽ - BRČKO",
+  "74609": "ĐURMANEC dg.",
+  "78804": "SLAVONSKI ŠAMAC dg.",
+  "92515": "PREČEC",
+  "73115": "GRADEC STAJALIŠTE",
+  "77424": "BUZET dg.",
+  "71020": "TOVARNIK dg."
 };
 function translateStation(station) {
   if (!station) return station;
