@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89432",
-    "event_time": "2026-03-13T15:11:00",
-    "seen_at": "2026-03-13T14:12:41.814Z",
-    "raw": "Br. Vlaka 89432 odlazak      13.03.26. 15:11, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -7747,5 +7738,32 @@
     "event_time": "2026-03-16T15:00:00",
     "seen_at": "2026-03-16T14:02:07.156Z",
     "raw": "Br. Vlaka 89173 odlazak      16.03.26. 15:00, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-03-16T14:46:00",
+    "seen_at": "2026-03-16T14:06:25.093Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "89173",
+    "event_time": "2026-03-16T15:07:00",
+    "seen_at": "2026-03-16T14:07:08.936Z",
+    "raw": "Br. Vlaka 89173 dolazak      16.03.26. 15:07, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-16T15:07:00",
+    "seen_at": "2026-03-16T14:07:30.976Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
