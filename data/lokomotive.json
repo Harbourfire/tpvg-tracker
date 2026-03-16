@@ -2,42 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "89250",
-    "event_time": "2026-03-13T01:39:00",
-    "seen_at": "2026-03-13T00:40:02.932Z",
-    "raw": "Br. Vlaka 89250 odlazak      13.03.26. 01:39, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47991",
-    "event_time": "2026-03-13T01:40:00",
-    "seen_at": "2026-03-13T00:41:28.684Z",
-    "raw": "Br. Vlaka 47991 dolazak      13.03.26. 01:40, kolodvor 73164"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89250",
-    "event_time": "2026-03-13T01:46:00",
-    "seen_at": "2026-03-13T00:46:22.753Z",
-    "raw": "Br. Vlaka 89250 odlazak      13.03.26. 01:46, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-12T04:03:00",
-    "seen_at": "2026-03-13T00:46:44.442Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "89250",
     "event_time": "2026-03-13T01:50:00",
@@ -8485,5 +8449,23 @@
     "event_time": "2026-03-16T01:26:00",
     "seen_at": "2026-03-16T00:27:14.481Z",
     "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:26, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T01:39:00",
+    "seen_at": "2026-03-16T00:40:00.636Z",
+    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 01:39, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T01:39:00",
+    "seen_at": "2026-03-16T00:40:00.636Z",
+    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 01:39, kolodvor LIČKO LEŠĆE"
   }
 ]
