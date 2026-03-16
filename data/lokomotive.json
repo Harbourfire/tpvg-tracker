@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VIROVITICA",
-    "train_number": "81987",
-    "event_time": "2026-03-13T05:37:00",
-    "seen_at": "2026-03-13T04:40:48.149Z",
-    "raw": "Br. Vlaka 81987 dolazak      13.03.26. 05:37, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-03-13T05:37:00",
-    "seen_at": "2026-03-13T04:41:09.852Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "SAVSKI MAROF GRANICA",
@@ -8287,5 +8269,23 @@
     "event_time": "2026-03-16T05:25:00",
     "seen_at": "2026-03-16T04:27:02.375Z",
     "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82132",
+    "event_time": "2026-03-16T05:40:00",
+    "seen_at": "2026-03-16T04:41:14.336Z",
+    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:40, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82132",
+    "event_time": "2026-03-16T05:40:00",
+    "seen_at": "2026-03-16T04:41:14.336Z",
+    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:40, kolodvor JOSIPDOL"
   }
 ]
