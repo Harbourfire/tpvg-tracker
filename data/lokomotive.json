@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-14T00:09:00",
-    "seen_at": "2026-03-13T23:10:08.548Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 00:09, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-14T00:09:00",
-    "seen_at": "2026-03-13T23:10:08.548Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 00:09, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "63305",
     "event_time": "2026-03-14T00:24:00",
@@ -8062,5 +8044,50 @@
     "event_time": "2026-03-16T16:38:00",
     "seen_at": "2026-03-16T23:04:06.007Z",
     "raw": "Br. Vlaka 45130 promjena sas 16.03.26. 16:38, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89754",
+    "event_time": "2026-03-17T00:05:00",
+    "seen_at": "2026-03-16T23:05:24.006Z",
+    "raw": "Br. Vlaka 89754 odlazak      17.03.26. 00:05, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-03-17T00:08:00",
+    "seen_at": "2026-03-16T23:08:40.075Z",
+    "raw": "Br. Vlaka 69326 formiran     17.03.26. 00:08, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48799",
+    "event_time": "2026-03-17T00:08:00",
+    "seen_at": "2026-03-16T23:10:06.580Z",
+    "raw": "Br. Vlaka 48799 odlazak      17.03.26. 00:08, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48799",
+    "event_time": "2026-03-17T00:08:00",
+    "seen_at": "2026-03-16T23:10:06.581Z",
+    "raw": "Br. Vlaka 48799 odlazak      17.03.26. 00:08, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89893",
+    "event_time": "2026-03-17T00:12:00",
+    "seen_at": "2026-03-16T23:12:17.269Z",
+    "raw": "Br. Vlaka 89893 odlazak      17.03.26. 00:12, kolodvor 73164"
   }
 ]
