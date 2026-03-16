@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-14T00:01:00",
-    "seen_at": "2026-03-13T23:02:41.161Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 00:01, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-14T00:01:00",
-    "seen_at": "2026-03-13T23:02:41.161Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 00:01, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "63305",
     "event_time": "2026-03-14T00:09:00",
@@ -8035,5 +8017,50 @@
     "event_time": "2026-03-16T23:52:00",
     "seen_at": "2026-03-16T22:54:13.385Z",
     "raw": "Br. Vlaka 89754 odlazak      16.03.26. 23:52, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48799",
+    "event_time": "2026-03-16T23:55:00",
+    "seen_at": "2026-03-16T22:56:20.181Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 23:55, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48799",
+    "event_time": "2026-03-16T23:55:00",
+    "seen_at": "2026-03-16T22:56:20.182Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 23:55, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-03-16T23:53:00",
+    "seen_at": "2026-03-16T23:00:24.278Z",
+    "raw": "Br. Vlaka 89893 dolazak      16.03.26. 23:53, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-03-16T23:55:00",
+    "seen_at": "2026-03-16T23:00:46.960Z",
+    "raw": "Br. Vlaka 89893 odlazak      16.03.26. 23:55, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-03-16T16:38:00",
+    "seen_at": "2026-03-16T23:04:06.007Z",
+    "raw": "Br. Vlaka 45130 promjena sas 16.03.26. 16:38, kolodvor VINKOVCI"
   }
 ]
