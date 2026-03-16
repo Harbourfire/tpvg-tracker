@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-03-13T18:42:00",
-    "seen_at": "2026-03-13T17:42:30.656Z",
-    "raw": "Br. Vlaka 63310 odlazak      13.03.26. 18:42, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAGREB ZAP. KOL.",
@@ -7774,5 +7765,41 @@
     "event_time": "2026-03-16T18:27:00",
     "seen_at": "2026-03-16T17:40:13.135Z",
     "raw": "Br. Vlaka 82322 dolazak      16.03.26. 18:27, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "48799",
+    "event_time": "2026-03-16T18:41:00",
+    "seen_at": "2026-03-16T17:41:52.020Z",
+    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 18:41, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "48799",
+    "event_time": "2026-03-16T18:41:00",
+    "seen_at": "2026-03-16T17:41:52.021Z",
+    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 18:41, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "48799",
+    "event_time": "2026-03-16T18:48:00",
+    "seen_at": "2026-03-16T17:48:22.206Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 18:48, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "48799",
+    "event_time": "2026-03-16T18:48:00",
+    "seen_at": "2026-03-16T17:48:22.207Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 18:48, kolodvor VRBOVEC"
   }
 ]
