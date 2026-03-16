@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-03-13T01:03:00",
-    "seen_at": "2026-03-13T00:04:07.325Z",
-    "raw": "Br. Vlaka 61004 odlazak      13.03.26. 01:03, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-13T01:02:00",
-    "seen_at": "2026-03-13T00:07:21.793Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-13T01:02:00",
-    "seen_at": "2026-03-13T00:07:21.793Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAGREB RK",
@@ -8485,5 +8458,41 @@
     "event_time": "2026-03-16T00:55:00",
     "seen_at": "2026-03-15T23:58:41.387Z",
     "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48799",
+    "event_time": "2026-03-15T09:23:00",
+    "seen_at": "2026-03-16T00:03:34.085Z",
+    "raw": "Br. Vlaka 48799 formiran     15.03.26. 09:23, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-16T01:03:00",
+    "seen_at": "2026-03-16T00:04:39.675Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:03, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-16T01:03:00",
+    "seen_at": "2026-03-16T00:04:39.675Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:03, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89161",
+    "event_time": "2026-03-16T00:01:00",
+    "seen_at": "2026-03-16T00:05:44.635Z",
+    "raw": "Br. Vlaka 89161 formiran     16.03.26. 00:01, kolodvor VINKOVCI"
   }
 ]
