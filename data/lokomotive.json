@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76505",
-    "event_time": "2026-03-13T07:36:00",
-    "seen_at": "2026-03-13T06:36:38.091Z",
-    "raw": "Br. Vlaka 76505 odlazak      13.03.26. 07:36, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89173",
-    "event_time": "2026-03-13T07:38:00",
-    "seen_at": "2026-03-13T06:39:08.821Z",
-    "raw": "Br. Vlaka 89173 odlazak      13.03.26. 07:38, kolodvor 72302"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-03-13T07:34:00",
-    "seen_at": "2026-03-13T06:40:57.265Z",
-    "raw": "Br. Vlaka 45105 odlazak      13.03.26. 07:34, kolodvor OTOK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89173",
-    "event_time": "2026-03-13T07:42:00",
-    "seen_at": "2026-03-13T06:43:41.247Z",
-    "raw": "Br. Vlaka 89173 dolazak      13.03.26. 07:42, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -8206,5 +8170,32 @@
     "event_time": "2026-03-16T07:27:00",
     "seen_at": "2026-03-16T06:32:21.593Z",
     "raw": "Br. Vlaka 48799 odlazak      16.03.26. 07:27, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48799",
+    "event_time": "2026-03-16T07:37:00",
+    "seen_at": "2026-03-16T06:38:00.244Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 07:37, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48799",
+    "event_time": "2026-03-16T07:37:00",
+    "seen_at": "2026-03-16T06:38:00.245Z",
+    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 07:37, kolodvor 73164"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-03-16T07:34:00",
+    "seen_at": "2026-03-16T06:41:14.790Z",
+    "raw": "Br. Vlaka 45105 odlazak      16.03.26. 07:34, kolodvor OTOK"
   }
 ]
