@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81214",
-    "event_time": "2026-03-13T15:34:00",
-    "seen_at": "2026-03-13T14:34:53.097Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 15:34, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69491",
-    "event_time": "2026-03-13T15:38:00",
-    "seen_at": "2026-03-13T14:38:47.681Z",
-    "raw": "Br. Vlaka 69491 odlazak      13.03.26. 15:38, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "STARI MIKANOVCI",
@@ -7720,5 +7702,14 @@
     "event_time": "2026-03-13T15:28:00",
     "seen_at": "2026-03-16T14:29:00.277Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "ŽUPANJA",
+    "train_number": "82322",
+    "event_time": "2026-03-16T15:37:00",
+    "seen_at": "2026-03-16T14:37:28.283Z",
+    "raw": "Br. Vlaka 82322 formiran     16.03.26. 15:37, kolodvor ŽUPANJA"
   }
 ]
