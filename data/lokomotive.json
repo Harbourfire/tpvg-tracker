@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "69352",
-    "event_time": "2026-03-13T11:55:00",
-    "seen_at": "2026-03-13T10:56:31.951Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.03.26. 11:55, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-13T11:55:00",
-    "seen_at": "2026-03-13T10:56:53.484Z",
-    "raw": "Br. Vlaka 45104 odlazak      13.03.26. 11:55, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82515",
-    "event_time": "2026-03-13T11:49:00",
-    "seen_at": "2026-03-13T10:56:53.485Z",
-    "raw": "Br. Vlaka 82515 promjena sas 13.03.26. 11:49, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "69352",
-    "event_time": "2026-03-13T12:03:00",
-    "seen_at": "2026-03-13T11:03:17.456Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.03.26. 12:03, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-03-13T12:02:00",
-    "seen_at": "2026-03-13T11:03:39.204Z",
-    "raw": "Br. Vlaka 49827 odlazak      13.03.26. 12:02, kolodvor ERDUT"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-13T11:38:00",
-    "seen_at": "2026-03-13T11:04:44.454Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620189",
     "type": "Rasformiran",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": null,
@@ -7855,5 +7801,14 @@
     "event_time": "2026-03-16T11:47:00",
     "seen_at": "2026-03-16T10:51:29.508Z",
     "raw": "Br. Vlaka 82141 odlazak      16.03.26. 11:47, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-03-16T11:58:00",
+    "seen_at": "2026-03-16T10:58:37.320Z",
+    "raw": "Br. Vlaka 45104 odlazak      16.03.26. 11:58, kolodvor OTOK"
   }
 ]
