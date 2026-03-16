@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "69491",
-    "event_time": "2026-03-13T15:25:00",
-    "seen_at": "2026-03-13T14:25:17.556Z",
-    "raw": "Br. Vlaka 69491 odlazak      13.03.26. 15:25, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-13T15:28:00",
-    "seen_at": "2026-03-13T14:28:24.788Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "69491",
-    "event_time": "2026-03-13T15:31:00",
-    "seen_at": "2026-03-13T14:31:39.035Z",
-    "raw": "Br. Vlaka 69491 odlazak      13.03.26. 15:31, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
@@ -7738,5 +7711,14 @@
     "event_time": "2026-03-16T15:07:00",
     "seen_at": "2026-03-16T14:07:30.976Z",
     "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-13T15:28:00",
+    "seen_at": "2026-03-16T14:29:00.277Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
