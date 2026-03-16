@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-03-13T02:08:00",
-    "seen_at": "2026-03-13T01:09:23.240Z",
-    "raw": "Br. Vlaka 81230 odlazak      13.03.26. 02:08, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-03-13T02:08:00",
-    "seen_at": "2026-03-13T01:09:23.240Z",
-    "raw": "Br. Vlaka 81230 odlazak      13.03.26. 02:08, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -8467,5 +8449,23 @@
     "event_time": "2026-03-16T01:39:00",
     "seen_at": "2026-03-16T01:05:25.686Z",
     "raw": "Br. Vlaka 63305 dolazak      16.03.26. 01:39, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T02:03:00",
+    "seen_at": "2026-03-16T01:05:59.089Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 02:03, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T02:03:00",
+    "seen_at": "2026-03-16T01:05:59.089Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 02:03, kolodvor LIČKO LEŠĆE"
   }
 ]
