@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "81214",
-    "event_time": "2026-03-13T21:21:00",
-    "seen_at": "2026-03-13T20:23:42.513Z",
-    "raw": "Br. Vlaka 81214 dolazak      13.03.26. 21:21, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440026",
     "type": "Odlazak",
     "station": "TURČIN",
     "train_number": "81214",
@@ -7693,5 +7684,32 @@
     "event_time": "2026-03-16T21:20:00",
     "seen_at": "2026-03-16T20:21:18.618Z",
     "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:20, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-03-16T21:24:00",
+    "seen_at": "2026-03-16T20:26:18.164Z",
+    "raw": "Br. Vlaka 69175 odlazak      16.03.26. 21:24, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-03-16T21:24:00",
+    "seen_at": "2026-03-16T20:26:18.164Z",
+    "raw": "Br. Vlaka 69175 odlazak      16.03.26. 21:24, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "82322",
+    "event_time": "2026-03-16T21:29:00",
+    "seen_at": "2026-03-16T20:29:36.133Z",
+    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:29, kolodvor ANDRIJEVCI"
   }
 ]
