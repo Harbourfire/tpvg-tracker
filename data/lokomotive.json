@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-13T23:00:00",
-    "seen_at": "2026-03-13T22:04:22.967Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-13T23:06:00",
-    "seen_at": "2026-03-13T22:06:33.005Z",
-    "raw": "Br. Vlaka 63305 odlazak      13.03.26. 23:06, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-13T23:06:00",
-    "seen_at": "2026-03-13T22:06:33.005Z",
-    "raw": "Br. Vlaka 63305 odlazak      13.03.26. 23:06, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "81993",
-    "event_time": "2026-03-13T22:14:00",
-    "seen_at": "2026-03-13T22:09:05.037Z",
-    "raw": "Br. Vlaka 81993 formiran     13.03.26. 22:14, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "LIČKA JESENICA",
@@ -7819,5 +7783,59 @@
     "event_time": "2026-03-16T22:48:00",
     "seen_at": "2026-03-16T21:49:59.608Z",
     "raw": "Br. Vlaka 63305 odlazak      16.03.26. 22:48, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48799",
+    "event_time": "2026-03-16T23:02:00",
+    "seen_at": "2026-03-16T22:02:26.170Z",
+    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 23:02, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48799",
+    "event_time": "2026-03-16T23:02:00",
+    "seen_at": "2026-03-16T22:02:26.171Z",
+    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 23:02, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T23:01:00",
+    "seen_at": "2026-03-16T22:03:09.809Z",
+    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 23:01, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T23:01:00",
+    "seen_at": "2026-03-16T22:03:09.810Z",
+    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 23:01, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T23:07:00",
+    "seen_at": "2026-03-16T22:10:23.658Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 23:07, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T23:07:00",
+    "seen_at": "2026-03-16T22:10:23.658Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 23:07, kolodvor LIČKO LEŠĆE"
   }
 ]
