@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "47991",
-    "event_time": "2026-03-13T05:23:00",
-    "seen_at": "2026-03-13T04:24:05.795Z",
-    "raw": "Br. Vlaka 47991 odlazak      13.03.26. 05:23, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "47991",
-    "event_time": "2026-03-13T05:28:00",
-    "seen_at": "2026-03-13T04:29:04.181Z",
-    "raw": "Br. Vlaka 47991 dolazak      13.03.26. 05:28, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-03-13T05:28:00",
-    "seen_at": "2026-03-13T04:29:26.139Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ŠPIŠIĆ BUKOVICA",
@@ -8305,5 +8278,23 @@
     "event_time": "2026-03-16T05:17:00",
     "seen_at": "2026-03-16T04:18:11.295Z",
     "raw": "Br. Vlaka 82132 dolazak      16.03.26. 05:17, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82132",
+    "event_time": "2026-03-16T05:25:00",
+    "seen_at": "2026-03-16T04:27:02.375Z",
+    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82132",
+    "event_time": "2026-03-16T05:25:00",
+    "seen_at": "2026-03-16T04:27:02.375Z",
+    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:25, kolodvor PLAŠKI"
   }
 ]
