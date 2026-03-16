@@ -2,15 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-13T18:04:00",
-    "seen_at": "2026-03-13T17:07:36.838Z",
-    "raw": "Br. Vlaka 63310 odlazak      13.03.26. 18:04, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "63310",
     "event_time": "2026-03-13T18:22:00",
@@ -7738,5 +7729,23 @@
     "event_time": "2026-03-16T17:59:00",
     "seen_at": "2026-03-16T17:00:22.496Z",
     "raw": "Br. Vlaka 81230 odlazak      16.03.26. 17:59, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-16T18:05:00",
+    "seen_at": "2026-03-16T17:06:07.447Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-16T18:05:00",
+    "seen_at": "2026-03-16T17:06:07.447Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
