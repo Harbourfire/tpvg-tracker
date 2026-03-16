@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Formiran",
-    "station": "JOSIPDOL",
-    "train_number": "82515",
-    "event_time": "2026-03-13T09:52:00",
-    "seen_at": "2026-03-13T09:43:41.997Z",
-    "raw": "Br. Vlaka 82515 formiran     13.03.26. 09:52, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82515",
-    "event_time": "2026-03-13T10:37:00",
-    "seen_at": "2026-03-13T09:44:25.359Z",
-    "raw": "Br. Vlaka 82515 odlazak      13.03.26. 10:37, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-13T10:43:00",
-    "seen_at": "2026-03-13T09:44:25.360Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "82515",
@@ -7891,5 +7864,41 @@
     "event_time": "2026-03-13T09:41:00",
     "seen_at": "2026-03-16T09:06:32.765Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-16T10:40:00",
+    "seen_at": "2026-03-16T09:44:12.472Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-03-16T08:20:00",
+    "seen_at": "2026-03-16T09:50:05.978Z",
+    "raw": "Br. Vlaka 71202 odlazak      16.03.26. 08:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "IVANKOVO",
+    "train_number": "71202",
+    "event_time": "2026-03-16T08:30:00",
+    "seen_at": "2026-03-16T09:51:35.360Z",
+    "raw": "Br. Vlaka 71202 dolazak      16.03.26. 08:30, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "IVANKOVO",
+    "train_number": null,
+    "event_time": "2026-03-16T08:30:00",
+    "seen_at": "2026-03-16T09:52:19.397Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
   }
 ]
