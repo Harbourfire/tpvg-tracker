@@ -2,15 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB RK",
-    "train_number": "89250",
-    "event_time": "2026-03-13T01:15:00",
-    "seen_at": "2026-03-13T00:17:08.959Z",
-    "raw": "Br. Vlaka 89250 odlazak      13.03.26. 01:15, kolodvor 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAGREB RK (PS)",
     "train_number": "89250",
     "event_time": "2026-03-13T01:22:00",
@@ -8494,5 +8485,32 @@
     "event_time": "2026-03-16T00:01:00",
     "seen_at": "2026-03-16T00:05:44.635Z",
     "raw": "Br. Vlaka 89161 formiran     16.03.26. 00:01, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89161",
+    "event_time": "2026-03-16T01:14:00",
+    "seen_at": "2026-03-16T00:14:37.774Z",
+    "raw": "Br. Vlaka 89161 odlazak      16.03.26. 01:14, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T01:18:00",
+    "seen_at": "2026-03-16T00:20:03.550Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:18, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-16T01:18:00",
+    "seen_at": "2026-03-16T00:20:03.550Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:18, kolodvor RUDOPOLJE"
   }
 ]
