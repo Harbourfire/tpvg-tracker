@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-13T16:42:00",
-    "seen_at": "2026-03-13T15:43:49.646Z",
-    "raw": "Br. Vlaka 63310 promjena sas 13.03.26. 16:42, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "OSIJEK DONJI GRAD",
@@ -7720,5 +7711,32 @@
     "event_time": "2026-03-16T16:30:00",
     "seen_at": "2026-03-16T15:32:02.537Z",
     "raw": "Br. Vlaka 81230 odlazak      16.03.26. 16:30, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81228",
+    "event_time": "2026-03-16T16:37:00",
+    "seen_at": "2026-03-16T15:39:36.716Z",
+    "raw": "Br. Vlaka 81228 dolazak      16.03.26. 16:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81230",
+    "event_time": "2026-03-16T16:41:00",
+    "seen_at": "2026-03-16T15:43:58.435Z",
+    "raw": "Br. Vlaka 81230 dolazak      16.03.26. 16:41, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81230",
+    "event_time": "2026-03-16T16:41:00",
+    "seen_at": "2026-03-16T15:43:58.435Z",
+    "raw": "Br. Vlaka 81230 dolazak      16.03.26. 16:41, kolodvor RUDOPOLJE"
   }
 ]
