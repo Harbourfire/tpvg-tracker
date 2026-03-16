@@ -2,15 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82515",
-    "event_time": "2026-03-13T10:52:00",
-    "seen_at": "2026-03-13T09:53:45.019Z",
-    "raw": "Br. Vlaka 82515 odlazak      13.03.26. 10:52, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "82515",
     "event_time": "2026-03-13T11:03:00",
@@ -7900,5 +7891,14 @@
     "event_time": "2026-03-16T08:30:00",
     "seen_at": "2026-03-16T09:52:19.397Z",
     "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-03-16T10:54:00",
+    "seen_at": "2026-03-16T09:57:24.905Z",
+    "raw": "Br. Vlaka 71203 formiran     16.03.26. 10:54, kolodvor IVANKOVO"
   }
 ]
