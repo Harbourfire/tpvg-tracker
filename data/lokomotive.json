@@ -2,24 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "81214",
-    "event_time": "2026-03-13T19:45:00",
-    "seen_at": "2026-03-13T18:53:43.497Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 19:45, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81214",
-    "event_time": "2026-03-13T19:55:00",
-    "seen_at": "2026-03-13T18:56:06.972Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 19:55, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
     "train_number": "81214",
     "event_time": "2026-03-13T20:03:00",
@@ -7702,5 +7684,23 @@
     "event_time": "2026-03-16T18:48:00",
     "seen_at": "2026-03-16T17:48:22.207Z",
     "raw": "Br. Vlaka 48799 dolazak      16.03.26. 18:48, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-16T19:33:00",
+    "seen_at": "2026-03-16T18:58:14.537Z",
+    "raw": "Br. Vlaka 69175 formiran     16.03.26. 19:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-16T19:33:00",
+    "seen_at": "2026-03-16T18:58:14.537Z",
+    "raw": "Br. Vlaka 69175 formiran     16.03.26. 19:33, kolodvor OŠTARIJE"
   }
 ]
