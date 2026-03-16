@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-13T12:11:00",
-    "seen_at": "2026-03-13T11:11:32.960Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-03-13T12:11:00",
-    "seen_at": "2026-03-13T11:12:38.102Z",
-    "raw": "Br. Vlaka 45104 odlazak      13.03.26. 12:11, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "DALJ",
@@ -7810,5 +7792,41 @@
     "event_time": "2026-03-16T11:58:00",
     "seen_at": "2026-03-16T10:58:37.320Z",
     "raw": "Br. Vlaka 45104 odlazak      16.03.26. 11:58, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:05:00",
+    "seen_at": "2026-03-16T11:10:39.092Z",
+    "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:05, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:05:00",
+    "seen_at": "2026-03-16T11:10:39.092Z",
+    "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:05, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:05:00",
+    "seen_at": "2026-03-16T11:11:00.606Z",
+    "raw": "Br. Vlaka 82141 promjena sas 16.03.26. 12:05, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "82141",
+    "event_time": "2026-03-16T12:05:00",
+    "seen_at": "2026-03-16T11:11:00.606Z",
+    "raw": "Br. Vlaka 82141 promjena sas 16.03.26. 12:05, kolodvor PLAŠKI"
   }
 ]
