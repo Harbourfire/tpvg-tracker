@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "69352",
-    "event_time": "2026-03-13T11:29:00",
-    "seen_at": "2026-03-13T10:30:17.434Z",
-    "raw": "Br. Vlaka 69352 formiran     13.03.26. 11:29, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BRČKO - BiH (IZVAN HŽ)",
-    "train_number": "45104",
-    "event_time": "2026-03-13T11:08:00",
-    "seen_at": "2026-03-13T10:31:44.807Z",
-    "raw": "Br. Vlaka 45104 odlazak      13.03.26. 11:08, kolodvor 71308"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-13T11:17:00",
-    "seen_at": "2026-03-13T10:32:06.523Z",
-    "raw": "Br. Vlaka 45104 dolazak      13.03.26. 11:17, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "81214",
-    "event_time": "2026-03-13T11:34:00",
-    "seen_at": "2026-03-13T10:35:11.588Z",
-    "raw": "Br. Vlaka 81214 odlazak      13.03.26. 11:34, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82515",
-    "event_time": "2026-03-13T11:34:00",
-    "seen_at": "2026-03-13T10:35:33.349Z",
-    "raw": "Br. Vlaka 82515 odlazak      13.03.26. 11:34, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "LIPOVLJANI",
@@ -7891,5 +7846,32 @@
     "event_time": "2026-03-16T11:17:00",
     "seen_at": "2026-03-16T10:27:54.991Z",
     "raw": "Br. Vlaka 45104 dolazak      16.03.26. 11:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-16T11:30:00",
+    "seen_at": "2026-03-16T10:32:11.526Z",
+    "raw": "Br. Vlaka 45104 odlazak      16.03.26. 11:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82141",
+    "event_time": "2026-03-16T11:32:00",
+    "seen_at": "2026-03-16T10:34:44.429Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 11:32, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82141",
+    "event_time": "2026-03-16T11:32:00",
+    "seen_at": "2026-03-16T10:34:44.430Z",
+    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 11:32, kolodvor OŠTARIJE"
   }
 ]
