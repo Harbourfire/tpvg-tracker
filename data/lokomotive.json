@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "81993",
-    "event_time": "2026-03-14T04:23:00",
-    "seen_at": "2026-03-14T03:25:09.170Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 04:23, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-14T04:24:00",
-    "seen_at": "2026-03-14T03:25:09.170Z",
-    "raw": "Br. Vlaka 63306 odlazak      14.03.26. 04:24, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-14T04:24:00",
-    "seen_at": "2026-03-14T03:25:09.171Z",
-    "raw": "Br. Vlaka 63306 odlazak      14.03.26. 04:24, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "BLATA",
-    "train_number": "89174",
-    "event_time": "2026-03-14T04:24:00",
-    "seen_at": "2026-03-14T03:25:30.844Z",
-    "raw": "Br. Vlaka 89174 dolazak      14.03.26. 04:24, kolodvor BLATA"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "BLATA",
@@ -8359,5 +8323,68 @@
     "event_time": "2026-03-17T04:20:00",
     "seen_at": "2026-03-17T03:20:54.696Z",
     "raw": "Br. Vlaka 81259 odlazak      17.03.26. 04:20, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-17T04:15:00",
+    "seen_at": "2026-03-17T03:24:42.321Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-17T04:15:00",
+    "seen_at": "2026-03-17T03:24:42.321Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "47939",
+    "event_time": "2026-03-17T04:24:00",
+    "seen_at": "2026-03-17T03:24:42.321Z",
+    "raw": "Br. Vlaka 47939 odlazak      17.03.26. 04:24, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89162",
+    "event_time": "2026-03-17T04:28:00",
+    "seen_at": "2026-03-17T03:30:09.172Z",
+    "raw": "Br. Vlaka 89162 odlazak      17.03.26. 04:28, kolodvor 72302"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "81259",
+    "event_time": "2026-03-17T04:29:00",
+    "seen_at": "2026-03-17T03:30:09.173Z",
+    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 04:29, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47939",
+    "event_time": "2026-03-17T04:30:00",
+    "seen_at": "2026-03-17T03:30:31.003Z",
+    "raw": "Br. Vlaka 47939 odlazak      17.03.26. 04:30, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "81226",
+    "event_time": "2026-03-17T04:31:00",
+    "seen_at": "2026-03-17T03:31:58.833Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 04:31, kolodvor OKUČANI"
   }
 ]
