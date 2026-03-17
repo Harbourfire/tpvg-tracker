@@ -2,15 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "89174",
-    "event_time": "2026-03-14T06:37:00",
-    "seen_at": "2026-03-14T05:38:38.299Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 06:37, kolodvor MALOVAN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "ZRMANJA",
     "train_number": "89174",
     "event_time": "2026-03-14T06:46:00",
@@ -8395,5 +8386,32 @@
     "event_time": "2026-03-14T06:34:00",
     "seen_at": "2026-03-17T05:35:56.493Z",
     "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "HORVATI",
+    "train_number": "81259",
+    "event_time": "2026-03-17T06:38:00",
+    "seen_at": "2026-03-17T05:41:17.564Z",
+    "raw": "Br. Vlaka 81259 dolazak      17.03.26. 06:38, kolodvor HORVATI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-03-17T06:41:00",
+    "seen_at": "2026-03-17T05:42:45.099Z",
+    "raw": "Br. Vlaka 71202 formiran     17.03.26. 06:41, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76601",
+    "event_time": "2026-03-17T06:46:00",
+    "seen_at": "2026-03-17T05:46:47.814Z",
+    "raw": "Br. Vlaka 76601 formiran     17.03.26. 06:46, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
