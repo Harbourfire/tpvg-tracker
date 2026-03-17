@@ -2,15 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "ZAGREB RK",
-    "train_number": "47990",
-    "event_time": "2026-03-14T18:32:00",
-    "seen_at": "2026-03-14T17:33:50.618Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 18:32, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
     "train_number": "47990",
     "event_time": "2026-03-14T18:40:00",
@@ -8701,5 +8692,23 @@
     "event_time": "2026-03-17T14:42:00",
     "seen_at": "2026-03-17T17:28:40.386Z",
     "raw": "Br. Vlaka 60340 promjena sas 17.03.26. 14:42, kolodvor KNIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "48581",
+    "event_time": "2026-03-17T18:32:00",
+    "seen_at": "2026-03-17T17:32:50.340Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.03.26. 18:32, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-03-17T18:31:00",
+    "seen_at": "2026-03-17T17:34:59.553Z",
+    "raw": "Br. Vlaka 63312 odlazak      17.03.26. 18:31, kolodvor VRHOVINE"
   }
 ]
