@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81995",
-    "event_time": "2026-03-14T10:34:00",
-    "seen_at": "2026-03-14T09:35:32.538Z",
-    "raw": "Br. Vlaka 81995 odlazak      14.03.26. 10:34, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "PAĐENE",
@@ -8692,5 +8683,50 @@
     "event_time": "2026-03-17T10:31:00",
     "seen_at": "2026-03-17T09:31:35.183Z",
     "raw": "Br. Vlaka 76600 odlazak      17.03.26. 10:31, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "71203",
+    "event_time": "2026-03-17T10:36:00",
+    "seen_at": "2026-03-17T09:37:15.116Z",
+    "raw": "Br. Vlaka 71203 dolazak      17.03.26. 10:36, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "47428",
+    "event_time": "2026-03-17T10:37:00",
+    "seen_at": "2026-03-17T09:38:20.018Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 10:37, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "47428",
+    "event_time": "2026-03-17T10:37:00",
+    "seen_at": "2026-03-17T09:38:20.018Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 10:37, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-17T10:38:00",
+    "seen_at": "2026-03-17T09:39:03.626Z",
+    "raw": "Br. Vlaka 69006 odlazak      17.03.26. 10:38, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-17T10:36:00",
+    "seen_at": "2026-03-17T09:40:52.033Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
