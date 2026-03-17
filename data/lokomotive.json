@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "49841",
-    "event_time": "2026-03-14T12:22:00",
-    "seen_at": "2026-03-14T11:23:47.974Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 12:22, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "47982",
-    "event_time": "2026-03-14T12:26:00",
-    "seen_at": "2026-03-14T11:26:42.657Z",
-    "raw": "Br. Vlaka 47982 dolazak      14.03.26. 12:26, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "BELI MANASTIR",
@@ -8701,5 +8683,23 @@
     "event_time": "2026-03-17T12:08:00",
     "seen_at": "2026-03-17T11:16:12.223Z",
     "raw": "Br. Vlaka 47428 dolazak      17.03.26. 12:08, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "81226",
+    "event_time": "2026-03-17T12:14:00",
+    "seen_at": "2026-03-17T11:21:09.423Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 12:14, kolodvor SUNJA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82203",
+    "event_time": "2026-03-17T12:23:00",
+    "seen_at": "2026-03-17T11:25:12.320Z",
+    "raw": "Br. Vlaka 82203 odlazak      17.03.26. 12:23, kolodvor PLAŠKI"
   }
 ]
