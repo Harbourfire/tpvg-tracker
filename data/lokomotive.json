@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "49841",
-    "event_time": "2026-03-14T12:54:00",
-    "seen_at": "2026-03-14T11:57:37.198Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 12:54, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "47990",
-    "event_time": "2026-03-14T12:58:00",
-    "seen_at": "2026-03-14T12:01:26.868Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 12:58, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-14T13:03:00",
-    "seen_at": "2026-03-14T12:04:40.366Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.03.26. 13:03, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -8692,5 +8665,68 @@
     "event_time": "2026-03-17T12:45:00",
     "seen_at": "2026-03-17T11:45:40.751Z",
     "raw": "Br. Vlaka 82203 dolazak      17.03.26. 12:45, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "IZVAN HŽ - BRČKO",
+    "train_number": "45104",
+    "event_time": "2026-03-17T12:56:00",
+    "seen_at": "2026-03-17T11:56:35.502Z",
+    "raw": "Br. Vlaka 45104 formiran     17.03.26. 12:56, kolodvor 71308"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-03-17T12:56:00",
+    "seen_at": "2026-03-17T11:56:57.695Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 12:56, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-03-17T12:56:00",
+    "seen_at": "2026-03-17T11:56:57.695Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 12:56, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "IZVAN HŽ - BRČKO",
+    "train_number": "45104",
+    "event_time": "2026-03-17T11:58:00",
+    "seen_at": "2026-03-17T11:57:20.523Z",
+    "raw": "Br. Vlaka 45104 odlazak      17.03.26. 11:58, kolodvor 71308"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-17T12:07:00",
+    "seen_at": "2026-03-17T11:57:42.733Z",
+    "raw": "Br. Vlaka 45104 dolazak      17.03.26. 12:07, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "81226",
+    "event_time": "2026-03-17T12:58:00",
+    "seen_at": "2026-03-17T11:58:26.422Z",
+    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 12:58, kolodvor SISAK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-17T13:00:00",
+    "seen_at": "2026-03-17T12:00:58.840Z",
+    "raw": "Br. Vlaka 45104 odlazak      17.03.26. 13:00, kolodvor DRENOVCI"
   }
 ]
