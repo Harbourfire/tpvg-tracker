@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "81993",
-    "event_time": "2026-03-14T03:57:00",
-    "seen_at": "2026-03-14T03:00:51.412Z",
-    "raw": "Br. Vlaka 81993 dolazak      14.03.26. 03:57, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89174",
-    "event_time": "2026-03-14T03:59:00",
-    "seen_at": "2026-03-14T03:01:57.681Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 03:59, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -8305,5 +8287,41 @@
     "event_time": "2026-03-17T03:52:00",
     "seen_at": "2026-03-17T02:52:49.558Z",
     "raw": "Br. Vlaka 82323 dolazak      17.03.26. 03:52, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "81226",
+    "event_time": "2026-03-17T03:59:00",
+    "seen_at": "2026-03-17T02:59:57.567Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 03:59, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81259",
+    "event_time": "2026-03-17T01:43:00",
+    "seen_at": "2026-03-17T03:00:40.927Z",
+    "raw": "Br. Vlaka 81259 formiran     17.03.26. 01:43, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK",
+    "train_number": null,
+    "event_time": "2026-03-16T22:00:00",
+    "seen_at": "2026-03-17T03:03:15.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RK",
+    "train_number": "89162",
+    "event_time": "2026-03-16T19:05:00",
+    "seen_at": "2026-03-17T03:03:37.049Z",
+    "raw": "Br. Vlaka 89162 formiran     16.03.26. 19:05, kolodvor 72303"
   }
 ]
