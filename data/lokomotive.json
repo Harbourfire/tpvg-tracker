@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "82124",
-    "event_time": "2026-03-14T20:18:00",
-    "seen_at": "2026-03-14T19:20:12.345Z",
-    "raw": "Br. Vlaka 82124 dolazak      14.03.26. 20:18, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
     "type": "Rasformiran",
     "station": "OSIJEK",
     "train_number": null,
@@ -8863,5 +8854,14 @@
     "event_time": "2026-03-17T20:16:00",
     "seen_at": "2026-03-17T19:17:03.991Z",
     "raw": "Br. Vlaka 66854 formiran     17.03.26. 20:16, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66854",
+    "event_time": "2026-03-17T20:25:00",
+    "seen_at": "2026-03-17T19:25:45.859Z",
+    "raw": "Br. Vlaka 66854 odlazak      17.03.26. 20:25, kolodvor OSIJEK DONJI GRAD"
   }
 ]
