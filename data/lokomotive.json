@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "82133",
-    "train_number": null,
-    "event_time": "2026-03-14T16:55:38.426Z",
-    "seen_at": "2026-03-14T16:55:38.426Z",
-    "raw": "Trenutna pozicija je u kolodvoru 82133 82133"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-14T17:52:00",
-    "seen_at": "2026-03-14T16:56:21.447Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "BUZET",
@@ -8791,5 +8773,14 @@
     "event_time": "2026-03-17T17:53:00",
     "seen_at": "2026-03-17T16:53:45.595Z",
     "raw": "Br. Vlaka 48581 odlazak      17.03.26. 17:53, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-17T17:57:00",
+    "seen_at": "2026-03-17T16:58:45.511Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.03.26. 17:57, kolodvor VRHOVINE"
   }
 ]
