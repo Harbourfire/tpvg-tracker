@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PAĐENE",
-    "train_number": "89174",
-    "event_time": "2026-03-14T07:10:00",
-    "seen_at": "2026-03-14T06:10:31.005Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 07:10, kolodvor PAĐENE"
-  },
-  {
-    "uic": "927820440125",
     "type": "Rasformiran",
     "station": "KNIN",
     "train_number": null,
@@ -8422,5 +8413,59 @@
     "event_time": "2026-03-17T06:42:00",
     "seen_at": "2026-03-17T05:58:31.663Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "81259",
+    "event_time": "2026-03-17T07:00:00",
+    "seen_at": "2026-03-17T06:07:54.383Z",
+    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 07:00, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-03-17T07:00:00",
+    "seen_at": "2026-03-17T06:08:37.879Z",
+    "raw": "Br. Vlaka 66853 odlazak      17.03.26. 07:00, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-03-17T02:13:00",
+    "seen_at": "2026-03-17T06:10:51.652Z",
+    "raw": "Br. Vlaka 66853 formiran     17.03.26. 02:13, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81229",
+    "event_time": "2026-03-17T00:29:00",
+    "seen_at": "2026-03-17T06:11:13.319Z",
+    "raw": "Br. Vlaka 81229 promjena sas 17.03.26. 00:29, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-03-17T07:07:00",
+    "seen_at": "2026-03-17T06:11:13.320Z",
+    "raw": "Br. Vlaka 66853 odlazak      17.03.26. 07:07, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-17T07:10:00",
+    "seen_at": "2026-03-17T06:11:13.320Z",
+    "raw": "Br. Vlaka 45105 odlazak      17.03.26. 07:10, kolodvor VINKOVCI"
   }
 ]
