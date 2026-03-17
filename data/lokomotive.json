@@ -2,15 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "89174",
-    "event_time": "2026-03-14T07:03:00",
-    "seen_at": "2026-03-14T06:04:21.979Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 07:03, kolodvor PLAVNO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "PAĐENE",
     "train_number": "89174",
     "event_time": "2026-03-14T07:10:00",
@@ -8413,5 +8404,23 @@
     "event_time": "2026-03-17T06:52:00",
     "seen_at": "2026-03-17T05:54:35.524Z",
     "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:52, kolodvor HORVATI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76601",
+    "event_time": "2026-03-17T06:57:00",
+    "seen_at": "2026-03-17T05:57:25.558Z",
+    "raw": "Br. Vlaka 76601 odlazak      17.03.26. 06:57, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-17T06:42:00",
+    "seen_at": "2026-03-17T05:58:31.663Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
