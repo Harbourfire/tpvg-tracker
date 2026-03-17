@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KNIN",
-    "train_number": "47990",
-    "event_time": "2026-03-14T10:24:00",
-    "seen_at": "2026-03-14T09:24:53.544Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 10:24, kolodvor KNIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81995",
-    "event_time": "2026-03-14T10:25:00",
-    "seen_at": "2026-03-14T09:25:59.488Z",
-    "raw": "Br. Vlaka 81995 odlazak      14.03.26. 10:25, kolodvor BLATA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -8647,5 +8629,68 @@
     "event_time": "2026-03-17T15:06:00",
     "seen_at": "2026-03-17T09:23:00.264Z",
     "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "47428",
+    "event_time": "2026-03-17T10:23:00",
+    "seen_at": "2026-03-17T09:24:41.534Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:23, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "47428",
+    "event_time": "2026-03-17T10:23:00",
+    "seen_at": "2026-03-17T09:24:41.534Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:23, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-03-17T10:26:00",
+    "seen_at": "2026-03-17T09:26:08.889Z",
+    "raw": "Br. Vlaka 71203 odlazak      17.03.26. 10:26, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89753",
+    "event_time": "2026-03-17T10:21:00",
+    "seen_at": "2026-03-17T09:27:14.114Z",
+    "raw": "Br. Vlaka 89753 formiran     17.03.26. 10:21, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "47428",
+    "event_time": "2026-03-17T10:30:00",
+    "seen_at": "2026-03-17T09:31:35.183Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:30, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "47428",
+    "event_time": "2026-03-17T10:30:00",
+    "seen_at": "2026-03-17T09:31:35.183Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:30, kolodvor KUKAČA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76600",
+    "event_time": "2026-03-17T10:31:00",
+    "seen_at": "2026-03-17T09:31:35.183Z",
+    "raw": "Br. Vlaka 76600 odlazak      17.03.26. 10:31, kolodvor SIBINJ"
   }
 ]
