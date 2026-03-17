@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89192",
-    "event_time": "2026-03-14T21:40:00",
-    "seen_at": "2026-03-14T20:43:47.544Z",
-    "raw": "Br. Vlaka 89192 odlazak      14.03.26. 21:40, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47990",
-    "event_time": "2026-03-14T21:45:00",
-    "seen_at": "2026-03-14T20:45:58.161Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 21:45, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -9016,5 +8998,32 @@
     "event_time": "2026-03-17T21:36:00",
     "seen_at": "2026-03-17T20:36:39.223Z",
     "raw": "Br. Vlaka 45131 formiran     17.03.26. 21:36, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "48581",
+    "event_time": "2026-03-17T21:39:00",
+    "seen_at": "2026-03-17T20:40:53.543Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.03.26. 21:39, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "MALOVAN",
+    "train_number": "60340",
+    "event_time": "2026-03-17T21:40:00",
+    "seen_at": "2026-03-17T20:42:20.232Z",
+    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 21:40, kolodvor MALOVAN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81284",
+    "event_time": "2026-03-17T21:44:00",
+    "seen_at": "2026-03-17T20:47:24.388Z",
+    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 21:44, kolodvor BEDEKOVČINA"
   }
 ]
