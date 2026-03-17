@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-14T22:16:00",
-    "seen_at": "2026-03-14T21:18:00.251Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47990",
-    "event_time": "2026-03-14T22:20:00",
-    "seen_at": "2026-03-14T21:20:53.328Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 22:20, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "NOVO DRNJE",
@@ -9097,5 +9079,14 @@
     "event_time": "2026-03-17T22:10:00",
     "seen_at": "2026-03-17T21:12:11.350Z",
     "raw": "Br. Vlaka 60340 odlazak      17.03.26. 22:10, kolodvor LOVINAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47944",
+    "event_time": "2026-03-17T22:16:00",
+    "seen_at": "2026-03-17T21:16:29.194Z",
+    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 22:16, kolodvor SESVETE"
   }
 ]
