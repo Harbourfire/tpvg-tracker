@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "81993",
-    "event_time": "2026-03-14T05:09:00",
-    "seen_at": "2026-03-14T04:09:57.173Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 05:09, kolodvor GRADEC"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -8350,5 +8341,14 @@
     "event_time": "2026-03-17T05:04:00",
     "seen_at": "2026-03-17T04:05:18.966Z",
     "raw": "Br. Vlaka 81259 dolazak      17.03.26. 05:04, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "81259",
+    "event_time": "2026-03-17T05:13:00",
+    "seen_at": "2026-03-17T04:14:43.088Z",
+    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 05:13, kolodvor DUGA RESA"
   }
 ]
