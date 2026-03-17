@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "KUTINA",
-    "train_number": "49841",
-    "event_time": "2026-03-14T14:27:00",
-    "seen_at": "2026-03-14T13:28:42.917Z",
-    "raw": "Br. Vlaka 49841 dolazak      14.03.26. 14:27, kolodvor KUTINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "47990",
-    "event_time": "2026-03-14T14:27:00",
-    "seen_at": "2026-03-14T13:28:42.918Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 14:27, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-14T14:33:00",
-    "seen_at": "2026-03-14T13:33:50.003Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47990",
-    "event_time": "2026-03-14T14:34:00",
-    "seen_at": "2026-03-14T13:34:11.992Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 14:34, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-14T13:59:00",
-    "seen_at": "2026-03-14T13:34:34.130Z",
-    "raw": "Br. Vlaka 63310 promjena sas 14.03.26. 13:59, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820622029",
     "type": "Odlazak",
     "station": "KUTINA",
     "train_number": "49841",
@@ -8845,5 +8800,41 @@
     "event_time": "2026-03-17T14:22:00",
     "seen_at": "2026-03-17T13:24:07.198Z",
     "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:22, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "82298",
+    "event_time": "2026-03-17T14:27:00",
+    "seen_at": "2026-03-17T13:30:12.283Z",
+    "raw": "Br. Vlaka 82298 odlazak      17.03.26. 14:27, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-17T14:30:00",
+    "seen_at": "2026-03-17T13:30:34.134Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "47428",
+    "event_time": "2026-03-17T14:16:00",
+    "seen_at": "2026-03-17T13:34:35.651Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 14:16, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "47428",
+    "event_time": "2026-03-17T14:16:00",
+    "seen_at": "2026-03-17T13:34:35.651Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 14:16, kolodvor ZAGREB ZAP. KOL."
   }
 ]
