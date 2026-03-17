@@ -2,24 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "81993",
-    "event_time": "2026-03-14T06:06:00",
-    "seen_at": "2026-03-14T05:08:27.044Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 06:06, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "89174",
-    "event_time": "2026-03-14T06:08:00",
-    "seen_at": "2026-03-14T05:10:06.295Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 06:08, kolodvor LOVINAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "LEPAVINA",
     "train_number": "81993",
     "event_time": "2026-03-14T06:20:00",
@@ -8377,5 +8359,23 @@
     "event_time": "2026-03-17T06:01:00",
     "seen_at": "2026-03-17T05:02:03.518Z",
     "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:01, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-03-17T06:06:00",
+    "seen_at": "2026-03-17T05:07:03.343Z",
+    "raw": "Br. Vlaka 69326 odlazak      17.03.26. 06:06, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "47428",
+    "event_time": "2026-03-17T06:08:00",
+    "seen_at": "2026-03-17T05:08:51.931Z",
+    "raw": "Br. Vlaka 47428 formiran     17.03.26. 06:08, kolodvor OŠTARIJE"
   }
 ]
