@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "81993",
-    "event_time": "2026-03-14T06:20:00",
-    "seen_at": "2026-03-14T05:20:44.122Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 06:20, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GRAČAC",
-    "train_number": "89174",
-    "event_time": "2026-03-14T06:21:00",
-    "seen_at": "2026-03-14T05:22:10.417Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 06:21, kolodvor GRAČAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "81993",
-    "event_time": "2026-03-14T06:26:00",
-    "seen_at": "2026-03-14T05:27:05.622Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 06:26, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440026",
     "type": "Rasformiran",
     "station": "KOPRIVNICA",
     "train_number": null,
@@ -8395,5 +8368,14 @@
     "event_time": "2026-03-17T06:19:00",
     "seen_at": "2026-03-17T05:19:37.899Z",
     "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:19, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "47428",
+    "event_time": "2026-03-17T06:08:00",
+    "seen_at": "2026-03-17T05:26:17.998Z",
+    "raw": "Br. Vlaka 47428 formiran     17.03.26. 06:08, kolodvor OŠTARIJE"
   }
 ]
