@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-14T11:42:00",
-    "seen_at": "2026-03-14T10:46:55.471Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "47982",
-    "event_time": "2026-03-14T11:53:00",
-    "seen_at": "2026-03-14T10:53:15.595Z",
-    "raw": "Br. Vlaka 47982 formiran     14.03.26. 11:53, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "GRAČAC",
@@ -8746,5 +8728,14 @@
     "event_time": "2026-03-17T11:44:00",
     "seen_at": "2026-03-17T10:44:28.903Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:44, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "82203",
+    "event_time": "2026-03-17T08:00:00",
+    "seen_at": "2026-03-17T10:45:04.115Z",
+    "raw": "Br. Vlaka 82203 formiran     17.03.26. 08:00, kolodvor PLAŠKI"
   }
 ]
