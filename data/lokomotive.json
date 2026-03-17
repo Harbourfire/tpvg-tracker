@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "47990",
-    "event_time": "2026-03-14T15:04:00",
-    "seen_at": "2026-03-14T14:05:11.492Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 15:04, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-14T15:09:00",
-    "seen_at": "2026-03-14T14:10:16.004Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.03.26. 15:09, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "LIPOVLJANI",
@@ -8872,5 +8854,86 @@
     "event_time": "2026-03-17T14:59:00",
     "seen_at": "2026-03-17T14:00:06.921Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 14:59, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81226",
+    "event_time": "2026-03-17T15:02:00",
+    "seen_at": "2026-03-17T14:02:59.144Z",
+    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 15:02, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-17T15:02:00",
+    "seen_at": "2026-03-17T14:03:21.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89250",
+    "event_time": "2026-03-17T15:03:00",
+    "seen_at": "2026-03-17T14:04:29.418Z",
+    "raw": "Br. Vlaka 89250 odlazak      17.03.26. 15:03, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF GRANICA",
+    "train_number": null,
+    "event_time": "2026-03-17T15:06:00",
+    "seen_at": "2026-03-17T14:07:24.589Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47428",
+    "event_time": "2026-03-17T15:06:00",
+    "seen_at": "2026-03-17T14:07:46.461Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:06, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47428",
+    "event_time": "2026-03-17T15:06:00",
+    "seen_at": "2026-03-17T14:07:46.461Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:06, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69615",
+    "event_time": "2026-03-17T15:08:00",
+    "seen_at": "2026-03-17T14:09:15.376Z",
+    "raw": "Br. Vlaka 69615 formiran     17.03.26. 15:08, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47428",
+    "event_time": "2026-03-17T15:10:00",
+    "seen_at": "2026-03-17T14:10:43.639Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:10, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47428",
+    "event_time": "2026-03-17T15:10:00",
+    "seen_at": "2026-03-17T14:10:43.639Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:10, kolodvor ZAPREŠIĆ"
   }
 ]
