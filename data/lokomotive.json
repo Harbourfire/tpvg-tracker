@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "LUPOGLAV",
-    "train_number": "47938",
-    "event_time": "2026-03-14T16:54:00",
-    "seen_at": "2026-03-14T15:54:22.956Z",
-    "raw": "Br. Vlaka 47938 formiran     14.03.26. 16:54, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "LUPOGLAV",
-    "train_number": "47938",
-    "event_time": "2026-03-14T16:54:00",
-    "seen_at": "2026-03-14T15:54:22.956Z",
-    "raw": "Br. Vlaka 47938 formiran     14.03.26. 16:54, kolodvor LUPOGLAV"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -8863,5 +8845,14 @@
     "event_time": "2026-03-17T16:02:00",
     "seen_at": "2026-03-17T15:32:22.260Z",
     "raw": "Br. Vlaka 47944 promjena sas 17.03.26. 16:02, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-17T16:51:00",
+    "seen_at": "2026-03-17T15:52:31.422Z",
+    "raw": "Br. Vlaka 63310 dolazak      17.03.26. 16:51, kolodvor LIČKO LEŠĆE"
   }
 ]
