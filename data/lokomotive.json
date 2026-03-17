@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-14T06:34:00",
-    "seen_at": "2026-03-14T05:35:30.956Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "MALOVAN",
@@ -8377,5 +8368,32 @@
     "event_time": "2026-03-17T06:08:00",
     "seen_at": "2026-03-17T05:26:17.998Z",
     "raw": "Br. Vlaka 47428 formiran     17.03.26. 06:08, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "81259",
+    "event_time": "2026-03-17T06:29:00",
+    "seen_at": "2026-03-17T05:30:29.148Z",
+    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:29, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69326",
+    "event_time": "2026-03-17T06:33:00",
+    "seen_at": "2026-03-17T05:35:12.171Z",
+    "raw": "Br. Vlaka 69326 odlazak      17.03.26. 06:33, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2026-03-14T06:34:00",
+    "seen_at": "2026-03-17T05:35:56.493Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
   }
 ]
