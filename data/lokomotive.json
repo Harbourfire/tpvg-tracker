@@ -2,15 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "PAĐENE",
-    "train_number": "47990",
-    "event_time": "2026-03-14T10:45:00",
-    "seen_at": "2026-03-14T09:46:11.643Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 10:45, kolodvor PAĐENE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "PLAVNO",
     "train_number": "47990",
     "event_time": "2026-03-14T10:53:00",
@@ -8728,5 +8719,50 @@
     "event_time": "2026-03-17T10:36:00",
     "seen_at": "2026-03-17T09:40:52.033Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "OGULIN",
+    "train_number": "69006",
+    "event_time": "2026-03-17T10:44:00",
+    "seen_at": "2026-03-17T09:45:01.911Z",
+    "raw": "Br. Vlaka 69006 dolazak      17.03.26. 10:44, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-17T10:44:00",
+    "seen_at": "2026-03-17T09:45:23.539Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "81226",
+    "event_time": "2026-03-17T10:40:00",
+    "seen_at": "2026-03-17T09:47:11.626Z",
+    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 10:40, kolodvor SUNJA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "89147",
+    "event_time": "2026-03-17T10:47:00",
+    "seen_at": "2026-03-17T09:48:16.904Z",
+    "raw": "Br. Vlaka 89147 formiran     17.03.26. 10:47, kolodvor OGULIN"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76600",
+    "event_time": "2026-03-17T10:48:00",
+    "seen_at": "2026-03-17T09:49:21.966Z",
+    "raw": "Br. Vlaka 76600 odlazak      17.03.26. 10:48, kolodvor ORIOVAC"
   }
 ]
