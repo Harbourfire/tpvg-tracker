@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "89174",
-    "event_time": "2026-03-14T02:44:00",
-    "seen_at": "2026-03-14T01:46:20.646Z",
-    "raw": "Br. Vlaka 89174 dolazak      14.03.26. 02:44, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81993",
-    "event_time": "2026-03-14T02:48:00",
-    "seen_at": "2026-03-14T01:49:14.066Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 02:48, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -8251,5 +8233,77 @@
     "event_time": "2026-03-17T02:41:00",
     "seen_at": "2026-03-17T01:44:21.764Z",
     "raw": "Br. Vlaka 81226 odlazak      17.03.26. 02:41, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-17T02:43:00",
+    "seen_at": "2026-03-17T01:46:46.268Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-17T02:43:00",
+    "seen_at": "2026-03-17T01:46:46.268Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "81278",
+    "event_time": "2026-03-17T01:02:00",
+    "seen_at": "2026-03-17T01:47:29.885Z",
+    "raw": "Br. Vlaka 81278 formiran     17.03.26. 01:02, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-17T00:21:00",
+    "seen_at": "2026-03-17T01:47:51.631Z",
+    "raw": "Br. Vlaka 45105 formiran     17.03.26. 00:21, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81240",
+    "event_time": "2026-03-17T02:47:00",
+    "seen_at": "2026-03-17T01:48:13.309Z",
+    "raw": "Br. Vlaka 81240 odlazak      17.03.26. 02:47, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81240",
+    "event_time": "2026-03-17T02:47:00",
+    "seen_at": "2026-03-17T01:48:13.309Z",
+    "raw": "Br. Vlaka 81240 odlazak      17.03.26. 02:47, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "81226",
+    "event_time": "2026-03-17T02:51:00",
+    "seen_at": "2026-03-17T01:51:31.252Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 02:51, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47939",
+    "event_time": "2026-03-17T02:54:00",
+    "seen_at": "2026-03-17T01:54:26.375Z",
+    "raw": "Br. Vlaka 47939 dolazak      17.03.26. 02:54, kolodvor 73164"
   }
 ]
