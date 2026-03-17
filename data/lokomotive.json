@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "KNIN",
-    "train_number": null,
-    "event_time": "2026-03-14T07:23:00",
-    "seen_at": "2026-03-14T06:27:59.122Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
-  },
-  {
-    "uic": "927820440125",
     "type": "Formiran",
     "station": "KNIN",
     "train_number": "47990",
@@ -8503,5 +8494,23 @@
     "event_time": "2026-03-17T07:21:00",
     "seen_at": "2026-03-17T06:22:19.974Z",
     "raw": "Br. Vlaka 76601 odlazak      17.03.26. 07:21, kolodvor SIBINJ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-17T07:25:00",
+    "seen_at": "2026-03-17T06:25:49.065Z",
+    "raw": "Br. Vlaka 69006 formiran     17.03.26. 07:25, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81229",
+    "event_time": "2026-03-17T07:27:00",
+    "seen_at": "2026-03-17T06:27:37.545Z",
+    "raw": "Br. Vlaka 81229 odlazak      17.03.26. 07:27, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
