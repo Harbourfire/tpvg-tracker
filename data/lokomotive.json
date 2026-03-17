@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "46897",
-    "event_time": "2026-03-14T16:16:00",
-    "seen_at": "2026-03-14T15:17:50.309Z",
-    "raw": "Br. Vlaka 46897 odlazak      14.03.26. 16:16, kolodvor DARDA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "49841",
-    "event_time": "2026-03-14T16:21:00",
-    "seen_at": "2026-03-14T15:21:50.675Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 16:21, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820621104",
     "type": "Dolazak",
     "station": "OSIJEK",
     "train_number": "46897",
@@ -8872,5 +8854,23 @@
     "event_time": "2026-03-17T07:24:00",
     "seen_at": "2026-03-17T15:05:20.355Z",
     "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-17T16:15:00",
+    "seen_at": "2026-03-17T15:15:46.620Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.03.26. 16:15, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF GRANICA",
+    "train_number": "48581",
+    "event_time": "2026-03-17T16:23:00",
+    "seen_at": "2026-03-17T15:23:30.042Z",
+    "raw": "Br. Vlaka 48581 formiran     17.03.26. 16:23, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
