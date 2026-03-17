@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-14T14:11:00",
-    "seen_at": "2026-03-14T20:33:51.334Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "89192",
-    "event_time": "2026-03-14T21:15:00",
-    "seen_at": "2026-03-14T20:34:12.809Z",
-    "raw": "Br. Vlaka 89192 formiran     14.03.26. 21:15, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
     "type": "Odlazak",
     "station": "VINKOVCI",
     "train_number": "89192",
@@ -9007,5 +8989,32 @@
     "event_time": "2026-03-17T21:27:00",
     "seen_at": "2026-03-17T20:27:59.809Z",
     "raw": "Br. Vlaka 81284 odlazak      17.03.26. 21:27, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "48581",
+    "event_time": "2026-03-17T21:30:00",
+    "seen_at": "2026-03-17T20:31:12.945Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.03.26. 21:30, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "81284",
+    "event_time": "2026-03-17T21:33:00",
+    "seen_at": "2026-03-17T20:34:29.252Z",
+    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 21:33, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-17T21:36:00",
+    "seen_at": "2026-03-17T20:36:39.223Z",
+    "raw": "Br. Vlaka 45131 formiran     17.03.26. 21:36, kolodvor OSIJEK"
   }
 ]
