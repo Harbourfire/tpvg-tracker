@@ -1,113 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "47938",
-    "event_time": "2026-03-14T18:01:00",
-    "seen_at": "2026-03-14T17:04:48.272Z",
-    "raw": "Br. Vlaka 47938 dolazak      14.03.26. 18:01, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "47938",
-    "event_time": "2026-03-14T18:01:00",
-    "seen_at": "2026-03-14T17:04:48.272Z",
-    "raw": "Br. Vlaka 47938 dolazak      14.03.26. 18:01, kolodvor BUZET"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82124",
-    "event_time": "2026-03-14T18:05:00",
-    "seen_at": "2026-03-14T17:05:52.975Z",
-    "raw": "Br. Vlaka 82124 formiran     14.03.26. 18:05, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RK (PS)",
-    "train_number": null,
-    "event_time": "2026-03-14T18:06:00",
-    "seen_at": "2026-03-14T17:06:36.556Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-14T18:06:00",
-    "seen_at": "2026-03-14T17:06:57.960Z",
-    "raw": "Br. Vlaka 69006 odlazak      14.03.26. 18:06, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-14T18:06:00",
-    "seen_at": "2026-03-14T17:06:57.961Z",
-    "raw": "Br. Vlaka 69006 odlazak      14.03.26. 18:06, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "47938",
-    "event_time": "2026-03-14T18:03:00",
-    "seen_at": "2026-03-14T17:10:34.033Z",
-    "raw": "Br. Vlaka 47938 odlazak      14.03.26. 18:03, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "47938",
-    "event_time": "2026-03-14T18:03:00",
-    "seen_at": "2026-03-14T17:10:34.033Z",
-    "raw": "Br. Vlaka 47938 odlazak      14.03.26. 18:03, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-14T18:11:00",
-    "seen_at": "2026-03-14T17:11:50.928Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "77424",
-    "train_number": "47938",
-    "event_time": "2026-03-14T18:10:00",
-    "seen_at": "2026-03-14T17:11:50.928Z",
-    "raw": "Br. Vlaka 47938 odlazak      14.03.26. 18:10, kolodvor 77424"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "77424",
-    "train_number": "47938",
-    "event_time": "2026-03-14T18:10:00",
-    "seen_at": "2026-03-14T17:11:50.928Z",
-    "raw": "Br. Vlaka 47938 odlazak      14.03.26. 18:10, kolodvor 77424"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-14T18:11:00",
-    "seen_at": "2026-03-14T17:11:50.928Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
     "uic": "927820440125",
     "type": "Formiran",
     "station": "ZAGREB RK (PS)",
@@ -8782,5 +8674,32 @@
     "event_time": "2026-03-17T17:57:00",
     "seen_at": "2026-03-17T16:58:45.511Z",
     "raw": "Br. Vlaka 63310 odlazak      17.03.26. 17:57, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "48581",
+    "event_time": "2026-03-17T18:03:00",
+    "seen_at": "2026-03-17T17:04:00.152Z",
+    "raw": "Br. Vlaka 48581 dolazak      17.03.26. 18:03, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-17T18:08:00",
+    "seen_at": "2026-03-17T17:11:14.816Z",
+    "raw": "Br. Vlaka 63310 promjena sas 17.03.26. 18:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-03-17T15:15:00",
+    "seen_at": "2026-03-17T17:11:58.138Z",
+    "raw": "Br. Vlaka 69177 formiran     17.03.26. 15:15, kolodvor RUDOPOLJE"
   }
 ]
