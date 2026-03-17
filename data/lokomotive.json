@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-03-14T08:00:00",
-    "seen_at": "2026-03-14T08:53:13.136Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81995",
-    "event_time": "2026-03-14T09:54:00",
-    "seen_at": "2026-03-14T08:56:06.477Z",
-    "raw": "Br. Vlaka 81995 odlazak      14.03.26. 09:54, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -8638,5 +8620,23 @@
     "event_time": "2026-03-17T09:14:00",
     "seen_at": "2026-03-17T08:35:05.245Z",
     "raw": "Br. Vlaka 81229 odlazak      17.03.26. 09:14, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "81229",
+    "event_time": "2026-03-17T09:30:00",
+    "seen_at": "2026-03-17T08:48:46.644Z",
+    "raw": "Br. Vlaka 81229 dolazak      17.03.26. 09:30, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-03-17T09:30:00",
+    "seen_at": "2026-03-17T08:50:36.440Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
   }
 ]
