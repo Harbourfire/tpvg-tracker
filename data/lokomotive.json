@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-14T18:56:00",
-    "seen_at": "2026-03-14T17:57:13.755Z",
-    "raw": "Br. Vlaka 69005 dolazak      14.03.26. 18:56, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-14T18:56:00",
-    "seen_at": "2026-03-14T17:57:13.755Z",
-    "raw": "Br. Vlaka 69005 dolazak      14.03.26. 18:56, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-14T18:56:00",
-    "seen_at": "2026-03-14T17:57:57.840Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-14T18:56:00",
-    "seen_at": "2026-03-14T17:57:57.840Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "47990",
-    "event_time": "2026-03-14T18:52:00",
-    "seen_at": "2026-03-14T18:01:59.271Z",
-    "raw": "Br. Vlaka 47990 dolazak      14.03.26. 18:52, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47990",
-    "event_time": "2026-03-14T18:57:00",
-    "seen_at": "2026-03-14T18:02:21.446Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 18:57, kolodvor SESVETE"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "DUGO SELO",
@@ -8710,5 +8656,32 @@
     "event_time": "2026-03-17T18:53:00",
     "seen_at": "2026-03-17T17:54:39.117Z",
     "raw": "Br. Vlaka 48581 odlazak      17.03.26. 18:53, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "69615",
+    "event_time": "2026-03-17T18:56:00",
+    "seen_at": "2026-03-17T17:59:15.211Z",
+    "raw": "Br. Vlaka 69615 odlazak      17.03.26. 18:56, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "48581",
+    "event_time": "2026-03-17T19:01:00",
+    "seen_at": "2026-03-17T18:01:47.699Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.03.26. 19:01, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "69615",
+    "event_time": "2026-03-17T19:02:00",
+    "seen_at": "2026-03-17T18:02:53.091Z",
+    "raw": "Br. Vlaka 69615 odlazak      17.03.26. 19:02, kolodvor ZAGREB ZAP. KOL."
   }
 ]
