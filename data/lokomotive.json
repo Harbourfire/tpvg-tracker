@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "46897",
-    "event_time": "2026-03-14T16:27:00",
-    "seen_at": "2026-03-14T15:27:52.411Z",
-    "raw": "Br. Vlaka 46897 dolazak      14.03.26. 16:27, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -8872,5 +8863,23 @@
     "event_time": "2026-03-17T16:23:00",
     "seen_at": "2026-03-17T15:23:30.042Z",
     "raw": "Br. Vlaka 48581 formiran     17.03.26. 16:23, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-17T16:28:00",
+    "seen_at": "2026-03-17T15:29:25.487Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.03.26. 16:28, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "47944",
+    "event_time": "2026-03-17T16:02:00",
+    "seen_at": "2026-03-17T15:32:22.260Z",
+    "raw": "Br. Vlaka 47944 promjena sas 17.03.26. 16:02, kolodvor SAVSKI MAROF"
   }
 ]
