@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-14T11:35:00",
-    "seen_at": "2026-03-14T10:35:41.581Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "47990",
-    "event_time": "2026-03-14T11:36:00",
-    "seen_at": "2026-03-14T10:38:14.932Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 11:36, kolodvor MALOVAN"
-  },
-  {
     "uic": "928012230142",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -8746,5 +8728,23 @@
     "event_time": "2026-03-17T11:29:00",
     "seen_at": "2026-03-17T10:31:03.598Z",
     "raw": "Br. Vlaka 89147 odlazak      17.03.26. 11:29, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "47428",
+    "event_time": "2026-03-17T11:44:00",
+    "seen_at": "2026-03-17T10:44:28.903Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:44, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "47428",
+    "event_time": "2026-03-17T11:44:00",
+    "seen_at": "2026-03-17T10:44:28.903Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:44, kolodvor DUGA RESA"
   }
 ]
