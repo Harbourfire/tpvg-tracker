@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-03-14T05:00:00",
-    "seen_at": "2026-03-14T04:00:42.875Z",
-    "raw": "Br. Vlaka 63306 odlazak      14.03.26. 05:00, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-03-14T05:00:00",
-    "seen_at": "2026-03-14T04:00:42.875Z",
-    "raw": "Br. Vlaka 63306 odlazak      14.03.26. 05:00, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "81993",
-    "event_time": "2026-03-14T05:02:00",
-    "seen_at": "2026-03-14T04:03:14.988Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 05:02, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "89174",
-    "event_time": "2026-03-14T05:04:00",
-    "seen_at": "2026-03-14T04:05:03.970Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 05:04, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-14T05:06:00",
-    "seen_at": "2026-03-14T04:07:02.941Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-14T05:06:00",
-    "seen_at": "2026-03-14T04:07:02.941Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "GRADEC",
@@ -8386,5 +8332,23 @@
     "event_time": "2026-03-17T04:51:00",
     "seen_at": "2026-03-17T03:53:42.301Z",
     "raw": "Br. Vlaka 81226 dolazak      17.03.26. 04:51, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47939",
+    "event_time": "2026-03-17T04:58:00",
+    "seen_at": "2026-03-17T04:00:30.233Z",
+    "raw": "Br. Vlaka 47939 odlazak      17.03.26. 04:58, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "DUGA RESA",
+    "train_number": "81259",
+    "event_time": "2026-03-17T05:04:00",
+    "seen_at": "2026-03-17T04:05:18.966Z",
+    "raw": "Br. Vlaka 81259 dolazak      17.03.26. 05:04, kolodvor DUGA RESA"
   }
 ]
