@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "VIROVITICA",
-    "train_number": "81128",
-    "event_time": "2026-03-14T20:58:00",
-    "seen_at": "2026-03-14T19:58:31.019Z",
-    "raw": "Br. Vlaka 81128 formiran     14.03.26. 20:58, kolodvor VIROVITICA"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -8917,5 +8908,32 @@
     "event_time": "2026-03-17T20:51:00",
     "seen_at": "2026-03-17T19:51:48.149Z",
     "raw": "Br. Vlaka 48581 odlazak      17.03.26. 20:51, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "81284",
+    "event_time": "2026-03-17T20:53:00",
+    "seen_at": "2026-03-17T20:00:25.269Z",
+    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 20:53, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "PLAVNO",
+    "train_number": "60340",
+    "event_time": "2026-03-17T21:00:00",
+    "seen_at": "2026-03-17T20:01:09.521Z",
+    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 21:00, kolodvor PLAVNO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81284",
+    "event_time": "2026-03-17T21:02:00",
+    "seen_at": "2026-03-17T20:02:36.651Z",
+    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 21:02, kolodvor PODSUSED tvornica"
   }
 ]
