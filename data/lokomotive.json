@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-14T12:13:00",
-    "seen_at": "2026-03-14T11:13:38.550Z",
-    "raw": "Br. Vlaka 63310 formiran     14.03.26. 12:13, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "49841",
-    "event_time": "2026-03-14T12:17:00",
-    "seen_at": "2026-03-14T11:17:49.246Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 12:17, kolodvor 72302"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MEDAK",
-    "train_number": "47990",
-    "event_time": "2026-03-14T12:17:00",
-    "seen_at": "2026-03-14T11:18:10.718Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 12:17, kolodvor MEDAK"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -8710,5 +8683,23 @@
     "event_time": "2026-03-17T11:58:00",
     "seen_at": "2026-03-17T10:59:42.706Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:58, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-03-17T12:08:00",
+    "seen_at": "2026-03-17T11:16:12.223Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 12:08, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-03-17T12:08:00",
+    "seen_at": "2026-03-17T11:16:12.223Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 12:08, kolodvor KARLOVAC"
   }
 ]
