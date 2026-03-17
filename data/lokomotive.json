@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "47980",
-    "event_time": "2026-03-14T09:33:00",
-    "seen_at": "2026-03-14T08:33:26.058Z",
-    "raw": "Br. Vlaka 47980 dolazak      14.03.26. 09:33, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -8638,5 +8629,23 @@
     "event_time": "2026-03-17T09:14:00",
     "seen_at": "2026-03-17T08:29:18.014Z",
     "raw": "Br. Vlaka 81229 dolazak      17.03.26. 09:14, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81226",
+    "event_time": "2026-03-17T09:30:00",
+    "seen_at": "2026-03-17T08:31:21.921Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 09:30, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "81229",
+    "event_time": "2026-03-17T09:14:00",
+    "seen_at": "2026-03-17T08:35:05.245Z",
+    "raw": "Br. Vlaka 81229 odlazak      17.03.26. 09:14, kolodvor POŽEGA"
   }
 ]
