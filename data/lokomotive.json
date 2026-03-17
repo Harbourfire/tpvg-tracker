@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-14T23:49:00",
-    "seen_at": "2026-03-14T22:51:56.151Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 23:49, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-14T23:49:00",
-    "seen_at": "2026-03-14T22:51:56.151Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.03.26. 23:49, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -9196,5 +9178,32 @@
     "event_time": "2026-03-17T23:38:00",
     "seen_at": "2026-03-17T22:38:55.866Z",
     "raw": "Br. Vlaka 47944 odlazak      17.03.26. 23:38, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "47990",
+    "event_time": "2026-03-17T23:44:00",
+    "seen_at": "2026-03-17T22:45:01.878Z",
+    "raw": "Br. Vlaka 47990 dolazak      17.03.26. 23:44, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "60340",
+    "event_time": "2026-03-17T23:48:00",
+    "seen_at": "2026-03-17T22:49:23.204Z",
+    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 23:48, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47944",
+    "event_time": "2026-03-17T23:52:00",
+    "seen_at": "2026-03-17T22:52:16.479Z",
+    "raw": "Br. Vlaka 47944 dolazak      17.03.26. 23:52, kolodvor 73164"
   }
 ]
