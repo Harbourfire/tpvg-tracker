@@ -2,15 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81995",
-    "event_time": "2026-03-14T11:00:00",
-    "seen_at": "2026-03-14T10:01:58.517Z",
-    "raw": "Br. Vlaka 81995 odlazak      14.03.26. 11:00, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "81995",
     "event_time": "2026-03-14T11:13:00",
@@ -8764,5 +8755,32 @@
     "event_time": "2026-03-17T10:51:00",
     "seen_at": "2026-03-17T09:51:24.417Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:51, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-17T11:00:00",
+    "seen_at": "2026-03-17T10:00:49.964Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-03-17T11:04:00",
+    "seen_at": "2026-03-17T10:04:50.360Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:04, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-03-17T11:04:00",
+    "seen_at": "2026-03-17T10:04:50.360Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:04, kolodvor GENERALSKI STOL"
   }
 ]
