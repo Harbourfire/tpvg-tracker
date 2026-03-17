@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81993",
-    "event_time": "2026-03-14T02:56:00",
-    "seen_at": "2026-03-14T01:57:31.492Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 02:56, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "89174",
-    "event_time": "2026-03-14T03:00:00",
-    "seen_at": "2026-03-14T02:00:24.648Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 03:00, kolodvor KARLOVAC"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -8305,5 +8287,50 @@
     "event_time": "2026-03-17T02:54:00",
     "seen_at": "2026-03-17T01:54:26.375Z",
     "raw": "Br. Vlaka 47939 dolazak      17.03.26. 02:54, kolodvor 73164"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81226",
+    "event_time": "2026-03-17T02:57:00",
+    "seen_at": "2026-03-17T01:58:14.130Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 02:57, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47939",
+    "event_time": "2026-03-17T02:58:00",
+    "seen_at": "2026-03-17T01:59:18.837Z",
+    "raw": "Br. Vlaka 47939 odlazak      17.03.26. 02:58, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "82323",
+    "event_time": "2026-03-16T12:22:00",
+    "seen_at": "2026-03-17T02:01:28.882Z",
+    "raw": "Br. Vlaka 82323 formiran     16.03.26. 12:22, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81240",
+    "event_time": "2026-03-17T03:01:00",
+    "seen_at": "2026-03-17T02:02:33.793Z",
+    "raw": "Br. Vlaka 81240 odlazak      17.03.26. 03:01, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81240",
+    "event_time": "2026-03-17T03:01:00",
+    "seen_at": "2026-03-17T02:02:33.793Z",
+    "raw": "Br. Vlaka 81240 odlazak      17.03.26. 03:01, kolodvor VRHOVINE"
   }
 ]
