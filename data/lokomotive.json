@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PITOMAČA",
-    "train_number": "81128",
-    "event_time": "2026-03-14T23:11:00",
-    "seen_at": "2026-03-14T22:13:10.625Z",
-    "raw": "Br. Vlaka 81128 odlazak      14.03.26. 23:11, kolodvor PITOMAČA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ĐAKOVO",
@@ -9169,5 +9160,23 @@
     "event_time": "2026-03-17T23:07:00",
     "seen_at": "2026-03-17T22:08:21.083Z",
     "raw": "Br. Vlaka 81284 odlazak      17.03.26. 23:07, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "47990",
+    "event_time": "2026-03-17T23:13:00",
+    "seen_at": "2026-03-17T22:13:58.666Z",
+    "raw": "Br. Vlaka 47990 odlazak      17.03.26. 23:13, kolodvor 72302"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81284",
+    "event_time": "2026-03-17T23:17:00",
+    "seen_at": "2026-03-17T22:17:36.433Z",
+    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 23:17, kolodvor VARAŽDIN"
   }
 ]
