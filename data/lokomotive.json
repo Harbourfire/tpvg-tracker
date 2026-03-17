@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89187",
-    "event_time": "2026-03-14T11:25:00",
-    "seen_at": "2026-03-14T10:27:24.584Z",
-    "raw": "Br. Vlaka 89187 odlazak      14.03.26. 11:25, kolodvor DARDA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "ZAGREB RK",
-    "train_number": "49841",
-    "event_time": "2026-03-14T11:28:00",
-    "seen_at": "2026-03-14T10:28:52.445Z",
-    "raw": "Br. Vlaka 49841 formiran     14.03.26. 11:28, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "MALOVAN",
-    "train_number": "47990",
-    "event_time": "2026-03-14T11:27:00",
-    "seen_at": "2026-03-14T10:29:14.374Z",
-    "raw": "Br. Vlaka 47990 dolazak      14.03.26. 11:27, kolodvor MALOVAN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "ZAGREB RK",
-    "train_number": null,
-    "event_time": "2026-03-14T00:33:00",
-    "seen_at": "2026-03-14T10:30:13.656Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81995",
-    "event_time": "2026-03-14T11:30:00",
-    "seen_at": "2026-03-14T10:32:03.236Z",
-    "raw": "Br. Vlaka 81995 odlazak      14.03.26. 11:30, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "ZAGREB RK",
-    "train_number": "49841",
-    "event_time": "2026-03-14T11:29:00",
-    "seen_at": "2026-03-14T10:32:47.164Z",
-    "raw": "Br. Vlaka 49841 formiran     14.03.26. 11:29, kolodvor 72303"
-  },
-  {
-    "uic": "927820621104",
     "type": "Rasformiran",
     "station": "OSIJEK",
     "train_number": null,
@@ -8791,5 +8737,14 @@
     "event_time": "2026-03-17T11:23:00",
     "seen_at": "2026-03-17T10:23:25.942Z",
     "raw": "Br. Vlaka 47428 dolazak      17.03.26. 11:23, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "89147",
+    "event_time": "2026-03-17T11:29:00",
+    "seen_at": "2026-03-17T10:31:03.598Z",
+    "raw": "Br. Vlaka 89147 odlazak      17.03.26. 11:29, kolodvor JOSIPDOL"
   }
 ]
