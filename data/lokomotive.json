@@ -2,42 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Formiran",
-    "station": "ZAGREB RK (PS)",
-    "train_number": "47990",
-    "event_time": "2026-03-14T18:11:00",
-    "seen_at": "2026-03-14T17:15:28.206Z",
-    "raw": "Br. Vlaka 47990 formiran     14.03.26. 18:11, kolodvor 72304"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-14T18:15:00",
-    "seen_at": "2026-03-14T17:16:33.273Z",
-    "raw": "Br. Vlaka 69005 formiran     14.03.26. 18:15, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-14T18:15:00",
-    "seen_at": "2026-03-14T17:16:33.273Z",
-    "raw": "Br. Vlaka 69005 formiran     14.03.26. 18:15, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RK (PS)",
-    "train_number": null,
-    "event_time": "2026-03-14T14:17:00",
-    "seen_at": "2026-03-14T17:17:17.264Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
     "station": "ZAGREB RK",
     "train_number": "47990",
     "event_time": "2026-03-14T18:18:00",
@@ -8701,5 +8665,14 @@
     "event_time": "2026-03-17T15:15:00",
     "seen_at": "2026-03-17T17:11:58.138Z",
     "raw": "Br. Vlaka 69177 formiran     17.03.26. 15:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-03-17T18:13:00",
+    "seen_at": "2026-03-17T17:14:41.969Z",
+    "raw": "Br. Vlaka 69177 odlazak      17.03.26. 18:13, kolodvor RUDOPOLJE"
   }
 ]
