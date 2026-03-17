@@ -2,15 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82124",
-    "event_time": "2026-03-14T19:17:00",
-    "seen_at": "2026-03-14T18:18:33.067Z",
-    "raw": "Br. Vlaka 82124 odlazak      14.03.26. 19:17, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "ĐAKOVO",
     "train_number": "82124",
     "event_time": "2026-03-14T19:33:00",
@@ -8701,5 +8692,41 @@
     "event_time": "2026-03-17T19:10:00",
     "seen_at": "2026-03-17T18:12:22.125Z",
     "raw": "Br. Vlaka 63310 odlazak      17.03.26. 19:10, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RK (PS)",
+    "train_number": null,
+    "event_time": "2026-03-17T19:14:00",
+    "seen_at": "2026-03-17T18:15:36.127Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89753",
+    "event_time": "2026-03-17T19:18:00",
+    "seen_at": "2026-03-17T18:19:15.010Z",
+    "raw": "Br. Vlaka 89753 odlazak      17.03.26. 19:18, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "48581",
+    "event_time": "2026-03-17T19:22:00",
+    "seen_at": "2026-03-17T18:22:30.862Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.03.26. 19:22, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89753",
+    "event_time": "2026-03-17T19:23:00",
+    "seen_at": "2026-03-17T18:23:36.541Z",
+    "raw": "Br. Vlaka 89753 odlazak      17.03.26. 19:23, kolodvor 72302"
   }
 ]
