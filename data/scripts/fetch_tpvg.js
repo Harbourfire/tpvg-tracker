@@ -3,7 +3,7 @@ const https = require("https");
 
 // mapa šifri kolodvora
 const STATION_CODES = {
-  "72303": "ZAGREB RANŽIRNI",
+  "72303": "ZAGREB RANŽIRNI (OS)",
   "72304": "ZAGREB RANŽIRNI (PS)",
   "ZAGREB ZAP. KOL.": "ZAGREB ZAPADNI",
   "72302": "ZAGREB ŽITNJAK",
@@ -16,7 +16,8 @@ const STATION_CODES = {
   "77424": "BUZET granica",
   "71020": "TOVARNIK granica",
   "KOPRIVNICA GR A": "KOPRIVNICA granica",
-  "SAVSKI MAROF GRANICA": "SAVSKI MAROF granica"
+  "SAVSKI MAROF GRANICA": "SAVSKI MAROF granica",
+  "72480": "ZAGREB GLAVNI"
 };
 function translateStation(station) {
   if (!station) return station;
