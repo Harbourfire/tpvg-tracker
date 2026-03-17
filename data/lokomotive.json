@@ -2,33 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "81993",
-    "event_time": "2026-03-14T01:51:00",
-    "seen_at": "2026-03-14T00:53:31.962Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 01:51, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89174",
-    "event_time": "2026-03-14T01:55:00",
-    "seen_at": "2026-03-14T00:56:02.671Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 01:55, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "81993",
-    "event_time": "2026-03-14T01:59:00",
-    "seen_at": "2026-03-14T01:00:09.721Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 01:59, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "NOVI MAROF",
     "train_number": "81993",
     "event_time": "2026-03-14T02:15:00",
@@ -8098,5 +8071,104 @@
     "event_time": "2026-03-17T01:36:00",
     "seen_at": "2026-03-17T00:37:57.505Z",
     "raw": "Br. Vlaka 81226 odlazak      17.03.26. 01:36, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF GRANICA",
+    "train_number": "47563",
+    "event_time": "2026-03-17T01:50:00",
+    "seen_at": "2026-03-17T00:55:19.605Z",
+    "raw": "Br. Vlaka 47563 odlazak      17.03.26. 01:50, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF GRANICA",
+    "train_number": "47563",
+    "event_time": "2026-03-17T01:50:00",
+    "seen_at": "2026-03-17T00:55:19.606Z",
+    "raw": "Br. Vlaka 47563 odlazak      17.03.26. 01:50, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-03-17T01:54:00",
+    "seen_at": "2026-03-17T00:56:02.706Z",
+    "raw": "Br. Vlaka 47563 dolazak      17.03.26. 01:54, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-03-17T01:54:00",
+    "seen_at": "2026-03-17T00:56:02.707Z",
+    "raw": "Br. Vlaka 47563 dolazak      17.03.26. 01:54, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45130",
+    "event_time": "2026-03-17T01:57:00",
+    "seen_at": "2026-03-17T00:57:29.424Z",
+    "raw": "Br. Vlaka 45130 dolazak      17.03.26. 01:57, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-17T01:57:00",
+    "seen_at": "2026-03-17T00:57:51.019Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89164",
+    "event_time": "2026-03-16T21:22:00",
+    "seen_at": "2026-03-17T00:58:56.192Z",
+    "raw": "Br. Vlaka 89164 formiran     16.03.26. 21:22, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-16T23:48:00",
+    "seen_at": "2026-03-17T00:59:17.723Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-16T23:48:00",
+    "seen_at": "2026-03-17T00:59:17.724Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "89709",
+    "event_time": "2026-03-16T12:45:00",
+    "seen_at": "2026-03-17T00:59:39.279Z",
+    "raw": "Br. Vlaka 89709 formiran     16.03.26. 12:45, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "89250",
+    "event_time": "2026-03-17T01:59:00",
+    "seen_at": "2026-03-17T01:00:00.973Z",
+    "raw": "Br. Vlaka 89250 formiran     17.03.26. 01:59, kolodvor SAVSKI MAROF"
   }
 ]
