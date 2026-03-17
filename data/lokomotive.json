@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "47990",
-    "event_time": "2026-03-14T22:10:00",
-    "seen_at": "2026-03-14T21:11:16.191Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 22:10, kolodvor MUČNA REKA"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -9052,5 +9043,59 @@
     "event_time": "2026-03-17T22:03:00",
     "seen_at": "2026-03-17T21:04:11.942Z",
     "raw": "Br. Vlaka 47944 odlazak      17.03.26. 22:03, kolodvor 72302"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81284",
+    "event_time": "2026-03-17T22:06:00",
+    "seen_at": "2026-03-17T21:08:12.424Z",
+    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 22:06, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-17T22:06:00",
+    "seen_at": "2026-03-17T21:08:12.425Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-17T21:39:00",
+    "seen_at": "2026-03-17T21:08:34.484Z",
+    "raw": "Br. Vlaka 63305 formiran     17.03.26. 21:39, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-17T21:39:00",
+    "seen_at": "2026-03-17T21:08:34.485Z",
+    "raw": "Br. Vlaka 63305 formiran     17.03.26. 21:39, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47944",
+    "event_time": "2026-03-17T22:09:00",
+    "seen_at": "2026-03-17T21:10:44.547Z",
+    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 22:09, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "LOVINAC",
+    "train_number": "60340",
+    "event_time": "2026-03-17T22:10:00",
+    "seen_at": "2026-03-17T21:12:11.350Z",
+    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 22:10, kolodvor LOVINAC"
   }
 ]
