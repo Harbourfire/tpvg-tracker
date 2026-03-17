@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "47990",
-    "event_time": "2026-03-14T13:12:00",
-    "seen_at": "2026-03-14T12:14:13.487Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 13:12, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "92515",
@@ -8728,5 +8719,41 @@
     "event_time": "2026-03-17T13:00:00",
     "seen_at": "2026-03-17T12:00:58.840Z",
     "raw": "Br. Vlaka 45104 odlazak      17.03.26. 13:00, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "82298",
+    "event_time": "2026-03-17T13:07:00",
+    "seen_at": "2026-03-17T12:07:39.598Z",
+    "raw": "Br. Vlaka 82298 formiran     17.03.26. 13:07, kolodvor VELIKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89252",
+    "event_time": "2026-03-17T13:07:00",
+    "seen_at": "2026-03-17T12:08:01.564Z",
+    "raw": "Br. Vlaka 89252 odlazak      17.03.26. 13:07, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "82298",
+    "event_time": "2026-03-17T13:02:00",
+    "seen_at": "2026-03-17T12:11:41.620Z",
+    "raw": "Br. Vlaka 82298 odlazak      17.03.26. 13:02, kolodvor VELIKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89252",
+    "event_time": "2026-03-17T13:11:00",
+    "seen_at": "2026-03-17T12:12:26.217Z",
+    "raw": "Br. Vlaka 89252 odlazak      17.03.26. 13:11, kolodvor ZAPREŠIĆ"
   }
 ]
