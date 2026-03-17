@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "47990",
-    "event_time": "2026-03-14T12:41:00",
-    "seen_at": "2026-03-14T11:44:22.216Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 12:41, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -8665,5 +8656,50 @@
     "event_time": "2026-03-17T12:35:00",
     "seen_at": "2026-03-17T11:37:29.443Z",
     "raw": "Br. Vlaka 82203 odlazak      17.03.26. 12:35, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "PODSUSED tvornica",
+    "train_number": "89252",
+    "event_time": "2026-03-17T12:41:00",
+    "seen_at": "2026-03-17T11:42:25.618Z",
+    "raw": "Br. Vlaka 89252 formiran     17.03.26. 12:41, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81226",
+    "event_time": "2026-03-17T12:44:00",
+    "seen_at": "2026-03-17T11:44:57.517Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 12:44, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-03-17T12:43:00",
+    "seen_at": "2026-03-17T11:45:19.069Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 12:43, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-03-17T12:43:00",
+    "seen_at": "2026-03-17T11:45:19.069Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 12:43, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82203",
+    "event_time": "2026-03-17T12:45:00",
+    "seen_at": "2026-03-17T11:45:40.751Z",
+    "raw": "Br. Vlaka 82203 dolazak      17.03.26. 12:45, kolodvor LIČKA JESENICA"
   }
 ]
