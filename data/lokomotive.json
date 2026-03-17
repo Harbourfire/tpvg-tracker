@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "69177",
-    "event_time": "2026-03-14T14:11:00",
-    "seen_at": "2026-03-14T13:14:27.041Z",
-    "raw": "Br. Vlaka 69177 dolazak      14.03.26. 14:11, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "VRHOVINE",
-    "train_number": null,
-    "event_time": "2026-03-14T14:11:00",
-    "seen_at": "2026-03-14T13:14:48.994Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "MOSLAVAČKA GRAČENICA",
-    "train_number": "49841",
-    "event_time": "2026-03-14T14:14:00",
-    "seen_at": "2026-03-14T13:15:32.679Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 14:14, kolodvor MOSLAVAČKA GRAČENICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "47990",
-    "event_time": "2026-03-14T14:16:00",
-    "seen_at": "2026-03-14T13:16:38.617Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 14:16, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-03-14T12:14:00",
-    "seen_at": "2026-03-14T13:17:00.757Z",
-    "raw": "Br. Vlaka 63312 formiran     14.03.26. 12:14, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -8845,5 +8800,32 @@
     "event_time": "2026-03-17T14:01:00",
     "seen_at": "2026-03-17T13:03:52.607Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 14:01, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82298",
+    "event_time": "2026-03-17T14:07:00",
+    "seen_at": "2026-03-17T13:09:38.468Z",
+    "raw": "Br. Vlaka 82298 dolazak      17.03.26. 14:07, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "TUROPOLJE",
+    "train_number": "81226",
+    "event_time": "2026-03-17T13:56:00",
+    "seen_at": "2026-03-17T13:09:38.469Z",
+    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 13:56, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "81226",
+    "event_time": "2026-03-17T14:09:00",
+    "seen_at": "2026-03-17T13:10:01.132Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:09, kolodvor TUROPOLJE"
   }
 ]
