@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "49841",
-    "event_time": "2026-03-14T15:21:00",
-    "seen_at": "2026-03-14T14:22:09.488Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 15:21, kolodvor NOVSKA"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "ZVEČAJ",
@@ -8935,5 +8926,14 @@
     "event_time": "2026-03-17T15:15:00",
     "seen_at": "2026-03-17T14:15:22.077Z",
     "raw": "Br. Vlaka 63310 formiran     17.03.26. 15:15, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF GRANICA",
+    "train_number": "47944",
+    "event_time": "2026-03-16T22:05:00",
+    "seen_at": "2026-03-17T14:24:19.431Z",
+    "raw": "Br. Vlaka 47944 formiran     16.03.26. 22:05, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
