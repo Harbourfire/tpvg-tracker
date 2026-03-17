@@ -2,33 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "49841",
-    "event_time": "2026-03-14T15:10:00",
-    "seen_at": "2026-03-14T14:14:26.154Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 15:10, kolodvor LIPOVLJANI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZVEČAJ",
-    "train_number": "47990",
-    "event_time": "2026-03-14T15:14:00",
-    "seen_at": "2026-03-14T14:15:30.749Z",
-    "raw": "Br. Vlaka 47990 dolazak      14.03.26. 15:14, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-03-14T15:18:00",
-    "seen_at": "2026-03-14T14:19:28.272Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.03.26. 15:18, kolodvor BLATA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "NOVSKA",
     "train_number": "49841",
     "event_time": "2026-03-14T15:21:00",
@@ -8935,5 +8908,32 @@
     "event_time": "2026-03-17T15:10:00",
     "seen_at": "2026-03-17T14:10:43.639Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:10, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-03-17T15:15:00",
+    "seen_at": "2026-03-17T14:15:22.077Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-03-17T15:15:00",
+    "seen_at": "2026-03-17T14:15:22.077Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-17T15:15:00",
+    "seen_at": "2026-03-17T14:15:22.077Z",
+    "raw": "Br. Vlaka 63310 formiran     17.03.26. 15:15, kolodvor GOSPIĆ"
   }
 ]
