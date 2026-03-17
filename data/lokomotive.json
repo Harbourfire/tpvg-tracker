@@ -2,24 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "49841",
-    "event_time": "2026-03-14T13:26:00",
-    "seen_at": "2026-03-14T12:35:55.834Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 13:26, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "47990",
-    "event_time": "2026-03-14T13:39:00",
-    "seen_at": "2026-03-14T12:40:42.129Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 13:39, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "DEANOVEC",
     "train_number": "49841",
     "event_time": "2026-03-14T13:38:00",
@@ -8836,5 +8818,32 @@
     "event_time": "2026-03-17T13:27:00",
     "seen_at": "2026-03-17T12:29:59.202Z",
     "raw": "Br. Vlaka 81226 odlazak      17.03.26. 13:27, kolodvor SISAK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "ZDENČINA",
+    "train_number": "47428",
+    "event_time": "2026-03-17T13:31:00",
+    "seen_at": "2026-03-17T12:33:51.187Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 13:31, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "ZDENČINA",
+    "train_number": "47428",
+    "event_time": "2026-03-17T13:31:00",
+    "seen_at": "2026-03-17T12:33:51.187Z",
+    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 13:31, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82203",
+    "event_time": "2026-03-17T13:39:00",
+    "seen_at": "2026-03-17T12:40:04.333Z",
+    "raw": "Br. Vlaka 82203 odlazak      17.03.26. 13:39, kolodvor RUDOPOLJE"
   }
 ]
