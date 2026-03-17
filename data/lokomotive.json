@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "47990",
-    "event_time": "2026-03-14T13:49:00",
-    "seen_at": "2026-03-14T12:50:42.516Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 13:49, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-14T13:49:00",
-    "seen_at": "2026-03-14T12:51:47.707Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.03.26. 13:49, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "NOVOSELEC",
-    "train_number": "49841",
-    "event_time": "2026-03-14T13:50:00",
-    "seen_at": "2026-03-14T12:52:09.299Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 13:50, kolodvor NOVOSELEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-14T13:59:00",
-    "seen_at": "2026-03-14T12:59:11.919Z",
-    "raw": "Br. Vlaka 63310 dolazak      14.03.26. 13:59, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "LUDINA",
@@ -8899,5 +8863,14 @@
     "event_time": "2026-03-17T13:48:00",
     "seen_at": "2026-03-17T12:49:27.737Z",
     "raw": "Br. Vlaka 47428 odlazak      17.03.26. 13:48, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "81226",
+    "event_time": "2026-03-17T13:49:00",
+    "seen_at": "2026-03-17T12:50:47.756Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 13:49, kolodvor LEKENIK"
   }
 ]
