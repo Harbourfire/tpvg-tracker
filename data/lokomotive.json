@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "46897",
-    "event_time": "2026-03-14T16:00:00",
-    "seen_at": "2026-03-14T15:00:36.109Z",
-    "raw": "Br. Vlaka 46897 odlazak      14.03.26. 16:00, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "47990",
-    "event_time": "2026-03-14T16:04:00",
-    "seen_at": "2026-03-14T15:05:17.933Z",
-    "raw": "Br. Vlaka 47990 dolazak      14.03.26. 16:04, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -8872,5 +8854,32 @@
     "event_time": "2026-03-17T15:20:00",
     "seen_at": "2026-03-17T14:29:56.220Z",
     "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF GRANICA",
+    "train_number": "47944",
+    "event_time": "2026-03-17T15:57:00",
+    "seen_at": "2026-03-17T15:01:41.600Z",
+    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 15:57, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47944",
+    "event_time": "2026-03-17T16:02:00",
+    "seen_at": "2026-03-17T15:02:25.208Z",
+    "raw": "Br. Vlaka 47944 dolazak      17.03.26. 16:02, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-17T07:24:00",
+    "seen_at": "2026-03-17T15:05:20.355Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
   }
 ]
