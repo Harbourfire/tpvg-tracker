@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "89174",
-    "event_time": "2026-03-14T04:57:00",
-    "seen_at": "2026-03-14T03:58:54.976Z",
-    "raw": "Br. Vlaka 89174 odlazak      14.03.26. 04:57, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -8377,5 +8368,23 @@
     "event_time": "2026-03-17T04:43:00",
     "seen_at": "2026-03-17T03:43:36.205Z",
     "raw": "Br. Vlaka 81259 odlazak      17.03.26. 04:43, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "81259",
+    "event_time": "2026-03-17T04:51:00",
+    "seen_at": "2026-03-17T03:53:20.485Z",
+    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 04:51, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81226",
+    "event_time": "2026-03-17T04:51:00",
+    "seen_at": "2026-03-17T03:53:42.301Z",
+    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 04:51, kolodvor NOVSKA"
   }
 ]
