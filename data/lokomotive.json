@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "82124",
-    "event_time": "2026-03-14T19:33:00",
-    "seen_at": "2026-03-14T18:36:00.804Z",
-    "raw": "Br. Vlaka 82124 odlazak      14.03.26. 19:33, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47990",
-    "event_time": "2026-03-14T19:36:00",
-    "seen_at": "2026-03-14T18:37:50.468Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 19:36, kolodvor VRBOVEC"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "GRADEC",
@@ -8764,5 +8746,32 @@
     "event_time": "2026-03-17T19:30:00",
     "seen_at": "2026-03-17T18:31:32.480Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RK",
+    "train_number": "47990",
+    "event_time": "2026-03-17T08:37:00",
+    "seen_at": "2026-03-17T18:37:58.934Z",
+    "raw": "Br. Vlaka 47990 formiran     17.03.26. 08:37, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47944",
+    "event_time": "2026-03-17T19:38:00",
+    "seen_at": "2026-03-17T18:39:04.011Z",
+    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 19:38, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-03-17T19:39:00",
+    "seen_at": "2026-03-17T18:39:47.860Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.03.26. 19:39, kolodvor BLATA"
   }
 ]
