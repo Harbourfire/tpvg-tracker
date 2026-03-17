@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "49841",
-    "event_time": "2026-03-14T15:01:00",
-    "seen_at": "2026-03-14T14:01:20.637Z",
-    "raw": "Br. Vlaka 49841 odlazak      14.03.26. 15:01, kolodvor BANOVA JARUGA"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
@@ -8836,5 +8827,50 @@
     "event_time": "2026-03-17T14:50:00",
     "seen_at": "2026-03-17T13:51:49.242Z",
     "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:50, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82298",
+    "event_time": "2026-03-17T14:54:00",
+    "seen_at": "2026-03-17T13:54:58.688Z",
+    "raw": "Br. Vlaka 82298 dolazak      17.03.26. 14:54, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-17T14:54:00",
+    "seen_at": "2026-03-17T13:55:20.997Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81226",
+    "event_time": "2026-03-17T14:57:00",
+    "seen_at": "2026-03-17T13:57:32.732Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:57, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "47428",
+    "event_time": "2026-03-17T14:59:00",
+    "seen_at": "2026-03-17T14:00:06.921Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 14:59, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAP. KOL.",
+    "train_number": "47428",
+    "event_time": "2026-03-17T14:59:00",
+    "seen_at": "2026-03-17T14:00:06.921Z",
+    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 14:59, kolodvor ZAGREB ZAP. KOL."
   }
 ]
