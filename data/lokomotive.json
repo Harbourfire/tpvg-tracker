@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47990",
-    "event_time": "2026-03-14T19:43:00",
-    "seen_at": "2026-03-14T18:44:19.003Z",
-    "raw": "Br. Vlaka 47990 odlazak      14.03.26. 19:43, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440125",
     "type": "Dolazak",
     "station": "KRIŽEVCI",
     "train_number": "47990",
@@ -8773,5 +8764,14 @@
     "event_time": "2026-03-17T19:39:00",
     "seen_at": "2026-03-17T18:39:47.860Z",
     "raw": "Br. Vlaka 63310 odlazak      17.03.26. 19:39, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47944",
+    "event_time": "2026-03-17T19:43:00",
+    "seen_at": "2026-03-17T18:44:23.131Z",
+    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 19:43, kolodvor PODSUSED tvornica"
   }
 ]
