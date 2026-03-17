@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "KNIN",
-    "train_number": "47990",
-    "event_time": "2026-03-13T22:14:00",
-    "seen_at": "2026-03-14T06:36:29.736Z",
-    "raw": "Br. Vlaka 47990 formiran     13.03.26. 22:14, kolodvor KNIN"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -8512,5 +8503,32 @@
     "event_time": "2026-03-17T07:27:00",
     "seen_at": "2026-03-17T06:27:37.545Z",
     "raw": "Br. Vlaka 81229 odlazak      17.03.26. 07:27, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76601",
+    "event_time": "2026-03-17T07:32:00",
+    "seen_at": "2026-03-17T06:33:40.036Z",
+    "raw": "Br. Vlaka 76601 dolazak      17.03.26. 07:32, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-17T07:32:00",
+    "seen_at": "2026-03-17T06:34:24.040Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-03-17T07:36:00",
+    "seen_at": "2026-03-17T06:38:03.338Z",
+    "raw": "Br. Vlaka 45105 odlazak      17.03.26. 07:36, kolodvor OTOK"
   }
 ]
