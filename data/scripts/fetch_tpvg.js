@@ -3,18 +3,20 @@ const https = require("https");
 
 // mapa šifri kolodvora
 const STATION_CODES = {
-  "72303": "ZAGREB RK",
-  "72304": "ZAGREB RK (PS)",
-  "ZAGREB ZAP": "ZAGREB ZAPADNI",
+  "72303": "ZAGREB RANŽIRNI",
+  "72304": "ZAGREB RANŽIRNI (PS)",
+  "ZAGREB ZAP. KOL.": "ZAGREB ZAPADNI",
   "72302": "ZAGREB ŽITNJAK",
   "73164": "NOVO DRNJE",
-  "71308": "IZVAN HŽ - BRČKO",
-  "74609": "ĐURMANEC dg.",
-  "78804": "SLAVONSKI ŠAMAC dg.",
-  "92515": "PREČEC STAJALIŠTE",
-  "73115": "GRADEC STAJALIŠTE",
-  "77424": "BUZET dg.",
-  "71020": "TOVARNIK dg."
+  "71308": "BRČKO - izvan HŽ",
+  "74609": "ĐURMANEC granica",
+  "78804": "SLAVONSKI ŠAMAC granica",
+  "92515": "PREČEC stajalište",
+  "73115": "GRADEC stajalište",
+  "77424": "BUZET granica",
+  "71020": "TOVARNIK granica",
+  "KOPRIVNICA GR A": "KOPRIVNICA granica",
+  "SAVSKI MAROF GRANICA": "SAVSKI MAROF granica"
 };
 function translateStation(station) {
   if (!station) return station;
