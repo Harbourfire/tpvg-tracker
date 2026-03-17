@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81993",
-    "event_time": "2026-03-14T02:42:00",
-    "seen_at": "2026-03-14T01:43:11.919Z",
-    "raw": "Br. Vlaka 81993 odlazak      14.03.26. 02:42, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "KARLOVAC",
@@ -8224,5 +8215,41 @@
     "event_time": "2026-03-17T02:35:00",
     "seen_at": "2026-03-17T01:35:28.519Z",
     "raw": "Br. Vlaka 89709 odlazak      17.03.26. 02:35, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89709",
+    "event_time": "2026-03-17T02:39:00",
+    "seen_at": "2026-03-17T01:39:18.729Z",
+    "raw": "Br. Vlaka 89709 dolazak      17.03.26. 02:39, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47939",
+    "event_time": "2026-03-17T02:40:00",
+    "seen_at": "2026-03-17T01:40:45.289Z",
+    "raw": "Br. Vlaka 47939 odlazak      17.03.26. 02:40, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-17T02:39:00",
+    "seen_at": "2026-03-17T01:41:06.846Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81226",
+    "event_time": "2026-03-17T02:41:00",
+    "seen_at": "2026-03-17T01:44:21.764Z",
+    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 02:41, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
