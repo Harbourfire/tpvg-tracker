@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-15T22:18:00",
-    "seen_at": "2026-03-15T21:19:23.496Z",
-    "raw": "Br. Vlaka 69005 odlazak      15.03.26. 22:18, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-15T22:18:00",
-    "seen_at": "2026-03-15T21:19:23.496Z",
-    "raw": "Br. Vlaka 69005 odlazak      15.03.26. 22:18, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RK",
-    "train_number": "89875",
-    "event_time": "2026-03-15T22:19:00",
-    "seen_at": "2026-03-15T21:19:45.277Z",
-    "raw": "Br. Vlaka 89875 odlazak      15.03.26. 22:19, kolodvor 72303"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "81276",
-    "event_time": "2026-03-15T22:24:00",
-    "seen_at": "2026-03-15T21:25:03.068Z",
-    "raw": "Br. Vlaka 81276 odlazak      15.03.26. 22:24, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "81276",
-    "event_time": "2026-03-15T22:24:00",
-    "seen_at": "2026-03-15T21:25:03.069Z",
-    "raw": "Br. Vlaka 81276 odlazak      15.03.26. 22:24, kolodvor ZVEČAJ"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
@@ -9484,5 +9439,86 @@
     "event_time": "2026-03-18T22:13:00",
     "seen_at": "2026-03-18T21:14:06.351Z",
     "raw": "Br. Vlaka 63305 odlazak      18.03.26. 22:13, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "44693",
+    "event_time": "2026-03-18T22:15:00",
+    "seen_at": "2026-03-18T21:17:33.596Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 22:15, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "44693",
+    "event_time": "2026-03-18T22:15:00",
+    "seen_at": "2026-03-18T21:17:33.597Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 22:15, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45131",
+    "event_time": "2026-03-18T22:10:00",
+    "seen_at": "2026-03-18T21:20:51.860Z",
+    "raw": "Br. Vlaka 45131 dolazak      18.03.26. 22:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-19T02:15:00",
+    "seen_at": "2026-03-18T21:22:42.469Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-03-18T16:33:00",
+    "seen_at": "2026-03-18T21:23:04.562Z",
+    "raw": "Br. Vlaka 45130 promjena sas 18.03.26. 16:33, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-18T22:21:00",
+    "seen_at": "2026-03-18T21:23:04.563Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 22:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-18T22:21:00",
+    "seen_at": "2026-03-18T21:23:04.563Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 22:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "44693",
+    "event_time": "2026-03-18T22:23:00",
+    "seen_at": "2026-03-18T21:23:48.455Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 22:23, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "44693",
+    "event_time": "2026-03-18T22:23:00",
+    "seen_at": "2026-03-18T21:23:48.456Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 22:23, kolodvor SESVETE"
   }
 ]
