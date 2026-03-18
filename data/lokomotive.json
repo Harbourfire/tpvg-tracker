@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "82292",
-    "event_time": "2026-03-15T12:55:00",
-    "seen_at": "2026-03-15T11:56:28.333Z",
-    "raw": "Br. Vlaka 82292 dolazak      15.03.26. 12:55, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47944",
-    "event_time": "2026-03-15T13:03:00",
-    "seen_at": "2026-03-15T12:03:32.913Z",
-    "raw": "Br. Vlaka 47944 odlazak      15.03.26. 13:03, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820622029",
     "type": "Rasformiran",
     "station": "OSIJEK",
     "train_number": null,
@@ -9232,5 +9214,41 @@
     "event_time": "2026-03-18T12:52:00",
     "seen_at": "2026-03-18T11:54:30.907Z",
     "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:52, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "45586",
+    "event_time": "2026-03-18T12:56:00",
+    "seen_at": "2026-03-18T11:56:35.023Z",
+    "raw": "Br. Vlaka 45586 odlazak      18.03.26. 12:56, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "DALJ",
+    "train_number": "49827",
+    "event_time": "2026-03-18T12:58:00",
+    "seen_at": "2026-03-18T12:03:07.573Z",
+    "raw": "Br. Vlaka 49827 dolazak      18.03.26. 12:58, kolodvor DALJ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "47985",
+    "event_time": "2026-03-18T13:01:00",
+    "seen_at": "2026-03-18T12:03:07.573Z",
+    "raw": "Br. Vlaka 47985 odlazak      18.03.26. 13:01, kolodvor DARDA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "82326",
+    "event_time": "2026-03-18T13:03:00",
+    "seen_at": "2026-03-18T12:03:50.855Z",
+    "raw": "Br. Vlaka 82326 odlazak      18.03.26. 13:03, kolodvor SIBINJ"
   }
 ]
