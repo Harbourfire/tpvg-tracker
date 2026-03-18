@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "ZAGREB RK (PS)",
-    "train_number": "89257",
-    "event_time": "2026-03-15T16:26:00",
-    "seen_at": "2026-03-15T15:26:41.889Z",
-    "raw": "Br. Vlaka 89257 dolazak      15.03.26. 16:26, kolodvor 72304"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "KOPRIVNICA GR    A",
@@ -9286,5 +9277,32 @@
     "event_time": "2026-03-18T04:07:00",
     "seen_at": "2026-03-18T15:18:38.688Z",
     "raw": "Br. Vlaka 47939 promjena sas 18.03.26. 04:07, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44995",
+    "event_time": "2026-03-18T16:22:00",
+    "seen_at": "2026-03-18T15:25:05.927Z",
+    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 16:22, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44693",
+    "event_time": "2026-03-18T16:24:00",
+    "seen_at": "2026-03-18T15:27:59.094Z",
+    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 16:24, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44693",
+    "event_time": "2026-03-18T16:24:00",
+    "seen_at": "2026-03-18T15:28:42.461Z",
+    "raw": "Br. Vlaka 44693 promjena sas 18.03.26. 16:24, kolodvor ZAPREŠIĆ"
   }
 ]
