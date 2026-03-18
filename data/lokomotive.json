@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Formiran",
-    "station": "ZAGREB RK",
-    "train_number": "81276",
-    "event_time": "2026-03-15T18:06:00",
-    "seen_at": "2026-03-15T18:01:16.972Z",
-    "raw": "Br. Vlaka 81276 formiran     15.03.26. 18:06, kolodvor 72303"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "ZAGREB RK",
-    "train_number": null,
-    "event_time": "2026-03-15T18:00:00",
-    "seen_at": "2026-03-15T18:01:16.973Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "ZAGREB RK",
-    "train_number": "81276",
-    "event_time": "2026-03-15T18:06:00",
-    "seen_at": "2026-03-15T18:01:38.524Z",
-    "raw": "Br. Vlaka 81276 formiran     15.03.26. 18:06, kolodvor 72303"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "ZAGREB RK",
     "train_number": "81276",
@@ -9565,5 +9538,14 @@
     "event_time": "2026-03-18T18:55:00",
     "seen_at": "2026-03-18T17:57:46.837Z",
     "raw": "Br. Vlaka 44995 dolazak      18.03.26. 18:55, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44995",
+    "event_time": "2026-03-18T19:05:00",
+    "seen_at": "2026-03-18T18:06:43.984Z",
+    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 19:05, kolodvor ZABOK"
   }
 ]
