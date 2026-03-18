@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "DARDA",
-    "train_number": "89540",
-    "event_time": "2026-03-15T10:55:00",
-    "seen_at": "2026-03-15T10:04:40.741Z",
-    "raw": "Br. Vlaka 89540 dolazak      15.03.26. 10:55, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T11:02:00",
-    "seen_at": "2026-03-15T10:05:46.458Z",
-    "raw": "Br. Vlaka 82505 dolazak      15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T11:02:00",
-    "seen_at": "2026-03-15T10:05:46.458Z",
-    "raw": "Br. Vlaka 82505 dolazak      15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "SAVSKI MAROF",
@@ -9124,5 +9097,32 @@
     "event_time": "2026-03-18T10:56:00",
     "seen_at": "2026-03-18T09:57:37.736Z",
     "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:56, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "48795",
+    "event_time": "2026-03-18T11:04:00",
+    "seen_at": "2026-03-18T10:05:05.198Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 11:04, kolodvor 72304"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89753",
+    "event_time": "2026-03-18T11:06:00",
+    "seen_at": "2026-03-18T10:06:14.186Z",
+    "raw": "Br. Vlaka 89753 dolazak      18.03.26. 11:06, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-18T11:06:00",
+    "seen_at": "2026-03-18T10:06:35.936Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
