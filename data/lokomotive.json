@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "89257",
-    "event_time": "2026-03-15T15:02:00",
-    "seen_at": "2026-03-15T14:03:27.605Z",
-    "raw": "Br. Vlaka 89257 formiran     15.03.26. 15:02, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82286",
-    "event_time": "2026-03-15T15:03:00",
-    "seen_at": "2026-03-15T14:03:49.495Z",
-    "raw": "Br. Vlaka 82286 odlazak      15.03.26. 15:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82286",
-    "event_time": "2026-03-15T15:03:00",
-    "seen_at": "2026-03-15T14:03:49.495Z",
-    "raw": "Br. Vlaka 82286 odlazak      15.03.26. 15:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47944",
-    "event_time": "2026-03-15T15:08:00",
-    "seen_at": "2026-03-15T14:08:46.847Z",
-    "raw": "Br. Vlaka 47944 dolazak      15.03.26. 15:08, kolodvor 73164"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -9268,5 +9232,14 @@
     "event_time": "2026-03-18T14:59:00",
     "seen_at": "2026-03-18T14:00:57.752Z",
     "raw": "Br. Vlaka 81230 odlazak      18.03.26. 14:59, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-03-18T15:00:00",
+    "seen_at": "2026-03-18T14:03:22.077Z",
+    "raw": "Br. Vlaka 49827 odlazak      18.03.26. 15:00, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
