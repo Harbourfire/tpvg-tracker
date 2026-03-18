@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89540",
-    "event_time": "2026-03-15T11:27:00",
-    "seen_at": "2026-03-15T10:28:12.694Z",
-    "raw": "Br. Vlaka 89540 dolazak      15.03.26. 11:27, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "89540",
-    "event_time": "2026-03-15T11:27:00",
-    "seen_at": "2026-03-15T10:29:17.623Z",
-    "raw": "Br. Vlaka 89540 promjena sas 15.03.26. 11:27, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "47981",
-    "event_time": "2026-03-15T11:25:00",
-    "seen_at": "2026-03-15T10:29:39.143Z",
-    "raw": "Br. Vlaka 47981 promjena sas 15.03.26. 11:25, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "OSIJEK DONJI GRAD",
@@ -9097,5 +9070,32 @@
     "event_time": "2026-03-18T11:22:00",
     "seen_at": "2026-03-18T10:23:35.751Z",
     "raw": "Br. Vlaka 48795 odlazak      18.03.26. 11:22, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-18T11:25:00",
+    "seen_at": "2026-03-18T10:26:45.944Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89920",
+    "event_time": "2026-03-18T11:25:00",
+    "seen_at": "2026-03-18T10:27:29.685Z",
+    "raw": "Br. Vlaka 89920 odlazak      18.03.26. 11:25, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48795",
+    "event_time": "2026-03-18T11:33:00",
+    "seen_at": "2026-03-18T10:34:22.439Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 11:33, kolodvor ZAGREB ZAP. KOL."
   }
 ]
