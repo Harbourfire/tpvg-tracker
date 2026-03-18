@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-15T01:08:00",
-    "seen_at": "2026-03-15T00:21:27.674Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89874",
-    "event_time": "2026-03-14T15:03:00",
-    "seen_at": "2026-03-15T00:22:11.975Z",
-    "raw": "Br. Vlaka 89874 formiran     14.03.26. 15:03, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -9160,5 +9142,23 @@
     "event_time": "2026-03-18T01:07:00",
     "seen_at": "2026-03-18T00:08:14.479Z",
     "raw": "Br. Vlaka 47990 odlazak      18.03.26. 01:07, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-18T01:13:00",
+    "seen_at": "2026-03-18T00:14:57.344Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:13, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-18T01:13:00",
+    "seen_at": "2026-03-18T00:14:57.344Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:13, kolodvor LIČKA JESENICA"
   }
 ]
