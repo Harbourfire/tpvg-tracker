@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82286",
-    "event_time": "2026-03-15T15:16:00",
-    "seen_at": "2026-03-15T14:18:08.806Z",
-    "raw": "Br. Vlaka 82286 odlazak      15.03.26. 15:16, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82286",
-    "event_time": "2026-03-15T15:16:00",
-    "seen_at": "2026-03-15T14:18:08.806Z",
-    "raw": "Br. Vlaka 82286 odlazak      15.03.26. 15:16, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "82286",
@@ -9241,5 +9223,23 @@
     "event_time": "2026-03-18T15:00:00",
     "seen_at": "2026-03-18T14:03:22.077Z",
     "raw": "Br. Vlaka 49827 odlazak      18.03.26. 15:00, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81230",
+    "event_time": "2026-03-18T15:16:00",
+    "seen_at": "2026-03-18T14:16:38.118Z",
+    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 15:16, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81230",
+    "event_time": "2026-03-18T15:16:00",
+    "seen_at": "2026-03-18T14:16:38.118Z",
+    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 15:16, kolodvor LIČKO LEŠĆE"
   }
 ]
