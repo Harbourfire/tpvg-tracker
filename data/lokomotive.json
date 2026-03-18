@@ -2,33 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "89257",
-    "event_time": "2026-03-15T15:56:00",
-    "seen_at": "2026-03-15T14:59:39.481Z",
-    "raw": "Br. Vlaka 89257 odlazak      15.03.26. 15:56, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89257",
-    "event_time": "2026-03-15T15:59:00",
-    "seen_at": "2026-03-15T15:00:01.273Z",
-    "raw": "Br. Vlaka 89257 odlazak      15.03.26. 15:59, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89257",
-    "event_time": "2026-03-15T16:03:00",
-    "seen_at": "2026-03-15T15:03:37.700Z",
-    "raw": "Br. Vlaka 89257 odlazak      15.03.26. 16:03, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "89257",
     "event_time": "2026-03-15T16:07:00",
@@ -9268,5 +9241,32 @@
     "event_time": "2026-03-18T15:53:00",
     "seen_at": "2026-03-18T14:54:59.546Z",
     "raw": "Br. Vlaka 44995 odlazak      18.03.26. 15:53, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81230",
+    "event_time": "2026-03-18T15:55:00",
+    "seen_at": "2026-03-18T14:56:41.369Z",
+    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 15:55, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81230",
+    "event_time": "2026-03-18T15:55:00",
+    "seen_at": "2026-03-18T14:56:41.369Z",
+    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 15:55, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44995",
+    "event_time": "2026-03-18T16:01:00",
+    "seen_at": "2026-03-18T15:02:07.011Z",
+    "raw": "Br. Vlaka 44995 dolazak      18.03.26. 16:01, kolodvor MALA SUBOTICA"
   }
 ]
