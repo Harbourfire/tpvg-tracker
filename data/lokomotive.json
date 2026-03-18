@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47938",
-    "event_time": "2026-03-15T05:33:00",
-    "seen_at": "2026-03-15T04:33:28.975Z",
-    "raw": "Br. Vlaka 47938 odlazak      15.03.26. 05:33, kolodvor 72302"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47938",
-    "event_time": "2026-03-15T05:37:00",
-    "seen_at": "2026-03-15T04:38:54.009Z",
-    "raw": "Br. Vlaka 47938 odlazak      15.03.26. 05:37, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230100",
     "type": "Dolazak",
     "station": "SESVETE",
     "train_number": "47938",
@@ -9070,5 +9052,32 @@
     "event_time": "2026-03-18T05:22:00",
     "seen_at": "2026-03-18T04:23:04.247Z",
     "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:22, kolodvor BLATA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76501",
+    "event_time": "2026-03-18T05:36:00",
+    "seen_at": "2026-03-18T04:37:21.172Z",
+    "raw": "Br. Vlaka 76501 formiran     18.03.26. 05:36, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-03-18T05:34:00",
+    "seen_at": "2026-03-18T04:37:43.284Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:34, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-03-18T05:34:00",
+    "seen_at": "2026-03-18T04:37:43.284Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:34, kolodvor PLAŠKI"
   }
 ]
