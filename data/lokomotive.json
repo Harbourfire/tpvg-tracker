@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:30:00",
-    "seen_at": "2026-03-15T09:32:07.566Z",
-    "raw": "Br. Vlaka 89193 odlazak      15.03.26. 10:30, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:34:00",
-    "seen_at": "2026-03-15T09:35:02.195Z",
-    "raw": "Br. Vlaka 89193 odlazak      15.03.26. 10:34, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:37:00",
-    "seen_at": "2026-03-15T09:38:55.224Z",
-    "raw": "Br. Vlaka 89193 odlazak      15.03.26. 10:37, kolodvor LUKA"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -9151,5 +9124,41 @@
     "event_time": "2026-03-18T10:31:00",
     "seen_at": "2026-03-18T09:31:25.200Z",
     "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:31, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:35:00",
+    "seen_at": "2026-03-18T09:37:10.767Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:35, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:35:00",
+    "seen_at": "2026-03-18T09:37:10.768Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:35, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:40:00",
+    "seen_at": "2026-03-18T09:40:31.434Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:40, kolodvor 72302"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:40:00",
+    "seen_at": "2026-03-18T09:40:31.435Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:40, kolodvor 72302"
   }
 ]
