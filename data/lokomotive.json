@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-03-15T04:46:00",
-    "seen_at": "2026-03-15T03:51:25.610Z",
-    "raw": "Br. Vlaka 63306 dolazak      15.03.26. 04:46, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-03-15T04:46:00",
-    "seen_at": "2026-03-15T03:51:25.610Z",
-    "raw": "Br. Vlaka 63306 dolazak      15.03.26. 04:46, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-15T04:46:00",
-    "seen_at": "2026-03-15T03:51:48.316Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-15T04:46:00",
-    "seen_at": "2026-03-15T03:51:48.316Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "ZAGREB RK",
@@ -9025,5 +8989,23 @@
     "event_time": "2026-03-18T04:42:00",
     "seen_at": "2026-03-18T03:43:20.600Z",
     "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:42, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-18T04:53:00",
+    "seen_at": "2026-03-18T03:54:16.393Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:53, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-18T04:53:00",
+    "seen_at": "2026-03-18T03:54:16.393Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:53, kolodvor RUDOPOLJE"
   }
 ]
