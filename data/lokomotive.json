@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "47944",
-    "event_time": "2026-03-15T12:37:00",
-    "seen_at": "2026-03-15T11:37:51.522Z",
-    "raw": "Br. Vlaka 47944 dolazak      15.03.26. 12:37, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "82291",
-    "train_number": null,
-    "event_time": "2026-03-15T11:39:17.940Z",
-    "seen_at": "2026-03-15T11:39:17.940Z",
-    "raw": "Trenutna pozicija je u kolodvoru 82291 82291"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
@@ -9169,5 +9151,68 @@
     "event_time": "2026-03-18T12:35:00",
     "seen_at": "2026-03-18T11:36:52.536Z",
     "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:35, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45586",
+    "event_time": "2026-03-18T12:38:00",
+    "seen_at": "2026-03-18T11:39:40.733Z",
+    "raw": "Br. Vlaka 45586 odlazak      18.03.26. 12:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "47985",
+    "event_time": "2026-03-18T12:02:00",
+    "seen_at": "2026-03-18T11:43:18.575Z",
+    "raw": "Br. Vlaka 47985 promjena sas 18.03.26. 12:02, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "47985",
+    "event_time": "2026-03-18T12:42:00",
+    "seen_at": "2026-03-18T11:43:40.203Z",
+    "raw": "Br. Vlaka 47985 odlazak      18.03.26. 12:42, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "81971",
+    "event_time": "2026-03-18T12:43:00",
+    "seen_at": "2026-03-18T11:43:40.203Z",
+    "raw": "Br. Vlaka 81971 dolazak      18.03.26. 12:43, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "81971",
+    "event_time": "2026-03-18T12:43:00",
+    "seen_at": "2026-03-18T11:43:40.204Z",
+    "raw": "Br. Vlaka 81971 dolazak      18.03.26. 12:43, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "45586",
+    "event_time": "2026-03-18T12:44:00",
+    "seen_at": "2026-03-18T11:45:07.335Z",
+    "raw": "Br. Vlaka 45586 odlazak      18.03.26. 12:44, kolodvor 72304"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82326",
+    "event_time": "2026-03-18T12:45:00",
+    "seen_at": "2026-03-18T11:45:50.562Z",
+    "raw": "Br. Vlaka 82326 formiran     18.03.26. 12:45, kolodvor SLAVONSKI BROD"
   }
 ]
