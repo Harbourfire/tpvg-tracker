@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:50:00",
-    "seen_at": "2026-03-15T09:52:29.576Z",
-    "raw": "Br. Vlaka 89193 odlazak      15.03.26. 10:50, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:54:00",
-    "seen_at": "2026-03-15T09:54:39.116Z",
-    "raw": "Br. Vlaka 89193 dolazak      15.03.26. 10:54, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-03-15T10:54:00",
-    "seen_at": "2026-03-15T09:55:00.776Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "DARDA",
@@ -9106,5 +9079,50 @@
     "event_time": "2026-03-18T10:47:00",
     "seen_at": "2026-03-18T09:49:12.877Z",
     "raw": "Br. Vlaka 48795 dolazak      18.03.26. 10:47, kolodvor 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-18T02:04:00",
+    "seen_at": "2026-03-18T09:52:10.126Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47562",
+    "event_time": "2026-03-17T23:08:00",
+    "seen_at": "2026-03-18T09:52:31.861Z",
+    "raw": "Br. Vlaka 47562 formiran     17.03.26. 23:08, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "89753",
+    "event_time": "2026-03-18T10:27:00",
+    "seen_at": "2026-03-18T09:56:10.349Z",
+    "raw": "Br. Vlaka 89753 formiran     18.03.26. 10:27, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89753",
+    "event_time": "2026-03-18T10:55:00",
+    "seen_at": "2026-03-18T09:56:32.245Z",
+    "raw": "Br. Vlaka 89753 odlazak      18.03.26. 10:55, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:56:00",
+    "seen_at": "2026-03-18T09:57:37.736Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:56, kolodvor 72303"
   }
 ]
