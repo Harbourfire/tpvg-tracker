@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "82535",
-    "event_time": "2026-03-15T05:18:00",
-    "seen_at": "2026-03-15T04:20:48.457Z",
-    "raw": "Br. Vlaka 82535 odlazak      15.03.26. 05:18, kolodvor 72302"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "82535",
-    "event_time": "2026-03-15T05:22:00",
-    "seen_at": "2026-03-15T04:22:26.437Z",
-    "raw": "Br. Vlaka 82535 odlazak      15.03.26. 05:22, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "ZAGREB RK",
@@ -9070,5 +9052,41 @@
     "event_time": "2026-03-18T05:12:00",
     "seen_at": "2026-03-18T04:13:44.403Z",
     "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:12, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48795",
+    "event_time": "2026-03-18T05:22:00",
+    "seen_at": "2026-03-18T04:23:04.245Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 05:22, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48795",
+    "event_time": "2026-03-18T05:22:00",
+    "seen_at": "2026-03-18T04:23:04.247Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 05:22, kolodvor 73164"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-03-18T05:22:00",
+    "seen_at": "2026-03-18T04:23:04.247Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:22, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-03-18T05:22:00",
+    "seen_at": "2026-03-18T04:23:04.247Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:22, kolodvor BLATA"
   }
 ]
