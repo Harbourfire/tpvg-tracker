@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82286",
-    "event_time": "2026-03-15T14:54:00",
-    "seen_at": "2026-03-15T13:54:51.080Z",
-    "raw": "Br. Vlaka 82286 odlazak      15.03.26. 14:54, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82286",
-    "event_time": "2026-03-15T14:54:00",
-    "seen_at": "2026-03-15T13:54:51.080Z",
-    "raw": "Br. Vlaka 82286 odlazak      15.03.26. 14:54, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47944",
-    "event_time": "2026-03-15T14:54:00",
-    "seen_at": "2026-03-15T13:55:13.057Z",
-    "raw": "Br. Vlaka 47944 odlazak      15.03.26. 14:54, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47944",
-    "event_time": "2026-03-15T14:38:00",
-    "seen_at": "2026-03-15T13:57:15.059Z",
-    "raw": "Br. Vlaka 47944 dolazak      15.03.26. 14:38, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47944",
-    "event_time": "2026-03-15T14:50:00",
-    "seen_at": "2026-03-15T13:57:37.112Z",
-    "raw": "Br. Vlaka 47944 odlazak      15.03.26. 14:50, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "SAVSKI MAROF GRANICA",
@@ -9286,5 +9241,32 @@
     "event_time": "2026-03-18T14:46:00",
     "seen_at": "2026-03-18T13:46:50.251Z",
     "raw": "Br. Vlaka 81230 odlazak      18.03.26. 14:46, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "49827",
+    "event_time": "2026-03-18T14:33:00",
+    "seen_at": "2026-03-18T13:56:36.403Z",
+    "raw": "Br. Vlaka 49827 odlazak      18.03.26. 14:33, kolodvor DALJ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81230",
+    "event_time": "2026-03-18T14:59:00",
+    "seen_at": "2026-03-18T14:00:57.752Z",
+    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 14:59, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81230",
+    "event_time": "2026-03-18T14:59:00",
+    "seen_at": "2026-03-18T14:00:57.752Z",
+    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 14:59, kolodvor PERUŠIĆ"
   }
 ]
