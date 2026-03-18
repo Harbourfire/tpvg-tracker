@@ -2,15 +2,6 @@
   {
     "uic": "927820440265",
     "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "47945",
-    "event_time": "2026-03-15T20:56:00",
-    "seen_at": "2026-03-15T19:58:15.856Z",
-    "raw": "Br. Vlaka 47945 odlazak      15.03.26. 20:56, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "47945",
     "event_time": "2026-03-15T21:05:00",
@@ -9610,5 +9601,23 @@
     "event_time": "2026-03-18T20:52:00",
     "seen_at": "2026-03-18T19:52:55.718Z",
     "raw": "Br. Vlaka 44693 odlazak      18.03.26. 20:52, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44693",
+    "event_time": "2026-03-18T20:58:00",
+    "seen_at": "2026-03-18T20:01:52.365Z",
+    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 20:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44693",
+    "event_time": "2026-03-18T20:58:00",
+    "seen_at": "2026-03-18T20:01:52.367Z",
+    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 20:58, kolodvor ZAGREB ZAP. KOL."
   }
 ]
