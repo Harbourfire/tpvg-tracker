@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "47981",
-    "event_time": "2026-03-15T13:26:00",
-    "seen_at": "2026-03-15T16:53:56.624Z",
-    "raw": "Br. Vlaka 47981 promjena sas 15.03.26. 13:26, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230076",
     "type": "Rasformiran",
     "station": "ZAGREB RK (PS)",
@@ -9457,5 +9448,23 @@
     "event_time": "2026-03-18T17:41:00",
     "seen_at": "2026-03-18T16:42:49.320Z",
     "raw": "Br. Vlaka 44995 odlazak      18.03.26. 17:41, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "47939",
+    "event_time": "2026-03-18T17:39:00",
+    "seen_at": "2026-03-18T16:44:31.586Z",
+    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 17:39, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47939",
+    "event_time": "2026-03-18T17:47:00",
+    "seen_at": "2026-03-18T16:55:46.579Z",
+    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 17:47, kolodvor ROČ"
   }
 ]
