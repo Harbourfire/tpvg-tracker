@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:40:00",
-    "seen_at": "2026-03-15T09:41:05.778Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:40, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:40:00",
-    "seen_at": "2026-03-15T09:41:05.778Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:40, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:42:00",
-    "seen_at": "2026-03-15T09:43:15.584Z",
-    "raw": "Br. Vlaka 89193 odlazak      15.03.26. 10:42, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "89540",
-    "event_time": "2026-03-15T10:41:00",
-    "seen_at": "2026-03-15T09:43:15.585Z",
-    "raw": "Br. Vlaka 89540 dolazak      15.03.26. 10:41, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89540",
-    "event_time": "2026-03-15T10:42:00",
-    "seen_at": "2026-03-15T09:43:37.313Z",
-    "raw": "Br. Vlaka 89540 odlazak      15.03.26. 10:42, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:46:00",
-    "seen_at": "2026-03-15T09:47:49.143Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:46, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:46:00",
-    "seen_at": "2026-03-15T09:47:49.143Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:46, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89193",
-    "event_time": "2026-03-15T10:46:00",
-    "seen_at": "2026-03-15T09:48:10.877Z",
-    "raw": "Br. Vlaka 89193 dolazak      15.03.26. 10:46, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -9160,5 +9088,23 @@
     "event_time": "2026-03-18T10:40:00",
     "seen_at": "2026-03-18T09:40:31.435Z",
     "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:40, kolodvor 72302"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:47:00",
+    "seen_at": "2026-03-18T09:49:12.876Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 10:47, kolodvor 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:47:00",
+    "seen_at": "2026-03-18T09:49:12.877Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 10:47, kolodvor 72303"
   }
 ]
