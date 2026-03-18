@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "81128",
-    "event_time": "2026-03-15T02:07:00",
-    "seen_at": "2026-03-15T01:07:30.173Z",
-    "raw": "Br. Vlaka 81128 odlazak      15.03.26. 02:07, kolodvor SESVETE"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -9169,5 +9160,14 @@
     "event_time": "2026-03-18T01:53:00",
     "seen_at": "2026-03-18T00:55:09.580Z",
     "raw": "Br. Vlaka 63305 promjena sas 18.03.26. 01:53, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47990",
+    "event_time": "2026-03-18T02:02:00",
+    "seen_at": "2026-03-18T01:04:42.773Z",
+    "raw": "Br. Vlaka 47990 dolazak      18.03.26. 02:02, kolodvor 73164"
   }
 ]
