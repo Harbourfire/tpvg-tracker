@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89875",
-    "event_time": "2026-03-15T23:39:00",
-    "seen_at": "2026-03-15T22:39:55.859Z",
-    "raw": "Br. Vlaka 89875 odlazak      15.03.26. 23:39, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "89875",
-    "event_time": "2026-03-15T23:44:00",
-    "seen_at": "2026-03-15T22:44:08.938Z",
-    "raw": "Br. Vlaka 89875 odlazak      15.03.26. 23:44, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440265",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
     "train_number": "89875",
@@ -9493,5 +9475,41 @@
     "event_time": "2026-03-18T23:34:00",
     "seen_at": "2026-03-18T22:36:48.602Z",
     "raw": "Br. Vlaka 89723 odlazak      18.03.26. 23:34, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "44693",
+    "event_time": "2026-03-18T23:38:00",
+    "seen_at": "2026-03-18T22:40:36.016Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 23:38, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-18T23:40:00",
+    "seen_at": "2026-03-18T22:41:20.303Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 23:40, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-18T23:40:00",
+    "seen_at": "2026-03-18T22:41:20.304Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 23:40, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "89723",
+    "event_time": "2026-03-18T23:42:00",
+    "seen_at": "2026-03-18T22:42:46.879Z",
+    "raw": "Br. Vlaka 89723 odlazak      18.03.26. 23:42, kolodvor GRADEC"
   }
 ]
