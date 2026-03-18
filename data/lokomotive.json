@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "47938",
-    "event_time": "2026-03-15T07:21:00",
-    "seen_at": "2026-03-15T06:21:48.560Z",
-    "raw": "Br. Vlaka 47938 dolazak      15.03.26. 07:21, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KUTINA",
-    "train_number": "82535",
-    "event_time": "2026-03-15T07:20:00",
-    "seen_at": "2026-03-15T06:22:53.617Z",
-    "raw": "Br. Vlaka 82535 dolazak      15.03.26. 07:20, kolodvor KUTINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KUTINA",
-    "train_number": "82535",
-    "event_time": "2026-03-15T07:21:00",
-    "seen_at": "2026-03-15T06:23:15.658Z",
-    "raw": "Br. Vlaka 82535 odlazak      15.03.26. 07:21, kolodvor KUTINA"
-  },
-  {
     "uic": "927820440125",
     "type": "Rasformiran",
     "station": "BANOVA JARUGA",
@@ -9205,5 +9178,14 @@
     "event_time": "2026-03-18T07:15:00",
     "seen_at": "2026-03-18T06:15:51.620Z",
     "raw": "Br. Vlaka 76501 promjena sas 18.03.26. 07:15, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76501",
+    "event_time": "2026-03-18T07:28:00",
+    "seen_at": "2026-03-18T06:29:11.355Z",
+    "raw": "Br. Vlaka 76501 odlazak      18.03.26. 07:28, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
