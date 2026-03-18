@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-15T02:52:00",
-    "seen_at": "2026-03-15T01:54:12.846Z",
-    "raw": "Br. Vlaka 63306 odlazak      15.03.26. 02:52, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-15T02:52:00",
-    "seen_at": "2026-03-15T01:54:12.846Z",
-    "raw": "Br. Vlaka 63306 odlazak      15.03.26. 02:52, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "VRBOVEC",
@@ -9061,5 +9043,41 @@
     "event_time": "2026-03-18T02:39:00",
     "seen_at": "2026-03-18T01:43:53.790Z",
     "raw": "Br. Vlaka 63305 odlazak      18.03.26. 02:39, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-18T02:51:00",
+    "seen_at": "2026-03-18T01:52:52.034Z",
+    "raw": "Br. Vlaka 63305 dolazak      18.03.26. 02:51, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-18T02:51:00",
+    "seen_at": "2026-03-18T01:52:52.035Z",
+    "raw": "Br. Vlaka 63305 dolazak      18.03.26. 02:51, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-18T02:51:00",
+    "seen_at": "2026-03-18T01:53:14.289Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-18T02:51:00",
+    "seen_at": "2026-03-18T01:53:14.289Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
