@@ -2,24 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "81128",
-    "event_time": "2026-03-15T01:50:00",
-    "seen_at": "2026-03-15T00:50:31.645Z",
-    "raw": "Br. Vlaka 81128 odlazak      15.03.26. 01:50, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89874",
-    "event_time": "2026-03-15T01:54:00",
-    "seen_at": "2026-03-15T00:55:12.958Z",
-    "raw": "Br. Vlaka 89874 odlazak      15.03.26. 01:54, kolodvor 73164"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "SESVETE",
     "train_number": "81128",
     "event_time": "2026-03-15T02:07:00",
@@ -9151,5 +9133,41 @@
     "event_time": "2026-03-18T01:47:00",
     "seen_at": "2026-03-18T00:49:10.448Z",
     "raw": "Br. Vlaka 47990 odlazak      18.03.26. 01:47, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-18T01:53:00",
+    "seen_at": "2026-03-18T00:54:47.913Z",
+    "raw": "Br. Vlaka 63305 dolazak      18.03.26. 01:53, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-18T01:53:00",
+    "seen_at": "2026-03-18T00:54:47.913Z",
+    "raw": "Br. Vlaka 63305 dolazak      18.03.26. 01:53, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-18T01:53:00",
+    "seen_at": "2026-03-18T00:55:09.580Z",
+    "raw": "Br. Vlaka 63305 promjena sas 18.03.26. 01:53, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-18T01:53:00",
+    "seen_at": "2026-03-18T00:55:09.580Z",
+    "raw": "Br. Vlaka 63305 promjena sas 18.03.26. 01:53, kolodvor LIČKO LEŠĆE"
   }
 ]
