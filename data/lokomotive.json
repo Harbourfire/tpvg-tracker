@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620387",
-    "type": "Promjena sastava",
-    "station": "KNIN",
-    "train_number": "81266",
-    "event_time": "2026-03-15T17:51:00",
-    "seen_at": "2026-03-15T17:41:04.190Z",
-    "raw": "Br. Vlaka 81266 promjena sas 15.03.26. 17:51, kolodvor KNIN"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "ZAGREB RK",
@@ -9547,5 +9538,14 @@
     "event_time": "2026-03-18T18:24:00",
     "seen_at": "2026-03-18T17:26:12.191Z",
     "raw": "Br. Vlaka 44995 odlazak      18.03.26. 18:24, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44995",
+    "event_time": "2026-03-18T18:33:00",
+    "seen_at": "2026-03-18T17:33:42.565Z",
+    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 18:33, kolodvor ZLATAR-BISTRICA"
   }
 ]
