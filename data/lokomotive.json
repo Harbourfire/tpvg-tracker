@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:22:00",
-    "seen_at": "2026-03-15T09:23:31.566Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:22, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:22:00",
-    "seen_at": "2026-03-15T09:23:31.566Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:22, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89540",
-    "event_time": "2026-03-15T10:21:00",
-    "seen_at": "2026-03-15T09:24:58.038Z",
-    "raw": "Br. Vlaka 89540 odlazak      15.03.26. 10:21, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -9124,5 +9097,59 @@
     "event_time": "2026-03-18T10:16:00",
     "seen_at": "2026-03-18T09:16:26.696Z",
     "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:16, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89758",
+    "event_time": "2026-03-18T10:15:00",
+    "seen_at": "2026-03-18T09:27:21.939Z",
+    "raw": "Br. Vlaka 89758 dolazak      18.03.26. 10:15, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-03-18T10:15:00",
+    "seen_at": "2026-03-18T09:28:28.322Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81971",
+    "event_time": "2026-03-18T10:01:00",
+    "seen_at": "2026-03-18T09:29:57.072Z",
+    "raw": "Br. Vlaka 81971 formiran     18.03.26. 10:01, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81971",
+    "event_time": "2026-03-18T10:01:00",
+    "seen_at": "2026-03-18T09:30:19.107Z",
+    "raw": "Br. Vlaka 81971 formiran     18.03.26. 10:01, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:31:00",
+    "seen_at": "2026-03-18T09:31:25.199Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:31, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48795",
+    "event_time": "2026-03-18T10:31:00",
+    "seen_at": "2026-03-18T09:31:25.200Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:31, kolodvor SESVETE"
   }
 ]
