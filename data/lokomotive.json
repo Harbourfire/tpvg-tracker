@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "86110",
-    "event_time": "2026-03-15T08:57:00",
-    "seen_at": "2026-03-15T08:01:04.234Z",
-    "raw": "Br. Vlaka 86110 odlazak      15.03.26. 08:57, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89870",
-    "event_time": "2026-03-15T09:06:00",
-    "seen_at": "2026-03-15T08:07:53.348Z",
-    "raw": "Br. Vlaka 89870 odlazak      15.03.26. 09:06, kolodvor 73164"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -9178,5 +9160,32 @@
     "event_time": "2026-03-18T08:57:00",
     "seen_at": "2026-03-18T07:57:36.015Z",
     "raw": "Br. Vlaka 89540 odlazak      18.03.26. 08:57, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-03-18T09:01:00",
+    "seen_at": "2026-03-18T08:04:25.587Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71202",
+    "event_time": "2026-03-18T09:02:00",
+    "seen_at": "2026-03-18T08:05:53.101Z",
+    "raw": "Br. Vlaka 71202 dolazak      18.03.26. 09:02, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": null,
+    "event_time": "2026-03-18T09:02:00",
+    "seen_at": "2026-03-18T08:06:14.967Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71103 STARI MIKANOVCI"
   }
 ]
