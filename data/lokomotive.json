@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-15T04:05:00",
-    "seen_at": "2026-03-15T03:06:08.212Z",
-    "raw": "Br. Vlaka 63306 odlazak      15.03.26. 04:05, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-15T04:05:00",
-    "seen_at": "2026-03-15T03:06:08.212Z",
-    "raw": "Br. Vlaka 63306 odlazak      15.03.26. 04:05, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -9079,5 +9061,41 @@
     "event_time": "2026-03-18T03:58:00",
     "seen_at": "2026-03-18T02:59:19.670Z",
     "raw": "Br. Vlaka 47939 odlazak      18.03.26. 03:58, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47939",
+    "event_time": "2026-03-18T04:03:00",
+    "seen_at": "2026-03-18T03:04:19.454Z",
+    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 04:03, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47939",
+    "event_time": "2026-03-18T04:07:00",
+    "seen_at": "2026-03-18T03:07:15.328Z",
+    "raw": "Br. Vlaka 47939 dolazak      18.03.26. 04:07, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-18T04:08:00",
+    "seen_at": "2026-03-18T03:09:48.561Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:08, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-18T04:08:00",
+    "seen_at": "2026-03-18T03:09:48.561Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:08, kolodvor PERUŠIĆ"
   }
 ]
