@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47944",
-    "event_time": "2026-03-15T11:57:00",
-    "seen_at": "2026-03-15T10:58:32.562Z",
-    "raw": "Br. Vlaka 47944 odlazak      15.03.26. 11:57, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -9106,5 +9097,23 @@
     "event_time": "2026-03-18T11:46:00",
     "seen_at": "2026-03-18T10:52:24.555Z",
     "raw": "Br. Vlaka 48795 odlazak      18.03.26. 11:46, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48795",
+    "event_time": "2026-03-18T11:52:00",
+    "seen_at": "2026-03-18T10:58:05.970Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 11:52, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-03-18T11:20:00",
+    "seen_at": "2026-03-18T10:58:49.761Z",
+    "raw": "Br. Vlaka 49827 promjena sas 18.03.26. 11:20, kolodvor ERDUT"
   }
 ]
