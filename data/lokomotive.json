@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47938",
-    "event_time": "2026-03-15T06:00:00",
-    "seen_at": "2026-03-15T05:02:23.822Z",
-    "raw": "Br. Vlaka 47938 odlazak      15.03.26. 06:00, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "82535",
-    "event_time": "2026-03-15T06:04:00",
-    "seen_at": "2026-03-15T05:06:59.737Z",
-    "raw": "Br. Vlaka 82535 odlazak      15.03.26. 06:04, kolodvor DUGO SELO"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "92515",
@@ -9160,5 +9142,23 @@
     "event_time": "2026-03-18T05:58:00",
     "seen_at": "2026-03-18T04:59:36.551Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "48795",
+    "event_time": "2026-03-18T06:02:00",
+    "seen_at": "2026-03-18T05:02:47.816Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 06:02, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "48795",
+    "event_time": "2026-03-18T06:02:00",
+    "seen_at": "2026-03-18T05:02:47.817Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 06:02, kolodvor LEPAVINA"
   }
 ]
