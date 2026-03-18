@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "47938",
-    "event_time": "2026-03-15T05:44:00",
-    "seen_at": "2026-03-15T04:44:32.615Z",
-    "raw": "Br. Vlaka 47938 dolazak      15.03.26. 05:44, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230100",
     "type": "Odlazak",
     "station": "SESVETE",
     "train_number": "47938",
@@ -9079,5 +9070,41 @@
     "event_time": "2026-03-18T05:34:00",
     "seen_at": "2026-03-18T04:37:43.284Z",
     "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:34, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48795",
+    "event_time": "2026-03-18T05:43:00",
+    "seen_at": "2026-03-18T04:43:48.608Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 05:43, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48795",
+    "event_time": "2026-03-18T05:43:00",
+    "seen_at": "2026-03-18T04:43:48.609Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 05:43, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-18T05:50:00",
+    "seen_at": "2026-03-18T04:51:27.279Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:50, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-18T05:50:00",
+    "seen_at": "2026-03-18T04:51:27.279Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 05:50, kolodvor JOSIPDOL"
   }
 ]
