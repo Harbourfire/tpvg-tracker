@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:03:00",
-    "seen_at": "2026-03-15T09:06:20.302Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82505",
-    "event_time": "2026-03-15T10:03:00",
-    "seen_at": "2026-03-15T09:06:20.302Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.03.26. 10:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "82505",
     "event_time": "2026-03-15T10:14:00",
@@ -9133,5 +9115,14 @@
     "event_time": "2026-03-18T10:03:00",
     "seen_at": "2026-03-18T09:03:37.414Z",
     "raw": "Br. Vlaka 89758 odlazak      18.03.26. 10:03, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-03-18T10:10:00",
+    "seen_at": "2026-03-18T09:11:29.038Z",
+    "raw": "Br. Vlaka 71203 formiran     18.03.26. 10:10, kolodvor STARI MIKANOVCI"
   }
 ]
