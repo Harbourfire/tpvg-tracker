@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "PAĐENE",
-    "train_number": "89167",
-    "event_time": "2026-03-15T21:30:00",
-    "seen_at": "2026-03-15T20:32:05.733Z",
-    "raw": "Br. Vlaka 89167 odlazak      15.03.26. 21:30, kolodvor PAĐENE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-15T21:34:00",
-    "seen_at": "2026-03-15T20:34:39.681Z",
-    "raw": "Br. Vlaka 69006 odlazak      15.03.26. 21:34, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-15T21:34:00",
-    "seen_at": "2026-03-15T20:34:39.681Z",
-    "raw": "Br. Vlaka 69006 odlazak      15.03.26. 21:34, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-15T21:39:00",
-    "seen_at": "2026-03-15T20:39:40.012Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-15T21:39:00",
-    "seen_at": "2026-03-15T20:39:40.012Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OGULIN",
@@ -9556,5 +9511,32 @@
     "event_time": "2026-03-18T21:23:00",
     "seen_at": "2026-03-18T20:25:30.890Z",
     "raw": "Br. Vlaka 44693 odlazak      18.03.26. 21:23, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "44693",
+    "event_time": "2026-03-18T21:36:00",
+    "seen_at": "2026-03-18T20:36:20.091Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 21:36, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "44693",
+    "event_time": "2026-03-18T21:36:00",
+    "seen_at": "2026-03-18T20:36:20.092Z",
+    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 21:36, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-18T21:37:00",
+    "seen_at": "2026-03-18T20:37:25.506Z",
+    "raw": "Br. Vlaka 45131 odlazak      18.03.26. 21:37, kolodvor OSIJEK"
   }
 ]
