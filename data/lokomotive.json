@@ -9007,5 +9007,32 @@
     "event_time": "2026-03-18T04:53:00",
     "seen_at": "2026-03-18T03:54:16.393Z",
     "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:53, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48795",
+    "event_time": "2026-03-18T04:53:00",
+    "seen_at": "2026-03-18T04:03:15.610Z",
+    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 04:53, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48795",
+    "event_time": "2026-03-18T05:02:00",
+    "seen_at": "2026-03-18T04:03:37.375Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 05:02, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-03-17T19:00:00",
+    "seen_at": "2026-03-18T04:06:31.610Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
   }
 ]
