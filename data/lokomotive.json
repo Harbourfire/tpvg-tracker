@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81276",
-    "event_time": "2026-03-15T20:39:00",
-    "seen_at": "2026-03-15T19:39:42.609Z",
-    "raw": "Br. Vlaka 81276 dolazak      15.03.26. 20:39, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81276",
-    "event_time": "2026-03-15T20:39:00",
-    "seen_at": "2026-03-15T19:39:42.610Z",
-    "raw": "Br. Vlaka 81276 dolazak      15.03.26. 20:39, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -9619,5 +9601,14 @@
     "event_time": "2026-03-18T16:24:00",
     "seen_at": "2026-03-18T19:37:32.391Z",
     "raw": "Br. Vlaka 44693 promjena sas 18.03.26. 16:24, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-18T20:38:00",
+    "seen_at": "2026-03-18T19:38:51.790Z",
+    "raw": "Br. Vlaka 45131 formiran     18.03.26. 20:38, kolodvor OSIJEK"
   }
 ]
