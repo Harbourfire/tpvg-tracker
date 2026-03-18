@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81221",
-    "event_time": "2026-03-15T01:23:00",
-    "seen_at": "2026-03-15T00:23:40.399Z",
-    "raw": "Br. Vlaka 81221 dolazak      15.03.26. 01:23, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-15T01:24:00",
-    "seen_at": "2026-03-15T00:25:08.025Z",
-    "raw": "Br. Vlaka 63305 odlazak      15.03.26. 01:24, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-15T01:24:00",
-    "seen_at": "2026-03-15T00:25:08.025Z",
-    "raw": "Br. Vlaka 63305 odlazak      15.03.26. 01:24, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "81128",
-    "event_time": "2026-03-15T01:23:00",
-    "seen_at": "2026-03-15T00:27:19.775Z",
-    "raw": "Br. Vlaka 81128 odlazak      15.03.26. 01:23, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "47938",
-    "event_time": "2026-03-15T01:26:00",
-    "seen_at": "2026-03-15T00:31:31.631Z",
-    "raw": "Br. Vlaka 47938 odlazak      15.03.26. 01:26, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47938",
-    "event_time": "2026-03-15T01:30:00",
-    "seen_at": "2026-03-15T00:31:53.233Z",
-    "raw": "Br. Vlaka 47938 odlazak      15.03.26. 01:30, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "928012230050",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -9160,5 +9106,23 @@
     "event_time": "2026-03-18T01:13:00",
     "seen_at": "2026-03-18T00:14:57.344Z",
     "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:13, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47990",
+    "event_time": "2026-03-18T01:28:00",
+    "seen_at": "2026-03-18T00:28:14.766Z",
+    "raw": "Br. Vlaka 47990 odlazak      18.03.26. 01:28, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47944",
+    "event_time": "2026-03-18T01:28:00",
+    "seen_at": "2026-03-18T00:29:42.949Z",
+    "raw": "Br. Vlaka 47944 odlazak      18.03.26. 01:28, kolodvor 73164"
   }
 ]
