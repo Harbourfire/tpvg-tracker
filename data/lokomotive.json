@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "82286",
-    "event_time": "2026-03-15T15:23:00",
-    "seen_at": "2026-03-15T14:24:49.511Z",
-    "raw": "Br. Vlaka 82286 dolazak      15.03.26. 15:23, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "82286",
-    "event_time": "2026-03-15T15:23:00",
-    "seen_at": "2026-03-15T14:24:49.511Z",
-    "raw": "Br. Vlaka 82286 dolazak      15.03.26. 15:23, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-15T15:23:00",
-    "seen_at": "2026-03-15T14:25:33.392Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-15T15:23:00",
-    "seen_at": "2026-03-15T14:25:33.392Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NOVO DRNJE",
@@ -9241,5 +9205,14 @@
     "event_time": "2026-03-18T15:16:00",
     "seen_at": "2026-03-18T14:16:38.118Z",
     "raw": "Br. Vlaka 81230 odlazak      18.03.26. 15:16, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "49827",
+    "event_time": "2026-03-18T15:20:00",
+    "seen_at": "2026-03-18T14:23:22.540Z",
+    "raw": "Br. Vlaka 49827 dolazak      18.03.26. 15:20, kolodvor VINKOVCI"
   }
 ]
