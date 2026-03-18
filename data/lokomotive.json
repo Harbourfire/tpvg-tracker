@@ -2,24 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "92515",
-    "train_number": "82535",
-    "event_time": "2026-03-15T06:16:00",
-    "seen_at": "2026-03-15T05:16:24.384Z",
-    "raw": "Br. Vlaka 82535 odlazak      15.03.26. 06:16, kolodvor 92515"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "47938",
-    "event_time": "2026-03-15T06:17:00",
-    "seen_at": "2026-03-15T05:17:51.624Z",
-    "raw": "Br. Vlaka 47938 odlazak      15.03.26. 06:17, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "IVANIĆ GRAD",
     "train_number": "82535",
     "event_time": "2026-03-15T06:42:00",
@@ -9160,5 +9142,32 @@
     "event_time": "2026-03-18T06:02:00",
     "seen_at": "2026-03-18T05:02:47.817Z",
     "raw": "Br. Vlaka 48795 dolazak      18.03.26. 06:02, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69852",
+    "event_time": "2026-03-18T05:11:00",
+    "seen_at": "2026-03-18T05:14:50.594Z",
+    "raw": "Br. Vlaka 69852 formiran     18.03.26. 05:11, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89540",
+    "event_time": "2026-03-18T05:12:00",
+    "seen_at": "2026-03-18T05:15:12.765Z",
+    "raw": "Br. Vlaka 89540 formiran     18.03.26. 05:12, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "89920",
+    "event_time": "2026-03-18T04:49:00",
+    "seen_at": "2026-03-18T05:16:41.487Z",
+    "raw": "Br. Vlaka 89920 formiran     18.03.26. 04:49, kolodvor ČAKOVEC"
   }
 ]
