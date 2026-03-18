@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "ZAGREB RK (PS)",
-    "train_number": null,
-    "event_time": "2026-03-15T18:04:00",
-    "seen_at": "2026-03-15T17:07:17.770Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "ZAGREB RK",
-    "train_number": "81276",
-    "event_time": "2026-03-15T18:06:00",
-    "seen_at": "2026-03-15T17:08:01.263Z",
-    "raw": "Br. Vlaka 81276 formiran     15.03.26. 18:06, kolodvor 72303"
-  },
-  {
     "uic": "927820620387",
     "type": "Promjena sastava",
     "station": "KNIN",
@@ -9493,5 +9475,14 @@
     "event_time": "2026-03-18T17:59:00",
     "seen_at": "2026-03-18T17:02:55.720Z",
     "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44995",
+    "event_time": "2026-03-18T18:05:00",
+    "seen_at": "2026-03-18T17:07:41.554Z",
+    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 18:05, kolodvor BUDINŠĆINA"
   }
 ]
