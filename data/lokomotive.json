@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47944",
-    "event_time": "2026-03-15T12:28:00",
-    "seen_at": "2026-03-15T11:28:37.220Z",
-    "raw": "Br. Vlaka 47944 odlazak      15.03.26. 12:28, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAGREB ZAP. KOL.",
     "train_number": "47944",
@@ -9142,5 +9133,23 @@
     "event_time": "2026-03-18T12:13:00",
     "seen_at": "2026-03-18T11:14:19.118Z",
     "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:13, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81971",
+    "event_time": "2026-03-18T12:20:00",
+    "seen_at": "2026-03-18T11:22:08.722Z",
+    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:20, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81971",
+    "event_time": "2026-03-18T12:20:00",
+    "seen_at": "2026-03-18T11:22:08.722Z",
+    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:20, kolodvor LIČKA JESENICA"
   }
 ]
