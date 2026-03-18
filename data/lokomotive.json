@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "47944",
-    "event_time": "2026-03-14T22:00:00",
-    "seen_at": "2026-03-15T10:07:55.804Z",
-    "raw": "Br. Vlaka 47944 formiran     14.03.26. 22:00, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89540",
-    "event_time": "2026-03-15T11:07:00",
-    "seen_at": "2026-03-15T10:07:55.804Z",
-    "raw": "Br. Vlaka 89540 odlazak      15.03.26. 11:07, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T11:02:00",
-    "seen_at": "2026-03-15T10:08:17.385Z",
-    "raw": "Br. Vlaka 82505 promjena sas 15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82505",
-    "event_time": "2026-03-15T11:02:00",
-    "seen_at": "2026-03-15T10:08:17.385Z",
-    "raw": "Br. Vlaka 82505 promjena sas 15.03.26. 11:02, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RK",
-    "train_number": "47945",
-    "event_time": "2026-03-15T11:10:00",
-    "seen_at": "2026-03-15T10:10:49.104Z",
-    "raw": "Br. Vlaka 47945 odlazak      15.03.26. 11:10, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RK (PS)",
-    "train_number": "47945",
-    "event_time": "2026-03-15T11:15:00",
-    "seen_at": "2026-03-15T10:15:43.243Z",
-    "raw": "Br. Vlaka 47945 odlazak      15.03.26. 11:15, kolodvor 72304"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -9124,5 +9070,23 @@
     "event_time": "2026-03-18T11:06:00",
     "seen_at": "2026-03-18T10:06:35.936Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-03-18T11:05:00",
+    "seen_at": "2026-03-18T10:11:12.773Z",
+    "raw": "Br. Vlaka 71203 odlazak      18.03.26. 11:05, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "48795",
+    "event_time": "2026-03-18T11:10:00",
+    "seen_at": "2026-03-18T10:11:34.729Z",
+    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 11:10, kolodvor ZAGREB KLARA"
   }
 ]
