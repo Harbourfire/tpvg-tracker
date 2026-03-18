@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47945",
-    "event_time": "2026-03-15T21:10:00",
-    "seen_at": "2026-03-15T20:16:10.559Z",
-    "raw": "Br. Vlaka 47945 dolazak      15.03.26. 21:10, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Dolazak",
-    "station": "PAĐENE",
-    "train_number": "81266",
-    "event_time": "2026-03-15T20:40:00",
-    "seen_at": "2026-03-15T20:17:15.778Z",
-    "raw": "Br. Vlaka 81266 dolazak      15.03.26. 20:40, kolodvor PAĐENE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-15T15:27:00",
-    "seen_at": "2026-03-15T20:20:00.995Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "KARLOVAC",
@@ -9592,5 +9565,14 @@
     "event_time": "2026-03-18T20:58:00",
     "seen_at": "2026-03-18T20:01:52.367Z",
     "raw": "Br. Vlaka 44693 dolazak      18.03.26. 20:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-18T14:04:00",
+    "seen_at": "2026-03-18T20:19:00.621Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
