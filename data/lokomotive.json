@@ -9565,5 +9565,77 @@
     "event_time": "2026-03-18T19:14:00",
     "seen_at": "2026-03-18T18:15:19.651Z",
     "raw": "Br. Vlaka 44995 odlazak      18.03.26. 19:14, kolodvor LUKA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-18T19:17:00",
+    "seen_at": "2026-03-18T18:18:09.101Z",
+    "raw": "Br. Vlaka 69005 odlazak      18.03.26. 19:17, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-18T19:17:00",
+    "seen_at": "2026-03-18T18:18:09.101Z",
+    "raw": "Br. Vlaka 69005 odlazak      18.03.26. 19:17, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44995",
+    "event_time": "2026-03-18T19:20:00",
+    "seen_at": "2026-03-18T18:20:44.134Z",
+    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 19:20, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "69005",
+    "event_time": "2026-03-18T19:22:00",
+    "seen_at": "2026-03-18T18:24:24.912Z",
+    "raw": "Br. Vlaka 69005 dolazak      18.03.26. 19:22, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "69005",
+    "event_time": "2026-03-18T19:22:00",
+    "seen_at": "2026-03-18T18:24:24.912Z",
+    "raw": "Br. Vlaka 69005 dolazak      18.03.26. 19:22, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-18T19:22:00",
+    "seen_at": "2026-03-18T18:24:46.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-18T19:22:00",
+    "seen_at": "2026-03-18T18:24:46.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44995",
+    "event_time": "2026-03-18T19:24:00",
+    "seen_at": "2026-03-18T18:25:08.676Z",
+    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 19:24, kolodvor ZAPREŠIĆ"
   }
 ]
