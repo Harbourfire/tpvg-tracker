@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-16T05:46:00",
-    "seen_at": "2026-03-16T04:57:49.759Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-16T05:46:00",
-    "seen_at": "2026-03-16T04:57:49.759Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -9781,5 +9763,68 @@
     "event_time": "2026-03-19T05:47:00",
     "seen_at": "2026-03-19T04:48:50.718Z",
     "raw": "Br. Vlaka 81232 odlazak      19.03.26. 05:47, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81232",
+    "event_time": "2026-03-19T05:55:00",
+    "seen_at": "2026-03-19T04:58:30.035Z",
+    "raw": "Br. Vlaka 81232 dolazak      19.03.26. 05:55, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81232",
+    "event_time": "2026-03-19T05:55:00",
+    "seen_at": "2026-03-19T04:58:30.035Z",
+    "raw": "Br. Vlaka 81232 dolazak      19.03.26. 05:55, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-19T05:55:00",
+    "seen_at": "2026-03-19T04:58:51.788Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-19T05:55:00",
+    "seen_at": "2026-03-19T04:58:51.788Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "45990",
+    "event_time": "2026-03-19T05:50:00",
+    "seen_at": "2026-03-19T04:59:56.975Z",
+    "raw": "Br. Vlaka 45990 dolazak      19.03.26. 05:50, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-19T05:50:00",
+    "seen_at": "2026-03-19T05:00:18.833Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89290",
+    "event_time": "2026-03-19T00:14:00",
+    "seen_at": "2026-03-19T05:01:02.072Z",
+    "raw": "Br. Vlaka 89290 formiran     19.03.26. 00:14, kolodvor KOPRIVNICA GR    A"
   }
 ]
