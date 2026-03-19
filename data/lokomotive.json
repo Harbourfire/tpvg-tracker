@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "48799",
-    "event_time": "2026-03-16T18:16:00",
-    "seen_at": "2026-03-16T17:16:17.204Z",
-    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 18:16, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "48799",
-    "event_time": "2026-03-16T18:16:00",
-    "seen_at": "2026-03-16T17:16:17.205Z",
-    "raw": "Br. Vlaka 48799 odlazak      16.03.26. 18:16, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "KRIŽEVCI",
     "train_number": "48799",
     "event_time": "2026-03-16T18:31:00",
@@ -10942,5 +10924,32 @@
     "event_time": "2026-03-19T18:10:00",
     "seen_at": "2026-03-19T17:11:14.246Z",
     "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:10, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89758",
+    "event_time": "2026-03-19T18:19:00",
+    "seen_at": "2026-03-19T17:21:38.541Z",
+    "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:19, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "48597",
+    "event_time": "2026-03-19T18:16:00",
+    "seen_at": "2026-03-19T17:22:45.582Z",
+    "raw": "Br. Vlaka 48597 dolazak      19.03.26. 18:16, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "48597",
+    "event_time": "2026-03-19T18:20:00",
+    "seen_at": "2026-03-19T17:23:08.099Z",
+    "raw": "Br. Vlaka 48597 odlazak      19.03.26. 18:20, kolodvor BUZET"
   }
 ]
