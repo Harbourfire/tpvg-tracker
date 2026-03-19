@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:05:00",
-    "seen_at": "2026-03-16T11:10:39.092Z",
-    "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:05, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:05:00",
-    "seen_at": "2026-03-16T11:10:39.092Z",
-    "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:05, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:05:00",
-    "seen_at": "2026-03-16T11:11:00.606Z",
-    "raw": "Br. Vlaka 82141 promjena sas 16.03.26. 12:05, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:05:00",
-    "seen_at": "2026-03-16T11:11:00.606Z",
-    "raw": "Br. Vlaka 82141 promjena sas 16.03.26. 12:05, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "82141",
@@ -10438,5 +10402,41 @@
     "event_time": "2026-03-19T12:06:00",
     "seen_at": "2026-03-19T11:06:28.078Z",
     "raw": "Br. Vlaka 45104 odlazak      19.03.26. 12:06, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89290",
+    "event_time": "2026-03-19T12:09:00",
+    "seen_at": "2026-03-19T11:12:10.831Z",
+    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 12:09, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "69901",
+    "event_time": "2026-03-19T12:10:00",
+    "seen_at": "2026-03-19T11:14:43.891Z",
+    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 12:10, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "ROČ",
+    "train_number": "45597",
+    "event_time": "2026-03-19T12:12:00",
+    "seen_at": "2026-03-19T11:18:01.456Z",
+    "raw": "Br. Vlaka 45597 dolazak      19.03.26. 12:12, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45597",
+    "event_time": "2026-03-19T12:12:00",
+    "seen_at": "2026-03-19T11:18:23.186Z",
+    "raw": "Br. Vlaka 45597 odlazak      19.03.26. 12:12, kolodvor ROČ"
   }
 ]
