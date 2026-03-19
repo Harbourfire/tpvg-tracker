@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82132",
-    "event_time": "2026-03-16T02:38:00",
-    "seen_at": "2026-03-16T01:38:55.614Z",
-    "raw": "Br. Vlaka 82132 formiran     16.03.26. 02:38, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82132",
-    "event_time": "2026-03-16T02:38:00",
-    "seen_at": "2026-03-16T01:38:55.614Z",
-    "raw": "Br. Vlaka 82132 formiran     16.03.26. 02:38, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "GOSPIĆ",
     "train_number": "82132",
@@ -9556,5 +9538,50 @@
     "event_time": "2026-03-19T02:32:00",
     "seen_at": "2026-03-19T01:32:54.808Z",
     "raw": "Br. Vlaka 89177 odlazak      19.03.26. 02:32, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "44693",
+    "event_time": "2026-03-19T02:30:00",
+    "seen_at": "2026-03-19T01:38:13.991Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:30, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "PČELIĆ",
+    "train_number": "44693",
+    "event_time": "2026-03-19T02:34:00",
+    "seen_at": "2026-03-19T01:42:12.992Z",
+    "raw": "Br. Vlaka 44693 dolazak      19.03.26. 02:34, kolodvor PČELIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "44693",
+    "event_time": "2026-03-19T02:30:00",
+    "seen_at": "2026-03-19T01:42:34.729Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:30, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PČELIĆ",
+    "train_number": "44693",
+    "event_time": "2026-03-19T02:34:00",
+    "seen_at": "2026-03-19T01:42:56.306Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:34, kolodvor PČELIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "44693",
+    "event_time": "2026-03-19T02:30:00",
+    "seen_at": "2026-03-19T01:45:06.557Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:30, kolodvor SUHOPOLJE"
   }
 ]
