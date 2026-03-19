@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-16T11:25:00",
-    "seen_at": "2026-03-16T10:26:05.568Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "BRČKO - BiH (IZVAN HŽ)",
-    "train_number": "45104",
-    "event_time": "2026-03-16T11:26:00",
-    "seen_at": "2026-03-16T10:26:27.540Z",
-    "raw": "Br. Vlaka 45104 formiran     16.03.26. 11:26, kolodvor 71308"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BRČKO - BiH (IZVAN HŽ)",
-    "train_number": "45104",
-    "event_time": "2026-03-16T11:08:00",
-    "seen_at": "2026-03-16T10:27:33.052Z",
-    "raw": "Br. Vlaka 45104 odlazak      16.03.26. 11:08, kolodvor 71308"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-16T11:17:00",
-    "seen_at": "2026-03-16T10:27:54.991Z",
-    "raw": "Br. Vlaka 45104 dolazak      16.03.26. 11:17, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-16T11:30:00",
-    "seen_at": "2026-03-16T10:32:11.526Z",
-    "raw": "Br. Vlaka 45104 odlazak      16.03.26. 11:30, kolodvor DRENOVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -10312,5 +10267,41 @@
     "event_time": "2026-03-19T11:21:00",
     "seen_at": "2026-03-19T10:23:31.296Z",
     "raw": "Br. Vlaka 69901 dolazak      19.03.26. 11:21, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82533",
+    "event_time": "2026-03-19T11:24:00",
+    "seen_at": "2026-03-19T10:25:51.737Z",
+    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:24, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82533",
+    "event_time": "2026-03-19T11:24:00",
+    "seen_at": "2026-03-19T10:25:51.738Z",
+    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:24, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89290",
+    "event_time": "2026-03-19T11:29:00",
+    "seen_at": "2026-03-19T10:30:12.606Z",
+    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:29, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89290",
+    "event_time": "2026-03-19T11:33:00",
+    "seen_at": "2026-03-19T10:34:12.998Z",
+    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:33, kolodvor 72302"
   }
 ]
