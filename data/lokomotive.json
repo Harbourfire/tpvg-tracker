@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82141",
-    "event_time": "2026-03-16T09:39:00",
-    "seen_at": "2026-03-16T08:46:38.955Z",
-    "raw": "Br. Vlaka 82141 formiran     16.03.26. 09:39, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -10069,5 +10060,23 @@
     "event_time": "2026-03-19T09:28:00",
     "seen_at": "2026-03-19T08:29:02.211Z",
     "raw": "Br. Vlaka 69901 formiran     19.03.26. 09:28, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "82326",
+    "event_time": "2026-03-19T09:24:00",
+    "seen_at": "2026-03-19T08:38:34.513Z",
+    "raw": "Br. Vlaka 82326 dolazak      19.03.26. 09:24, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-03-19T09:24:00",
+    "seen_at": "2026-03-19T08:39:40.507Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
   }
 ]
