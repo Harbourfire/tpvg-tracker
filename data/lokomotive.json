@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "BRČKO - BiH (IZVAN HŽ)",
-    "train_number": "45105",
-    "event_time": "2026-03-16T08:39:00",
-    "seen_at": "2026-03-16T07:39:15.257Z",
-    "raw": "Br. Vlaka 45105 dolazak      16.03.26. 08:39, kolodvor 71308"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "BRČKO - BiH (IZVAN HŽ)",
-    "train_number": null,
-    "event_time": "2026-03-16T08:39:00",
-    "seen_at": "2026-03-16T07:40:21.240Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
     "uic": "987891162040",
     "type": "Dolazak",
     "station": "IVANKOVO",
@@ -9979,5 +9961,50 @@
     "event_time": "2026-03-19T08:26:00",
     "seen_at": "2026-03-19T07:27:27.461Z",
     "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-19T08:34:00",
+    "seen_at": "2026-03-19T07:35:50.138Z",
+    "raw": "Br. Vlaka 69175 formiran     19.03.26. 08:34, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-19T08:34:00",
+    "seen_at": "2026-03-19T07:36:12.406Z",
+    "raw": "Br. Vlaka 69175 formiran     19.03.26. 08:34, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-19T08:20:00",
+    "seen_at": "2026-03-19T07:37:17.451Z",
+    "raw": "Br. Vlaka 45105 dolazak      19.03.26. 08:20, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-19T08:35:00",
+    "seen_at": "2026-03-19T07:37:39.080Z",
+    "raw": "Br. Vlaka 45105 odlazak      19.03.26. 08:35, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-03-19T08:44:00",
+    "seen_at": "2026-03-19T07:44:09.850Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
   }
 ]
