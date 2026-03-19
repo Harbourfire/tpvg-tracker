@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "82322",
-    "event_time": "2026-03-16T21:29:00",
-    "seen_at": "2026-03-16T20:29:36.133Z",
-    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:29, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820620171",
     "type": "Dolazak",
     "station": "GARČIN",
     "train_number": "82322",
@@ -11023,5 +11014,14 @@
     "event_time": "2026-03-19T21:22:00",
     "seen_at": "2026-03-19T20:23:02.867Z",
     "raw": "Br. Vlaka 82506 formiran     19.03.26. 21:22, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "45996",
+    "event_time": "2026-03-19T21:32:00",
+    "seen_at": "2026-03-19T20:34:30.315Z",
+    "raw": "Br. Vlaka 45996 dolazak      19.03.26. 21:32, kolodvor 72302"
   }
 ]
