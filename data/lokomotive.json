@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81230",
-    "event_time": "2026-03-16T17:03:00",
-    "seen_at": "2026-03-16T16:06:58.821Z",
-    "raw": "Br. Vlaka 81230 odlazak      16.03.26. 17:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81230",
-    "event_time": "2026-03-16T17:03:00",
-    "seen_at": "2026-03-16T16:06:58.821Z",
-    "raw": "Br. Vlaka 81230 odlazak      16.03.26. 17:03, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -10987,5 +10969,14 @@
     "event_time": "2026-03-19T16:56:00",
     "seen_at": "2026-03-19T15:56:35.305Z",
     "raw": "Br. Vlaka 44798 odlazak      19.03.26. 16:56, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44798",
+    "event_time": "2026-03-19T17:02:00",
+    "seen_at": "2026-03-19T16:07:48.815Z",
+    "raw": "Br. Vlaka 44798 dolazak      19.03.26. 17:02, kolodvor ZAGREB ZAP. KOL."
   }
 ]
