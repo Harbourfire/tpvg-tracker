@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "66921",
-    "event_time": "2026-03-16T13:53:00",
-    "seen_at": "2026-03-16T12:53:52.115Z",
-    "raw": "Br. Vlaka 66921 odlazak      16.03.26. 13:53, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -10528,5 +10519,50 @@
     "event_time": "2026-03-19T13:47:00",
     "seen_at": "2026-03-19T12:47:35.490Z",
     "raw": "Br. Vlaka 69901 odlazak      19.03.26. 13:47, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Dolazak",
+    "station": "ZDENČINA",
+    "train_number": "69901",
+    "event_time": "2026-03-19T13:52:00",
+    "seen_at": "2026-03-19T12:52:36.221Z",
+    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 13:52, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82504",
+    "event_time": "2026-03-19T13:52:00",
+    "seen_at": "2026-03-19T12:53:42.300Z",
+    "raw": "Br. Vlaka 82504 dolazak      19.03.26. 13:52, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "69901",
+    "event_time": "2026-03-19T13:54:00",
+    "seen_at": "2026-03-19T12:54:26.666Z",
+    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 13:54, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-03-19T13:50:00",
+    "seen_at": "2026-03-19T12:54:48.646Z",
+    "raw": "Br. Vlaka 47944 odlazak      19.03.26. 13:50, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47944",
+    "event_time": "2026-03-19T13:54:00",
+    "seen_at": "2026-03-19T12:56:17.386Z",
+    "raw": "Br. Vlaka 47944 odlazak      19.03.26. 13:54, kolodvor SAVSKI MAROF"
   }
 ]
