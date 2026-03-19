@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-13T12:43:00",
-    "seen_at": "2026-03-16T11:48:28.609Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:49:00",
-    "seen_at": "2026-03-16T11:50:32.435Z",
-    "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:49, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:49:00",
-    "seen_at": "2026-03-16T11:50:32.435Z",
-    "raw": "Br. Vlaka 82141 dolazak      16.03.26. 12:49, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -10501,5 +10474,14 @@
     "event_time": "2026-03-19T12:43:00",
     "seen_at": "2026-03-19T11:46:02.303Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "69901",
+    "event_time": "2026-03-19T12:46:00",
+    "seen_at": "2026-03-19T11:46:37.405Z",
+    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 12:46, kolodvor KARLOVAC"
   }
 ]
