@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89173",
-    "event_time": "2026-03-16T15:00:00",
-    "seen_at": "2026-03-16T14:02:07.156Z",
-    "raw": "Br. Vlaka 89173 odlazak      16.03.26. 15:00, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "ŽUPANJA",
-    "train_number": null,
-    "event_time": "2026-03-16T14:46:00",
-    "seen_at": "2026-03-16T14:06:25.093Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "89173",
-    "event_time": "2026-03-16T15:07:00",
-    "seen_at": "2026-03-16T14:07:08.936Z",
-    "raw": "Br. Vlaka 89173 dolazak      16.03.26. 15:07, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-03-16T15:07:00",
-    "seen_at": "2026-03-16T14:07:30.976Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -10789,5 +10753,68 @@
     "event_time": "2026-03-19T14:59:00",
     "seen_at": "2026-03-19T14:00:36.748Z",
     "raw": "Br. Vlaka 69901 odlazak      19.03.26. 14:59, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89252",
+    "event_time": "2026-03-19T15:03:00",
+    "seen_at": "2026-03-19T14:05:18.621Z",
+    "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:03, kolodvor 72303"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "69901",
+    "event_time": "2026-03-19T15:05:00",
+    "seen_at": "2026-03-19T14:05:40.553Z",
+    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 15:05, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "89692",
+    "event_time": "2026-03-19T15:00:00",
+    "seen_at": "2026-03-19T14:07:53.100Z",
+    "raw": "Br. Vlaka 89692 dolazak      19.03.26. 15:00, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "89692",
+    "event_time": "2026-03-19T15:05:00",
+    "seen_at": "2026-03-19T14:08:15.328Z",
+    "raw": "Br. Vlaka 89692 odlazak      19.03.26. 15:05, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-03-19T15:07:00",
+    "seen_at": "2026-03-19T14:08:37.666Z",
+    "raw": "Br. Vlaka 69175 odlazak      19.03.26. 15:07, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-03-19T15:07:00",
+    "seen_at": "2026-03-19T14:08:37.667Z",
+    "raw": "Br. Vlaka 69175 odlazak      19.03.26. 15:07, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89252",
+    "event_time": "2026-03-19T15:08:00",
+    "seen_at": "2026-03-19T14:09:21.491Z",
+    "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:08, kolodvor 72304"
   }
 ]
