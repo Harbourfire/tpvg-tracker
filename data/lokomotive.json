@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-03-16T18:48:00",
-    "seen_at": "2026-03-16T17:48:22.206Z",
-    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 18:48, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-03-16T18:48:00",
-    "seen_at": "2026-03-16T17:48:22.207Z",
-    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 18:48, kolodvor VRBOVEC"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -10951,5 +10933,14 @@
     "event_time": "2026-03-19T18:42:00",
     "seen_at": "2026-03-19T17:42:20.948Z",
     "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:42, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89758",
+    "event_time": "2026-03-19T18:47:00",
+    "seen_at": "2026-03-19T17:48:31.659Z",
+    "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:47, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
