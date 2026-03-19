@@ -2,33 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:27:00",
-    "seen_at": "2026-03-16T11:28:14.546Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:27, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82141",
-    "event_time": "2026-03-16T12:27:00",
-    "seen_at": "2026-03-16T11:28:14.546Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 12:27, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-16T12:25:00",
-    "seen_at": "2026-03-16T11:35:25.848Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "82141",
     "event_time": "2026-03-16T12:38:00",
@@ -10474,5 +10447,41 @@
     "event_time": "2026-03-19T12:24:00",
     "seen_at": "2026-03-19T11:25:15.382Z",
     "raw": "Br. Vlaka 89290 odlazak      19.03.26. 12:24, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89290",
+    "event_time": "2026-03-19T12:30:00",
+    "seen_at": "2026-03-19T11:30:34.689Z",
+    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 12:30, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89290",
+    "event_time": "2026-03-19T12:34:00",
+    "seen_at": "2026-03-19T11:34:55.440Z",
+    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 12:34, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "69901",
+    "event_time": "2026-03-19T12:33:00",
+    "seen_at": "2026-03-19T11:35:17.460Z",
+    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 12:33, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-03-19T12:22:00",
+    "seen_at": "2026-03-19T11:36:00.937Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
   }
 ]
