@@ -9718,5 +9718,50 @@
     "event_time": "2026-03-19T05:03:00",
     "seen_at": "2026-03-19T04:05:02.941Z",
     "raw": "Br. Vlaka 89724 odlazak      19.03.26. 05:03, kolodvor PČELIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SUHOPOLJE",
+    "train_number": "89724",
+    "event_time": "2026-03-19T05:07:00",
+    "seen_at": "2026-03-19T04:10:20.439Z",
+    "raw": "Br. Vlaka 89724 dolazak      19.03.26. 05:07, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SUHOPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-19T05:07:00",
+    "seen_at": "2026-03-19T04:10:42.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73002 SUHOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81232",
+    "event_time": "2026-03-19T05:10:00",
+    "seen_at": "2026-03-19T04:10:42.360Z",
+    "raw": "Br. Vlaka 81232 odlazak      19.03.26. 05:10, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81232",
+    "event_time": "2026-03-19T05:10:00",
+    "seen_at": "2026-03-19T04:10:42.360Z",
+    "raw": "Br. Vlaka 81232 odlazak      19.03.26. 05:10, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "SUHOPOLJE",
+    "train_number": "48893",
+    "event_time": "2026-03-18T21:54:00",
+    "seen_at": "2026-03-19T04:14:44.525Z",
+    "raw": "Br. Vlaka 48893 formiran     18.03.26. 21:54, kolodvor SUHOPOLJE"
   }
 ]
