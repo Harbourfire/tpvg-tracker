@@ -1,15 +1,6 @@
 [
   {
     "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71203",
-    "event_time": "2026-03-16T11:15:00",
-    "seen_at": "2026-03-16T10:18:32.463Z",
-    "raw": "Br. Vlaka 71203 odlazak      16.03.26. 11:15, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987891162040",
     "type": "Rasformiran",
     "station": "VINKOVCI",
     "train_number": null,
@@ -10303,5 +10294,23 @@
     "event_time": "2026-03-19T11:16:00",
     "seen_at": "2026-03-19T10:16:25.225Z",
     "raw": "Br. Vlaka 82504 formiran     19.03.26. 11:16, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89290",
+    "event_time": "2026-03-19T11:23:00",
+    "seen_at": "2026-03-19T10:23:31.296Z",
+    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:23, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Dolazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "69901",
+    "event_time": "2026-03-19T11:21:00",
+    "seen_at": "2026-03-19T10:23:31.296Z",
+    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 11:21, kolodvor GORNJE DUBRAVE"
   }
 ]
