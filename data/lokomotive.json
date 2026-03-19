@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-16T01:26:00",
-    "seen_at": "2026-03-16T00:27:14.481Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:26, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-16T01:26:00",
-    "seen_at": "2026-03-16T00:27:14.481Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.03.26. 01:26, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "63305",
@@ -9538,5 +9520,32 @@
     "event_time": "2026-03-19T01:18:00",
     "seen_at": "2026-03-19T00:20:17.237Z",
     "raw": "Br. Vlaka 63306 odlazak      19.03.26. 01:18, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PITOMAČA",
+    "train_number": "44693",
+    "event_time": "2026-03-19T01:26:00",
+    "seen_at": "2026-03-19T00:27:04.605Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 01:26, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-19T01:32:00",
+    "seen_at": "2026-03-19T00:33:13.692Z",
+    "raw": "Br. Vlaka 63306 odlazak      19.03.26. 01:32, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-19T01:32:00",
+    "seen_at": "2026-03-19T00:33:13.692Z",
+    "raw": "Br. Vlaka 63306 odlazak      19.03.26. 01:32, kolodvor VRHOVINE"
   }
 ]
