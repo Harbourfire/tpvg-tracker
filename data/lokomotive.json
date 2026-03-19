@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "82141",
-    "event_time": "2026-03-16T11:32:00",
-    "seen_at": "2026-03-16T10:34:44.429Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 11:32, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "82141",
-    "event_time": "2026-03-16T11:32:00",
-    "seen_at": "2026-03-16T10:34:44.430Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 11:32, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -10303,5 +10285,32 @@
     "event_time": "2026-03-19T11:33:00",
     "seen_at": "2026-03-19T10:34:12.998Z",
     "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:33, kolodvor 72302"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "82504",
+    "event_time": "2026-03-19T11:35:00",
+    "seen_at": "2026-03-19T10:41:02.283Z",
+    "raw": "Br. Vlaka 82504 odlazak      19.03.26. 11:35, kolodvor VELIKA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82533",
+    "event_time": "2026-03-19T11:40:00",
+    "seen_at": "2026-03-19T10:41:47.101Z",
+    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:40, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82533",
+    "event_time": "2026-03-19T11:40:00",
+    "seen_at": "2026-03-19T10:41:47.101Z",
+    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:40, kolodvor PERUŠIĆ"
   }
 ]
