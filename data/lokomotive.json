@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82141",
-    "event_time": "2026-03-16T13:19:00",
-    "seen_at": "2026-03-16T12:20:50.449Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 13:19, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82141",
-    "event_time": "2026-03-16T13:19:00",
-    "seen_at": "2026-03-16T12:20:50.449Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 13:19, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "82141",
     "event_time": "2026-03-16T13:38:00",
@@ -10519,5 +10501,32 @@
     "event_time": "2026-03-19T13:10:00",
     "seen_at": "2026-03-19T12:11:34.650Z",
     "raw": "Br. Vlaka 69901 odlazak      19.03.26. 13:10, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-19T13:13:00",
+    "seen_at": "2026-03-19T12:13:58.947Z",
+    "raw": "Br. Vlaka 63310 formiran     19.03.26. 13:13, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-19T13:13:00",
+    "seen_at": "2026-03-19T12:13:58.947Z",
+    "raw": "Br. Vlaka 63310 formiran     19.03.26. 13:13, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82504",
+    "event_time": "2026-03-19T13:13:00",
+    "seen_at": "2026-03-19T12:14:20.805Z",
+    "raw": "Br. Vlaka 82504 odlazak      19.03.26. 13:13, kolodvor BLACKO JAKŠIĆ"
   }
 ]
