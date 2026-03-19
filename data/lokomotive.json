@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82141",
-    "event_time": "2026-03-16T13:38:00",
-    "seen_at": "2026-03-16T12:39:34.959Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 13:38, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82141",
-    "event_time": "2026-03-16T13:38:00",
-    "seen_at": "2026-03-16T12:39:34.959Z",
-    "raw": "Br. Vlaka 82141 odlazak      16.03.26. 13:38, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -10537,5 +10519,14 @@
     "event_time": "2026-03-19T13:23:00",
     "seen_at": "2026-03-19T12:25:03.842Z",
     "raw": "Br. Vlaka 82504 odlazak      19.03.26. 13:23, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "69901",
+    "event_time": "2026-03-19T13:31:00",
+    "seen_at": "2026-03-19T12:32:12.123Z",
+    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 13:31, kolodvor JASTREBARSKO"
   }
 ]
