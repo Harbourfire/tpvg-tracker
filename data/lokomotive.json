@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-03-17T00:08:00",
-    "seen_at": "2026-03-16T23:08:40.075Z",
-    "raw": "Br. Vlaka 69326 formiran     17.03.26. 00:08, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48799",
-    "event_time": "2026-03-17T00:08:00",
-    "seen_at": "2026-03-16T23:10:06.580Z",
-    "raw": "Br. Vlaka 48799 odlazak      17.03.26. 00:08, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48799",
-    "event_time": "2026-03-17T00:08:00",
-    "seen_at": "2026-03-16T23:10:06.581Z",
-    "raw": "Br. Vlaka 48799 odlazak      17.03.26. 00:08, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89893",
-    "event_time": "2026-03-17T00:12:00",
-    "seen_at": "2026-03-16T23:12:17.269Z",
-    "raw": "Br. Vlaka 89893 odlazak      17.03.26. 00:12, kolodvor 73164"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "SAVSKI MAROF",
@@ -10789,5 +10753,50 @@
     "event_time": "2026-03-20T00:04:00",
     "seen_at": "2026-03-19T23:06:16.859Z",
     "raw": "Br. Vlaka 45131 odlazak      20.03.26. 00:04, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "82506",
+    "event_time": "2026-03-20T00:03:00",
+    "seen_at": "2026-03-19T23:11:20.659Z",
+    "raw": "Br. Vlaka 82506 dolazak      20.03.26. 00:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "82506",
+    "event_time": "2026-03-20T00:03:00",
+    "seen_at": "2026-03-19T23:11:20.659Z",
+    "raw": "Br. Vlaka 82506 dolazak      20.03.26. 00:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-20T00:03:00",
+    "seen_at": "2026-03-19T23:11:43.023Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-20T00:03:00",
+    "seen_at": "2026-03-19T23:11:43.023Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "48893",
+    "event_time": "2026-03-20T00:11:00",
+    "seen_at": "2026-03-19T23:12:05.329Z",
+    "raw": "Br. Vlaka 48893 odlazak      20.03.26. 00:11, kolodvor JOSIPOVAC"
   }
 ]
