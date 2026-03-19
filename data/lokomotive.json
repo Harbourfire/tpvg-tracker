@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-13T09:41:00",
-    "seen_at": "2026-03-16T09:06:32.765Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "928012230142",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -10105,5 +10096,41 @@
     "event_time": "2026-03-19T09:57:00",
     "seen_at": "2026-03-19T08:59:43.515Z",
     "raw": "Br. Vlaka 69175 odlazak      19.03.26. 09:57, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-13T09:41:00",
+    "seen_at": "2026-03-19T09:07:16.509Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "48582",
+    "event_time": "2026-03-19T10:07:00",
+    "seen_at": "2026-03-19T09:07:59.909Z",
+    "raw": "Br. Vlaka 48582 formiran     19.03.26. 10:07, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-19T10:11:00",
+    "seen_at": "2026-03-19T09:12:20.901Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-19T10:11:00",
+    "seen_at": "2026-03-19T09:12:20.901Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
   }
 ]
