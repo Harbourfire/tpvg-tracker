@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82132",
-    "event_time": "2026-03-16T05:17:00",
-    "seen_at": "2026-03-16T04:18:11.295Z",
-    "raw": "Br. Vlaka 82132 dolazak      16.03.26. 05:17, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82132",
-    "event_time": "2026-03-16T05:17:00",
-    "seen_at": "2026-03-16T04:18:11.295Z",
-    "raw": "Br. Vlaka 82132 dolazak      16.03.26. 05:17, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "82132",
@@ -9763,5 +9745,23 @@
     "event_time": "2026-03-18T21:54:00",
     "seen_at": "2026-03-19T04:14:44.525Z",
     "raw": "Br. Vlaka 48893 formiran     18.03.26. 21:54, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81232",
+    "event_time": "2026-03-19T05:20:00",
+    "seen_at": "2026-03-19T04:23:03.519Z",
+    "raw": "Br. Vlaka 81232 odlazak      19.03.26. 05:20, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81232",
+    "event_time": "2026-03-19T05:20:00",
+    "seen_at": "2026-03-19T04:23:03.519Z",
+    "raw": "Br. Vlaka 81232 odlazak      19.03.26. 05:20, kolodvor BLATA"
   }
 ]
