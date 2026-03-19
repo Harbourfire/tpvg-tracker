@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-03-16T01:39:00",
-    "seen_at": "2026-03-16T00:40:00.636Z",
-    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 01:39, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-03-16T01:39:00",
-    "seen_at": "2026-03-16T00:40:00.636Z",
-    "raw": "Br. Vlaka 63305 dolazak      16.03.26. 01:39, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -9547,5 +9529,14 @@
     "event_time": "2026-03-19T01:32:00",
     "seen_at": "2026-03-19T00:33:13.692Z",
     "raw": "Br. Vlaka 63306 odlazak      19.03.26. 01:32, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ŠPIŠIĆ BUKOVICA",
+    "train_number": "44693",
+    "event_time": "2026-03-19T01:37:00",
+    "seen_at": "2026-03-19T00:39:11.370Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 01:37, kolodvor ŠPIŠIĆ BUKOVICA"
   }
 ]
