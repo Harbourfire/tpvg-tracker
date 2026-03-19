@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82132",
-    "event_time": "2026-03-16T04:30:00",
-    "seen_at": "2026-03-16T03:30:39.944Z",
-    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 04:30, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82132",
-    "event_time": "2026-03-16T04:30:00",
-    "seen_at": "2026-03-16T03:30:39.944Z",
-    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 04:30, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "82132",
     "event_time": "2026-03-16T04:40:00",
@@ -9718,5 +9700,32 @@
     "event_time": "2026-03-19T04:18:00",
     "seen_at": "2026-03-19T03:19:18.430Z",
     "raw": "Br. Vlaka 81232 odlazak      19.03.26. 04:18, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89724",
+    "event_time": "2026-03-19T04:23:00",
+    "seen_at": "2026-03-19T03:24:56.230Z",
+    "raw": "Br. Vlaka 89724 odlazak      19.03.26. 04:23, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "81232",
+    "event_time": "2026-03-19T04:27:00",
+    "seen_at": "2026-03-19T03:31:06.686Z",
+    "raw": "Br. Vlaka 81232 promjena sas 19.03.26. 04:27, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "81232",
+    "event_time": "2026-03-19T04:27:00",
+    "seen_at": "2026-03-19T03:31:06.686Z",
+    "raw": "Br. Vlaka 81232 promjena sas 19.03.26. 04:27, kolodvor RUDOPOLJE"
   }
 ]
