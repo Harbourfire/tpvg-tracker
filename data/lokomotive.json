@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82132",
-    "event_time": "2026-03-16T05:05:00",
-    "seen_at": "2026-03-16T04:06:27.365Z",
-    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:05, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82132",
-    "event_time": "2026-03-16T05:05:00",
-    "seen_at": "2026-03-16T04:06:27.365Z",
-    "raw": "Br. Vlaka 82132 odlazak      16.03.26. 05:05, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "PLAŠKI",
     "train_number": "82132",
@@ -9727,5 +9709,14 @@
     "event_time": "2026-03-19T04:57:00",
     "seen_at": "2026-03-19T03:59:21.789Z",
     "raw": "Br. Vlaka 89724 odlazak      19.03.26. 04:57, kolodvor CABUNA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PČELIĆ",
+    "train_number": "89724",
+    "event_time": "2026-03-19T05:03:00",
+    "seen_at": "2026-03-19T04:05:02.941Z",
+    "raw": "Br. Vlaka 89724 odlazak      19.03.26. 05:03, kolodvor PČELIĆ"
   }
 ]
