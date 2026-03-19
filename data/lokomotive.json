@@ -2,78 +2,6 @@
   {
     "uic": "927820620171",
     "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "82322",
-    "event_time": "2026-03-16T20:53:00",
-    "seen_at": "2026-03-16T19:55:27.915Z",
-    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 20:53, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "82322",
-    "event_time": "2026-03-16T21:05:00",
-    "seen_at": "2026-03-16T20:07:30.746Z",
-    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:05, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "82322",
-    "event_time": "2026-03-16T21:12:00",
-    "seen_at": "2026-03-16T20:13:59.563Z",
-    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:12, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-16T21:19:00",
-    "seen_at": "2026-03-16T20:19:28.441Z",
-    "raw": "Br. Vlaka 69175 odlazak      16.03.26. 21:19, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-16T21:19:00",
-    "seen_at": "2026-03-16T20:19:28.441Z",
-    "raw": "Br. Vlaka 69175 odlazak      16.03.26. 21:19, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82322",
-    "event_time": "2026-03-16T21:20:00",
-    "seen_at": "2026-03-16T20:21:18.618Z",
-    "raw": "Br. Vlaka 82322 odlazak      16.03.26. 21:20, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "69175",
-    "event_time": "2026-03-16T21:24:00",
-    "seen_at": "2026-03-16T20:26:18.164Z",
-    "raw": "Br. Vlaka 69175 odlazak      16.03.26. 21:24, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "69175",
-    "event_time": "2026-03-16T21:24:00",
-    "seen_at": "2026-03-16T20:26:18.164Z",
-    "raw": "Br. Vlaka 69175 odlazak      16.03.26. 21:24, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
     "station": "ANDRIJEVCI",
     "train_number": "82322",
     "event_time": "2026-03-16T21:29:00",
@@ -11032,5 +10960,68 @@
     "event_time": "2026-03-19T20:46:00",
     "seen_at": "2026-03-19T19:48:09.693Z",
     "raw": "Br. Vlaka 45996 odlazak      19.03.26. 20:46, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "45996",
+    "event_time": "2026-03-19T21:15:00",
+    "seen_at": "2026-03-19T20:20:25.641Z",
+    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 21:15, kolodvor 72304"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-19T21:11:00",
+    "seen_at": "2026-03-19T20:20:25.641Z",
+    "raw": "Br. Vlaka 45131 formiran     19.03.26. 21:11, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-09-24T12:21:00",
+    "seen_at": "2026-03-19T20:20:25.642Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2025-07-08T20:16:00",
+    "seen_at": "2026-03-19T20:20:25.642Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45996",
+    "event_time": "2026-03-19T21:21:00",
+    "seen_at": "2026-03-19T20:21:33.630Z",
+    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 21:21, kolodvor 72303"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82506",
+    "event_time": "2026-03-19T21:22:00",
+    "seen_at": "2026-03-19T20:23:02.867Z",
+    "raw": "Br. Vlaka 82506 formiran     19.03.26. 21:22, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82506",
+    "event_time": "2026-03-19T21:22:00",
+    "seen_at": "2026-03-19T20:23:02.867Z",
+    "raw": "Br. Vlaka 82506 formiran     19.03.26. 21:22, kolodvor GOSPIĆ"
   }
 ]
