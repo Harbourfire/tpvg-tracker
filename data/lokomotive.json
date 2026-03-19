@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-16T01:48:00",
-    "seen_at": "2026-03-16T00:48:31.191Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -9538,5 +9529,50 @@
     "event_time": "2026-03-19T01:37:00",
     "seen_at": "2026-03-19T00:39:11.370Z",
     "raw": "Br. Vlaka 44693 odlazak      19.03.26. 01:37, kolodvor ŠPIŠIĆ BUKOVICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-19T01:43:00",
+    "seen_at": "2026-03-19T00:44:04.552Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-19T01:43:00",
+    "seen_at": "2026-03-19T00:44:04.552Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "89177",
+    "event_time": "2026-03-19T00:56:00",
+    "seen_at": "2026-03-19T00:44:26.445Z",
+    "raw": "Br. Vlaka 89177 formiran     19.03.26. 00:56, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "89177",
+    "event_time": "2026-03-19T00:56:00",
+    "seen_at": "2026-03-19T00:44:26.445Z",
+    "raw": "Br. Vlaka 89177 formiran     19.03.26. 00:56, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "44693",
+    "event_time": "2026-03-19T01:44:00",
+    "seen_at": "2026-03-19T00:46:36.615Z",
+    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 01:44, kolodvor VIROVITICA"
   }
 ]
