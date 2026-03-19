@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "46656",
-    "event_time": "2026-03-16T06:22:00",
-    "seen_at": "2026-03-16T05:29:56.615Z",
-    "raw": "Br. Vlaka 46656 formiran     16.03.26. 06:22, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -9835,5 +9826,14 @@
     "event_time": "2026-03-19T06:25:00",
     "seen_at": "2026-03-19T05:29:05.420Z",
     "raw": "Br. Vlaka 89290 odlazak      19.03.26. 06:25, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89290",
+    "event_time": "2026-03-19T06:31:00",
+    "seen_at": "2026-03-19T05:31:09.187Z",
+    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 06:31, kolodvor 73164"
   }
 ]
