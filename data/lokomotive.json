@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81230",
-    "event_time": "2026-03-16T16:41:00",
-    "seen_at": "2026-03-16T15:43:58.435Z",
-    "raw": "Br. Vlaka 81230 dolazak      16.03.26. 16:41, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81230",
-    "event_time": "2026-03-16T16:41:00",
-    "seen_at": "2026-03-16T15:43:58.435Z",
-    "raw": "Br. Vlaka 81230 dolazak      16.03.26. 16:41, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "48799",
-    "event_time": "2026-03-16T16:45:00",
-    "seen_at": "2026-03-16T15:47:11.250Z",
-    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 16:45, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "48799",
-    "event_time": "2026-03-16T16:45:00",
-    "seen_at": "2026-03-16T15:47:11.251Z",
-    "raw": "Br. Vlaka 48799 dolazak      16.03.26. 16:45, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820622029",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -10987,5 +10951,41 @@
     "event_time": "2026-03-19T10:01:00",
     "seen_at": "2026-03-19T14:57:43.453Z",
     "raw": "Br. Vlaka 44798 formiran     19.03.26. 10:01, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "44798",
+    "event_time": "2026-03-19T16:39:00",
+    "seen_at": "2026-03-19T15:47:44.094Z",
+    "raw": "Br. Vlaka 44798 odlazak      19.03.26. 16:39, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44798",
+    "event_time": "2026-03-19T16:43:00",
+    "seen_at": "2026-03-19T15:48:06.454Z",
+    "raw": "Br. Vlaka 44798 odlazak      19.03.26. 16:43, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89301",
+    "event_time": "2026-03-19T16:47:00",
+    "seen_at": "2026-03-19T15:48:51.617Z",
+    "raw": "Br. Vlaka 89301 odlazak      19.03.26. 16:47, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44798",
+    "event_time": "2026-03-19T16:48:00",
+    "seen_at": "2026-03-19T15:49:36.737Z",
+    "raw": "Br. Vlaka 44798 odlazak      19.03.26. 16:48, kolodvor ZAPREŠIĆ"
   }
 ]
