@@ -9871,5 +9871,41 @@
     "event_time": "2026-03-19T07:00:00",
     "seen_at": "2026-03-19T06:01:46.953Z",
     "raw": "Br. Vlaka 66853 odlazak      19.03.26. 07:00, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89290",
+    "event_time": "2026-03-19T07:09:00",
+    "seen_at": "2026-03-19T06:09:37.200Z",
+    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 07:09, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SLATINA",
+    "train_number": "48893",
+    "event_time": "2026-03-19T07:06:00",
+    "seen_at": "2026-03-19T06:09:37.201Z",
+    "raw": "Br. Vlaka 48893 dolazak      19.03.26. 07:06, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66853",
+    "event_time": "2026-03-19T07:09:00",
+    "seen_at": "2026-03-19T06:10:42.279Z",
+    "raw": "Br. Vlaka 66853 dolazak      19.03.26. 07:09, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-19T07:09:00",
+    "seen_at": "2026-03-19T06:11:04.071Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
