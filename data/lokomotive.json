@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "82322",
-    "event_time": "2026-03-16T15:37:00",
-    "seen_at": "2026-03-16T14:37:28.283Z",
-    "raw": "Br. Vlaka 82322 formiran     16.03.26. 15:37, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-03-16T15:45:00",
-    "seen_at": "2026-03-16T14:46:28.564Z",
-    "raw": "Br. Vlaka 81230 odlazak      16.03.26. 15:45, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-03-16T15:45:00",
-    "seen_at": "2026-03-16T14:46:28.565Z",
-    "raw": "Br. Vlaka 81230 odlazak      16.03.26. 15:45, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -11059,5 +11032,41 @@
     "event_time": "2026-03-19T15:33:00",
     "seen_at": "2026-03-19T14:33:35.889Z",
     "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:33, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89252",
+    "event_time": "2026-03-19T15:39:00",
+    "seen_at": "2026-03-19T14:40:14.748Z",
+    "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:39, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-19T15:36:00",
+    "seen_at": "2026-03-19T14:41:22.573Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-19T15:36:00",
+    "seen_at": "2026-03-19T14:41:22.573Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89252",
+    "event_time": "2026-03-19T15:45:00",
+    "seen_at": "2026-03-19T14:45:52.962Z",
+    "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:45, kolodvor SAVSKI MAROF"
   }
 ]
