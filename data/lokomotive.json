@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-16T18:05:00",
-    "seen_at": "2026-03-16T17:06:07.447Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-16T18:05:00",
-    "seen_at": "2026-03-16T17:06:07.447Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -10942,5 +10924,23 @@
     "event_time": "2026-03-19T18:00:00",
     "seen_at": "2026-03-19T17:00:48.656Z",
     "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:00, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89758",
+    "event_time": "2026-03-19T18:07:00",
+    "seen_at": "2026-03-19T17:08:57.667Z",
+    "raw": "Br. Vlaka 89758 dolazak      19.03.26. 18:07, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89758",
+    "event_time": "2026-03-19T18:10:00",
+    "seen_at": "2026-03-19T17:11:14.246Z",
+    "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:10, kolodvor ZAGREB KLARA"
   }
 ]
