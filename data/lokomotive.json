@@ -10951,5 +10951,50 @@
     "event_time": "2026-03-19T22:22:00",
     "seen_at": "2026-03-19T21:23:15.728Z",
     "raw": "Br. Vlaka 45996 odlazak      19.03.26. 22:22, kolodvor 72302"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "45996",
+    "event_time": "2026-03-19T22:28:00",
+    "seen_at": "2026-03-19T21:29:57.457Z",
+    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 22:28, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82506",
+    "event_time": "2026-03-19T22:29:00",
+    "seen_at": "2026-03-19T21:32:58.978Z",
+    "raw": "Br. Vlaka 82506 dolazak      19.03.26. 22:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82506",
+    "event_time": "2026-03-19T22:29:00",
+    "seen_at": "2026-03-19T21:32:58.978Z",
+    "raw": "Br. Vlaka 82506 dolazak      19.03.26. 22:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "82506",
+    "event_time": "2026-03-19T22:29:00",
+    "seen_at": "2026-03-19T21:33:44.297Z",
+    "raw": "Br. Vlaka 82506 promjena sas 19.03.26. 22:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "82506",
+    "event_time": "2026-03-19T22:29:00",
+    "seen_at": "2026-03-19T21:33:44.297Z",
+    "raw": "Br. Vlaka 82506 promjena sas 19.03.26. 22:29, kolodvor RUDOPOLJE"
   }
 ]
