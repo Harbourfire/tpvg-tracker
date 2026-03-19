@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-03-16T07:59:00",
-    "seen_at": "2026-03-16T07:00:35.718Z",
-    "raw": "Br. Vlaka 71202 formiran     16.03.26. 07:59, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "DRENOVCI",
@@ -9934,5 +9925,32 @@
     "event_time": "2026-03-19T07:50:00",
     "seen_at": "2026-03-19T06:51:00.188Z",
     "raw": "Br. Vlaka 45105 odlazak      19.03.26. 07:50, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "89690",
+    "event_time": "2026-03-19T07:56:00",
+    "seen_at": "2026-03-19T06:59:39.574Z",
+    "raw": "Br. Vlaka 89690 odlazak      19.03.26. 07:56, kolodvor ROČ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-03-19T08:04:00",
+    "seen_at": "2026-03-19T07:05:08.843Z",
+    "raw": "Br. Vlaka 45105 odlazak      19.03.26. 08:04, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "48893",
+    "event_time": "2026-03-19T07:59:00",
+    "seen_at": "2026-03-19T07:06:35.684Z",
+    "raw": "Br. Vlaka 48893 dolazak      19.03.26. 07:59, kolodvor ČAČINCI"
   }
 ]
