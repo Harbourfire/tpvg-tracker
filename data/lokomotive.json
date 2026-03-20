@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T06:08:00",
-    "seen_at": "2026-03-17T05:26:17.998Z",
-    "raw": "Br. Vlaka 47428 formiran     17.03.26. 06:08, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "81259",
-    "event_time": "2026-03-17T06:29:00",
-    "seen_at": "2026-03-17T05:30:29.148Z",
-    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:29, kolodvor ZDENČINA"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -10141,5 +10123,23 @@
     "event_time": "2026-03-20T06:20:00",
     "seen_at": "2026-03-20T05:21:27.956Z",
     "raw": "Br. Vlaka 71207 formiran     20.03.26. 06:20, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T06:28:00",
+    "seen_at": "2026-03-20T05:30:15.702Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:28, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T06:28:00",
+    "seen_at": "2026-03-20T05:30:15.702Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:28, kolodvor RUDOPOLJE"
   }
 ]
