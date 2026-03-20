@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:23:00",
-    "seen_at": "2026-03-17T10:23:25.942Z",
-    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 11:23, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:23:00",
-    "seen_at": "2026-03-17T10:23:25.942Z",
-    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 11:23, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89147",
-    "event_time": "2026-03-17T11:29:00",
-    "seen_at": "2026-03-17T10:31:03.598Z",
-    "raw": "Br. Vlaka 89147 odlazak      17.03.26. 11:29, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "DUGA RESA",
     "train_number": "47428",
@@ -10384,5 +10357,41 @@
     "event_time": "2026-03-20T11:20:00",
     "seen_at": "2026-03-20T10:20:49.284Z",
     "raw": "Br. Vlaka 81972 formiran     20.03.26. 11:20, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89541",
+    "event_time": "2026-03-20T11:23:00",
+    "seen_at": "2026-03-20T10:25:12.750Z",
+    "raw": "Br. Vlaka 89541 odlazak      20.03.26. 11:23, kolodvor DARDA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Dolazak",
+    "station": "OTOK",
+    "train_number": "74100",
+    "event_time": "2026-03-20T11:22:00",
+    "seen_at": "2026-03-20T10:25:57.601Z",
+    "raw": "Br. Vlaka 74100 dolazak      20.03.26. 11:22, kolodvor OTOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89294",
+    "event_time": "2026-03-20T11:26:00",
+    "seen_at": "2026-03-20T10:26:42.495Z",
+    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 11:26, kolodvor SESVETE"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76505",
+    "event_time": "2026-03-20T11:26:00",
+    "seen_at": "2026-03-20T10:27:27.337Z",
+    "raw": "Br. Vlaka 76505 odlazak      20.03.26. 11:26, kolodvor IVANKOVO"
   }
 ]
