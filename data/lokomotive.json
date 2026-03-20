@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "81259",
-    "event_time": "2026-03-17T06:01:00",
-    "seen_at": "2026-03-17T05:02:03.518Z",
-    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:01, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-03-17T06:06:00",
-    "seen_at": "2026-03-17T05:07:03.343Z",
-    "raw": "Br. Vlaka 69326 odlazak      17.03.26. 06:06, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -10096,5 +10078,23 @@
     "event_time": "2026-03-20T05:50:00",
     "seen_at": "2026-03-20T04:52:38.512Z",
     "raw": "Br. Vlaka 45996 odlazak      20.03.26. 05:50, kolodvor 73164"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-20T05:59:00",
+    "seen_at": "2026-03-20T05:00:18.510Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 05:59, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-20T05:59:00",
+    "seen_at": "2026-03-20T05:00:18.510Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 05:59, kolodvor PLAŠKI"
   }
 ]
