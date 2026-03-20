@@ -2,33 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "81259",
-    "event_time": "2026-03-17T06:52:00",
-    "seen_at": "2026-03-17T05:54:35.524Z",
-    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 06:52, kolodvor HORVATI"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76601",
-    "event_time": "2026-03-17T06:57:00",
-    "seen_at": "2026-03-17T05:57:25.558Z",
-    "raw": "Br. Vlaka 76601 odlazak      17.03.26. 06:57, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-17T06:42:00",
-    "seen_at": "2026-03-17T05:58:31.663Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
     "train_number": "81259",
     "event_time": "2026-03-17T07:00:00",
@@ -10177,5 +10150,50 @@
     "event_time": "2026-03-20T06:49:00",
     "seen_at": "2026-03-20T05:50:45.650Z",
     "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:49, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-03-20T06:50:00",
+    "seen_at": "2026-03-20T05:57:22.330Z",
+    "raw": "Br. Vlaka 74101 formiran     20.03.26. 06:50, kolodvor OTOK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-03-20T06:50:00",
+    "seen_at": "2026-03-20T05:58:30.974Z",
+    "raw": "Br. Vlaka 74101 odlazak      20.03.26. 06:50, kolodvor OTOK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-03-20T06:50:00",
+    "seen_at": "2026-03-20T05:58:54.030Z",
+    "raw": "Br. Vlaka 74101 formiran     20.03.26. 06:50, kolodvor OTOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89294",
+    "event_time": "2026-03-20T06:59:00",
+    "seen_at": "2026-03-20T05:59:39.286Z",
+    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 06:59, kolodvor 73164"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-03-20T06:55:00",
+    "seen_at": "2026-03-20T05:59:39.288Z",
+    "raw": "Br. Vlaka 74101 odlazak      20.03.26. 06:55, kolodvor OTOK"
   }
 ]
