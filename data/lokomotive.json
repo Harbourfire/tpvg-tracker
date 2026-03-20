@@ -1,33 +1,6 @@
 [
   {
     "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76601",
-    "event_time": "2026-03-17T07:21:00",
-    "seen_at": "2026-03-17T06:22:19.974Z",
-    "raw": "Br. Vlaka 76601 odlazak      17.03.26. 07:21, kolodvor SIBINJ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-17T07:25:00",
-    "seen_at": "2026-03-17T06:25:49.065Z",
-    "raw": "Br. Vlaka 69006 formiran     17.03.26. 07:25, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81229",
-    "event_time": "2026-03-17T07:27:00",
-    "seen_at": "2026-03-17T06:27:37.545Z",
-    "raw": "Br. Vlaka 81229 odlazak      17.03.26. 07:27, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113470",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
     "train_number": "76601",
@@ -10249,5 +10222,59 @@
     "event_time": "2026-03-20T07:18:00",
     "seen_at": "2026-03-20T06:19:18.814Z",
     "raw": "Br. Vlaka 89294 odlazak      20.03.26. 07:18, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "74101",
+    "event_time": "2026-03-20T07:12:00",
+    "seen_at": "2026-03-20T06:22:30.622Z",
+    "raw": "Br. Vlaka 74101 dolazak      20.03.26. 07:12, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "SPAČVA",
+    "train_number": null,
+    "event_time": "2026-03-20T07:12:00",
+    "seen_at": "2026-03-20T06:23:15.735Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71304 SPAČVA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Dolazak",
+    "station": "IVANKOVO",
+    "train_number": "76504",
+    "event_time": "2026-03-20T07:22:00",
+    "seen_at": "2026-03-20T06:23:38.582Z",
+    "raw": "Br. Vlaka 76504 dolazak      20.03.26. 07:22, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "89294",
+    "event_time": "2026-03-20T07:24:00",
+    "seen_at": "2026-03-20T06:24:46.552Z",
+    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 07:24, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "IVANKOVO",
+    "train_number": null,
+    "event_time": "2026-03-20T07:22:00",
+    "seen_at": "2026-03-20T06:25:31.946Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89301",
+    "event_time": "2026-03-20T07:25:00",
+    "seen_at": "2026-03-20T06:27:25.119Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 07:25, kolodvor KOŠKA"
   }
 ]
