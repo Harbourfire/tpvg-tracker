@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "IVANKOVO",
-    "train_number": "71203",
-    "event_time": "2026-03-17T08:44:00",
-    "seen_at": "2026-03-17T07:45:12.341Z",
-    "raw": "Br. Vlaka 71203 formiran     17.03.26. 08:44, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "81229",
-    "event_time": "2026-03-17T08:49:00",
-    "seen_at": "2026-03-17T07:49:15.122Z",
-    "raw": "Br. Vlaka 81229 odlazak      17.03.26. 08:49, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "IZVAN HŽ - BRČKO",
@@ -10375,5 +10357,41 @@
     "event_time": "2026-03-20T08:38:00",
     "seen_at": "2026-03-20T07:43:54.296Z",
     "raw": "Br. Vlaka 49826 odlazak      20.03.26. 08:38, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "89301",
+    "event_time": "2026-03-20T08:44:00",
+    "seen_at": "2026-03-20T07:45:38.334Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:44, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-03-20T08:45:00",
+    "seen_at": "2026-03-20T07:49:50.434Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ŠPIŠIĆ BUKOVICA",
+    "train_number": "89301",
+    "event_time": "2026-03-20T08:51:00",
+    "seen_at": "2026-03-20T07:52:53.782Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:51, kolodvor ŠPIŠIĆ BUKOVICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45940",
+    "event_time": "2026-03-20T08:53:00",
+    "seen_at": "2026-03-20T07:53:39.289Z",
+    "raw": "Br. Vlaka 45940 odlazak      20.03.26. 08:53, kolodvor OSIJEK"
   }
 ]
