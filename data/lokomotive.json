@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "60340",
-    "event_time": "2026-03-17T23:20:00",
-    "seen_at": "2026-03-17T22:21:06.878Z",
-    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 23:20, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "47944",
-    "event_time": "2026-03-17T23:22:00",
-    "seen_at": "2026-03-17T22:22:33.316Z",
-    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 23:22, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47990",
-    "event_time": "2026-03-17T23:21:00",
-    "seen_at": "2026-03-17T22:22:33.318Z",
-    "raw": "Br. Vlaka 47990 odlazak      17.03.26. 23:21, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "MUČNA REKA",
@@ -9646,5 +9619,41 @@
     "event_time": "2026-03-20T23:14:00",
     "seen_at": "2026-03-20T22:15:12.622Z",
     "raw": "Br. Vlaka 63305 odlazak      20.03.26. 23:14, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "83811",
+    "event_time": "2026-03-20T23:20:00",
+    "seen_at": "2026-03-20T22:22:54.919Z",
+    "raw": "Br. Vlaka 83811 odlazak      20.03.26. 23:20, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T23:26:00",
+    "seen_at": "2026-03-20T22:26:38.697Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T23:26:00",
+    "seen_at": "2026-03-20T22:26:38.697Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-20T23:28:00",
+    "seen_at": "2026-03-20T22:28:30.658Z",
+    "raw": "Br. Vlaka 63306 formiran     20.03.26. 23:28, kolodvor GOSPIĆ"
   }
 ]
