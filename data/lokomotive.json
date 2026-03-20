@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47944",
-    "event_time": "2026-03-17T23:38:00",
-    "seen_at": "2026-03-17T22:38:55.866Z",
-    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 23:38, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "47990",
-    "event_time": "2026-03-17T23:44:00",
-    "seen_at": "2026-03-17T22:45:01.878Z",
-    "raw": "Br. Vlaka 47990 dolazak      17.03.26. 23:44, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "60340",
-    "event_time": "2026-03-17T23:48:00",
-    "seen_at": "2026-03-17T22:49:23.204Z",
-    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 23:48, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47944",
-    "event_time": "2026-03-17T23:52:00",
-    "seen_at": "2026-03-17T22:52:16.479Z",
-    "raw": "Br. Vlaka 47944 dolazak      17.03.26. 23:52, kolodvor 73164"
-  },
-  {
     "uic": "927820620387",
     "type": "Odlazak",
     "station": "BLATA",
@@ -9619,5 +9583,23 @@
     "event_time": "2026-03-20T23:28:00",
     "seen_at": "2026-03-20T22:28:30.658Z",
     "raw": "Br. Vlaka 63306 formiran     20.03.26. 23:28, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89710",
+    "event_time": "2026-03-20T19:26:00",
+    "seen_at": "2026-03-20T22:47:58.810Z",
+    "raw": "Br. Vlaka 89710 formiran     20.03.26. 19:26, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "83811",
+    "event_time": "2026-03-20T23:50:00",
+    "seen_at": "2026-03-20T22:52:32.243Z",
+    "raw": "Br. Vlaka 83811 odlazak      20.03.26. 23:50, kolodvor JOSIPOVAC"
   }
 ]
