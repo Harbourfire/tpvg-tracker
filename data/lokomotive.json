@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:04:00",
-    "seen_at": "2026-03-17T10:04:50.360Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:04, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:04:00",
-    "seen_at": "2026-03-17T10:04:50.360Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:04, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "ZVEČAJ",
     "train_number": "47428",
     "event_time": "2026-03-17T11:13:00",
@@ -10384,5 +10366,32 @@
     "event_time": "2026-03-17T11:00:00",
     "seen_at": "2026-03-20T10:01:31.112Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "89294",
+    "event_time": "2026-03-20T11:03:00",
+    "seen_at": "2026-03-20T10:06:35.621Z",
+    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 11:03, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-03-20T11:10:00",
+    "seen_at": "2026-03-20T10:11:06.755Z",
+    "raw": "Br. Vlaka 89541 odlazak      20.03.26. 11:10, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "78010",
+    "event_time": "2026-03-20T11:11:00",
+    "seen_at": "2026-03-20T10:12:36.718Z",
+    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 11:11, kolodvor GENERALSKI STOL"
   }
 ]
