@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "47563",
-    "event_time": "2026-03-17T01:50:00",
-    "seen_at": "2026-03-17T00:55:19.605Z",
-    "raw": "Br. Vlaka 47563 odlazak      17.03.26. 01:50, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "47563",
-    "event_time": "2026-03-17T01:50:00",
-    "seen_at": "2026-03-17T00:55:19.606Z",
-    "raw": "Br. Vlaka 47563 odlazak      17.03.26. 01:50, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-03-17T01:54:00",
-    "seen_at": "2026-03-17T00:56:02.706Z",
-    "raw": "Br. Vlaka 47563 dolazak      17.03.26. 01:54, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-03-17T01:54:00",
-    "seen_at": "2026-03-17T00:56:02.707Z",
-    "raw": "Br. Vlaka 47563 dolazak      17.03.26. 01:54, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -10744,5 +10708,32 @@
     "event_time": "2026-03-20T01:45:00",
     "seen_at": "2026-03-20T00:46:06.595Z",
     "raw": "Br. Vlaka 69006 odlazak      20.03.26. 01:45, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-20T01:50:00",
+    "seen_at": "2026-03-20T00:52:20.670Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-20T01:50:00",
+    "seen_at": "2026-03-20T00:52:20.670Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81973",
+    "event_time": "2026-03-20T01:53:00",
+    "seen_at": "2026-03-20T00:54:34.317Z",
+    "raw": "Br. Vlaka 81973 odlazak      20.03.26. 01:53, kolodvor VINKOVCI"
   }
 ]
