@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "47944",
-    "event_time": "2026-03-17T15:57:00",
-    "seen_at": "2026-03-17T15:01:41.600Z",
-    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 15:57, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "SAVSKI MAROF",
     "train_number": "47944",
@@ -10366,5 +10357,23 @@
     "event_time": "2026-03-20T15:45:00",
     "seen_at": "2026-03-20T14:45:26.652Z",
     "raw": "Br. Vlaka 89705 odlazak      20.03.26. 15:45, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "78010",
+    "event_time": "2026-03-20T15:53:00",
+    "seen_at": "2026-03-20T14:55:27.498Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 15:53, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89705",
+    "event_time": "2026-03-20T15:55:00",
+    "seen_at": "2026-03-20T14:55:50.392Z",
+    "raw": "Br. Vlaka 89705 odlazak      20.03.26. 15:55, kolodvor ORIOVAC"
   }
 ]
