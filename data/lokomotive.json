@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "IZVAN HŽ - BRČKO",
-    "train_number": "45104",
-    "event_time": "2026-03-17T08:53:00",
-    "seen_at": "2026-03-17T07:54:40.309Z",
-    "raw": "Br. Vlaka 45104 formiran     17.03.26. 08:53, kolodvor 71308"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "81229",
-    "event_time": "2026-03-17T08:59:00",
-    "seen_at": "2026-03-17T08:00:11.582Z",
-    "raw": "Br. Vlaka 81229 odlazak      17.03.26. 08:59, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "POŽEGA",
@@ -10393,5 +10375,14 @@
     "event_time": "2026-03-20T08:53:00",
     "seen_at": "2026-03-20T07:53:39.289Z",
     "raw": "Br. Vlaka 45940 odlazak      20.03.26. 08:53, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "PITOMAČA",
+    "train_number": "89301",
+    "event_time": "2026-03-20T09:00:00",
+    "seen_at": "2026-03-20T08:01:02.961Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 09:00, kolodvor PITOMAČA"
   }
 ]
