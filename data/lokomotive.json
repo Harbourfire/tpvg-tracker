@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-17T16:15:00",
-    "seen_at": "2026-03-17T15:15:46.620Z",
-    "raw": "Br. Vlaka 63310 odlazak      17.03.26. 16:15, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "SAVSKI MAROF GRANICA",
@@ -10375,5 +10366,23 @@
     "event_time": "2026-03-20T16:09:00",
     "seen_at": "2026-03-20T15:10:21.807Z",
     "raw": "Br. Vlaka 89705 odlazak      20.03.26. 16:09, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "78010",
+    "event_time": "2026-03-20T16:18:00",
+    "seen_at": "2026-03-20T15:20:48.360Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 16:18, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-20T16:21:00",
+    "seen_at": "2026-03-20T15:21:56.888Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
