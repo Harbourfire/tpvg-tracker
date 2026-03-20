@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:13:00",
-    "seen_at": "2026-03-17T10:14:08.014Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:13, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:13:00",
-    "seen_at": "2026-03-17T10:14:08.014Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:13, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "89147",
-    "event_time": "2026-03-17T11:19:00",
-    "seen_at": "2026-03-17T10:20:31.795Z",
-    "raw": "Br. Vlaka 89147 odlazak      17.03.26. 11:19, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "DUGA RESA",
     "train_number": "47428",
@@ -10393,5 +10366,23 @@
     "event_time": "2026-03-20T11:11:00",
     "seen_at": "2026-03-20T10:12:36.718Z",
     "raw": "Br. Vlaka 78010 dolazak      20.03.26. 11:11, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81972",
+    "event_time": "2026-03-20T11:20:00",
+    "seen_at": "2026-03-20T10:20:49.284Z",
+    "raw": "Br. Vlaka 81972 formiran     20.03.26. 11:20, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81972",
+    "event_time": "2026-03-20T11:20:00",
+    "seen_at": "2026-03-20T10:20:49.284Z",
+    "raw": "Br. Vlaka 81972 formiran     20.03.26. 11:20, kolodvor GOSPIĆ"
   }
 ]
