@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:58:00",
-    "seen_at": "2026-03-17T10:59:42.705Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:58, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:58:00",
-    "seen_at": "2026-03-17T10:59:42.706Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:58, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "KARLOVAC",
     "train_number": "47428",
@@ -10492,5 +10474,23 @@
     "event_time": "2026-03-20T11:45:00",
     "seen_at": "2026-03-20T10:49:52.713Z",
     "raw": "Br. Vlaka 70200 dolazak      20.03.26. 11:45, kolodvor SVETI PETAR U ŠUMI"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "74100",
+    "event_time": "2026-03-20T11:53:00",
+    "seen_at": "2026-03-20T10:54:56.943Z",
+    "raw": "Br. Vlaka 74100 dolazak      20.03.26. 11:53, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-20T11:53:00",
+    "seen_at": "2026-03-20T10:55:19.758Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
