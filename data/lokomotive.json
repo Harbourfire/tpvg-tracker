@@ -2,33 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:44:00",
-    "seen_at": "2026-03-17T10:44:28.903Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:44, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "47428",
-    "event_time": "2026-03-17T11:44:00",
-    "seen_at": "2026-03-17T10:44:28.903Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 11:44, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "PLAŠKI",
-    "train_number": "82203",
-    "event_time": "2026-03-17T08:00:00",
-    "seen_at": "2026-03-17T10:45:04.115Z",
-    "raw": "Br. Vlaka 82203 formiran     17.03.26. 08:00, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "MRZLO POLJE",
     "train_number": "47428",
     "event_time": "2026-03-17T11:58:00",
@@ -10465,5 +10438,59 @@
     "event_time": "2026-03-20T11:39:00",
     "seen_at": "2026-03-20T10:40:06.681Z",
     "raw": "Br. Vlaka 89294 dolazak      20.03.26. 11:39, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-20T11:36:00",
+    "seen_at": "2026-03-20T10:43:44.977Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Dolazak",
+    "station": "ZVEČAJ",
+    "train_number": "78010",
+    "event_time": "2026-03-20T11:44:00",
+    "seen_at": "2026-03-20T10:45:40.303Z",
+    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 11:44, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81972",
+    "event_time": "2026-03-20T11:46:00",
+    "seen_at": "2026-03-20T10:47:56.780Z",
+    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 11:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81972",
+    "event_time": "2026-03-20T11:46:00",
+    "seen_at": "2026-03-20T10:47:56.780Z",
+    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 11:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-20T11:43:00",
+    "seen_at": "2026-03-20T10:48:43.235Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "SVETI PETAR U ŠUMI",
+    "train_number": "70200",
+    "event_time": "2026-03-20T11:45:00",
+    "seen_at": "2026-03-20T10:49:52.713Z",
+    "raw": "Br. Vlaka 70200 dolazak      20.03.26. 11:45, kolodvor SVETI PETAR U ŠUMI"
   }
 ]
