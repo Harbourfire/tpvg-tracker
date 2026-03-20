@@ -2,33 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "81226",
-    "event_time": "2026-03-17T14:50:00",
-    "seen_at": "2026-03-17T13:51:49.242Z",
-    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:50, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "82298",
-    "event_time": "2026-03-17T14:54:00",
-    "seen_at": "2026-03-17T13:54:58.688Z",
-    "raw": "Br. Vlaka 82298 dolazak      17.03.26. 14:54, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-17T14:54:00",
-    "seen_at": "2026-03-17T13:55:20.997Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "81226",
     "event_time": "2026-03-17T14:57:00",
@@ -10393,5 +10366,23 @@
     "event_time": "2026-03-20T14:35:00",
     "seen_at": "2026-03-20T13:42:57.967Z",
     "raw": "Br. Vlaka 69851 odlazak      20.03.26. 14:35, kolodvor DALJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-20T14:52:00",
+    "seen_at": "2026-03-20T13:52:43.415Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "78010",
+    "event_time": "2026-03-20T14:52:00",
+    "seen_at": "2026-03-20T13:54:15.245Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 14:52, kolodvor JASTREBARSKO"
   }
 ]
