@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-17T11:00:00",
-    "seen_at": "2026-03-17T10:00:49.964Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
@@ -10357,5 +10348,41 @@
     "event_time": "2026-03-20T10:50:00",
     "seen_at": "2026-03-20T09:51:02.736Z",
     "raw": "Br. Vlaka 70200 odlazak      20.03.26. 10:50, kolodvor KANFANAR"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "78010",
+    "event_time": "2026-03-20T10:55:00",
+    "seen_at": "2026-03-20T09:56:10.692Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:55, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "89294",
+    "event_time": "2026-03-20T10:57:00",
+    "seen_at": "2026-03-20T09:57:20.698Z",
+    "raw": "Br. Vlaka 89294 dolazak      20.03.26. 10:57, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74100",
+    "event_time": "2026-03-20T11:00:00",
+    "seen_at": "2026-03-20T10:00:45.507Z",
+    "raw": "Br. Vlaka 74100 odlazak      20.03.26. 11:00, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-17T11:00:00",
+    "seen_at": "2026-03-20T10:01:31.112Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
