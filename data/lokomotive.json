@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47939",
-    "event_time": "2026-03-17T02:54:00",
-    "seen_at": "2026-03-17T01:54:26.375Z",
-    "raw": "Br. Vlaka 47939 dolazak      17.03.26. 02:54, kolodvor 73164"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "81226",
-    "event_time": "2026-03-17T02:57:00",
-    "seen_at": "2026-03-17T01:58:14.130Z",
-    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 02:57, kolodvor GARČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47939",
-    "event_time": "2026-03-17T02:58:00",
-    "seen_at": "2026-03-17T01:59:18.837Z",
-    "raw": "Br. Vlaka 47939 odlazak      17.03.26. 02:58, kolodvor 73164"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "82323",
-    "event_time": "2026-03-16T12:22:00",
-    "seen_at": "2026-03-17T02:01:28.882Z",
-    "raw": "Br. Vlaka 82323 formiran     16.03.26. 12:22, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -10555,5 +10519,32 @@
     "event_time": "2026-03-20T02:46:00",
     "seen_at": "2026-03-20T01:48:57.673Z",
     "raw": "Br. Vlaka 81973 dolazak      20.03.26. 02:46, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "48893",
+    "event_time": "2026-03-20T02:48:00",
+    "seen_at": "2026-03-20T01:54:48.788Z",
+    "raw": "Br. Vlaka 48893 odlazak      20.03.26. 02:48, kolodvor OSIJEK"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Formiran",
+    "station": "DUGA RESA",
+    "train_number": "75012",
+    "event_time": "2026-03-20T02:56:00",
+    "seen_at": "2026-03-20T01:58:35.618Z",
+    "raw": "Br. Vlaka 75012 formiran     20.03.26. 02:56, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "75012",
+    "event_time": "2026-03-20T03:00:00",
+    "seen_at": "2026-03-20T02:01:17.304Z",
+    "raw": "Br. Vlaka 75012 odlazak      20.03.26. 03:00, kolodvor DUGA RESA"
   }
 ]
