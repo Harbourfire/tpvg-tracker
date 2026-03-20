@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-17T13:47:00",
-    "seen_at": "2026-03-17T12:47:16.002Z",
-    "raw": "Br. Vlaka 45104 dolazak      17.03.26. 13:47, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-17T13:47:00",
-    "seen_at": "2026-03-17T12:47:38.197Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82203",
-    "event_time": "2026-03-17T13:47:00",
-    "seen_at": "2026-03-17T12:48:00.111Z",
-    "raw": "Br. Vlaka 82203 odlazak      17.03.26. 13:47, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "47428",
-    "event_time": "2026-03-17T13:48:00",
-    "seen_at": "2026-03-17T12:49:27.736Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 13:48, kolodvor HORVATI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "47428",
-    "event_time": "2026-03-17T13:48:00",
-    "seen_at": "2026-03-17T12:49:27.737Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 13:48, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "81226",
-    "event_time": "2026-03-17T13:49:00",
-    "seen_at": "2026-03-17T12:50:47.756Z",
-    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 13:49, kolodvor LEKENIK"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -10438,5 +10384,32 @@
     "event_time": "2026-03-20T13:32:00",
     "seen_at": "2026-03-20T12:34:37.218Z",
     "raw": "Trenutna pozicija je u kolodvoru 77410 KANFANAR"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "78010",
+    "event_time": "2026-03-20T13:42:00",
+    "seen_at": "2026-03-20T12:47:58.717Z",
+    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 13:42, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81972",
+    "event_time": "2026-03-20T13:48:00",
+    "seen_at": "2026-03-20T12:50:13.809Z",
+    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 13:48, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81972",
+    "event_time": "2026-03-20T13:48:00",
+    "seen_at": "2026-03-20T12:50:13.809Z",
+    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 13:48, kolodvor PLAŠKI"
   }
 ]
