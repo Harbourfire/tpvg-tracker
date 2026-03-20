@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "81226",
-    "event_time": "2026-03-17T09:30:00",
-    "seen_at": "2026-03-17T08:31:21.921Z",
-    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 09:30, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "81229",
-    "event_time": "2026-03-17T09:14:00",
-    "seen_at": "2026-03-17T08:35:05.245Z",
-    "raw": "Br. Vlaka 81229 odlazak      17.03.26. 09:14, kolodvor POŽEGA"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "VELIKA",
@@ -10447,5 +10429,50 @@
     "event_time": "2026-03-20T09:20:00",
     "seen_at": "2026-03-20T08:28:31.709Z",
     "raw": "Br. Vlaka 48893 dolazak      20.03.26. 09:20, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45940",
+    "event_time": "2026-03-20T09:29:00",
+    "seen_at": "2026-03-20T08:38:50.656Z",
+    "raw": "Br. Vlaka 45940 dolazak      20.03.26. 09:29, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-03-20T09:37:00",
+    "seen_at": "2026-03-20T08:39:35.778Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-03-20T06:08:00",
+    "seen_at": "2026-03-20T08:39:58.287Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-03-20T08:43:00",
+    "seen_at": "2026-03-20T08:40:20.778Z",
+    "raw": "Br. Vlaka 89541 promjena sas 20.03.26. 08:43, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-03-20T05:19:00",
+    "seen_at": "2026-03-20T08:40:20.779Z",
+    "raw": "Br. Vlaka 69851 formiran     20.03.26. 05:19, kolodvor ERDUT"
   }
 ]
