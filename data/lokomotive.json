@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "81259",
-    "event_time": "2026-03-17T07:00:00",
-    "seen_at": "2026-03-17T06:07:54.383Z",
-    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 07:00, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-03-17T07:00:00",
-    "seen_at": "2026-03-17T06:08:37.879Z",
-    "raw": "Br. Vlaka 66853 odlazak      17.03.26. 07:00, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-03-17T02:13:00",
-    "seen_at": "2026-03-17T06:10:51.652Z",
-    "raw": "Br. Vlaka 66853 formiran     17.03.26. 02:13, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81229",
-    "event_time": "2026-03-17T00:29:00",
-    "seen_at": "2026-03-17T06:11:13.319Z",
-    "raw": "Br. Vlaka 81229 promjena sas 17.03.26. 00:29, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-03-17T07:07:00",
-    "seen_at": "2026-03-17T06:11:13.320Z",
-    "raw": "Br. Vlaka 66853 odlazak      17.03.26. 07:07, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-17T07:10:00",
-    "seen_at": "2026-03-17T06:11:13.320Z",
-    "raw": "Br. Vlaka 45105 odlazak      17.03.26. 07:10, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "OSIJEK DONJI GRAD",
@@ -10195,5 +10141,77 @@
     "event_time": "2026-03-20T06:55:00",
     "seen_at": "2026-03-20T05:59:39.288Z",
     "raw": "Br. Vlaka 74101 odlazak      20.03.26. 06:55, kolodvor OTOK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "49826",
+    "event_time": "2026-03-20T07:03:00",
+    "seen_at": "2026-03-20T06:03:42.722Z",
+    "raw": "Br. Vlaka 49826 formiran     20.03.26. 07:03, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81973",
+    "event_time": "2026-03-20T07:03:00",
+    "seen_at": "2026-03-20T06:06:20.736Z",
+    "raw": "Br. Vlaka 81973 odlazak      20.03.26. 07:03, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "76504",
+    "event_time": "2026-03-20T07:06:00",
+    "seen_at": "2026-03-20T06:07:05.902Z",
+    "raw": "Br. Vlaka 76504 formiran     20.03.26. 07:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-20T07:05:00",
+    "seen_at": "2026-03-20T06:07:28.289Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 07:05, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-20T07:05:00",
+    "seen_at": "2026-03-20T06:07:28.289Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 07:05, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89294",
+    "event_time": "2026-03-20T07:07:00",
+    "seen_at": "2026-03-20T06:08:35.832Z",
+    "raw": "Br. Vlaka 89294 dolazak      20.03.26. 07:07, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89294",
+    "event_time": "2026-03-20T07:08:00",
+    "seen_at": "2026-03-20T06:08:58.285Z",
+    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 07:08, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "76504",
+    "event_time": "2026-03-20T07:10:00",
+    "seen_at": "2026-03-20T06:11:36.897Z",
+    "raw": "Br. Vlaka 76504 odlazak      20.03.26. 07:10, kolodvor VINKOVCI"
   }
 ]
