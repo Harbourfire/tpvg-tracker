@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47944",
-    "event_time": "2026-03-17T22:52:00",
-    "seen_at": "2026-03-17T21:52:30.495Z",
-    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 22:52, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47944",
-    "event_time": "2026-03-17T22:58:00",
-    "seen_at": "2026-03-17T21:59:06.932Z",
-    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 22:58, kolodvor GRADEC"
-  },
-  {
     "uic": "927820620387",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -9673,5 +9655,23 @@
     "event_time": "2026-03-20T22:40:00",
     "seen_at": "2026-03-20T21:41:21.444Z",
     "raw": "Br. Vlaka 63305 odlazak      20.03.26. 22:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T22:56:00",
+    "seen_at": "2026-03-20T21:59:20.477Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 22:56, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T22:56:00",
+    "seen_at": "2026-03-20T21:59:20.477Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 22:56, kolodvor LIČKO LEŠĆE"
   }
 ]
