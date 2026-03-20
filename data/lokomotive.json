@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47944",
-    "event_time": "2026-03-17T16:02:00",
-    "seen_at": "2026-03-17T15:02:25.208Z",
-    "raw": "Br. Vlaka 47944 dolazak      17.03.26. 16:02, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-03-17T07:24:00",
-    "seen_at": "2026-03-17T15:05:20.355Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -10375,5 +10357,23 @@
     "event_time": "2026-03-20T15:55:00",
     "seen_at": "2026-03-20T14:55:50.392Z",
     "raw": "Br. Vlaka 89705 odlazak      20.03.26. 15:55, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "78010",
+    "event_time": "2026-03-20T16:08:00",
+    "seen_at": "2026-03-20T15:09:14.065Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 16:08, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89705",
+    "event_time": "2026-03-20T16:09:00",
+    "seen_at": "2026-03-20T15:10:21.807Z",
+    "raw": "Br. Vlaka 89705 odlazak      20.03.26. 16:09, kolodvor SIBINJ"
   }
 ]
