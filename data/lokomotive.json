@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "81229",
-    "event_time": "2026-03-17T09:14:00",
-    "seen_at": "2026-03-17T08:29:18.014Z",
-    "raw": "Br. Vlaka 81229 dolazak      17.03.26. 09:14, kolodvor POŽEGA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -10438,5 +10429,23 @@
     "event_time": "2026-03-20T09:19:00",
     "seen_at": "2026-03-20T08:20:28.323Z",
     "raw": "Br. Vlaka 49826 dolazak      20.03.26. 09:19, kolodvor ERDUT"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ĐURĐEVAC",
+    "train_number": null,
+    "event_time": "2026-03-20T09:24:00",
+    "seen_at": "2026-03-20T08:25:32.519Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73010 ĐURĐEVAC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ĐELETOVCI",
+    "train_number": "48893",
+    "event_time": "2026-03-20T09:20:00",
+    "seen_at": "2026-03-20T08:28:31.709Z",
+    "raw": "Br. Vlaka 48893 dolazak      20.03.26. 09:20, kolodvor ĐELETOVCI"
   }
 ]
