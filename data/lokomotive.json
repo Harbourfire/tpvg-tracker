@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "81226",
-    "event_time": "2026-03-17T14:57:00",
-    "seen_at": "2026-03-17T13:57:32.732Z",
-    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:57, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "47428",
-    "event_time": "2026-03-17T14:59:00",
-    "seen_at": "2026-03-17T14:00:06.921Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 14:59, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "47428",
-    "event_time": "2026-03-17T14:59:00",
-    "seen_at": "2026-03-17T14:00:06.921Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 14:59, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81226",
-    "event_time": "2026-03-17T15:02:00",
-    "seen_at": "2026-03-17T14:02:59.144Z",
-    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 15:02, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-17T15:02:00",
-    "seen_at": "2026-03-17T14:03:21.852Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89250",
-    "event_time": "2026-03-17T15:03:00",
-    "seen_at": "2026-03-17T14:04:29.418Z",
-    "raw": "Br. Vlaka 89250 odlazak      17.03.26. 15:03, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF GRANICA",
@@ -10384,5 +10330,32 @@
     "event_time": "2026-03-20T14:52:00",
     "seen_at": "2026-03-20T13:54:15.245Z",
     "raw": "Br. Vlaka 78010 odlazak      20.03.26. 14:52, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89705",
+    "event_time": "2026-03-20T13:23:00",
+    "seen_at": "2026-03-20T13:57:13.704Z",
+    "raw": "Br. Vlaka 89705 formiran     20.03.26. 13:23, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Dolazak",
+    "station": "ZDENČINA",
+    "train_number": "78010",
+    "event_time": "2026-03-20T15:03:00",
+    "seen_at": "2026-03-20T14:04:24.078Z",
+    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 15:03, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69851",
+    "event_time": "2026-03-20T15:02:00",
+    "seen_at": "2026-03-20T14:04:46.558Z",
+    "raw": "Br. Vlaka 69851 odlazak      20.03.26. 15:02, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
