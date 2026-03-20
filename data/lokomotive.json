@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "47428",
-    "event_time": "2026-03-17T12:08:00",
-    "seen_at": "2026-03-17T11:16:12.223Z",
-    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 12:08, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "47428",
-    "event_time": "2026-03-17T12:08:00",
-    "seen_at": "2026-03-17T11:16:12.223Z",
-    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 12:08, kolodvor KARLOVAC"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "SUNJA",
@@ -10519,5 +10501,14 @@
     "event_time": "2026-03-20T12:05:00",
     "seen_at": "2026-03-20T11:07:23.353Z",
     "raw": "Br. Vlaka 70200 odlazak      20.03.26. 12:05, kolodvor SVETI PETAR U ŠUMI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "ŽUPANJA",
+    "train_number": "44692",
+    "event_time": "2026-03-20T12:15:00",
+    "seen_at": "2026-03-20T11:15:56.984Z",
+    "raw": "Br. Vlaka 44692 formiran     20.03.26. 12:15, kolodvor ŽUPANJA"
   }
 ]
