@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81226",
-    "event_time": "2026-03-17T10:40:00",
-    "seen_at": "2026-03-17T09:47:11.626Z",
-    "raw": "Br. Vlaka 81226 dolazak      17.03.26. 10:40, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "89147",
-    "event_time": "2026-03-17T10:47:00",
-    "seen_at": "2026-03-17T09:48:16.904Z",
-    "raw": "Br. Vlaka 89147 formiran     17.03.26. 10:47, kolodvor OGULIN"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76600",
-    "event_time": "2026-03-17T10:48:00",
-    "seen_at": "2026-03-17T09:49:21.966Z",
-    "raw": "Br. Vlaka 76600 odlazak      17.03.26. 10:48, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T10:51:00",
-    "seen_at": "2026-03-17T09:51:24.417Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:51, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T10:51:00",
-    "seen_at": "2026-03-17T09:51:24.417Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:51, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -10384,5 +10339,23 @@
     "event_time": "2026-03-20T10:40:00",
     "seen_at": "2026-03-20T09:40:38.960Z",
     "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:40, kolodvor KUKAČA"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Dolazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "78010",
+    "event_time": "2026-03-20T10:47:00",
+    "seen_at": "2026-03-20T09:48:21.855Z",
+    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 10:47, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "KANFANAR",
+    "train_number": "70200",
+    "event_time": "2026-03-20T10:50:00",
+    "seen_at": "2026-03-20T09:51:02.736Z",
+    "raw": "Br. Vlaka 70200 odlazak      20.03.26. 10:50, kolodvor KANFANAR"
   }
 ]
