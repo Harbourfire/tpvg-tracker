@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89753",
-    "event_time": "2026-03-17T10:21:00",
-    "seen_at": "2026-03-17T09:27:14.114Z",
-    "raw": "Br. Vlaka 89753 formiran     17.03.26. 10:21, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "47428",
-    "event_time": "2026-03-17T10:30:00",
-    "seen_at": "2026-03-17T09:31:35.183Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:30, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "47428",
-    "event_time": "2026-03-17T10:30:00",
-    "seen_at": "2026-03-17T09:31:35.183Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 10:30, kolodvor KUKAČA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76600",
-    "event_time": "2026-03-17T10:31:00",
-    "seen_at": "2026-03-17T09:31:35.183Z",
-    "raw": "Br. Vlaka 76600 odlazak      17.03.26. 10:31, kolodvor SIBINJ"
-  },
-  {
     "uic": "987891162040",
     "type": "Dolazak",
     "station": "VINKOVCI",
@@ -10465,5 +10429,14 @@
     "event_time": "2026-03-20T10:26:00",
     "seen_at": "2026-03-20T09:27:03.626Z",
     "raw": "Br. Vlaka 89294 odlazak      20.03.26. 10:26, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "78010",
+    "event_time": "2026-03-20T10:32:00",
+    "seen_at": "2026-03-20T09:35:12.981Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:32, kolodvor OŠTARIJE"
   }
 ]
