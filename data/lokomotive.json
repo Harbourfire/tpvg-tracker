@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "81259",
-    "event_time": "2026-03-17T05:04:00",
-    "seen_at": "2026-03-17T04:05:18.966Z",
-    "raw": "Br. Vlaka 81259 dolazak      17.03.26. 05:04, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230142",
     "type": "Odlazak",
     "station": "DUGA RESA",
     "train_number": "81259",
@@ -10114,5 +10105,23 @@
     "event_time": "2026-03-20T03:44:00",
     "seen_at": "2026-03-20T02:45:28.992Z",
     "raw": "Br. Vlaka 48893 dolazak      20.03.26. 03:44, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T00:13:00",
+    "seen_at": "2026-03-20T04:11:11.731Z",
+    "raw": "Br. Vlaka 63305 formiran     20.03.26. 00:13, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T00:13:00",
+    "seen_at": "2026-03-20T04:11:11.731Z",
+    "raw": "Br. Vlaka 63305 formiran     20.03.26. 00:13, kolodvor OŠTARIJE"
   }
 ]
