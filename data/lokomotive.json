@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": null,
-    "event_time": "2026-03-17T15:20:00",
-    "seen_at": "2026-03-17T14:29:56.220Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": null,
-    "event_time": "2026-03-17T15:20:00",
-    "seen_at": "2026-03-17T14:29:56.220Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SAVSKI MAROF GRANICA",
@@ -10339,5 +10321,41 @@
     "event_time": "2026-03-20T15:20:00",
     "seen_at": "2026-03-20T14:22:23.778Z",
     "raw": "Br. Vlaka 78010 odlazak      20.03.26. 15:20, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-20T15:23:00",
+    "seen_at": "2026-03-20T14:27:13.688Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "78010",
+    "event_time": "2026-03-20T15:27:00",
+    "seen_at": "2026-03-20T14:27:58.593Z",
+    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 15:27, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-17T15:20:00",
+    "seen_at": "2026-03-20T14:30:35.957Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-17T15:20:00",
+    "seen_at": "2026-03-20T14:30:35.957Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
