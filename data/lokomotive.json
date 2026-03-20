@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69326",
-    "event_time": "2026-03-17T06:33:00",
-    "seen_at": "2026-03-17T05:35:12.171Z",
-    "raw": "Br. Vlaka 69326 odlazak      17.03.26. 06:33, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-14T06:34:00",
-    "seen_at": "2026-03-17T05:35:56.493Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "HORVATI",
-    "train_number": "81259",
-    "event_time": "2026-03-17T06:38:00",
-    "seen_at": "2026-03-17T05:41:17.564Z",
-    "raw": "Br. Vlaka 81259 dolazak      17.03.26. 06:38, kolodvor HORVATI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-03-17T06:41:00",
-    "seen_at": "2026-03-17T05:42:45.099Z",
-    "raw": "Br. Vlaka 71202 formiran     17.03.26. 06:41, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987893113470",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -10141,5 +10105,41 @@
     "event_time": "2026-03-20T06:28:00",
     "seen_at": "2026-03-20T05:30:15.702Z",
     "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:28, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2026-03-14T06:34:00",
+    "seen_at": "2026-03-20T05:36:32.717Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81283",
+    "event_time": "2026-03-20T04:42:00",
+    "seen_at": "2026-03-20T05:38:04.393Z",
+    "raw": "Br. Vlaka 81283 promjena sas 20.03.26. 04:42, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T06:35:00",
+    "seen_at": "2026-03-20T05:38:04.394Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:35, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T06:35:00",
+    "seen_at": "2026-03-20T05:38:04.394Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:35, kolodvor VRHOVINE"
   }
 ]
