@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Dolazak",
-    "station": "IVANKOVO",
-    "train_number": "71202",
-    "event_time": "2026-03-17T08:01:00",
-    "seen_at": "2026-03-17T07:01:10.631Z",
-    "raw": "Br. Vlaka 71202 dolazak      17.03.26. 08:01, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "IVANKOVO",
-    "train_number": null,
-    "event_time": "2026-03-17T08:01:00",
-    "seen_at": "2026-03-17T07:01:32.618Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "81259",
-    "event_time": "2026-03-17T08:00:00",
-    "seen_at": "2026-03-17T07:02:16.208Z",
-    "raw": "Br. Vlaka 81259 odlazak      17.03.26. 08:00, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "DRENOVCI",
@@ -10303,5 +10276,32 @@
     "event_time": "2026-03-20T07:50:00",
     "seen_at": "2026-03-20T06:54:51.255Z",
     "raw": "Br. Vlaka 81283 odlazak      20.03.26. 07:50, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "89301",
+    "event_time": "2026-03-20T08:01:00",
+    "seen_at": "2026-03-20T07:02:12.189Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:01, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "71207",
+    "event_time": "2026-03-20T08:01:00",
+    "seen_at": "2026-03-20T07:02:56.991Z",
+    "raw": "Br. Vlaka 71207 odlazak      20.03.26. 08:01, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89301",
+    "event_time": "2026-03-20T08:04:00",
+    "seen_at": "2026-03-20T07:06:19.326Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:04, kolodvor ČAČINCI"
   }
 ]
