@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "48581",
-    "event_time": "2026-03-17T19:01:00",
-    "seen_at": "2026-03-17T18:01:47.699Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.03.26. 19:01, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "69615",
-    "event_time": "2026-03-17T19:02:00",
-    "seen_at": "2026-03-17T18:02:53.091Z",
-    "raw": "Br. Vlaka 69615 odlazak      17.03.26. 19:02, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230142",
     "type": "Dolazak",
     "station": "ZDENČINA",
     "train_number": "48581",
@@ -10132,5 +10114,14 @@
     "event_time": "2026-03-20T16:23:00",
     "seen_at": "2026-03-20T15:23:50.791Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-03-20T19:03:00",
+    "seen_at": "2026-03-20T18:05:04.178Z",
+    "raw": "Br. Vlaka 61004 formiran     20.03.26. 19:03, kolodvor OSIJEK DONJI GRAD"
   }
 ]
