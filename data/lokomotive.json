@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76600",
-    "event_time": "2026-03-17T08:28:00",
-    "seen_at": "2026-03-17T07:28:37.741Z",
-    "raw": "Br. Vlaka 76600 formiran     17.03.26. 08:28, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-17T08:30:00",
-    "seen_at": "2026-03-17T07:30:27.626Z",
-    "raw": "Br. Vlaka 45105 odlazak      17.03.26. 08:30, kolodvor DRENOVCI"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "IZVAN HŽ - BRČKO",
@@ -10366,5 +10348,14 @@
     "event_time": "2026-03-20T08:21:00",
     "seen_at": "2026-03-20T07:22:10.341Z",
     "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:21, kolodvor SLATINA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "CABUNA",
+    "train_number": "89301",
+    "event_time": "2026-03-20T08:30:00",
+    "seen_at": "2026-03-20T07:31:10.880Z",
+    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:30, kolodvor CABUNA"
   }
 ]
