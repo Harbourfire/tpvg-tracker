@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47428",
-    "event_time": "2026-03-17T15:15:00",
-    "seen_at": "2026-03-17T14:15:22.077Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:15, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47428",
-    "event_time": "2026-03-17T15:15:00",
-    "seen_at": "2026-03-17T14:15:22.077Z",
-    "raw": "Br. Vlaka 47428 odlazak      17.03.26. 15:15, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-17T15:15:00",
-    "seen_at": "2026-03-17T14:15:22.077Z",
-    "raw": "Br. Vlaka 63310 formiran     17.03.26. 15:15, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF GRANICA",
-    "train_number": "47944",
-    "event_time": "2026-03-16T22:05:00",
-    "seen_at": "2026-03-17T14:24:19.431Z",
-    "raw": "Br. Vlaka 47944 formiran     16.03.26. 22:05, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230035",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF GRANICA",
     "train_number": null,
@@ -10312,5 +10276,68 @@
     "event_time": "2026-03-20T15:13:00",
     "seen_at": "2026-03-20T14:14:27.649Z",
     "raw": "Br. Vlaka 78010 odlazak      20.03.26. 15:13, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81972",
+    "event_time": "2026-03-20T15:13:00",
+    "seen_at": "2026-03-20T14:16:16.440Z",
+    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 15:13, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81972",
+    "event_time": "2026-03-20T15:13:00",
+    "seen_at": "2026-03-20T14:16:16.440Z",
+    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 15:13, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81972",
+    "event_time": "2026-03-20T15:21:00",
+    "seen_at": "2026-03-20T14:21:37.872Z",
+    "raw": "Br. Vlaka 81972 dolazak      20.03.26. 15:21, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81972",
+    "event_time": "2026-03-20T15:21:00",
+    "seen_at": "2026-03-20T14:21:37.872Z",
+    "raw": "Br. Vlaka 81972 dolazak      20.03.26. 15:21, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-20T15:21:00",
+    "seen_at": "2026-03-20T14:22:01.004Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-20T15:21:00",
+    "seen_at": "2026-03-20T14:22:01.004Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "78010",
+    "event_time": "2026-03-20T15:20:00",
+    "seen_at": "2026-03-20T14:22:23.778Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 15:20, kolodvor HORVATI"
   }
 ]
