@@ -2,51 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "ZAGREB ZAP. KOL.",
-    "train_number": "81284",
-    "event_time": "2026-03-17T20:53:00",
-    "seen_at": "2026-03-17T20:00:25.269Z",
-    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 20:53, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "60340",
-    "event_time": "2026-03-17T21:00:00",
-    "seen_at": "2026-03-17T20:01:09.521Z",
-    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 21:00, kolodvor PLAVNO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "81284",
-    "event_time": "2026-03-17T21:02:00",
-    "seen_at": "2026-03-17T20:02:36.651Z",
-    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 21:02, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "48581",
-    "event_time": "2026-03-17T21:03:00",
-    "seen_at": "2026-03-17T20:06:49.915Z",
-    "raw": "Br. Vlaka 48581 dolazak      17.03.26. 21:03, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81284",
-    "event_time": "2026-03-17T21:06:00",
-    "seen_at": "2026-03-17T20:07:11.885Z",
-    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 21:06, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "NOVI DVORI",
     "train_number": "81284",
     "event_time": "2026-03-17T21:10:00",
@@ -9826,5 +9781,23 @@
     "event_time": "2026-03-20T19:01:00",
     "seen_at": "2026-03-20T19:46:12.813Z",
     "raw": "Br. Vlaka 89708 formiran     20.03.26. 19:01, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T19:47:00",
+    "seen_at": "2026-03-20T20:09:10.420Z",
+    "raw": "Br. Vlaka 63305 formiran     20.03.26. 19:47, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-20T19:47:00",
+    "seen_at": "2026-03-20T20:09:10.420Z",
+    "raw": "Br. Vlaka 63305 formiran     20.03.26. 19:47, kolodvor OŠTARIJE"
   }
 ]
