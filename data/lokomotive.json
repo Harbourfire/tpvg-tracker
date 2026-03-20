@@ -1,68 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "71203",
-    "event_time": "2026-03-17T10:36:00",
-    "seen_at": "2026-03-17T09:37:15.116Z",
-    "raw": "Br. Vlaka 71203 dolazak      17.03.26. 10:36, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T10:37:00",
-    "seen_at": "2026-03-17T09:38:20.018Z",
-    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 10:37, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47428",
-    "event_time": "2026-03-17T10:37:00",
-    "seen_at": "2026-03-17T09:38:20.018Z",
-    "raw": "Br. Vlaka 47428 dolazak      17.03.26. 10:37, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-17T10:38:00",
-    "seen_at": "2026-03-17T09:39:03.626Z",
-    "raw": "Br. Vlaka 69006 odlazak      17.03.26. 10:38, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-17T10:36:00",
-    "seen_at": "2026-03-17T09:40:52.033Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "69006",
-    "event_time": "2026-03-17T10:44:00",
-    "seen_at": "2026-03-17T09:45:01.911Z",
-    "raw": "Br. Vlaka 69006 dolazak      17.03.26. 10:44, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-17T10:44:00",
-    "seen_at": "2026-03-17T09:45:23.539Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "SUNJA",
@@ -10438,5 +10375,14 @@
     "event_time": "2026-03-20T10:32:00",
     "seen_at": "2026-03-20T09:35:12.981Z",
     "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:32, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "78010",
+    "event_time": "2026-03-20T10:40:00",
+    "seen_at": "2026-03-20T09:40:38.960Z",
+    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:40, kolodvor KUKAČA"
   }
 ]
