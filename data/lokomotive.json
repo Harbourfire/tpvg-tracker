@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81284",
-    "event_time": "2026-03-17T22:06:00",
-    "seen_at": "2026-03-17T21:08:12.424Z",
-    "raw": "Br. Vlaka 81284 odlazak      17.03.26. 22:06, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-17T22:06:00",
-    "seen_at": "2026-03-17T21:08:12.425Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-17T21:39:00",
-    "seen_at": "2026-03-17T21:08:34.484Z",
-    "raw": "Br. Vlaka 63305 formiran     17.03.26. 21:39, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-17T21:39:00",
-    "seen_at": "2026-03-17T21:08:34.485Z",
-    "raw": "Br. Vlaka 63305 formiran     17.03.26. 21:39, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47944",
-    "event_time": "2026-03-17T22:09:00",
-    "seen_at": "2026-03-17T21:10:44.547Z",
-    "raw": "Br. Vlaka 47944 odlazak      17.03.26. 22:09, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "60340",
-    "event_time": "2026-03-17T22:10:00",
-    "seen_at": "2026-03-17T21:12:11.350Z",
-    "raw": "Br. Vlaka 60340 odlazak      17.03.26. 22:10, kolodvor LOVINAC"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -9718,5 +9664,41 @@
     "event_time": "2026-03-20T21:57:00",
     "seen_at": "2026-03-20T20:58:57.842Z",
     "raw": "Br. Vlaka 63305 odlazak      20.03.26. 21:57, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BIZOVAC",
+    "train_number": null,
+    "event_time": "2026-03-20T21:54:00",
+    "seen_at": "2026-03-20T21:05:54.473Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "BIZOVAC",
+    "train_number": "83811",
+    "event_time": "2026-03-20T19:01:00",
+    "seen_at": "2026-03-20T21:07:25.318Z",
+    "raw": "Br. Vlaka 83811 formiran     20.03.26. 19:01, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-20T22:08:00",
+    "seen_at": "2026-03-20T21:08:57.579Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 22:08, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-20T22:08:00",
+    "seen_at": "2026-03-20T21:08:57.579Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 22:08, kolodvor BLATA"
   }
 ]
