@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "48581",
-    "event_time": "2026-03-17T19:29:00",
-    "seen_at": "2026-03-17T18:30:03.879Z",
-    "raw": "Br. Vlaka 48581 dolazak      17.03.26. 19:29, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB RK",
-    "train_number": "89753",
-    "event_time": "2026-03-17T19:30:00",
-    "seen_at": "2026-03-17T18:30:48.336Z",
-    "raw": "Br. Vlaka 89753 dolazak      17.03.26. 19:30, kolodvor 72303"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-17T19:29:00",
-    "seen_at": "2026-03-17T18:30:48.336Z",
-    "raw": "Br. Vlaka 63310 odlazak      17.03.26. 19:29, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RK",
-    "train_number": null,
-    "event_time": "2026-03-17T19:30:00",
-    "seen_at": "2026-03-17T18:31:32.480Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
     "uic": "927820440265",
     "type": "Formiran",
     "station": "ZAGREB RK",
