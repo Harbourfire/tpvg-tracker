@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82298",
-    "event_time": "2026-03-17T14:17:00",
-    "seen_at": "2026-03-17T13:17:56.220Z",
-    "raw": "Br. Vlaka 82298 odlazak      17.03.26. 14:17, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81226",
-    "event_time": "2026-03-17T14:16:00",
-    "seen_at": "2026-03-17T13:18:18.629Z",
-    "raw": "Br. Vlaka 81226 odlazak      17.03.26. 14:16, kolodvor VELIKA GORICA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -10402,5 +10384,50 @@
     "event_time": "2026-03-20T14:03:00",
     "seen_at": "2026-03-20T13:04:04.735Z",
     "raw": "Br. Vlaka 47504 odlazak      20.03.26. 14:03, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "81972",
+    "event_time": "2026-03-20T14:05:00",
+    "seen_at": "2026-03-20T13:14:03.713Z",
+    "raw": "Br. Vlaka 81972 dolazak      20.03.26. 14:05, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "81972",
+    "event_time": "2026-03-20T14:05:00",
+    "seen_at": "2026-03-20T13:14:03.713Z",
+    "raw": "Br. Vlaka 81972 dolazak      20.03.26. 14:05, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "81972",
+    "event_time": "2026-03-20T14:05:00",
+    "seen_at": "2026-03-20T13:17:26.519Z",
+    "raw": "Br. Vlaka 81972 promjena sas 20.03.26. 14:05, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "81972",
+    "event_time": "2026-03-20T14:05:00",
+    "seen_at": "2026-03-20T13:17:26.519Z",
+    "raw": "Br. Vlaka 81972 promjena sas 20.03.26. 14:05, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "47504",
+    "event_time": "2026-03-20T14:17:00",
+    "seen_at": "2026-03-20T13:18:33.995Z",
+    "raw": "Br. Vlaka 47504 odlazak      20.03.26. 14:17, kolodvor SIBINJ"
   }
 ]
