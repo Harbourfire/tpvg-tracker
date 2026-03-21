@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82326",
-    "event_time": "2026-03-18T13:18:00",
-    "seen_at": "2026-03-18T12:18:33.703Z",
-    "raw": "Br. Vlaka 82326 odlazak      18.03.26. 13:18, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "47985",
-    "event_time": "2026-03-18T13:18:00",
-    "seen_at": "2026-03-18T12:18:33.704Z",
-    "raw": "Br. Vlaka 47985 dolazak      18.03.26. 13:18, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-18T13:18:00",
-    "seen_at": "2026-03-18T12:18:55.633Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "45586",
-    "event_time": "2026-03-18T13:21:00",
-    "seen_at": "2026-03-18T12:21:54.706Z",
-    "raw": "Br. Vlaka 45586 dolazak      18.03.26. 13:21, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81971",
-    "event_time": "2026-03-18T13:20:00",
-    "seen_at": "2026-03-18T12:21:54.706Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 13:20, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81971",
-    "event_time": "2026-03-18T13:20:00",
-    "seen_at": "2026-03-18T12:21:54.706Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 13:20, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -8647,5 +8593,23 @@
     "event_time": "2026-03-21T13:10:00",
     "seen_at": "2026-03-21T12:11:36.209Z",
     "raw": "Br. Vlaka 45104 odlazak      21.03.26. 13:10, kolodvor SPAČVA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "44691",
+    "event_time": "2026-03-21T13:20:00",
+    "seen_at": "2026-03-21T12:22:48.134Z",
+    "raw": "Br. Vlaka 44691 odlazak      21.03.26. 13:20, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ĐELETOVCI",
+    "train_number": "82514",
+    "event_time": "2026-03-21T13:22:00",
+    "seen_at": "2026-03-21T12:23:57.247Z",
+    "raw": "Br. Vlaka 82514 formiran     21.03.26. 13:22, kolodvor ĐELETOVCI"
   }
 ]
