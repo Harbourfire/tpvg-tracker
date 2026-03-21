@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "47939",
-    "event_time": "2026-03-18T17:47:00",
-    "seen_at": "2026-03-18T16:55:46.579Z",
-    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 17:47, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-18T17:39:00",
-    "seen_at": "2026-03-18T17:02:11.503Z",
-    "raw": "Br. Vlaka 69006 formiran     18.03.26. 17:39, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-18T17:39:00",
-    "seen_at": "2026-03-18T17:02:33.674Z",
-    "raw": "Br. Vlaka 69006 formiran     18.03.26. 17:39, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "LUPOGLAV",
-    "train_number": null,
-    "event_time": "2026-03-18T17:59:00",
-    "seen_at": "2026-03-18T17:02:55.720Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -8539,5 +8503,23 @@
     "event_time": "2026-03-21T17:45:00",
     "seen_at": "2026-03-21T16:47:19.643Z",
     "raw": "Br. Vlaka 89126 odlazak      21.03.26. 17:45, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47938",
+    "event_time": "2026-03-21T17:50:00",
+    "seen_at": "2026-03-21T16:56:33.913Z",
+    "raw": "Br. Vlaka 47938 odlazak      21.03.26. 17:50, kolodvor ROČ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89126",
+    "event_time": "2026-03-21T18:00:00",
+    "seen_at": "2026-03-21T17:01:28.898Z",
+    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:00, kolodvor KOŠKA"
   }
 ]
