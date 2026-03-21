@@ -2,24 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-18T04:08:00",
-    "seen_at": "2026-03-18T03:09:48.561Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:08, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-18T04:08:00",
-    "seen_at": "2026-03-18T03:09:48.561Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.03.26. 04:08, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "63306",
     "event_time": "2026-03-18T04:26:00",
@@ -9295,5 +9277,14 @@
     "event_time": "2026-03-21T02:55:00",
     "seen_at": "2026-03-21T02:38:57.169Z",
     "raw": "Br. Vlaka 63306 promjena sas 21.03.26. 02:55, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-21T04:08:00",
+    "seen_at": "2026-03-21T03:09:27.760Z",
+    "raw": "Br. Vlaka 63306 odlazak      21.03.26. 04:08, kolodvor RUDOPOLJE"
   }
 ]
