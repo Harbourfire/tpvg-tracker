@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89251",
-    "event_time": "2026-03-18T20:29:00",
-    "seen_at": "2026-03-18T19:29:50.392Z",
-    "raw": "Br. Vlaka 89251 odlazak      18.03.26. 20:29, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAPREŠIĆ",
     "train_number": "89251",
@@ -8440,5 +8431,23 @@
     "event_time": "2026-03-21T20:15:00",
     "seen_at": "2026-03-21T19:16:24.930Z",
     "raw": "Br. Vlaka 69486 formiran     21.03.26. 20:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69486",
+    "event_time": "2026-03-21T20:20:00",
+    "seen_at": "2026-03-21T19:26:15.261Z",
+    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69486",
+    "event_time": "2026-03-21T20:29:00",
+    "seen_at": "2026-03-21T19:30:28.614Z",
+    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:29, kolodvor IVANKOVO"
   }
 ]
