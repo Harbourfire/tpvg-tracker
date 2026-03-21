@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89723",
-    "event_time": "2026-03-19T00:32:00",
-    "seen_at": "2026-03-18T23:34:02.176Z",
-    "raw": "Br. Vlaka 89723 dolazak      19.03.26. 00:32, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "BJELOVAR",
@@ -8386,5 +8377,23 @@
     "event_time": "2026-03-21T21:23:00",
     "seen_at": "2026-03-21T23:23:02.666Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-22T00:33:00",
+    "seen_at": "2026-03-21T23:33:58.927Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 00:33, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-22T00:33:00",
+    "seen_at": "2026-03-21T23:33:58.928Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 00:33, kolodvor GOSPIĆ"
   }
 ]
