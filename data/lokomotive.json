@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69852",
-    "event_time": "2026-03-18T08:50:00",
-    "seen_at": "2026-03-18T07:53:34.245Z",
-    "raw": "Br. Vlaka 69852 odlazak      18.03.26. 08:50, kolodvor DALJ"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71202",
-    "event_time": "2026-03-18T08:53:00",
-    "seen_at": "2026-03-18T07:55:02.123Z",
-    "raw": "Br. Vlaka 71202 odlazak      18.03.26. 08:53, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -8953,5 +8935,14 @@
     "event_time": "2026-03-21T08:39:00",
     "seen_at": "2026-03-21T07:40:28.272Z",
     "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-03-20T21:46:00",
+    "seen_at": "2026-03-21T07:50:52.266Z",
+    "raw": "Br. Vlaka 47944 formiran     20.03.26. 21:46, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
