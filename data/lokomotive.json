@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81230",
-    "event_time": "2026-03-18T16:15:00",
-    "seen_at": "2026-03-18T15:16:48.970Z",
-    "raw": "Br. Vlaka 81230 dolazak      18.03.26. 16:15, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81230",
-    "event_time": "2026-03-18T16:15:00",
-    "seen_at": "2026-03-18T15:16:48.970Z",
-    "raw": "Br. Vlaka 81230 dolazak      18.03.26. 16:15, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44693",
-    "event_time": "2026-03-18T16:17:00",
-    "seen_at": "2026-03-18T15:17:32.409Z",
-    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 16:17, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47939",
-    "event_time": "2026-03-18T04:07:00",
-    "seen_at": "2026-03-18T15:18:38.688Z",
-    "raw": "Br. Vlaka 47939 promjena sas 18.03.26. 04:07, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -8584,5 +8548,23 @@
     "event_time": "2026-03-21T15:56:00",
     "seen_at": "2026-03-21T15:01:47.419Z",
     "raw": "Br. Vlaka 89126 dolazak      21.03.26. 15:56, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-21T16:12:00",
+    "seen_at": "2026-03-21T15:14:24.890Z",
+    "raw": "Br. Vlaka 63310 odlazak      21.03.26. 16:12, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-21T16:12:00",
+    "seen_at": "2026-03-21T15:14:24.890Z",
+    "raw": "Br. Vlaka 63310 odlazak      21.03.26. 16:12, kolodvor VRHOVINE"
   }
 ]
