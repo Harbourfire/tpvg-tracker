@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89753",
-    "event_time": "2026-03-18T11:06:00",
-    "seen_at": "2026-03-18T10:06:14.186Z",
-    "raw": "Br. Vlaka 89753 dolazak      18.03.26. 11:06, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-18T11:06:00",
-    "seen_at": "2026-03-18T10:06:35.936Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-03-18T11:05:00",
-    "seen_at": "2026-03-18T10:11:12.773Z",
-    "raw": "Br. Vlaka 71203 odlazak      18.03.26. 11:05, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48795",
-    "event_time": "2026-03-18T11:10:00",
-    "seen_at": "2026-03-18T10:11:34.729Z",
-    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 11:10, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -8845,5 +8809,14 @@
     "event_time": "2026-03-21T10:45:00",
     "seen_at": "2026-03-21T09:52:49.636Z",
     "raw": "Br. Vlaka 89800 dolazak      21.03.26. 10:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-18T11:06:00",
+    "seen_at": "2026-03-21T10:07:03.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
