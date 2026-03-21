@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89251",
-    "event_time": "2026-03-18T20:33:00",
-    "seen_at": "2026-03-18T19:34:13.967Z",
-    "raw": "Br. Vlaka 89251 dolazak      18.03.26. 20:33, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-18T20:33:00",
-    "seen_at": "2026-03-18T19:34:58.107Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44693",
-    "event_time": "2026-03-18T16:24:00",
-    "seen_at": "2026-03-18T19:37:32.391Z",
-    "raw": "Br. Vlaka 44693 promjena sas 18.03.26. 16:24, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45131",
-    "event_time": "2026-03-18T20:38:00",
-    "seen_at": "2026-03-18T19:38:51.790Z",
-    "raw": "Br. Vlaka 45131 formiran     18.03.26. 20:38, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "44693",
@@ -8449,5 +8413,14 @@
     "event_time": "2026-03-21T20:29:00",
     "seen_at": "2026-03-21T19:30:28.614Z",
     "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:29, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "69486",
+    "event_time": "2026-03-21T20:35:00",
+    "seen_at": "2026-03-21T19:35:20.552Z",
+    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:35, kolodvor STARI MIKANOVCI"
   }
 ]
