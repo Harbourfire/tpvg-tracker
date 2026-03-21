@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-18T22:58:00",
-    "seen_at": "2026-03-18T21:59:29.310Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 22:58, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-18T22:58:00",
-    "seen_at": "2026-03-18T21:59:29.310Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 22:58, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "VRBOVEC",
@@ -8440,5 +8422,50 @@
     "event_time": "2026-02-06T04:50:00",
     "seen_at": "2026-03-21T21:47:43.229Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-21T22:52:00",
+    "seen_at": "2026-03-21T21:53:11.487Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.03.26. 22:52, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-21T22:52:00",
+    "seen_at": "2026-03-21T21:53:11.487Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.03.26. 22:52, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "TUROPOLJE",
+    "train_number": "81291",
+    "event_time": "2026-03-21T22:50:00",
+    "seen_at": "2026-03-21T21:53:33.914Z",
+    "raw": "Br. Vlaka 81291 dolazak      21.03.26. 22:50, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KLOŠTAR",
+    "train_number": "89873",
+    "event_time": "2026-03-21T22:54:00",
+    "seen_at": "2026-03-21T21:59:57.438Z",
+    "raw": "Br. Vlaka 89873 dolazak      21.03.26. 22:54, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "KLOŠTAR",
+    "train_number": null,
+    "event_time": "2026-03-21T22:54:00",
+    "seen_at": "2026-03-21T22:00:19.909Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73008 KLOŠTAR"
   }
 ]
