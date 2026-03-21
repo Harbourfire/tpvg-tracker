@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-18T01:39:00",
-    "seen_at": "2026-03-18T00:40:29.847Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:39, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-18T01:39:00",
-    "seen_at": "2026-03-18T00:40:29.847Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:39, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-18T01:41:00",
-    "seen_at": "2026-03-18T00:42:56.030Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-18T01:45:00",
-    "seen_at": "2026-03-18T00:45:51.763Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -9421,5 +9385,14 @@
     "event_time": "2026-03-21T01:35:00",
     "seen_at": "2026-03-21T00:35:45.459Z",
     "raw": "Br. Vlaka 89710 odlazak      21.03.26. 01:35, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-03-21T01:41:00",
+    "seen_at": "2026-03-21T00:43:11.707Z",
+    "raw": "Br. Vlaka 63306 dolazak      21.03.26. 01:41, kolodvor LIČKO LEŠĆE"
   }
 ]
