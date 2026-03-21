@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44995",
-    "event_time": "2026-03-18T17:19:00",
-    "seen_at": "2026-03-18T16:21:04.412Z",
-    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 17:19, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47939",
-    "event_time": "2026-03-18T04:08:00",
-    "seen_at": "2026-03-18T16:21:47.783Z",
-    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 04:08, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "47939",
-    "event_time": "2026-03-18T17:00:00",
-    "seen_at": "2026-03-18T16:25:02.548Z",
-    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 17:00, kolodvor 77424"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "47939",
-    "event_time": "2026-03-18T17:07:00",
-    "seen_at": "2026-03-18T16:25:37.660Z",
-    "raw": "Br. Vlaka 47939 dolazak      18.03.26. 17:07, kolodvor BUZET"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -8539,5 +8503,23 @@
     "event_time": "2026-03-21T17:11:00",
     "seen_at": "2026-03-21T16:12:17.297Z",
     "raw": "Br. Vlaka 63310 odlazak      21.03.26. 17:11, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-21T17:24:00",
+    "seen_at": "2026-03-21T16:25:39.382Z",
+    "raw": "Br. Vlaka 63310 odlazak      21.03.26. 17:24, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-21T17:24:00",
+    "seen_at": "2026-03-21T16:25:39.382Z",
+    "raw": "Br. Vlaka 63310 odlazak      21.03.26. 17:24, kolodvor JOSIPDOL"
   }
 ]
