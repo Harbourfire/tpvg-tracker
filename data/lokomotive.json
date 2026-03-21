@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "47990",
-    "event_time": "2026-03-18T01:28:00",
-    "seen_at": "2026-03-18T00:28:14.766Z",
-    "raw": "Br. Vlaka 47990 odlazak      18.03.26. 01:28, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47944",
-    "event_time": "2026-03-18T01:28:00",
-    "seen_at": "2026-03-18T00:29:42.949Z",
-    "raw": "Br. Vlaka 47944 odlazak      18.03.26. 01:28, kolodvor 73164"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -9439,5 +9421,14 @@
     "event_time": "2026-03-20T19:26:00",
     "seen_at": "2026-03-21T00:12:08.234Z",
     "raw": "Br. Vlaka 89710 formiran     20.03.26. 19:26, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-21T01:21:00",
+    "seen_at": "2026-03-21T00:22:32.637Z",
+    "raw": "Br. Vlaka 63306 odlazak      21.03.26. 01:21, kolodvor PERUŠIĆ"
   }
 ]
