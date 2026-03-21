@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "48795",
-    "event_time": "2026-03-18T11:33:00",
-    "seen_at": "2026-03-18T10:34:22.439Z",
-    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 11:33, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -8800,5 +8791,41 @@
     "event_time": "2026-03-18T11:25:00",
     "seen_at": "2026-03-21T10:27:28.053Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-21T11:34:00",
+    "seen_at": "2026-03-21T10:35:12.177Z",
+    "raw": "Br. Vlaka 69005 odlazak      21.03.26. 11:34, kolodvor OGULIN"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89800",
+    "event_time": "2026-03-21T11:35:00",
+    "seen_at": "2026-03-21T10:35:58.130Z",
+    "raw": "Br. Vlaka 89800 odlazak      21.03.26. 11:35, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VRAPČANA",
+    "train_number": null,
+    "event_time": "2026-03-21T11:36:00",
+    "seen_at": "2026-03-21T10:38:36.932Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71301 VRAPČANA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-21T11:40:00",
+    "seen_at": "2026-03-21T10:41:39.150Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
