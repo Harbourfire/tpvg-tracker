@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44693",
-    "event_time": "2026-03-18T20:58:00",
-    "seen_at": "2026-03-18T20:01:52.365Z",
-    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 20:58, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44693",
-    "event_time": "2026-03-18T20:58:00",
-    "seen_at": "2026-03-18T20:01:52.367Z",
-    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 20:58, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820622029",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8440,5 +8422,14 @@
     "event_time": "2026-03-21T20:54:00",
     "seen_at": "2026-03-21T19:54:48.601Z",
     "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:54, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-21T21:05:00",
+    "seen_at": "2026-03-21T20:05:59.183Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
