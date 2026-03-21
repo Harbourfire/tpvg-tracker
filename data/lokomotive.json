@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48795",
-    "event_time": "2026-03-18T10:47:00",
-    "seen_at": "2026-03-18T09:49:12.876Z",
-    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 10:47, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48795",
-    "event_time": "2026-03-18T10:47:00",
-    "seen_at": "2026-03-18T09:49:12.877Z",
-    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 10:47, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-18T02:04:00",
-    "seen_at": "2026-03-18T09:52:10.126Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47562",
-    "event_time": "2026-03-17T23:08:00",
-    "seen_at": "2026-03-18T09:52:31.861Z",
-    "raw": "Br. Vlaka 47562 formiran     17.03.26. 23:08, kolodvor 72303"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "89753",
-    "event_time": "2026-03-18T10:27:00",
-    "seen_at": "2026-03-18T09:56:10.349Z",
-    "raw": "Br. Vlaka 89753 formiran     18.03.26. 10:27, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89753",
-    "event_time": "2026-03-18T10:55:00",
-    "seen_at": "2026-03-18T09:56:32.245Z",
-    "raw": "Br. Vlaka 89753 odlazak      18.03.26. 10:55, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "48795",
@@ -8899,5 +8845,23 @@
     "event_time": "2026-03-21T10:35:00",
     "seen_at": "2026-03-21T09:36:21.692Z",
     "raw": "Br. Vlaka 89800 odlazak      21.03.26. 10:35, kolodvor BREGI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "82171",
+    "event_time": "2026-03-21T10:49:00",
+    "seen_at": "2026-03-21T09:49:50.600Z",
+    "raw": "Br. Vlaka 82171 formiran     21.03.26. 10:49, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89800",
+    "event_time": "2026-03-21T10:45:00",
+    "seen_at": "2026-03-21T09:52:49.636Z",
+    "raw": "Br. Vlaka 89800 dolazak      21.03.26. 10:45, kolodvor KOPRIVNICA"
   }
 ]
