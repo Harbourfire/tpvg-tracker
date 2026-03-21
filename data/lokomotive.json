@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89920",
-    "event_time": "2026-03-18T11:43:00",
-    "seen_at": "2026-03-18T10:44:25.188Z",
-    "raw": "Br. Vlaka 89920 odlazak      18.03.26. 11:43, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81971",
-    "event_time": "2026-03-18T11:44:00",
-    "seen_at": "2026-03-18T10:45:09.349Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 11:44, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81971",
-    "event_time": "2026-03-18T11:44:00",
-    "seen_at": "2026-03-18T10:45:09.349Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 11:44, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81971",
-    "event_time": "2026-03-18T11:50:00",
-    "seen_at": "2026-03-18T10:50:57.918Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 11:50, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81971",
-    "event_time": "2026-03-18T11:50:00",
-    "seen_at": "2026-03-18T10:50:57.919Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 11:50, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -8827,5 +8782,32 @@
     "event_time": "2026-03-21T11:40:00",
     "seen_at": "2026-03-21T10:41:39.150Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "OŠTARIJE",
+    "train_number": "44691",
+    "event_time": "2026-03-21T08:03:00",
+    "seen_at": "2026-03-21T10:43:26.024Z",
+    "raw": "Br. Vlaka 44691 promjena sas 21.03.26. 08:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-03-21T11:45:00",
+    "seen_at": "2026-03-21T10:46:52.440Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "89801",
+    "event_time": "2026-03-21T11:47:00",
+    "seen_at": "2026-03-21T10:48:46.000Z",
+    "raw": "Br. Vlaka 89801 formiran     21.03.26. 11:47, kolodvor 73164"
   }
 ]
