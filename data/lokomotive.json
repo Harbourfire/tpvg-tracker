@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-03-18T08:06:00",
-    "seen_at": "2026-03-18T07:06:51.061Z",
-    "raw": "Br. Vlaka 71202 formiran     18.03.26. 08:06, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987891213314",
     "type": "Dolazak",
     "station": "OKUČANI",
@@ -8971,5 +8962,14 @@
     "event_time": "2026-03-21T07:55:00",
     "seen_at": "2026-03-21T06:59:21.358Z",
     "raw": "Br. Vlaka 45105 dolazak      21.03.26. 07:55, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "48597",
+    "event_time": "2026-03-21T07:39:00",
+    "seen_at": "2026-03-21T07:01:32.469Z",
+    "raw": "Br. Vlaka 48597 formiran     21.03.26. 07:39, kolodvor 77424"
   }
 ]
