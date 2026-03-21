@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48795",
-    "event_time": "2026-03-18T11:46:00",
-    "seen_at": "2026-03-18T10:52:24.555Z",
-    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 11:46, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48795",
-    "event_time": "2026-03-18T11:52:00",
-    "seen_at": "2026-03-18T10:58:05.970Z",
-    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 11:52, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-03-18T11:20:00",
-    "seen_at": "2026-03-18T10:58:49.761Z",
-    "raw": "Br. Vlaka 49827 promjena sas 18.03.26. 11:20, kolodvor ERDUT"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "KOTORIBA",
@@ -8809,5 +8782,23 @@
     "event_time": "2026-03-21T11:47:00",
     "seen_at": "2026-03-21T10:48:46.000Z",
     "raw": "Br. Vlaka 89801 formiran     21.03.26. 11:47, kolodvor 73164"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VRAPČANA",
+    "train_number": "89116",
+    "event_time": "2026-03-21T11:22:00",
+    "seen_at": "2026-03-21T10:56:59.533Z",
+    "raw": "Br. Vlaka 89116 formiran     21.03.26. 11:22, kolodvor VRAPČANA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VRAPČANA",
+    "train_number": "89116",
+    "event_time": "2026-03-21T11:57:00",
+    "seen_at": "2026-03-21T10:57:21.991Z",
+    "raw": "Br. Vlaka 89116 odlazak      21.03.26. 11:57, kolodvor VRAPČANA"
   }
 ]
