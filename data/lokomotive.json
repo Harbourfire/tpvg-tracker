@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89723",
-    "event_time": "2026-03-19T00:43:00",
-    "seen_at": "2026-03-18T23:43:41.841Z",
-    "raw": "Br. Vlaka 89723 dolazak      19.03.26. 00:43, kolodvor 73164"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-03-19T00:43:00",
-    "seen_at": "2026-03-18T23:44:03.520Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-19T00:44:00",
-    "seen_at": "2026-03-18T23:45:08.561Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.03.26. 00:44, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-19T00:44:00",
-    "seen_at": "2026-03-18T23:45:08.561Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.03.26. 00:44, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "NOVO DRNJE",
-    "train_number": "45990",
-    "event_time": "2026-03-18T21:53:00",
-    "seen_at": "2026-03-18T23:48:24.436Z",
-    "raw": "Br. Vlaka 45990 formiran     18.03.26. 21:53, kolodvor 73164"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-19T00:46:00",
-    "seen_at": "2026-03-18T23:48:24.436Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -8386,5 +8332,23 @@
     "event_time": "2026-03-21T07:24:00",
     "seen_at": "2026-03-21T23:36:25.652Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-22T00:46:00",
+    "seen_at": "2026-03-21T23:47:36.332Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 00:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-22T00:46:00",
+    "seen_at": "2026-03-21T23:47:36.332Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 00:46, kolodvor PERUŠIĆ"
   }
 ]
