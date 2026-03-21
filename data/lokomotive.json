@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "BJELOVAR",
-    "train_number": "44693",
-    "event_time": "2026-03-19T00:35:00",
-    "seen_at": "2026-03-18T23:35:50.484Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 00:35, kolodvor BJELOVAR"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89723",
-    "event_time": "2026-03-19T00:35:00",
-    "seen_at": "2026-03-18T23:36:12.369Z",
-    "raw": "Br. Vlaka 89723 odlazak      19.03.26. 00:35, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "NOVO DRNJE",
@@ -8395,5 +8377,14 @@
     "event_time": "2026-03-22T00:33:00",
     "seen_at": "2026-03-21T23:33:58.928Z",
     "raw": "Br. Vlaka 63306 odlazak      22.03.26. 00:33, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-21T07:24:00",
+    "seen_at": "2026-03-21T23:36:25.652Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
