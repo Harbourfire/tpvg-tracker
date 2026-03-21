@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48795",
-    "event_time": "2026-03-18T09:51:00",
-    "seen_at": "2026-03-18T08:51:34.692Z",
-    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 09:51, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48795",
-    "event_time": "2026-03-18T09:51:00",
-    "seen_at": "2026-03-18T08:51:34.693Z",
-    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 09:51, kolodvor VRBOVEC"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -8998,5 +8980,14 @@
     "event_time": "2026-03-21T09:35:00",
     "seen_at": "2026-03-21T08:36:54.628Z",
     "raw": "Br. Vlaka 89800 odlazak      21.03.26. 09:35, kolodvor VIRJE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "BREGI",
+    "train_number": "89800",
+    "event_time": "2026-03-21T09:47:00",
+    "seen_at": "2026-03-21T08:49:14.076Z",
+    "raw": "Br. Vlaka 89800 dolazak      21.03.26. 09:47, kolodvor BREGI"
   }
 ]
