@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-03-18T10:10:00",
-    "seen_at": "2026-03-18T09:11:29.038Z",
-    "raw": "Br. Vlaka 71203 formiran     18.03.26. 10:10, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "48795",
-    "event_time": "2026-03-18T10:16:00",
-    "seen_at": "2026-03-18T09:16:26.694Z",
-    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:16, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "48795",
-    "event_time": "2026-03-18T10:16:00",
-    "seen_at": "2026-03-18T09:16:26.696Z",
-    "raw": "Br. Vlaka 48795 odlazak      18.03.26. 10:16, kolodvor DUGO SELO"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -8989,5 +8962,23 @@
     "event_time": "2026-03-21T10:06:00",
     "seen_at": "2026-03-21T09:08:41.292Z",
     "raw": "Br. Vlaka 69006 odlazak      21.03.26. 10:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-21T10:13:00",
+    "seen_at": "2026-03-21T09:13:49.973Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-21T08:35:00",
+    "seen_at": "2026-03-21T09:18:23.263Z",
+    "raw": "Br. Vlaka 69005 formiran     21.03.26. 08:35, kolodvor OGULIN"
   }
 ]
