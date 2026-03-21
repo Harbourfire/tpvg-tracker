@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "45586",
-    "event_time": "2026-03-18T13:09:00",
-    "seen_at": "2026-03-18T12:11:41.805Z",
-    "raw": "Br. Vlaka 45586 odlazak      18.03.26. 13:09, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -8620,5 +8611,41 @@
     "event_time": "2026-03-21T12:53:00",
     "seen_at": "2026-03-21T11:54:37.617Z",
     "raw": "Br. Vlaka 44691 odlazak      21.03.26. 12:53, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "44691",
+    "event_time": "2026-03-21T13:04:00",
+    "seen_at": "2026-03-21T12:07:26.324Z",
+    "raw": "Br. Vlaka 44691 dolazak      21.03.26. 13:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "44691",
+    "event_time": "2026-03-21T12:53:00",
+    "seen_at": "2026-03-21T12:08:57.796Z",
+    "raw": "Br. Vlaka 44691 odlazak      21.03.26. 12:53, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "44691",
+    "event_time": "2026-03-21T13:04:00",
+    "seen_at": "2026-03-21T12:10:06.112Z",
+    "raw": "Br. Vlaka 44691 dolazak      21.03.26. 13:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-03-21T13:10:00",
+    "seen_at": "2026-03-21T12:11:36.209Z",
+    "raw": "Br. Vlaka 45104 odlazak      21.03.26. 13:10, kolodvor SPAČVA"
   }
 ]
