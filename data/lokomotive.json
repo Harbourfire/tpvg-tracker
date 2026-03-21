@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "89718",
-    "event_time": "2026-03-17T23:13:00",
-    "seen_at": "2026-03-18T00:05:40.964Z",
-    "raw": "Br. Vlaka 89718 formiran     17.03.26. 23:13, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-18T01:03:00",
-    "seen_at": "2026-03-18T00:05:40.966Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:03, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-18T01:03:00",
-    "seen_at": "2026-03-18T00:05:40.966Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.03.26. 01:03, kolodvor BLATA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89718",
-    "event_time": "2026-03-18T01:05:00",
-    "seen_at": "2026-03-18T00:06:02.951Z",
-    "raw": "Br. Vlaka 89718 odlazak      18.03.26. 01:05, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47990",
-    "event_time": "2026-03-18T01:07:00",
-    "seen_at": "2026-03-18T00:08:14.479Z",
-    "raw": "Br. Vlaka 47990 odlazak      18.03.26. 01:07, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -9475,5 +9430,14 @@
     "event_time": "2026-03-21T00:23:00",
     "seen_at": "2026-03-20T23:26:47.607Z",
     "raw": "Br. Vlaka 83811 odlazak      21.03.26. 00:23, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-21T01:07:00",
+    "seen_at": "2026-03-21T00:08:28.490Z",
+    "raw": "Br. Vlaka 63306 odlazak      21.03.26. 01:07, kolodvor GOSPIĆ"
   }
 ]
