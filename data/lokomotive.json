@@ -2,15 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47939",
-    "event_time": "2026-03-18T03:25:00",
-    "seen_at": "2026-03-18T02:25:17.328Z",
-    "raw": "Br. Vlaka 47939 odlazak      18.03.26. 03:25, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "47939",
     "event_time": "2026-03-18T03:45:00",
@@ -9313,5 +9304,41 @@
     "event_time": "2026-03-21T03:14:00",
     "seen_at": "2026-03-21T02:16:33.062Z",
     "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63308",
+    "event_time": "2026-03-20T23:28:00",
+    "seen_at": "2026-03-21T02:22:05.493Z",
+    "raw": "Br. Vlaka 63308 formiran     20.03.26. 23:28, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "61004",
+    "event_time": "2026-03-21T03:22:00",
+    "seen_at": "2026-03-21T02:23:36.116Z",
+    "raw": "Br. Vlaka 61004 dolazak      21.03.26. 03:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-20T22:41:00",
+    "seen_at": "2026-03-21T02:23:58.759Z",
+    "raw": "Br. Vlaka 45105 formiran     20.03.26. 22:41, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63308",
+    "event_time": "2026-03-21T03:27:00",
+    "seen_at": "2026-03-21T02:28:05.456Z",
+    "raw": "Br. Vlaka 63308 odlazak      21.03.26. 03:27, kolodvor VRHOVINE"
   }
 ]
