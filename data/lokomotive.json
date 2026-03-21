@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "45586",
-    "event_time": "2026-03-18T13:46:00",
-    "seen_at": "2026-03-18T12:46:43.484Z",
-    "raw": "Br. Vlaka 45586 dolazak      18.03.26. 13:46, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-18T13:46:00",
-    "seen_at": "2026-03-18T12:47:05.629Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "44693",
-    "event_time": "2026-03-17T23:09:00",
-    "seen_at": "2026-03-18T12:48:34.109Z",
-    "raw": "Br. Vlaka 44693 formiran     17.03.26. 23:09, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -8539,5 +8512,23 @@
     "event_time": "2026-03-21T13:40:00",
     "seen_at": "2026-03-21T12:41:22.600Z",
     "raw": "Br. Vlaka 44691 odlazak      21.03.26. 13:40, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-21T13:45:00",
+    "seen_at": "2026-03-21T12:47:22.362Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "44691",
+    "event_time": "2026-03-21T13:47:00",
+    "seen_at": "2026-03-21T12:48:30.766Z",
+    "raw": "Br. Vlaka 44691 odlazak      21.03.26. 13:47, kolodvor VRHOVINE"
   }
 ]
