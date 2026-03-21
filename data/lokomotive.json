@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81971",
-    "event_time": "2026-03-18T12:35:00",
-    "seen_at": "2026-03-18T11:36:52.536Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:35, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81971",
-    "event_time": "2026-03-18T12:35:00",
-    "seen_at": "2026-03-18T11:36:52.536Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:35, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8719,5 +8701,32 @@
     "event_time": "2026-03-21T12:21:00",
     "seen_at": "2026-03-21T11:25:00.685Z",
     "raw": "Br. Vlaka 44691 odlazak      21.03.26. 12:21, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "44691",
+    "event_time": "2026-03-21T12:27:00",
+    "seen_at": "2026-03-21T11:30:49.043Z",
+    "raw": "Br. Vlaka 44691 odlazak      21.03.26. 12:27, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "48597",
+    "event_time": "2026-03-21T12:19:00",
+    "seen_at": "2026-03-21T11:33:04.046Z",
+    "raw": "Br. Vlaka 48597 odlazak      21.03.26. 12:19, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "48597",
+    "event_time": "2026-03-21T12:31:00",
+    "seen_at": "2026-03-21T11:34:11.317Z",
+    "raw": "Br. Vlaka 48597 odlazak      21.03.26. 12:31, kolodvor BUZET"
   }
 ]
