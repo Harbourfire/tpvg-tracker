@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81230",
-    "event_time": "2026-03-18T16:45:00",
-    "seen_at": "2026-03-18T15:46:24.146Z",
-    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 16:45, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81230",
-    "event_time": "2026-03-18T16:45:00",
-    "seen_at": "2026-03-18T15:46:24.146Z",
-    "raw": "Br. Vlaka 81230 odlazak      18.03.26. 16:45, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -8530,5 +8512,32 @@
     "event_time": "2026-03-21T16:22:00",
     "seen_at": "2026-03-21T15:22:52.294Z",
     "raw": "Br. Vlaka 63310 odlazak      21.03.26. 16:22, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-03-21T16:40:00",
+    "seen_at": "2026-03-21T15:42:12.221Z",
+    "raw": "Br. Vlaka 63310 dolazak      21.03.26. 16:40, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-03-21T16:40:00",
+    "seen_at": "2026-03-21T15:42:12.222Z",
+    "raw": "Br. Vlaka 63310 dolazak      21.03.26. 16:40, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89126",
+    "event_time": "2026-03-21T16:46:00",
+    "seen_at": "2026-03-21T15:47:08.761Z",
+    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 16:46, kolodvor OSIJEK"
   }
 ]
