@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-19T00:09:00",
-    "seen_at": "2026-03-18T23:09:56.242Z",
-    "raw": "Br. Vlaka 63305 dolazak      19.03.26. 00:09, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-19T00:09:00",
-    "seen_at": "2026-03-18T23:09:56.242Z",
-    "raw": "Br. Vlaka 63305 dolazak      19.03.26. 00:09, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-19T00:09:00",
-    "seen_at": "2026-03-18T23:10:18.110Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-19T00:09:00",
-    "seen_at": "2026-03-18T23:10:18.110Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-18T22:37:00",
-    "seen_at": "2026-03-18T23:11:24.193Z",
-    "raw": "Br. Vlaka 63306 formiran     18.03.26. 22:37, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-18T22:37:00",
-    "seen_at": "2026-03-18T23:11:24.193Z",
-    "raw": "Br. Vlaka 63306 formiran     18.03.26. 22:37, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89723",
-    "event_time": "2026-03-19T00:11:00",
-    "seen_at": "2026-03-18T23:12:29.353Z",
-    "raw": "Br. Vlaka 89723 odlazak      19.03.26. 00:11, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "44693",
-    "event_time": "2026-03-19T00:10:00",
-    "seen_at": "2026-03-18T23:14:10.010Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 00:10, kolodvor SV. IVAN ŽABNO"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "MUČNA REKA",
@@ -8440,5 +8368,23 @@
     "event_time": "2026-03-21T23:58:00",
     "seen_at": "2026-03-21T22:59:29.529Z",
     "raw": "Br. Vlaka 81291 odlazak      21.03.26. 23:58, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "89162",
+    "event_time": "2026-03-21T23:58:00",
+    "seen_at": "2026-03-21T23:08:23.155Z",
+    "raw": "Br. Vlaka 89162 dolazak      21.03.26. 23:58, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81291",
+    "event_time": "2026-03-22T00:12:00",
+    "seen_at": "2026-03-21T23:15:16.289Z",
+    "raw": "Br. Vlaka 81291 dolazak      22.03.26. 00:12, kolodvor SISAK CAPRAG"
   }
 ]
