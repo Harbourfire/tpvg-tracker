@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48795",
-    "event_time": "2026-03-17T11:30:00",
-    "seen_at": "2026-03-18T02:03:12.772Z",
-    "raw": "Br. Vlaka 48795 formiran     17.03.26. 11:30, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -9322,5 +9313,32 @@
     "event_time": "2026-03-21T02:45:00",
     "seen_at": "2026-03-21T01:46:42.721Z",
     "raw": "Br. Vlaka 63306 odlazak      21.03.26. 02:45, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-21T06:04:00",
+    "seen_at": "2026-03-21T02:05:05.685Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69173",
+    "event_time": "2026-03-20T23:28:00",
+    "seen_at": "2026-03-21T02:05:28.550Z",
+    "raw": "Br. Vlaka 69173 formiran     20.03.26. 23:28, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69173",
+    "event_time": "2026-03-21T03:08:00",
+    "seen_at": "2026-03-21T02:09:58.821Z",
+    "raw": "Br. Vlaka 69173 odlazak      21.03.26. 03:08, kolodvor RUDOPOLJE"
   }
 ]
