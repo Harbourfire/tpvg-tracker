@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-18T17:39:00",
-    "seen_at": "2026-03-18T17:22:21.474Z",
-    "raw": "Br. Vlaka 69005 formiran     18.03.26. 17:39, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44995",
-    "event_time": "2026-03-18T18:24:00",
-    "seen_at": "2026-03-18T17:26:12.191Z",
-    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 18:24, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -8503,5 +8485,32 @@
     "event_time": "2026-03-21T18:15:00",
     "seen_at": "2026-03-21T17:15:19.715Z",
     "raw": "Br. Vlaka 89126 dolazak      21.03.26. 18:15, kolodvor NAŠICE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-03-21T11:47:00",
+    "seen_at": "2026-03-21T17:26:51.102Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "89126",
+    "event_time": "2026-03-21T18:27:00",
+    "seen_at": "2026-03-21T17:27:36.042Z",
+    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:27, kolodvor NAŠICE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "89801",
+    "event_time": "2026-03-21T18:30:00",
+    "seen_at": "2026-03-21T17:31:21.706Z",
+    "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:30, kolodvor 73164"
   }
 ]
