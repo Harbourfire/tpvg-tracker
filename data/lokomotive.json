@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "89920",
-    "event_time": "2026-03-18T11:56:00",
-    "seen_at": "2026-03-18T11:03:26.244Z",
-    "raw": "Br. Vlaka 89920 dolazak      18.03.26. 11:56, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81971",
-    "event_time": "2026-03-18T12:04:00",
-    "seen_at": "2026-03-18T11:05:15.657Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:04, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81971",
-    "event_time": "2026-03-18T12:04:00",
-    "seen_at": "2026-03-18T11:05:15.657Z",
-    "raw": "Br. Vlaka 81971 odlazak      18.03.26. 12:04, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89920",
-    "event_time": "2026-03-18T12:05:00",
-    "seen_at": "2026-03-18T11:07:50.631Z",
-    "raw": "Br. Vlaka 89920 odlazak      18.03.26. 12:05, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-18T22:16:00",
-    "seen_at": "2026-03-18T11:08:12.476Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
     "uic": "927820440265",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8800,5 +8755,23 @@
     "event_time": "2026-03-21T11:57:00",
     "seen_at": "2026-03-21T10:57:21.991Z",
     "raw": "Br. Vlaka 89116 odlazak      21.03.26. 11:57, kolodvor VRAPČANA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89116",
+    "event_time": "2026-03-21T12:02:00",
+    "seen_at": "2026-03-21T11:05:06.985Z",
+    "raw": "Br. Vlaka 89116 dolazak      21.03.26. 12:02, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-21T12:02:00",
+    "seen_at": "2026-03-21T11:05:29.358Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
