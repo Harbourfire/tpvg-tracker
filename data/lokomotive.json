@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-03-18T08:44:00",
-    "seen_at": "2026-03-18T07:45:35.779Z",
-    "raw": "Br. Vlaka 71202 odlazak      18.03.26. 08:44, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "DALJ",
@@ -8953,5 +8944,14 @@
     "event_time": "2026-03-21T08:30:00",
     "seen_at": "2026-03-21T07:30:29.036Z",
     "raw": "Br. Vlaka 45105 odlazak      21.03.26. 08:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-03-21T08:39:00",
+    "seen_at": "2026-03-21T07:40:28.272Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
   }
 ]
