@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44693",
-    "event_time": "2026-03-18T20:52:00",
-    "seen_at": "2026-03-18T19:52:55.716Z",
-    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 20:52, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44693",
-    "event_time": "2026-03-18T20:52:00",
-    "seen_at": "2026-03-18T19:52:55.718Z",
-    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 20:52, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "44693",
@@ -8449,5 +8431,14 @@
     "event_time": "2026-03-21T20:49:00",
     "seen_at": "2026-03-21T19:50:25.583Z",
     "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:49, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "69486",
+    "event_time": "2026-03-21T20:54:00",
+    "seen_at": "2026-03-21T19:54:48.601Z",
+    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:54, kolodvor GARČIN"
   }
 ]
