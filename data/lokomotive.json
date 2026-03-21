@@ -2,24 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44995",
-    "event_time": "2026-03-18T18:44:00",
-    "seen_at": "2026-03-18T17:45:09.763Z",
-    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 18:44, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44995",
-    "event_time": "2026-03-18T18:55:00",
-    "seen_at": "2026-03-18T17:57:46.837Z",
-    "raw": "Br. Vlaka 44995 dolazak      18.03.26. 18:55, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "ZABOK",
     "train_number": "44995",
     "event_time": "2026-03-18T19:05:00",
@@ -8566,5 +8548,32 @@
     "event_time": "2026-03-21T18:38:00",
     "seen_at": "2026-03-21T17:39:49.909Z",
     "raw": "Br. Vlaka 89801 dolazak      21.03.26. 18:38, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "89126",
+    "event_time": "2026-03-21T18:48:00",
+    "seen_at": "2026-03-21T17:50:21.621Z",
+    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:48, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "89126",
+    "event_time": "2026-03-21T18:55:00",
+    "seen_at": "2026-03-21T17:57:14.072Z",
+    "raw": "Br. Vlaka 89126 dolazak      21.03.26. 18:55, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-03-21T18:55:00",
+    "seen_at": "2026-03-21T17:57:59.869Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
   }
 ]
