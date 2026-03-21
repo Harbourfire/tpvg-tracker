@@ -2,15 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44995",
-    "event_time": "2026-03-18T18:33:00",
-    "seen_at": "2026-03-18T17:33:42.565Z",
-    "raw": "Br. Vlaka 44995 odlazak      18.03.26. 18:33, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "BEDEKOVČINA",
     "train_number": "44995",
     "event_time": "2026-03-18T18:44:00",
@@ -8512,5 +8503,68 @@
     "event_time": "2026-03-21T18:30:00",
     "seen_at": "2026-03-21T17:31:21.706Z",
     "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:30, kolodvor 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-03-21T18:30:00",
+    "seen_at": "2026-03-21T17:32:42.491Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "89801",
+    "event_time": "2026-03-21T18:33:00",
+    "seen_at": "2026-03-21T17:33:27.549Z",
+    "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:33, kolodvor 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-03-21T18:33:00",
+    "seen_at": "2026-03-21T17:34:34.764Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "89801",
+    "event_time": "2026-03-21T18:34:00",
+    "seen_at": "2026-03-21T17:35:19.578Z",
+    "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:34, kolodvor 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89801",
+    "event_time": "2026-03-21T18:25:00",
+    "seen_at": "2026-03-21T17:36:04.605Z",
+    "raw": "Br. Vlaka 89801 odlazak      21.03.26. 18:25, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "89126",
+    "event_time": "2026-03-21T18:37:00",
+    "seen_at": "2026-03-21T17:38:19.824Z",
+    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:37, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89801",
+    "event_time": "2026-03-21T18:38:00",
+    "seen_at": "2026-03-21T17:39:49.909Z",
+    "raw": "Br. Vlaka 89801 dolazak      21.03.26. 18:38, kolodvor KOPRIVNICA"
   }
 ]
