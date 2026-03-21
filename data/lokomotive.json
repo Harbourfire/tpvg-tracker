@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89540",
-    "event_time": "2026-03-18T08:57:00",
-    "seen_at": "2026-03-18T07:57:36.015Z",
-    "raw": "Br. Vlaka 89540 odlazak      18.03.26. 08:57, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "ERDUT",
-    "train_number": null,
-    "event_time": "2026-03-18T09:01:00",
-    "seen_at": "2026-03-18T08:04:25.587Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
-  },
-  {
     "uic": "987891162040",
     "type": "Dolazak",
     "station": "STARI MIKANOVCI",
@@ -8944,5 +8926,32 @@
     "event_time": "2026-03-20T21:46:00",
     "seen_at": "2026-03-21T07:50:52.266Z",
     "raw": "Br. Vlaka 47944 formiran     20.03.26. 21:46, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "ĐURĐEVAC",
+    "train_number": "89800",
+    "event_time": "2026-03-21T08:56:00",
+    "seen_at": "2026-03-21T07:57:08.197Z",
+    "raw": "Br. Vlaka 89800 formiran     21.03.26. 08:56, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-03-21T08:56:00",
+    "seen_at": "2026-03-21T08:00:33.205Z",
+    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 08:56, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47944",
+    "event_time": "2026-03-21T09:00:00",
+    "seen_at": "2026-03-21T08:00:56.169Z",
+    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 09:00, kolodvor SAVSKI MAROF"
   }
 ]
