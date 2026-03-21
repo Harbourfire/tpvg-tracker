@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "69612",
-    "event_time": "2026-03-18T07:03:00",
-    "seen_at": "2026-03-18T06:04:13.106Z",
-    "raw": "Br. Vlaka 69612 odlazak      18.03.26. 07:03, kolodvor 72302"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76501",
-    "event_time": "2026-03-18T07:06:00",
-    "seen_at": "2026-03-18T06:06:26.878Z",
-    "raw": "Br. Vlaka 76501 odlazak      18.03.26. 07:06, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48795",
-    "event_time": "2026-03-18T07:09:00",
-    "seen_at": "2026-03-18T06:10:29.909Z",
-    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 07:09, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48795",
-    "event_time": "2026-03-18T07:09:00",
-    "seen_at": "2026-03-18T06:10:29.911Z",
-    "raw": "Br. Vlaka 48795 dolazak      18.03.26. 07:09, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-03-18T07:09:00",
-    "seen_at": "2026-03-18T06:11:14.136Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
     "uic": "987891213314",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -8935,5 +8890,14 @@
     "event_time": "2026-03-21T05:06:00",
     "seen_at": "2026-03-21T04:09:07.126Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-21T07:05:00",
+    "seen_at": "2026-03-21T06:06:26.864Z",
+    "raw": "Br. Vlaka 45105 odlazak      21.03.26. 07:05, kolodvor VINKOVCI"
   }
 ]
