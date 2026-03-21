@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "44693",
-    "event_time": "2026-03-18T23:09:00",
-    "seen_at": "2026-03-18T22:10:58.100Z",
-    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 23:09, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "44693",
-    "event_time": "2026-03-18T23:09:00",
-    "seen_at": "2026-03-18T22:10:58.101Z",
-    "raw": "Br. Vlaka 44693 dolazak      18.03.26. 23:09, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "VRBOVEC",
-    "train_number": null,
-    "event_time": "2026-03-18T17:04:00",
-    "seen_at": "2026-03-18T22:12:26.506Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "VRBOVEC",
-    "train_number": null,
-    "event_time": "2026-03-18T17:04:00",
-    "seen_at": "2026-03-18T22:12:48.966Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "VRBOVEC",
-    "train_number": "44693",
-    "event_time": "2026-03-18T23:09:00",
-    "seen_at": "2026-03-18T22:12:48.967Z",
-    "raw": "Br. Vlaka 44693 promjena sas 18.03.26. 23:09, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "VRBOVEC",
-    "train_number": "89723",
-    "event_time": "2026-03-18T13:03:00",
-    "seen_at": "2026-03-18T22:13:10.789Z",
-    "raw": "Br. Vlaka 89723 formiran     18.03.26. 13:03, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-12T23:04:00",
-    "seen_at": "2026-03-18T22:13:54.355Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -8512,5 +8449,23 @@
     "event_time": "2026-03-21T23:09:00",
     "seen_at": "2026-03-21T22:10:16.196Z",
     "raw": "Br. Vlaka 63305 odlazak      21.03.26. 23:09, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-12T23:04:00",
+    "seen_at": "2026-03-21T22:14:20.387Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "81291",
+    "event_time": "2026-03-21T23:14:00",
+    "seen_at": "2026-03-21T22:16:38.148Z",
+    "raw": "Br. Vlaka 81291 odlazak      21.03.26. 23:14, kolodvor LEKENIK"
   }
 ]
