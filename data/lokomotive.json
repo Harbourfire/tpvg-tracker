@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "76501",
-    "event_time": "2026-03-18T07:55:00",
-    "seen_at": "2026-03-18T06:55:40.530Z",
-    "raw": "Br. Vlaka 76501 odlazak      18.03.26. 07:55, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "987891162040",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -8944,5 +8935,41 @@
     "event_time": "2026-03-15T07:35:00",
     "seen_at": "2026-03-21T06:41:53.389Z",
     "raw": "Trenutna pozicija je u kolodvoru 72503 BANOVA JARUGA"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "PLETERNICA",
+    "train_number": null,
+    "event_time": "2026-03-21T07:50:00",
+    "seen_at": "2026-03-21T06:54:06.942Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-03-21T07:55:00",
+    "seen_at": "2026-03-21T06:57:06.716Z",
+    "raw": "Br. Vlaka 89690 odlazak      21.03.26. 07:55, kolodvor BUZET"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-21T07:44:00",
+    "seen_at": "2026-03-21T06:57:29.213Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-21T07:55:00",
+    "seen_at": "2026-03-21T06:59:21.358Z",
+    "raw": "Br. Vlaka 45105 dolazak      21.03.26. 07:55, kolodvor DRENOVCI"
   }
 ]
