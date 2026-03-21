@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44693",
-    "event_time": "2026-03-18T20:47:00",
-    "seen_at": "2026-03-18T19:48:31.284Z",
-    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 20:47, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44693",
-    "event_time": "2026-03-18T20:47:00",
-    "seen_at": "2026-03-18T19:48:31.285Z",
-    "raw": "Br. Vlaka 44693 odlazak      18.03.26. 20:47, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "44693",
     "event_time": "2026-03-18T20:52:00",
@@ -8422,5 +8404,50 @@
     "event_time": "2026-03-21T20:35:00",
     "seen_at": "2026-03-21T19:35:20.552Z",
     "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:35, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "69486",
+    "event_time": "2026-03-21T20:42:00",
+    "seen_at": "2026-03-21T19:42:51.327Z",
+    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:42, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2026-03-21T18:38:00",
+    "seen_at": "2026-03-21T19:43:14.241Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81291",
+    "event_time": "2026-03-21T20:41:00",
+    "seen_at": "2026-03-21T19:43:59.411Z",
+    "raw": "Br. Vlaka 81291 promjena sas 21.03.26. 20:41, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89129",
+    "event_time": "2026-03-21T20:43:00",
+    "seen_at": "2026-03-21T19:44:44.715Z",
+    "raw": "Br. Vlaka 89129 odlazak      21.03.26. 20:43, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "69486",
+    "event_time": "2026-03-21T20:49:00",
+    "seen_at": "2026-03-21T19:50:25.583Z",
+    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:49, kolodvor ANDRIJEVCI"
   }
 ]
