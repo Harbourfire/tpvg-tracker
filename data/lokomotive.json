@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89758",
-    "event_time": "2026-03-18T10:03:00",
-    "seen_at": "2026-03-18T09:03:37.414Z",
-    "raw": "Br. Vlaka 89758 odlazak      18.03.26. 10:03, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "987891162040",
     "type": "Formiran",
     "station": "STARI MIKANOVCI",
@@ -8989,5 +8980,14 @@
     "event_time": "2026-03-21T09:47:00",
     "seen_at": "2026-03-21T08:49:14.076Z",
     "raw": "Br. Vlaka 89800 dolazak      21.03.26. 09:47, kolodvor BREGI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-21T10:06:00",
+    "seen_at": "2026-03-21T09:08:41.292Z",
+    "raw": "Br. Vlaka 69006 odlazak      21.03.26. 10:06, kolodvor OŠTARIJE"
   }
 ]
