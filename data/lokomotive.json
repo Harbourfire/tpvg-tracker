@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-03-19T09:18:00",
-    "seen_at": "2026-03-19T08:18:28.810Z",
-    "raw": "Br. Vlaka 45597 formiran     19.03.26. 09:18, kolodvor 77424"
-  },
-  {
     "uic": "927820620387",
     "type": "Formiran",
     "station": "OGULIN",
@@ -8017,5 +8008,14 @@
     "event_time": "2026-03-22T09:04:00",
     "seen_at": "2026-03-22T08:09:12.188Z",
     "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:04, kolodvor 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "44690",
+    "event_time": "2026-03-22T09:11:00",
+    "seen_at": "2026-03-22T08:11:21.727Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:11, kolodvor 72304"
   }
 ]
