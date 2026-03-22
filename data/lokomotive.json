@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "89290",
-    "event_time": "2026-03-19T07:32:00",
-    "seen_at": "2026-03-19T06:34:12.961Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 07:32, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "48893",
-    "event_time": "2026-03-19T07:34:00",
-    "seen_at": "2026-03-19T06:36:46.842Z",
-    "raw": "Br. Vlaka 48893 odlazak      19.03.26. 07:34, kolodvor SLATINA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "LEPAVINA",
     "train_number": "89290",
@@ -8170,5 +8152,14 @@
     "event_time": "2026-03-22T07:30:00",
     "seen_at": "2026-03-22T06:32:01.760Z",
     "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:30, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76522",
+    "event_time": "2026-03-22T07:40:00",
+    "seen_at": "2026-03-22T06:40:42.185Z",
+    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:40, kolodvor STARI MIKANOVCI"
   }
 ]
