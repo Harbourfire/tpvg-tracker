@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVI DVORI",
-    "train_number": "45996",
-    "event_time": "2026-03-19T20:37:00",
-    "seen_at": "2026-03-19T19:43:03.922Z",
-    "raw": "Br. Vlaka 45996 dolazak      19.03.26. 20:37, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "45996",
-    "event_time": "2026-03-19T20:41:00",
-    "seen_at": "2026-03-19T19:43:40.290Z",
-    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 20:41, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "45996",
@@ -7801,5 +7783,50 @@
     "event_time": "2026-03-22T20:36:00",
     "seen_at": "2026-03-22T19:36:43.363Z",
     "raw": "Br. Vlaka 44994 formiran     22.03.26. 20:36, kolodvor 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89873",
+    "event_time": "2026-03-22T20:30:00",
+    "seen_at": "2026-03-22T19:39:58.332Z",
+    "raw": "Br. Vlaka 89873 odlazak      22.03.26. 20:30, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89873",
+    "event_time": "2026-03-22T20:30:00",
+    "seen_at": "2026-03-22T19:39:58.332Z",
+    "raw": "Br. Vlaka 89873 odlazak      22.03.26. 20:30, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89873",
+    "event_time": "2026-03-22T20:41:00",
+    "seen_at": "2026-03-22T19:42:36.059Z",
+    "raw": "Br. Vlaka 89873 odlazak      22.03.26. 20:41, kolodvor 73164"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89873",
+    "event_time": "2026-03-22T20:41:00",
+    "seen_at": "2026-03-22T19:42:36.059Z",
+    "raw": "Br. Vlaka 89873 odlazak      22.03.26. 20:41, kolodvor 73164"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "44695",
+    "event_time": "2026-03-22T00:03:00",
+    "seen_at": "2026-03-22T19:43:43.350Z",
+    "raw": "Br. Vlaka 44695 formiran     22.03.26. 00:03, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
