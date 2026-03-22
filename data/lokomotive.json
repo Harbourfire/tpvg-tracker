@@ -1,69 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "45996",
-    "event_time": "2026-03-19T21:15:00",
-    "seen_at": "2026-03-19T20:20:25.641Z",
-    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 21:15, kolodvor 72304"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45131",
-    "event_time": "2026-03-19T21:11:00",
-    "seen_at": "2026-03-19T20:20:25.641Z",
-    "raw": "Br. Vlaka 45131 formiran     19.03.26. 21:11, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891003319",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2025-09-24T12:21:00",
-    "seen_at": "2026-03-19T20:20:25.642Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894856753",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2025-07-08T20:16:00",
-    "seen_at": "2026-03-19T20:20:25.642Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45996",
-    "event_time": "2026-03-19T21:21:00",
-    "seen_at": "2026-03-19T20:21:33.630Z",
-    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 21:21, kolodvor 72303"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82506",
-    "event_time": "2026-03-19T21:22:00",
-    "seen_at": "2026-03-19T20:23:02.867Z",
-    "raw": "Br. Vlaka 82506 formiran     19.03.26. 21:22, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82506",
-    "event_time": "2026-03-19T21:22:00",
-    "seen_at": "2026-03-19T20:23:02.867Z",
-    "raw": "Br. Vlaka 82506 formiran     19.03.26. 21:22, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAGREB ŽITNJAK",
     "train_number": "45996",
@@ -7837,5 +7774,23 @@
     "event_time": "2026-03-22T20:58:00",
     "seen_at": "2026-03-22T20:13:02.167Z",
     "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-09-24T12:21:00",
+    "seen_at": "2026-03-22T20:20:57.426Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2025-07-08T20:16:00",
+    "seen_at": "2026-03-22T20:20:57.426Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
