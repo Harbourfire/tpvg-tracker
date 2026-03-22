@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "89690",
-    "event_time": "2026-03-19T08:04:00",
-    "seen_at": "2026-03-19T07:10:03.750Z",
-    "raw": "Br. Vlaka 89690 dolazak      19.03.26. 08:04, kolodvor BUZET"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "82326",
-    "event_time": "2026-03-19T08:00:00",
-    "seen_at": "2026-03-19T07:12:36.248Z",
-    "raw": "Br. Vlaka 82326 dolazak      19.03.26. 08:00, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89290",
-    "event_time": "2026-03-19T08:15:00",
-    "seen_at": "2026-03-19T07:15:30.225Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 08:15, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "ČAČINCI",
-    "train_number": "48893",
-    "event_time": "2026-03-19T07:59:00",
-    "seen_at": "2026-03-19T07:18:18.462Z",
-    "raw": "Br. Vlaka 48893 promjena sas 19.03.26. 07:59, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "89690",
-    "event_time": "2026-03-19T08:20:00",
-    "seen_at": "2026-03-19T07:21:37.286Z",
-    "raw": "Br. Vlaka 89690 odlazak      19.03.26. 08:20, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
     "type": "Rasformiran",
     "station": "BUZET granica",
     "train_number": null,
@@ -8116,5 +8071,23 @@
     "event_time": "2026-03-22T07:50:00",
     "seen_at": "2026-03-22T06:53:36.587Z",
     "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:50, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "76522",
+    "event_time": "2026-03-22T08:18:00",
+    "seen_at": "2026-03-22T07:21:47.557Z",
+    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 08:18, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "47988",
+    "event_time": "2026-03-22T08:15:00",
+    "seen_at": "2026-03-22T07:23:26.025Z",
+    "raw": "Br. Vlaka 47988 odlazak      22.03.26. 08:15, kolodvor OSIJEK"
   }
 ]
