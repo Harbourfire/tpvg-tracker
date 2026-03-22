@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81232",
-    "event_time": "2026-03-19T04:18:00",
-    "seen_at": "2026-03-19T03:19:18.430Z",
-    "raw": "Br. Vlaka 81232 odlazak      19.03.26. 04:18, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81232",
-    "event_time": "2026-03-19T04:18:00",
-    "seen_at": "2026-03-19T03:19:18.430Z",
-    "raw": "Br. Vlaka 81232 odlazak      19.03.26. 04:18, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ČAČINCI",
-    "train_number": "89724",
-    "event_time": "2026-03-19T04:23:00",
-    "seen_at": "2026-03-19T03:24:56.230Z",
-    "raw": "Br. Vlaka 89724 odlazak      19.03.26. 04:23, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "928012230076",
     "type": "Promjena sastava",
     "station": "RUDOPOLJE",
     "train_number": "81232",
@@ -8332,5 +8305,32 @@
     "event_time": "2026-03-22T04:07:00",
     "seen_at": "2026-03-22T03:07:58.095Z",
     "raw": "Br. Vlaka 81291 odlazak      22.03.26. 04:07, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81291",
+    "event_time": "2026-03-22T04:19:00",
+    "seen_at": "2026-03-22T03:19:24.533Z",
+    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 04:19, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-22T04:25:00",
+    "seen_at": "2026-03-22T03:25:28.941Z",
+    "raw": "Br. Vlaka 69005 odlazak      22.03.26. 04:25, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-22T04:25:00",
+    "seen_at": "2026-03-22T03:25:28.941Z",
+    "raw": "Br. Vlaka 69005 odlazak      22.03.26. 04:25, kolodvor OGULIN"
   }
 ]
