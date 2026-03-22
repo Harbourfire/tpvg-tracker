@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89290",
-    "event_time": "2026-03-19T12:09:00",
-    "seen_at": "2026-03-19T11:12:10.831Z",
-    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 12:09, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "69901",
-    "event_time": "2026-03-19T12:10:00",
-    "seen_at": "2026-03-19T11:14:43.891Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 12:10, kolodvor DUGA RESA"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "ROČ",
@@ -7873,5 +7855,50 @@
     "event_time": "2026-03-22T12:06:00",
     "seen_at": "2026-03-22T11:06:24.356Z",
     "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:06, kolodvor 72304"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "83820",
+    "event_time": "2026-03-22T12:09:00",
+    "seen_at": "2026-03-22T11:09:19.624Z",
+    "raw": "Br. Vlaka 83820 odlazak      22.03.26. 12:09, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "77227",
+    "event_time": "2026-03-22T12:10:00",
+    "seen_at": "2026-03-22T11:10:51.714Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 12:10, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89182",
+    "event_time": "2026-03-22T12:09:00",
+    "seen_at": "2026-03-22T11:12:47.006Z",
+    "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:09, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "47938",
+    "event_time": "2026-03-22T12:13:00",
+    "seen_at": "2026-03-22T11:14:42.407Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 12:13, kolodvor GRADEC"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "BORUT",
+    "train_number": "70200",
+    "event_time": "2026-03-22T11:59:00",
+    "seen_at": "2026-03-22T11:14:42.408Z",
+    "raw": "Br. Vlaka 70200 odlazak      22.03.26. 11:59, kolodvor BORUT"
   }
 ]
