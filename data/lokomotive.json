@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89252",
-    "event_time": "2026-03-19T15:33:00",
-    "seen_at": "2026-03-19T14:33:35.889Z",
-    "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:33, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89252",
-    "event_time": "2026-03-19T15:39:00",
-    "seen_at": "2026-03-19T14:40:14.748Z",
-    "raw": "Br. Vlaka 89252 odlazak      19.03.26. 15:39, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "928012230076",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -7864,5 +7846,23 @@
     "event_time": "2026-03-22T15:30:00",
     "seen_at": "2026-03-22T14:30:47.814Z",
     "raw": "Br. Vlaka 47944 odlazak      22.03.26. 15:30, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47944",
+    "event_time": "2026-03-22T15:36:00",
+    "seen_at": "2026-03-22T14:38:15.884Z",
+    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 15:36, kolodvor 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47944",
+    "event_time": "2026-03-22T15:36:00",
+    "seen_at": "2026-03-22T14:38:15.885Z",
+    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 15:36, kolodvor 72304"
   }
 ]
