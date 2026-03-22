@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "44798",
-    "event_time": "2026-03-19T17:24:00",
-    "seen_at": "2026-03-19T16:25:14.457Z",
-    "raw": "Br. Vlaka 44798 odlazak      19.03.26. 17:24, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89301",
-    "event_time": "2026-03-19T17:27:00",
-    "seen_at": "2026-03-19T16:30:07.493Z",
-    "raw": "Br. Vlaka 89301 odlazak      19.03.26. 17:27, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "44798",
     "event_time": "2026-03-19T17:31:00",
@@ -7864,5 +7846,14 @@
     "event_time": "2026-03-22T17:11:00",
     "seen_at": "2026-03-22T16:12:54.481Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "BUZET",
+    "train_number": "70201",
+    "event_time": "2026-03-22T17:25:00",
+    "seen_at": "2026-03-22T16:27:07.290Z",
+    "raw": "Br. Vlaka 70201 formiran     22.03.26. 17:25, kolodvor BUZET"
   }
 ]
