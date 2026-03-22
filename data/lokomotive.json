@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "82504",
-    "event_time": "2026-03-19T11:35:00",
-    "seen_at": "2026-03-19T10:41:02.283Z",
-    "raw": "Br. Vlaka 82504 odlazak      19.03.26. 11:35, kolodvor VELIKA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82533",
-    "event_time": "2026-03-19T11:40:00",
-    "seen_at": "2026-03-19T10:41:47.101Z",
-    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:40, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82533",
-    "event_time": "2026-03-19T11:40:00",
-    "seen_at": "2026-03-19T10:41:47.101Z",
-    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:40, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "69901",
-    "event_time": "2026-03-19T11:42:00",
-    "seen_at": "2026-03-19T10:43:45.844Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 11:42, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-03-19T11:43:00",
-    "seen_at": "2026-03-19T10:44:07.943Z",
-    "raw": "Br. Vlaka 45104 formiran     19.03.26. 11:43, kolodvor 71308"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-03-19T11:08:00",
-    "seen_at": "2026-03-19T10:46:41.424Z",
-    "raw": "Br. Vlaka 45104 odlazak      19.03.26. 11:08, kolodvor 71308"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-19T11:17:00",
-    "seen_at": "2026-03-19T10:47:46.445Z",
-    "raw": "Br. Vlaka 45104 dolazak      19.03.26. 11:17, kolodvor DRENOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -7945,5 +7882,23 @@
     "event_time": "2026-03-22T11:37:00",
     "seen_at": "2026-03-22T10:38:26.712Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "77227",
+    "event_time": "2026-03-22T11:41:00",
+    "seen_at": "2026-03-22T10:42:50.440Z",
+    "raw": "Br. Vlaka 77227 dolazak      22.03.26. 11:41, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "77227",
+    "event_time": "2026-03-22T11:41:00",
+    "seen_at": "2026-03-22T10:43:12.866Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 11:41, kolodvor ĐAKOVO"
   }
 ]
