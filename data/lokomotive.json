@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "82326",
-    "event_time": "2026-03-19T09:24:00",
-    "seen_at": "2026-03-19T08:38:34.513Z",
-    "raw": "Br. Vlaka 82326 dolazak      19.03.26. 09:24, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-03-19T09:24:00",
-    "seen_at": "2026-03-19T08:39:40.507Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -8017,5 +7999,23 @@
     "event_time": "2026-03-22T09:23:00",
     "seen_at": "2026-03-22T08:23:40.935Z",
     "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:23, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47938",
+    "event_time": "2026-03-22T09:38:00",
+    "seen_at": "2026-03-22T08:38:26.891Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 09:38, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "47938",
+    "event_time": "2026-03-22T09:46:00",
+    "seen_at": "2026-03-22T08:47:12.790Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 09:46, kolodvor 72302"
   }
 ]
