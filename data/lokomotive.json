@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89290",
-    "event_time": "2026-03-19T12:30:00",
-    "seen_at": "2026-03-19T11:30:34.689Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 12:30, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89290",
-    "event_time": "2026-03-19T12:34:00",
-    "seen_at": "2026-03-19T11:34:55.440Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 12:34, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620387",
     "type": "Dolazak",
     "station": "KARLOVAC",
@@ -7891,5 +7873,41 @@
     "event_time": "2026-03-22T12:24:00",
     "seen_at": "2026-03-22T11:24:53.148Z",
     "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:24, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-03-22T12:20:00",
+    "seen_at": "2026-03-22T11:29:43.719Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89182",
+    "event_time": "2026-03-22T12:29:00",
+    "seen_at": "2026-03-22T11:30:06.537Z",
+    "raw": "Br. Vlaka 89182 dolazak      22.03.26. 12:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-22T12:29:00",
+    "seen_at": "2026-03-22T11:30:29.367Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "77227",
+    "event_time": "2026-03-22T12:29:00",
+    "seen_at": "2026-03-22T11:32:00.930Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 12:29, kolodvor IVANKOVO"
   }
 ]
