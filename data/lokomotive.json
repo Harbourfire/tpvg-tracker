@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "89290",
-    "event_time": "2026-03-19T11:23:00",
-    "seen_at": "2026-03-19T10:23:31.296Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:23, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Dolazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "69901",
-    "event_time": "2026-03-19T11:21:00",
-    "seen_at": "2026-03-19T10:23:31.296Z",
-    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 11:21, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82533",
-    "event_time": "2026-03-19T11:24:00",
-    "seen_at": "2026-03-19T10:25:51.737Z",
-    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:24, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82533",
-    "event_time": "2026-03-19T11:24:00",
-    "seen_at": "2026-03-19T10:25:51.738Z",
-    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 11:24, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89290",
-    "event_time": "2026-03-19T11:29:00",
-    "seen_at": "2026-03-19T10:30:12.606Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:29, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89290",
-    "event_time": "2026-03-19T11:33:00",
-    "seen_at": "2026-03-19T10:34:12.998Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:33, kolodvor 72302"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VELIKA",
@@ -7954,5 +7900,50 @@
     "event_time": "2026-03-22T11:14:00",
     "seen_at": "2026-03-22T10:18:43.102Z",
     "raw": "Br. Vlaka 47938 odlazak      22.03.26. 11:14, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89541",
+    "event_time": "2026-03-22T11:27:00",
+    "seen_at": "2026-03-22T10:29:59.071Z",
+    "raw": "Br. Vlaka 89541 odlazak      22.03.26. 11:27, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81983",
+    "event_time": "2026-03-22T11:20:00",
+    "seen_at": "2026-03-22T10:29:59.072Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 11:20, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81983",
+    "event_time": "2026-03-22T11:33:00",
+    "seen_at": "2026-03-22T10:34:12.686Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 11:33, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47938",
+    "event_time": "2026-03-22T11:33:00",
+    "seen_at": "2026-03-22T10:35:44.524Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 11:33, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-22T11:37:00",
+    "seen_at": "2026-03-22T10:38:26.712Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
