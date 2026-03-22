@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89290",
-    "event_time": "2026-03-19T06:57:00",
-    "seen_at": "2026-03-19T05:57:48.404Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 06:57, kolodvor 73164"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-03-19T07:00:00",
-    "seen_at": "2026-03-19T06:01:46.953Z",
-    "raw": "Br. Vlaka 66853 odlazak      19.03.26. 07:00, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89290",
-    "event_time": "2026-03-19T07:09:00",
-    "seen_at": "2026-03-19T06:09:37.200Z",
-    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 07:09, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SLATINA",
-    "train_number": "48893",
-    "event_time": "2026-03-19T07:06:00",
-    "seen_at": "2026-03-19T06:09:37.201Z",
-    "raw": "Br. Vlaka 48893 dolazak      19.03.26. 07:06, kolodvor SLATINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66853",
-    "event_time": "2026-03-19T07:09:00",
-    "seen_at": "2026-03-19T06:10:42.279Z",
-    "raw": "Br. Vlaka 66853 dolazak      19.03.26. 07:09, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-03-19T07:09:00",
-    "seen_at": "2026-03-19T06:11:04.071Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -8134,5 +8080,50 @@
     "event_time": "2026-03-22T06:51:00",
     "seen_at": "2026-03-22T05:52:40.309Z",
     "raw": "Br. Vlaka 81291 odlazak      22.03.26. 06:51, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81291",
+    "event_time": "2026-03-22T06:58:00",
+    "seen_at": "2026-03-22T06:04:44.005Z",
+    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 06:58, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89162",
+    "event_time": "2026-03-22T07:02:00",
+    "seen_at": "2026-03-22T06:04:44.005Z",
+    "raw": "Br. Vlaka 89162 odlazak      22.03.26. 07:02, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "81291",
+    "event_time": "2026-03-22T07:05:00",
+    "seen_at": "2026-03-22T06:06:14.300Z",
+    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 07:05, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "76522",
+    "event_time": "2026-03-22T07:06:00",
+    "seen_at": "2026-03-22T06:07:21.678Z",
+    "raw": "Br. Vlaka 76522 formiran     22.03.26. 07:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89162",
+    "event_time": "2026-03-22T07:09:00",
+    "seen_at": "2026-03-22T06:10:22.855Z",
+    "raw": "Br. Vlaka 89162 odlazak      22.03.26. 07:09, kolodvor ZAGREB RESNIK"
   }
 ]
