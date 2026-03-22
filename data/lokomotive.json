@@ -2,24 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-03-19T07:50:00",
-    "seen_at": "2026-03-19T06:51:00.188Z",
-    "raw": "Br. Vlaka 45105 odlazak      19.03.26. 07:50, kolodvor OTOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "89690",
-    "event_time": "2026-03-19T07:56:00",
-    "seen_at": "2026-03-19T06:59:39.574Z",
-    "raw": "Br. Vlaka 89690 odlazak      19.03.26. 07:56, kolodvor ROČ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "SPAČVA",
     "train_number": "45105",
     "event_time": "2026-03-19T08:04:00",
@@ -8143,5 +8125,14 @@
     "event_time": "2026-03-22T07:42:00",
     "seen_at": "2026-03-22T06:43:34.654Z",
     "raw": "Br. Vlaka 81983 formiran     22.03.26. 07:42, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76522",
+    "event_time": "2026-03-22T07:50:00",
+    "seen_at": "2026-03-22T06:53:36.587Z",
+    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:50, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
