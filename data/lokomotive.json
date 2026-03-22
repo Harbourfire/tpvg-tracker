@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "ROČ",
-    "train_number": "45597",
-    "event_time": "2026-03-19T12:12:00",
-    "seen_at": "2026-03-19T11:18:01.456Z",
-    "raw": "Br. Vlaka 45597 dolazak      19.03.26. 12:12, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "45597",
-    "event_time": "2026-03-19T12:12:00",
-    "seen_at": "2026-03-19T11:18:23.186Z",
-    "raw": "Br. Vlaka 45597 odlazak      19.03.26. 12:12, kolodvor ROČ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-03-19T12:20:00",
-    "seen_at": "2026-03-19T11:21:54.051Z",
-    "raw": "Br. Vlaka 45104 odlazak      19.03.26. 12:20, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Dolazak",
-    "station": "MRZLO POLJE",
-    "train_number": "69901",
-    "event_time": "2026-03-19T12:19:00",
-    "seen_at": "2026-03-19T11:21:54.052Z",
-    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 12:19, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "69901",
-    "event_time": "2026-03-19T12:23:00",
-    "seen_at": "2026-03-19T11:23:47.793Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 12:23, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89290",
-    "event_time": "2026-03-19T12:24:00",
-    "seen_at": "2026-03-19T11:25:15.382Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 12:24, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -7900,5 +7846,50 @@
     "event_time": "2026-03-22T11:59:00",
     "seen_at": "2026-03-22T11:14:42.408Z",
     "raw": "Br. Vlaka 70200 odlazak      22.03.26. 11:59, kolodvor BORUT"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89182",
+    "event_time": "2026-03-22T12:16:00",
+    "seen_at": "2026-03-22T11:17:12.355Z",
+    "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:16, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "70200",
+    "event_time": "2026-03-22T12:20:00",
+    "seen_at": "2026-03-22T11:20:39.847Z",
+    "raw": "Br. Vlaka 70200 dolazak      22.03.26. 12:20, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "77227",
+    "event_time": "2026-03-22T12:20:00",
+    "seen_at": "2026-03-22T11:22:11.757Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 12:20, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47938",
+    "event_time": "2026-03-22T12:22:00",
+    "seen_at": "2026-03-22T11:24:30.278Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 12:22, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89182",
+    "event_time": "2026-03-22T12:24:00",
+    "seen_at": "2026-03-22T11:24:53.148Z",
+    "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:24, kolodvor PODSUSED tvornica"
   }
 ]
