@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45996",
-    "event_time": "2026-03-19T21:32:00",
-    "seen_at": "2026-03-19T20:34:30.315Z",
-    "raw": "Br. Vlaka 45996 dolazak      19.03.26. 21:32, kolodvor 72302"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82506",
-    "event_time": "2026-03-19T21:41:00",
-    "seen_at": "2026-03-19T20:42:35.855Z",
-    "raw": "Br. Vlaka 82506 odlazak      19.03.26. 21:41, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82506",
-    "event_time": "2026-03-19T21:41:00",
-    "seen_at": "2026-03-19T20:42:35.855Z",
-    "raw": "Br. Vlaka 82506 odlazak      19.03.26. 21:41, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -7801,5 +7774,23 @@
     "event_time": "2026-03-22T21:27:00",
     "seen_at": "2026-03-22T20:29:13.551Z",
     "raw": "Br. Vlaka 44994 odlazak      22.03.26. 21:27, kolodvor 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "44994",
+    "event_time": "2026-03-22T21:35:00",
+    "seen_at": "2026-03-22T20:36:15.354Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.03.26. 21:35, kolodvor 72304"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "44994",
+    "event_time": "2026-03-22T21:41:00",
+    "seen_at": "2026-03-22T20:42:22.900Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.03.26. 21:41, kolodvor ZAGREB KLARA"
   }
 ]
