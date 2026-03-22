@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48582",
-    "event_time": "2026-03-19T10:45:00",
-    "seen_at": "2026-03-19T09:47:20.044Z",
-    "raw": "Br. Vlaka 48582 dolazak      19.03.26. 10:45, kolodvor 72303"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69901",
-    "event_time": "2026-03-19T10:49:00",
-    "seen_at": "2026-03-19T09:50:03.013Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 10:49, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82533",
-    "event_time": "2026-03-19T10:48:00",
-    "seen_at": "2026-03-19T09:50:03.014Z",
-    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 10:48, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82533",
-    "event_time": "2026-03-19T10:48:00",
-    "seen_at": "2026-03-19T09:50:03.014Z",
-    "raw": "Br. Vlaka 82533 odlazak      19.03.26. 10:48, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-19T10:30:00",
-    "seen_at": "2026-03-19T09:51:54.480Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "DUGO SELO",
@@ -8017,5 +7972,32 @@
     "event_time": "2026-03-22T10:34:00",
     "seen_at": "2026-03-22T09:35:07.477Z",
     "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:34, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "PAZIN",
+    "train_number": "70200",
+    "event_time": "2026-03-22T10:42:00",
+    "seen_at": "2026-03-22T09:45:09.251Z",
+    "raw": "Br. Vlaka 70200 dolazak      22.03.26. 10:42, kolodvor PAZIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81983",
+    "event_time": "2026-03-22T10:44:00",
+    "seen_at": "2026-03-22T09:45:32.055Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:44, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-19T10:30:00",
+    "seen_at": "2026-03-22T09:52:24.062Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
