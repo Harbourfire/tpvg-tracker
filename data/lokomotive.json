@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82504",
-    "event_time": "2026-03-19T13:03:00",
-    "seen_at": "2026-03-19T12:06:47.672Z",
-    "raw": "Br. Vlaka 82504 odlazak      19.03.26. 13:03, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "69901",
-    "event_time": "2026-03-19T13:10:00",
-    "seen_at": "2026-03-19T12:11:34.650Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 13:10, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -7891,5 +7873,14 @@
     "event_time": "2026-03-22T13:00:00",
     "seen_at": "2026-03-22T12:03:00.077Z",
     "raw": "Br. Vlaka 47938 odlazak      22.03.26. 13:00, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-22T13:09:00",
+    "seen_at": "2026-03-22T12:09:17.549Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 13:09, kolodvor GOSPIĆ"
   }
 ]
