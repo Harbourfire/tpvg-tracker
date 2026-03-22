@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82326",
-    "event_time": "2026-03-19T09:08:00",
-    "seen_at": "2026-03-19T08:09:08.376Z",
-    "raw": "Br. Vlaka 82326 odlazak      19.03.26. 09:08, kolodvor POŽEGA"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "BUZET granica",
@@ -8017,5 +8008,14 @@
     "event_time": "2026-03-22T08:55:00",
     "seen_at": "2026-03-22T07:56:15.751Z",
     "raw": "Br. Vlaka 47988 dolazak      22.03.26. 08:55, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44690",
+    "event_time": "2026-03-22T09:04:00",
+    "seen_at": "2026-03-22T08:09:12.188Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:04, kolodvor 72303"
   }
 ]
