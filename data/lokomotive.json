@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47944",
-    "event_time": "2026-03-19T13:59:00",
-    "seen_at": "2026-03-19T12:59:27.442Z",
-    "raw": "Br. Vlaka 47944 odlazak      19.03.26. 13:59, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Dolazak",
-    "station": "HORVATI",
-    "train_number": "69901",
-    "event_time": "2026-03-19T14:01:00",
-    "seen_at": "2026-03-19T13:01:37.918Z",
-    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 14:01, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47944",
-    "event_time": "2026-03-19T14:03:00",
-    "seen_at": "2026-03-19T13:03:48.065Z",
-    "raw": "Br. Vlaka 47944 odlazak      19.03.26. 14:03, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -7927,5 +7900,41 @@
     "event_time": "2026-03-22T13:20:00",
     "seen_at": "2026-03-22T12:50:11.364Z",
     "raw": "Br. Vlaka 89872 formiran     22.03.26. 13:20, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "KOŠKA",
+    "train_number": "83820",
+    "event_time": "2026-03-22T13:51:00",
+    "seen_at": "2026-03-22T13:00:54.817Z",
+    "raw": "Br. Vlaka 83820 dolazak      22.03.26. 13:51, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-22T14:00:00",
+    "seen_at": "2026-03-22T13:00:54.818Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 14:00, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "KOŠKA",
+    "train_number": null,
+    "event_time": "2026-03-22T13:51:00",
+    "seen_at": "2026-03-22T13:01:39.725Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71906 KOŠKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89872",
+    "event_time": "2026-03-22T14:02:00",
+    "seen_at": "2026-03-22T13:03:09.453Z",
+    "raw": "Br. Vlaka 89872 odlazak      22.03.26. 14:02, kolodvor KOPRIVNICA GR    A"
   }
 ]
