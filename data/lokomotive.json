@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82506",
-    "event_time": "2026-03-19T23:50:00",
-    "seen_at": "2026-03-19T22:51:23.428Z",
-    "raw": "Br. Vlaka 82506 odlazak      19.03.26. 23:50, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82506",
-    "event_time": "2026-03-19T23:50:00",
-    "seen_at": "2026-03-19T22:51:23.428Z",
-    "raw": "Br. Vlaka 82506 odlazak      19.03.26. 23:50, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "BIZOVAC",
@@ -7756,5 +7738,14 @@
     "event_time": "2026-03-22T23:41:00",
     "seen_at": "2026-03-22T22:41:40.504Z",
     "raw": "Br. Vlaka 47944 odlazak      22.03.26. 23:41, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47944",
+    "event_time": "2026-03-22T23:47:00",
+    "seen_at": "2026-03-22T22:49:03.700Z",
+    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 23:47, kolodvor SESVETE"
   }
 ]
