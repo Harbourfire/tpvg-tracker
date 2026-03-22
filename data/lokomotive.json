@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-20T00:03:00",
-    "seen_at": "2026-03-19T23:11:43.023Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-20T00:03:00",
-    "seen_at": "2026-03-19T23:11:43.023Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "48893",
-    "event_time": "2026-03-20T00:11:00",
-    "seen_at": "2026-03-19T23:12:05.329Z",
-    "raw": "Br. Vlaka 48893 odlazak      20.03.26. 00:11, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -7765,5 +7738,23 @@
     "event_time": "2026-03-22T17:16:00",
     "seen_at": "2026-03-22T23:07:55.683Z",
     "raw": "Br. Vlaka 48797 formiran     22.03.26. 17:16, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47944",
+    "event_time": "2026-03-23T00:12:00",
+    "seen_at": "2026-03-22T23:13:04.565Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.03.26. 00:12, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44994",
+    "event_time": "2026-03-23T00:15:00",
+    "seen_at": "2026-03-22T23:17:16.257Z",
+    "raw": "Br. Vlaka 44994 dolazak      23.03.26. 00:15, kolodvor ČAKOVEC"
   }
 ]
