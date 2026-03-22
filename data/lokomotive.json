@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-19T13:13:00",
-    "seen_at": "2026-03-19T12:13:58.947Z",
-    "raw": "Br. Vlaka 63310 formiran     19.03.26. 13:13, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-19T13:13:00",
-    "seen_at": "2026-03-19T12:13:58.947Z",
-    "raw": "Br. Vlaka 63310 formiran     19.03.26. 13:13, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82504",
-    "event_time": "2026-03-19T13:13:00",
-    "seen_at": "2026-03-19T12:14:20.805Z",
-    "raw": "Br. Vlaka 82504 odlazak      19.03.26. 13:13, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "PLETERNICA",
@@ -7882,5 +7855,68 @@
     "event_time": "2026-03-22T13:09:00",
     "seen_at": "2026-03-22T12:09:17.549Z",
     "raw": "Br. Vlaka 63310 odlazak      22.03.26. 13:09, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T13:15:00",
+    "seen_at": "2026-03-22T12:16:00.040Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 13:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:57:00",
+    "seen_at": "2026-03-22T12:16:45.726Z",
+    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 12:57, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:50:00",
+    "seen_at": "2026-03-22T12:17:08.619Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 12:50, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T10:20:00",
+    "seen_at": "2026-03-22T12:17:54.332Z",
+    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 10:20, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T10:20:00",
+    "seen_at": "2026-03-22T12:18:17.325Z",
+    "raw": "Br. Vlaka 44690 promjena sas 22.03.26. 10:20, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T10:20:00",
+    "seen_at": "2026-03-22T12:18:17.326Z",
+    "raw": "Br. Vlaka 44690 promjena sas 22.03.26. 10:20, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47938",
+    "event_time": "2026-03-22T13:18:00",
+    "seen_at": "2026-03-22T12:19:03.721Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 13:18, kolodvor 73164"
   }
 ]
