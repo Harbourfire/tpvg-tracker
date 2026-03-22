@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-19T14:05:00",
-    "seen_at": "2026-03-19T16:44:41.585Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89758",
-    "event_time": "2026-03-19T10:43:00",
-    "seen_at": "2026-03-19T16:45:26.463Z",
-    "raw": "Br. Vlaka 89758 formiran     19.03.26. 10:43, kolodvor 72303"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "89758",
@@ -7828,5 +7810,32 @@
     "event_time": "2026-03-22T17:25:00",
     "seen_at": "2026-03-22T16:27:07.290Z",
     "raw": "Br. Vlaka 70201 formiran     22.03.26. 17:25, kolodvor BUZET"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "70201",
+    "event_time": "2026-03-22T12:37:00",
+    "seen_at": "2026-03-22T16:42:23.009Z",
+    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 12:37, kolodvor BUZET"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "BUZET",
+    "train_number": "70201",
+    "event_time": "2026-03-22T17:25:00",
+    "seen_at": "2026-03-22T16:42:45.523Z",
+    "raw": "Br. Vlaka 70201 formiran     22.03.26. 17:25, kolodvor BUZET"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "70201",
+    "event_time": "2026-03-22T17:40:00",
+    "seen_at": "2026-03-22T16:44:38.548Z",
+    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 17:40, kolodvor BUZET"
   }
 ]
