@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89290",
-    "event_time": "2026-03-19T07:25:00",
-    "seen_at": "2026-03-19T06:29:57.130Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 07:25, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-19T07:30:00",
-    "seen_at": "2026-03-19T06:30:40.619Z",
-    "raw": "Br. Vlaka 45105 odlazak      19.03.26. 07:30, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82326",
-    "event_time": "2026-03-19T07:30:00",
-    "seen_at": "2026-03-19T06:31:23.972Z",
-    "raw": "Br. Vlaka 82326 odlazak      19.03.26. 07:30, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "MUČNA REKA",
     "train_number": "89290",
     "event_time": "2026-03-19T07:32:00",
@@ -8161,5 +8134,41 @@
     "event_time": "2026-03-22T07:20:00",
     "seen_at": "2026-03-22T06:22:16.271Z",
     "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81291",
+    "event_time": "2026-03-22T07:26:00",
+    "seen_at": "2026-03-22T06:30:31.606Z",
+    "raw": "Br. Vlaka 81291 dolazak      22.03.26. 07:26, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89162",
+    "event_time": "2026-03-22T07:30:00",
+    "seen_at": "2026-03-22T06:30:31.607Z",
+    "raw": "Br. Vlaka 89162 dolazak      22.03.26. 07:30, kolodvor 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-22T07:30:00",
+    "seen_at": "2026-03-22T06:30:54.014Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76522",
+    "event_time": "2026-03-22T07:30:00",
+    "seen_at": "2026-03-22T06:32:01.760Z",
+    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:30, kolodvor IVANKOVO"
   }
 ]
