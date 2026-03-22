@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82504",
-    "event_time": "2026-03-19T13:23:00",
-    "seen_at": "2026-03-19T12:25:03.842Z",
-    "raw": "Br. Vlaka 82504 odlazak      19.03.26. 13:23, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820620387",
     "type": "Dolazak",
     "station": "JASTREBARSKO",
@@ -7918,5 +7909,77 @@
     "event_time": "2026-03-22T13:18:00",
     "seen_at": "2026-03-22T12:19:03.721Z",
     "raw": "Br. Vlaka 47938 odlazak      22.03.26. 13:18, kolodvor 73164"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:50:00",
+    "seen_at": "2026-03-22T12:24:14.513Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 12:50, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:50:00",
+    "seen_at": "2026-03-22T12:24:14.514Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 12:50, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:57:00",
+    "seen_at": "2026-03-22T12:28:27.110Z",
+    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 12:57, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:57:00",
+    "seen_at": "2026-03-22T12:28:27.111Z",
+    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 12:57, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T13:15:00",
+    "seen_at": "2026-03-22T12:28:49.952Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 13:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T13:15:00",
+    "seen_at": "2026-03-22T12:28:49.953Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 13:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-22T13:20:00",
+    "seen_at": "2026-03-22T12:29:58.702Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-22T13:20:00",
+    "seen_at": "2026-03-22T12:29:58.703Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
