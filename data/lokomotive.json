@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-03-19T18:54:00",
-    "seen_at": "2026-03-19T17:58:08.732Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZABOK",
-    "train_number": "45996",
-    "event_time": "2026-03-19T10:43:00",
-    "seen_at": "2026-03-19T17:58:31.196Z",
-    "raw": "Br. Vlaka 45996 formiran     19.03.26. 10:43, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "LUPOGLAV",
-    "train_number": null,
-    "event_time": "2026-03-19T18:40:00",
-    "seen_at": "2026-03-19T18:02:10.568Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "OSIJEK DONJI GRAD",
@@ -7747,5 +7720,50 @@
     "event_time": "2026-03-22T18:51:00",
     "seen_at": "2026-03-22T17:51:51.252Z",
     "raw": "Br. Vlaka 47945 odlazak      22.03.26. 18:51, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "70201",
+    "event_time": "2026-03-22T18:00:00",
+    "seen_at": "2026-03-22T17:57:43.235Z",
+    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 18:00, kolodvor ROČ"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "70201",
+    "event_time": "2026-03-22T18:52:00",
+    "seen_at": "2026-03-22T17:58:28.378Z",
+    "raw": "Br. Vlaka 70201 dolazak      22.03.26. 18:52, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "70201",
+    "event_time": "2026-03-22T18:00:00",
+    "seen_at": "2026-03-22T17:58:50.813Z",
+    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 18:00, kolodvor ROČ"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "LUPOGLAV",
+    "train_number": "70201",
+    "event_time": "2026-03-22T18:53:00",
+    "seen_at": "2026-03-22T17:59:13.302Z",
+    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 18:53, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47945",
+    "event_time": "2026-03-22T19:02:00",
+    "seen_at": "2026-03-22T18:02:59.084Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 19:02, kolodvor ZAGREB ZAP. KOL."
   }
 ]
