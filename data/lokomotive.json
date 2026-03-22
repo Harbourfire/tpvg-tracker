@@ -2,60 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "89177",
-    "event_time": "2026-03-19T01:53:00",
-    "seen_at": "2026-03-19T00:58:27.240Z",
-    "raw": "Br. Vlaka 89177 odlazak      19.03.26. 01:53, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "89177",
-    "event_time": "2026-03-19T01:53:00",
-    "seen_at": "2026-03-19T00:58:27.240Z",
-    "raw": "Br. Vlaka 89177 odlazak      19.03.26. 01:53, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SUHOPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-18T17:04:00",
-    "seen_at": "2026-03-19T00:58:49.131Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73002 SUHOPOLJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "SUHOPOLJE",
-    "train_number": "44693",
-    "event_time": "2026-03-19T01:54:00",
-    "seen_at": "2026-03-19T00:59:10.970Z",
-    "raw": "Br. Vlaka 44693 promjena sas 19.03.26. 01:54, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "89177",
-    "event_time": "2026-03-19T02:02:00",
-    "seen_at": "2026-03-19T01:02:37.931Z",
-    "raw": "Br. Vlaka 89177 odlazak      19.03.26. 02:02, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "89177",
-    "event_time": "2026-03-19T02:02:00",
-    "seen_at": "2026-03-19T01:02:37.931Z",
-    "raw": "Br. Vlaka 89177 odlazak      19.03.26. 02:02, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "89177",
     "event_time": "2026-03-19T02:15:00",
@@ -8368,5 +8314,50 @@
     "event_time": "2026-03-22T01:53:00",
     "seen_at": "2026-03-22T00:54:42.005Z",
     "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:53, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47938",
+    "event_time": "2026-03-22T01:58:00",
+    "seen_at": "2026-03-22T00:58:43.893Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 01:58, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47938",
+    "event_time": "2026-03-22T02:04:00",
+    "seen_at": "2026-03-22T01:04:29.803Z",
+    "raw": "Br. Vlaka 47938 dolazak      22.03.26. 02:04, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-03-22T02:03:00",
+    "seen_at": "2026-03-22T01:05:38.711Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 02:03, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-03-22T02:03:00",
+    "seen_at": "2026-03-22T01:05:38.712Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 02:03, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "81291",
+    "event_time": "2026-03-22T01:58:00",
+    "seen_at": "2026-03-22T01:07:11.289Z",
+    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 01:58, kolodvor SUNJA"
   }
 ]
