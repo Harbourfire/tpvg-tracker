@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "45990",
-    "event_time": "2026-03-19T05:50:00",
-    "seen_at": "2026-03-19T04:59:56.975Z",
-    "raw": "Br. Vlaka 45990 dolazak      19.03.26. 05:50, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-19T05:50:00",
-    "seen_at": "2026-03-19T05:00:18.833Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89290",
-    "event_time": "2026-03-19T00:14:00",
-    "seen_at": "2026-03-19T05:01:02.072Z",
-    "raw": "Br. Vlaka 89290 formiran     19.03.26. 00:14, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "KOPRIVNICA GR    A",
     "train_number": "89290",
@@ -8161,5 +8134,14 @@
     "event_time": "2026-03-22T04:50:00",
     "seen_at": "2026-03-22T03:50:45.545Z",
     "raw": "Br. Vlaka 81291 dolazak      22.03.26. 04:50, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "89162",
+    "event_time": "2026-03-22T06:06:00",
+    "seen_at": "2026-03-22T05:07:52.473Z",
+    "raw": "Br. Vlaka 89162 odlazak      22.03.26. 06:06, kolodvor VRBOVEC"
   }
 ]
