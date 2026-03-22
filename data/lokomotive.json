@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-13T09:41:00",
-    "seen_at": "2026-03-19T09:07:16.509Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48582",
-    "event_time": "2026-03-19T10:07:00",
-    "seen_at": "2026-03-19T09:07:59.909Z",
-    "raw": "Br. Vlaka 48582 formiran     19.03.26. 10:07, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-03-19T10:11:00",
-    "seen_at": "2026-03-19T09:12:20.901Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-03-19T10:11:00",
-    "seen_at": "2026-03-19T09:12:20.901Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -8053,5 +8017,23 @@
     "event_time": "2026-03-22T10:01:00",
     "seen_at": "2026-03-22T09:04:56.657Z",
     "raw": "Br. Vlaka 47938 dolazak      22.03.26. 10:01, kolodvor SESVETE"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-13T09:41:00",
+    "seen_at": "2026-03-22T09:07:50.520Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44690",
+    "event_time": "2026-03-22T09:57:00",
+    "seen_at": "2026-03-22T09:08:13.351Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:57, kolodvor PODSUSED tvornica"
   }
 ]
