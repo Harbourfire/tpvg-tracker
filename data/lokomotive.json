@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89758",
-    "event_time": "2026-03-19T18:47:00",
-    "seen_at": "2026-03-19T17:48:31.659Z",
-    "raw": "Br. Vlaka 89758 odlazak      19.03.26. 18:47, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440141",
     "type": "Rasformiran",
     "station": "ZABOK",
     "train_number": null,
@@ -7738,5 +7729,23 @@
     "event_time": "2026-03-22T18:38:00",
     "seen_at": "2026-03-22T17:38:23.069Z",
     "raw": "Br. Vlaka 47945 odlazak      22.03.26. 18:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47945",
+    "event_time": "2026-03-22T18:46:00",
+    "seen_at": "2026-03-22T17:51:06.321Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 18:46, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-03-22T18:51:00",
+    "seen_at": "2026-03-22T17:51:51.252Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 18:51, kolodvor ZAGREB KLARA"
   }
 ]
