@@ -2,33 +2,6 @@
   {
     "uic": "927820440265",
     "type": "Odlazak",
-    "station": "KLOŠTAR",
-    "train_number": "44693",
-    "event_time": "2026-03-19T01:17:00",
-    "seen_at": "2026-03-19T00:18:28.000Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 01:17, kolodvor KLOŠTAR"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-03-19T01:18:00",
-    "seen_at": "2026-03-19T00:20:17.237Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.03.26. 01:18, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-03-19T01:18:00",
-    "seen_at": "2026-03-19T00:20:17.237Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.03.26. 01:18, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
     "station": "PITOMAČA",
     "train_number": "44693",
     "event_time": "2026-03-19T01:26:00",
@@ -8359,5 +8332,41 @@
     "event_time": "2026-03-22T01:03:00",
     "seen_at": "2026-03-22T00:03:55.740Z",
     "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:03, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-22T01:16:00",
+    "seen_at": "2026-03-22T00:17:47.270Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:16, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-22T01:16:00",
+    "seen_at": "2026-03-22T00:17:47.270Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:16, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47938",
+    "event_time": "2026-03-22T00:40:00",
+    "seen_at": "2026-03-22T00:19:40.431Z",
+    "raw": "Br. Vlaka 47938 dolazak      22.03.26. 00:40, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47938",
+    "event_time": "2026-03-22T00:40:00",
+    "seen_at": "2026-03-22T00:20:25.401Z",
+    "raw": "Br. Vlaka 47938 promjena sas 22.03.26. 00:40, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
