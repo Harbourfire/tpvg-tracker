@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45996",
-    "event_time": "2026-03-19T22:28:00",
-    "seen_at": "2026-03-19T21:29:57.457Z",
-    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 22:28, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82506",
-    "event_time": "2026-03-19T22:29:00",
-    "seen_at": "2026-03-19T21:32:58.978Z",
-    "raw": "Br. Vlaka 82506 dolazak      19.03.26. 22:29, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82506",
-    "event_time": "2026-03-19T22:29:00",
-    "seen_at": "2026-03-19T21:32:58.978Z",
-    "raw": "Br. Vlaka 82506 dolazak      19.03.26. 22:29, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "82506",
-    "event_time": "2026-03-19T22:29:00",
-    "seen_at": "2026-03-19T21:33:44.297Z",
-    "raw": "Br. Vlaka 82506 promjena sas 19.03.26. 22:29, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "82506",
-    "event_time": "2026-03-19T22:29:00",
-    "seen_at": "2026-03-19T21:33:44.297Z",
-    "raw": "Br. Vlaka 82506 promjena sas 19.03.26. 22:29, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "45996",
-    "event_time": "2026-03-19T22:35:00",
-    "seen_at": "2026-03-19T21:35:28.000Z",
-    "raw": "Br. Vlaka 45996 odlazak      19.03.26. 22:35, kolodvor SESVETE"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ČAČINCI",
@@ -7846,5 +7792,14 @@
     "event_time": "2026-03-22T22:26:00",
     "seen_at": "2026-03-22T21:26:50.532Z",
     "raw": "Br. Vlaka 44994 odlazak      22.03.26. 22:26, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44695",
+    "event_time": "2026-03-22T22:20:00",
+    "seen_at": "2026-03-22T21:36:22.391Z",
+    "raw": "Br. Vlaka 44695 dolazak      22.03.26. 22:20, kolodvor 72303"
   }
 ]
