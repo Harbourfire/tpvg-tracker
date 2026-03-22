@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "89290",
-    "event_time": "2026-03-19T07:40:00",
-    "seen_at": "2026-03-19T06:41:31.168Z",
-    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 07:40, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "LUPOGLAV",
-    "train_number": "89690",
-    "event_time": "2026-03-19T07:46:00",
-    "seen_at": "2026-03-19T06:47:21.754Z",
-    "raw": "Br. Vlaka 89690 formiran     19.03.26. 07:46, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "89690",
-    "event_time": "2026-03-19T07:47:00",
-    "seen_at": "2026-03-19T06:49:34.338Z",
-    "raw": "Br. Vlaka 89690 odlazak      19.03.26. 07:47, kolodvor LUPOGLAV"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "OTOK",
@@ -8161,5 +8134,14 @@
     "event_time": "2026-03-22T07:40:00",
     "seen_at": "2026-03-22T06:40:42.185Z",
     "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:40, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81983",
+    "event_time": "2026-03-22T07:42:00",
+    "seen_at": "2026-03-22T06:43:34.654Z",
+    "raw": "Br. Vlaka 81983 formiran     22.03.26. 07:42, kolodvor OŠTARIJE"
   }
 ]
