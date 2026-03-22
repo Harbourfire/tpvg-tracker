@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89290",
-    "event_time": "2026-03-19T11:45:00",
-    "seen_at": "2026-03-19T10:48:08.185Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:45, kolodvor 72303"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-19T11:50:00",
-    "seen_at": "2026-03-19T10:52:07.339Z",
-    "raw": "Br. Vlaka 45104 odlazak      19.03.26. 11:50, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "69901",
-    "event_time": "2026-03-19T11:54:00",
-    "seen_at": "2026-03-19T10:54:31.854Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 11:54, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89290",
-    "event_time": "2026-03-19T11:53:00",
-    "seen_at": "2026-03-19T10:54:54.040Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 11:53, kolodvor 72304"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82504",
-    "event_time": "2026-03-19T11:55:00",
-    "seen_at": "2026-03-19T10:56:00.325Z",
-    "raw": "Br. Vlaka 82504 dolazak      19.03.26. 11:55, kolodvor POŽEGA"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "GOSPIĆ",
@@ -7900,5 +7855,41 @@
     "event_time": "2026-03-22T11:41:00",
     "seen_at": "2026-03-22T10:43:12.866Z",
     "raw": "Br. Vlaka 77227 odlazak      22.03.26. 11:41, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "83820",
+    "event_time": "2026-03-22T11:50:00",
+    "seen_at": "2026-03-22T10:50:58.078Z",
+    "raw": "Br. Vlaka 83820 formiran     22.03.26. 11:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81983",
+    "event_time": "2026-03-22T11:50:00",
+    "seen_at": "2026-03-22T10:50:58.079Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 11:50, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "PAZIN",
+    "train_number": "70200",
+    "event_time": "2026-03-22T11:47:00",
+    "seen_at": "2026-03-22T10:51:20.862Z",
+    "raw": "Br. Vlaka 70200 odlazak      22.03.26. 11:47, kolodvor PAZIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89182",
+    "event_time": "2026-03-22T10:46:00",
+    "seen_at": "2026-03-22T10:54:21.704Z",
+    "raw": "Br. Vlaka 89182 formiran     22.03.26. 10:46, kolodvor 72303"
   }
 ]
