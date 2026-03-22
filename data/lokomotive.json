@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-03-19T08:44:00",
-    "seen_at": "2026-03-19T07:44:09.850Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "89290",
-    "event_time": "2026-03-19T08:38:00",
-    "seen_at": "2026-03-19T07:44:42.584Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 08:38, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "89290",
-    "event_time": "2026-03-19T08:47:00",
-    "seen_at": "2026-03-19T07:48:00.435Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 08:47, kolodvor GRADEC"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "PLETERNICA",
@@ -8053,5 +8026,14 @@
     "event_time": "2026-03-22T08:30:00",
     "seen_at": "2026-03-22T07:32:17.751Z",
     "raw": "Br. Vlaka 47988 odlazak      22.03.26. 08:30, kolodvor DARDA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44690",
+    "event_time": "2026-03-21T23:57:00",
+    "seen_at": "2026-03-22T07:50:18.648Z",
+    "raw": "Br. Vlaka 44690 promjena sas 21.03.26. 23:57, kolodvor 72303"
   }
 ]
