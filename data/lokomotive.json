@@ -2,24 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-19T09:51:00",
-    "seen_at": "2026-03-19T08:52:55.669Z",
-    "raw": "Br. Vlaka 69175 odlazak      19.03.26. 09:51, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-19T09:51:00",
-    "seen_at": "2026-03-19T08:52:55.669Z",
-    "raw": "Br. Vlaka 69175 odlazak      19.03.26. 09:51, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "JOSIPDOL",
     "train_number": "69175",
     "event_time": "2026-03-19T09:57:00",
@@ -8017,5 +7999,41 @@
     "event_time": "2026-03-22T09:46:00",
     "seen_at": "2026-03-22T08:47:12.790Z",
     "raw": "Br. Vlaka 47938 odlazak      22.03.26. 09:46, kolodvor 72302"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44690",
+    "event_time": "2026-03-22T09:46:00",
+    "seen_at": "2026-03-22T08:47:47.092Z",
+    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:46, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-22T08:50:00",
+    "seen_at": "2026-03-22T08:51:34.153Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47938",
+    "event_time": "2026-03-22T09:53:00",
+    "seen_at": "2026-03-22T08:54:12.136Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 09:53, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "77227",
+    "event_time": "2026-03-22T09:52:00",
+    "seen_at": "2026-03-22T08:54:12.136Z",
+    "raw": "Br. Vlaka 77227 formiran     22.03.26. 09:52, kolodvor OSIJEK"
   }
 ]
