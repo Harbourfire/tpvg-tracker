@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "48893",
-    "event_time": "2026-03-20T00:23:00",
-    "seen_at": "2026-03-19T23:23:18.444Z",
-    "raw": "Br. Vlaka 48893 dolazak      20.03.26. 00:23, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -7756,5 +7747,23 @@
     "event_time": "2026-03-23T00:15:00",
     "seen_at": "2026-03-22T23:17:16.257Z",
     "raw": "Br. Vlaka 44994 dolazak      23.03.26. 00:15, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48797",
+    "event_time": "2026-03-23T00:20:00",
+    "seen_at": "2026-03-22T23:29:58.387Z",
+    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 00:20, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48797",
+    "event_time": "2026-03-23T00:20:00",
+    "seen_at": "2026-03-22T23:29:58.387Z",
+    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 00:20, kolodvor KOPRIVNICA GR    A"
   }
 ]
