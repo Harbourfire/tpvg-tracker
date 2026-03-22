@@ -2,78 +2,6 @@
   {
     "uic": "927820440265",
     "type": "Odlazak",
-    "station": "SUHOPOLJE",
-    "train_number": "44693",
-    "event_time": "2026-03-19T02:30:00",
-    "seen_at": "2026-03-19T01:45:06.557Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:30, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SUHOPOLJE",
-    "train_number": "44693",
-    "event_time": "2026-03-19T01:54:00",
-    "seen_at": "2026-03-19T01:45:40.152Z",
-    "raw": "Br. Vlaka 44693 dolazak      19.03.26. 01:54, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-19T02:44:00",
-    "seen_at": "2026-03-19T01:45:40.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-19T02:44:00",
-    "seen_at": "2026-03-19T01:45:40.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "SUHOPOLJE",
-    "train_number": "44693",
-    "event_time": "2026-03-19T01:54:00",
-    "seen_at": "2026-03-19T01:48:34.482Z",
-    "raw": "Br. Vlaka 44693 promjena sas 19.03.26. 01:54, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SUHOPOLJE",
-    "train_number": "44693",
-    "event_time": "2026-03-19T02:30:00",
-    "seen_at": "2026-03-19T01:50:00.982Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:30, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "PČELIĆ",
-    "train_number": "44693",
-    "event_time": "2026-03-19T02:35:00",
-    "seen_at": "2026-03-19T01:50:44.056Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:35, kolodvor PČELIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "CABUNA",
-    "train_number": "44693",
-    "event_time": "2026-03-19T02:44:00",
-    "seen_at": "2026-03-19T01:51:05.754Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 02:44, kolodvor CABUNA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
     "station": "SLATINA",
     "train_number": "44693",
     "event_time": "2026-03-19T02:55:00",
@@ -8395,5 +8323,23 @@
     "event_time": "2026-03-22T02:36:00",
     "seen_at": "2026-03-22T01:41:49.960Z",
     "raw": "Br. Vlaka 47938 dolazak      22.03.26. 02:36, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "81291",
+    "event_time": "2026-03-22T02:42:00",
+    "seen_at": "2026-03-22T01:47:19.200Z",
+    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 02:42, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47938",
+    "event_time": "2026-03-22T02:36:00",
+    "seen_at": "2026-03-22T01:51:04.886Z",
+    "raw": "Br. Vlaka 47938 promjena sas 22.03.26. 02:36, kolodvor 72303"
   }
 ]
