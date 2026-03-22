@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ČAČINCI",
-    "train_number": "44693",
-    "event_time": "2026-03-19T03:15:00",
-    "seen_at": "2026-03-19T02:17:26.575Z",
-    "raw": "Br. Vlaka 44693 dolazak      19.03.26. 03:15, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ČAČINCI",
-    "train_number": null,
-    "event_time": "2026-03-19T03:15:00",
-    "seen_at": "2026-03-19T02:17:48.389Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81232",
-    "event_time": "2026-03-19T03:18:00",
-    "seen_at": "2026-03-19T02:18:53.437Z",
-    "raw": "Br. Vlaka 81232 formiran     19.03.26. 03:18, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81232",
-    "event_time": "2026-03-19T03:18:00",
-    "seen_at": "2026-03-19T02:18:53.438Z",
-    "raw": "Br. Vlaka 81232 formiran     19.03.26. 03:18, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440265",
     "type": "Formiran",
     "station": "ČAČINCI",
     "train_number": "89724",
@@ -8332,5 +8296,23 @@
     "event_time": "2026-03-22T02:36:00",
     "seen_at": "2026-03-22T01:51:04.886Z",
     "raw": "Br. Vlaka 47938 promjena sas 22.03.26. 02:36, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81291",
+    "event_time": "2026-03-22T03:17:00",
+    "seen_at": "2026-03-22T02:18:52.026Z",
+    "raw": "Br. Vlaka 81291 dolazak      22.03.26. 03:17, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81291",
+    "event_time": "2026-03-22T03:20:00",
+    "seen_at": "2026-03-22T02:20:22.218Z",
+    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 03:20, kolodvor NOVSKA"
   }
 ]
