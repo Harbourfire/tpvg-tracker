@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "PITOMAČA",
-    "train_number": "44693",
-    "event_time": "2026-03-19T01:26:00",
-    "seen_at": "2026-03-19T00:27:04.605Z",
-    "raw": "Br. Vlaka 44693 odlazak      19.03.26. 01:26, kolodvor PITOMAČA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -8368,5 +8359,23 @@
     "event_time": "2026-03-22T00:40:00",
     "seen_at": "2026-03-22T00:20:25.401Z",
     "raw": "Br. Vlaka 47938 promjena sas 22.03.26. 00:40, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-22T01:26:00",
+    "seen_at": "2026-03-22T00:27:30.831Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:26, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-22T01:26:00",
+    "seen_at": "2026-03-22T00:27:30.831Z",
+    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:26, kolodvor RUDOPOLJE"
   }
 ]
