@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "89290",
-    "event_time": "2026-03-19T10:46:00",
-    "seen_at": "2026-03-19T09:57:00.160Z",
-    "raw": "Br. Vlaka 89290 dolazak      19.03.26. 10:46, kolodvor DUGO SELO"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -7999,5 +7990,14 @@
     "event_time": "2026-03-19T10:30:00",
     "seen_at": "2026-03-22T09:52:24.062Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81983",
+    "event_time": "2026-03-22T10:53:00",
+    "seen_at": "2026-03-22T09:55:16.816Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:53, kolodvor LIČKA JESENICA"
   }
 ]
