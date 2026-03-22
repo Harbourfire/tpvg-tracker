@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66854",
-    "event_time": "2026-03-19T19:59:00",
-    "seen_at": "2026-03-19T19:00:14.063Z",
-    "raw": "Br. Vlaka 66854 formiran     19.03.26. 19:59, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -7819,5 +7810,23 @@
     "event_time": "2026-03-22T19:30:00",
     "seen_at": "2026-03-22T18:36:29.229Z",
     "raw": "Trenutna pozicija je u kolodvoru 77405 PAZIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47945",
+    "event_time": "2026-03-22T19:45:00",
+    "seen_at": "2026-03-22T18:52:17.540Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 19:45, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-03-22T19:55:00",
+    "seen_at": "2026-03-22T18:56:02.770Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 19:55, kolodvor SAVSKI MAROF"
   }
 ]
