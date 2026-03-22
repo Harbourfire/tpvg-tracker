@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44798",
-    "event_time": "2026-03-19T17:02:00",
-    "seen_at": "2026-03-19T16:07:48.815Z",
-    "raw": "Br. Vlaka 44798 dolazak      19.03.26. 17:02, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "987895225611",
     "type": "Dolazak",
     "station": "JOSIPOVAC",
@@ -7864,5 +7855,32 @@
     "event_time": "2026-03-22T16:50:00",
     "seen_at": "2026-03-22T15:51:24.785Z",
     "raw": "Br. Vlaka 63310 odlazak      22.03.26. 16:50, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-22T17:04:00",
+    "seen_at": "2026-03-22T16:05:15.151Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 17:04, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63310",
+    "event_time": "2026-03-22T17:11:00",
+    "seen_at": "2026-03-22T16:12:31.699Z",
+    "raw": "Br. Vlaka 63310 dolazak      22.03.26. 17:11, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-22T17:11:00",
+    "seen_at": "2026-03-22T16:12:54.481Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
