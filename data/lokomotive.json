@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "48893",
-    "event_time": "2026-03-19T23:04:00",
-    "seen_at": "2026-03-19T22:04:42.302Z",
-    "raw": "Br. Vlaka 48893 odlazak      19.03.26. 23:04, kolodvor ĐURĐENOVAC"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -7783,5 +7774,23 @@
     "event_time": "2026-03-22T22:57:00",
     "seen_at": "2026-03-22T21:57:26.202Z",
     "raw": "Br. Vlaka 44994 odlazak      22.03.26. 22:57, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-22T13:05:00",
+    "seen_at": "2026-03-22T21:57:59.423Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-03-22T15:42:00",
+    "seen_at": "2026-03-22T21:58:22.497Z",
+    "raw": "Br. Vlaka 47944 promjena sas 22.03.26. 15:42, kolodvor 72303"
   }
 ]
