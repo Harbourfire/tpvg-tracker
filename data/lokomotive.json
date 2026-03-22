@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-03-18T20:22:00",
-    "seen_at": "2026-03-19T11:57:48.179Z",
-    "raw": "Br. Vlaka 47944 formiran     18.03.26. 20:22, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "69901",
-    "event_time": "2026-03-19T12:59:00",
-    "seen_at": "2026-03-19T11:59:36.564Z",
-    "raw": "Br. Vlaka 69901 dolazak      19.03.26. 12:59, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -7882,5 +7864,32 @@
     "event_time": "2026-03-22T12:50:00",
     "seen_at": "2026-03-22T11:52:35.295Z",
     "raw": "Br. Vlaka 44690 odlazak      22.03.26. 12:50, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44690",
+    "event_time": "2026-03-22T12:57:00",
+    "seen_at": "2026-03-22T11:59:58.500Z",
+    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 12:57, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "83820",
+    "event_time": "2026-03-22T13:01:00",
+    "seen_at": "2026-03-22T12:03:00.076Z",
+    "raw": "Br. Vlaka 83820 odlazak      22.03.26. 13:01, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47938",
+    "event_time": "2026-03-22T13:00:00",
+    "seen_at": "2026-03-22T12:03:00.077Z",
+    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 13:00, kolodvor KOPRIVNICA"
   }
 ]
