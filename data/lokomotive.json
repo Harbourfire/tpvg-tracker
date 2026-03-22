@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-19T13:44:00",
-    "seen_at": "2026-03-19T12:45:22.042Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.03.26. 13:44, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-19T13:44:00",
-    "seen_at": "2026-03-19T12:45:22.042Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.03.26. 13:44, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "69901",
-    "event_time": "2026-03-19T13:47:00",
-    "seen_at": "2026-03-19T12:47:35.490Z",
-    "raw": "Br. Vlaka 69901 odlazak      19.03.26. 13:47, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "927820620387",
     "type": "Dolazak",
     "station": "ZDENČINA",
@@ -7981,5 +7954,32 @@
     "event_time": "2026-03-22T13:30:00",
     "seen_at": "2026-03-22T12:32:27.477Z",
     "raw": "Br. Vlaka 83820 odlazak      22.03.26. 13:30, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-22T13:35:00",
+    "seen_at": "2026-03-22T12:41:44.461Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 13:35, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47938",
+    "event_time": "2026-03-22T13:32:00",
+    "seen_at": "2026-03-22T12:46:59.997Z",
+    "raw": "Br. Vlaka 47938 dolazak      22.03.26. 13:32, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-22T13:32:00",
+    "seen_at": "2026-03-22T12:47:22.720Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
   }
 ]
