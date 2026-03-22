@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "89290",
-    "event_time": "2026-03-19T10:11:00",
-    "seen_at": "2026-03-19T09:15:25.955Z",
-    "raw": "Br. Vlaka 89290 odlazak      19.03.26. 10:11, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "PLAŠKI",
-    "train_number": "82533",
-    "event_time": "2026-03-19T09:33:00",
-    "seen_at": "2026-03-19T09:15:47.549Z",
-    "raw": "Br. Vlaka 82533 formiran     19.03.26. 09:33, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "PLAŠKI",
-    "train_number": "82533",
-    "event_time": "2026-03-19T09:33:00",
-    "seen_at": "2026-03-19T09:15:47.550Z",
-    "raw": "Br. Vlaka 82533 formiran     19.03.26. 09:33, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -8035,5 +8008,50 @@
     "event_time": "2026-03-22T09:57:00",
     "seen_at": "2026-03-22T09:08:13.351Z",
     "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:57, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81983",
+    "event_time": "2026-03-22T10:15:00",
+    "seen_at": "2026-03-22T09:15:44.466Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81983",
+    "event_time": "2026-03-22T10:20:00",
+    "seen_at": "2026-03-22T09:21:06.192Z",
+    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44690",
+    "event_time": "2026-03-22T10:20:00",
+    "seen_at": "2026-03-22T09:22:37.844Z",
+    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 10:20, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-03-22T08:00:00",
+    "seen_at": "2026-03-22T09:24:09.288Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-03-22T10:22:00",
+    "seen_at": "2026-03-22T09:24:32.200Z",
+    "raw": "Br. Vlaka 89541 promjena sas 22.03.26. 10:22, kolodvor BELI MANASTIR"
   }
 ]
