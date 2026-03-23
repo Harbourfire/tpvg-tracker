@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "45996",
-    "event_time": "2026-03-20T01:03:00",
-    "seen_at": "2026-03-20T00:11:47.294Z",
-    "raw": "Br. Vlaka 45996 dolazak      20.03.26. 01:03, kolodvor 73164"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-20T02:15:00",
-    "seen_at": "2026-03-20T00:11:47.294Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "VINKOVCI",
@@ -7918,5 +7900,32 @@
     "event_time": "2026-03-23T01:04:00",
     "seen_at": "2026-03-23T00:05:21.167Z",
     "raw": "Br. Vlaka 48797 dolazak      23.03.26. 01:04, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-23T01:11:00",
+    "seen_at": "2026-03-23T00:12:27.245Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 01:11, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-23T01:11:00",
+    "seen_at": "2026-03-23T00:12:27.246Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 01:11, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47944",
+    "event_time": "2026-03-23T01:14:00",
+    "seen_at": "2026-03-23T00:14:45.683Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.03.26. 01:14, kolodvor LEPAVINA"
   }
 ]
