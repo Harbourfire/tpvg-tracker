@@ -1,15 +1,6 @@
 [
   {
     "uic": "997894855706",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "78010",
-    "event_time": "2026-03-20T10:40:00",
-    "seen_at": "2026-03-20T09:40:38.960Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:40, kolodvor KUKAČA"
-  },
-  {
-    "uic": "997894855706",
     "type": "Dolazak",
     "station": "GORNJE DUBRAVE",
     "train_number": "78010",
@@ -8530,5 +8521,41 @@
     "event_time": "2026-03-23T10:36:00",
     "seen_at": "2026-03-23T09:36:24.165Z",
     "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:36, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89757",
+    "event_time": "2026-03-23T10:04:00",
+    "seen_at": "2026-03-23T09:41:17.801Z",
+    "raw": "Br. Vlaka 89757 formiran     23.03.26. 10:04, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89523",
+    "event_time": "2026-03-23T10:38:00",
+    "seen_at": "2026-03-23T09:45:28.344Z",
+    "raw": "Br. Vlaka 89523 odlazak      23.03.26. 10:38, kolodvor KOŠKA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89754",
+    "event_time": "2026-03-23T10:45:00",
+    "seen_at": "2026-03-23T09:45:51.069Z",
+    "raw": "Br. Vlaka 89754 odlazak      23.03.26. 10:45, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76801",
+    "event_time": "2026-03-23T10:45:00",
+    "seen_at": "2026-03-23T09:46:14.807Z",
+    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:45, kolodvor IVANKOVO"
   }
 ]
