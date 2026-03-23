@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81972",
-    "event_time": "2026-03-20T11:20:00",
-    "seen_at": "2026-03-20T10:20:49.284Z",
-    "raw": "Br. Vlaka 81972 formiran     20.03.26. 11:20, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81972",
-    "event_time": "2026-03-20T11:20:00",
-    "seen_at": "2026-03-20T10:20:49.284Z",
-    "raw": "Br. Vlaka 81972 formiran     20.03.26. 11:20, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89541",
-    "event_time": "2026-03-20T11:23:00",
-    "seen_at": "2026-03-20T10:25:12.750Z",
-    "raw": "Br. Vlaka 89541 odlazak      20.03.26. 11:23, kolodvor DARDA"
-  },
-  {
     "uic": "987893113462",
     "type": "Dolazak",
     "station": "OTOK",
@@ -8593,5 +8566,50 @@
     "event_time": "2026-03-23T11:08:00",
     "seen_at": "2026-03-23T10:09:22.858Z",
     "raw": "Br. Vlaka 89754 odlazak      23.03.26. 11:08, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82525",
+    "event_time": "2026-03-23T11:12:00",
+    "seen_at": "2026-03-23T10:16:25.663Z",
+    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:12, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82525",
+    "event_time": "2026-03-23T11:12:00",
+    "seen_at": "2026-03-23T10:16:25.663Z",
+    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:12, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89754",
+    "event_time": "2026-03-23T11:18:00",
+    "seen_at": "2026-03-23T10:19:30.533Z",
+    "raw": "Br. Vlaka 89754 dolazak      23.03.26. 11:18, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-23T11:18:00",
+    "seen_at": "2026-03-23T10:19:53.488Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89755",
+    "event_time": "2026-03-23T10:02:00",
+    "seen_at": "2026-03-23T10:22:58.126Z",
+    "raw": "Br. Vlaka 89755 formiran     23.03.26. 10:02, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
