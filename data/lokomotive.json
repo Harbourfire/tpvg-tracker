@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89708",
-    "event_time": "2026-03-20T21:10:00",
-    "seen_at": "2026-03-20T20:14:59.515Z",
-    "raw": "Br. Vlaka 89708 odlazak      20.03.26. 21:10, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -8791,5 +8782,41 @@
     "event_time": "2026-03-23T21:11:00",
     "seen_at": "2026-03-23T20:11:46.234Z",
     "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:11, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44995",
+    "event_time": "2026-03-23T21:12:00",
+    "seen_at": "2026-03-23T20:14:15.614Z",
+    "raw": "Br. Vlaka 44995 dolazak      23.03.26. 21:12, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44995",
+    "event_time": "2026-03-23T21:13:00",
+    "seen_at": "2026-03-23T20:16:34.518Z",
+    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 21:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89152",
+    "event_time": "2026-03-23T21:18:00",
+    "seen_at": "2026-03-23T20:18:29.251Z",
+    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:18, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89152",
+    "event_time": "2026-03-23T21:18:00",
+    "seen_at": "2026-03-23T20:18:29.251Z",
+    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:18, kolodvor ZAGREB ZAP. KOL."
   }
 ]
