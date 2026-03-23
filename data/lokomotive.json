@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-20T00:13:00",
-    "seen_at": "2026-03-20T01:20:30.101Z",
-    "raw": "Br. Vlaka 69005 formiran     20.03.26. 00:13, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-20T00:13:00",
-    "seen_at": "2026-03-20T01:20:52.496Z",
-    "raw": "Br. Vlaka 69005 formiran     20.03.26. 00:13, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230076",
     "type": "Odlazak",
     "station": "OGULIN",
     "train_number": "69005",
@@ -8062,5 +8044,41 @@
     "event_time": "2026-03-23T01:53:00",
     "seen_at": "2026-03-23T01:10:25.038Z",
     "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48797",
+    "event_time": "2026-03-23T02:14:00",
+    "seen_at": "2026-03-23T01:15:10.196Z",
+    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 02:14, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48797",
+    "event_time": "2026-03-23T02:14:00",
+    "seen_at": "2026-03-23T01:15:10.196Z",
+    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 02:14, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-03-23T02:17:00",
+    "seen_at": "2026-03-23T01:17:48.999Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 02:17, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-03-23T02:17:00",
+    "seen_at": "2026-03-23T01:17:48.999Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 02:17, kolodvor VRHOVINE"
   }
 ]
