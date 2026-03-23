@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "LUPOGLAV",
-    "train_number": "89690",
-    "event_time": "2026-03-20T09:56:00",
-    "seen_at": "2026-03-20T08:56:49.999Z",
-    "raw": "Br. Vlaka 89690 formiran     20.03.26. 09:56, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "997894855706",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "78010",
-    "event_time": "2026-03-20T09:56:00",
-    "seen_at": "2026-03-20T08:58:20.156Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 09:56, kolodvor BLATA"
-  },
-  {
     "uic": "997894855706",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -8359,5 +8341,59 @@
     "event_time": "2026-03-23T09:50:00",
     "seen_at": "2026-03-23T08:50:48.112Z",
     "raw": "Br. Vlaka 76503 odlazak      23.03.26. 09:50, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48799",
+    "event_time": "2026-03-23T09:51:00",
+    "seen_at": "2026-03-23T08:51:47.578Z",
+    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:51, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "ANDRIJEVCI",
+    "train_number": "76503",
+    "event_time": "2026-03-23T09:43:00",
+    "seen_at": "2026-03-23T08:51:47.580Z",
+    "raw": "Br. Vlaka 76503 formiran     23.03.26. 09:43, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76503",
+    "event_time": "2026-03-23T09:46:00",
+    "seen_at": "2026-03-23T08:52:10.583Z",
+    "raw": "Br. Vlaka 76503 odlazak      23.03.26. 09:46, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76503",
+    "event_time": "2026-03-23T09:52:00",
+    "seen_at": "2026-03-23T08:52:33.340Z",
+    "raw": "Br. Vlaka 76503 odlazak      23.03.26. 09:52, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48799",
+    "event_time": "2026-03-23T09:56:00",
+    "seen_at": "2026-03-23T08:57:05.405Z",
+    "raw": "Br. Vlaka 48799 dolazak      23.03.26. 09:56, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "74001",
+    "event_time": "2026-03-23T09:57:00",
+    "seen_at": "2026-03-23T08:57:50.591Z",
+    "raw": "Br. Vlaka 74001 formiran     23.03.26. 09:57, kolodvor OSIJEK"
   }
 ]
