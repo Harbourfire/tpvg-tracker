@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45940",
-    "event_time": "2026-03-20T08:20:00",
-    "seen_at": "2026-03-20T07:21:03.042Z",
-    "raw": "Br. Vlaka 45940 formiran     20.03.26. 08:20, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "89301",
-    "event_time": "2026-03-20T08:21:00",
-    "seen_at": "2026-03-20T07:22:10.341Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:21, kolodvor SLATINA"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "CABUNA",
@@ -8152,5 +8134,50 @@
     "event_time": "2026-03-23T08:08:00",
     "seen_at": "2026-03-23T07:11:13.304Z",
     "raw": "Br. Vlaka 79921 odlazak      23.03.26. 08:08, kolodvor DARDA"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "79901",
+    "event_time": "2026-03-23T08:16:00",
+    "seen_at": "2026-03-23T07:18:36.613Z",
+    "raw": "Br. Vlaka 79901 odlazak      23.03.26. 08:16, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44994",
+    "event_time": "2026-03-23T08:18:00",
+    "seen_at": "2026-03-23T07:18:59.631Z",
+    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 08:18, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48799",
+    "event_time": "2026-03-23T08:22:00",
+    "seen_at": "2026-03-23T07:22:46.608Z",
+    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 08:22, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-23T08:21:00",
+    "seen_at": "2026-03-23T07:24:39.897Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76801",
+    "event_time": "2026-03-23T08:24:00",
+    "seen_at": "2026-03-23T07:25:02.451Z",
+    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 08:24, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
