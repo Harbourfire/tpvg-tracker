@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81973",
-    "event_time": "2026-03-19T08:10:00",
-    "seen_at": "2026-03-20T00:22:08.476Z",
-    "raw": "Br. Vlaka 81973 promjena sas 19.03.26. 08:10, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -7927,5 +7918,59 @@
     "event_time": "2026-03-23T01:14:00",
     "seen_at": "2026-03-23T00:14:45.683Z",
     "raw": "Br. Vlaka 47944 odlazak      23.03.26. 01:14, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "47944",
+    "event_time": "2026-03-23T01:21:00",
+    "seen_at": "2026-03-23T00:21:27.542Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.03.26. 01:21, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-23T01:22:00",
+    "seen_at": "2026-03-23T00:23:42.711Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 01:22, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-23T01:22:00",
+    "seen_at": "2026-03-23T00:23:42.711Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 01:22, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48797",
+    "event_time": "2026-03-23T01:24:00",
+    "seen_at": "2026-03-23T00:24:27.993Z",
+    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 01:24, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48797",
+    "event_time": "2026-03-23T01:24:00",
+    "seen_at": "2026-03-23T00:24:27.993Z",
+    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 01:24, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81291",
+    "event_time": "2026-03-23T01:22:00",
+    "seen_at": "2026-03-23T00:24:50.570Z",
+    "raw": "Br. Vlaka 81291 dolazak      23.03.26. 01:22, kolodvor OSIJEK"
   }
 ]
