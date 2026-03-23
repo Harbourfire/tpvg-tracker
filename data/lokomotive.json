@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89294",
-    "event_time": "2026-03-20T11:03:00",
-    "seen_at": "2026-03-20T10:06:35.621Z",
-    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 11:03, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-03-20T11:10:00",
-    "seen_at": "2026-03-20T10:11:06.755Z",
-    "raw": "Br. Vlaka 89541 odlazak      20.03.26. 11:10, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "997894855706",
-    "type": "Dolazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "78010",
-    "event_time": "2026-03-20T11:11:00",
-    "seen_at": "2026-03-20T10:12:36.718Z",
-    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 11:11, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -8593,5 +8566,32 @@
     "event_time": "2026-03-23T09:57:00",
     "seen_at": "2026-03-23T10:05:02.143Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82525",
+    "event_time": "2026-03-23T11:07:00",
+    "seen_at": "2026-03-23T10:09:00.237Z",
+    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:07, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82525",
+    "event_time": "2026-03-23T11:07:00",
+    "seen_at": "2026-03-23T10:09:00.237Z",
+    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:07, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89754",
+    "event_time": "2026-03-23T11:08:00",
+    "seen_at": "2026-03-23T10:09:22.858Z",
+    "raw": "Br. Vlaka 89754 odlazak      23.03.26. 11:08, kolodvor ORIOVAC"
   }
 ]
