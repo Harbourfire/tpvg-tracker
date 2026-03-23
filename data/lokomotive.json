@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-20T23:26:00",
-    "seen_at": "2026-03-20T22:26:38.697Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-20T23:26:00",
-    "seen_at": "2026-03-20T22:26:38.697Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-20T23:28:00",
-    "seen_at": "2026-03-20T22:28:30.658Z",
-    "raw": "Br. Vlaka 63306 formiran     20.03.26. 23:28, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -9115,5 +9088,23 @@
     "event_time": "2026-03-23T23:18:00",
     "seen_at": "2026-03-23T22:21:39.206Z",
     "raw": "Br. Vlaka 63305 odlazak      23.03.26. 23:18, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48797",
+    "event_time": "2026-03-23T22:48:00",
+    "seen_at": "2026-03-23T22:31:21.286Z",
+    "raw": "Br. Vlaka 48797 dolazak      23.03.26. 22:48, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "69327",
+    "event_time": "2026-03-23T23:32:00",
+    "seen_at": "2026-03-23T22:32:52.085Z",
+    "raw": "Br. Vlaka 69327 odlazak      23.03.26. 23:32, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
