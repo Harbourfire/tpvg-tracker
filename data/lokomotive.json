@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "83811",
-    "event_time": "2026-03-20T23:20:00",
-    "seen_at": "2026-03-20T22:22:54.919Z",
-    "raw": "Br. Vlaka 83811 odlazak      20.03.26. 23:20, kolodvor BIZOVAC"
-  },
-  {
     "uic": "928012230076",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -9097,5 +9088,32 @@
     "event_time": "2026-03-23T23:04:00",
     "seen_at": "2026-03-23T22:04:35.283Z",
     "raw": "Br. Vlaka 69327 odlazak      23.03.26. 23:04, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "69327",
+    "event_time": "2026-03-23T23:20:00",
+    "seen_at": "2026-03-23T22:20:53.724Z",
+    "raw": "Br. Vlaka 69327 odlazak      23.03.26. 23:20, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-23T23:18:00",
+    "seen_at": "2026-03-23T22:21:39.206Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 23:18, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-23T23:18:00",
+    "seen_at": "2026-03-23T22:21:39.206Z",
+    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 23:18, kolodvor PLAŠKI"
   }
 ]
