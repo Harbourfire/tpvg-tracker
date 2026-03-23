@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "89294",
-    "event_time": "2026-03-20T13:09:00",
-    "seen_at": "2026-03-20T12:10:32.625Z",
-    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 13:09, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "997894855706",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "78010",
-    "event_time": "2026-03-20T13:09:00",
-    "seen_at": "2026-03-20T12:10:55.211Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 13:09, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81972",
-    "event_time": "2026-03-20T13:08:00",
-    "seen_at": "2026-03-20T12:12:03.410Z",
-    "raw": "Br. Vlaka 81972 dolazak      20.03.26. 13:08, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81972",
-    "event_time": "2026-03-20T13:08:00",
-    "seen_at": "2026-03-20T12:12:03.410Z",
-    "raw": "Br. Vlaka 81972 dolazak      20.03.26. 13:08, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89294",
@@ -8584,5 +8548,14 @@
     "event_time": "2026-03-23T13:06:00",
     "seen_at": "2026-03-23T12:07:02.814Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "86102",
+    "event_time": "2026-03-23T13:13:00",
+    "seen_at": "2026-03-23T12:14:04.283Z",
+    "raw": "Br. Vlaka 86102 odlazak      23.03.26. 13:13, kolodvor PLETERNICA"
   }
 ]
