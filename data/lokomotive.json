@@ -1,24 +1,6 @@
 [
   {
     "uic": "997894855706",
-    "type": "Dolazak",
-    "station": "ZDENČINA",
-    "train_number": "78010",
-    "event_time": "2026-03-20T15:03:00",
-    "seen_at": "2026-03-20T14:04:24.078Z",
-    "raw": "Br. Vlaka 78010 dolazak      20.03.26. 15:03, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69851",
-    "event_time": "2026-03-20T15:02:00",
-    "seen_at": "2026-03-20T14:04:46.558Z",
-    "raw": "Br. Vlaka 69851 odlazak      20.03.26. 15:02, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "997894855706",
     "type": "Odlazak",
     "station": "ZDENČINA",
     "train_number": "78010",
@@ -8377,5 +8359,14 @@
     "event_time": "2026-03-23T14:57:00",
     "seen_at": "2026-03-23T13:58:43.693Z",
     "raw": "Br. Vlaka 86102 odlazak      23.03.26. 14:57, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "KOŠKA",
+    "train_number": "89445",
+    "event_time": "2026-03-23T15:08:00",
+    "seen_at": "2026-03-23T14:08:45.030Z",
+    "raw": "Br. Vlaka 89445 formiran     23.03.26. 15:08, kolodvor KOŠKA"
   }
 ]
