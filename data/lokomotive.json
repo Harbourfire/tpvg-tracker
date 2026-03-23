@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894855706",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "78010",
-    "event_time": "2026-03-20T12:54:00",
-    "seen_at": "2026-03-20T11:58:14.308Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 12:54, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "89690",
-    "event_time": "2026-03-20T12:56:00",
-    "seen_at": "2026-03-20T11:58:36.698Z",
-    "raw": "Br. Vlaka 89690 odlazak      20.03.26. 12:56, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "PAZIN",
-    "train_number": "70201",
-    "event_time": "2026-03-20T13:00:00",
-    "seen_at": "2026-03-20T12:00:29.279Z",
-    "raw": "Br. Vlaka 70201 odlazak      20.03.26. 13:00, kolodvor PAZIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB GL. KOL.",
@@ -8584,5 +8557,32 @@
     "event_time": "2026-03-23T12:54:00",
     "seen_at": "2026-03-23T11:55:32.809Z",
     "raw": "Br. Vlaka 82525 odlazak      23.03.26. 12:54, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "86102",
+    "event_time": "2026-03-23T13:02:00",
+    "seen_at": "2026-03-23T12:03:38.849Z",
+    "raw": "Br. Vlaka 86102 odlazak      23.03.26. 13:02, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-23T13:06:00",
+    "seen_at": "2026-03-23T12:07:02.814Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-23T13:06:00",
+    "seen_at": "2026-03-23T12:07:02.814Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
