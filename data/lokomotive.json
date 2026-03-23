@@ -2,33 +2,6 @@
   {
     "uic": "987895225611",
     "type": "Odlazak",
-    "station": "SUHOPOLJE",
-    "train_number": "89301",
-    "event_time": "2026-03-20T08:38:00",
-    "seen_at": "2026-03-20T07:39:20.231Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:38, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "49826",
-    "event_time": "2026-03-20T08:17:00",
-    "seen_at": "2026-03-20T07:43:09.046Z",
-    "raw": "Br. Vlaka 49826 odlazak      20.03.26. 08:17, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "49826",
-    "event_time": "2026-03-20T08:38:00",
-    "seen_at": "2026-03-20T07:43:54.296Z",
-    "raw": "Br. Vlaka 49826 odlazak      20.03.26. 08:38, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
     "station": "VIROVITICA",
     "train_number": "89301",
     "event_time": "2026-03-20T08:44:00",
@@ -8197,5 +8170,23 @@
     "event_time": "2026-03-23T08:35:00",
     "seen_at": "2026-03-23T07:35:37.615Z",
     "raw": "Br. Vlaka 76801 odlazak      23.03.26. 08:35, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "BIZOVAC",
+    "train_number": "89522",
+    "event_time": "2026-03-23T08:40:00",
+    "seen_at": "2026-03-23T07:43:04.864Z",
+    "raw": "Br. Vlaka 89522 formiran     23.03.26. 08:40, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "75009",
+    "event_time": "2026-03-23T08:44:00",
+    "seen_at": "2026-03-23T07:44:58.723Z",
+    "raw": "Br. Vlaka 75009 odlazak      23.03.26. 08:44, kolodvor OKUČANI"
   }
 ]
