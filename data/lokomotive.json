@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "49826",
-    "event_time": "2026-03-20T07:03:00",
-    "seen_at": "2026-03-20T06:03:42.722Z",
-    "raw": "Br. Vlaka 49826 formiran     20.03.26. 07:03, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81973",
-    "event_time": "2026-03-20T07:03:00",
-    "seen_at": "2026-03-20T06:06:20.736Z",
-    "raw": "Br. Vlaka 81973 odlazak      20.03.26. 07:03, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "76504",
-    "event_time": "2026-03-20T07:06:00",
-    "seen_at": "2026-03-20T06:07:05.902Z",
-    "raw": "Br. Vlaka 76504 formiran     20.03.26. 07:06, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-20T07:05:00",
-    "seen_at": "2026-03-20T06:07:28.289Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 07:05, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-20T07:05:00",
-    "seen_at": "2026-03-20T06:07:28.289Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 07:05, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89294",
-    "event_time": "2026-03-20T07:07:00",
-    "seen_at": "2026-03-20T06:08:35.832Z",
-    "raw": "Br. Vlaka 89294 dolazak      20.03.26. 07:07, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89294",
-    "event_time": "2026-03-20T07:08:00",
-    "seen_at": "2026-03-20T06:08:58.285Z",
-    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 07:08, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "987891213462",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -8251,5 +8188,59 @@
     "event_time": "2026-03-23T06:57:00",
     "seen_at": "2026-03-23T05:59:30.442Z",
     "raw": "Br. Vlaka 81291 odlazak      23.03.26. 06:57, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76800",
+    "event_time": "2026-03-23T07:02:00",
+    "seen_at": "2026-03-23T06:03:10.827Z",
+    "raw": "Br. Vlaka 76800 formiran     23.03.26. 07:02, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-23T07:06:00",
+    "seen_at": "2026-03-23T06:06:13.240Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76800",
+    "event_time": "2026-03-23T07:06:00",
+    "seen_at": "2026-03-23T06:06:36.070Z",
+    "raw": "Br. Vlaka 76800 odlazak      23.03.26. 07:06, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89185",
+    "event_time": "2026-03-23T06:57:00",
+    "seen_at": "2026-03-23T06:10:45.642Z",
+    "raw": "Br. Vlaka 89185 dolazak      23.03.26. 06:57, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-23T06:57:00",
+    "seen_at": "2026-03-23T06:11:08.250Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "86101",
+    "event_time": "2026-03-23T05:45:00",
+    "seen_at": "2026-03-23T06:11:30.918Z",
+    "raw": "Br. Vlaka 86101 formiran     23.03.26. 05:45, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
