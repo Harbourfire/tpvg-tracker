@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "45996",
-    "event_time": "2026-03-20T06:15:00",
-    "seen_at": "2026-03-20T05:16:23.358Z",
-    "raw": "Br. Vlaka 45996 dolazak      20.03.26. 06:15, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-20T06:15:00",
-    "seen_at": "2026-03-20T05:16:23.359Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:15, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-20T06:15:00",
-    "seen_at": "2026-03-20T05:16:23.359Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.03.26. 06:15, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-20T06:15:00",
-    "seen_at": "2026-03-20T05:16:57.139Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89294",
-    "event_time": "2026-03-19T21:27:00",
-    "seen_at": "2026-03-20T05:19:35.693Z",
-    "raw": "Br. Vlaka 89294 formiran     19.03.26. 21:27, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "71207",
-    "event_time": "2026-03-20T06:20:00",
-    "seen_at": "2026-03-20T05:21:27.956Z",
-    "raw": "Br. Vlaka 71207 formiran     20.03.26. 06:20, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -8377,5 +8323,14 @@
     "event_time": "2026-03-23T05:44:00",
     "seen_at": "2026-03-23T04:45:24.120Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89185",
+    "event_time": "2026-03-23T06:19:00",
+    "seen_at": "2026-03-23T05:21:01.468Z",
+    "raw": "Br. Vlaka 89185 odlazak      23.03.26. 06:19, kolodvor SLAVONSKI BROD"
   }
 ]
