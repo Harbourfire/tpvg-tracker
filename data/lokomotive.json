@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Dolazak",
-    "station": "SPAČVA",
-    "train_number": "74101",
-    "event_time": "2026-03-20T07:12:00",
-    "seen_at": "2026-03-20T06:22:30.622Z",
-    "raw": "Br. Vlaka 74101 dolazak      20.03.26. 07:12, kolodvor SPAČVA"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "SPAČVA",
-    "train_number": null,
-    "event_time": "2026-03-20T07:12:00",
-    "seen_at": "2026-03-20T06:23:15.735Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71304 SPAČVA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Dolazak",
-    "station": "IVANKOVO",
-    "train_number": "76504",
-    "event_time": "2026-03-20T07:22:00",
-    "seen_at": "2026-03-20T06:23:38.582Z",
-    "raw": "Br. Vlaka 76504 dolazak      20.03.26. 07:22, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89294",
-    "event_time": "2026-03-20T07:24:00",
-    "seen_at": "2026-03-20T06:24:46.552Z",
-    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 07:24, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "IVANKOVO",
-    "train_number": null,
-    "event_time": "2026-03-20T07:22:00",
-    "seen_at": "2026-03-20T06:25:31.946Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "89301",
-    "event_time": "2026-03-20T07:25:00",
-    "seen_at": "2026-03-20T06:27:25.119Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 07:25, kolodvor KOŠKA"
-  },
-  {
     "uic": "987891213462",
     "type": "Formiran",
     "station": "IVANKOVO",
@@ -8188,5 +8134,23 @@
     "event_time": "2026-03-23T06:46:00",
     "seen_at": "2026-03-23T06:20:01.781Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "76502",
+    "event_time": "2026-03-23T07:27:00",
+    "seen_at": "2026-03-23T06:28:33.036Z",
+    "raw": "Br. Vlaka 76502 formiran     23.03.26. 07:27, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76800",
+    "event_time": "2026-03-23T07:29:00",
+    "seen_at": "2026-03-23T06:30:05.051Z",
+    "raw": "Br. Vlaka 76800 odlazak      23.03.26. 07:29, kolodvor NOVA GRADIŠKA"
   }
 ]
