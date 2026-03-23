@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "44692",
-    "event_time": "2026-03-20T12:15:00",
-    "seen_at": "2026-03-20T11:15:56.984Z",
-    "raw": "Br. Vlaka 44692 formiran     20.03.26. 12:15, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81972",
-    "event_time": "2026-03-20T12:19:00",
-    "seen_at": "2026-03-20T11:19:32.471Z",
-    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 12:19, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81972",
-    "event_time": "2026-03-20T12:19:00",
-    "seen_at": "2026-03-20T11:19:32.471Z",
-    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 12:19, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620189",
     "type": "Odlazak",
     "station": "ŽUPANJA",
     "train_number": "44692",
@@ -8566,5 +8539,23 @@
     "event_time": "2026-03-23T12:08:00",
     "seen_at": "2026-03-23T11:09:12.625Z",
     "raw": "Br. Vlaka 82525 odlazak      23.03.26. 12:08, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89755",
+    "event_time": "2026-03-23T12:18:00",
+    "seen_at": "2026-03-23T11:18:29.823Z",
+    "raw": "Br. Vlaka 89755 odlazak      23.03.26. 12:18, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Dolazak",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-03-23T12:20:00",
+    "seen_at": "2026-03-23T11:20:23.773Z",
+    "raw": "Br. Vlaka 74101 dolazak      23.03.26. 12:20, kolodvor OTOK"
   }
 ]
