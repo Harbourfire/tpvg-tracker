@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-20T19:47:00",
-    "seen_at": "2026-03-20T20:09:10.420Z",
-    "raw": "Br. Vlaka 63305 formiran     20.03.26. 19:47, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-20T19:47:00",
-    "seen_at": "2026-03-20T20:09:10.420Z",
-    "raw": "Br. Vlaka 63305 formiran     20.03.26. 19:47, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -8773,5 +8755,41 @@
     "event_time": "2026-03-23T20:58:00",
     "seen_at": "2026-03-23T19:59:04.864Z",
     "raw": "Br. Vlaka 89152 odlazak      23.03.26. 20:58, kolodvor 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89152",
+    "event_time": "2026-03-23T21:06:00",
+    "seen_at": "2026-03-23T20:07:36.563Z",
+    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:06, kolodvor 72304"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89152",
+    "event_time": "2026-03-23T21:06:00",
+    "seen_at": "2026-03-23T20:07:36.563Z",
+    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:06, kolodvor 72304"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89152",
+    "event_time": "2026-03-23T21:11:00",
+    "seen_at": "2026-03-23T20:11:46.233Z",
+    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:11, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89152",
+    "event_time": "2026-03-23T21:11:00",
+    "seen_at": "2026-03-23T20:11:46.234Z",
+    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:11, kolodvor ZAGREB KLARA"
   }
 ]
