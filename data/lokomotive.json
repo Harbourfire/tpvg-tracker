@@ -2,42 +2,6 @@
   {
     "uic": "987895225611",
     "type": "Odlazak",
-    "station": "VIROVITICA",
-    "train_number": "89301",
-    "event_time": "2026-03-20T08:44:00",
-    "seen_at": "2026-03-20T07:45:38.334Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:44, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "ŽUPANJA",
-    "train_number": null,
-    "event_time": "2026-03-20T08:45:00",
-    "seen_at": "2026-03-20T07:49:50.434Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "89301",
-    "event_time": "2026-03-20T08:51:00",
-    "seen_at": "2026-03-20T07:52:53.782Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 08:51, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45940",
-    "event_time": "2026-03-20T08:53:00",
-    "seen_at": "2026-03-20T07:53:39.289Z",
-    "raw": "Br. Vlaka 45940 odlazak      20.03.26. 08:53, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
     "station": "PITOMAČA",
     "train_number": "89301",
     "event_time": "2026-03-20T09:00:00",
@@ -8188,5 +8152,59 @@
     "event_time": "2026-03-23T08:44:00",
     "seen_at": "2026-03-23T07:44:58.723Z",
     "raw": "Br. Vlaka 75009 odlazak      23.03.26. 08:44, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44994",
+    "event_time": "2026-03-23T08:45:00",
+    "seen_at": "2026-03-23T07:46:43.131Z",
+    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 08:45, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "48799",
+    "event_time": "2026-03-23T08:47:00",
+    "seen_at": "2026-03-23T07:47:28.718Z",
+    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 08:47, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "86101",
+    "event_time": "2026-03-23T08:50:00",
+    "seen_at": "2026-03-23T07:50:33.429Z",
+    "raw": "Br. Vlaka 86101 odlazak      23.03.26. 08:50, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44994",
+    "event_time": "2026-03-23T08:52:00",
+    "seen_at": "2026-03-23T07:53:13.596Z",
+    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 08:52, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76801",
+    "event_time": "2026-03-23T08:52:00",
+    "seen_at": "2026-03-23T07:53:13.598Z",
+    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 08:52, kolodvor SIBINJ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-23T08:54:00",
+    "seen_at": "2026-03-23T07:54:44.147Z",
+    "raw": "Br. Vlaka 69006 formiran     23.03.26. 08:54, kolodvor OŠTARIJE"
   }
 ]
