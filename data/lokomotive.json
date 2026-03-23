@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "48893",
-    "event_time": "2026-03-20T02:48:00",
-    "seen_at": "2026-03-20T01:54:48.788Z",
-    "raw": "Br. Vlaka 48893 odlazak      20.03.26. 02:48, kolodvor OSIJEK"
-  },
-  {
-    "uic": "997894215729",
-    "type": "Formiran",
-    "station": "DUGA RESA",
-    "train_number": "75012",
-    "event_time": "2026-03-20T02:56:00",
-    "seen_at": "2026-03-20T01:58:35.618Z",
-    "raw": "Br. Vlaka 75012 formiran     20.03.26. 02:56, kolodvor DUGA RESA"
-  },
-  {
     "uic": "997894215729",
     "type": "Odlazak",
     "station": "DUGA RESA",
@@ -8089,5 +8071,23 @@
     "event_time": "2026-03-23T02:47:00",
     "seen_at": "2026-03-23T01:48:26.580Z",
     "raw": "Br. Vlaka 63305 odlazak      23.03.26. 02:47, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-23T02:58:00",
+    "seen_at": "2026-03-23T01:59:15.075Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-23T02:58:00",
+    "seen_at": "2026-03-23T01:59:15.075Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
