@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69851",
-    "event_time": "2026-03-20T14:35:00",
-    "seen_at": "2026-03-20T13:42:57.967Z",
-    "raw": "Br. Vlaka 69851 odlazak      20.03.26. 14:35, kolodvor DALJ"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -8395,5 +8386,14 @@
     "event_time": "2026-03-23T14:40:00",
     "seen_at": "2026-03-23T13:40:51.607Z",
     "raw": "Br. Vlaka 86102 odlazak      23.03.26. 14:40, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44995",
+    "event_time": "2026-03-23T14:44:00",
+    "seen_at": "2026-03-23T13:44:09.095Z",
+    "raw": "Br. Vlaka 44995 dolazak      23.03.26. 14:44, kolodvor ČAKOVEC"
   }
 ]
