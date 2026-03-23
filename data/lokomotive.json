@@ -2,15 +2,6 @@
   {
     "uic": "997894855706",
     "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "78010",
-    "event_time": "2026-03-20T10:32:00",
-    "seen_at": "2026-03-20T09:35:12.981Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:32, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997894855706",
-    "type": "Odlazak",
     "station": "KUKAČA",
     "train_number": "78010",
     "event_time": "2026-03-20T10:40:00",
@@ -8521,5 +8512,23 @@
     "event_time": "2026-03-23T10:28:00",
     "seen_at": "2026-03-23T09:28:35.488Z",
     "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:28, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "86102",
+    "event_time": "2026-03-23T10:33:00",
+    "seen_at": "2026-03-23T09:33:21.977Z",
+    "raw": "Br. Vlaka 86102 formiran     23.03.26. 10:33, kolodvor VELIKA"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76801",
+    "event_time": "2026-03-23T10:36:00",
+    "seen_at": "2026-03-23T09:36:24.165Z",
+    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:36, kolodvor STARI MIKANOVCI"
   }
 ]
