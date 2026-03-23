@@ -2,24 +2,6 @@
   {
     "uic": "997894855706",
     "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "78010",
-    "event_time": "2026-03-20T10:24:00",
-    "seen_at": "2026-03-20T09:25:10.609Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 10:24, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "89294",
-    "event_time": "2026-03-20T10:26:00",
-    "seen_at": "2026-03-20T09:27:03.626Z",
-    "raw": "Br. Vlaka 89294 odlazak      20.03.26. 10:26, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "997894855706",
-    "type": "Odlazak",
     "station": "OŠTARIJE",
     "train_number": "78010",
     "event_time": "2026-03-20T10:32:00",
@@ -8503,5 +8485,41 @@
     "event_time": "2026-03-23T10:14:00",
     "seen_at": "2026-03-23T09:15:17.213Z",
     "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:14, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-23T10:18:00",
+    "seen_at": "2026-03-23T09:21:18.717Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76801",
+    "event_time": "2026-03-23T10:20:00",
+    "seen_at": "2026-03-23T09:21:18.717Z",
+    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:20, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "SVETI PETAR U ŠUMI",
+    "train_number": "70201",
+    "event_time": "2026-03-23T10:21:00",
+    "seen_at": "2026-03-23T09:22:28.200Z",
+    "raw": "Br. Vlaka 70201 odlazak      23.03.26. 10:21, kolodvor SVETI PETAR U ŠUMI"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76801",
+    "event_time": "2026-03-23T10:28:00",
+    "seen_at": "2026-03-23T09:28:35.488Z",
+    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:28, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
