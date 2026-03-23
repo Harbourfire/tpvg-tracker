@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74100",
-    "event_time": "2026-03-20T11:35:00",
-    "seen_at": "2026-03-20T10:35:12.109Z",
-    "raw": "Br. Vlaka 74100 odlazak      20.03.26. 11:35, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "89541",
-    "event_time": "2026-03-20T11:34:00",
-    "seen_at": "2026-03-20T10:37:05.066Z",
-    "raw": "Br. Vlaka 89541 dolazak      20.03.26. 11:34, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89541",
-    "event_time": "2026-03-20T11:36:00",
-    "seen_at": "2026-03-20T10:37:50.441Z",
-    "raw": "Br. Vlaka 89541 odlazak      20.03.26. 11:36, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "89294",
-    "event_time": "2026-03-20T11:39:00",
-    "seen_at": "2026-03-20T10:40:06.681Z",
-    "raw": "Br. Vlaka 89294 dolazak      20.03.26. 11:39, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-20T11:36:00",
-    "seen_at": "2026-03-20T10:43:44.977Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "997894855706",
     "type": "Dolazak",
     "station": "ZVEČAJ",
@@ -8575,5 +8530,32 @@
     "event_time": "2026-03-23T11:26:00",
     "seen_at": "2026-03-23T10:27:49.045Z",
     "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:26, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-23T11:34:00",
+    "seen_at": "2026-03-23T10:35:41.756Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82525",
+    "event_time": "2026-03-23T11:37:00",
+    "seen_at": "2026-03-23T10:38:45.003Z",
+    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:37, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82525",
+    "event_time": "2026-03-23T11:37:00",
+    "seen_at": "2026-03-23T10:38:45.003Z",
+    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 11:37, kolodvor BLATA"
   }
 ]
