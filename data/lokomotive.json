@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894855706",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "78010",
-    "event_time": "2026-03-20T15:13:00",
-    "seen_at": "2026-03-20T14:14:27.649Z",
-    "raw": "Br. Vlaka 78010 odlazak      20.03.26. 15:13, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81972",
-    "event_time": "2026-03-20T15:13:00",
-    "seen_at": "2026-03-20T14:16:16.440Z",
-    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 15:13, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81972",
-    "event_time": "2026-03-20T15:13:00",
-    "seen_at": "2026-03-20T14:16:16.440Z",
-    "raw": "Br. Vlaka 81972 odlazak      20.03.26. 15:13, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "OŠTARIJE",
@@ -8368,5 +8341,32 @@
     "event_time": "2026-03-23T15:08:00",
     "seen_at": "2026-03-23T14:08:45.030Z",
     "raw": "Br. Vlaka 89445 formiran     23.03.26. 15:08, kolodvor KOŠKA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "BIZOVAC",
+    "train_number": "89524",
+    "event_time": "2026-03-23T15:09:00",
+    "seen_at": "2026-03-23T14:09:21.909Z",
+    "raw": "Br. Vlaka 89524 formiran     23.03.26. 15:09, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "86102",
+    "event_time": "2026-03-23T15:10:00",
+    "seen_at": "2026-03-23T14:10:31.615Z",
+    "raw": "Br. Vlaka 86102 dolazak      23.03.26. 15:10, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-23T15:10:00",
+    "seen_at": "2026-03-23T14:10:54.122Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
