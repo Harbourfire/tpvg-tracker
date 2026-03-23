@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "47504",
-    "event_time": "2026-03-20T14:03:00",
-    "seen_at": "2026-03-20T13:04:04.735Z",
-    "raw": "Br. Vlaka 47504 odlazak      20.03.26. 14:03, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "JOSIPDOL",
@@ -8431,5 +8422,14 @@
     "event_time": "2026-03-23T13:54:00",
     "seen_at": "2026-03-23T13:01:48.919Z",
     "raw": "Br. Vlaka 48799 dolazak      23.03.26. 13:54, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44995",
+    "event_time": "2026-03-23T14:12:00",
+    "seen_at": "2026-03-23T13:12:43.970Z",
+    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 14:12, kolodvor KOTORIBA"
   }
 ]
