@@ -1,33 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "KLOŠTAR",
-    "train_number": "89301",
-    "event_time": "2026-03-20T09:07:00",
-    "seen_at": "2026-03-20T08:14:04.320Z",
-    "raw": "Br. Vlaka 89301 dolazak      20.03.26. 09:07, kolodvor KLOŠTAR"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "KLOŠTAR",
-    "train_number": "89301",
-    "event_time": "2026-03-20T09:14:00",
-    "seen_at": "2026-03-20T08:16:20.588Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 09:14, kolodvor KLOŠTAR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "ERDUT",
-    "train_number": "49826",
-    "event_time": "2026-03-20T09:19:00",
-    "seen_at": "2026-03-20T08:20:28.323Z",
-    "raw": "Br. Vlaka 49826 dolazak      20.03.26. 09:19, kolodvor ERDUT"
-  },
-  {
-    "uic": "987895225611",
     "type": "Rasformiran",
     "station": "ĐURĐEVAC",
     "train_number": null,
@@ -8269,5 +8242,59 @@
     "event_time": "2026-03-23T08:57:00",
     "seen_at": "2026-03-23T08:13:13.425Z",
     "raw": "Br. Vlaka 79900 odlazak      23.03.26. 08:57, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "86101",
+    "event_time": "2026-03-23T09:11:00",
+    "seen_at": "2026-03-23T08:14:14.428Z",
+    "raw": "Br. Vlaka 86101 odlazak      23.03.26. 09:11, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-03-23T09:08:00",
+    "seen_at": "2026-03-23T08:14:14.428Z",
+    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 09:08, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48799",
+    "event_time": "2026-03-23T09:14:00",
+    "seen_at": "2026-03-23T08:14:37.632Z",
+    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:14, kolodvor 72302"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44994",
+    "event_time": "2026-03-23T09:14:00",
+    "seen_at": "2026-03-23T08:14:37.633Z",
+    "raw": "Br. Vlaka 44994 dolazak      23.03.26. 09:14, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-03-23T09:14:00",
+    "seen_at": "2026-03-23T08:15:00.848Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48799",
+    "event_time": "2026-03-23T09:21:00",
+    "seen_at": "2026-03-23T08:21:55.579Z",
+    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:21, kolodvor 72303"
   }
 ]
