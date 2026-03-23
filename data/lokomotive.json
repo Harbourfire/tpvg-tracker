@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "PITOMAČA",
-    "train_number": "89301",
-    "event_time": "2026-03-20T09:00:00",
-    "seen_at": "2026-03-20T08:01:02.961Z",
-    "raw": "Br. Vlaka 89301 odlazak      20.03.26. 09:00, kolodvor PITOMAČA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -8206,5 +8197,50 @@
     "event_time": "2026-03-23T08:54:00",
     "seen_at": "2026-03-23T07:54:44.147Z",
     "raw": "Br. Vlaka 69006 formiran     23.03.26. 08:54, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-23T08:54:00",
+    "seen_at": "2026-03-23T07:55:18.835Z",
+    "raw": "Br. Vlaka 69006 formiran     23.03.26. 08:54, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "ĐAKOVO",
+    "train_number": null,
+    "event_time": "2026-03-23T08:54:00",
+    "seen_at": "2026-03-23T07:55:18.836Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71808 ĐAKOVO"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "75009",
+    "event_time": "2026-03-23T08:59:00",
+    "seen_at": "2026-03-23T07:59:33.459Z",
+    "raw": "Br. Vlaka 75009 odlazak      23.03.26. 08:59, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Formiran",
+    "station": "ĐAKOVO",
+    "train_number": "79900",
+    "event_time": "2026-03-23T09:00:00",
+    "seen_at": "2026-03-23T08:01:03.729Z",
+    "raw": "Br. Vlaka 79900 formiran     23.03.26. 09:00, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "86101",
+    "event_time": "2026-03-23T09:01:00",
+    "seen_at": "2026-03-23T08:02:11.684Z",
+    "raw": "Br. Vlaka 86101 odlazak      23.03.26. 09:01, kolodvor BLACKO JAKŠIĆ"
   }
 ]
