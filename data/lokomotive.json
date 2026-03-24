@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-03-21T07:25:00",
-    "seen_at": "2026-03-21T06:25:36.583Z",
-    "raw": "Br. Vlaka 74301 odlazak      21.03.26. 07:25, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89294",
-    "event_time": "2026-03-21T07:28:00",
-    "seen_at": "2026-03-21T06:28:36.444Z",
-    "raw": "Br. Vlaka 89294 odlazak      21.03.26. 07:28, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-03-21T07:26:00",
-    "seen_at": "2026-03-21T06:28:58.920Z",
-    "raw": "Br. Vlaka 45105 odlazak      21.03.26. 07:26, kolodvor OTOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89294",
-    "event_time": "2026-03-21T07:32:00",
-    "seen_at": "2026-03-21T06:33:20.687Z",
-    "raw": "Br. Vlaka 89294 odlazak      21.03.26. 07:32, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "SAVSKI MAROF",
@@ -10600,5 +10564,50 @@
     "event_time": "2026-03-24T07:20:00",
     "seen_at": "2026-03-24T06:23:04.753Z",
     "raw": "Br. Vlaka 74101 odlazak      24.03.26. 07:20, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-03-24T07:24:00",
+    "seen_at": "2026-03-24T06:24:59.199Z",
+    "raw": "Br. Vlaka 66853 formiran     24.03.26. 07:24, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-03-24T07:26:00",
+    "seen_at": "2026-03-24T06:26:53.877Z",
+    "raw": "Br. Vlaka 66853 odlazak      24.03.26. 07:26, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69852",
+    "event_time": "2026-03-24T07:29:00",
+    "seen_at": "2026-03-24T06:29:57.746Z",
+    "raw": "Br. Vlaka 69852 formiran     24.03.26. 07:29, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "GOMIRJE",
+    "train_number": "79910",
+    "event_time": "2026-03-24T07:29:00",
+    "seen_at": "2026-03-24T06:31:54.689Z",
+    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 07:29, kolodvor GOMIRJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "49835",
+    "event_time": "2026-03-24T07:32:00",
+    "seen_at": "2026-03-24T06:32:41.186Z",
+    "raw": "Br. Vlaka 49835 odlazak      24.03.26. 07:32, kolodvor GARČIN"
   }
 ]
