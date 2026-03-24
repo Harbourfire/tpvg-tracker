@@ -1,24 +1,6 @@
 [
   {
     "uic": "987891113472",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-03-21T07:15:00",
-    "seen_at": "2026-03-21T06:16:00.022Z",
-    "raw": "Br. Vlaka 74301 formiran     21.03.26. 07:15, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89294",
-    "event_time": "2026-03-21T07:23:00",
-    "seen_at": "2026-03-21T06:24:06.716Z",
-    "raw": "Br. Vlaka 89294 odlazak      21.03.26. 07:23, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987891113472",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
     "train_number": "74301",
@@ -10582,5 +10564,41 @@
     "event_time": "2026-03-24T07:12:00",
     "seen_at": "2026-03-24T06:12:55.692Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "49835",
+    "event_time": "2026-03-24T07:18:00",
+    "seen_at": "2026-03-24T06:19:40.725Z",
+    "raw": "Br. Vlaka 49835 odlazak      24.03.26. 07:18, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45992",
+    "event_time": "2026-03-24T07:20:00",
+    "seen_at": "2026-03-24T06:22:19.633Z",
+    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 07:20, kolodvor 73164"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45992",
+    "event_time": "2026-03-24T07:20:00",
+    "seen_at": "2026-03-24T06:22:19.633Z",
+    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 07:20, kolodvor 73164"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74101",
+    "event_time": "2026-03-24T07:20:00",
+    "seen_at": "2026-03-24T06:23:04.753Z",
+    "raw": "Br. Vlaka 74101 odlazak      24.03.26. 07:20, kolodvor SPAČVA"
   }
 ]
