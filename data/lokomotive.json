@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KLOŠTAR",
-    "train_number": "89873",
-    "event_time": "2026-03-21T22:54:00",
-    "seen_at": "2026-03-21T21:59:57.438Z",
-    "raw": "Br. Vlaka 89873 dolazak      21.03.26. 22:54, kolodvor KLOŠTAR"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "KLOŠTAR",
-    "train_number": null,
-    "event_time": "2026-03-21T22:54:00",
-    "seen_at": "2026-03-21T22:00:19.909Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73008 KLOŠTAR"
-  },
-  {
-    "uic": "927820440265",
     "type": "Formiran",
     "station": "KLOŠTAR",
     "train_number": "89162",
@@ -11284,5 +11266,32 @@
     "event_time": "2026-03-24T22:52:00",
     "seen_at": "2026-03-24T21:53:24.942Z",
     "raw": "Br. Vlaka 63305 odlazak      24.03.26. 22:52, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89721",
+    "event_time": "2026-03-24T22:58:00",
+    "seen_at": "2026-03-24T21:58:32.434Z",
+    "raw": "Br. Vlaka 89721 odlazak      24.03.26. 22:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-03-24T23:00:00",
+    "seen_at": "2026-03-24T22:00:26.057Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 23:00, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-03-24T23:00:00",
+    "seen_at": "2026-03-24T22:00:26.057Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 23:00, kolodvor 72303"
   }
 ]
