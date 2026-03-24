@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-21T15:42:00",
-    "seen_at": "2026-03-21T14:43:00.164Z",
-    "raw": "Br. Vlaka 63310 odlazak      21.03.26. 15:42, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-21T15:42:00",
-    "seen_at": "2026-03-21T14:43:00.164Z",
-    "raw": "Br. Vlaka 63310 odlazak      21.03.26. 15:42, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "LUPOGLAV",
@@ -11266,5 +11248,68 @@
     "event_time": "2026-03-24T15:31:00",
     "seen_at": "2026-03-24T14:32:07.109Z",
     "raw": "Br. Vlaka 89757 odlazak      24.03.26. 15:31, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-03-24T14:37:00",
+    "seen_at": "2026-03-24T14:34:42.678Z",
+    "raw": "Br. Vlaka 49827 promjena sas 24.03.26. 14:37, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-03-24T15:30:00",
+    "seen_at": "2026-03-24T14:35:06.393Z",
+    "raw": "Br. Vlaka 49827 odlazak      24.03.26. 15:30, kolodvor ERDUT"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-24T15:36:00",
+    "seen_at": "2026-03-24T14:37:46.849Z",
+    "raw": "Br. Vlaka 63310 dolazak      24.03.26. 15:36, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-24T15:36:00",
+    "seen_at": "2026-03-24T14:38:09.655Z",
+    "raw": "Br. Vlaka 63310 promjena sas 24.03.26. 15:36, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "89113",
+    "event_time": "2026-03-24T15:38:00",
+    "seen_at": "2026-03-24T14:39:19.334Z",
+    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 15:38, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "89757",
+    "event_time": "2026-03-24T15:41:00",
+    "seen_at": "2026-03-24T14:42:45.756Z",
+    "raw": "Br. Vlaka 89757 odlazak      24.03.26. 15:41, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "89751",
+    "event_time": "2026-03-24T15:16:00",
+    "seen_at": "2026-03-24T14:43:08.553Z",
+    "raw": "Br. Vlaka 89751 odlazak      24.03.26. 15:16, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
