@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "BREGI",
-    "train_number": "89800",
-    "event_time": "2026-03-21T10:35:00",
-    "seen_at": "2026-03-21T09:36:21.692Z",
-    "raw": "Br. Vlaka 89800 odlazak      21.03.26. 10:35, kolodvor BREGI"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -10924,5 +10915,50 @@
     "event_time": "2026-03-24T08:53:00",
     "seen_at": "2026-03-24T09:29:34.759Z",
     "raw": "Br. Vlaka 79912 formiran     24.03.26. 08:53, kolodvor 75601"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "81244",
+    "event_time": "2026-03-24T10:22:00",
+    "seen_at": "2026-03-24T09:33:36.693Z",
+    "raw": "Br. Vlaka 81244 dolazak      24.03.26. 10:22, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "81244",
+    "event_time": "2026-03-24T10:32:00",
+    "seen_at": "2026-03-24T09:33:59.601Z",
+    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 10:32, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44994",
+    "event_time": "2026-03-24T10:33:00",
+    "seen_at": "2026-03-24T09:33:59.601Z",
+    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 10:33, kolodvor 72303"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "75601",
+    "train_number": "79912",
+    "event_time": "2026-03-24T10:32:00",
+    "seen_at": "2026-03-24T09:35:32.634Z",
+    "raw": "Br. Vlaka 79912 odlazak      24.03.26. 10:32, kolodvor 75601"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "44994",
+    "event_time": "2026-03-24T10:40:00",
+    "seen_at": "2026-03-24T09:40:30.410Z",
+    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 10:40, kolodvor 72304"
   }
 ]
