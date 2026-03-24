@@ -1,15 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "VIRJE",
-    "train_number": "89800",
-    "event_time": "2026-03-21T09:35:00",
-    "seen_at": "2026-03-21T08:36:54.628Z",
-    "raw": "Br. Vlaka 89800 odlazak      21.03.26. 09:35, kolodvor VIRJE"
-  },
-  {
-    "uic": "987895225611",
     "type": "Dolazak",
     "station": "BREGI",
     "train_number": "89800",
@@ -10789,5 +10780,68 @@
     "event_time": "2026-03-24T09:29:00",
     "seen_at": "2026-03-24T08:29:32.893Z",
     "raw": "Br. Vlaka 71202 odlazak      24.03.26. 09:29, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "77247",
+    "event_time": "2026-03-24T09:29:00",
+    "seen_at": "2026-03-24T08:36:45.147Z",
+    "raw": "Br. Vlaka 77247 odlazak      24.03.26. 09:29, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "77247",
+    "event_time": "2026-03-24T09:37:00",
+    "seen_at": "2026-03-24T08:37:54.589Z",
+    "raw": "Br. Vlaka 77247 odlazak      24.03.26. 09:37, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-24T09:38:00",
+    "seen_at": "2026-03-24T08:38:17.345Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "MEJA",
+    "train_number": "79910",
+    "event_time": "2026-03-24T09:35:00",
+    "seen_at": "2026-03-24T08:38:17.346Z",
+    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 09:35, kolodvor MEJA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-03-24T09:38:00",
+    "seen_at": "2026-03-24T08:40:10.623Z",
+    "raw": "Br. Vlaka 71203 formiran     24.03.26. 09:38, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89757",
+    "event_time": "2026-03-24T09:43:00",
+    "seen_at": "2026-03-24T08:44:20.949Z",
+    "raw": "Br. Vlaka 89757 formiran     24.03.26. 09:43, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47939",
+    "event_time": "2026-03-24T09:44:00",
+    "seen_at": "2026-03-24T08:44:43.720Z",
+    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 09:44, kolodvor SESVETE"
   }
 ]
