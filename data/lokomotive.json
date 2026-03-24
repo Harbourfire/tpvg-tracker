@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-21T14:39:00",
-    "seen_at": "2026-03-21T13:39:36.125Z",
-    "raw": "Br. Vlaka 63310 formiran     21.03.26. 14:39, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-21T14:39:00",
-    "seen_at": "2026-03-21T13:39:36.125Z",
-    "raw": "Br. Vlaka 63310 formiran     21.03.26. 14:39, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "IVANKOVO",
-    "train_number": "82514",
-    "event_time": "2026-03-21T14:38:00",
-    "seen_at": "2026-03-21T13:40:32.985Z",
-    "raw": "Br. Vlaka 82514 dolazak      21.03.26. 14:38, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "IVANKOVO",
-    "train_number": null,
-    "event_time": "2026-03-21T13:05:00",
-    "seen_at": "2026-03-21T13:46:33.505Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
-  },
-  {
     "uic": "927820440265",
     "type": "Formiran",
     "station": "IVANKOVO",
@@ -11284,5 +11248,23 @@
     "event_time": "2026-03-24T14:33:00",
     "seen_at": "2026-03-24T13:36:05.766Z",
     "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-24T14:41:00",
+    "seen_at": "2026-03-24T13:43:04.763Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 14:41, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "DUGA RESA",
+    "train_number": "89113",
+    "event_time": "2026-03-24T14:40:00",
+    "seen_at": "2026-03-24T13:43:33.898Z",
+    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 14:40, kolodvor DUGA RESA"
   }
 ]
