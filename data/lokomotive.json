@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "47938",
-    "event_time": "2026-03-21T17:59:00",
-    "seen_at": "2026-03-21T17:06:41.217Z",
-    "raw": "Br. Vlaka 47938 dolazak      21.03.26. 17:59, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "47938",
-    "event_time": "2026-03-21T18:05:00",
-    "seen_at": "2026-03-21T17:07:26.715Z",
-    "raw": "Br. Vlaka 47938 odlazak      21.03.26. 18:05, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "47938",
-    "event_time": "2026-03-21T18:12:00",
-    "seen_at": "2026-03-21T17:13:25.616Z",
-    "raw": "Br. Vlaka 47938 odlazak      21.03.26. 18:12, kolodvor 77424"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "NAŠICE",
@@ -11491,5 +11464,23 @@
     "event_time": "2026-03-24T18:02:00",
     "seen_at": "2026-03-24T17:04:25.954Z",
     "raw": "Br. Vlaka 63310 odlazak      24.03.26. 18:02, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T18:09:00",
+    "seen_at": "2026-03-24T17:10:18.068Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 18:09, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T18:09:00",
+    "seen_at": "2026-03-24T17:10:18.068Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 18:09, kolodvor LEPAVINA"
   }
 ]
