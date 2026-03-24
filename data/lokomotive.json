@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "89126",
-    "event_time": "2026-03-21T18:48:00",
-    "seen_at": "2026-03-21T17:50:21.621Z",
-    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:48, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
-    "uic": "927820440265",
     "type": "Dolazak",
     "station": "ČAČINCI",
     "train_number": "89126",
@@ -11482,5 +11473,23 @@
     "event_time": "2026-03-24T12:42:00",
     "seen_at": "2026-03-24T17:42:04.906Z",
     "raw": "Br. Vlaka 83819 promjena sas 24.03.26. 12:42, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47945",
+    "event_time": "2026-03-24T18:44:00",
+    "seen_at": "2026-03-24T17:44:36.854Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 18:44, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47945",
+    "event_time": "2026-03-24T18:44:00",
+    "seen_at": "2026-03-24T17:44:36.854Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 18:44, kolodvor KRIŽEVCI"
   }
 ]
