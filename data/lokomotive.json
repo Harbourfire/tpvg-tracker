@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "47938",
-    "event_time": "2026-03-21T17:50:00",
-    "seen_at": "2026-03-21T16:56:33.913Z",
-    "raw": "Br. Vlaka 47938 odlazak      21.03.26. 17:50, kolodvor ROČ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "89126",
-    "event_time": "2026-03-21T18:00:00",
-    "seen_at": "2026-03-21T17:01:28.898Z",
-    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:00, kolodvor KOŠKA"
-  },
-  {
-    "uic": "928012230100",
     "type": "Dolazak",
     "station": "BUZET",
     "train_number": "47938",
@@ -11491,5 +11473,23 @@
     "event_time": "2026-03-24T17:50:00",
     "seen_at": "2026-03-24T16:51:56.011Z",
     "raw": "Br. Vlaka 63310 odlazak      24.03.26. 17:50, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "89113",
+    "event_time": "2026-03-24T17:56:00",
+    "seen_at": "2026-03-24T16:57:29.513Z",
+    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 17:56, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-03-24T18:02:00",
+    "seen_at": "2026-03-24T17:04:25.954Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 18:02, kolodvor PLAŠKI"
   }
 ]
