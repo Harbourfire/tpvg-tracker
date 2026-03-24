@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "81291",
-    "event_time": "2026-03-21T23:22:00",
-    "seen_at": "2026-03-21T22:24:07.846Z",
-    "raw": "Br. Vlaka 81291 odlazak      21.03.26. 23:22, kolodvor GREDA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-21T23:24:00",
-    "seen_at": "2026-03-21T22:24:52.815Z",
-    "raw": "Br. Vlaka 63306 formiran     21.03.26. 23:24, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-21T23:24:00",
-    "seen_at": "2026-03-21T22:24:52.815Z",
-    "raw": "Br. Vlaka 63306 formiran     21.03.26. 23:24, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "BJELOVAR",
-    "train_number": "89162",
-    "event_time": "2026-03-21T23:23:00",
-    "seen_at": "2026-03-21T22:27:29.849Z",
-    "raw": "Br. Vlaka 89162 odlazak      21.03.26. 23:23, kolodvor BJELOVAR"
-  },
-  {
-    "uic": "927820622029",
     "type": "Dolazak",
     "station": "SISAK",
     "train_number": "81291",
@@ -11320,5 +11284,14 @@
     "event_time": "2026-03-24T23:22:00",
     "seen_at": "2026-03-24T22:23:08.261Z",
     "raw": "Br. Vlaka 47945 odlazak      24.03.26. 23:22, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-24T23:23:00",
+    "seen_at": "2026-03-24T22:24:53.811Z",
+    "raw": "Br. Vlaka 63305 odlazak      24.03.26. 23:23, kolodvor PERUŠIĆ"
   }
 ]
