@@ -10888,5 +10888,41 @@
     "event_time": "2026-03-24T10:02:00",
     "seen_at": "2026-03-24T09:07:05.340Z",
     "raw": "Br. Vlaka 47939 dolazak      24.03.26. 10:02, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "81244",
+    "event_time": "2026-03-24T09:47:00",
+    "seen_at": "2026-03-24T09:26:10.750Z",
+    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 09:47, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "75601",
+    "train_number": "79911",
+    "event_time": "2026-03-24T10:20:00",
+    "seen_at": "2026-03-24T09:26:33.339Z",
+    "raw": "Br. Vlaka 79911 dolazak      24.03.26. 10:20, kolodvor 75601"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "75601",
+    "train_number": null,
+    "event_time": "2026-03-24T10:20:00",
+    "seen_at": "2026-03-24T09:29:11.888Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75601 75601"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "75601",
+    "train_number": "79912",
+    "event_time": "2026-03-24T08:53:00",
+    "seen_at": "2026-03-24T09:29:34.759Z",
+    "raw": "Br. Vlaka 79912 formiran     24.03.26. 08:53, kolodvor 75601"
   }
 ]
