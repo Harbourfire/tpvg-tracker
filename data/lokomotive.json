@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-18T11:06:00",
-    "seen_at": "2026-03-21T10:07:03.565Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -10996,5 +10987,86 @@
     "event_time": "2026-03-24T10:55:00",
     "seen_at": "2026-03-24T09:55:23.698Z",
     "raw": "Br. Vlaka 81231 odlazak      24.03.26. 10:55, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81244",
+    "event_time": "2026-03-24T11:01:00",
+    "seen_at": "2026-03-24T10:01:19.173Z",
+    "raw": "Br. Vlaka 81244 dolazak      24.03.26. 11:01, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81231",
+    "event_time": "2026-03-24T11:01:00",
+    "seen_at": "2026-03-24T10:02:50.861Z",
+    "raw": "Br. Vlaka 81231 odlazak      24.03.26. 11:01, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44994",
+    "event_time": "2026-03-24T11:02:00",
+    "seen_at": "2026-03-24T10:04:44.747Z",
+    "raw": "Br. Vlaka 44994 dolazak      24.03.26. 11:02, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "RAŽINE",
+    "train_number": "70500",
+    "event_time": "2026-03-24T11:05:00",
+    "seen_at": "2026-03-24T10:05:53.786Z",
+    "raw": "Br. Vlaka 70500 formiran     24.03.26. 11:05, kolodvor RAŽINE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "48890",
+    "event_time": "2026-03-24T11:03:00",
+    "seen_at": "2026-03-24T10:06:17.310Z",
+    "raw": "Br. Vlaka 48890 promjena sas 24.03.26. 11:03, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "79912",
+    "event_time": "2026-03-24T11:06:00",
+    "seen_at": "2026-03-24T10:06:17.313Z",
+    "raw": "Br. Vlaka 79912 dolazak      24.03.26. 11:06, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "SUŠAK PEĆINE",
+    "train_number": null,
+    "event_time": "2026-03-24T11:06:00",
+    "seen_at": "2026-03-24T10:06:40.011Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75502 SUŠAK PEĆINE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "79913",
+    "event_time": "2026-03-24T09:35:00",
+    "seen_at": "2026-03-24T10:07:25.618Z",
+    "raw": "Br. Vlaka 79913 formiran     24.03.26. 09:35, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-18T11:06:00",
+    "seen_at": "2026-03-24T10:07:48.314Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
