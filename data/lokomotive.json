@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-21T14:30:00",
-    "seen_at": "2026-03-21T13:30:58.911Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
     "type": "Formiran",
     "station": "GOSPIĆ",
     "train_number": "63310",
@@ -11266,5 +11257,32 @@
     "event_time": "2026-03-24T14:21:00",
     "seen_at": "2026-03-24T13:21:50.879Z",
     "raw": "Br. Vlaka 89113 odlazak      24.03.26. 14:21, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "48890",
+    "event_time": "2026-03-24T14:28:00",
+    "seen_at": "2026-03-24T13:29:18.401Z",
+    "raw": "Br. Vlaka 48890 odlazak      24.03.26. 14:28, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "89113",
+    "event_time": "2026-03-24T14:30:00",
+    "seen_at": "2026-03-24T13:30:48.954Z",
+    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 14:30, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VUKOVAR",
+    "train_number": null,
+    "event_time": "2026-03-24T14:33:00",
+    "seen_at": "2026-03-24T13:36:05.766Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
   }
 ]
