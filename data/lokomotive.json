@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89800",
-    "event_time": "2026-03-21T10:45:00",
-    "seen_at": "2026-03-21T09:52:49.636Z",
-    "raw": "Br. Vlaka 89800 dolazak      21.03.26. 10:45, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -10969,5 +10960,41 @@
     "event_time": "2026-03-24T10:50:00",
     "seen_at": "2026-03-24T09:50:14.942Z",
     "raw": "Br. Vlaka 79912 dolazak      24.03.26. 10:50, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "44994",
+    "event_time": "2026-03-24T10:51:00",
+    "seen_at": "2026-03-24T09:51:58.444Z",
+    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 10:51, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "79912",
+    "event_time": "2026-03-24T10:52:00",
+    "seen_at": "2026-03-24T09:52:21.531Z",
+    "raw": "Br. Vlaka 79912 odlazak      24.03.26. 10:52, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "BIZOVAC",
+    "train_number": null,
+    "event_time": "2026-03-24T10:51:00",
+    "seen_at": "2026-03-24T09:55:01.187Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81231",
+    "event_time": "2026-03-24T10:55:00",
+    "seen_at": "2026-03-24T09:55:23.698Z",
+    "raw": "Br. Vlaka 81231 odlazak      24.03.26. 10:55, kolodvor OŠTARIJE"
   }
 ]
