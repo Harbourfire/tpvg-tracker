@@ -10627,5 +10627,50 @@
     "event_time": "2026-03-15T07:35:00",
     "seen_at": "2026-03-24T06:42:29.842Z",
     "raw": "Trenutna pozicija je u kolodvoru 72503 BANOVA JARUGA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "PERKOVIĆ",
+    "train_number": "70501",
+    "event_time": "2026-03-24T07:45:00",
+    "seen_at": "2026-03-24T06:46:10.517Z",
+    "raw": "Br. Vlaka 70501 formiran     24.03.26. 07:45, kolodvor PERKOVIĆ"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "PERKOVIĆ",
+    "train_number": "70501",
+    "event_time": "2026-03-24T07:44:00",
+    "seen_at": "2026-03-24T06:46:33.802Z",
+    "raw": "Br. Vlaka 70501 odlazak      24.03.26. 07:44, kolodvor PERKOVIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-24T07:35:00",
+    "seen_at": "2026-03-24T06:47:20.715Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-24T07:35:00",
+    "seen_at": "2026-03-24T06:47:20.715Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "MORAVICE",
+    "train_number": "79910",
+    "event_time": "2026-03-24T07:47:00",
+    "seen_at": "2026-03-24T06:47:20.716Z",
+    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 07:47, kolodvor MORAVICE"
   }
 ]
