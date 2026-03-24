@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89126",
-    "event_time": "2026-03-21T17:00:00",
-    "seen_at": "2026-03-21T16:29:37.183Z",
-    "raw": "Br. Vlaka 89126 dolazak      21.03.26. 17:00, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89126",
-    "event_time": "2026-03-21T17:28:00",
-    "seen_at": "2026-03-21T16:29:59.546Z",
-    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 17:28, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-21T17:29:00",
-    "seen_at": "2026-03-21T16:29:59.546Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-21T17:29:00",
-    "seen_at": "2026-03-21T16:29:59.546Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LUPOGLAV",
@@ -11437,5 +11401,41 @@
     "event_time": "2026-03-24T12:23:00",
     "seen_at": "2026-03-24T16:10:33.592Z",
     "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T17:26:00",
+    "seen_at": "2026-03-24T16:28:07.832Z",
+    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 17:26, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T17:26:00",
+    "seen_at": "2026-03-24T16:28:07.832Z",
+    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 17:26, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T17:28:00",
+    "seen_at": "2026-03-24T16:29:18.799Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 17:28, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T17:28:00",
+    "seen_at": "2026-03-24T16:29:18.799Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 17:28, kolodvor KOPRIVNICA"
   }
 ]
