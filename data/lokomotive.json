@@ -10177,5 +10177,77 @@
     "event_time": "2026-03-24T05:28:00",
     "seen_at": "2026-03-24T04:28:39.502Z",
     "raw": "Br. Vlaka 79910 dolazak      24.03.26. 05:28, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81230",
+    "event_time": "2026-03-24T05:30:00",
+    "seen_at": "2026-03-24T04:31:52.575Z",
+    "raw": "Br. Vlaka 81230 dolazak      24.03.26. 05:30, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81230",
+    "event_time": "2026-03-24T05:30:00",
+    "seen_at": "2026-03-24T04:31:52.575Z",
+    "raw": "Br. Vlaka 81230 dolazak      24.03.26. 05:30, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-24T05:30:00",
+    "seen_at": "2026-03-24T04:32:15.811Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-24T05:30:00",
+    "seen_at": "2026-03-24T04:32:15.811Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45992",
+    "event_time": "2026-03-24T05:27:00",
+    "seen_at": "2026-03-24T04:33:47.899Z",
+    "raw": "Br. Vlaka 45992 dolazak      24.03.26. 05:27, kolodvor 73164"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45992",
+    "event_time": "2026-03-24T05:27:00",
+    "seen_at": "2026-03-24T04:33:47.899Z",
+    "raw": "Br. Vlaka 45992 dolazak      24.03.26. 05:27, kolodvor 73164"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "77244",
+    "event_time": "2026-03-24T05:30:00",
+    "seen_at": "2026-03-24T04:34:10.565Z",
+    "raw": "Br. Vlaka 77244 odlazak      24.03.26. 05:30, kolodvor KOŠKA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "79910",
+    "event_time": "2026-03-24T05:36:00",
+    "seen_at": "2026-03-24T04:37:36.345Z",
+    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 05:36, kolodvor GENERALSKI STOL"
   }
 ]
