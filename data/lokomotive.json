@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VRAPČANA",
-    "train_number": null,
-    "event_time": "2026-03-21T11:36:00",
-    "seen_at": "2026-03-21T10:38:36.932Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71301 VRAPČANA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-21T11:40:00",
-    "seen_at": "2026-03-21T10:41:39.150Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Promjena sastava",
-    "station": "OŠTARIJE",
-    "train_number": "44691",
-    "event_time": "2026-03-21T08:03:00",
-    "seen_at": "2026-03-21T10:43:26.024Z",
-    "raw": "Br. Vlaka 44691 promjena sas 21.03.26. 08:03, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-03-21T11:45:00",
-    "seen_at": "2026-03-21T10:46:52.440Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
     "uic": "987895225611",
     "type": "Formiran",
     "station": "NOVO DRNJE",
@@ -11131,5 +11095,32 @@
     "event_time": "2026-03-24T11:37:00",
     "seen_at": "2026-03-24T10:37:25.769Z",
     "raw": "Br. Vlaka 44994 odlazak      24.03.26. 11:37, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "79914",
+    "event_time": "2026-03-24T11:37:00",
+    "seen_at": "2026-03-24T10:38:49.654Z",
+    "raw": "Br. Vlaka 79914 odlazak      24.03.26. 11:37, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81231",
+    "event_time": "2026-03-24T11:41:00",
+    "seen_at": "2026-03-24T10:41:56.742Z",
+    "raw": "Br. Vlaka 81231 odlazak      24.03.26. 11:41, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44994",
+    "event_time": "2026-03-24T11:44:00",
+    "seen_at": "2026-03-24T10:45:03.117Z",
+    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 11:44, kolodvor PODSUSED tvornica"
   }
 ]
