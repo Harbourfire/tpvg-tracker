@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-12T23:04:00",
-    "seen_at": "2026-03-21T22:14:20.387Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "81291",
-    "event_time": "2026-03-21T23:14:00",
-    "seen_at": "2026-03-21T22:16:38.148Z",
-    "raw": "Br. Vlaka 81291 odlazak      21.03.26. 23:14, kolodvor LEKENIK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-21T23:19:00",
-    "seen_at": "2026-03-21T22:20:44.392Z",
-    "raw": "Br. Vlaka 63305 dolazak      21.03.26. 23:19, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-21T23:19:00",
-    "seen_at": "2026-03-21T22:20:44.392Z",
-    "raw": "Br. Vlaka 63305 dolazak      21.03.26. 23:19, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-21T23:19:00",
-    "seen_at": "2026-03-21T22:21:30.013Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-21T23:19:00",
-    "seen_at": "2026-03-21T22:21:30.013Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "GREDA",
@@ -11329,5 +11275,50 @@
     "event_time": "2026-03-24T14:56:00",
     "seen_at": "2026-03-24T22:13:13.633Z",
     "raw": "Br. Vlaka 81981 formiran     24.03.26. 14:56, kolodvor 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-12T23:04:00",
+    "seen_at": "2026-03-24T22:14:59.862Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T23:14:00",
+    "seen_at": "2026-03-24T22:18:05.603Z",
+    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 23:14, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T23:14:00",
+    "seen_at": "2026-03-24T22:18:05.603Z",
+    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 23:14, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T23:22:00",
+    "seen_at": "2026-03-24T22:23:08.261Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 23:22, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-03-24T23:22:00",
+    "seen_at": "2026-03-24T22:23:08.261Z",
+    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 23:22, kolodvor ZAGREB KLARA"
   }
 ]
