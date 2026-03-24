@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-21T14:47:00",
-    "seen_at": "2026-03-21T13:57:23.791Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89126",
-    "event_time": "2026-03-21T15:00:00",
-    "seen_at": "2026-03-21T14:02:29.712Z",
-    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 15:00, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "STARI MIKANOVCI",
@@ -11266,5 +11248,14 @@
     "event_time": "2026-03-24T09:55:00",
     "seen_at": "2026-03-24T13:51:59.516Z",
     "raw": "Br. Vlaka 89751 formiran     24.03.26. 09:55, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-24T14:56:00",
+    "seen_at": "2026-03-24T13:57:09.165Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 14:56, kolodvor PERUŠIĆ"
   }
 ]
