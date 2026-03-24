@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "89162",
-    "event_time": "2026-03-21T23:51:00",
-    "seen_at": "2026-03-21T22:52:07.416Z",
-    "raw": "Br. Vlaka 89162 odlazak      21.03.26. 23:51, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "81291",
-    "event_time": "2026-03-21T23:58:00",
-    "seen_at": "2026-03-21T22:59:29.529Z",
-    "raw": "Br. Vlaka 81291 odlazak      21.03.26. 23:58, kolodvor SISAK"
-  },
-  {
-    "uic": "927820440265",
     "type": "Dolazak",
     "station": "VRBOVEC",
     "train_number": "89162",
@@ -11356,5 +11338,14 @@
     "event_time": "2026-03-24T10:02:00",
     "seen_at": "2026-03-24T22:50:34.892Z",
     "raw": "Br. Vlaka 47939 promjena sas 24.03.26. 10:02, kolodvor 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-24T23:54:00",
+    "seen_at": "2026-03-24T22:54:37.052Z",
+    "raw": "Br. Vlaka 63306 formiran     24.03.26. 23:54, kolodvor GOSPIĆ"
   }
 ]
