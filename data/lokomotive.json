@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "69486",
-    "event_time": "2026-03-21T20:35:00",
-    "seen_at": "2026-03-21T19:35:20.552Z",
-    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:35, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69486",
-    "event_time": "2026-03-21T20:42:00",
-    "seen_at": "2026-03-21T19:42:51.327Z",
-    "raw": "Br. Vlaka 69486 odlazak      21.03.26. 20:42, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-21T18:38:00",
-    "seen_at": "2026-03-21T19:43:14.241Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81291",
-    "event_time": "2026-03-21T20:41:00",
-    "seen_at": "2026-03-21T19:43:59.411Z",
-    "raw": "Br. Vlaka 81291 promjena sas 21.03.26. 20:41, kolodvor 72303"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -11518,5 +11482,14 @@
     "event_time": "2026-03-24T20:18:00",
     "seen_at": "2026-03-24T19:20:15.290Z",
     "raw": "Br. Vlaka 63305 formiran     24.03.26. 20:18, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81981",
+    "event_time": "2026-03-24T14:56:00",
+    "seen_at": "2026-03-24T19:41:46.791Z",
+    "raw": "Br. Vlaka 81981 formiran     24.03.26. 14:56, kolodvor 72303"
   }
 ]
