@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-21T01:07:00",
-    "seen_at": "2026-03-21T00:08:28.490Z",
-    "raw": "Br. Vlaka 63306 odlazak      21.03.26. 01:07, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -9457,5 +9448,50 @@
     "event_time": "2026-03-24T00:56:00",
     "seen_at": "2026-03-23T23:56:31.600Z",
     "raw": "Br. Vlaka 44995 dolazak      24.03.26. 00:56, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45130",
+    "event_time": "2026-03-24T01:00:00",
+    "seen_at": "2026-03-24T00:01:24.575Z",
+    "raw": "Br. Vlaka 45130 dolazak      24.03.26. 01:00, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-24T01:00:00",
+    "seen_at": "2026-03-24T00:01:47.316Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-24T00:58:00",
+    "seen_at": "2026-03-24T00:02:33.029Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-24T00:58:00",
+    "seen_at": "2026-03-24T00:02:33.029Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89871",
+    "event_time": "2026-03-24T01:01:00",
+    "seen_at": "2026-03-24T00:03:18.918Z",
+    "raw": "Br. Vlaka 89871 odlazak      24.03.26. 01:01, kolodvor 73164"
   }
 ]
