@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-03-21T08:56:00",
-    "seen_at": "2026-03-21T08:00:33.205Z",
-    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 08:56, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47944",
-    "event_time": "2026-03-21T09:00:00",
-    "seen_at": "2026-03-21T08:00:56.169Z",
-    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 09:00, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47944",
-    "event_time": "2026-03-21T09:04:00",
-    "seen_at": "2026-03-21T08:05:52.409Z",
-    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 09:04, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "47944",
     "event_time": "2026-03-21T09:08:00",
@@ -10789,5 +10762,23 @@
     "event_time": "2026-03-24T08:56:00",
     "seen_at": "2026-03-24T07:56:43.172Z",
     "raw": "Br. Vlaka 77247 odlazak      24.03.26. 08:56, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-03-24T09:00:00",
+    "seen_at": "2026-03-24T08:00:47.466Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "47939",
+    "event_time": "2026-03-24T09:04:00",
+    "seen_at": "2026-03-24T08:04:12.709Z",
+    "raw": "Br. Vlaka 47939 dolazak      24.03.26. 09:04, kolodvor DUGO SELO"
   }
 ]
