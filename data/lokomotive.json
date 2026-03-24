@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-03-20T21:46:00",
-    "seen_at": "2026-03-21T07:50:52.266Z",
-    "raw": "Br. Vlaka 47944 formiran     20.03.26. 21:46, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "ĐURĐEVAC",
-    "train_number": "89800",
-    "event_time": "2026-03-21T08:56:00",
-    "seen_at": "2026-03-21T07:57:08.197Z",
-    "raw": "Br. Vlaka 89800 formiran     21.03.26. 08:56, kolodvor ĐURĐEVAC"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "SAVSKI MAROF granica",
     "train_number": "47944",
@@ -10780,5 +10762,32 @@
     "event_time": "2026-03-24T08:47:00",
     "seen_at": "2026-03-24T07:48:00.974Z",
     "raw": "Br. Vlaka 79910 odlazak      24.03.26. 08:47, kolodvor FUŽINE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69852",
+    "event_time": "2026-03-24T08:50:00",
+    "seen_at": "2026-03-24T07:52:51.903Z",
+    "raw": "Br. Vlaka 69852 odlazak      24.03.26. 08:50, kolodvor DALJ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "79910",
+    "event_time": "2026-03-24T08:55:00",
+    "seen_at": "2026-03-24T07:55:32.773Z",
+    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 08:55, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "77247",
+    "event_time": "2026-03-24T08:56:00",
+    "seen_at": "2026-03-24T07:56:43.172Z",
+    "raw": "Br. Vlaka 77247 odlazak      24.03.26. 08:56, kolodvor ĐAKOVO"
   }
 ]
