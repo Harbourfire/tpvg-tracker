@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "82171",
-    "event_time": "2026-03-21T11:24:00",
-    "seen_at": "2026-03-21T10:25:12.703Z",
-    "raw": "Br. Vlaka 82171 odlazak      21.03.26. 11:24, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-18T11:25:00",
-    "seen_at": "2026-03-21T10:27:28.053Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -11095,5 +11077,32 @@
     "event_time": "2026-03-24T11:15:00",
     "seen_at": "2026-03-24T10:17:33.879Z",
     "raw": "Br. Vlaka 81231 odlazak      24.03.26. 11:15, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "81244",
+    "event_time": "2026-03-24T11:19:00",
+    "seen_at": "2026-03-24T10:19:38.250Z",
+    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 11:19, kolodvor SISAK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "75562",
+    "train_number": null,
+    "event_time": "2026-03-24T11:16:00",
+    "seen_at": "2026-03-24T10:22:47.130Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75562 75562"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "75562",
+    "train_number": "79914",
+    "event_time": "2026-03-24T10:16:00",
+    "seen_at": "2026-03-24T10:24:42.399Z",
+    "raw": "Br. Vlaka 79914 formiran     24.03.26. 10:16, kolodvor 75562"
   }
 ]
