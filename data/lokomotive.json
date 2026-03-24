@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "NOVO DRNJE",
-    "train_number": "89801",
-    "event_time": "2026-03-21T18:33:00",
-    "seen_at": "2026-03-21T17:33:27.549Z",
-    "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:33, kolodvor 73164"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-03-21T18:33:00",
-    "seen_at": "2026-03-21T17:34:34.764Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "NOVO DRNJE",
-    "train_number": "89801",
-    "event_time": "2026-03-21T18:34:00",
-    "seen_at": "2026-03-21T17:35:19.578Z",
-    "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:34, kolodvor 73164"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89801",
-    "event_time": "2026-03-21T18:25:00",
-    "seen_at": "2026-03-21T17:36:04.605Z",
-    "raw": "Br. Vlaka 89801 odlazak      21.03.26. 18:25, kolodvor 73164"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "89126",
-    "event_time": "2026-03-21T18:37:00",
-    "seen_at": "2026-03-21T17:38:19.824Z",
-    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:37, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89801",
-    "event_time": "2026-03-21T18:38:00",
-    "seen_at": "2026-03-21T17:39:49.909Z",
-    "raw": "Br. Vlaka 89801 dolazak      21.03.26. 18:38, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ZDENCI-ORAHOVICA",
@@ -11518,5 +11464,23 @@
     "event_time": "2026-03-24T18:31:00",
     "seen_at": "2026-03-24T17:32:02.135Z",
     "raw": "Br. Vlaka 89113 dolazak      24.03.26. 18:31, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66854",
+    "event_time": "2026-03-24T18:39:00",
+    "seen_at": "2026-03-24T17:41:42.242Z",
+    "raw": "Br. Vlaka 66854 formiran     24.03.26. 18:39, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "SLAVONSKI BROD",
+    "train_number": "83819",
+    "event_time": "2026-03-24T12:42:00",
+    "seen_at": "2026-03-24T17:42:04.906Z",
+    "raw": "Br. Vlaka 83819 promjena sas 24.03.26. 12:42, kolodvor SLAVONSKI BROD"
   }
 ]
