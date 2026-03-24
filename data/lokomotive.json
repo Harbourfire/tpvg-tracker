@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89294",
-    "event_time": "2026-03-21T07:37:00",
-    "seen_at": "2026-03-21T06:37:32.036Z",
-    "raw": "Br. Vlaka 89294 dolazak      21.03.26. 07:37, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-03-21T07:38:00",
-    "seen_at": "2026-03-21T06:39:48.843Z",
-    "raw": "Br. Vlaka 45105 odlazak      21.03.26. 07:38, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89294",
-    "event_time": "2026-03-21T07:41:00",
-    "seen_at": "2026-03-21T06:41:53.388Z",
-    "raw": "Br. Vlaka 89294 odlazak      21.03.26. 07:41, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "BANOVA JARUGA",
-    "train_number": null,
-    "event_time": "2026-03-15T07:35:00",
-    "seen_at": "2026-03-21T06:41:53.389Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72503 BANOVA JARUGA"
-  },
-  {
     "uic": "987891113472",
     "type": "Rasformiran",
     "station": "PLETERNICA",
@@ -10609,5 +10573,59 @@
     "event_time": "2026-03-24T07:32:00",
     "seen_at": "2026-03-24T06:32:41.186Z",
     "raw": "Br. Vlaka 49835 odlazak      24.03.26. 07:32, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-24T07:35:00",
+    "seen_at": "2026-03-24T06:35:13.149Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76511",
+    "event_time": "2026-03-24T07:33:00",
+    "seen_at": "2026-03-24T06:35:40.375Z",
+    "raw": "Br. Vlaka 76511 formiran     24.03.26. 07:33, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VRBOVSKO",
+    "train_number": "79910",
+    "event_time": "2026-03-24T07:36:00",
+    "seen_at": "2026-03-24T06:39:05.071Z",
+    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 07:36, kolodvor VRBOVSKO"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-03-24T07:36:00",
+    "seen_at": "2026-03-24T06:39:27.701Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "49835",
+    "event_time": "2026-03-24T07:39:00",
+    "seen_at": "2026-03-24T06:40:58.268Z",
+    "raw": "Br. Vlaka 49835 odlazak      24.03.26. 07:39, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "BANOVA JARUGA",
+    "train_number": null,
+    "event_time": "2026-03-15T07:35:00",
+    "seen_at": "2026-03-24T06:42:29.842Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72503 BANOVA JARUGA"
   }
 ]
