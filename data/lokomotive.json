@@ -1,42 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-03-21T11:47:00",
-    "seen_at": "2026-03-21T17:26:51.102Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "NAŠICE",
-    "train_number": "89126",
-    "event_time": "2026-03-21T18:27:00",
-    "seen_at": "2026-03-21T17:27:36.042Z",
-    "raw": "Br. Vlaka 89126 odlazak      21.03.26. 18:27, kolodvor NAŠICE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "NOVO DRNJE",
-    "train_number": "89801",
-    "event_time": "2026-03-21T18:30:00",
-    "seen_at": "2026-03-21T17:31:21.706Z",
-    "raw": "Br. Vlaka 89801 formiran     21.03.26. 18:30, kolodvor 73164"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-03-21T18:30:00",
-    "seen_at": "2026-03-21T17:32:42.491Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
-    "uic": "987895225611",
     "type": "Formiran",
     "station": "NOVO DRNJE",
     "train_number": "89801",
@@ -11500,5 +11464,59 @@
     "event_time": "2026-03-24T18:17:00",
     "seen_at": "2026-03-24T17:18:25.764Z",
     "raw": "Br. Vlaka 63310 odlazak      24.03.26. 18:17, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "89113",
+    "event_time": "2026-03-24T18:25:00",
+    "seen_at": "2026-03-24T17:26:16.368Z",
+    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 18:25, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-24T15:33:00",
+    "seen_at": "2026-03-24T17:28:11.026Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-24T18:24:00",
+    "seen_at": "2026-03-24T17:28:34.072Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47945",
+    "event_time": "2026-03-24T18:31:00",
+    "seen_at": "2026-03-24T17:31:39.157Z",
+    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 18:31, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47945",
+    "event_time": "2026-03-24T18:31:00",
+    "seen_at": "2026-03-24T17:31:39.157Z",
+    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 18:31, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "89113",
+    "event_time": "2026-03-24T18:31:00",
+    "seen_at": "2026-03-24T17:32:02.135Z",
+    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 18:31, kolodvor HRVATSKI LESKOVAC"
   }
 ]
