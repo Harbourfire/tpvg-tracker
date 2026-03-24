@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47944",
-    "event_time": "2026-03-21T09:08:00",
-    "seen_at": "2026-03-21T08:08:33.701Z",
-    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 09:08, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-03-21T09:13:00",
-    "seen_at": "2026-03-21T08:13:31.044Z",
-    "raw": "Br. Vlaka 47944 odlazak      21.03.26. 09:13, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440265",
     "type": "Rasformiran",
     "station": "ĐELETOVCI",
@@ -10780,5 +10762,32 @@
     "event_time": "2026-03-24T09:04:00",
     "seen_at": "2026-03-24T08:04:12.709Z",
     "raw": "Br. Vlaka 47939 dolazak      24.03.26. 09:04, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81231",
+    "event_time": "2026-03-24T09:10:00",
+    "seen_at": "2026-03-24T08:11:13.931Z",
+    "raw": "Br. Vlaka 81231 formiran     24.03.26. 09:10, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-03-24T09:11:00",
+    "seen_at": "2026-03-24T08:12:22.335Z",
+    "raw": "Br. Vlaka 71202 odlazak      24.03.26. 09:11, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "81244",
+    "event_time": "2026-03-24T08:54:00",
+    "seen_at": "2026-03-24T08:14:38.190Z",
+    "raw": "Br. Vlaka 81244 dolazak      24.03.26. 08:54, kolodvor HRVATSKA DUBICA"
   }
 ]
