@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "NAŠICE",
-    "train_number": "89126",
-    "event_time": "2026-03-21T18:15:00",
-    "seen_at": "2026-03-21T17:15:19.715Z",
-    "raw": "Br. Vlaka 89126 dolazak      21.03.26. 18:15, kolodvor NAŠICE"
-  },
-  {
     "uic": "987895225611",
     "type": "Rasformiran",
     "station": "NOVO DRNJE",
@@ -11482,5 +11473,32 @@
     "event_time": "2026-03-24T18:09:00",
     "seen_at": "2026-03-24T17:10:18.068Z",
     "raw": "Br. Vlaka 47945 odlazak      24.03.26. 18:09, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "89113",
+    "event_time": "2026-03-24T18:08:00",
+    "seen_at": "2026-03-24T17:17:40.388Z",
+    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 18:08, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "89113",
+    "event_time": "2026-03-24T18:17:00",
+    "seen_at": "2026-03-24T17:18:03.056Z",
+    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 18:17, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-24T18:17:00",
+    "seen_at": "2026-03-24T17:18:25.764Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 18:17, kolodvor JOSIPDOL"
   }
 ]
