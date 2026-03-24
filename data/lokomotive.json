@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "89162",
-    "event_time": "2026-03-21T23:58:00",
-    "seen_at": "2026-03-21T23:08:23.155Z",
-    "raw": "Br. Vlaka 89162 dolazak      21.03.26. 23:58, kolodvor VRBOVEC"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "SISAK CAPRAG",
@@ -11347,5 +11338,23 @@
     "event_time": "2026-03-24T23:54:00",
     "seen_at": "2026-03-24T22:54:37.052Z",
     "raw": "Br. Vlaka 63306 formiran     24.03.26. 23:54, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89255",
+    "event_time": "2026-03-25T00:03:00",
+    "seen_at": "2026-03-24T23:05:37.454Z",
+    "raw": "Br. Vlaka 89255 formiran     25.03.26. 00:03, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-25T00:05:00",
+    "seen_at": "2026-03-24T23:06:00.535Z",
+    "raw": "Br. Vlaka 45131 odlazak      25.03.26. 00:05, kolodvor OSIJEK"
   }
 ]
