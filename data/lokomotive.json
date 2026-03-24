@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "44691",
-    "event_time": "2026-03-21T12:53:00",
-    "seen_at": "2026-03-21T11:54:37.617Z",
-    "raw": "Br. Vlaka 44691 odlazak      21.03.26. 12:53, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230076",
     "type": "Dolazak",
     "station": "LIČKA JESENICA",
     "train_number": "44691",
@@ -11275,5 +11266,32 @@
     "event_time": "2026-03-24T12:42:00",
     "seen_at": "2026-03-24T11:42:28.722Z",
     "raw": "Br. Vlaka 83819 dolazak      24.03.26. 12:42, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-24T14:00:00",
+    "seen_at": "2026-03-24T11:54:18.174Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "89113",
+    "event_time": "2026-03-24T12:58:00",
+    "seen_at": "2026-03-24T11:58:31.123Z",
+    "raw": "Br. Vlaka 89113 formiran     24.03.26. 12:58, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76511",
+    "event_time": "2026-03-24T12:58:00",
+    "seen_at": "2026-03-24T11:59:17.309Z",
+    "raw": "Br. Vlaka 76511 odlazak      24.03.26. 12:58, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
