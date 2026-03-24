@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-03-21T02:32:00",
-    "seen_at": "2026-03-21T01:37:54.193Z",
-    "raw": "Br. Vlaka 63306 dolazak      21.03.26. 02:32, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Promjena sastava",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-03-21T02:32:00",
-    "seen_at": "2026-03-21T01:38:16.688Z",
-    "raw": "Br. Vlaka 63306 promjena sas 21.03.26. 02:32, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -9637,5 +9619,23 @@
     "event_time": "2026-03-24T02:31:00",
     "seen_at": "2026-03-24T01:33:02.155Z",
     "raw": "Br. Vlaka 81244 odlazak      24.03.26. 02:31, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45992",
+    "event_time": "2026-03-24T02:37:00",
+    "seen_at": "2026-03-24T01:38:31.379Z",
+    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 02:37, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45992",
+    "event_time": "2026-03-24T02:37:00",
+    "seen_at": "2026-03-24T01:38:31.379Z",
+    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 02:37, kolodvor KRIŽEVCI"
   }
 ]
