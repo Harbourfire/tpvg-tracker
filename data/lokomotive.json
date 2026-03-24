@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-21T01:21:00",
-    "seen_at": "2026-03-21T00:22:32.637Z",
-    "raw": "Br. Vlaka 63306 odlazak      21.03.26. 01:21, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -9493,5 +9484,23 @@
     "event_time": "2026-03-24T01:11:00",
     "seen_at": "2026-03-24T00:11:27.196Z",
     "raw": "Br. Vlaka 81230 formiran     24.03.26. 01:11, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89871",
+    "event_time": "2026-03-24T01:14:00",
+    "seen_at": "2026-03-24T00:20:01.319Z",
+    "raw": "Br. Vlaka 89871 dolazak      24.03.26. 01:14, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-24T01:14:00",
+    "seen_at": "2026-03-24T00:20:24.235Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
   }
 ]
