@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "BREGI",
-    "train_number": "89800",
-    "event_time": "2026-03-21T09:47:00",
-    "seen_at": "2026-03-21T08:49:14.076Z",
-    "raw": "Br. Vlaka 89800 dolazak      21.03.26. 09:47, kolodvor BREGI"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -10843,5 +10834,50 @@
     "event_time": "2026-03-24T09:44:00",
     "seen_at": "2026-03-24T08:44:43.720Z",
     "raw": "Br. Vlaka 47939 odlazak      24.03.26. 09:44, kolodvor SESVETE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "79910",
+    "event_time": "2026-03-24T09:48:00",
+    "seen_at": "2026-03-24T08:48:42.042Z",
+    "raw": "Br. Vlaka 79910 dolazak      24.03.26. 09:48, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ŠKRLJEVO",
+    "train_number": null,
+    "event_time": "2026-03-24T09:48:00",
+    "seen_at": "2026-03-24T08:51:21.196Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75422 ŠKRLJEVO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47939",
+    "event_time": "2026-03-24T09:50:00",
+    "seen_at": "2026-03-24T08:51:44.082Z",
+    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 09:50, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "ŠKRLJEVO",
+    "train_number": "79911",
+    "event_time": "2026-03-24T09:51:00",
+    "seen_at": "2026-03-24T08:51:44.083Z",
+    "raw": "Br. Vlaka 79911 formiran     24.03.26. 09:51, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "79911",
+    "event_time": "2026-03-24T09:53:00",
+    "seen_at": "2026-03-24T08:54:23.569Z",
+    "raw": "Br. Vlaka 79911 odlazak      24.03.26. 09:53, kolodvor ŠKRLJEVO"
   }
 ]
