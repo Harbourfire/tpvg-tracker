@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "82171",
-    "event_time": "2026-03-21T10:49:00",
-    "seen_at": "2026-03-21T09:49:50.600Z",
-    "raw": "Br. Vlaka 82171 formiran     21.03.26. 10:49, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987895225611",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -10960,5 +10951,23 @@
     "event_time": "2026-03-24T10:40:00",
     "seen_at": "2026-03-24T09:40:30.410Z",
     "raw": "Br. Vlaka 44994 odlazak      24.03.26. 10:40, kolodvor 72304"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "75603",
+    "train_number": "79912",
+    "event_time": "2026-03-24T10:42:00",
+    "seen_at": "2026-03-24T09:42:38.652Z",
+    "raw": "Br. Vlaka 79912 odlazak      24.03.26. 10:42, kolodvor 75603"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "79912",
+    "event_time": "2026-03-24T10:50:00",
+    "seen_at": "2026-03-24T09:50:14.942Z",
+    "raw": "Br. Vlaka 79912 dolazak      24.03.26. 10:50, kolodvor ŠKRLJEVO"
   }
 ]
