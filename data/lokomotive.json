@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-03-21T02:12:00",
-    "seen_at": "2026-03-21T01:14:10.122Z",
-    "raw": "Br. Vlaka 63306 odlazak      21.03.26. 02:12, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -9565,5 +9556,23 @@
     "event_time": "2026-03-24T02:02:00",
     "seen_at": "2026-03-24T01:03:34.348Z",
     "raw": "Br. Vlaka 45992 odlazak      24.03.26. 02:02, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "44995",
+    "event_time": "2026-03-24T02:04:00",
+    "seen_at": "2026-03-24T01:06:47.517Z",
+    "raw": "Br. Vlaka 44995 odlazak      24.03.26. 02:04, kolodvor 72304"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81244",
+    "event_time": "2026-03-24T02:07:00",
+    "seen_at": "2026-03-24T01:08:18.602Z",
+    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 02:07, kolodvor GARČIN"
   }
 ]
