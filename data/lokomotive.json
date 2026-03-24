@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-21T11:34:00",
-    "seen_at": "2026-03-21T10:35:12.177Z",
-    "raw": "Br. Vlaka 69005 odlazak      21.03.26. 11:34, kolodvor OGULIN"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89800",
-    "event_time": "2026-03-21T11:35:00",
-    "seen_at": "2026-03-21T10:35:58.130Z",
-    "raw": "Br. Vlaka 89800 odlazak      21.03.26. 11:35, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "VRAPČANA",
@@ -11104,5 +11086,50 @@
     "event_time": "2026-03-24T10:16:00",
     "seen_at": "2026-03-24T10:24:42.399Z",
     "raw": "Br. Vlaka 79914 formiran     24.03.26. 10:16, kolodvor 75562"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "75562",
+    "train_number": "79914",
+    "event_time": "2026-03-24T11:27:00",
+    "seen_at": "2026-03-24T10:29:26.460Z",
+    "raw": "Br. Vlaka 79914 odlazak      24.03.26. 11:27, kolodvor 75562"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81231",
+    "event_time": "2026-03-24T11:31:00",
+    "seen_at": "2026-03-24T10:32:07.247Z",
+    "raw": "Br. Vlaka 81231 odlazak      24.03.26. 11:31, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "81244",
+    "event_time": "2026-03-24T11:33:00",
+    "seen_at": "2026-03-24T10:35:08.836Z",
+    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 11:33, kolodvor GREDA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "79914",
+    "event_time": "2026-03-24T11:35:00",
+    "seen_at": "2026-03-24T10:35:54.437Z",
+    "raw": "Br. Vlaka 79914 dolazak      24.03.26. 11:35, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44994",
+    "event_time": "2026-03-24T11:37:00",
+    "seen_at": "2026-03-24T10:37:25.769Z",
+    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 11:37, kolodvor ZAGREB ZAP. KOL."
   }
 ]
