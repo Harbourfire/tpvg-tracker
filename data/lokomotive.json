@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SISAK",
-    "train_number": "81291",
-    "event_time": "2026-03-21T23:39:00",
-    "seen_at": "2026-03-21T22:42:33.274Z",
-    "raw": "Br. Vlaka 81291 dolazak      21.03.26. 23:39, kolodvor SISAK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "89162",
-    "event_time": "2026-03-21T23:42:00",
-    "seen_at": "2026-03-21T22:44:03.221Z",
-    "raw": "Br. Vlaka 89162 odlazak      21.03.26. 23:42, kolodvor SV. IVAN ŽABNO"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "GRADEC",
@@ -11320,5 +11302,59 @@
     "event_time": "2026-03-24T23:37:00",
     "seen_at": "2026-03-24T22:38:53.765Z",
     "raw": "Br. Vlaka 47945 dolazak      24.03.26. 23:37, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-03-24T12:32:00",
+    "seen_at": "2026-03-24T22:42:58.988Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-03-24T12:32:00",
+    "seen_at": "2026-03-24T22:42:58.988Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89256",
+    "event_time": "2026-03-24T23:30:00",
+    "seen_at": "2026-03-24T22:43:22.226Z",
+    "raw": "Br. Vlaka 89256 formiran     24.03.26. 23:30, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89256",
+    "event_time": "2026-03-24T23:30:00",
+    "seen_at": "2026-03-24T22:43:45.226Z",
+    "raw": "Br. Vlaka 89256 formiran     24.03.26. 23:30, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47939",
+    "event_time": "2026-03-24T10:02:00",
+    "seen_at": "2026-03-24T22:50:34.892Z",
+    "raw": "Br. Vlaka 47939 promjena sas 24.03.26. 10:02, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47939",
+    "event_time": "2026-03-24T10:02:00",
+    "seen_at": "2026-03-24T22:50:34.892Z",
+    "raw": "Br. Vlaka 47939 promjena sas 24.03.26. 10:02, kolodvor 72303"
   }
 ]
