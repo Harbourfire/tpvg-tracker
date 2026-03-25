@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81983",
-    "event_time": "2026-03-22T10:15:00",
-    "seen_at": "2026-03-22T09:15:44.466Z",
-    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:15, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81983",
-    "event_time": "2026-03-22T10:20:00",
-    "seen_at": "2026-03-22T09:21:06.192Z",
-    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:20, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44690",
-    "event_time": "2026-03-22T10:20:00",
-    "seen_at": "2026-03-22T09:22:37.844Z",
-    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 10:20, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "BELI MANASTIR",
@@ -11995,5 +11968,41 @@
     "event_time": "2026-03-25T10:12:00",
     "seen_at": "2026-03-25T09:13:50.673Z",
     "raw": "Br. Vlaka 48586 promjena sas 25.03.26. 10:12, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "76505",
+    "event_time": "2026-03-25T10:06:00",
+    "seen_at": "2026-03-25T09:15:11.670Z",
+    "raw": "Br. Vlaka 76505 dolazak      25.03.26. 10:06, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": null,
+    "event_time": "2026-03-25T10:06:00",
+    "seen_at": "2026-03-25T09:15:36.141Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78801 KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-03-25T09:17:31.686Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "JURDANI",
+    "train_number": "79931",
+    "event_time": "2026-03-25T10:20:00",
+    "seen_at": "2026-03-25T09:22:29.002Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:20, kolodvor JURDANI"
   }
 ]
