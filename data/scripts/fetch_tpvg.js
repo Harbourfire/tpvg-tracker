@@ -17,7 +17,10 @@ const STATION_CODES = {
   "71020": "TOVARNIK granica",
   "KOPRIVNICA GR A": "KOPRIVNICA granica",
   "SAVSKI MAROF GRANICA": "SAVSKI MAROF granica",
-  "72480": "ZAGREB GLAVNI"
+  "72480": "ZAGREB GLAVNI",
+  "75603": "ŠOIĆI",
+  "75601": "BAKAR",
+  "75562": "RIJEKA BRAJDICA"
 };
 function translateStation(station) {
   if (!station) return station;
