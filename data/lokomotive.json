@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47944",
-    "event_time": "2026-03-22T15:42:00",
-    "seen_at": "2026-03-22T14:42:17.298Z",
-    "raw": "Br. Vlaka 47944 dolazak      22.03.26. 15:42, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47944",
-    "event_time": "2026-03-22T15:42:00",
-    "seen_at": "2026-03-22T14:42:17.299Z",
-    "raw": "Br. Vlaka 47944 dolazak      22.03.26. 15:42, kolodvor 72303"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-22T15:45:00",
-    "seen_at": "2026-03-22T14:45:19.354Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 15:45, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -12643,5 +12616,32 @@
     "event_time": "2026-03-25T15:36:00",
     "seen_at": "2026-03-25T14:37:10.354Z",
     "raw": "Br. Vlaka 89728 odlazak      25.03.26. 15:36, kolodvor BANOVA JARUGA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "89754",
+    "event_time": "2026-03-25T14:07:00",
+    "seen_at": "2026-03-25T14:39:43.107Z",
+    "raw": "Br. Vlaka 89754 formiran     25.03.26. 14:07, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "81280",
+    "event_time": "2026-03-25T15:41:00",
+    "seen_at": "2026-03-25T14:41:40.572Z",
+    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 15:41, kolodvor 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "LIPOVLJANI",
+    "train_number": "89728",
+    "event_time": "2026-03-25T15:42:00",
+    "seen_at": "2026-03-25T14:43:14.323Z",
+    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 15:42, kolodvor LIPOVLJANI"
   }
 ]
