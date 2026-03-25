@@ -11563,5 +11563,41 @@
     "event_time": "2026-03-25T04:48:00",
     "seen_at": "2026-03-25T03:51:07.624Z",
     "raw": "Br. Vlaka 69006 odlazak      25.03.26. 04:48, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-25T04:53:00",
+    "seen_at": "2026-03-25T03:53:57.978Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "48790",
+    "event_time": "2026-03-24T17:02:00",
+    "seen_at": "2026-03-25T03:56:37.134Z",
+    "raw": "Br. Vlaka 48790 formiran     24.03.26. 17:02, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "48790",
+    "event_time": "2026-03-25T04:54:00",
+    "seen_at": "2026-03-25T03:58:07.840Z",
+    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 04:54, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48790",
+    "event_time": "2026-03-25T04:58:00",
+    "seen_at": "2026-03-25T03:58:30.565Z",
+    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 04:58, kolodvor SAVSKI MAROF"
   }
 ]
