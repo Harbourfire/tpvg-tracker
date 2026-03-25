@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-22T10:04:00",
-    "seen_at": "2026-03-22T14:01:30.181Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-22T10:04:00",
-    "seen_at": "2026-03-22T14:01:30.181Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47944",
-    "event_time": "2026-03-22T13:20:00",
-    "seen_at": "2026-03-22T14:01:52.949Z",
-    "raw": "Br. Vlaka 47944 formiran     22.03.26. 13:20, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47944",
-    "event_time": "2026-03-22T13:20:00",
-    "seen_at": "2026-03-22T14:02:15.660Z",
-    "raw": "Br. Vlaka 47944 formiran     22.03.26. 13:20, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "89872",
-    "event_time": "2026-03-22T15:08:00",
-    "seen_at": "2026-03-22T14:09:18.534Z",
-    "raw": "Br. Vlaka 89872 dolazak      22.03.26. 15:08, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "KRIŽEVCI",
-    "train_number": null,
-    "event_time": "2026-03-22T15:08:00",
-    "seen_at": "2026-03-22T14:09:41.053Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "47944",
@@ -12742,5 +12688,59 @@
     "event_time": "2026-03-25T15:00:00",
     "seen_at": "2026-03-25T14:00:53.416Z",
     "raw": "Br. Vlaka 79931 dolazak      25.03.26. 15:00, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "81281",
+    "event_time": "2026-03-25T15:01:00",
+    "seen_at": "2026-03-25T14:01:27.882Z",
+    "raw": "Br. Vlaka 81281 formiran     25.03.26. 15:01, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "58260",
+    "event_time": "2026-03-25T14:59:00",
+    "seen_at": "2026-03-25T14:04:10.291Z",
+    "raw": "Br. Vlaka 58260 dolazak      25.03.26. 14:59, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "58260",
+    "event_time": "2026-03-25T14:59:00",
+    "seen_at": "2026-03-25T14:04:10.291Z",
+    "raw": "Br. Vlaka 58260 dolazak      25.03.26. 14:59, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "58260",
+    "event_time": "2026-03-25T15:03:00",
+    "seen_at": "2026-03-25T14:05:43.076Z",
+    "raw": "Br. Vlaka 58260 odlazak      25.03.26. 15:03, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "58260",
+    "event_time": "2026-03-25T15:03:00",
+    "seen_at": "2026-03-25T14:05:43.076Z",
+    "raw": "Br. Vlaka 58260 odlazak      25.03.26. 15:03, kolodvor BUZET"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "82210",
+    "event_time": "2026-03-25T15:08:00",
+    "seen_at": "2026-03-25T14:09:12.734Z",
+    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 15:08, kolodvor GARČIN"
   }
 ]
