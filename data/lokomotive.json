@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47945",
-    "event_time": "2026-03-22T19:45:00",
-    "seen_at": "2026-03-22T18:52:17.540Z",
-    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 19:45, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47945",
-    "event_time": "2026-03-22T19:55:00",
-    "seen_at": "2026-03-22T18:56:02.770Z",
-    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 19:55, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF granica",
     "train_number": null,
@@ -13696,5 +13678,50 @@
     "event_time": "2026-03-25T19:42:00",
     "seen_at": "2026-03-25T18:46:39.580Z",
     "raw": "Br. Vlaka 81283 odlazak      25.03.26. 19:42, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89728",
+    "event_time": "2026-03-25T19:47:00",
+    "seen_at": "2026-03-25T18:49:35.164Z",
+    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 19:47, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89734",
+    "event_time": "2026-03-25T19:50:00",
+    "seen_at": "2026-03-25T18:51:08.411Z",
+    "raw": "Br. Vlaka 89734 odlazak      25.03.26. 19:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "79931",
+    "event_time": "2026-03-25T19:52:00",
+    "seen_at": "2026-03-25T18:53:04.591Z",
+    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 19:52, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "81280",
+    "event_time": "2026-03-25T19:54:00",
+    "seen_at": "2026-03-25T18:55:22.507Z",
+    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 19:54, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-03-25T19:52:00",
+    "seen_at": "2026-03-25T18:57:38.876Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
   }
 ]
