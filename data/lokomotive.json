@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48797",
-    "event_time": "2026-03-22T17:16:00",
-    "seen_at": "2026-03-22T23:03:46.431Z",
-    "raw": "Br. Vlaka 48797 formiran     22.03.26. 17:16, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48797",
-    "event_time": "2026-03-22T17:16:00",
-    "seen_at": "2026-03-22T23:03:46.431Z",
-    "raw": "Br. Vlaka 48797 formiran     22.03.26. 17:16, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-22T23:04:00",
-    "seen_at": "2026-03-22T23:07:10.494Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-22T23:04:00",
-    "seen_at": "2026-03-22T23:07:33.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48797",
-    "event_time": "2026-03-22T17:16:00",
-    "seen_at": "2026-03-22T23:07:55.683Z",
-    "raw": "Br. Vlaka 48797 formiran     22.03.26. 17:16, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48797",
-    "event_time": "2026-03-22T17:16:00",
-    "seen_at": "2026-03-22T23:07:55.683Z",
-    "raw": "Br. Vlaka 48797 formiran     22.03.26. 17:16, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "DUGO SELO",
@@ -14011,5 +13957,14 @@
     "event_time": "2026-03-26T00:02:00",
     "seen_at": "2026-03-25T23:02:22.424Z",
     "raw": "Br. Vlaka 45994 odlazak      26.03.26. 00:02, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "81283",
+    "event_time": "2026-03-26T00:09:00",
+    "seen_at": "2026-03-25T23:09:26.711Z",
+    "raw": "Br. Vlaka 81283 odlazak      26.03.26. 00:09, kolodvor SIBINJ"
   }
 ]
