@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-22T20:58:00",
-    "seen_at": "2026-03-22T20:13:02.166Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-22T20:58:00",
-    "seen_at": "2026-03-22T20:13:02.167Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
     "uic": "987891003319",
     "type": "Rasformiran",
     "station": "SLAVONSKI BROD",
@@ -13858,5 +13840,14 @@
     "event_time": "2026-03-25T20:54:00",
     "seen_at": "2026-03-25T19:54:59.805Z",
     "raw": "Br. Vlaka 63305 formiran     25.03.26. 20:54, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81281",
+    "event_time": "2026-03-25T21:10:00",
+    "seen_at": "2026-03-25T20:11:03.481Z",
+    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 21:10, kolodvor ZAGREB ZAP. KOL."
   }
 ]
