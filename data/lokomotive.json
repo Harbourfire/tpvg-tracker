@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "76522",
-    "event_time": "2026-03-22T08:18:00",
-    "seen_at": "2026-03-22T07:21:47.557Z",
-    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 08:18, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "47988",
-    "event_time": "2026-03-22T08:15:00",
-    "seen_at": "2026-03-22T07:23:26.025Z",
-    "raw": "Br. Vlaka 47988 odlazak      22.03.26. 08:15, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DARDA",
@@ -11716,5 +11698,68 @@
     "event_time": "2026-03-25T08:11:00",
     "seen_at": "2026-03-25T07:15:40.519Z",
     "raw": "Br. Vlaka 44994 odlazak      25.03.26. 08:11, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44994",
+    "event_time": "2026-03-25T08:20:00",
+    "seen_at": "2026-03-25T07:20:51.786Z",
+    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 08:20, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89160",
+    "event_time": "2026-03-25T08:01:00",
+    "seen_at": "2026-03-25T07:22:01.906Z",
+    "raw": "Br. Vlaka 89160 formiran     25.03.26. 08:01, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-25T10:00:00",
+    "seen_at": "2026-03-25T07:22:01.906Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "PITOMAČA",
+    "train_number": "81981",
+    "event_time": "2026-03-25T08:23:00",
+    "seen_at": "2026-03-25T07:24:43.545Z",
+    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 08:23, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Formiran",
+    "station": "SLATINA",
+    "train_number": "76925",
+    "event_time": "2026-03-25T07:09:00",
+    "seen_at": "2026-03-25T07:27:02.413Z",
+    "raw": "Br. Vlaka 76925 formiran     25.03.26. 07:09, kolodvor SLATINA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "76925",
+    "event_time": "2026-03-25T08:08:00",
+    "seen_at": "2026-03-25T07:27:48.713Z",
+    "raw": "Br. Vlaka 76925 odlazak      25.03.26. 08:08, kolodvor SLATINA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "KOŠKA",
+    "train_number": "89525",
+    "event_time": "2026-03-25T08:28:00",
+    "seen_at": "2026-03-25T07:29:43.574Z",
+    "raw": "Br. Vlaka 89525 formiran     25.03.26. 08:28, kolodvor KOŠKA"
   }
 ]
