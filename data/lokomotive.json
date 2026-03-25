@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-22T16:04:00",
-    "seen_at": "2026-03-22T15:06:13.609Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 16:04, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
     "type": "Dolazak",
     "station": "BLATA",
     "train_number": "63310",
@@ -12688,5 +12679,41 @@
     "event_time": "2026-03-25T15:56:00",
     "seen_at": "2026-03-25T14:56:59.060Z",
     "raw": "Br. Vlaka 89921 dolazak      25.03.26. 15:56, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "89723",
+    "event_time": "2026-03-25T15:56:00",
+    "seen_at": "2026-03-25T14:59:05.959Z",
+    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 15:56, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "89754",
+    "event_time": "2026-03-25T16:05:00",
+    "seen_at": "2026-03-25T15:06:26.896Z",
+    "raw": "Br. Vlaka 89754 odlazak      25.03.26. 16:05, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "81283",
+    "event_time": "2026-03-25T16:04:00",
+    "seen_at": "2026-03-25T15:07:13.238Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 16:04, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89921",
+    "event_time": "2026-03-25T16:06:00",
+    "seen_at": "2026-03-25T15:07:13.238Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 16:06, kolodvor BUDINŠĆINA"
   }
 ]
