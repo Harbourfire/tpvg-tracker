@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-03-22T16:15:00",
-    "seen_at": "2026-03-22T15:17:45.713Z",
-    "raw": "Br. Vlaka 63310 dolazak      22.03.26. 16:15, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
     "type": "Odlazak",
     "station": "BLATA",
     "train_number": "63310",
@@ -12733,5 +12724,59 @@
     "event_time": "2026-03-25T16:14:00",
     "seen_at": "2026-03-25T15:14:54.933Z",
     "raw": "Br. Vlaka 89754 odlazak      25.03.26. 16:14, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45994",
+    "event_time": "2026-03-25T16:15:00",
+    "seen_at": "2026-03-25T15:17:56.278Z",
+    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 16:15, kolodvor 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-25T16:16:00",
+    "seen_at": "2026-03-25T15:17:56.279Z",
+    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 16:16, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89921",
+    "event_time": "2026-03-25T16:20:00",
+    "seen_at": "2026-03-25T15:20:41.606Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 16:20, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "LEKENIK",
+    "train_number": "81283",
+    "event_time": "2026-03-25T16:15:00",
+    "seen_at": "2026-03-25T15:22:15.519Z",
+    "raw": "Br. Vlaka 81283 dolazak      25.03.26. 16:15, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89754",
+    "event_time": "2026-03-25T16:22:00",
+    "seen_at": "2026-03-25T15:22:39.086Z",
+    "raw": "Br. Vlaka 89754 odlazak      25.03.26. 16:22, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "81283",
+    "event_time": "2026-03-25T16:21:00",
+    "seen_at": "2026-03-25T15:22:39.087Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 16:21, kolodvor LEKENIK"
   }
 ]
