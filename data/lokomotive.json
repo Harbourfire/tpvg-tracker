@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-03-22T08:00:00",
-    "seen_at": "2026-03-22T09:24:09.288Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-03-22T10:22:00",
-    "seen_at": "2026-03-22T09:24:32.200Z",
-    "raw": "Br. Vlaka 89541 promjena sas 22.03.26. 10:22, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "997894215711",
     "type": "Odlazak",
     "station": "SVETI PETAR U ŠUMI",
@@ -12004,5 +11986,32 @@
     "event_time": "2026-03-25T10:20:00",
     "seen_at": "2026-03-25T09:22:29.002Z",
     "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:20, kolodvor JURDANI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44994",
+    "event_time": "2026-03-25T10:19:00",
+    "seen_at": "2026-03-25T09:24:35.036Z",
+    "raw": "Br. Vlaka 44994 dolazak      25.03.26. 10:19, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "76506",
+    "event_time": "2026-03-25T10:25:00",
+    "seen_at": "2026-03-25T09:26:06.851Z",
+    "raw": "Br. Vlaka 76506 formiran     25.03.26. 10:25, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "OPATIJA-MATULJI",
+    "train_number": "79931",
+    "event_time": "2026-03-25T10:29:00",
+    "seen_at": "2026-03-25T09:29:56.536Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:29, kolodvor OPATIJA-MATULJI"
   }
 ]
