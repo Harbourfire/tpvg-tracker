@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44994",
-    "event_time": "2026-03-22T23:07:00",
-    "seen_at": "2026-03-22T22:09:52.048Z",
-    "raw": "Br. Vlaka 44994 odlazak      22.03.26. 23:07, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-22T23:14:00",
-    "seen_at": "2026-03-22T22:15:34.172Z",
-    "raw": "Br. Vlaka 63305 formiran     22.03.26. 23:14, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-22T23:14:00",
-    "seen_at": "2026-03-22T22:15:34.172Z",
-    "raw": "Br. Vlaka 63305 formiran     22.03.26. 23:14, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13894,5 +13867,50 @@
     "event_time": "2026-03-25T23:02:00",
     "seen_at": "2026-03-25T22:02:23.794Z",
     "raw": "Br. Vlaka 82529 formiran     25.03.26. 23:02, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-25T23:08:00",
+    "seen_at": "2026-03-25T22:09:30.507Z",
+    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 23:08, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-25T23:08:00",
+    "seen_at": "2026-03-25T22:09:30.507Z",
+    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 23:08, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "82529",
+    "event_time": "2026-03-25T23:09:00",
+    "seen_at": "2026-03-25T22:11:26.826Z",
+    "raw": "Br. Vlaka 82529 odlazak      25.03.26. 23:09, kolodvor KOŠKA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45996",
+    "event_time": "2026-03-25T23:15:00",
+    "seen_at": "2026-03-25T22:15:42.709Z",
+    "raw": "Br. Vlaka 45996 odlazak      25.03.26. 23:15, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "81283",
+    "event_time": "2026-03-25T23:16:00",
+    "seen_at": "2026-03-25T22:16:31.680Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 23:16, kolodvor NOVA GRADIŠKA"
   }
 ]
