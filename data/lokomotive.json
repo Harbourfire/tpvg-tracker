@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "47938",
-    "event_time": "2026-03-22T10:01:00",
-    "seen_at": "2026-03-22T09:04:56.657Z",
-    "raw": "Br. Vlaka 47938 dolazak      22.03.26. 10:01, kolodvor SESVETE"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-13T09:41:00",
-    "seen_at": "2026-03-22T09:07:50.520Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44690",
-    "event_time": "2026-03-22T09:57:00",
-    "seen_at": "2026-03-22T09:08:13.351Z",
-    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:57, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -11986,5 +11959,41 @@
     "event_time": "2026-03-25T10:01:00",
     "seen_at": "2026-03-25T09:02:17.583Z",
     "raw": "Br. Vlaka 71207 odlazak      25.03.26. 10:01, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-03-25T09:37:00",
+    "seen_at": "2026-03-25T09:07:10.068Z",
+    "raw": "Br. Vlaka 44994 dolazak      25.03.26. 09:37, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-03-25T10:03:00",
+    "seen_at": "2026-03-25T09:07:33.555Z",
+    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 10:03, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ŠAPJANE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T10:05:00",
+    "seen_at": "2026-03-25T09:08:21.335Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:05, kolodvor ŠAPJANE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "48586",
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-03-25T09:13:50.673Z",
+    "raw": "Br. Vlaka 48586 promjena sas 25.03.26. 10:12, kolodvor SAVSKI MAROF"
   }
 ]
