@@ -2,15 +2,6 @@
   {
     "uic": "987893113462",
     "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76522",
-    "event_time": "2026-03-22T07:50:00",
-    "seen_at": "2026-03-22T06:53:36.587Z",
-    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:50, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
     "station": "ĐAKOVO",
     "train_number": "76522",
     "event_time": "2026-03-22T08:18:00",
@@ -11662,5 +11653,23 @@
     "event_time": "2026-03-25T07:43:00",
     "seen_at": "2026-03-25T06:49:30.700Z",
     "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44994",
+    "event_time": "2026-03-25T07:53:00",
+    "seen_at": "2026-03-25T06:55:11.279Z",
+    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 07:53, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "83819",
+    "event_time": "2026-03-25T07:58:00",
+    "seen_at": "2026-03-25T06:59:02.255Z",
+    "raw": "Br. Vlaka 83819 dolazak      25.03.26. 07:58, kolodvor PLETERNICA"
   }
 ]
