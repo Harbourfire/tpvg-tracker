@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81983",
-    "event_time": "2026-03-22T07:42:00",
-    "seen_at": "2026-03-22T06:43:34.654Z",
-    "raw": "Br. Vlaka 81983 formiran     22.03.26. 07:42, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "987893113462",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -11653,5 +11644,23 @@
     "event_time": "2026-03-25T07:40:00",
     "seen_at": "2026-03-25T06:42:14.583Z",
     "raw": "Br. Vlaka 44994 odlazak      25.03.26. 07:40, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-03-25T07:45:00",
+    "seen_at": "2026-03-25T06:46:23.083Z",
+    "raw": "Br. Vlaka 45105 odlazak      25.03.26. 07:45, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SIBINJ",
+    "train_number": null,
+    "event_time": "2026-03-25T07:43:00",
+    "seen_at": "2026-03-25T06:49:30.700Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
   }
 ]
