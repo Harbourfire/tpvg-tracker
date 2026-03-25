@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Dolazak",
-    "station": "ĐAKOVO",
-    "train_number": "77227",
-    "event_time": "2026-03-22T11:41:00",
-    "seen_at": "2026-03-22T10:42:50.440Z",
-    "raw": "Br. Vlaka 77227 dolazak      22.03.26. 11:41, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "77227",
-    "event_time": "2026-03-22T11:41:00",
-    "seen_at": "2026-03-22T10:43:12.866Z",
-    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 11:41, kolodvor ĐAKOVO"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -12202,5 +12184,41 @@
     "event_time": "2026-03-25T11:35:00",
     "seen_at": "2026-03-25T10:36:21.915Z",
     "raw": "Br. Vlaka 69614 odlazak      25.03.26. 11:35, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "69614",
+    "event_time": "2026-03-25T11:40:00",
+    "seen_at": "2026-03-25T10:40:46.008Z",
+    "raw": "Br. Vlaka 69614 odlazak      25.03.26. 11:40, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T11:20:00",
+    "seen_at": "2026-03-25T10:44:39.780Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:20, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "82210",
+    "event_time": "2026-03-25T11:45:00",
+    "seen_at": "2026-03-25T10:45:50.883Z",
+    "raw": "Br. Vlaka 82210 dolazak      25.03.26. 11:45, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T11:45:00",
+    "seen_at": "2026-03-25T10:47:00.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
   }
 ]
