@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "44690",
-    "event_time": "2026-03-22T09:23:00",
-    "seen_at": "2026-03-22T08:23:40.935Z",
-    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:23, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -11905,5 +11896,50 @@
     "event_time": "2026-03-25T09:08:00",
     "seen_at": "2026-03-25T08:16:35.466Z",
     "raw": "Trenutna pozicija je u kolodvoru 73901 NAŠICE"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89525",
+    "event_time": "2026-03-25T09:16:00",
+    "seen_at": "2026-03-25T08:19:08.288Z",
+    "raw": "Br. Vlaka 89525 odlazak      25.03.26. 09:16, kolodvor KOŠKA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "ŠAPJANE",
+    "train_number": "79930",
+    "event_time": "2026-03-25T09:18:00",
+    "seen_at": "2026-03-25T08:22:58.837Z",
+    "raw": "Br. Vlaka 79930 dolazak      25.03.26. 09:18, kolodvor ŠAPJANE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ŠAPJANE",
+    "train_number": null,
+    "event_time": "2026-03-25T09:18:00",
+    "seen_at": "2026-03-25T08:23:21.844Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75605 ŠAPJANE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76505",
+    "event_time": "2026-03-25T09:23:00",
+    "seen_at": "2026-03-25T08:24:07.798Z",
+    "raw": "Br. Vlaka 76505 odlazak      25.03.26. 09:23, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "ŠAPJANE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T09:23:00",
+    "seen_at": "2026-03-25T08:24:30.682Z",
+    "raw": "Br. Vlaka 79931 formiran     25.03.26. 09:23, kolodvor ŠAPJANE"
   }
 ]
