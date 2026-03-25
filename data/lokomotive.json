@@ -1,158 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-22T15:20:00",
-    "seen_at": "2026-03-22T14:20:50.080Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-22T14:38:00",
-    "seen_at": "2026-03-22T14:21:12.548Z",
-    "raw": "Br. Vlaka 63310 promjena sas 22.03.26. 14:38, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-03-22T15:22:00",
-    "seen_at": "2026-03-22T14:22:20.373Z",
-    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 15:22, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-03-22T15:22:00",
-    "seen_at": "2026-03-22T14:22:20.374Z",
-    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 15:22, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-12T08:53:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "997894853180",
-    "type": "Rasformiran",
-    "station": "JOSIPOVAC",
-    "train_number": null,
-    "event_time": "2026-03-16T13:20:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71901 JOSIPOVAC"
-  },
-  {
-    "uic": "987893119048",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2025-11-21T09:50:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-06T04:55:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "997894853412",
-    "type": "Rasformiran",
-    "station": "OTOK",
-    "train_number": null,
-    "event_time": "2026-02-27T15:57:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71303 OTOK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-05T18:53:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Rasformiran",
-    "station": "DUGO SELO",
-    "train_number": null,
-    "event_time": "2026-03-12T07:20:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "KARLOVAC",
-    "train_number": null,
-    "event_time": "2026-03-17T12:26:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75060 KARLOVAC"
-  },
-  {
-    "uic": "997894215646",
-    "type": "Rasformiran",
-    "station": "BIZOVAC",
-    "train_number": null,
-    "event_time": "2026-03-16T19:29:00",
-    "seen_at": "2026-03-22T14:29:16.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-01T15:18:00",
-    "seen_at": "2026-03-22T14:29:16.883Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894215612",
-    "type": "Rasformiran",
-    "station": "DUGO SELO",
-    "train_number": null,
-    "event_time": "2026-03-12T07:14:00",
-    "seen_at": "2026-03-22T14:29:16.883Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
-  },
-  {
-    "uic": "987895155610",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-16T08:00:00",
-    "seen_at": "2026-03-22T14:29:16.883Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "UNEŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-16T13:16:00",
-    "seen_at": "2026-03-22T14:29:16.883Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76409 UNEŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -12724,5 +12571,14 @@
     "event_time": "2026-03-25T15:18:00",
     "seen_at": "2026-03-25T14:19:34.417Z",
     "raw": "Br. Vlaka 81283 odlazak      25.03.26. 15:18, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-25T15:25:00",
+    "seen_at": "2026-03-25T14:26:04.950Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
