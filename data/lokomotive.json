@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-22T13:35:00",
-    "seen_at": "2026-03-22T12:41:44.461Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 13:35, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "KOPRIVNICA GR    A",
@@ -12607,5 +12598,140 @@
     "event_time": "2026-03-25T13:28:00",
     "seen_at": "2026-03-25T12:31:44.153Z",
     "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:28, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "89755",
+    "event_time": "2026-03-25T12:26:00",
+    "seen_at": "2026-03-25T12:36:08.585Z",
+    "raw": "Br. Vlaka 89755 formiran     25.03.26. 12:26, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47939",
+    "event_time": "2026-03-25T13:21:00",
+    "seen_at": "2026-03-25T12:36:08.586Z",
+    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 13:21, kolodvor ROČ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89755",
+    "event_time": "2026-03-25T13:36:00",
+    "seen_at": "2026-03-25T12:36:32.530Z",
+    "raw": "Br. Vlaka 89755 odlazak      25.03.26. 13:36, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "47939",
+    "event_time": "2026-03-25T13:30:00",
+    "seen_at": "2026-03-25T12:36:32.531Z",
+    "raw": "Br. Vlaka 47939 dolazak      25.03.26. 13:30, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89723",
+    "event_time": "2026-03-25T13:35:00",
+    "seen_at": "2026-03-25T12:36:56.030Z",
+    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 13:35, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-03-25T13:30:00",
+    "seen_at": "2026-03-25T12:36:56.031Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "58260",
+    "event_time": "2026-03-25T13:26:00",
+    "seen_at": "2026-03-25T12:38:29.139Z",
+    "raw": "Br. Vlaka 58260 formiran     25.03.26. 13:26, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "58260",
+    "event_time": "2026-03-25T13:26:00",
+    "seen_at": "2026-03-25T12:38:52.493Z",
+    "raw": "Br. Vlaka 58260 formiran     25.03.26. 13:26, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "VRBOVSKO",
+    "train_number": "79931",
+    "event_time": "2026-03-25T13:38:00",
+    "seen_at": "2026-03-25T12:39:15.800Z",
+    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 13:38, kolodvor VRBOVSKO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89755",
+    "event_time": "2026-03-25T13:40:00",
+    "seen_at": "2026-03-25T12:41:58.529Z",
+    "raw": "Br. Vlaka 89755 odlazak      25.03.26. 13:40, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81283",
+    "event_time": "2026-03-25T13:41:00",
+    "seen_at": "2026-03-25T12:42:21.505Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:41, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82210",
+    "event_time": "2026-03-25T13:43:00",
+    "seen_at": "2026-03-25T12:43:53.812Z",
+    "raw": "Br. Vlaka 82210 dolazak      25.03.26. 13:43, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89921",
+    "event_time": "2026-03-25T13:41:00",
+    "seen_at": "2026-03-25T12:44:16.748Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 13:41, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89755",
+    "event_time": "2026-03-25T13:44:00",
+    "seen_at": "2026-03-25T12:44:16.748Z",
+    "raw": "Br. Vlaka 89755 odlazak      25.03.26. 13:44, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VRBOVSKO",
+    "train_number": "79931",
+    "event_time": "2026-03-25T13:44:00",
+    "seen_at": "2026-03-25T12:44:40.198Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:44, kolodvor VRBOVSKO"
   }
 ]
