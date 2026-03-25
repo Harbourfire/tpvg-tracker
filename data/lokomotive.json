@@ -2,24 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-03-22T01:03:00",
-    "seen_at": "2026-03-22T00:03:55.739Z",
-    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:03, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-03-22T01:03:00",
-    "seen_at": "2026-03-22T00:03:55.740Z",
-    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:03, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "63306",
     "event_time": "2026-03-22T01:16:00",
@@ -11554,5 +11536,41 @@
     "event_time": "2026-03-25T00:55:00",
     "seen_at": "2026-03-24T23:57:17.897Z",
     "raw": "Br. Vlaka 81981 odlazak      25.03.26. 00:55, kolodvor 72302"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-03-25T00:59:00",
+    "seen_at": "2026-03-24T23:59:48.352Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "81981",
+    "event_time": "2026-03-25T01:01:00",
+    "seen_at": "2026-03-25T00:01:44.096Z",
+    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 01:01, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "81981",
+    "event_time": "2026-03-25T01:01:00",
+    "seen_at": "2026-03-25T00:01:44.097Z",
+    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 01:01, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89720",
+    "event_time": "2026-03-25T01:04:00",
+    "seen_at": "2026-03-25T00:04:28.340Z",
+    "raw": "Br. Vlaka 89720 odlazak      25.03.26. 01:04, kolodvor VINKOVCI"
   }
 ]
