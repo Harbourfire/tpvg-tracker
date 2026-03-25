@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-03-22T17:11:00",
-    "seen_at": "2026-03-22T16:12:31.699Z",
-    "raw": "Br. Vlaka 63310 dolazak      22.03.26. 17:11, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-22T17:11:00",
-    "seen_at": "2026-03-22T16:12:54.481Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "997894215711",
     "type": "Formiran",
     "station": "BUZET",
@@ -12931,5 +12913,77 @@
     "event_time": "2026-03-25T17:04:00",
     "seen_at": "2026-03-25T16:05:04.965Z",
     "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:04, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "LUKA",
+    "train_number": "89921",
+    "event_time": "2026-03-25T17:08:00",
+    "seen_at": "2026-03-25T16:09:32.567Z",
+    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 17:08, kolodvor LUKA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "81280",
+    "event_time": "2026-03-25T17:08:00",
+    "seen_at": "2026-03-25T16:09:32.567Z",
+    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 17:08, kolodvor HORVATI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "79931",
+    "event_time": "2026-03-25T17:06:00",
+    "seen_at": "2026-03-25T16:11:04.960Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 17:06, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-25T17:04:00",
+    "seen_at": "2026-03-25T16:12:16.073Z",
+    "raw": "Br. Vlaka 63310 dolazak      25.03.26. 17:04, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89728",
+    "event_time": "2026-03-25T17:10:00",
+    "seen_at": "2026-03-25T16:13:50.002Z",
+    "raw": "Br. Vlaka 89728 dolazak      25.03.26. 17:10, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81281",
+    "event_time": "2026-03-25T17:04:00",
+    "seen_at": "2026-03-25T16:14:35.641Z",
+    "raw": "Br. Vlaka 81281 dolazak      25.03.26. 17:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81281",
+    "event_time": "2026-03-25T17:10:00",
+    "seen_at": "2026-03-25T16:14:58.686Z",
+    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 17:10, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "81280",
+    "event_time": "2026-03-25T17:14:00",
+    "seen_at": "2026-03-25T16:15:21.885Z",
+    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 17:14, kolodvor ZDENČINA"
   }
 ]
