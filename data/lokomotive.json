@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "47944",
-    "event_time": "2026-03-23T00:12:00",
-    "seen_at": "2026-03-22T23:13:04.565Z",
-    "raw": "Br. Vlaka 47944 odlazak      23.03.26. 00:12, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44994",
-    "event_time": "2026-03-23T00:15:00",
-    "seen_at": "2026-03-22T23:17:16.257Z",
-    "raw": "Br. Vlaka 44994 dolazak      23.03.26. 00:15, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "KOPRIVNICA GR    A",
@@ -13966,5 +13948,32 @@
     "event_time": "2026-03-26T00:09:00",
     "seen_at": "2026-03-25T23:09:26.711Z",
     "raw": "Br. Vlaka 81283 odlazak      26.03.26. 00:09, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "82529",
+    "event_time": "2026-03-26T00:17:00",
+    "seen_at": "2026-03-25T23:17:24.351Z",
+    "raw": "Br. Vlaka 82529 dolazak      26.03.26. 00:17, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "45994",
+    "event_time": "2026-03-26T00:19:00",
+    "seen_at": "2026-03-25T23:19:18.470Z",
+    "raw": "Br. Vlaka 45994 odlazak      26.03.26. 00:19, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81283",
+    "event_time": "2026-03-26T00:20:00",
+    "seen_at": "2026-03-25T23:20:27.259Z",
+    "raw": "Br. Vlaka 81283 odlazak      26.03.26. 00:20, kolodvor SLAVONSKI BROD"
   }
 ]
