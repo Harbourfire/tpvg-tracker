@@ -2,15 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-03-22T16:50:00",
-    "seen_at": "2026-03-22T15:51:24.785Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 16:50, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "JOSIPDOL",
     "train_number": "63310",
     "event_time": "2026-03-22T17:04:00",
@@ -12832,5 +12823,77 @@
     "event_time": "2026-03-25T16:46:00",
     "seen_at": "2026-03-25T15:46:44.454Z",
     "raw": "Br. Vlaka 79931 dolazak      25.03.26. 16:46, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89921",
+    "event_time": "2026-03-25T16:46:00",
+    "seen_at": "2026-03-25T15:47:45.402Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 16:46, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "89728",
+    "event_time": "2026-03-25T16:50:00",
+    "seen_at": "2026-03-25T15:50:32.012Z",
+    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 16:50, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89754",
+    "event_time": "2026-03-25T16:47:00",
+    "seen_at": "2026-03-25T15:51:19.756Z",
+    "raw": "Br. Vlaka 89754 dolazak      25.03.26. 16:47, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-25T16:48:00",
+    "seen_at": "2026-03-25T15:51:19.757Z",
+    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 16:48, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-25T16:47:00",
+    "seen_at": "2026-03-25T15:51:42.903Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "81281",
+    "event_time": "2026-03-25T16:50:00",
+    "seen_at": "2026-03-25T15:54:02.605Z",
+    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 16:50, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "81283",
+    "event_time": "2026-03-25T16:53:00",
+    "seen_at": "2026-03-25T15:54:02.606Z",
+    "raw": "Br. Vlaka 81283 dolazak      25.03.26. 16:53, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "89723",
+    "event_time": "2026-03-25T16:52:00",
+    "seen_at": "2026-03-25T15:55:12.591Z",
+    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 16:52, kolodvor OSIJEK"
   }
 ]
