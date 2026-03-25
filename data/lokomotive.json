@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "70201",
-    "event_time": "2026-03-22T17:40:00",
-    "seen_at": "2026-03-22T16:44:38.548Z",
-    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 17:40, kolodvor BUZET"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13138,5 +13129,59 @@
     "event_time": "2026-03-25T17:43:00",
     "seen_at": "2026-03-25T16:43:35.600Z",
     "raw": "Br. Vlaka 79931 odlazak      25.03.26. 17:43, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "81281",
+    "event_time": "2026-03-25T17:42:00",
+    "seen_at": "2026-03-25T16:45:00.536Z",
+    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 17:42, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "VRHOVINE",
+    "train_number": null,
+    "event_time": "2026-03-25T17:45:00",
+    "seen_at": "2026-03-25T16:45:24.343Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69615",
+    "event_time": "2026-03-25T17:45:00",
+    "seen_at": "2026-03-25T16:47:23.094Z",
+    "raw": "Br. Vlaka 69615 odlazak      25.03.26. 17:45, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-03-25T15:55:00",
+    "seen_at": "2026-03-25T16:48:09.651Z",
+    "raw": "Br. Vlaka 63312 formiran     25.03.26. 15:55, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "69615",
+    "event_time": "2026-03-25T17:50:00",
+    "seen_at": "2026-03-25T16:50:29.822Z",
+    "raw": "Br. Vlaka 69615 odlazak      25.03.26. 17:50, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89723",
+    "event_time": "2026-03-25T17:52:00",
+    "seen_at": "2026-03-25T16:53:15.589Z",
+    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 17:52, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
