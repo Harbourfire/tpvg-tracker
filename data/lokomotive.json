@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47944",
-    "event_time": "2026-03-22T23:36:00",
-    "seen_at": "2026-03-22T22:36:19.232Z",
-    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 23:36, kolodvor 72302"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47944",
-    "event_time": "2026-03-22T23:41:00",
-    "seen_at": "2026-03-22T22:41:40.504Z",
-    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 23:41, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "SESVETE",
     "train_number": "47944",
     "event_time": "2026-03-22T23:47:00",
@@ -13966,5 +13948,50 @@
     "event_time": "2026-03-25T23:28:00",
     "seen_at": "2026-03-25T22:34:59.990Z",
     "raw": "Br. Vlaka 82529 odlazak      25.03.26. 23:28, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-25T23:38:00",
+    "seen_at": "2026-03-25T22:39:26.080Z",
+    "raw": "Br. Vlaka 63305 dolazak      25.03.26. 23:38, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-25T23:38:00",
+    "seen_at": "2026-03-25T22:39:26.080Z",
+    "raw": "Br. Vlaka 63305 dolazak      25.03.26. 23:38, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T23:38:00",
+    "seen_at": "2026-03-25T22:39:48.880Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T23:38:00",
+    "seen_at": "2026-03-25T22:39:48.881Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81283",
+    "event_time": "2026-03-25T23:43:00",
+    "seen_at": "2026-03-25T22:43:14.169Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 23:43, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
