@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "KOŠKA",
-    "train_number": "83820",
-    "event_time": "2026-03-22T13:51:00",
-    "seen_at": "2026-03-22T13:00:54.817Z",
-    "raw": "Br. Vlaka 83820 dolazak      22.03.26. 13:51, kolodvor KOŠKA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-22T14:00:00",
-    "seen_at": "2026-03-22T13:00:54.818Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 14:00, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "KOŠKA",
-    "train_number": null,
-    "event_time": "2026-03-22T13:51:00",
-    "seen_at": "2026-03-22T13:01:39.725Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71906 KOŠKA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89872",
-    "event_time": "2026-03-22T14:02:00",
-    "seen_at": "2026-03-22T13:03:09.453Z",
-    "raw": "Br. Vlaka 89872 odlazak      22.03.26. 14:02, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "NOVO DRNJE",
@@ -12742,5 +12706,41 @@
     "event_time": "2026-03-25T13:48:00",
     "seen_at": "2026-03-25T12:50:43.467Z",
     "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:48, kolodvor 72304"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "79931",
+    "event_time": "2026-03-25T13:55:00",
+    "seen_at": "2026-03-25T12:56:05.884Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:55, kolodvor OGULINSKI HRELJIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T13:56:00",
+    "seen_at": "2026-03-25T12:57:16.214Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89755",
+    "event_time": "2026-03-25T13:57:00",
+    "seen_at": "2026-03-25T12:58:26.376Z",
+    "raw": "Br. Vlaka 89755 odlazak      25.03.26. 13:57, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89921",
+    "event_time": "2026-03-25T13:54:00",
+    "seen_at": "2026-03-25T12:59:36.388Z",
+    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 13:54, kolodvor VARAŽDIN"
   }
 ]
