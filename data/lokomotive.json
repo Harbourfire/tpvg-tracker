@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81291",
-    "event_time": "2026-03-22T04:40:00",
-    "seen_at": "2026-03-22T03:41:31.292Z",
-    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 04:40, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820622029",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
     "train_number": "81291",
@@ -11554,5 +11545,14 @@
     "event_time": "2026-03-25T04:20:00",
     "seen_at": "2026-03-25T03:22:39.694Z",
     "raw": "Br. Vlaka 81981 odlazak      25.03.26. 04:20, kolodvor SV. IVAN ŽABNO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "BJELOVAR",
+    "train_number": "81981",
+    "event_time": "2026-03-25T04:40:00",
+    "seen_at": "2026-03-25T03:42:59.674Z",
+    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 04:40, kolodvor BJELOVAR"
   }
 ]
