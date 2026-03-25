@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Rasformiran",
-    "station": "LUPOGLAV",
-    "train_number": null,
-    "event_time": "2026-03-22T12:20:00",
-    "seen_at": "2026-03-22T11:29:43.719Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89182",
-    "event_time": "2026-03-22T12:29:00",
-    "seen_at": "2026-03-22T11:30:06.537Z",
-    "raw": "Br. Vlaka 89182 dolazak      22.03.26. 12:29, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-22T12:29:00",
-    "seen_at": "2026-03-22T11:30:29.367Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "77227",
-    "event_time": "2026-03-22T12:29:00",
-    "seen_at": "2026-03-22T11:32:00.930Z",
-    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 12:29, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "JOSIPOVAC",
-    "train_number": "83820",
-    "event_time": "2026-03-22T12:33:00",
-    "seen_at": "2026-03-22T11:36:51.116Z",
-    "raw": "Br. Vlaka 83820 dolazak      22.03.26. 12:33, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -12319,5 +12274,41 @@
     "event_time": "2026-03-25T12:25:00",
     "seen_at": "2026-03-25T11:27:28.255Z",
     "raw": "Br. Vlaka 76506 odlazak      25.03.26. 12:25, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "FUŽINE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T12:30:00",
+    "seen_at": "2026-03-25T11:30:24.030Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 12:30, kolodvor FUŽINE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-03-25T12:32:00",
+    "seen_at": "2026-03-25T11:33:29.530Z",
+    "raw": "Br. Vlaka 45104 odlazak      25.03.26. 12:32, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89921",
+    "event_time": "2026-03-25T12:35:00",
+    "seen_at": "2026-03-25T11:36:10.874Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 12:35, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-25T12:35:00",
+    "seen_at": "2026-03-25T11:37:22.185Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
