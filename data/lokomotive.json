@@ -1,24 +1,6 @@
 [
   {
     "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "SVETI PETAR U ŠUMI",
-    "train_number": "70200",
-    "event_time": "2026-03-22T10:26:00",
-    "seen_at": "2026-03-22T09:33:25.815Z",
-    "raw": "Br. Vlaka 70200 odlazak      22.03.26. 10:26, kolodvor SVETI PETAR U ŠUMI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81983",
-    "event_time": "2026-03-22T10:34:00",
-    "seen_at": "2026-03-22T09:35:07.477Z",
-    "raw": "Br. Vlaka 81983 odlazak      22.03.26. 10:34, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "997894215711",
     "type": "Dolazak",
     "station": "PAZIN",
     "train_number": "70200",
@@ -12013,5 +11995,14 @@
     "event_time": "2026-03-25T10:29:00",
     "seen_at": "2026-03-25T09:29:56.536Z",
     "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:29, kolodvor OPATIJA-MATULJI"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "SIBINJ",
+    "train_number": "76500",
+    "event_time": "2026-03-25T10:11:00",
+    "seen_at": "2026-03-25T09:33:37.926Z",
+    "raw": "Br. Vlaka 76500 formiran     25.03.26. 10:11, kolodvor SIBINJ"
   }
 ]
