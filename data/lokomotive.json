@@ -1,42 +1,6 @@
 [
   {
     "uic": "997894215711",
-    "type": "Dolazak",
-    "station": "LUPOGLAV",
-    "train_number": "70200",
-    "event_time": "2026-03-22T12:20:00",
-    "seen_at": "2026-03-22T11:20:39.847Z",
-    "raw": "Br. Vlaka 70200 dolazak      22.03.26. 12:20, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "77227",
-    "event_time": "2026-03-22T12:20:00",
-    "seen_at": "2026-03-22T11:22:11.757Z",
-    "raw": "Br. Vlaka 77227 odlazak      22.03.26. 12:20, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47938",
-    "event_time": "2026-03-22T12:22:00",
-    "seen_at": "2026-03-22T11:24:30.278Z",
-    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 12:22, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89182",
-    "event_time": "2026-03-22T12:24:00",
-    "seen_at": "2026-03-22T11:24:53.148Z",
-    "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:24, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "997894215711",
     "type": "Rasformiran",
     "station": "LUPOGLAV",
     "train_number": null,
@@ -12265,5 +12229,95 @@
     "event_time": "2026-03-25T12:15:00",
     "seen_at": "2026-03-25T11:17:45.690Z",
     "raw": "Br. Vlaka 45104 odlazak      25.03.26. 12:15, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76506",
+    "event_time": "2026-03-25T12:18:00",
+    "seen_at": "2026-03-25T11:19:33.078Z",
+    "raw": "Br. Vlaka 76506 odlazak      25.03.26. 12:18, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "79931",
+    "event_time": "2026-03-25T12:19:00",
+    "seen_at": "2026-03-25T11:19:33.078Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 12:19, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89921",
+    "event_time": "2026-03-25T11:04:00",
+    "seen_at": "2026-03-25T11:20:44.011Z",
+    "raw": "Br. Vlaka 89921 formiran     25.03.26. 11:04, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82225",
+    "event_time": "2026-03-25T12:18:00",
+    "seen_at": "2026-03-25T11:21:07.789Z",
+    "raw": "Br. Vlaka 82225 dolazak      25.03.26. 12:18, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82225",
+    "event_time": "2026-03-25T12:19:00",
+    "seen_at": "2026-03-25T11:21:31.258Z",
+    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 12:19, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89921",
+    "event_time": "2026-03-25T12:19:00",
+    "seen_at": "2026-03-25T11:23:29.054Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 12:19, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "89921",
+    "event_time": "2026-03-25T12:22:00",
+    "seen_at": "2026-03-25T11:23:52.356Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 12:22, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45131",
+    "event_time": "2026-03-25T12:26:00",
+    "seen_at": "2026-03-25T11:27:05.055Z",
+    "raw": "Br. Vlaka 45131 odlazak      25.03.26. 12:26, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89723",
+    "event_time": "2026-03-25T12:26:00",
+    "seen_at": "2026-03-25T11:27:28.254Z",
+    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 12:26, kolodvor SLATINA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76506",
+    "event_time": "2026-03-25T12:25:00",
+    "seen_at": "2026-03-25T11:27:28.255Z",
+    "raw": "Br. Vlaka 76506 odlazak      25.03.26. 12:25, kolodvor IVANKOVO"
   }
 ]
