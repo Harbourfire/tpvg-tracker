@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-03-22T17:04:00",
-    "seen_at": "2026-03-22T16:05:15.151Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 17:04, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "63310",
@@ -12895,5 +12886,50 @@
     "event_time": "2026-03-25T16:52:00",
     "seen_at": "2026-03-25T15:55:12.591Z",
     "raw": "Br. Vlaka 89723 dolazak      25.03.26. 16:52, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89723",
+    "event_time": "2026-03-25T16:55:00",
+    "seen_at": "2026-03-25T15:57:44.330Z",
+    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 16:55, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "81283",
+    "event_time": "2026-03-25T17:00:00",
+    "seen_at": "2026-03-25T16:02:00.679Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 17:00, kolodvor SISAK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "81280",
+    "event_time": "2026-03-25T16:59:00",
+    "seen_at": "2026-03-25T16:03:09.885Z",
+    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 16:59, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89921",
+    "event_time": "2026-03-25T17:00:00",
+    "seen_at": "2026-03-25T16:04:41.954Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:00, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89921",
+    "event_time": "2026-03-25T17:04:00",
+    "seen_at": "2026-03-25T16:05:04.965Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:04, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
