@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "47988",
-    "event_time": "2026-03-22T08:30:00",
-    "seen_at": "2026-03-22T07:32:17.751Z",
-    "raw": "Br. Vlaka 47988 odlazak      22.03.26. 08:30, kolodvor DARDA"
-  },
-  {
     "uic": "927820440265",
     "type": "Promjena sastava",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -11761,5 +11752,77 @@
     "event_time": "2026-03-25T08:28:00",
     "seen_at": "2026-03-25T07:29:43.574Z",
     "raw": "Br. Vlaka 89525 formiran     25.03.26. 08:28, kolodvor KOŠKA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "KOŠKA",
+    "train_number": null,
+    "event_time": "2026-03-25T08:28:00",
+    "seen_at": "2026-03-25T07:31:27.895Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71906 KOŠKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44994",
+    "event_time": "2026-03-25T08:29:00",
+    "seen_at": "2026-03-25T07:31:51.074Z",
+    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 08:29, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "KOŠKA",
+    "train_number": "89525",
+    "event_time": "2026-03-25T08:28:00",
+    "seen_at": "2026-03-25T07:31:51.074Z",
+    "raw": "Br. Vlaka 89525 formiran     25.03.26. 08:28, kolodvor KOŠKA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "RIJEKA",
+    "train_number": "79930",
+    "event_time": "2026-03-25T08:30:00",
+    "seen_at": "2026-03-25T07:32:36.583Z",
+    "raw": "Br. Vlaka 79930 formiran     25.03.26. 08:30, kolodvor RIJEKA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "76925",
+    "event_time": "2026-03-25T08:32:00",
+    "seen_at": "2026-03-25T07:32:59.646Z",
+    "raw": "Br. Vlaka 76925 odlazak      25.03.26. 08:32, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "RIJEKA",
+    "train_number": "79930",
+    "event_time": "2026-03-25T08:29:00",
+    "seen_at": "2026-03-25T07:32:59.646Z",
+    "raw": "Br. Vlaka 79930 odlazak      25.03.26. 08:29, kolodvor RIJEKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82225",
+    "event_time": "2026-03-25T08:33:00",
+    "seen_at": "2026-03-25T07:34:31.402Z",
+    "raw": "Br. Vlaka 82225 formiran     25.03.26. 08:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "76505",
+    "event_time": "2026-03-25T08:31:00",
+    "seen_at": "2026-03-25T07:37:13.222Z",
+    "raw": "Br. Vlaka 76505 formiran     25.03.26. 08:31, kolodvor VINKOVCI"
   }
 ]
