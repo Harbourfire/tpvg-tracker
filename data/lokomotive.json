@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81291",
-    "event_time": "2026-03-22T04:50:00",
-    "seen_at": "2026-03-22T03:50:45.545Z",
-    "raw": "Br. Vlaka 81291 dolazak      22.03.26. 04:50, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -11554,5 +11545,23 @@
     "event_time": "2026-03-25T04:40:00",
     "seen_at": "2026-03-25T03:42:59.674Z",
     "raw": "Br. Vlaka 81981 dolazak      25.03.26. 04:40, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-25T02:18:00",
+    "seen_at": "2026-03-25T03:50:22.151Z",
+    "raw": "Br. Vlaka 69006 formiran     25.03.26. 02:18, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-25T04:48:00",
+    "seen_at": "2026-03-25T03:51:07.624Z",
+    "raw": "Br. Vlaka 69006 odlazak      25.03.26. 04:48, kolodvor OŠTARIJE"
   }
 ]
