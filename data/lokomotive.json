@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89255",
-    "event_time": "2026-03-22T14:13:00",
-    "seen_at": "2026-03-22T13:23:35.336Z",
-    "raw": "Br. Vlaka 89255 odlazak      22.03.26. 14:13, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89255",
-    "event_time": "2026-03-22T14:13:00",
-    "seen_at": "2026-03-22T13:23:35.337Z",
-    "raw": "Br. Vlaka 89255 odlazak      22.03.26. 14:13, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89872",
-    "event_time": "2026-03-22T14:22:00",
-    "seen_at": "2026-03-22T13:23:35.337Z",
-    "raw": "Br. Vlaka 89872 dolazak      22.03.26. 14:22, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89255",
-    "event_time": "2026-03-22T14:21:00",
-    "seen_at": "2026-03-22T13:23:58.096Z",
-    "raw": "Br. Vlaka 89255 dolazak      22.03.26. 14:21, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89255",
-    "event_time": "2026-03-22T14:21:00",
-    "seen_at": "2026-03-22T13:23:58.097Z",
-    "raw": "Br. Vlaka 89255 dolazak      22.03.26. 14:21, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89169",
-    "event_time": "2026-03-22T14:25:00",
-    "seen_at": "2026-03-22T13:27:09.873Z",
-    "raw": "Br. Vlaka 89169 odlazak      22.03.26. 14:25, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-22T14:28:00",
-    "seen_at": "2026-03-22T13:29:49.709Z",
-    "raw": "Br. Vlaka 63310 odlazak      22.03.26. 14:28, kolodvor VRHOVINE"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -12751,5 +12688,23 @@
     "event_time": "2026-03-25T13:55:00",
     "seen_at": "2026-03-25T13:21:27.605Z",
     "raw": "Br. Vlaka 81283 promjena sas 25.03.26. 13:55, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "82210",
+    "event_time": "2026-03-25T14:23:00",
+    "seen_at": "2026-03-25T13:24:21.277Z",
+    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 14:23, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "89723",
+    "event_time": "2026-03-25T13:51:00",
+    "seen_at": "2026-03-25T13:28:12.314Z",
+    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 13:51, kolodvor BIZOVAC"
   }
 ]
