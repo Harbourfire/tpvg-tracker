@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "47945",
-    "event_time": "2026-03-22T18:46:00",
-    "seen_at": "2026-03-22T17:51:06.321Z",
-    "raw": "Br. Vlaka 47945 odlazak      22.03.26. 18:46, kolodvor 72304"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB KLARA",
     "train_number": "47945",
     "event_time": "2026-03-22T18:51:00",
@@ -13381,5 +13372,32 @@
     "event_time": "2026-03-25T18:36:00",
     "seen_at": "2026-03-25T17:36:17.264Z",
     "raw": "Br. Vlaka 89728 odlazak      25.03.26. 18:36, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "89728",
+    "event_time": "2026-03-25T18:42:00",
+    "seen_at": "2026-03-25T17:42:14.991Z",
+    "raw": "Br. Vlaka 89728 dolazak      25.03.26. 18:42, kolodvor SISAK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "81280",
+    "event_time": "2026-03-25T18:34:00",
+    "seen_at": "2026-03-25T17:42:14.992Z",
+    "raw": "Br. Vlaka 81280 dolazak      25.03.26. 18:34, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81281",
+    "event_time": "2026-03-25T18:42:00",
+    "seen_at": "2026-03-25T17:43:24.868Z",
+    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 18:42, kolodvor BEDEKOVČINA"
   }
 ]
