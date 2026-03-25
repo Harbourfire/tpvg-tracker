@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47938",
-    "event_time": "2026-03-22T09:46:00",
-    "seen_at": "2026-03-22T08:47:12.790Z",
-    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 09:46, kolodvor 72302"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44690",
-    "event_time": "2026-03-22T09:46:00",
-    "seen_at": "2026-03-22T08:47:47.092Z",
-    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 09:46, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-22T08:50:00",
-    "seen_at": "2026-03-22T08:51:34.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47938",
-    "event_time": "2026-03-22T09:53:00",
-    "seen_at": "2026-03-22T08:54:12.136Z",
-    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 09:53, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "77227",
-    "event_time": "2026-03-22T09:52:00",
-    "seen_at": "2026-03-22T08:54:12.136Z",
-    "raw": "Br. Vlaka 77227 formiran     22.03.26. 09:52, kolodvor OSIJEK"
-  },
-  {
     "uic": "997894215711",
     "type": "Formiran",
     "station": "SVETI PETAR U ŠUMI",
@@ -11995,5 +11950,50 @@
     "event_time": "2026-03-25T09:26:00",
     "seen_at": "2026-03-25T08:44:22.171Z",
     "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "BIZOVAC",
+    "train_number": null,
+    "event_time": "2026-03-25T09:45:00",
+    "seen_at": "2026-03-25T08:46:11.390Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "VIROVITICA",
+    "train_number": "89723",
+    "event_time": "2026-03-24T18:57:00",
+    "seen_at": "2026-03-25T08:46:58.370Z",
+    "raw": "Br. Vlaka 89723 formiran     24.03.26. 18:57, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-03-25T09:45:00",
+    "seen_at": "2026-03-25T08:48:53.974Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "82223",
+    "event_time": "2026-03-25T07:33:00",
+    "seen_at": "2026-03-25T08:51:36.099Z",
+    "raw": "Br. Vlaka 82223 formiran     25.03.26. 07:33, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76505",
+    "event_time": "2026-03-25T09:53:00",
+    "seen_at": "2026-03-25T08:53:32.520Z",
+    "raw": "Br. Vlaka 76505 odlazak      25.03.26. 09:53, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
