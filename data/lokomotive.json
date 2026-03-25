@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89182",
-    "event_time": "2026-03-22T12:00:00",
-    "seen_at": "2026-03-22T11:01:01.860Z",
-    "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:00, kolodvor 72303"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "81983",
-    "event_time": "2026-03-22T12:02:00",
-    "seen_at": "2026-03-22T11:04:05.598Z",
-    "raw": "Br. Vlaka 81983 dolazak      22.03.26. 12:02, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-22T12:02:00",
-    "seen_at": "2026-03-22T11:04:28.787Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-22T12:04:00",
-    "seen_at": "2026-03-22T11:04:51.942Z",
-    "raw": "Br. Vlaka 63310 formiran     22.03.26. 12:04, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "47938",
-    "event_time": "2026-03-22T12:00:00",
-    "seen_at": "2026-03-22T11:05:38.002Z",
-    "raw": "Br. Vlaka 47938 dolazak      22.03.26. 12:00, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47938",
-    "event_time": "2026-03-22T12:05:00",
-    "seen_at": "2026-03-22T11:06:01.476Z",
-    "raw": "Br. Vlaka 47938 odlazak      22.03.26. 12:05, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89182",
-    "event_time": "2026-03-22T12:06:00",
-    "seen_at": "2026-03-22T11:06:24.356Z",
-    "raw": "Br. Vlaka 89182 odlazak      22.03.26. 12:06, kolodvor 72304"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -12292,5 +12229,77 @@
     "event_time": "2026-03-25T11:57:00",
     "seen_at": "2026-03-25T10:58:51.446Z",
     "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:57, kolodvor MEJA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "76506",
+    "event_time": "2026-03-25T11:59:00",
+    "seen_at": "2026-03-25T10:59:47.196Z",
+    "raw": "Br. Vlaka 76506 odlazak      25.03.26. 11:59, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-03-25T12:00:00",
+    "seen_at": "2026-03-25T11:00:58.708Z",
+    "raw": "Br. Vlaka 45104 formiran     25.03.26. 12:00, kolodvor 71308"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-03-25T11:54:00",
+    "seen_at": "2026-03-25T11:02:11.965Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-03-25T11:08:00",
+    "seen_at": "2026-03-25T11:02:57.832Z",
+    "raw": "Br. Vlaka 45104 odlazak      25.03.26. 11:08, kolodvor 71308"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-25T11:17:00",
+    "seen_at": "2026-03-25T11:03:20.955Z",
+    "raw": "Br. Vlaka 45104 dolazak      25.03.26. 11:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-03-25T09:08:00",
+    "seen_at": "2026-03-25T11:03:43.930Z",
+    "raw": "Br. Vlaka 47944 formiran     25.03.26. 09:08, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82225",
+    "event_time": "2026-03-25T12:03:00",
+    "seen_at": "2026-03-25T11:08:46.534Z",
+    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 12:03, kolodvor BLATA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "PLASE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T12:07:00",
+    "seen_at": "2026-03-25T11:08:46.535Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 12:07, kolodvor PLASE"
   }
 ]
