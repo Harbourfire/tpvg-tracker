@@ -1,15 +1,6 @@
 [
   {
     "uic": "997894215711",
-    "type": "Formiran",
-    "station": "BUZET",
-    "train_number": "70201",
-    "event_time": "2026-03-22T17:25:00",
-    "seen_at": "2026-03-22T16:27:07.290Z",
-    "raw": "Br. Vlaka 70201 formiran     22.03.26. 17:25, kolodvor BUZET"
-  },
-  {
-    "uic": "997894215711",
     "type": "Odlazak",
     "station": "BUZET",
     "train_number": "70201",
@@ -13048,5 +13039,68 @@
     "event_time": "2026-03-25T17:22:00",
     "seen_at": "2026-03-25T16:23:43.012Z",
     "raw": "Br. Vlaka 81280 dolazak      25.03.26. 17:22, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89921",
+    "event_time": "2026-03-25T17:27:00",
+    "seen_at": "2026-03-25T16:27:50.576Z",
+    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:27, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-25T15:13:00",
+    "seen_at": "2026-03-25T16:29:01.867Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-03-25T15:55:00",
+    "seen_at": "2026-03-25T16:29:48.660Z",
+    "raw": "Br. Vlaka 69177 formiran     25.03.26. 15:55, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "89723",
+    "event_time": "2026-03-25T17:30:00",
+    "seen_at": "2026-03-25T16:32:09.012Z",
+    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 17:30, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89921",
+    "event_time": "2026-03-25T17:31:00",
+    "seen_at": "2026-03-25T16:32:32.478Z",
+    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 17:31, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T17:31:00",
+    "seen_at": "2026-03-25T16:33:19.192Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69615",
+    "event_time": "2026-03-25T17:09:00",
+    "seen_at": "2026-03-25T16:34:52.348Z",
+    "raw": "Br. Vlaka 69615 formiran     25.03.26. 17:09, kolodvor ZAPREŠIĆ"
   }
 ]
