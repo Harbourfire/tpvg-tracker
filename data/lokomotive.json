@@ -2,33 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-03-22T01:26:00",
-    "seen_at": "2026-03-22T00:27:30.831Z",
-    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:26, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-03-22T01:26:00",
-    "seen_at": "2026-03-22T00:27:30.831Z",
-    "raw": "Br. Vlaka 63306 odlazak      22.03.26. 01:26, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81291",
-    "event_time": "2026-03-22T01:29:00",
-    "seen_at": "2026-03-22T00:35:00.255Z",
-    "raw": "Br. Vlaka 81291 dolazak      22.03.26. 01:29, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "63306",
     "event_time": "2026-03-22T01:44:00",
@@ -11572,5 +11545,23 @@
     "event_time": "2026-03-25T01:01:00",
     "seen_at": "2026-03-25T00:15:44.572Z",
     "raw": "Br. Vlaka 81981 promjena sas 25.03.26. 01:01, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-03-25T01:27:00",
+    "seen_at": "2026-03-25T00:28:44.884Z",
+    "raw": "Br. Vlaka 63306 odlazak      25.03.26. 01:27, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-25T01:34:00",
+    "seen_at": "2026-03-25T00:34:32.172Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
