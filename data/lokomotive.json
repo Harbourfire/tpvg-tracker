@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "44695",
-    "event_time": "2026-03-22T22:20:00",
-    "seen_at": "2026-03-22T21:36:22.391Z",
-    "raw": "Br. Vlaka 44695 dolazak      22.03.26. 22:20, kolodvor 72303"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -13849,5 +13840,32 @@
     "event_time": "2026-03-25T22:29:00",
     "seen_at": "2026-03-25T21:29:26.812Z",
     "raw": "Br. Vlaka 81283 odlazak      25.03.26. 22:29, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-25T22:30:00",
+    "seen_at": "2026-03-25T21:31:34.068Z",
+    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 22:30, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-25T22:30:00",
+    "seen_at": "2026-03-25T21:31:34.068Z",
+    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 22:30, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "45994",
+    "event_time": "2026-03-25T22:36:00",
+    "seen_at": "2026-03-25T21:37:39.334Z",
+    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 22:36, kolodvor ZAGREB RESNIK"
   }
 ]
