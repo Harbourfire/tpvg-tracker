@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47944",
-    "event_time": "2026-03-22T23:47:00",
-    "seen_at": "2026-03-22T22:49:03.700Z",
-    "raw": "Br. Vlaka 47944 odlazak      22.03.26. 23:47, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44994",
-    "event_time": "2026-03-22T23:52:00",
-    "seen_at": "2026-03-22T22:54:06.117Z",
-    "raw": "Br. Vlaka 44994 odlazak      22.03.26. 23:52, kolodvor TURČIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -13993,5 +13975,23 @@
     "event_time": "2026-03-25T23:43:00",
     "seen_at": "2026-03-25T22:43:14.169Z",
     "raw": "Br. Vlaka 81283 odlazak      25.03.26. 23:43, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "45994",
+    "event_time": "2026-03-25T23:45:00",
+    "seen_at": "2026-03-25T22:45:18.508Z",
+    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 23:45, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "45994",
+    "event_time": "2026-03-25T23:53:00",
+    "seen_at": "2026-03-25T22:53:49.024Z",
+    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 23:53, kolodvor GRADEC"
   }
 ]
