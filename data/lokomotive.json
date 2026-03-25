@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47938",
-    "event_time": "2026-03-22T13:32:00",
-    "seen_at": "2026-03-22T12:46:59.997Z",
-    "raw": "Br. Vlaka 47938 dolazak      22.03.26. 13:32, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-22T13:32:00",
-    "seen_at": "2026-03-22T12:47:22.720Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89872",
-    "event_time": "2026-03-22T13:20:00",
-    "seen_at": "2026-03-22T12:50:11.364Z",
-    "raw": "Br. Vlaka 89872 formiran     22.03.26. 13:20, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "KOŠKA",
@@ -12733,5 +12706,41 @@
     "event_time": "2026-03-25T13:44:00",
     "seen_at": "2026-03-25T12:44:40.198Z",
     "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:44, kolodvor VRBOVSKO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82225",
+    "event_time": "2026-03-25T13:45:00",
+    "seen_at": "2026-03-25T12:46:48.133Z",
+    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 13:45, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89755",
+    "event_time": "2026-03-25T13:49:00",
+    "seen_at": "2026-03-25T12:50:19.981Z",
+    "raw": "Br. Vlaka 89755 dolazak      25.03.26. 13:49, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "GOMIRJE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T13:49:00",
+    "seen_at": "2026-03-25T12:50:19.982Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:49, kolodvor GOMIRJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "81283",
+    "event_time": "2026-03-25T13:48:00",
+    "seen_at": "2026-03-25T12:50:43.467Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:48, kolodvor 72304"
   }
 ]
