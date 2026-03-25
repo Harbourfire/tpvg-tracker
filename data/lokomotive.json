@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-22T19:59:00",
-    "seen_at": "2026-03-22T19:21:30.280Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13795,5 +13786,41 @@
     "event_time": "2026-03-25T13:30:00",
     "seen_at": "2026-03-25T19:16:25.107Z",
     "raw": "Br. Vlaka 45996 promjena sas 25.03.26. 13:30, kolodvor 72303"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "79931",
+    "event_time": "2026-03-25T20:17:00",
+    "seen_at": "2026-03-25T19:18:58.806Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 20:17, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "45994",
+    "event_time": "2026-03-25T20:22:00",
+    "seen_at": "2026-03-25T19:22:29.007Z",
+    "raw": "Br. Vlaka 45994 dolazak      25.03.26. 20:22, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81281",
+    "event_time": "2026-03-25T19:26:00",
+    "seen_at": "2026-03-25T19:23:14.758Z",
+    "raw": "Br. Vlaka 81281 promjena sas 25.03.26. 19:26, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "81280",
+    "event_time": "2026-03-25T20:18:00",
+    "seen_at": "2026-03-25T19:24:00.619Z",
+    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 20:18, kolodvor GENERALSKI STOL"
   }
 ]
