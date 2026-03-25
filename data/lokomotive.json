@@ -2,15 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "81291",
-    "event_time": "2026-03-22T03:56:00",
-    "seen_at": "2026-03-22T02:56:17.594Z",
-    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 03:56, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "STARO PETROVO SELO",
     "train_number": "81291",
     "event_time": "2026-03-22T04:07:00",
@@ -11491,5 +11482,59 @@
     "event_time": "2026-03-25T03:51:00",
     "seen_at": "2026-03-25T02:52:59.424Z",
     "raw": "Br. Vlaka 89256 odlazak      25.03.26. 03:51, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89256",
+    "event_time": "2026-03-25T03:56:00",
+    "seen_at": "2026-03-25T02:57:01.784Z",
+    "raw": "Br. Vlaka 89256 odlazak      25.03.26. 03:56, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89256",
+    "event_time": "2026-03-25T03:56:00",
+    "seen_at": "2026-03-25T02:57:01.784Z",
+    "raw": "Br. Vlaka 89256 odlazak      25.03.26. 03:56, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-25T01:05:00",
+    "seen_at": "2026-03-25T02:59:18.453Z",
+    "raw": "Br. Vlaka 45105 formiran     25.03.26. 01:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89256",
+    "event_time": "2026-03-25T04:00:00",
+    "seen_at": "2026-03-25T03:00:26.688Z",
+    "raw": "Br. Vlaka 89256 odlazak      25.03.26. 04:00, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89256",
+    "event_time": "2026-03-25T04:00:00",
+    "seen_at": "2026-03-25T03:00:26.688Z",
+    "raw": "Br. Vlaka 89256 odlazak      25.03.26. 04:00, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-25T04:00:00",
+    "seen_at": "2026-03-25T03:04:36.946Z",
+    "raw": "Br. Vlaka 63306 odlazak      25.03.26. 04:00, kolodvor JOSIPDOL"
   }
 ]
