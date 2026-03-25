@@ -2,15 +2,6 @@
   {
     "uic": "927820622029",
     "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "81291",
-    "event_time": "2026-03-22T04:07:00",
-    "seen_at": "2026-03-22T03:07:58.095Z",
-    "raw": "Br. Vlaka 81291 odlazak      22.03.26. 04:07, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
     "train_number": "81291",
     "event_time": "2026-03-22T04:19:00",
@@ -11536,5 +11527,59 @@
     "event_time": "2026-03-25T04:00:00",
     "seen_at": "2026-03-25T03:04:36.946Z",
     "raw": "Br. Vlaka 63306 odlazak      25.03.26. 04:00, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "89256",
+    "event_time": "2026-03-25T04:04:00",
+    "seen_at": "2026-03-25T03:07:58.153Z",
+    "raw": "Br. Vlaka 89256 promjena sas 25.03.26. 04:04, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "89256",
+    "event_time": "2026-03-25T04:04:00",
+    "seen_at": "2026-03-25T03:07:58.153Z",
+    "raw": "Br. Vlaka 89256 promjena sas 25.03.26. 04:04, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SV. IVAN ŽABNO",
+    "train_number": "81981",
+    "event_time": "2026-03-25T04:01:00",
+    "seen_at": "2026-03-25T03:10:17.660Z",
+    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 04:01, kolodvor SV. IVAN ŽABNO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-24T23:07:00",
+    "seen_at": "2026-03-25T03:10:17.661Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-03-25T04:10:00",
+    "seen_at": "2026-03-25T03:14:08.578Z",
+    "raw": "Br. Vlaka 63306 dolazak      25.03.26. 04:10, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-25T04:10:00",
+    "seen_at": "2026-03-25T03:14:31.709Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
