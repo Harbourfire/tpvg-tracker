@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76522",
-    "event_time": "2026-03-22T07:40:00",
-    "seen_at": "2026-03-22T06:40:42.185Z",
-    "raw": "Br. Vlaka 76522 odlazak      22.03.26. 07:40, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -11635,5 +11626,32 @@
     "event_time": "2026-03-25T07:32:00",
     "seen_at": "2026-03-25T06:32:48.384Z",
     "raw": "Br. Vlaka 45105 odlazak      25.03.26. 07:32, kolodvor OTOK"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71206",
+    "event_time": "2026-03-25T07:32:00",
+    "seen_at": "2026-03-25T06:33:22.009Z",
+    "raw": "Br. Vlaka 71206 odlazak      25.03.26. 07:32, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BJELOVAR",
+    "train_number": "81981",
+    "event_time": "2026-03-25T07:35:00",
+    "seen_at": "2026-03-25T06:35:41.319Z",
+    "raw": "Br. Vlaka 81981 odlazak      25.03.26. 07:35, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44994",
+    "event_time": "2026-03-25T07:40:00",
+    "seen_at": "2026-03-25T06:42:14.583Z",
+    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 07:40, kolodvor ZABOK"
   }
 ]
