@@ -4,24 +4,6 @@
     "type": "Odlazak",
     "station": "BUZET",
     "train_number": "70201",
-    "event_time": "2026-03-22T12:37:00",
-    "seen_at": "2026-03-22T16:42:23.009Z",
-    "raw": "Br. Vlaka 70201 odlazak      22.03.26. 12:37, kolodvor BUZET"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Formiran",
-    "station": "BUZET",
-    "train_number": "70201",
-    "event_time": "2026-03-22T17:25:00",
-    "seen_at": "2026-03-22T16:42:45.523Z",
-    "raw": "Br. Vlaka 70201 formiran     22.03.26. 17:25, kolodvor BUZET"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "70201",
     "event_time": "2026-03-22T17:40:00",
     "seen_at": "2026-03-22T16:44:38.548Z",
     "raw": "Br. Vlaka 70201 odlazak      22.03.26. 17:40, kolodvor BUZET"
@@ -13102,5 +13084,59 @@
     "event_time": "2026-03-25T17:09:00",
     "seen_at": "2026-03-25T16:34:52.348Z",
     "raw": "Br. Vlaka 69615 formiran     25.03.26. 17:09, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-03-25T17:38:00",
+    "seen_at": "2026-03-25T16:40:07.430Z",
+    "raw": "Br. Vlaka 69177 odlazak      25.03.26. 17:38, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89723",
+    "event_time": "2026-03-25T17:39:00",
+    "seen_at": "2026-03-25T16:40:53.587Z",
+    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 17:39, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "48513",
+    "event_time": "2026-03-25T17:38:00",
+    "seen_at": "2026-03-25T16:40:53.588Z",
+    "raw": "Br. Vlaka 48513 formiran     25.03.26. 17:38, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "48513",
+    "event_time": "2026-03-25T17:38:00",
+    "seen_at": "2026-03-25T16:41:16.907Z",
+    "raw": "Br. Vlaka 48513 formiran     25.03.26. 17:38, kolodvor 77424"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89728",
+    "event_time": "2026-03-25T17:32:00",
+    "seen_at": "2026-03-25T16:42:49.425Z",
+    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 17:32, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "79931",
+    "event_time": "2026-03-25T17:43:00",
+    "seen_at": "2026-03-25T16:43:35.600Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 17:43, kolodvor ZVEČAJ"
   }
 ]
