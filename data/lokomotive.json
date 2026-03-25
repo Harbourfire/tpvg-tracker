@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44690",
-    "event_time": "2026-03-22T12:57:00",
-    "seen_at": "2026-03-22T12:28:27.110Z",
-    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 12:57, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44690",
-    "event_time": "2026-03-22T12:57:00",
-    "seen_at": "2026-03-22T12:28:27.111Z",
-    "raw": "Br. Vlaka 44690 dolazak      22.03.26. 12:57, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44690",
-    "event_time": "2026-03-22T13:15:00",
-    "seen_at": "2026-03-22T12:28:49.952Z",
-    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 13:15, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44690",
-    "event_time": "2026-03-22T13:15:00",
-    "seen_at": "2026-03-22T12:28:49.953Z",
-    "raw": "Br. Vlaka 44690 odlazak      22.03.26. 13:15, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-22T13:20:00",
-    "seen_at": "2026-03-22T12:29:58.702Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-22T13:20:00",
-    "seen_at": "2026-03-22T12:29:58.703Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "83820",
-    "event_time": "2026-03-22T13:30:00",
-    "seen_at": "2026-03-22T12:32:27.477Z",
-    "raw": "Br. Vlaka 83820 odlazak      22.03.26. 13:30, kolodvor BIZOVAC"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -12589,5 +12526,86 @@
     "event_time": "2026-03-25T13:22:00",
     "seen_at": "2026-03-25T12:24:30.654Z",
     "raw": "Br. Vlaka 81283 dolazak      25.03.26. 13:22, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "47939",
+    "event_time": "2026-03-25T13:04:00",
+    "seen_at": "2026-03-25T12:29:01.125Z",
+    "raw": "Br. Vlaka 47939 dolazak      25.03.26. 13:04, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82225",
+    "event_time": "2026-03-25T13:28:00",
+    "seen_at": "2026-03-25T12:29:01.125Z",
+    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 13:28, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "47939",
+    "event_time": "2026-03-25T13:11:00",
+    "seen_at": "2026-03-25T12:29:24.384Z",
+    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 13:11, kolodvor BUZET"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "45131",
+    "event_time": "2026-03-25T13:26:00",
+    "seen_at": "2026-03-25T12:30:11.641Z",
+    "raw": "Br. Vlaka 45131 dolazak      25.03.26. 13:26, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "82223",
+    "event_time": "2026-03-25T13:21:00",
+    "seen_at": "2026-03-25T12:30:11.642Z",
+    "raw": "Br. Vlaka 82223 dolazak      25.03.26. 13:21, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "MORAVICE",
+    "train_number": "79931",
+    "event_time": "2026-03-25T13:30:00",
+    "seen_at": "2026-03-25T12:30:11.643Z",
+    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:30, kolodvor MORAVICE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-25T13:21:00",
+    "seen_at": "2026-03-25T12:30:34.661Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "BANOVA JARUGA",
+    "train_number": "89728",
+    "event_time": "2026-03-25T12:26:00",
+    "seen_at": "2026-03-25T12:30:57.866Z",
+    "raw": "Br. Vlaka 89728 formiran     25.03.26. 12:26, kolodvor BANOVA JARUGA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81283",
+    "event_time": "2026-03-25T13:28:00",
+    "seen_at": "2026-03-25T12:31:44.153Z",
+    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:28, kolodvor ZAGREB ZAP. KOL."
   }
 ]
