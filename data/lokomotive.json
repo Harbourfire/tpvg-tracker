@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-03-23T07:37:00",
-    "seen_at": "2026-03-23T06:38:45.540Z",
-    "raw": "Br. Vlaka 71202 odlazak      23.03.26. 07:37, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "76502",
-    "event_time": "2026-03-23T07:40:00",
-    "seen_at": "2026-03-23T06:40:59.200Z",
-    "raw": "Br. Vlaka 76502 odlazak      23.03.26. 07:40, kolodvor IVANKOVO"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "STARI MIKANOVCI",
@@ -13678,5 +13660,59 @@
     "event_time": "2026-03-26T07:32:00",
     "seen_at": "2026-03-26T06:33:37.050Z",
     "raw": "Br. Vlaka 89896 odlazak      26.03.26. 07:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "76926",
+    "event_time": "2026-03-26T07:31:00",
+    "seen_at": "2026-03-26T06:41:30.311Z",
+    "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:31, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89136",
+    "event_time": "2026-03-26T07:42:00",
+    "seen_at": "2026-03-26T06:42:39.987Z",
+    "raw": "Br. Vlaka 89136 odlazak      26.03.26. 07:42, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "45996",
+    "event_time": "2026-03-26T07:38:00",
+    "seen_at": "2026-03-26T06:43:03.118Z",
+    "raw": "Br. Vlaka 45996 dolazak      26.03.26. 07:38, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-26T07:38:00",
+    "seen_at": "2026-03-26T06:43:25.999Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48793",
+    "event_time": "2026-03-25T12:55:00",
+    "seen_at": "2026-03-26T06:45:21.934Z",
+    "raw": "Br. Vlaka 48793 formiran     25.03.26. 12:55, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "76926",
+    "event_time": "2026-03-26T07:40:00",
+    "seen_at": "2026-03-26T06:45:21.935Z",
+    "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:40, kolodvor ČAČINCI"
   }
 ]
