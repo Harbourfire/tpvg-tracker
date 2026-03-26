@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89289",
-    "event_time": "2026-03-23T16:40:00",
-    "seen_at": "2026-03-23T15:41:15.055Z",
-    "raw": "Br. Vlaka 89289 odlazak      23.03.26. 16:40, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -13687,5 +13678,41 @@
     "event_time": "2026-03-26T16:25:00",
     "seen_at": "2026-03-26T15:29:20.355Z",
     "raw": "Br. Vlaka 48790 odlazak      26.03.26. 16:25, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89139",
+    "event_time": "2026-03-26T16:36:00",
+    "seen_at": "2026-03-26T15:36:48.271Z",
+    "raw": "Br. Vlaka 89139 odlazak      26.03.26. 16:36, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-26T16:44:00",
+    "seen_at": "2026-03-26T15:44:24.888Z",
+    "raw": "Br. Vlaka 63310 formiran     26.03.26. 16:44, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-26T16:44:00",
+    "seen_at": "2026-03-26T15:44:24.888Z",
+    "raw": "Br. Vlaka 63310 formiran     26.03.26. 16:44, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48790",
+    "event_time": "2026-03-26T16:44:00",
+    "seen_at": "2026-03-26T15:45:10.454Z",
+    "raw": "Br. Vlaka 48790 odlazak      26.03.26. 16:44, kolodvor LEPAVINA"
   }
 ]
