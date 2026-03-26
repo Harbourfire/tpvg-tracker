@@ -1,41 +1,5 @@
 [
   {
-    "uic": "997894853461",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "79901",
-    "event_time": "2026-03-23T08:16:00",
-    "seen_at": "2026-03-23T07:18:36.613Z",
-    "raw": "Br. Vlaka 79901 odlazak      23.03.26. 08:16, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44994",
-    "event_time": "2026-03-23T08:18:00",
-    "seen_at": "2026-03-23T07:18:59.631Z",
-    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 08:18, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-03-23T08:22:00",
-    "seen_at": "2026-03-23T07:22:46.608Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 08:22, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-23T08:21:00",
-    "seen_at": "2026-03-23T07:24:39.897Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "987891113472",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -13687,5 +13651,32 @@
     "event_time": "2026-03-26T08:25:00",
     "seen_at": "2026-03-26T07:15:26.113Z",
     "raw": "Trenutna pozicija je u kolodvoru 77405 PAZIN"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "PAZIN",
+    "train_number": "70200",
+    "event_time": "2026-03-26T08:10:00",
+    "seen_at": "2026-03-26T07:16:00.117Z",
+    "raw": "Br. Vlaka 70200 formiran     26.03.26. 08:10, kolodvor PAZIN"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89136",
+    "event_time": "2026-03-26T08:13:00",
+    "seen_at": "2026-03-26T07:17:55.296Z",
+    "raw": "Br. Vlaka 89136 odlazak      26.03.26. 08:13, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-03-26T08:21:00",
+    "seen_at": "2026-03-26T07:24:01.792Z",
+    "raw": "Br. Vlaka 45105 odlazak      26.03.26. 08:21, kolodvor OTOK"
   }
 ]
