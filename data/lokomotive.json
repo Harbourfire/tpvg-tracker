@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44994",
-    "event_time": "2026-03-23T08:52:00",
-    "seen_at": "2026-03-23T07:53:13.596Z",
-    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 08:52, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76801",
-    "event_time": "2026-03-23T08:52:00",
-    "seen_at": "2026-03-23T07:53:13.598Z",
-    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 08:52, kolodvor SIBINJ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-23T08:54:00",
-    "seen_at": "2026-03-23T07:54:44.147Z",
-    "raw": "Br. Vlaka 69006 formiran     23.03.26. 08:54, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-23T08:54:00",
-    "seen_at": "2026-03-23T07:55:18.835Z",
-    "raw": "Br. Vlaka 69006 formiran     23.03.26. 08:54, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "ĐAKOVO",
-    "train_number": null,
-    "event_time": "2026-03-23T08:54:00",
-    "seen_at": "2026-03-23T07:55:18.836Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71808 ĐAKOVO"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "75009",
-    "event_time": "2026-03-23T08:59:00",
-    "seen_at": "2026-03-23T07:59:33.459Z",
-    "raw": "Br. Vlaka 75009 odlazak      23.03.26. 08:59, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "997894853461",
-    "type": "Formiran",
-    "station": "ĐAKOVO",
-    "train_number": "79900",
-    "event_time": "2026-03-23T09:00:00",
-    "seen_at": "2026-03-23T08:01:03.729Z",
-    "raw": "Br. Vlaka 79900 formiran     23.03.26. 09:00, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "86101",
-    "event_time": "2026-03-23T09:01:00",
-    "seen_at": "2026-03-23T08:02:11.684Z",
-    "raw": "Br. Vlaka 86101 odlazak      23.03.26. 09:01, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -13723,5 +13651,50 @@
     "event_time": "2026-03-26T08:52:00",
     "seen_at": "2026-03-26T07:53:13.315Z",
     "raw": "Br. Vlaka 81526 odlazak      26.03.26. 08:52, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47945",
+    "event_time": "2026-03-26T08:47:00",
+    "seen_at": "2026-03-26T07:53:47.151Z",
+    "raw": "Br. Vlaka 47945 formiran     26.03.26. 08:47, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47945",
+    "event_time": "2026-03-26T08:47:00",
+    "seen_at": "2026-03-26T07:54:33.364Z",
+    "raw": "Br. Vlaka 47945 formiran     26.03.26. 08:47, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-26T08:52:00",
+    "seen_at": "2026-03-26T07:57:14.528Z",
+    "raw": "Br. Vlaka 45105 dolazak      26.03.26. 08:52, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74101",
+    "event_time": "2026-03-26T08:56:00",
+    "seen_at": "2026-03-26T07:58:00.002Z",
+    "raw": "Br. Vlaka 74101 odlazak      26.03.26. 08:56, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89136",
+    "event_time": "2026-03-26T09:00:00",
+    "seen_at": "2026-03-26T08:00:17.249Z",
+    "raw": "Br. Vlaka 89136 odlazak      26.03.26. 09:00, kolodvor NOVA GRADIŠKA"
   }
 ]
