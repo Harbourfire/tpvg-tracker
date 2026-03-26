@@ -2,78 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "48799",
-    "event_time": "2026-03-23T09:26:00",
-    "seen_at": "2026-03-23T08:33:01.981Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:26, kolodvor 72304"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48799",
-    "event_time": "2026-03-23T09:33:00",
-    "seen_at": "2026-03-23T08:33:48.137Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:33, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76502",
-    "event_time": "2026-03-23T07:55:00",
-    "seen_at": "2026-03-23T08:34:10.868Z",
-    "raw": "Br. Vlaka 76502 dolazak      23.03.26. 07:55, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-23T07:55:00",
-    "seen_at": "2026-03-23T08:34:34.446Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "997894853461",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "79900",
-    "event_time": "2026-03-23T09:35:00",
-    "seen_at": "2026-03-23T08:36:06.640Z",
-    "raw": "Br. Vlaka 79900 dolazak      23.03.26. 09:35, kolodvor OSIJEK"
-  },
-  {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-23T09:35:00",
-    "seen_at": "2026-03-23T08:36:29.254Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89754",
-    "event_time": "2026-03-23T09:36:00",
-    "seen_at": "2026-03-23T08:37:14.547Z",
-    "raw": "Br. Vlaka 89754 formiran     23.03.26. 09:36, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-23T09:36:00",
-    "seen_at": "2026-03-23T08:38:22.603Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "48799",
     "event_time": "2026-03-23T09:42:00",
@@ -13642,5 +13570,41 @@
     "event_time": "2026-03-26T09:26:00",
     "seen_at": "2026-03-26T08:27:05.103Z",
     "raw": "Br. Vlaka 81992 formiran     26.03.26. 09:26, kolodvor ŽUPANJA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "81526",
+    "event_time": "2026-03-26T09:30:00",
+    "seen_at": "2026-03-26T08:31:28.193Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 09:30, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-26T09:31:00",
+    "seen_at": "2026-03-26T08:34:31.747Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-03-26T09:34:00",
+    "seen_at": "2026-03-26T08:37:34.746Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-23T09:36:00",
+    "seen_at": "2026-03-26T08:39:05.833Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
