@@ -1,68 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89754",
-    "event_time": "2026-03-23T10:54:00",
-    "seen_at": "2026-03-23T09:56:05.472Z",
-    "raw": "Br. Vlaka 89754 odlazak      23.03.26. 10:54, kolodvor SIBINJ"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "BIZOVAC",
-    "train_number": null,
-    "event_time": "2026-03-23T10:56:00",
-    "seen_at": "2026-03-23T09:59:44.798Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-23T11:00:00",
-    "seen_at": "2026-03-23T10:02:45.585Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-23T11:00:00",
-    "seen_at": "2026-03-23T10:02:45.585Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82525",
-    "event_time": "2026-03-23T09:09:00",
-    "seen_at": "2026-03-23T10:03:07.974Z",
-    "raw": "Br. Vlaka 82525 formiran     23.03.26. 09:09, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82525",
-    "event_time": "2026-03-23T09:09:00",
-    "seen_at": "2026-03-23T10:03:31.466Z",
-    "raw": "Br. Vlaka 82525 formiran     23.03.26. 09:09, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-23T09:57:00",
-    "seen_at": "2026-03-23T10:05:02.143Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -13336,5 +13273,14 @@
     "event_time": "2026-03-23T10:52:00",
     "seen_at": "2026-03-26T09:54:55.544Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48790",
+    "event_time": "2026-03-26T10:52:00",
+    "seen_at": "2026-03-26T09:58:12.989Z",
+    "raw": "Br. Vlaka 48790 odlazak      26.03.26. 10:52, kolodvor SESVETE"
   }
 ]
