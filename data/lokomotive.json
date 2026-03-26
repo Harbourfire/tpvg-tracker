@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48797",
-    "event_time": "2026-03-23T22:48:00",
-    "seen_at": "2026-03-23T22:31:21.286Z",
-    "raw": "Br. Vlaka 48797 dolazak      23.03.26. 22:48, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69327",
-    "event_time": "2026-03-23T23:32:00",
-    "seen_at": "2026-03-23T22:32:52.085Z",
-    "raw": "Br. Vlaka 69327 odlazak      23.03.26. 23:32, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-23T23:34:00",
-    "seen_at": "2026-03-23T22:36:07.258Z",
-    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 23:34, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-03-23T23:34:00",
-    "seen_at": "2026-03-23T22:36:07.258Z",
-    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 23:34, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "89871",
-    "event_time": "2026-03-23T23:35:00",
-    "seen_at": "2026-03-23T22:37:16.508Z",
-    "raw": "Br. Vlaka 89871 odlazak      23.03.26. 23:35, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14128,5 +14083,41 @@
     "event_time": "2026-03-26T23:26:00",
     "seen_at": "2026-03-26T22:28:09.837Z",
     "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:26, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-03-26T23:33:00",
+    "seen_at": "2026-03-26T22:33:38.928Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:33, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-03-26T23:33:00",
+    "seen_at": "2026-03-26T22:33:38.928Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:33, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-26T23:37:00",
+    "seen_at": "2026-03-26T22:37:27.601Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-26T23:37:00",
+    "seen_at": "2026-03-26T22:37:27.601Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
