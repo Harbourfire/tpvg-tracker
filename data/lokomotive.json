@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89185",
-    "event_time": "2026-03-23T06:57:00",
-    "seen_at": "2026-03-23T06:10:45.642Z",
-    "raw": "Br. Vlaka 89185 dolazak      23.03.26. 06:57, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-23T06:57:00",
-    "seen_at": "2026-03-23T06:11:08.250Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "86101",
-    "event_time": "2026-03-23T05:45:00",
-    "seen_at": "2026-03-23T06:11:30.918Z",
-    "raw": "Br. Vlaka 86101 formiran     23.03.26. 05:45, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76800",
-    "event_time": "2026-03-23T07:17:00",
-    "seen_at": "2026-03-23T06:17:46.050Z",
-    "raw": "Br. Vlaka 76800 odlazak      23.03.26. 07:17, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "987891162040",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -13723,5 +13687,23 @@
     "event_time": "2026-03-26T07:07:00",
     "seen_at": "2026-03-26T06:08:50.045Z",
     "raw": "Br. Vlaka 89064 odlazak      26.03.26. 07:07, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "76926",
+    "event_time": "2026-03-26T07:00:00",
+    "seen_at": "2026-03-26T06:14:31.700Z",
+    "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:00, kolodvor NAŠICE"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "76926",
+    "event_time": "2026-03-26T07:16:00",
+    "seen_at": "2026-03-26T06:18:01.483Z",
+    "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:16, kolodvor ĐURĐENOVAC"
   }
 ]
