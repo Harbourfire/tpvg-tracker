@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82522",
-    "event_time": "2026-03-23T04:57:00",
-    "seen_at": "2026-03-23T03:58:44.405Z",
-    "raw": "Br. Vlaka 82522 odlazak      23.03.26. 04:57, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82522",
-    "event_time": "2026-03-23T04:57:00",
-    "seen_at": "2026-03-23T03:58:44.406Z",
-    "raw": "Br. Vlaka 82522 odlazak      23.03.26. 04:57, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230076",
     "type": "Dolazak",
     "station": "PLAŠKI",
     "train_number": "82522",
@@ -13804,5 +13786,23 @@
     "event_time": "2026-03-26T04:51:00",
     "seen_at": "2026-03-26T03:54:19.940Z",
     "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:51, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-26T05:00:00",
+    "seen_at": "2026-03-26T04:00:39.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-26T05:00:00",
+    "seen_at": "2026-03-26T04:00:39.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
