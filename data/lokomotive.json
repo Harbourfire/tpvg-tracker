@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "86102",
-    "event_time": "2026-03-23T14:57:00",
-    "seen_at": "2026-03-23T13:58:43.693Z",
-    "raw": "Br. Vlaka 86102 odlazak      23.03.26. 14:57, kolodvor SIBINJ"
-  },
-  {
     "uic": "997894853487",
     "type": "Formiran",
     "station": "KOŠKA",
@@ -13696,5 +13687,50 @@
     "event_time": "2026-03-26T14:49:00",
     "seen_at": "2026-03-26T13:50:19.831Z",
     "raw": "Br. Vlaka 89240 odlazak      26.03.26. 14:49, kolodvor 72302"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "83827",
+    "event_time": "2026-03-26T14:51:00",
+    "seen_at": "2026-03-26T13:53:34.907Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 14:51, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "83827",
+    "event_time": "2026-03-26T14:51:00",
+    "seen_at": "2026-03-26T13:53:34.907Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 14:51, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "81232",
+    "event_time": "2026-03-26T14:55:00",
+    "seen_at": "2026-03-26T13:56:15.968Z",
+    "raw": "Br. Vlaka 81232 odlazak      26.03.26. 14:55, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89240",
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-03-26T13:56:15.969Z",
+    "raw": "Br. Vlaka 89240 dolazak      26.03.26. 14:53, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-03-26T13:57:24.324Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
   }
 ]
