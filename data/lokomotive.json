@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-23T20:22:00",
-    "seen_at": "2026-03-23T21:16:55.214Z",
-    "raw": "Br. Vlaka 63305 formiran     23.03.26. 20:22, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-23T20:22:00",
-    "seen_at": "2026-03-23T21:16:55.214Z",
-    "raw": "Br. Vlaka 63305 formiran     23.03.26. 20:22, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-23T22:15:00",
-    "seen_at": "2026-03-23T21:18:28.206Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "45992",
-    "event_time": "2026-03-23T22:20:00",
-    "seen_at": "2026-03-23T21:20:34.768Z",
-    "raw": "Br. Vlaka 45992 odlazak      23.03.26. 22:20, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "45992",
-    "event_time": "2026-03-23T22:20:00",
-    "seen_at": "2026-03-23T21:20:34.768Z",
-    "raw": "Br. Vlaka 45992 odlazak      23.03.26. 22:20, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "45130",
-    "event_time": "2026-03-23T18:02:00",
-    "seen_at": "2026-03-23T21:22:05.871Z",
-    "raw": "Br. Vlaka 45130 promjena sas 23.03.26. 18:02, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44995",
-    "event_time": "2026-03-23T22:21:00",
-    "seen_at": "2026-03-23T21:22:05.871Z",
-    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 22:21, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89895",
-    "event_time": "2026-03-23T22:23:00",
-    "seen_at": "2026-03-23T21:23:14.033Z",
-    "raw": "Br. Vlaka 89895 formiran     23.03.26. 22:23, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -14020,5 +13948,104 @@
     "event_time": "2026-03-26T22:11:00",
     "seen_at": "2026-03-26T21:11:31.003Z",
     "raw": "Br. Vlaka 89872 odlazak      26.03.26. 22:11, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-26T21:25:00",
+    "seen_at": "2026-03-26T21:14:46.157Z",
+    "raw": "Br. Vlaka 63305 formiran     26.03.26. 21:25, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-26T21:25:00",
+    "seen_at": "2026-03-26T21:14:46.157Z",
+    "raw": "Br. Vlaka 63305 formiran     26.03.26. 21:25, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47945",
+    "event_time": "2026-03-26T22:14:00",
+    "seen_at": "2026-03-26T21:15:10.535Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 22:14, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47945",
+    "event_time": "2026-03-26T22:14:00",
+    "seen_at": "2026-03-26T21:15:10.536Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 22:14, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81284",
+    "event_time": "2026-03-26T22:18:00",
+    "seen_at": "2026-03-26T21:19:47.689Z",
+    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 22:18, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "47945",
+    "event_time": "2026-03-26T22:20:00",
+    "seen_at": "2026-03-26T21:20:34.642Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 22:20, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "47945",
+    "event_time": "2026-03-26T22:20:00",
+    "seen_at": "2026-03-26T21:20:34.642Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 22:20, kolodvor 72302"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89872",
+    "event_time": "2026-03-26T22:21:00",
+    "seen_at": "2026-03-26T21:21:21.208Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 22:21, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89872",
+    "event_time": "2026-03-26T22:21:00",
+    "seen_at": "2026-03-26T21:21:21.208Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 22:21, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "82328",
+    "event_time": "2026-03-26T22:14:00",
+    "seen_at": "2026-03-26T21:22:30.360Z",
+    "raw": "Br. Vlaka 82328 dolazak      26.03.26. 22:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "BIZOVAC",
+    "train_number": null,
+    "event_time": "2026-03-26T22:14:00",
+    "seen_at": "2026-03-26T21:22:53.202Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
   }
 ]
