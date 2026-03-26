@@ -1,78 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48799",
-    "event_time": "2026-03-22T18:03:00",
-    "seen_at": "2026-03-23T02:04:00.184Z",
-    "raw": "Br. Vlaka 48799 formiran     22.03.26. 18:03, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "48797",
-    "event_time": "2026-03-23T02:57:00",
-    "seen_at": "2026-03-23T02:04:00.185Z",
-    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 02:57, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "48797",
-    "event_time": "2026-03-23T02:57:00",
-    "seen_at": "2026-03-23T02:04:00.185Z",
-    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 02:57, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48797",
-    "event_time": "2026-03-23T03:04:00",
-    "seen_at": "2026-03-23T02:06:40.250Z",
-    "raw": "Br. Vlaka 48797 dolazak      23.03.26. 03:04, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48797",
-    "event_time": "2026-03-23T03:04:00",
-    "seen_at": "2026-03-23T02:06:40.250Z",
-    "raw": "Br. Vlaka 48797 dolazak      23.03.26. 03:04, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-03-22T23:04:00",
-    "seen_at": "2026-03-23T02:11:08.810Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-03-22T23:04:00",
-    "seen_at": "2026-03-23T02:11:08.811Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48797",
-    "event_time": "2026-03-23T03:04:00",
-    "seen_at": "2026-03-23T02:11:31.572Z",
-    "raw": "Br. Vlaka 48797 promjena sas 23.03.26. 03:04, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "KOPRIVNICA GR    A",
     "train_number": "48799",
@@ -13849,5 +13777,32 @@
     "event_time": "2026-03-26T02:57:00",
     "seen_at": "2026-03-26T01:59:54.901Z",
     "raw": "Br. Vlaka 81284 odlazak      26.03.26. 02:57, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "81284",
+    "event_time": "2026-03-26T03:02:00",
+    "seen_at": "2026-03-26T02:02:48.191Z",
+    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 03:02, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81990",
+    "event_time": "2026-03-26T02:58:00",
+    "seen_at": "2026-03-26T02:07:21.928Z",
+    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 02:58, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81990",
+    "event_time": "2026-03-26T02:58:00",
+    "seen_at": "2026-03-26T02:07:21.928Z",
+    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 02:58, kolodvor GOSPIĆ"
   }
 ]
