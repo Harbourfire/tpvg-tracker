@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44995",
-    "event_time": "2026-03-23T12:52:00",
-    "seen_at": "2026-03-23T11:52:32.010Z",
-    "raw": "Br. Vlaka 44995 formiran     23.03.26. 12:52, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "86102",
-    "event_time": "2026-03-23T12:52:00",
-    "seen_at": "2026-03-23T11:52:54.974Z",
-    "raw": "Br. Vlaka 86102 odlazak      23.03.26. 12:52, kolodvor POŽEGA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89755",
-    "event_time": "2026-03-23T12:52:00",
-    "seen_at": "2026-03-23T11:52:54.975Z",
-    "raw": "Br. Vlaka 89755 dolazak      23.03.26. 12:52, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-23T12:52:00",
-    "seen_at": "2026-03-23T11:54:25.018Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82525",
-    "event_time": "2026-03-23T12:54:00",
-    "seen_at": "2026-03-23T11:55:32.809Z",
-    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 12:54, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82525",
-    "event_time": "2026-03-23T12:54:00",
-    "seen_at": "2026-03-23T11:55:32.809Z",
-    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 12:54, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
@@ -13489,5 +13435,59 @@
     "event_time": "2026-03-26T12:33:00",
     "seen_at": "2026-03-26T11:48:21.027Z",
     "raw": "Br. Vlaka 45104 dolazak      26.03.26. 12:33, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-03-26T12:36:00",
+    "seen_at": "2026-03-26T11:49:38.786Z",
+    "raw": "Br. Vlaka 45104 odlazak      26.03.26. 12:36, kolodvor SPAČVA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "83827",
+    "event_time": "2026-03-26T09:59:00",
+    "seen_at": "2026-03-26T11:50:49.173Z",
+    "raw": "Br. Vlaka 83827 formiran     26.03.26. 09:59, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "83827",
+    "event_time": "2026-03-26T09:59:00",
+    "seen_at": "2026-03-26T11:50:49.173Z",
+    "raw": "Br. Vlaka 83827 formiran     26.03.26. 09:59, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89241",
+    "event_time": "2026-03-26T12:51:00",
+    "seen_at": "2026-03-26T11:51:11.924Z",
+    "raw": "Br. Vlaka 89241 odlazak      26.03.26. 12:51, kolodvor SISAK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "OTOK",
+    "train_number": null,
+    "event_time": "2026-03-26T12:27:00",
+    "seen_at": "2026-03-26T11:51:58.383Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71303 OTOK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-03-26T12:50:00",
+    "seen_at": "2026-03-26T11:52:21.103Z",
+    "raw": "Br. Vlaka 45104 odlazak      26.03.26. 12:50, kolodvor OTOK"
   }
 ]
