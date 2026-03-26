@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44995",
-    "event_time": "2026-03-23T13:57:00",
-    "seen_at": "2026-03-23T12:58:48.932Z",
-    "raw": "Br. Vlaka 44995 dolazak      23.03.26. 13:57, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48799",
-    "event_time": "2026-03-23T13:54:00",
-    "seen_at": "2026-03-23T13:01:48.919Z",
-    "raw": "Br. Vlaka 48799 dolazak      23.03.26. 13:54, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "KOTORIBA",
     "train_number": "44995",
@@ -13570,5 +13552,41 @@
     "event_time": "2026-03-26T13:54:00",
     "seen_at": "2026-03-26T12:54:39.886Z",
     "raw": "Br. Vlaka 81526 dolazak      26.03.26. 13:54, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81991",
+    "event_time": "2026-03-26T13:54:00",
+    "seen_at": "2026-03-26T12:56:49.704Z",
+    "raw": "Br. Vlaka 81991 odlazak      26.03.26. 13:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81991",
+    "event_time": "2026-03-26T13:20:00",
+    "seen_at": "2026-03-26T12:57:58.582Z",
+    "raw": "Br. Vlaka 81991 dolazak      26.03.26. 13:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "83827",
+    "event_time": "2026-03-26T13:57:00",
+    "seen_at": "2026-03-26T12:59:08.280Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:57, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "83827",
+    "event_time": "2026-03-26T13:57:00",
+    "seen_at": "2026-03-26T12:59:08.281Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:57, kolodvor LIČKA JESENICA"
   }
 ]
