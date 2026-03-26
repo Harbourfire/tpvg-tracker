@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-23T02:58:00",
-    "seen_at": "2026-03-23T01:59:15.075Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-23T02:58:00",
-    "seen_at": "2026-03-23T01:59:15.075Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "KOPRIVNICA GR    A",
@@ -13840,5 +13822,32 @@
     "event_time": "2026-03-26T01:37:00",
     "seen_at": "2026-03-26T01:48:04.745Z",
     "raw": "Br. Vlaka 89129 formiran     26.03.26. 01:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89129",
+    "event_time": "2026-03-26T02:55:00",
+    "seen_at": "2026-03-26T01:57:12.263Z",
+    "raw": "Br. Vlaka 89129 odlazak      26.03.26. 02:55, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "48891",
+    "event_time": "2026-03-26T02:56:00",
+    "seen_at": "2026-03-26T01:58:44.999Z",
+    "raw": "Br. Vlaka 48891 odlazak      26.03.26. 02:56, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81284",
+    "event_time": "2026-03-26T02:57:00",
+    "seen_at": "2026-03-26T01:59:54.901Z",
+    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 02:57, kolodvor ZAPREŠIĆ"
   }
 ]
