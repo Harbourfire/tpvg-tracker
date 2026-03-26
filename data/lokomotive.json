@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "48799",
-    "event_time": "2026-03-23T09:04:00",
-    "seen_at": "2026-03-23T08:04:45.323Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:04, kolodvor SESVETE"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76801",
-    "event_time": "2026-03-23T09:04:00",
-    "seen_at": "2026-03-23T08:05:08.748Z",
-    "raw": "Br. Vlaka 76801 dolazak      23.03.26. 09:04, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48799",
-    "event_time": "2026-03-23T09:10:00",
-    "seen_at": "2026-03-23T08:10:31.842Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:10, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "KOTORIBA",
@@ -13696,5 +13669,23 @@
     "event_time": "2026-03-26T09:00:00",
     "seen_at": "2026-03-26T08:00:17.249Z",
     "raw": "Br. Vlaka 89136 odlazak      26.03.26. 09:00, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "BORUT",
+    "train_number": "70200",
+    "event_time": "2026-03-26T08:38:00",
+    "seen_at": "2026-03-26T08:04:40.082Z",
+    "raw": "Br. Vlaka 70200 odlazak      26.03.26. 08:38, kolodvor BORUT"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "LUPOGLAV",
+    "train_number": "70200",
+    "event_time": "2026-03-26T09:02:00",
+    "seen_at": "2026-03-26T08:05:03.018Z",
+    "raw": "Br. Vlaka 70200 odlazak      26.03.26. 09:02, kolodvor LUPOGLAV"
   }
 ]
