@@ -13606,5 +13606,77 @@
     "event_time": "2026-03-26T13:20:00",
     "seen_at": "2026-03-26T13:06:06.278Z",
     "raw": "Br. Vlaka 81991 dolazak      26.03.26. 13:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "83827",
+    "event_time": "2026-03-26T14:15:00",
+    "seen_at": "2026-03-26T13:16:25.401Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 14:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "83827",
+    "event_time": "2026-03-26T14:15:00",
+    "seen_at": "2026-03-26T13:16:25.401Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 14:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "89240",
+    "event_time": "2026-03-26T14:17:00",
+    "seen_at": "2026-03-26T13:17:12.002Z",
+    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 14:17, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "81991",
+    "event_time": "2026-03-26T13:20:00",
+    "seen_at": "2026-03-26T13:17:57.776Z",
+    "raw": "Br. Vlaka 81991 promjena sas 26.03.26. 13:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81991",
+    "event_time": "2026-03-26T13:54:00",
+    "seen_at": "2026-03-26T13:19:52.169Z",
+    "raw": "Br. Vlaka 81991 odlazak      26.03.26. 13:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-26T14:03:00",
+    "seen_at": "2026-03-26T13:21:00.320Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "83827",
+    "event_time": "2026-03-26T14:21:00",
+    "seen_at": "2026-03-26T13:23:18.273Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 14:21, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "83827",
+    "event_time": "2026-03-26T14:21:00",
+    "seen_at": "2026-03-26T13:23:18.273Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 14:21, kolodvor VRHOVINE"
   }
 ]
