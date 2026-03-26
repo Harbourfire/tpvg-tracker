@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVSKA",
-    "train_number": "75009",
-    "event_time": "2026-03-23T08:06:00",
-    "seen_at": "2026-03-23T07:06:47.687Z",
-    "raw": "Br. Vlaka 75009 formiran     23.03.26. 08:06, kolodvor NOVSKA"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "DARDA",
-    "train_number": null,
-    "event_time": "2026-03-23T08:05:00",
-    "seen_at": "2026-03-23T07:07:56.304Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71703 DARDA"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76801",
-    "event_time": "2026-03-23T08:09:00",
-    "seen_at": "2026-03-23T07:10:50.484Z",
-    "raw": "Br. Vlaka 76801 formiran     23.03.26. 08:09, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Formiran",
-    "station": "DARDA",
-    "train_number": "79921",
-    "event_time": "2026-03-23T08:08:00",
-    "seen_at": "2026-03-23T07:10:50.484Z",
-    "raw": "Br. Vlaka 79921 formiran     23.03.26. 08:08, kolodvor DARDA"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "79921",
-    "event_time": "2026-03-23T08:08:00",
-    "seen_at": "2026-03-23T07:11:13.304Z",
-    "raw": "Br. Vlaka 79921 odlazak      23.03.26. 08:08, kolodvor DARDA"
-  },
-  {
     "uic": "997894853461",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -13714,5 +13669,23 @@
     "event_time": "2026-03-26T08:03:00",
     "seen_at": "2026-03-26T07:04:26.616Z",
     "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "PAZIN",
+    "train_number": "70200",
+    "event_time": "2026-03-26T08:10:00",
+    "seen_at": "2026-03-26T07:12:43.792Z",
+    "raw": "Br. Vlaka 70200 formiran     26.03.26. 08:10, kolodvor PAZIN"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "PAZIN",
+    "train_number": null,
+    "event_time": "2026-03-26T08:25:00",
+    "seen_at": "2026-03-26T07:15:26.113Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77405 PAZIN"
   }
 ]
