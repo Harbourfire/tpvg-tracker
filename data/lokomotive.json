@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "75009",
-    "event_time": "2026-03-23T08:44:00",
-    "seen_at": "2026-03-23T07:44:58.723Z",
-    "raw": "Br. Vlaka 75009 odlazak      23.03.26. 08:44, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44994",
-    "event_time": "2026-03-23T08:45:00",
-    "seen_at": "2026-03-23T07:46:43.131Z",
-    "raw": "Br. Vlaka 44994 odlazak      23.03.26. 08:45, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "48799",
-    "event_time": "2026-03-23T08:47:00",
-    "seen_at": "2026-03-23T07:47:28.718Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 08:47, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "86101",
-    "event_time": "2026-03-23T08:50:00",
-    "seen_at": "2026-03-23T07:50:33.429Z",
-    "raw": "Br. Vlaka 86101 odlazak      23.03.26. 08:50, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -13714,5 +13678,50 @@
     "event_time": "2026-03-26T08:39:00",
     "seen_at": "2026-03-26T07:41:22.199Z",
     "raw": "Br. Vlaka 89136 odlazak      26.03.26. 08:39, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-03-26T08:43:00",
+    "seen_at": "2026-03-26T07:44:36.976Z",
+    "raw": "Br. Vlaka 74101 odlazak      26.03.26. 08:43, kolodvor OTOK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-26T03:09:00",
+    "seen_at": "2026-03-26T07:46:56.968Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-26T03:09:00",
+    "seen_at": "2026-03-26T07:46:56.968Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "KARLOVAC",
+    "train_number": null,
+    "event_time": "2026-03-26T08:45:00",
+    "seen_at": "2026-03-26T07:46:56.969Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75060 KARLOVAC"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81526",
+    "event_time": "2026-03-26T08:52:00",
+    "seen_at": "2026-03-26T07:53:13.315Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 08:52, kolodvor OSIJEK"
   }
 ]
