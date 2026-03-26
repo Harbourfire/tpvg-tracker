@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89289",
-    "event_time": "2026-03-23T16:21:00",
-    "seen_at": "2026-03-23T15:21:34.720Z",
-    "raw": "Br. Vlaka 89289 odlazak      23.03.26. 16:21, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894855706",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-20T16:23:00",
-    "seen_at": "2026-03-23T15:24:24.715Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89289",
-    "event_time": "2026-03-23T16:25:00",
-    "seen_at": "2026-03-23T15:25:33.635Z",
-    "raw": "Br. Vlaka 89289 odlazak      23.03.26. 16:25, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89289",
     "event_time": "2026-03-23T16:32:00",
@@ -13705,5 +13678,23 @@
     "event_time": "2026-03-26T16:10:00",
     "seen_at": "2026-03-26T15:12:01.829Z",
     "raw": "Br. Vlaka 81526 dolazak      26.03.26. 16:10, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-03-26T15:24:52.613Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81526",
+    "event_time": "2026-03-26T16:25:00",
+    "seen_at": "2026-03-26T15:25:15.185Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 16:25, kolodvor SISAK CAPRAG"
   }
 ]
