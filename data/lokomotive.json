@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76800",
-    "event_time": "2026-03-23T07:02:00",
-    "seen_at": "2026-03-23T06:03:10.827Z",
-    "raw": "Br. Vlaka 76800 formiran     23.03.26. 07:02, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-03-23T07:06:00",
-    "seen_at": "2026-03-23T06:06:13.240Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76800",
-    "event_time": "2026-03-23T07:06:00",
-    "seen_at": "2026-03-23T06:06:36.070Z",
-    "raw": "Br. Vlaka 76800 odlazak      23.03.26. 07:06, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -13741,5 +13714,14 @@
     "event_time": "2026-03-26T06:54:00",
     "seen_at": "2026-03-26T05:54:54.140Z",
     "raw": "Br. Vlaka 76926 formiran     26.03.26. 06:54, kolodvor NAŠICE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89064",
+    "event_time": "2026-03-26T07:07:00",
+    "seen_at": "2026-03-26T06:08:50.045Z",
+    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 07:07, kolodvor ZAGREB ZAP. KOL."
   }
 ]
