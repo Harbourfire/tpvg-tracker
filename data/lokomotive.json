@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45992",
-    "event_time": "2026-03-23T23:47:00",
-    "seen_at": "2026-03-23T22:47:56.723Z",
-    "raw": "Br. Vlaka 45992 odlazak      23.03.26. 23:47, kolodvor 72302"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45992",
-    "event_time": "2026-03-23T23:47:00",
-    "seen_at": "2026-03-23T22:47:56.724Z",
-    "raw": "Br. Vlaka 45992 odlazak      23.03.26. 23:47, kolodvor 72302"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89871",
-    "event_time": "2026-03-23T23:51:00",
-    "seen_at": "2026-03-23T22:52:13.217Z",
-    "raw": "Br. Vlaka 89871 odlazak      23.03.26. 23:51, kolodvor LEPAVINA"
-  },
-  {
     "uic": "987821320346",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -14092,5 +14065,59 @@
     "event_time": "2026-03-26T23:42:00",
     "seen_at": "2026-03-26T22:44:52.918Z",
     "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "82323",
+    "event_time": "2026-03-26T23:49:00",
+    "seen_at": "2026-03-26T22:49:41.254Z",
+    "raw": "Br. Vlaka 82323 odlazak      26.03.26. 23:49, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "82323",
+    "event_time": "2026-03-26T23:49:00",
+    "seen_at": "2026-03-26T22:49:41.255Z",
+    "raw": "Br. Vlaka 82323 odlazak      26.03.26. 23:49, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-26T23:49:00",
+    "seen_at": "2026-03-26T22:50:04.099Z",
+    "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:49, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-26T23:49:00",
+    "seen_at": "2026-03-26T22:50:04.099Z",
+    "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:49, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-03-26T15:27:00",
+    "seen_at": "2026-03-26T22:56:08.245Z",
+    "raw": "Br. Vlaka 47944 formiran     26.03.26. 15:27, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47563",
+    "event_time": "2026-03-25T23:50:00",
+    "seen_at": "2026-03-26T22:56:53.653Z",
+    "raw": "Br. Vlaka 47563 formiran     25.03.26. 23:50, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
