@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "48799",
-    "event_time": "2026-03-23T03:45:00",
-    "seen_at": "2026-03-23T02:47:07.199Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 03:45, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82522",
-    "event_time": "2026-03-23T03:49:00",
-    "seen_at": "2026-03-23T02:50:33.364Z",
-    "raw": "Br. Vlaka 82522 odlazak      23.03.26. 03:49, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82522",
-    "event_time": "2026-03-23T03:49:00",
-    "seen_at": "2026-03-23T02:50:33.364Z",
-    "raw": "Br. Vlaka 82522 odlazak      23.03.26. 03:49, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "LEPAVINA",
     "train_number": "48799",
     "event_time": "2026-03-23T03:55:00",
@@ -13777,5 +13750,59 @@
     "event_time": "2026-03-26T03:20:00",
     "seen_at": "2026-03-26T02:35:53.109Z",
     "raw": "Br. Vlaka 48891 dolazak      26.03.26. 03:20, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81990",
+    "event_time": "2026-03-26T03:43:00",
+    "seen_at": "2026-03-26T02:44:45.366Z",
+    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 03:43, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81990",
+    "event_time": "2026-03-26T03:43:00",
+    "seen_at": "2026-03-26T02:44:45.366Z",
+    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 03:43, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "81284",
+    "event_time": "2026-03-26T03:31:00",
+    "seen_at": "2026-03-26T02:45:08.308Z",
+    "raw": "Br. Vlaka 81284 dolazak      26.03.26. 03:31, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89129",
+    "event_time": "2026-03-26T03:35:00",
+    "seen_at": "2026-03-26T02:47:27.064Z",
+    "raw": "Br. Vlaka 89129 odlazak      26.03.26. 03:35, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89129",
+    "event_time": "2026-03-26T03:46:00",
+    "seen_at": "2026-03-26T02:47:49.959Z",
+    "raw": "Br. Vlaka 89129 dolazak      26.03.26. 03:46, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-26T03:46:00",
+    "seen_at": "2026-03-26T02:48:13.005Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
