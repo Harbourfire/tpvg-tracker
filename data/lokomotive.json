@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82526",
-    "event_time": "2026-03-23T18:08:00",
-    "seen_at": "2026-03-23T17:09:40.866Z",
-    "raw": "Br. Vlaka 82526 odlazak      23.03.26. 18:08, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82526",
-    "event_time": "2026-03-23T18:08:00",
-    "seen_at": "2026-03-23T17:09:40.866Z",
-    "raw": "Br. Vlaka 82526 odlazak      23.03.26. 18:08, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "987891162057",
     "type": "Rasformiran",
     "station": "SLAVONSKI BROD",
@@ -13822,5 +13804,50 @@
     "event_time": "2026-03-26T17:25:00",
     "seen_at": "2026-03-26T16:57:04.666Z",
     "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "VELIKA GORICA",
+    "train_number": "81526",
+    "event_time": "2026-03-26T18:02:00",
+    "seen_at": "2026-03-26T17:02:11.689Z",
+    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 18:02, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-26T18:03:00",
+    "seen_at": "2026-03-26T17:04:28.111Z",
+    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 18:03, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-26T18:03:00",
+    "seen_at": "2026-03-26T17:04:28.111Z",
+    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 18:03, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-26T18:07:00",
+    "seen_at": "2026-03-26T17:07:54.079Z",
+    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 18:07, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-26T18:07:00",
+    "seen_at": "2026-03-26T17:07:54.079Z",
+    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 18:07, kolodvor KOPRIVNICA"
   }
 ]
