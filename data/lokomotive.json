@@ -2,24 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82522",
-    "event_time": "2026-03-23T04:48:00",
-    "seen_at": "2026-03-23T03:49:29.838Z",
-    "raw": "Br. Vlaka 82522 odlazak      23.03.26. 04:48, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82522",
-    "event_time": "2026-03-23T04:48:00",
-    "seen_at": "2026-03-23T03:49:29.838Z",
-    "raw": "Br. Vlaka 82522 odlazak      23.03.26. 04:48, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "82522",
     "event_time": "2026-03-23T04:57:00",
@@ -13786,5 +13768,41 @@
     "event_time": "2026-03-26T04:29:00",
     "seen_at": "2026-03-26T03:31:50.893Z",
     "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:29, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "81990",
+    "event_time": "2026-03-26T04:44:00",
+    "seen_at": "2026-03-26T03:53:56.884Z",
+    "raw": "Br. Vlaka 81990 dolazak      26.03.26. 04:44, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "81990",
+    "event_time": "2026-03-26T04:44:00",
+    "seen_at": "2026-03-26T03:53:56.885Z",
+    "raw": "Br. Vlaka 81990 dolazak      26.03.26. 04:44, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81990",
+    "event_time": "2026-03-26T04:51:00",
+    "seen_at": "2026-03-26T03:54:19.940Z",
+    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:51, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81990",
+    "event_time": "2026-03-26T04:51:00",
+    "seen_at": "2026-03-26T03:54:19.940Z",
+    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:51, kolodvor JOSIPDOL"
   }
 ]
