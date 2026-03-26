@@ -2,33 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82526",
-    "event_time": "2026-03-23T17:50:00",
-    "seen_at": "2026-03-23T16:51:36.782Z",
-    "raw": "Br. Vlaka 82526 odlazak      23.03.26. 17:50, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82526",
-    "event_time": "2026-03-23T17:50:00",
-    "seen_at": "2026-03-23T16:51:36.782Z",
-    "raw": "Br. Vlaka 82526 odlazak      23.03.26. 17:50, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "71206",
-    "event_time": "2026-03-23T17:59:00",
-    "seen_at": "2026-03-23T16:59:26.211Z",
-    "raw": "Br. Vlaka 71206 formiran     23.03.26. 17:59, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "82526",
     "event_time": "2026-03-23T18:08:00",
@@ -13804,5 +13777,50 @@
     "event_time": "2026-03-26T17:45:00",
     "seen_at": "2026-03-26T16:50:00.814Z",
     "raw": "Br. Vlaka 63310 odlazak      26.03.26. 17:45, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47945",
+    "event_time": "2026-03-26T17:51:00",
+    "seen_at": "2026-03-26T16:53:17.547Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 17:51, kolodvor 73164"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47945",
+    "event_time": "2026-03-26T17:51:00",
+    "seen_at": "2026-03-26T16:53:17.547Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 17:51, kolodvor 73164"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "81526",
+    "event_time": "2026-03-26T17:53:00",
+    "seen_at": "2026-03-26T16:54:25.800Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 17:53, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48790",
+    "event_time": "2026-03-26T17:25:00",
+    "seen_at": "2026-03-26T16:56:41.866Z",
+    "raw": "Br. Vlaka 48790 dolazak      26.03.26. 17:25, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-26T17:25:00",
+    "seen_at": "2026-03-26T16:57:04.666Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
   }
 ]
