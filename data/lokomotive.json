@@ -1,41 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "KOŠKA",
-    "train_number": "89445",
-    "event_time": "2026-03-23T15:08:00",
-    "seen_at": "2026-03-23T14:08:45.030Z",
-    "raw": "Br. Vlaka 89445 formiran     23.03.26. 15:08, kolodvor KOŠKA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "BIZOVAC",
-    "train_number": "89524",
-    "event_time": "2026-03-23T15:09:00",
-    "seen_at": "2026-03-23T14:09:21.909Z",
-    "raw": "Br. Vlaka 89524 formiran     23.03.26. 15:09, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "86102",
-    "event_time": "2026-03-23T15:10:00",
-    "seen_at": "2026-03-23T14:10:31.615Z",
-    "raw": "Br. Vlaka 86102 dolazak      23.03.26. 15:10, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-23T15:10:00",
-    "seen_at": "2026-03-23T14:10:54.122Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SAVSKI MAROF",
@@ -13732,5 +13696,32 @@
     "event_time": "2026-03-26T14:53:00",
     "seen_at": "2026-03-26T13:57:24.324Z",
     "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-26T15:02:00",
+    "seen_at": "2026-03-26T14:03:50.594Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-26T15:02:00",
+    "seen_at": "2026-03-26T14:03:50.594Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81232",
+    "event_time": "2026-03-26T15:04:00",
+    "seen_at": "2026-03-26T14:05:24.123Z",
+    "raw": "Br. Vlaka 81232 odlazak      26.03.26. 15:04, kolodvor GARČIN"
   }
 ]
