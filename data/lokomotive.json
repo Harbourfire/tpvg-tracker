@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "JOSIPDOL",
-    "train_number": null,
-    "event_time": "2026-03-23T21:47:00",
-    "seen_at": "2026-03-23T20:48:40.604Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76002 JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "JOSIPDOL",
-    "train_number": null,
-    "event_time": "2026-03-23T21:47:00",
-    "seen_at": "2026-03-23T20:48:40.604Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76002 JOSIPDOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48797",
-    "event_time": "2026-03-23T21:47:00",
-    "seen_at": "2026-03-23T20:49:25.905Z",
-    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 21:47, kolodvor 72303"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -13966,5 +13939,41 @@
     "event_time": "2026-03-26T21:43:00",
     "seen_at": "2026-03-26T20:44:17.038Z",
     "raw": "Br. Vlaka 82328 odlazak      26.03.26. 21:43, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:44:00",
+    "seen_at": "2026-03-26T20:47:58.004Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:44, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:44:00",
+    "seen_at": "2026-03-26T20:47:58.004Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:44, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47945",
+    "event_time": "2026-03-26T21:52:00",
+    "seen_at": "2026-03-26T20:53:17.011Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 21:52, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47945",
+    "event_time": "2026-03-26T21:52:00",
+    "seen_at": "2026-03-26T20:53:17.011Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 21:52, kolodvor DUGO SELO"
   }
 ]
