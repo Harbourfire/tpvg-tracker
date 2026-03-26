@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89757",
-    "event_time": "2026-03-23T18:37:00",
-    "seen_at": "2026-03-23T17:39:07.731Z",
-    "raw": "Br. Vlaka 89757 odlazak      23.03.26. 18:37, kolodvor 72302"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82526",
-    "event_time": "2026-03-23T18:41:00",
-    "seen_at": "2026-03-23T17:43:21.956Z",
-    "raw": "Br. Vlaka 82526 odlazak      23.03.26. 18:41, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82526",
-    "event_time": "2026-03-23T18:41:00",
-    "seen_at": "2026-03-23T17:43:21.956Z",
-    "raw": "Br. Vlaka 82526 odlazak      23.03.26. 18:41, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440232",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": null,
@@ -13867,5 +13840,14 @@
     "event_time": "2026-03-26T18:29:00",
     "seen_at": "2026-03-26T17:29:48.300Z",
     "raw": "Br. Vlaka 81526 odlazak      26.03.26. 18:29, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81526",
+    "event_time": "2026-03-26T18:44:00",
+    "seen_at": "2026-03-26T17:44:33.039Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 18:44, kolodvor ZAGREB ZAP. KOL."
   }
 ]
