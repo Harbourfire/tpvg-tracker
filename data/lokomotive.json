@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "OTOK",
-    "train_number": null,
-    "event_time": "2026-03-23T12:20:00",
-    "seen_at": "2026-03-23T11:21:44.595Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71303 OTOK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82525",
-    "event_time": "2026-03-23T12:22:00",
-    "seen_at": "2026-03-23T11:24:24.497Z",
-    "raw": "Br. Vlaka 82525 dolazak      23.03.26. 12:22, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82525",
-    "event_time": "2026-03-23T12:22:00",
-    "seen_at": "2026-03-23T11:24:24.497Z",
-    "raw": "Br. Vlaka 82525 dolazak      23.03.26. 12:22, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -13426,5 +13399,41 @@
     "event_time": "2026-03-26T12:19:00",
     "seen_at": "2026-03-26T11:20:14.384Z",
     "raw": "Br. Vlaka 89241 odlazak      26.03.26. 12:19, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-26T12:20:00",
+    "seen_at": "2026-03-26T11:21:12.313Z",
+    "raw": "Br. Vlaka 45104 odlazak      26.03.26. 12:20, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "81991",
+    "event_time": "2026-03-26T12:19:00",
+    "seen_at": "2026-03-26T11:21:59.682Z",
+    "raw": "Br. Vlaka 81991 odlazak      26.03.26. 12:19, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "89741",
+    "event_time": "2026-03-26T12:22:00",
+    "seen_at": "2026-03-26T11:24:19.409Z",
+    "raw": "Br. Vlaka 89741 odlazak      26.03.26. 12:22, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "89741",
+    "event_time": "2026-03-26T12:22:00",
+    "seen_at": "2026-03-26T11:24:19.409Z",
+    "raw": "Br. Vlaka 89741 odlazak      26.03.26. 12:22, kolodvor OGULIN"
   }
 ]
