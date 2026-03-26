@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76801",
-    "event_time": "2026-03-23T08:35:00",
-    "seen_at": "2026-03-23T07:35:37.615Z",
-    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 08:35, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "BIZOVAC",
-    "train_number": "89522",
-    "event_time": "2026-03-23T08:40:00",
-    "seen_at": "2026-03-23T07:43:04.864Z",
-    "raw": "Br. Vlaka 89522 formiran     23.03.26. 08:40, kolodvor BIZOVAC"
-  },
-  {
     "uic": "987893113470",
     "type": "Odlazak",
     "station": "OKUČANI",
@@ -13705,5 +13687,32 @@
     "event_time": "2026-03-26T08:30:00",
     "seen_at": "2026-03-26T07:31:57.525Z",
     "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "89064",
+    "event_time": "2026-03-26T08:34:00",
+    "seen_at": "2026-03-26T07:36:00.995Z",
+    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 08:34, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-03-26T08:35:00",
+    "seen_at": "2026-03-26T07:39:50.492Z",
+    "raw": "Br. Vlaka 45105 odlazak      26.03.26. 08:35, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89136",
+    "event_time": "2026-03-26T08:39:00",
+    "seen_at": "2026-03-26T07:41:22.199Z",
+    "raw": "Br. Vlaka 89136 odlazak      26.03.26. 08:39, kolodvor STARO PETROVO SELO"
   }
 ]
