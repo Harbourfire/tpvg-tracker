@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89755",
-    "event_time": "2026-03-23T12:43:00",
-    "seen_at": "2026-03-23T11:44:26.857Z",
-    "raw": "Br. Vlaka 89755 odlazak      23.03.26. 12:43, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -13453,5 +13444,50 @@
     "event_time": "2026-03-26T12:20:00",
     "seen_at": "2026-03-26T11:38:34.332Z",
     "raw": "Br. Vlaka 45104 odlazak      26.03.26. 12:20, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "89241",
+    "event_time": "2026-03-26T12:40:00",
+    "seen_at": "2026-03-26T11:42:16.121Z",
+    "raw": "Br. Vlaka 89241 odlazak      26.03.26. 12:40, kolodvor GREDA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-26T12:44:00",
+    "seen_at": "2026-03-26T11:46:04.080Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-26T12:44:00",
+    "seen_at": "2026-03-26T11:46:04.080Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "81526",
+    "event_time": "2026-03-26T12:37:00",
+    "seen_at": "2026-03-26T11:47:35.639Z",
+    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 12:37, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-03-26T12:33:00",
+    "seen_at": "2026-03-26T11:48:21.027Z",
+    "raw": "Br. Vlaka 45104 dolazak      26.03.26. 12:33, kolodvor SPAČVA"
   }
 ]
