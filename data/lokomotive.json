@@ -14029,5 +14029,50 @@
     "event_time": "2026-03-26T20:00:00",
     "seen_at": "2026-03-26T19:00:44.635Z",
     "raw": "Br. Vlaka 47945 dolazak      26.03.26. 20:00, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "IVANKOVO",
+    "train_number": "47562",
+    "event_time": "2026-03-26T19:58:00",
+    "seen_at": "2026-03-26T19:03:34.359Z",
+    "raw": "Br. Vlaka 47562 dolazak      26.03.26. 19:58, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89872",
+    "event_time": "2026-03-26T20:00:00",
+    "seen_at": "2026-03-26T19:05:52.673Z",
+    "raw": "Br. Vlaka 89872 dolazak      26.03.26. 20:00, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "82330",
+    "event_time": "2026-03-26T20:09:00",
+    "seen_at": "2026-03-26T19:09:21.006Z",
+    "raw": "Br. Vlaka 82330 formiran     26.03.26. 20:09, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Promjena sastava",
+    "station": "KOPRIVNICA",
+    "train_number": "89872",
+    "event_time": "2026-03-26T20:00:00",
+    "seen_at": "2026-03-26T19:09:21.007Z",
+    "raw": "Br. Vlaka 89872 promjena sas 26.03.26. 20:00, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Promjena sastava",
+    "station": "KOPRIVNICA",
+    "train_number": "89872",
+    "event_time": "2026-03-26T20:00:00",
+    "seen_at": "2026-03-26T19:09:43.795Z",
+    "raw": "Br. Vlaka 89872 promjena sas 26.03.26. 20:00, kolodvor KOPRIVNICA"
   }
 ]
