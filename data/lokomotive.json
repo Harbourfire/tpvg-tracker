@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-23T02:47:00",
-    "seen_at": "2026-03-23T01:48:26.579Z",
-    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 02:47, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-23T02:47:00",
-    "seen_at": "2026-03-23T01:48:26.580Z",
-    "raw": "Br. Vlaka 63305 odlazak      23.03.26. 02:47, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230076",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
     "train_number": null,
@@ -13804,5 +13786,59 @@
     "event_time": "2026-03-26T02:41:00",
     "seen_at": "2026-03-26T01:42:06.858Z",
     "raw": "Br. Vlaka 45996 dolazak      26.03.26. 02:41, kolodvor 73164"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81990",
+    "event_time": "2026-03-26T02:45:00",
+    "seen_at": "2026-03-26T01:45:46.626Z",
+    "raw": "Br. Vlaka 81990 formiran     26.03.26. 02:45, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81990",
+    "event_time": "2026-03-26T02:45:00",
+    "seen_at": "2026-03-26T01:45:46.626Z",
+    "raw": "Br. Vlaka 81990 formiran     26.03.26. 02:45, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "81283",
+    "event_time": "2026-03-26T01:50:00",
+    "seen_at": "2026-03-26T01:46:09.876Z",
+    "raw": "Br. Vlaka 81283 odlazak      26.03.26. 01:50, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-26T02:44:00",
+    "seen_at": "2026-03-26T01:46:32.902Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81284",
+    "event_time": "2026-03-26T02:46:00",
+    "seen_at": "2026-03-26T01:47:41.926Z",
+    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 02:46, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89129",
+    "event_time": "2026-03-26T01:37:00",
+    "seen_at": "2026-03-26T01:48:04.745Z",
+    "raw": "Br. Vlaka 89129 formiran     26.03.26. 01:37, kolodvor OSIJEK"
   }
 ]
