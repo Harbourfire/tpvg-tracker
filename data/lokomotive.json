@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76502",
-    "event_time": "2026-03-23T07:47:00",
-    "seen_at": "2026-03-23T06:47:53.876Z",
-    "raw": "Br. Vlaka 76502 odlazak      23.03.26. 07:47, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "76800",
-    "event_time": "2026-03-23T07:48:00",
-    "seen_at": "2026-03-23T06:49:38.235Z",
-    "raw": "Br. Vlaka 76800 odlazak      23.03.26. 07:48, kolodvor OKUČANI"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "79920",
-    "event_time": "2026-03-23T07:47:00",
-    "seen_at": "2026-03-23T06:50:25.537Z",
-    "raw": "Br. Vlaka 79920 odlazak      23.03.26. 07:47, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "IVANKOVO",
-    "train_number": null,
-    "event_time": "2026-03-23T07:50:00",
-    "seen_at": "2026-03-23T06:53:08.001Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
-  },
-  {
     "uic": "987891213462",
     "type": "Formiran",
     "station": "IVANKOVO",
@@ -13714,5 +13678,59 @@
     "event_time": "2026-03-26T07:40:00",
     "seen_at": "2026-03-26T06:45:21.935Z",
     "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:40, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89896",
+    "event_time": "2026-03-26T07:47:00",
+    "seen_at": "2026-03-26T06:49:46.447Z",
+    "raw": "Br. Vlaka 89896 dolazak      26.03.26. 07:47, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-03-26T07:47:00",
+    "seen_at": "2026-03-26T06:50:09.233Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "89064",
+    "event_time": "2026-03-26T07:37:00",
+    "seen_at": "2026-03-26T06:50:09.233Z",
+    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 07:37, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "89064",
+    "event_time": "2026-03-26T07:46:00",
+    "seen_at": "2026-03-26T06:50:32.088Z",
+    "raw": "Br. Vlaka 89064 dolazak      26.03.26. 07:46, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89133",
+    "event_time": "2026-03-26T07:43:00",
+    "seen_at": "2026-03-26T06:53:57.534Z",
+    "raw": "Br. Vlaka 89133 odlazak      26.03.26. 07:43, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89136",
+    "event_time": "2026-03-26T07:54:00",
+    "seen_at": "2026-03-26T06:55:06.432Z",
+    "raw": "Br. Vlaka 89136 odlazak      26.03.26. 07:54, kolodvor SIBINJ"
   }
 ]
