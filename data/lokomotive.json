@@ -2,15 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44995",
-    "event_time": "2026-03-23T14:12:00",
-    "seen_at": "2026-03-23T13:12:43.970Z",
-    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 14:12, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
     "train_number": "44995",
     "event_time": "2026-03-23T14:26:00",
@@ -13588,5 +13579,32 @@
     "event_time": "2026-03-26T13:57:00",
     "seen_at": "2026-03-26T12:59:08.281Z",
     "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:57, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81991",
+    "event_time": "2026-03-26T13:54:00",
+    "seen_at": "2026-03-26T13:05:14.807Z",
+    "raw": "Br. Vlaka 81991 odlazak      26.03.26. 13:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Dolazak",
+    "station": "LEKENIK",
+    "train_number": "89240",
+    "event_time": "2026-03-26T14:02:00",
+    "seen_at": "2026-03-26T13:05:42.864Z",
+    "raw": "Br. Vlaka 89240 dolazak      26.03.26. 14:02, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81991",
+    "event_time": "2026-03-26T13:20:00",
+    "seen_at": "2026-03-26T13:06:06.278Z",
+    "raw": "Br. Vlaka 81991 dolazak      26.03.26. 13:20, kolodvor OSIJEK"
   }
 ]
