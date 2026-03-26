@@ -2,42 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89289",
-    "event_time": "2026-03-23T16:13:00",
-    "seen_at": "2026-03-23T15:16:16.179Z",
-    "raw": "Br. Vlaka 89289 odlazak      23.03.26. 16:13, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82526",
-    "event_time": "2026-03-23T16:16:00",
-    "seen_at": "2026-03-23T15:16:16.180Z",
-    "raw": "Br. Vlaka 82526 formiran     23.03.26. 16:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82526",
-    "event_time": "2026-03-23T16:16:00",
-    "seen_at": "2026-03-23T15:16:16.180Z",
-    "raw": "Br. Vlaka 82526 formiran     23.03.26. 16:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89289",
-    "event_time": "2026-03-23T16:16:00",
-    "seen_at": "2026-03-23T15:16:38.762Z",
-    "raw": "Br. Vlaka 89289 odlazak      23.03.26. 16:16, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "89289",
     "event_time": "2026-03-23T16:21:00",
@@ -13723,5 +13687,23 @@
     "event_time": "2026-03-26T15:53:00",
     "seen_at": "2026-03-26T14:53:58.928Z",
     "raw": "Br. Vlaka 89139 odlazak      26.03.26. 15:53, kolodvor OKUČANI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89139",
+    "event_time": "2026-03-26T16:11:00",
+    "seen_at": "2026-03-26T15:11:15.516Z",
+    "raw": "Br. Vlaka 89139 odlazak      26.03.26. 16:11, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81526",
+    "event_time": "2026-03-26T16:10:00",
+    "seen_at": "2026-03-26T15:12:01.829Z",
+    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 16:10, kolodvor SISAK CAPRAG"
   }
 ]
