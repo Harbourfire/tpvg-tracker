@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "86102",
-    "event_time": "2026-03-23T11:58:00",
-    "seen_at": "2026-03-23T11:02:12.957Z",
-    "raw": "Br. Vlaka 86102 dolazak      23.03.26. 11:58, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "89717",
-    "event_time": "2026-03-23T12:03:00",
-    "seen_at": "2026-03-23T11:04:18.663Z",
-    "raw": "Br. Vlaka 89717 formiran     23.03.26. 12:03, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82525",
-    "event_time": "2026-03-23T12:08:00",
-    "seen_at": "2026-03-23T11:09:12.625Z",
-    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 12:08, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82525",
-    "event_time": "2026-03-23T12:08:00",
-    "seen_at": "2026-03-23T11:09:12.625Z",
-    "raw": "Br. Vlaka 82525 odlazak      23.03.26. 12:08, kolodvor VRHOVINE"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -13381,5 +13345,32 @@
     "event_time": "2026-03-26T12:00:00",
     "seen_at": "2026-03-26T11:01:39.312Z",
     "raw": "Br. Vlaka 74100 odlazak      26.03.26. 12:00, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Dolazak",
+    "station": "TUROPOLJE",
+    "train_number": "89241",
+    "event_time": "2026-03-26T12:05:00",
+    "seen_at": "2026-03-26T11:06:27.062Z",
+    "raw": "Br. Vlaka 89241 dolazak      26.03.26. 12:05, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "89241",
+    "event_time": "2026-03-26T12:07:00",
+    "seen_at": "2026-03-26T11:08:21.459Z",
+    "raw": "Br. Vlaka 89241 odlazak      26.03.26. 12:07, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81992",
+    "event_time": "2026-03-26T12:10:00",
+    "seen_at": "2026-03-26T11:11:03.369Z",
+    "raw": "Br. Vlaka 81992 dolazak      26.03.26. 12:10, kolodvor VINKOVCI"
   }
 ]
