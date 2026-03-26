@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89152",
-    "event_time": "2026-03-23T19:56:00",
-    "seen_at": "2026-03-23T18:59:03.059Z",
-    "raw": "Br. Vlaka 89152 formiran     23.03.26. 19:56, kolodvor 72304"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89152",
-    "event_time": "2026-03-23T19:56:00",
-    "seen_at": "2026-03-23T18:59:37.966Z",
-    "raw": "Br. Vlaka 89152 formiran     23.03.26. 19:56, kolodvor 72304"
-  },
-  {
-    "uic": "927820440232",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": null,
@@ -14011,5 +13993,41 @@
     "event_time": "2026-03-26T23:13:00",
     "seen_at": "2026-03-26T18:53:17.288Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "47945",
+    "event_time": "2026-03-26T19:53:00",
+    "seen_at": "2026-03-26T18:55:04.398Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 19:53, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "47945",
+    "event_time": "2026-03-26T19:53:00",
+    "seen_at": "2026-03-26T18:55:04.398Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 19:53, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-03-26T20:00:00",
+    "seen_at": "2026-03-26T19:00:44.635Z",
+    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 20:00, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-03-26T20:00:00",
+    "seen_at": "2026-03-26T19:00:44.635Z",
+    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 20:00, kolodvor VRBOVEC"
   }
 ]
