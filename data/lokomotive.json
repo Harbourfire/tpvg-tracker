@@ -2,15 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89185",
-    "event_time": "2026-03-23T06:19:00",
-    "seen_at": "2026-03-23T05:21:01.468Z",
-    "raw": "Br. Vlaka 89185 odlazak      23.03.26. 06:19, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "SIBINJ",
     "train_number": "89185",
     "event_time": "2026-03-23T06:32:00",
@@ -13750,5 +13741,32 @@
     "event_time": "2026-03-26T06:08:00",
     "seen_at": "2026-03-26T05:09:00.917Z",
     "raw": "Br. Vlaka 74101 formiran     26.03.26. 06:08, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-03-26T11:00:00",
+    "seen_at": "2026-03-26T05:15:38.278Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89133",
+    "event_time": "2026-03-26T06:15:00",
+    "seen_at": "2026-03-26T05:16:24.098Z",
+    "raw": "Br. Vlaka 89133 formiran     26.03.26. 06:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89064",
+    "event_time": "2026-03-26T06:19:00",
+    "seen_at": "2026-03-26T05:20:11.743Z",
+    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 06:19, kolodvor ZAPREŠIĆ"
   }
 ]
