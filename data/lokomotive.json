@@ -13471,5 +13471,23 @@
     "event_time": "2026-03-26T12:05:00",
     "seen_at": "2026-03-26T12:16:25.491Z",
     "raw": "Br. Vlaka 89240 formiran     26.03.26. 12:05, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-26T13:13:00",
+    "seen_at": "2026-03-26T12:20:54.168Z",
+    "raw": "Br. Vlaka 45104 dolazak      26.03.26. 13:13, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-26T13:13:00",
+    "seen_at": "2026-03-26T12:21:16.859Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
