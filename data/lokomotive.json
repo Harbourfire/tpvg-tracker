@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89152",
-    "event_time": "2026-03-23T20:51:00",
-    "seen_at": "2026-03-23T19:52:51.114Z",
-    "raw": "Br. Vlaka 89152 formiran     23.03.26. 20:51, kolodvor 72303"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89152",
-    "event_time": "2026-03-23T20:51:00",
-    "seen_at": "2026-03-23T19:53:13.805Z",
-    "raw": "Br. Vlaka 89152 formiran     23.03.26. 20:51, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44995",
-    "event_time": "2026-03-23T20:53:00",
-    "seen_at": "2026-03-23T19:56:03.165Z",
-    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 20:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89152",
-    "event_time": "2026-03-23T20:58:00",
-    "seen_at": "2026-03-23T19:59:04.863Z",
-    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 20:58, kolodvor 72303"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89152",
-    "event_time": "2026-03-23T20:58:00",
-    "seen_at": "2026-03-23T19:59:04.864Z",
-    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 20:58, kolodvor 72303"
-  },
-  {
-    "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "89152",
@@ -14056,5 +14011,23 @@
     "event_time": "2026-03-26T19:53:00",
     "seen_at": "2026-03-26T19:33:46.418Z",
     "raw": "Br. Vlaka 82328 formiran     26.03.26. 19:53, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89872",
+    "event_time": "2026-03-26T20:50:00",
+    "seen_at": "2026-03-26T19:56:05.753Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 20:50, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89872",
+    "event_time": "2026-03-26T20:50:00",
+    "seen_at": "2026-03-26T19:56:05.753Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 20:50, kolodvor KOPRIVNICA"
   }
 ]
