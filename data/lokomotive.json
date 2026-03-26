@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "76801",
-    "event_time": "2026-03-23T10:45:00",
-    "seen_at": "2026-03-23T09:46:14.807Z",
-    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:45, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-23T10:52:00",
-    "seen_at": "2026-03-23T09:53:01.259Z",
-    "raw": "Br. Vlaka 69005 odlazak      23.03.26. 10:52, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-23T10:52:00",
-    "seen_at": "2026-03-23T09:53:01.259Z",
-    "raw": "Br. Vlaka 69005 odlazak      23.03.26. 10:52, kolodvor OGULIN"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-23T10:52:00",
-    "seen_at": "2026-03-23T09:54:10.592Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -13354,5 +13318,23 @@
     "event_time": "2026-03-26T10:30:00",
     "seen_at": "2026-03-26T09:34:00.952Z",
     "raw": "Br. Vlaka 81526 odlazak      26.03.26. 10:30, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "81526",
+    "event_time": "2026-03-26T10:47:00",
+    "seen_at": "2026-03-26T09:49:30.111Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 10:47, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-23T10:52:00",
+    "seen_at": "2026-03-26T09:54:55.544Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
