@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89152",
-    "event_time": "2026-03-23T21:28:00",
-    "seen_at": "2026-03-23T20:28:23.497Z",
-    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:28, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89152",
-    "event_time": "2026-03-23T21:28:00",
-    "seen_at": "2026-03-23T20:28:23.497Z",
-    "raw": "Br. Vlaka 89152 odlazak      23.03.26. 21:28, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44995",
-    "event_time": "2026-03-23T21:26:00",
-    "seen_at": "2026-03-23T20:28:46.671Z",
-    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 21:26, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81244",
-    "event_time": "2026-03-23T20:40:00",
-    "seen_at": "2026-03-23T20:29:09.802Z",
-    "raw": "Br. Vlaka 81244 dolazak      23.03.26. 20:40, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440232",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF",
     "train_number": null,
@@ -13975,5 +13939,77 @@
     "event_time": "2026-03-26T21:06:00",
     "seen_at": "2026-03-26T20:09:30.977Z",
     "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:06, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-03-26T21:27:00",
+    "seen_at": "2026-03-26T20:28:29.090Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 21:27, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-03-26T21:27:00",
+    "seen_at": "2026-03-26T20:28:29.090Z",
+    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 21:27, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:26:00",
+    "seen_at": "2026-03-26T20:29:14.611Z",
+    "raw": "Br. Vlaka 89872 dolazak      26.03.26. 21:26, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:26:00",
+    "seen_at": "2026-03-26T20:29:14.611Z",
+    "raw": "Br. Vlaka 89872 dolazak      26.03.26. 21:26, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:29:00",
+    "seen_at": "2026-03-26T20:29:37.167Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:29, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:29:00",
+    "seen_at": "2026-03-26T20:29:37.167Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:29, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:36:00",
+    "seen_at": "2026-03-26T20:36:50.215Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:36, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "89872",
+    "event_time": "2026-03-26T21:36:00",
+    "seen_at": "2026-03-26T20:36:50.216Z",
+    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 21:36, kolodvor GRADEC"
   }
 ]
