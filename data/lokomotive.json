@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48799",
-    "event_time": "2026-03-23T09:21:00",
-    "seen_at": "2026-03-23T08:21:55.579Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 09:21, kolodvor 72303"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "75009",
-    "event_time": "2026-03-23T09:24:00",
-    "seen_at": "2026-03-23T08:25:36.112Z",
-    "raw": "Br. Vlaka 75009 odlazak      23.03.26. 09:24, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89522",
-    "event_time": "2026-03-23T09:20:00",
-    "seen_at": "2026-03-23T08:27:29.532Z",
-    "raw": "Br. Vlaka 89522 odlazak      23.03.26. 09:20, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "48799",
     "event_time": "2026-03-23T09:26:00",
@@ -13642,5 +13615,32 @@
     "event_time": "2026-03-26T09:12:00",
     "seen_at": "2026-03-26T08:21:31.958Z",
     "raw": "Br. Vlaka 70200 odlazak      26.03.26. 09:12, kolodvor ROČ"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "BUZET",
+    "train_number": null,
+    "event_time": "2026-03-26T09:20:00",
+    "seen_at": "2026-03-26T08:22:06.325Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77425 BUZET"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-26T09:25:00",
+    "seen_at": "2026-03-26T08:25:11.097Z",
+    "raw": "Br. Vlaka 45105 odlazak      26.03.26. 09:25, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "ŽUPANJA",
+    "train_number": "81992",
+    "event_time": "2026-03-26T09:26:00",
+    "seen_at": "2026-03-26T08:27:05.103Z",
+    "raw": "Br. Vlaka 81992 formiran     26.03.26. 09:26, kolodvor ŽUPANJA"
   }
 ]
