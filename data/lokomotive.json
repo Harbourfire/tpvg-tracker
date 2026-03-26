@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48799",
-    "event_time": "2026-03-23T13:49:00",
-    "seen_at": "2026-03-23T12:49:55.024Z",
-    "raw": "Br. Vlaka 48799 odlazak      23.03.26. 13:49, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "KOTORIBA",
@@ -13543,5 +13534,41 @@
     "event_time": "2026-03-26T13:42:00",
     "seen_at": "2026-03-26T12:44:58.324Z",
     "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:42, kolodvor SISAK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "83827",
+    "event_time": "2026-03-26T13:49:00",
+    "seen_at": "2026-03-26T12:51:13.601Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:49, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "83827",
+    "event_time": "2026-03-26T13:49:00",
+    "seen_at": "2026-03-26T12:51:13.601Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:49, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "89240",
+    "event_time": "2026-03-26T13:52:00",
+    "seen_at": "2026-03-26T12:54:17.061Z",
+    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:52, kolodvor GREDA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "81526",
+    "event_time": "2026-03-26T13:54:00",
+    "seen_at": "2026-03-26T12:54:39.886Z",
+    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 13:54, kolodvor SUNJA"
   }
 ]
