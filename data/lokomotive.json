@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "86102",
-    "event_time": "2026-03-23T13:41:00",
-    "seen_at": "2026-03-23T12:41:19.074Z",
-    "raw": "Br. Vlaka 86102 dolazak      23.03.26. 13:41, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -13516,5 +13507,41 @@
     "event_time": "2026-03-26T13:22:00",
     "seen_at": "2026-03-26T12:32:34.809Z",
     "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:22, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "83827",
+    "event_time": "2026-03-26T13:38:00",
+    "seen_at": "2026-03-26T12:42:42.116Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:38, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "83827",
+    "event_time": "2026-03-26T13:38:00",
+    "seen_at": "2026-03-26T12:42:42.116Z",
+    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:38, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "47562",
+    "event_time": "2026-03-26T11:01:00",
+    "seen_at": "2026-03-26T12:44:35.632Z",
+    "raw": "Br. Vlaka 47562 formiran     26.03.26. 11:01, kolodvor 71020"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89240",
+    "event_time": "2026-03-26T13:42:00",
+    "seen_at": "2026-03-26T12:44:58.324Z",
+    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:42, kolodvor SISAK"
   }
 ]
