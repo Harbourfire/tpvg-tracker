@@ -2,24 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89185",
-    "event_time": "2026-03-23T06:32:00",
-    "seen_at": "2026-03-23T05:32:35.351Z",
-    "raw": "Br. Vlaka 89185 odlazak      23.03.26. 06:32, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-14T06:34:00",
-    "seen_at": "2026-03-23T05:36:57.401Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "89185",
     "event_time": "2026-03-23T06:46:00",
@@ -13777,5 +13759,23 @@
     "event_time": "2026-03-26T06:26:00",
     "seen_at": "2026-03-26T05:28:25.122Z",
     "raw": "Br. Vlaka 89064 odlazak      26.03.26. 06:26, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89064",
+    "event_time": "2026-03-26T06:33:00",
+    "seen_at": "2026-03-26T05:33:32.896Z",
+    "raw": "Br. Vlaka 89064 dolazak      26.03.26. 06:33, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-26T06:34:00",
+    "seen_at": "2026-03-26T05:34:18.939Z",
+    "raw": "Br. Vlaka 45105 formiran     26.03.26. 06:34, kolodvor VINKOVCI"
   }
 ]
