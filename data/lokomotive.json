@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76801",
-    "event_time": "2026-03-23T10:28:00",
-    "seen_at": "2026-03-23T09:28:35.488Z",
-    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:28, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "86102",
-    "event_time": "2026-03-23T10:33:00",
-    "seen_at": "2026-03-23T09:33:21.977Z",
-    "raw": "Br. Vlaka 86102 formiran     23.03.26. 10:33, kolodvor VELIKA"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76801",
-    "event_time": "2026-03-23T10:36:00",
-    "seen_at": "2026-03-23T09:36:24.165Z",
-    "raw": "Br. Vlaka 76801 odlazak      23.03.26. 10:36, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820440232",
     "type": "Formiran",
     "station": "ZAGREB RESNIK",
@@ -13399,5 +13372,14 @@
     "event_time": "2026-03-26T10:20:00",
     "seen_at": "2026-03-26T09:25:26.315Z",
     "raw": "Br. Vlaka 81526 odlazak      26.03.26. 10:20, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "81526",
+    "event_time": "2026-03-26T10:30:00",
+    "seen_at": "2026-03-26T09:34:00.952Z",
+    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 10:30, kolodvor SIBINJ"
   }
 ]
