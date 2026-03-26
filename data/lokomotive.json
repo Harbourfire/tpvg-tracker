@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69327",
-    "event_time": "2026-03-23T23:58:00",
-    "seen_at": "2026-03-23T22:58:55.134Z",
-    "raw": "Br. Vlaka 69327 odlazak      23.03.26. 23:58, kolodvor SIBINJ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "89871",
-    "event_time": "2026-03-23T23:58:00",
-    "seen_at": "2026-03-23T22:59:40.753Z",
-    "raw": "Br. Vlaka 89871 odlazak      23.03.26. 23:58, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "77244",
-    "event_time": "2026-03-23T23:59:00",
-    "seen_at": "2026-03-23T23:00:03.807Z",
-    "raw": "Br. Vlaka 77244 formiran     23.03.26. 23:59, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45992",
-    "event_time": "2026-03-23T23:53:00",
-    "seen_at": "2026-03-23T23:00:49.682Z",
-    "raw": "Br. Vlaka 45992 dolazak      23.03.26. 23:53, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45992",
-    "event_time": "2026-03-23T23:53:00",
-    "seen_at": "2026-03-23T23:00:49.682Z",
-    "raw": "Br. Vlaka 45992 dolazak      23.03.26. 23:53, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44995",
-    "event_time": "2026-03-23T23:59:00",
-    "seen_at": "2026-03-23T23:02:21.464Z",
-    "raw": "Br. Vlaka 44995 odlazak      23.03.26. 23:59, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -14119,5 +14065,32 @@
     "event_time": "2026-03-25T23:50:00",
     "seen_at": "2026-03-26T22:56:53.653Z",
     "raw": "Br. Vlaka 47563 formiran     25.03.26. 23:50, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "82323",
+    "event_time": "2026-03-26T23:58:00",
+    "seen_at": "2026-03-26T22:59:24.939Z",
+    "raw": "Br. Vlaka 82323 odlazak      26.03.26. 23:58, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "82323",
+    "event_time": "2026-03-26T23:58:00",
+    "seen_at": "2026-03-26T22:59:24.939Z",
+    "raw": "Br. Vlaka 82323 odlazak      26.03.26. 23:58, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89188",
+    "event_time": "2026-03-27T00:03:00",
+    "seen_at": "2026-03-26T23:03:40.722Z",
+    "raw": "Br. Vlaka 89188 odlazak      27.03.26. 00:03, kolodvor OSIJEK"
   }
 ]
