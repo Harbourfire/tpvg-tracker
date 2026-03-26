@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89289",
-    "event_time": "2026-03-23T16:45:00",
-    "seen_at": "2026-03-23T15:54:59.268Z",
-    "raw": "Br. Vlaka 89289 dolazak      23.03.26. 16:45, kolodvor 72304"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-23T16:45:00",
-    "seen_at": "2026-03-23T15:55:21.870Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "LIČKO LEŠĆE",
@@ -13768,5 +13750,32 @@
     "event_time": "2026-03-26T16:50:00",
     "seen_at": "2026-03-26T15:51:31.026Z",
     "raw": "Br. Vlaka 48790 odlazak      26.03.26. 16:50, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "GREDA",
+    "train_number": "81526",
+    "event_time": "2026-03-26T16:59:00",
+    "seen_at": "2026-03-26T16:00:53.445Z",
+    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 16:59, kolodvor GREDA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48790",
+    "event_time": "2026-03-26T16:59:00",
+    "seen_at": "2026-03-26T16:01:16.168Z",
+    "raw": "Br. Vlaka 48790 odlazak      26.03.26. 16:59, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89139",
+    "event_time": "2026-03-26T17:00:00",
+    "seen_at": "2026-03-26T16:01:39.019Z",
+    "raw": "Br. Vlaka 89139 odlazak      26.03.26. 17:00, kolodvor SIBINJ"
   }
 ]
