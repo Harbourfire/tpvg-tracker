@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47944",
-    "event_time": "2026-03-23T00:55:00",
-    "seen_at": "2026-03-22T23:55:15.180Z",
-    "raw": "Br. Vlaka 47944 odlazak      23.03.26. 00:55, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "48797",
-    "event_time": "2026-03-23T00:56:00",
-    "seen_at": "2026-03-22T23:57:56.759Z",
-    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 00:56, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "48797",
-    "event_time": "2026-03-23T00:56:00",
-    "seen_at": "2026-03-22T23:57:56.759Z",
-    "raw": "Br. Vlaka 48797 odlazak      23.03.26. 00:56, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-23T00:56:00",
-    "seen_at": "2026-03-22T23:57:56.759Z",
-    "raw": "Br. Vlaka 63305 dolazak      23.03.26. 00:56, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-23T00:56:00",
-    "seen_at": "2026-03-22T23:57:56.760Z",
-    "raw": "Br. Vlaka 63305 dolazak      23.03.26. 00:56, kolodvor PLAŠKI"
-  },
-  {
     "uic": "928012230076",
     "type": "Promjena sastava",
     "station": "PLAŠKI",
@@ -13930,5 +13885,32 @@
     "event_time": "2026-03-26T00:48:00",
     "seen_at": "2026-03-25T23:49:23.311Z",
     "raw": "Br. Vlaka 48790 dolazak      26.03.26. 00:48, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45994",
+    "event_time": "2026-03-26T00:51:00",
+    "seen_at": "2026-03-25T23:52:40.554Z",
+    "raw": "Br. Vlaka 45994 odlazak      26.03.26. 00:51, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "45996",
+    "event_time": "2026-03-26T00:58:00",
+    "seen_at": "2026-03-25T23:58:25.993Z",
+    "raw": "Br. Vlaka 45996 dolazak      26.03.26. 00:58, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "45996",
+    "event_time": "2026-03-26T00:59:00",
+    "seen_at": "2026-03-25T23:59:34.862Z",
+    "raw": "Br. Vlaka 45996 odlazak      26.03.26. 00:59, kolodvor DUGO SELO"
   }
 ]
