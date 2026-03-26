@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-23T00:56:00",
-    "seen_at": "2026-03-23T00:02:42.061Z",
-    "raw": "Br. Vlaka 63305 promjena sas 23.03.26. 00:56, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-23T00:56:00",
-    "seen_at": "2026-03-23T00:02:42.061Z",
-    "raw": "Br. Vlaka 63305 promjena sas 23.03.26. 00:56, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "48797",
-    "event_time": "2026-03-23T01:04:00",
-    "seen_at": "2026-03-23T00:05:21.167Z",
-    "raw": "Br. Vlaka 48797 dolazak      23.03.26. 01:04, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "48797",
-    "event_time": "2026-03-23T01:04:00",
-    "seen_at": "2026-03-23T00:05:21.167Z",
-    "raw": "Br. Vlaka 48797 dolazak      23.03.26. 01:04, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "928012230076",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63305",
@@ -13912,5 +13876,23 @@
     "event_time": "2026-03-26T00:59:00",
     "seen_at": "2026-03-25T23:59:34.862Z",
     "raw": "Br. Vlaka 45996 odlazak      26.03.26. 00:59, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81284",
+    "event_time": "2026-03-26T01:01:00",
+    "seen_at": "2026-03-26T00:01:42.578Z",
+    "raw": "Br. Vlaka 81284 formiran     26.03.26. 01:01, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81283",
+    "event_time": "2026-03-26T01:05:00",
+    "seen_at": "2026-03-26T00:06:15.185Z",
+    "raw": "Br. Vlaka 81283 dolazak      26.03.26. 01:05, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
