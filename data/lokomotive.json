@@ -1,104 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47939",
-    "event_time": "2026-03-25T00:36:00",
-    "seen_at": "2026-03-24T23:36:28.805Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 00:36, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47939",
-    "event_time": "2026-03-25T00:36:00",
-    "seen_at": "2026-03-24T23:36:28.805Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 00:36, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89255",
-    "event_time": "2026-03-25T00:35:00",
-    "seen_at": "2026-03-24T23:37:59.496Z",
-    "raw": "Br. Vlaka 89255 odlazak      25.03.26. 00:35, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89255",
-    "event_time": "2026-03-25T00:38:00",
-    "seen_at": "2026-03-24T23:38:22.107Z",
-    "raw": "Br. Vlaka 89255 odlazak      25.03.26. 00:38, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "89720",
-    "event_time": "2026-03-24T19:55:00",
-    "seen_at": "2026-03-24T23:40:32.333Z",
-    "raw": "Br. Vlaka 89720 formiran     24.03.26. 19:55, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89255",
-    "event_time": "2026-03-25T00:41:00",
-    "seen_at": "2026-03-24T23:41:41.705Z",
-    "raw": "Br. Vlaka 89255 odlazak      25.03.26. 00:41, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47939",
-    "event_time": "2026-03-25T00:42:00",
-    "seen_at": "2026-03-24T23:42:28.223Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 00:42, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47939",
-    "event_time": "2026-03-25T00:42:00",
-    "seen_at": "2026-03-24T23:42:28.223Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 00:42, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45131",
-    "event_time": "2026-03-25T00:43:00",
-    "seen_at": "2026-03-24T23:43:37.571Z",
-    "raw": "Br. Vlaka 45131 dolazak      25.03.26. 00:43, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-25T02:15:00",
-    "seen_at": "2026-03-24T23:44:00.698Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89255",
-    "event_time": "2026-03-25T00:44:00",
-    "seen_at": "2026-03-24T23:44:23.937Z",
-    "raw": "Br. Vlaka 89255 odlazak      25.03.26. 00:44, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -11266,5 +11167,14 @@
     "event_time": "2026-03-28T00:25:00",
     "seen_at": "2026-03-27T23:32:12.434Z",
     "raw": "Br. Vlaka 63305 odlazak      28.03.26. 00:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45131",
+    "event_time": "2026-03-28T00:42:00",
+    "seen_at": "2026-03-27T23:43:37.164Z",
+    "raw": "Br. Vlaka 45131 dolazak      28.03.26. 00:42, kolodvor VINKOVCI"
   }
 ]
