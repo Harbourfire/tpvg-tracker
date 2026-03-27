@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47939",
-    "event_time": "2026-03-24T03:25:00",
-    "seen_at": "2026-03-24T02:26:31.151Z",
-    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 03:25, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "79910",
-    "event_time": "2026-03-24T03:28:00",
-    "seen_at": "2026-03-24T02:28:24.984Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 03:28, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "45992",
-    "event_time": "2026-03-24T03:26:00",
-    "seen_at": "2026-03-24T02:30:07.305Z",
-    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 03:26, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "45992",
-    "event_time": "2026-03-24T03:26:00",
-    "seen_at": "2026-03-24T02:30:07.305Z",
-    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 03:26, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89895",
-    "event_time": "2026-03-24T03:25:00",
-    "seen_at": "2026-03-24T02:30:07.306Z",
-    "raw": "Br. Vlaka 89895 odlazak      24.03.26. 03:25, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81230",
-    "event_time": "2026-03-24T03:30:00",
-    "seen_at": "2026-03-24T02:31:42.370Z",
-    "raw": "Br. Vlaka 81230 odlazak      24.03.26. 03:30, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81230",
-    "event_time": "2026-03-24T03:30:00",
-    "seen_at": "2026-03-24T02:31:42.370Z",
-    "raw": "Br. Vlaka 81230 odlazak      24.03.26. 03:30, kolodvor VRHOVINE"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -13759,5 +13696,50 @@
     "event_time": "2026-03-27T03:21:00",
     "seen_at": "2026-03-27T02:21:43.433Z",
     "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:21, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-27T03:26:00",
+    "seen_at": "2026-03-27T02:27:45.120Z",
+    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 03:26, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-27T03:26:00",
+    "seen_at": "2026-03-27T02:27:45.120Z",
+    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 03:26, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45130",
+    "event_time": "2026-03-27T01:46:00",
+    "seen_at": "2026-03-27T02:28:08.158Z",
+    "raw": "Br. Vlaka 45130 dolazak      27.03.26. 01:46, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-27T01:46:00",
+    "seen_at": "2026-03-27T02:28:31.307Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47563",
+    "event_time": "2026-03-27T03:29:00",
+    "seen_at": "2026-03-27T02:30:27.240Z",
+    "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:29, kolodvor ZAGREB KLARA"
   }
 ]
