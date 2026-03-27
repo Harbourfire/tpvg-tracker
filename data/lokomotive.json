@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89895",
-    "event_time": "2026-03-24T03:32:00",
-    "seen_at": "2026-03-24T02:34:01.066Z",
-    "raw": "Br. Vlaka 89895 odlazak      24.03.26. 03:32, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47939",
-    "event_time": "2026-03-24T03:34:00",
-    "seen_at": "2026-03-24T02:38:16.838Z",
-    "raw": "Br. Vlaka 47939 dolazak      24.03.26. 03:34, kolodvor 73164"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "45992",
-    "event_time": "2026-03-24T03:39:00",
-    "seen_at": "2026-03-24T02:39:39.200Z",
-    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 03:39, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "45992",
-    "event_time": "2026-03-24T03:39:00",
-    "seen_at": "2026-03-24T02:39:39.201Z",
-    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 03:39, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "81244",
-    "event_time": "2026-03-24T03:39:00",
-    "seen_at": "2026-03-24T02:40:02.454Z",
-    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 03:39, kolodvor OKUČANI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "79910",
-    "event_time": "2026-03-24T03:36:00",
-    "seen_at": "2026-03-24T02:40:25.815Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 03:36, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -13741,5 +13687,14 @@
     "event_time": "2026-03-27T03:29:00",
     "seen_at": "2026-03-27T02:30:27.240Z",
     "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:29, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47563",
+    "event_time": "2026-03-27T03:35:00",
+    "seen_at": "2026-03-27T02:37:14.028Z",
+    "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:35, kolodvor 72304"
   }
 ]
