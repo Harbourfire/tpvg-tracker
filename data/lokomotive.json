@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-24T14:00:00",
-    "seen_at": "2026-03-24T11:54:18.174Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -12166,5 +12157,14 @@
     "event_time": "2026-03-27T12:02:00",
     "seen_at": "2026-03-27T11:02:19.850Z",
     "raw": "Br. Vlaka 81286 formiran     27.03.26. 12:02, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82514",
+    "event_time": "2026-03-27T12:55:00",
+    "seen_at": "2026-03-27T11:57:17.329Z",
+    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 12:55, kolodvor POŽEGA"
   }
 ]
