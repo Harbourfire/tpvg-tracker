@@ -2,42 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "89113",
-    "event_time": "2026-03-24T14:04:00",
-    "seen_at": "2026-03-24T13:05:22.024Z",
-    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 14:04, kolodvor KUKAČA"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-24T14:06:00",
-    "seen_at": "2026-03-24T13:08:49.378Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "89113",
-    "event_time": "2026-03-24T14:10:00",
-    "seen_at": "2026-03-24T13:10:56.691Z",
-    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 14:10, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "48890",
-    "event_time": "2026-03-24T14:10:00",
-    "seen_at": "2026-03-24T13:12:05.243Z",
-    "raw": "Br. Vlaka 48890 odlazak      24.03.26. 14:10, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "GENERALSKI STOL",
     "train_number": "89113",
     "event_time": "2026-03-24T14:21:00",
@@ -12076,5 +12040,23 @@
     "event_time": "2026-03-27T13:46:00",
     "seen_at": "2026-03-27T12:56:45.921Z",
     "raw": "Br. Vlaka 82514 dolazak      27.03.26. 13:46, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45990",
+    "event_time": "2026-03-27T13:33:00",
+    "seen_at": "2026-03-27T13:09:12.305Z",
+    "raw": "Br. Vlaka 45990 promjena sas 27.03.26. 13:33, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82514",
+    "event_time": "2026-03-27T14:12:00",
+    "seen_at": "2026-03-27T13:13:01.492Z",
+    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 14:12, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
