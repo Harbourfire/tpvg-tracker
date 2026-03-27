@@ -1,60 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ŠKRLJEVO",
-    "train_number": null,
-    "event_time": "2026-03-24T09:48:00",
-    "seen_at": "2026-03-24T08:51:21.196Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75422 ŠKRLJEVO"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47939",
-    "event_time": "2026-03-24T09:50:00",
-    "seen_at": "2026-03-24T08:51:44.082Z",
-    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 09:50, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "ŠKRLJEVO",
-    "train_number": "79911",
-    "event_time": "2026-03-24T09:51:00",
-    "seen_at": "2026-03-24T08:51:44.083Z",
-    "raw": "Br. Vlaka 79911 formiran     24.03.26. 09:51, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "79911",
-    "event_time": "2026-03-24T09:53:00",
-    "seen_at": "2026-03-24T08:54:23.569Z",
-    "raw": "Br. Vlaka 79911 odlazak      24.03.26. 09:53, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-24T09:53:00",
-    "seen_at": "2026-03-24T08:56:29.549Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47939",
-    "event_time": "2026-03-24T09:55:00",
-    "seen_at": "2026-03-24T08:58:01.743Z",
-    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 09:55, kolodvor 72302"
-  },
-  {
-    "uic": "987890033630",
     "type": "Odlazak",
     "station": "75603",
     "train_number": "79911",
@@ -12706,5 +12652,14 @@
     "event_time": "2026-03-27T09:29:00",
     "seen_at": "2026-03-27T08:45:08.433Z",
     "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "66751",
+    "event_time": "2026-03-27T09:50:00",
+    "seen_at": "2026-03-27T08:50:25.675Z",
+    "raw": "Br. Vlaka 66751 formiran     27.03.26. 09:50, kolodvor ČAKOVEC"
   }
 ]
