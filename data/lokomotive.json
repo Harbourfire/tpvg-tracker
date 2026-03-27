@@ -1,42 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SUŠAK PEĆINE",
-    "train_number": "79913",
-    "event_time": "2026-03-24T11:11:00",
-    "seen_at": "2026-03-24T10:15:16.195Z",
-    "raw": "Br. Vlaka 79913 odlazak      24.03.26. 11:11, kolodvor SUŠAK PEĆINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81231",
-    "event_time": "2026-03-24T11:15:00",
-    "seen_at": "2026-03-24T10:17:33.879Z",
-    "raw": "Br. Vlaka 81231 odlazak      24.03.26. 11:15, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "81244",
-    "event_time": "2026-03-24T11:19:00",
-    "seen_at": "2026-03-24T10:19:38.250Z",
-    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 11:19, kolodvor SISAK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "75562",
-    "train_number": null,
-    "event_time": "2026-03-24T11:16:00",
-    "seen_at": "2026-03-24T10:22:47.130Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75562 75562"
-  },
-  {
-    "uic": "987890033630",
     "type": "Formiran",
     "station": "75562",
     "train_number": "79914",
