@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47945",
-    "event_time": "2026-03-24T21:53:00",
-    "seen_at": "2026-03-24T20:56:40.108Z",
-    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 21:53, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47945",
-    "event_time": "2026-03-24T21:53:00",
-    "seen_at": "2026-03-24T20:56:40.109Z",
-    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 21:53, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-24T22:00:00",
-    "seen_at": "2026-03-24T21:01:09.235Z",
-    "raw": "Br. Vlaka 63305 odlazak      24.03.26. 22:00, kolodvor PLAŠKI"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "BLATA",
@@ -11599,5 +11572,14 @@
     "event_time": "2026-03-28T02:15:00",
     "seen_at": "2026-03-27T20:52:05.335Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-27T21:58:00",
+    "seen_at": "2026-03-27T20:59:14.119Z",
+    "raw": "Br. Vlaka 45131 formiran     27.03.26. 21:58, kolodvor OSIJEK"
   }
 ]
