@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "79910",
-    "event_time": "2026-03-24T02:18:00",
-    "seen_at": "2026-03-24T01:19:34.928Z",
-    "raw": "Br. Vlaka 79910 formiran     24.03.26. 02:18, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "45992",
-    "event_time": "2026-03-24T02:20:00",
-    "seen_at": "2026-03-24T01:20:20.370Z",
-    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 02:20, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "45992",
-    "event_time": "2026-03-24T02:20:00",
-    "seen_at": "2026-03-24T01:20:20.370Z",
-    "raw": "Br. Vlaka 45992 odlazak      24.03.26. 02:20, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "44995",
-    "event_time": "2026-03-24T02:10:00",
-    "seen_at": "2026-03-24T01:24:42.107Z",
-    "raw": "Br. Vlaka 44995 dolazak      24.03.26. 02:10, kolodvor 72303"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13912,5 +13876,14 @@
     "event_time": "2026-03-27T02:02:00",
     "seen_at": "2026-03-27T01:03:13.584Z",
     "raw": "Br. Vlaka 63306 formiran     27.03.26. 02:02, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-03-27T02:08:00",
+    "seen_at": "2026-03-27T01:26:01.943Z",
+    "raw": "Br. Vlaka 47944 dolazak      27.03.26. 02:08, kolodvor 72303"
   }
 ]
