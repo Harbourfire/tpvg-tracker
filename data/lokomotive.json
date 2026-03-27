@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "49827",
-    "event_time": "2026-03-24T16:05:00",
-    "seen_at": "2026-03-24T15:07:17.900Z",
-    "raw": "Br. Vlaka 49827 odlazak      24.03.26. 16:05, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "89113",
-    "event_time": "2026-03-24T16:07:00",
-    "seen_at": "2026-03-24T15:08:49.877Z",
-    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 16:07, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "69177",
-    "event_time": "2026-03-24T16:07:00",
-    "seen_at": "2026-03-24T15:09:35.758Z",
-    "raw": "Br. Vlaka 69177 dolazak      24.03.26. 16:07, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "VRHOVINE",
-    "train_number": null,
-    "event_time": "2026-03-24T16:07:00",
-    "seen_at": "2026-03-24T15:09:58.489Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-03-24T13:57:00",
-    "seen_at": "2026-03-24T15:10:44.297Z",
-    "raw": "Br. Vlaka 63312 formiran     24.03.26. 13:57, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Dolazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89757",
-    "event_time": "2026-03-24T16:05:00",
-    "seen_at": "2026-03-24T15:12:07.212Z",
-    "raw": "Br. Vlaka 89757 dolazak      24.03.26. 16:05, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89757",
-    "event_time": "2026-03-24T16:13:00",
-    "seen_at": "2026-03-24T15:13:39.793Z",
-    "raw": "Br. Vlaka 89757 odlazak      24.03.26. 16:13, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-24T03:04:00",
-    "seen_at": "2026-03-24T15:14:48.401Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-24T03:04:00",
-    "seen_at": "2026-03-24T15:14:48.402Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -11950,5 +11869,14 @@
     "event_time": "2026-03-27T16:04:00",
     "seen_at": "2026-03-27T15:04:59.055Z",
     "raw": "Br. Vlaka 45583 odlazak      27.03.26. 16:04, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "45583",
+    "event_time": "2026-03-27T16:10:00",
+    "seen_at": "2026-03-27T15:10:29.404Z",
+    "raw": "Br. Vlaka 45583 odlazak      27.03.26. 16:10, kolodvor PODSUSED tvornica"
   }
 ]
