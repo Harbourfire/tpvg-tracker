@@ -2,24 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-03-24T17:50:00",
-    "seen_at": "2026-03-24T16:51:56.011Z",
-    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 17:50, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89113",
-    "event_time": "2026-03-24T17:56:00",
-    "seen_at": "2026-03-24T16:57:29.513Z",
-    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 17:56, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63310",
     "event_time": "2026-03-24T18:02:00",
@@ -11671,5 +11653,14 @@
     "event_time": "2026-03-27T17:46:00",
     "seen_at": "2026-03-27T16:46:44.512Z",
     "raw": "Br. Vlaka 89706 odlazak      27.03.26. 17:46, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89706",
+    "event_time": "2026-03-27T17:52:00",
+    "seen_at": "2026-03-27T16:58:28.629Z",
+    "raw": "Br. Vlaka 89706 dolazak      27.03.26. 17:52, kolodvor ZAGREB GL. KOL."
   }
 ]
