@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-03-24T16:17:00",
-    "seen_at": "2026-03-24T15:17:49.720Z",
-    "raw": "Br. Vlaka 63312 odlazak      24.03.26. 16:17, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47945",
-    "event_time": "2026-03-24T16:15:00",
-    "seen_at": "2026-03-24T15:18:57.550Z",
-    "raw": "Br. Vlaka 47945 formiran     24.03.26. 16:15, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47945",
-    "event_time": "2026-03-24T16:15:00",
-    "seen_at": "2026-03-24T15:18:57.551Z",
-    "raw": "Br. Vlaka 47945 formiran     24.03.26. 16:15, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89757",
-    "event_time": "2026-03-24T16:24:00",
-    "seen_at": "2026-03-24T15:24:55.753Z",
-    "raw": "Br. Vlaka 89757 odlazak      24.03.26. 16:24, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "VINKOVCI",
@@ -11878,5 +11842,23 @@
     "event_time": "2026-03-27T16:10:00",
     "seen_at": "2026-03-27T15:10:29.404Z",
     "raw": "Br. Vlaka 45583 odlazak      27.03.26. 16:10, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "45583",
+    "event_time": "2026-03-27T16:16:00",
+    "seen_at": "2026-03-27T15:17:13.237Z",
+    "raw": "Br. Vlaka 45583 dolazak      27.03.26. 16:16, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "82235",
+    "train_number": null,
+    "event_time": "2026-03-27T15:17:36.596Z",
+    "seen_at": "2026-03-27T15:17:36.596Z",
+    "raw": "Trenutna pozicija je u kolodvoru 82235 82235"
   }
 ]
