@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-24T15:55:00",
-    "seen_at": "2026-03-24T16:05:14.102Z",
-    "raw": "Br. Vlaka 63310 promjena sas 24.03.26. 15:55, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-24T12:03:00",
-    "seen_at": "2026-03-24T16:05:36.934Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-24T17:01:00",
-    "seen_at": "2026-03-24T16:05:36.934Z",
-    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 17:01, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47945",
-    "event_time": "2026-03-24T17:05:00",
-    "seen_at": "2026-03-24T16:06:00.996Z",
-    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 17:05, kolodvor 73164"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47945",
-    "event_time": "2026-03-24T17:05:00",
-    "seen_at": "2026-03-24T16:06:00.996Z",
-    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 17:05, kolodvor 73164"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "PERKOVIĆ",
-    "train_number": null,
-    "event_time": "2026-03-24T12:23:00",
-    "seen_at": "2026-03-24T16:10:33.592Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
-  },
-  {
     "uic": "927820440232",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -11797,5 +11743,14 @@
     "event_time": "2026-03-24T16:39:00",
     "seen_at": "2026-03-27T15:41:51.265Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "PERKOVIĆ",
+    "train_number": null,
+    "event_time": "2026-03-24T12:23:00",
+    "seen_at": "2026-03-27T16:11:02.437Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
   }
 ]
