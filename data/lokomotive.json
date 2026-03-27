@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89895",
-    "event_time": "2026-03-24T04:57:00",
-    "seen_at": "2026-03-24T03:58:18.574Z",
-    "raw": "Br. Vlaka 89895 odlazak      24.03.26. 04:57, kolodvor ZABOK"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Dolazak",
-    "station": "KOŠKA",
-    "train_number": "77244",
-    "event_time": "2026-03-24T04:58:00",
-    "seen_at": "2026-03-24T03:59:51.233Z",
-    "raw": "Br. Vlaka 77244 dolazak      24.03.26. 04:58, kolodvor KOŠKA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89895",
-    "event_time": "2026-03-24T05:02:00",
-    "seen_at": "2026-03-24T04:03:55.754Z",
-    "raw": "Br. Vlaka 89895 odlazak      24.03.26. 05:02, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89895",
-    "event_time": "2026-03-24T05:05:00",
-    "seen_at": "2026-03-24T04:06:18.352Z",
-    "raw": "Br. Vlaka 89895 odlazak      24.03.26. 05:05, kolodvor LUKA"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "DUGA RESA",
@@ -13435,5 +13399,14 @@
     "event_time": "2026-03-20T03:19:00",
     "seen_at": "2026-03-27T03:28:02.456Z",
     "raw": "Trenutna pozicija je u kolodvoru 75060 KARLOVAC"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "OTOK",
+    "train_number": "74100",
+    "event_time": "2026-03-27T04:58:00",
+    "seen_at": "2026-03-27T04:00:12.414Z",
+    "raw": "Br. Vlaka 74100 formiran     27.03.26. 04:58, kolodvor OTOK"
   }
 ]
