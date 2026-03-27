@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "75603",
-    "train_number": "79911",
-    "event_time": "2026-03-24T10:05:00",
-    "seen_at": "2026-03-24T09:06:42.278Z",
-    "raw": "Br. Vlaka 79911 odlazak      24.03.26. 10:05, kolodvor 75603"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47939",
-    "event_time": "2026-03-24T10:02:00",
-    "seen_at": "2026-03-24T09:07:05.340Z",
-    "raw": "Br. Vlaka 47939 dolazak      24.03.26. 10:02, kolodvor 72303"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -12661,5 +12643,23 @@
     "event_time": "2026-03-27T09:50:00",
     "seen_at": "2026-03-27T08:50:25.675Z",
     "raw": "Br. Vlaka 66751 formiran     27.03.26. 09:50, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "66751",
+    "event_time": "2026-03-27T10:03:00",
+    "seen_at": "2026-03-27T09:03:15.555Z",
+    "raw": "Br. Vlaka 66751 odlazak      27.03.26. 10:03, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "82514",
+    "event_time": "2026-03-27T10:04:00",
+    "seen_at": "2026-03-27T09:05:10.589Z",
+    "raw": "Br. Vlaka 82514 formiran     27.03.26. 10:04, kolodvor VELIKA"
   }
 ]
