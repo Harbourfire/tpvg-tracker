@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "BIZOVAC",
-    "train_number": "89456",
-    "event_time": "2026-03-24T21:41:00",
-    "seen_at": "2026-03-24T20:41:05.268Z",
-    "raw": "Br. Vlaka 89456 formiran     24.03.26. 21:41, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-24T21:41:00",
-    "seen_at": "2026-03-24T20:42:13.887Z",
-    "raw": "Br. Vlaka 63305 odlazak      24.03.26. 21:41, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -11608,5 +11590,14 @@
     "event_time": "2026-03-27T19:26:00",
     "seen_at": "2026-03-27T20:25:44.199Z",
     "raw": "Br. Vlaka 63305 formiran     27.03.26. 19:26, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89154",
+    "event_time": "2026-03-27T21:45:00",
+    "seen_at": "2026-03-27T20:45:43.480Z",
+    "raw": "Br. Vlaka 89154 formiran     27.03.26. 21:45, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
