@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "75562",
-    "train_number": "79914",
-    "event_time": "2026-03-24T10:16:00",
-    "seen_at": "2026-03-24T10:24:42.399Z",
-    "raw": "Br. Vlaka 79914 formiran     24.03.26. 10:16, kolodvor 75562"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "75562",
-    "train_number": "79914",
-    "event_time": "2026-03-24T11:27:00",
-    "seen_at": "2026-03-24T10:29:26.460Z",
-    "raw": "Br. Vlaka 79914 odlazak      24.03.26. 11:27, kolodvor 75562"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81231",
-    "event_time": "2026-03-24T11:31:00",
-    "seen_at": "2026-03-24T10:32:07.247Z",
-    "raw": "Br. Vlaka 81231 odlazak      24.03.26. 11:31, kolodvor BLATA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "GREDA",
@@ -12472,5 +12445,32 @@
     "event_time": "2026-03-27T11:12:00",
     "seen_at": "2026-03-27T10:13:08.259Z",
     "raw": "Br. Vlaka 74301 odlazak      27.03.26. 11:12, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "74301",
+    "event_time": "2026-03-27T11:25:00",
+    "seen_at": "2026-03-27T10:25:40.134Z",
+    "raw": "Br. Vlaka 74301 dolazak      27.03.26. 11:25, kolodvor POŽEGA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "POŽEGA",
+    "train_number": null,
+    "event_time": "2026-03-27T11:25:00",
+    "seen_at": "2026-03-27T10:27:35.788Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73502 POŽEGA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "82514",
+    "event_time": "2026-03-27T11:30:00",
+    "seen_at": "2026-03-27T10:30:40.689Z",
+    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 11:30, kolodvor VELIKA"
   }
 ]
