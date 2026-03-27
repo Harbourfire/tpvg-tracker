@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VUKOVAR",
-    "train_number": null,
-    "event_time": "2026-03-24T14:33:00",
-    "seen_at": "2026-03-24T13:36:05.766Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -12049,5 +12040,14 @@
     "event_time": "2026-03-27T14:23:00",
     "seen_at": "2026-03-27T13:24:56.454Z",
     "raw": "Br. Vlaka 82514 odlazak      27.03.26. 14:23, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "82514",
+    "event_time": "2026-03-27T14:41:00",
+    "seen_at": "2026-03-27T13:41:45.521Z",
+    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 14:41, kolodvor SIBINJ"
   }
 ]
