@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89113",
-    "event_time": "2026-03-24T19:09:00",
-    "seen_at": "2026-03-24T18:11:48.839Z",
-    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 19:09, kolodvor 72304"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-24T19:09:00",
-    "seen_at": "2026-03-24T18:12:12.156Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
@@ -11473,5 +11455,23 @@
     "event_time": "2026-03-27T17:25:00",
     "seen_at": "2026-03-27T17:50:32.548Z",
     "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89706",
+    "event_time": "2026-03-27T19:08:00",
+    "seen_at": "2026-03-27T18:09:53.977Z",
+    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 19:08, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89706",
+    "event_time": "2026-03-27T19:12:00",
+    "seen_at": "2026-03-27T18:13:42.154Z",
+    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 19:12, kolodvor ZAGREB ZAP. KOL."
   }
 ]
