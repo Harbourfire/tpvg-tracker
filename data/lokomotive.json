@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89871",
-    "event_time": "2026-03-24T01:01:00",
-    "seen_at": "2026-03-24T00:03:18.918Z",
-    "raw": "Br. Vlaka 89871 odlazak      24.03.26. 01:01, kolodvor 73164"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-03-24T01:11:00",
-    "seen_at": "2026-03-24T00:11:27.196Z",
-    "raw": "Br. Vlaka 81230 formiran     24.03.26. 01:11, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-03-24T01:11:00",
-    "seen_at": "2026-03-24T00:11:27.196Z",
-    "raw": "Br. Vlaka 81230 formiran     24.03.26. 01:11, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
     "type": "Dolazak",
     "station": "KOPRIVNICA GR    A",
     "train_number": "89871",
@@ -13984,5 +13957,23 @@
     "event_time": "2026-03-27T01:02:00",
     "seen_at": "2026-03-27T00:02:30.523Z",
     "raw": "Br. Vlaka 45130 odlazak      27.03.26. 01:02, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-27T01:04:00",
+    "seen_at": "2026-03-27T00:04:38.395Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-27T01:04:00",
+    "seen_at": "2026-03-27T00:04:38.396Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
