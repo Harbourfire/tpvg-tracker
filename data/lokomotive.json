@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VUKOVAR",
-    "train_number": "89751",
-    "event_time": "2026-03-24T15:12:00",
-    "seen_at": "2026-03-24T14:17:59.846Z",
-    "raw": "Br. Vlaka 89751 odlazak      24.03.26. 15:12, kolodvor VUKOVAR"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89757",
-    "event_time": "2026-03-24T15:17:00",
-    "seen_at": "2026-03-24T14:17:59.848Z",
-    "raw": "Br. Vlaka 89757 odlazak      24.03.26. 15:17, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-24T15:17:00",
-    "seen_at": "2026-03-24T14:17:59.849Z",
-    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 15:17, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620171",
     "type": "Dolazak",
     "station": "VUKOVAR-BOROVO NAS.",
     "train_number": "89751",
@@ -12067,5 +12040,14 @@
     "event_time": "2026-03-27T15:06:00",
     "seen_at": "2026-03-27T14:09:14.231Z",
     "raw": "Br. Vlaka 81286 dolazak      27.03.26. 15:06, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-27T14:30:00",
+    "seen_at": "2026-03-27T14:11:48.056Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
