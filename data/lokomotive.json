@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81244",
-    "event_time": "2026-03-24T09:47:00",
-    "seen_at": "2026-03-24T09:26:10.750Z",
-    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 09:47, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "75601",
-    "train_number": "79911",
-    "event_time": "2026-03-24T10:20:00",
-    "seen_at": "2026-03-24T09:26:33.339Z",
-    "raw": "Br. Vlaka 79911 dolazak      24.03.26. 10:20, kolodvor 75601"
-  },
-  {
     "uic": "987890033630",
     "type": "Rasformiran",
     "station": "75601",
@@ -12670,5 +12652,14 @@
     "event_time": "2026-03-27T10:13:00",
     "seen_at": "2026-03-27T09:14:33.382Z",
     "raw": "Br. Vlaka 74301 odlazak      27.03.26. 10:13, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-27T10:16:00",
+    "seen_at": "2026-03-27T09:18:37.469Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
