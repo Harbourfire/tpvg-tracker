@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VUKOVAR",
-    "train_number": "89751",
-    "event_time": "2026-03-24T09:55:00",
-    "seen_at": "2026-03-24T13:51:59.516Z",
-    "raw": "Br. Vlaka 89751 formiran     24.03.26. 09:55, kolodvor VUKOVAR"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-24T14:56:00",
-    "seen_at": "2026-03-24T13:57:09.165Z",
-    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 14:56, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620171",
     "type": "Odlazak",
     "station": "VUKOVAR",
     "train_number": "89751",
@@ -12031,5 +12013,23 @@
     "event_time": "2026-03-27T14:41:00",
     "seen_at": "2026-03-27T13:41:45.521Z",
     "raw": "Br. Vlaka 82514 odlazak      27.03.26. 14:41, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "81286",
+    "event_time": "2026-03-27T14:53:00",
+    "seen_at": "2026-03-27T13:54:45.828Z",
+    "raw": "Br. Vlaka 81286 odlazak      27.03.26. 14:53, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "45583",
+    "event_time": "2026-03-27T14:57:00",
+    "seen_at": "2026-03-27T13:58:12.544Z",
+    "raw": "Br. Vlaka 45583 odlazak      27.03.26. 14:57, kolodvor SAVSKI MAROF"
   }
 ]
