@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "44994",
-    "event_time": "2026-03-24T10:40:00",
-    "seen_at": "2026-03-24T09:40:30.410Z",
-    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 10:40, kolodvor 72304"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "75603",
-    "train_number": "79912",
-    "event_time": "2026-03-24T10:42:00",
-    "seen_at": "2026-03-24T09:42:38.652Z",
-    "raw": "Br. Vlaka 79912 odlazak      24.03.26. 10:42, kolodvor 75603"
-  },
-  {
     "uic": "987890033630",
     "type": "Dolazak",
     "station": "ŠKRLJEVO",
@@ -12625,5 +12607,14 @@
     "event_time": "2026-03-27T10:12:00",
     "seen_at": "2026-03-27T09:33:20.964Z",
     "raw": "Br. Vlaka 45583 dolazak      27.03.26. 10:12, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "82017",
+    "event_time": "2026-03-27T10:37:00",
+    "seen_at": "2026-03-27T09:38:06.661Z",
+    "raw": "Br. Vlaka 82017 formiran     27.03.26. 10:37, kolodvor ZAPREŠIĆ"
   }
 ]
