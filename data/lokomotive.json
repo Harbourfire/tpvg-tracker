@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "47945",
-    "event_time": "2026-03-24T17:46:00",
-    "seen_at": "2026-03-24T16:46:37.069Z",
-    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 17:46, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "47945",
-    "event_time": "2026-03-24T17:46:00",
-    "seen_at": "2026-03-24T16:46:37.069Z",
-    "raw": "Br. Vlaka 47945 dolazak      24.03.26. 17:46, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-24T17:39:00",
-    "seen_at": "2026-03-24T16:48:08.875Z",
-    "raw": "Br. Vlaka 63310 odlazak      24.03.26. 17:39, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "BLATA",
@@ -11689,5 +11662,14 @@
     "event_time": "2026-03-27T17:40:00",
     "seen_at": "2026-03-27T16:40:48.611Z",
     "raw": "Br. Vlaka 89706 odlazak      27.03.26. 17:40, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "89706",
+    "event_time": "2026-03-27T17:46:00",
+    "seen_at": "2026-03-27T16:46:44.512Z",
+    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 17:46, kolodvor ZAGREB BORONGAJ"
   }
 ]
