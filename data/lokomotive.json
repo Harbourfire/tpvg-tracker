@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-24T07:50:00",
-    "seen_at": "2026-03-24T06:53:20.780Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48793",
-    "event_time": "2026-03-23T14:39:00",
-    "seen_at": "2026-03-24T06:54:30.591Z",
-    "raw": "Br. Vlaka 48793 formiran     23.03.26. 14:39, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48793",
-    "event_time": "2026-03-23T14:39:00",
-    "seen_at": "2026-03-24T06:54:53.433Z",
-    "raw": "Br. Vlaka 48793 formiran     23.03.26. 14:39, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "BROD MORAVICE",
-    "train_number": "79910",
-    "event_time": "2026-03-24T07:55:00",
-    "seen_at": "2026-03-24T06:55:38.902Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 07:55, kolodvor BROD MORAVICE"
-  },
-  {
     "uic": "987891113316",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -12967,5 +12931,14 @@
     "event_time": "2026-03-24T07:36:00",
     "seen_at": "2026-03-27T06:40:02.365Z",
     "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-03-27T07:53:00",
+    "seen_at": "2026-03-27T06:54:34.189Z",
+    "raw": "Br. Vlaka 74301 formiran     27.03.26. 07:53, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
