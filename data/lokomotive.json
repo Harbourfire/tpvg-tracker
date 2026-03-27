@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Dolazak",
-    "station": "SIBINJ",
-    "train_number": "76511",
-    "event_time": "2026-03-24T13:23:00",
-    "seen_at": "2026-03-24T12:24:04.172Z",
-    "raw": "Br. Vlaka 76511 dolazak      24.03.26. 13:23, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820620171",
     "type": "Promjena sastava",
     "station": "VINKOVCI",
@@ -12103,5 +12094,14 @@
     "event_time": "2026-03-27T13:05:00",
     "seen_at": "2026-03-27T12:07:26.314Z",
     "raw": "Br. Vlaka 82514 odlazak      27.03.26. 13:05, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "82514",
+    "event_time": "2026-03-27T13:16:00",
+    "seen_at": "2026-03-27T12:18:40.359Z",
+    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 13:16, kolodvor PLETERNICA"
   }
 ]
