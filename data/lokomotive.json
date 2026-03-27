@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "75601",
-    "train_number": null,
-    "event_time": "2026-03-24T10:20:00",
-    "seen_at": "2026-03-24T09:29:11.888Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75601 75601"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "75601",
-    "train_number": "79912",
-    "event_time": "2026-03-24T08:53:00",
-    "seen_at": "2026-03-24T09:29:34.759Z",
-    "raw": "Br. Vlaka 79912 formiran     24.03.26. 08:53, kolodvor 75601"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81244",
-    "event_time": "2026-03-24T10:22:00",
-    "seen_at": "2026-03-24T09:33:36.693Z",
-    "raw": "Br. Vlaka 81244 dolazak      24.03.26. 10:22, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "81244",
-    "event_time": "2026-03-24T10:32:00",
-    "seen_at": "2026-03-24T09:33:59.601Z",
-    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 10:32, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "44994",
-    "event_time": "2026-03-24T10:33:00",
-    "seen_at": "2026-03-24T09:33:59.601Z",
-    "raw": "Br. Vlaka 44994 odlazak      24.03.26. 10:33, kolodvor 72303"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "75601",
-    "train_number": "79912",
-    "event_time": "2026-03-24T10:32:00",
-    "seen_at": "2026-03-24T09:35:32.634Z",
-    "raw": "Br. Vlaka 79912 odlazak      24.03.26. 10:32, kolodvor 75601"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -12661,5 +12607,23 @@
     "event_time": "2026-03-27T10:16:00",
     "seen_at": "2026-03-27T09:18:37.469Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "45583",
+    "event_time": "2026-03-27T10:08:00",
+    "seen_at": "2026-03-27T09:32:58.238Z",
+    "raw": "Br. Vlaka 45583 odlazak      27.03.26. 10:08, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "45583",
+    "event_time": "2026-03-27T10:12:00",
+    "seen_at": "2026-03-27T09:33:20.964Z",
+    "raw": "Br. Vlaka 45583 dolazak      27.03.26. 10:12, kolodvor SAVSKI MAROF"
   }
 ]
