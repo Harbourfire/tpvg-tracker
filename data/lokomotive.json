@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "77247",
-    "event_time": "2026-03-24T08:01:00",
-    "seen_at": "2026-03-24T07:02:06.573Z",
-    "raw": "Br. Vlaka 77247 formiran     24.03.26. 08:01, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SKRAD",
-    "train_number": "79910",
-    "event_time": "2026-03-24T08:04:00",
-    "seen_at": "2026-03-24T07:04:57.798Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 08:04, kolodvor SKRAD"
-  },
-  {
     "uic": "997894245619",
     "type": "Rasformiran",
     "station": "RAŽINE",
@@ -12940,5 +12922,32 @@
     "event_time": "2026-03-27T07:53:00",
     "seen_at": "2026-03-27T06:54:34.189Z",
     "raw": "Br. Vlaka 74301 formiran     27.03.26. 07:53, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "81232",
+    "event_time": "2026-03-27T07:59:00",
+    "seen_at": "2026-03-27T07:01:20.518Z",
+    "raw": "Br. Vlaka 81232 dolazak      27.03.26. 07:59, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-27T08:03:00",
+    "seen_at": "2026-03-27T07:06:16.190Z",
+    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 08:03, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-27T08:03:00",
+    "seen_at": "2026-03-27T07:06:16.190Z",
+    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 08:03, kolodvor JOSIPDOL"
   }
 ]
