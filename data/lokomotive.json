@@ -11536,5 +11536,32 @@
     "event_time": "2026-03-27T20:48:00",
     "seen_at": "2026-03-27T19:48:20.917Z",
     "raw": "Br. Vlaka 82233 odlazak      27.03.26. 20:48, kolodvor 72304"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-03-27T20:56:00",
+    "seen_at": "2026-03-27T19:58:12.177Z",
+    "raw": "Br. Vlaka 45131 formiran     27.03.26. 20:56, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "82233",
+    "event_time": "2026-03-27T20:54:00",
+    "seen_at": "2026-03-27T19:58:35.360Z",
+    "raw": "Br. Vlaka 82233 dolazak      27.03.26. 20:54, kolodvor 72303"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-27T20:54:00",
+    "seen_at": "2026-03-27T19:58:58.605Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
