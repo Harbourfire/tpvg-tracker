@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "47945",
-    "event_time": "2026-03-24T17:38:00",
-    "seen_at": "2026-03-24T16:38:47.954Z",
-    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 17:38, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "47945",
-    "event_time": "2026-03-24T17:38:00",
-    "seen_at": "2026-03-24T16:38:47.954Z",
-    "raw": "Br. Vlaka 47945 odlazak      24.03.26. 17:38, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89113",
-    "event_time": "2026-03-24T16:19:00",
-    "seen_at": "2026-03-24T16:41:05.963Z",
-    "raw": "Br. Vlaka 89113 dolazak      24.03.26. 16:19, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89113",
-    "event_time": "2026-03-24T17:40:00",
-    "seen_at": "2026-03-24T16:41:28.691Z",
-    "raw": "Br. Vlaka 89113 odlazak      24.03.26. 17:40, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "LEPAVINA",
     "train_number": "47945",
@@ -11716,5 +11680,14 @@
     "event_time": "2026-03-24T12:23:00",
     "seen_at": "2026-03-27T16:11:02.437Z",
     "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89706",
+    "event_time": "2026-03-27T17:40:00",
+    "seen_at": "2026-03-27T16:40:48.611Z",
+    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 17:40, kolodvor ZAGREB RESNIK"
   }
 ]
