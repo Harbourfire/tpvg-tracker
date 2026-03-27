@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81244",
-    "event_time": "2026-03-24T01:50:00",
-    "seen_at": "2026-03-24T00:51:16.348Z",
-    "raw": "Br. Vlaka 81244 odlazak      24.03.26. 01:50, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44995",
-    "event_time": "2026-03-24T01:50:00",
-    "seen_at": "2026-03-24T00:53:09.735Z",
-    "raw": "Br. Vlaka 44995 odlazak      24.03.26. 01:50, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -13957,5 +13939,14 @@
     "event_time": "2026-03-27T01:47:00",
     "seen_at": "2026-03-27T00:47:58.052Z",
     "raw": "Br. Vlaka 47944 odlazak      27.03.26. 01:47, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47944",
+    "event_time": "2026-03-27T01:54:00",
+    "seen_at": "2026-03-27T00:55:03.305Z",
+    "raw": "Br. Vlaka 47944 odlazak      27.03.26. 01:54, kolodvor ZAGREB KLARA"
   }
 ]
