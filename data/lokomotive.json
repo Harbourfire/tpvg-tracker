@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "44994",
-    "event_time": "2026-03-24T08:44:00",
-    "seen_at": "2026-03-24T07:44:54.191Z",
-    "raw": "Br. Vlaka 44994 formiran     24.03.26. 08:44, kolodvor 72303"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "FUŽINE",
-    "train_number": "79910",
-    "event_time": "2026-03-24T08:47:00",
-    "seen_at": "2026-03-24T07:48:00.974Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 08:47, kolodvor FUŽINE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69852",
-    "event_time": "2026-03-24T08:50:00",
-    "seen_at": "2026-03-24T07:52:51.903Z",
-    "raw": "Br. Vlaka 69852 odlazak      24.03.26. 08:50, kolodvor DALJ"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "DRIVENIK",
@@ -12841,5 +12814,23 @@
     "event_time": "2026-03-27T08:03:00",
     "seen_at": "2026-03-27T07:06:16.190Z",
     "raw": "Br. Vlaka 63306 odlazak      27.03.26. 08:03, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66854",
+    "event_time": "2026-03-27T08:45:00",
+    "seen_at": "2026-03-27T07:47:51.583Z",
+    "raw": "Br. Vlaka 66854 formiran     27.03.26. 08:45, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "81232",
+    "event_time": "2026-03-27T08:50:00",
+    "seen_at": "2026-03-27T07:52:30.077Z",
+    "raw": "Br. Vlaka 81232 odlazak      27.03.26. 08:50, kolodvor PLETERNICA"
   }
 ]
