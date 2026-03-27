@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-24T21:45:00",
-    "seen_at": "2026-03-24T20:48:16.335Z",
-    "raw": "Br. Vlaka 63305 odlazak      24.03.26. 21:45, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -11599,5 +11590,14 @@
     "event_time": "2026-03-27T21:45:00",
     "seen_at": "2026-03-27T20:45:43.480Z",
     "raw": "Br. Vlaka 89154 formiran     27.03.26. 21:45, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-28T02:15:00",
+    "seen_at": "2026-03-27T20:52:05.335Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
