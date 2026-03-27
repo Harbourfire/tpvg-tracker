@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987821320346",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89757",
-    "event_time": "2026-03-24T09:43:00",
-    "seen_at": "2026-03-24T08:44:20.949Z",
-    "raw": "Br. Vlaka 89757 formiran     24.03.26. 09:43, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47939",
-    "event_time": "2026-03-24T09:44:00",
-    "seen_at": "2026-03-24T08:44:43.720Z",
-    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 09:44, kolodvor SESVETE"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "79910",
-    "event_time": "2026-03-24T09:48:00",
-    "seen_at": "2026-03-24T08:48:42.042Z",
-    "raw": "Br. Vlaka 79910 dolazak      24.03.26. 09:48, kolodvor ŠKRLJEVO"
-  },
-  {
     "uic": "987890033630",
     "type": "Rasformiran",
     "station": "ŠKRLJEVO",
@@ -12715,5 +12688,23 @@
     "event_time": "2026-03-27T09:17:00",
     "seen_at": "2026-03-27T08:18:43.690Z",
     "raw": "Br. Vlaka 45583 formiran     27.03.26. 09:17, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "81232",
+    "event_time": "2026-03-27T09:29:00",
+    "seen_at": "2026-03-27T08:44:22.968Z",
+    "raw": "Br. Vlaka 81232 dolazak      27.03.26. 09:29, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-03-27T09:29:00",
+    "seen_at": "2026-03-27T08:45:08.433Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
   }
 ]
