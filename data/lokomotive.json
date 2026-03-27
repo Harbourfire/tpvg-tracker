@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-24T07:12:00",
-    "seen_at": "2026-03-24T06:12:32.723Z",
-    "raw": "Br. Vlaka 69005 dolazak      24.03.26. 07:12, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-24T07:12:00",
-    "seen_at": "2026-03-24T06:12:32.723Z",
-    "raw": "Br. Vlaka 69005 dolazak      24.03.26. 07:12, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-24T07:12:00",
-    "seen_at": "2026-03-24T06:12:55.692Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-24T07:12:00",
-    "seen_at": "2026-03-24T06:12:55.692Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -13093,5 +13057,41 @@
     "event_time": "2026-03-27T07:00:00",
     "seen_at": "2026-03-27T06:03:47.593Z",
     "raw": "Br. Vlaka 66853 odlazak      27.03.26. 07:00, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-26T23:48:00",
+    "seen_at": "2026-03-27T06:10:27.271Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-27T07:24:00",
+    "seen_at": "2026-03-27T06:10:50.368Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-27T07:09:00",
+    "seen_at": "2026-03-27T06:12:44.791Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "74100",
+    "event_time": "2026-03-27T07:15:00",
+    "seen_at": "2026-03-27T06:18:04.593Z",
+    "raw": "Br. Vlaka 74100 odlazak      27.03.26. 07:15, kolodvor OTOK"
   }
 ]
