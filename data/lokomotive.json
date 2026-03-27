@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "79910",
-    "event_time": "2026-03-24T05:05:00",
-    "seen_at": "2026-03-24T04:08:57.930Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 05:05, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47939",
-    "event_time": "2026-03-24T05:08:00",
-    "seen_at": "2026-03-24T04:09:20.695Z",
-    "raw": "Br. Vlaka 47939 odlazak      24.03.26. 05:08, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89895",
-    "event_time": "2026-03-24T05:12:00",
-    "seen_at": "2026-03-24T04:13:19.016Z",
-    "raw": "Br. Vlaka 89895 odlazak      24.03.26. 05:12, kolodvor NOVI DVORI"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -13408,5 +13381,14 @@
     "event_time": "2026-03-27T04:58:00",
     "seen_at": "2026-03-27T04:00:12.414Z",
     "raw": "Br. Vlaka 74100 formiran     27.03.26. 04:58, kolodvor OTOK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76510",
+    "event_time": "2026-03-27T05:11:00",
+    "seen_at": "2026-03-27T04:12:12.965Z",
+    "raw": "Br. Vlaka 76510 formiran     27.03.26. 05:11, kolodvor SLAVONSKI BROD"
   }
 ]
