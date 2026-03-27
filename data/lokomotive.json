@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "69852",
-    "event_time": "2026-03-24T07:29:00",
-    "seen_at": "2026-03-24T06:29:57.746Z",
-    "raw": "Br. Vlaka 69852 formiran     24.03.26. 07:29, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "GOMIRJE",
-    "train_number": "79910",
-    "event_time": "2026-03-24T07:29:00",
-    "seen_at": "2026-03-24T06:31:54.689Z",
-    "raw": "Br. Vlaka 79910 odlazak      24.03.26. 07:29, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "49835",
-    "event_time": "2026-03-24T07:32:00",
-    "seen_at": "2026-03-24T06:32:41.186Z",
-    "raw": "Br. Vlaka 49835 odlazak      24.03.26. 07:32, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-03-24T07:35:00",
-    "seen_at": "2026-03-24T06:35:13.149Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76511",
-    "event_time": "2026-03-24T07:33:00",
-    "seen_at": "2026-03-24T06:35:40.375Z",
-    "raw": "Br. Vlaka 76511 formiran     24.03.26. 07:33, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "VRBOVSKO",
@@ -13039,5 +12994,23 @@
     "event_time": "2026-03-27T07:15:00",
     "seen_at": "2026-03-27T06:18:04.593Z",
     "raw": "Br. Vlaka 74100 odlazak      27.03.26. 07:15, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81232",
+    "event_time": "2026-03-27T07:30:00",
+    "seen_at": "2026-03-27T06:31:05.419Z",
+    "raw": "Br. Vlaka 81232 odlazak      27.03.26. 07:30, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "46657",
+    "event_time": "2026-03-27T07:32:00",
+    "seen_at": "2026-03-27T06:32:36.017Z",
+    "raw": "Br. Vlaka 46657 formiran     27.03.26. 07:32, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
