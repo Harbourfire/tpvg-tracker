@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "SLATINA",
-    "train_number": null,
-    "event_time": "2026-03-24T06:51:00",
-    "seen_at": "2026-03-24T05:52:26.680Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "GOMIRJE",
-    "train_number": "79910",
-    "event_time": "2026-03-24T06:53:00",
-    "seen_at": "2026-03-24T05:56:32.373Z",
-    "raw": "Br. Vlaka 79910 dolazak      24.03.26. 06:53, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-24T06:54:00",
-    "seen_at": "2026-03-24T05:59:13.227Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "997894853412",
-    "type": "Formiran",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-03-24T06:54:00",
-    "seen_at": "2026-03-24T05:59:58.554Z",
-    "raw": "Br. Vlaka 74101 formiran     24.03.26. 06:54, kolodvor OTOK"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -13129,5 +13093,23 @@
     "event_time": "2026-03-27T06:40:00",
     "seen_at": "2026-03-27T05:42:59.521Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "81232",
+    "event_time": "2026-03-27T06:52:00",
+    "seen_at": "2026-03-27T05:52:51.636Z",
+    "raw": "Br. Vlaka 81232 odlazak      27.03.26. 06:52, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-03-27T06:58:00",
+    "seen_at": "2026-03-27T05:59:19.399Z",
+    "raw": "Br. Vlaka 66853 formiran     27.03.26. 06:58, kolodvor OSIJEK"
   }
 ]
