@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "89113",
-    "event_time": "2026-03-24T12:58:00",
-    "seen_at": "2026-03-24T11:58:31.123Z",
-    "raw": "Br. Vlaka 89113 formiran     24.03.26. 12:58, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76511",
-    "event_time": "2026-03-24T12:58:00",
-    "seen_at": "2026-03-24T11:59:17.309Z",
-    "raw": "Br. Vlaka 76511 odlazak      24.03.26. 12:58, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "69484",
-    "event_time": "2026-03-24T13:05:00",
-    "seen_at": "2026-03-24T12:06:02.997Z",
-    "raw": "Br. Vlaka 69484 odlazak      24.03.26. 13:05, kolodvor JANKOVCI"
-  },
-  {
     "uic": "987891162057",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -12166,5 +12139,14 @@
     "event_time": "2026-03-27T12:55:00",
     "seen_at": "2026-03-27T11:57:17.329Z",
     "raw": "Br. Vlaka 82514 odlazak      27.03.26. 12:55, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82514",
+    "event_time": "2026-03-27T13:05:00",
+    "seen_at": "2026-03-27T12:07:26.314Z",
+    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 13:05, kolodvor BLACKO JAKŠIĆ"
   }
 ]
