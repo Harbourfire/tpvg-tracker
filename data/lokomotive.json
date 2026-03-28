@@ -1,95 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "89723",
-    "event_time": "2026-03-25T13:06:00",
-    "seen_at": "2026-03-25T12:07:20.189Z",
-    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 13:06, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "82223",
-    "event_time": "2026-03-25T13:04:00",
-    "seen_at": "2026-03-25T12:07:20.190Z",
-    "raw": "Br. Vlaka 82223 odlazak      25.03.26. 13:04, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZALESINA",
-    "train_number": "79931",
-    "event_time": "2026-03-25T13:08:00",
-    "seen_at": "2026-03-25T12:08:53.230Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:08, kolodvor ZALESINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-25T13:08:00",
-    "seen_at": "2026-03-25T12:09:16.273Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82210",
-    "event_time": "2026-03-25T13:12:00",
-    "seen_at": "2026-03-25T12:13:09.633Z",
-    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 13:12, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "81283",
-    "event_time": "2026-03-25T13:12:00",
-    "seen_at": "2026-03-25T12:13:32.991Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:12, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47939",
-    "event_time": "2026-03-25T00:55:00",
-    "seen_at": "2026-03-25T12:14:19.209Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 00:55, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47939",
-    "event_time": "2026-03-25T00:55:00",
-    "seen_at": "2026-03-25T12:14:19.209Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 00:55, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "45131",
-    "event_time": "2026-03-25T13:14:00",
-    "seen_at": "2026-03-25T12:15:05.510Z",
-    "raw": "Br. Vlaka 45131 odlazak      25.03.26. 13:14, kolodvor KOPANICA-BERAVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SKRAD",
-    "train_number": "79931",
-    "event_time": "2026-03-25T13:15:00",
-    "seen_at": "2026-03-25T12:15:28.760Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:15, kolodvor SKRAD"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "BUZET granica",
@@ -10447,5 +10357,32 @@
     "event_time": "2026-03-28T13:04:00",
     "seen_at": "2026-03-28T12:05:13.884Z",
     "raw": "Br. Vlaka 45131 odlazak      28.03.26. 13:04, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81974",
+    "event_time": "2026-03-28T13:12:00",
+    "seen_at": "2026-03-28T12:13:08.071Z",
+    "raw": "Br. Vlaka 81974 formiran     28.03.26. 13:12, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "45131",
+    "event_time": "2026-03-28T13:15:00",
+    "seen_at": "2026-03-28T12:16:34.568Z",
+    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 13:15, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "82017",
+    "event_time": "2026-03-28T13:16:00",
+    "seen_at": "2026-03-28T12:16:34.569Z",
+    "raw": "Br. Vlaka 82017 dolazak      28.03.26. 13:16, kolodvor NOVSKA"
   }
 ]
