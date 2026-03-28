@@ -1,68 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "DELNICE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T13:01:00",
-    "seen_at": "2026-03-25T12:02:01.322Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:01, kolodvor DELNICE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81283",
-    "event_time": "2026-03-25T13:02:00",
-    "seen_at": "2026-03-25T12:03:37.958Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:02, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-03-25T12:46:00",
-    "seen_at": "2026-03-25T12:04:24.311Z",
-    "raw": "Br. Vlaka 47944 odlazak      25.03.26. 12:46, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "45131",
-    "event_time": "2026-03-25T13:02:00",
-    "seen_at": "2026-03-25T12:04:47.508Z",
-    "raw": "Br. Vlaka 45131 odlazak      25.03.26. 13:02, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47944",
-    "event_time": "2026-03-25T12:50:00",
-    "seen_at": "2026-03-25T12:04:47.509Z",
-    "raw": "Br. Vlaka 47944 dolazak      25.03.26. 12:50, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82210",
-    "event_time": "2026-03-25T13:03:00",
-    "seen_at": "2026-03-25T12:05:10.784Z",
-    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 13:03, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-03-25T12:50:00",
-    "seen_at": "2026-03-25T12:05:10.785Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ĐURĐENOVAC",
@@ -10501,5 +10438,14 @@
     "event_time": "2026-03-28T12:55:00",
     "seen_at": "2026-03-28T11:57:04.287Z",
     "raw": "Br. Vlaka 82017 odlazak      28.03.26. 12:55, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "45131",
+    "event_time": "2026-03-28T13:04:00",
+    "seen_at": "2026-03-28T12:05:13.884Z",
+    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 13:04, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
