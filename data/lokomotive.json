@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SIBINJ",
-    "train_number": null,
-    "event_time": "2026-03-25T07:43:00",
-    "seen_at": "2026-03-25T06:49:30.700Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44994",
-    "event_time": "2026-03-25T07:53:00",
-    "seen_at": "2026-03-25T06:55:11.279Z",
-    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 07:53, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "PLETERNICA",
@@ -11383,5 +11365,14 @@
     "event_time": "2026-03-28T07:42:00",
     "seen_at": "2026-03-28T06:45:13.928Z",
     "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-03-28T07:53:00",
+    "seen_at": "2026-03-28T06:53:51.219Z",
+    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 07:53, kolodvor SLAVONSKI BROD"
   }
 ]
