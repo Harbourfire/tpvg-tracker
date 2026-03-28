@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82225",
-    "event_time": "2026-03-25T08:33:00",
-    "seen_at": "2026-03-25T07:34:31.402Z",
-    "raw": "Br. Vlaka 82225 formiran     25.03.26. 08:33, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "76505",
-    "event_time": "2026-03-25T08:31:00",
-    "seen_at": "2026-03-25T07:37:13.222Z",
-    "raw": "Br. Vlaka 76505 formiran     25.03.26. 08:31, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PITOMAČA",
-    "train_number": "81981",
-    "event_time": "2026-03-25T08:38:00",
-    "seen_at": "2026-03-25T07:40:52.702Z",
-    "raw": "Br. Vlaka 81981 odlazak      25.03.26. 08:38, kolodvor PITOMAČA"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "76925",
-    "event_time": "2026-03-25T08:40:00",
-    "seen_at": "2026-03-25T07:41:16.408Z",
-    "raw": "Br. Vlaka 76925 odlazak      25.03.26. 08:40, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "OPATIJA-MATULJI",
@@ -11338,5 +11302,32 @@
     "event_time": "2026-03-28T08:30:00",
     "seen_at": "2026-03-28T07:31:12.002Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "69326",
+    "event_time": "2026-03-28T08:38:00",
+    "seen_at": "2026-03-28T07:39:19.341Z",
+    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 08:38, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "VELIKA GORICA",
+    "train_number": "82017",
+    "event_time": "2026-03-28T08:35:00",
+    "seen_at": "2026-03-28T07:40:28.864Z",
+    "raw": "Br. Vlaka 82017 dolazak      28.03.26. 08:35, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "82017",
+    "event_time": "2026-03-28T08:38:00",
+    "seen_at": "2026-03-28T07:42:00.099Z",
+    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:38, kolodvor VELIKA GORICA"
   }
 ]
