@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89723",
-    "event_time": "2026-03-25T17:52:00",
-    "seen_at": "2026-03-25T16:53:15.589Z",
-    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 17:52, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89723",
-    "event_time": "2026-03-25T17:56:00",
-    "seen_at": "2026-03-25T16:57:04.230Z",
-    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 17:56, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-03-25T17:57:00",
-    "seen_at": "2026-03-25T16:59:01.285Z",
-    "raw": "Br. Vlaka 63312 odlazak      25.03.26. 17:57, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "69615",
-    "event_time": "2026-03-25T18:00:00",
-    "seen_at": "2026-03-25T17:00:34.547Z",
-    "raw": "Br. Vlaka 69615 odlazak      25.03.26. 18:00, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "79931",
-    "event_time": "2026-03-25T17:53:00",
-    "seen_at": "2026-03-25T17:00:34.549Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 17:53, kolodvor DUGA RESA"
-  },
-  {
     "uic": "987890033630",
     "type": "Dolazak",
     "station": "MRZLO POLJE",
@@ -9412,5 +9367,23 @@
     "event_time": "2026-03-28T17:46:00",
     "seen_at": "2026-03-28T16:48:20.304Z",
     "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:46, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47938",
+    "event_time": "2026-03-28T17:56:00",
+    "seen_at": "2026-03-28T16:57:11.682Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:56, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47938",
+    "event_time": "2026-03-28T17:56:00",
+    "seen_at": "2026-03-28T16:57:11.682Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:56, kolodvor ROČ"
   }
 ]
