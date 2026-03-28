@@ -2,42 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-25T22:11:00",
-    "seen_at": "2026-03-25T21:11:38.441Z",
-    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 22:11, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-25T22:11:00",
-    "seen_at": "2026-03-25T21:11:38.441Z",
-    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 22:11, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "KOŠKA",
-    "train_number": "89734",
-    "event_time": "2026-03-25T22:15:00",
-    "seen_at": "2026-03-25T21:15:55.027Z",
-    "raw": "Br. Vlaka 89734 dolazak      25.03.26. 22:15, kolodvor KOŠKA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "KOŠKA",
-    "train_number": null,
-    "event_time": "2026-03-25T22:15:00",
-    "seen_at": "2026-03-25T21:17:05.211Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71906 KOŠKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "63305",
     "event_time": "2026-03-25T22:21:00",
@@ -8908,5 +8872,23 @@
     "event_time": "2026-03-28T22:06:00",
     "seen_at": "2026-03-28T21:06:21.707Z",
     "raw": "Br. Vlaka 81976 formiran     28.03.26. 22:06, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:09:00",
+    "seen_at": "2026-03-28T21:11:41.879Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:09, kolodvor 72302"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:09:00",
+    "seen_at": "2026-03-28T21:11:41.880Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:09, kolodvor 72302"
   }
 ]
