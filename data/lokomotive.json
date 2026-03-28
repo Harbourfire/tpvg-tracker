@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-03-25T07:32:00",
-    "seen_at": "2026-03-25T06:32:48.384Z",
-    "raw": "Br. Vlaka 45105 odlazak      25.03.26. 07:32, kolodvor OTOK"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "71206",
-    "event_time": "2026-03-25T07:32:00",
-    "seen_at": "2026-03-25T06:33:22.009Z",
-    "raw": "Br. Vlaka 71206 odlazak      25.03.26. 07:32, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BJELOVAR",
-    "train_number": "81981",
-    "event_time": "2026-03-25T07:35:00",
-    "seen_at": "2026-03-25T06:35:41.319Z",
-    "raw": "Br. Vlaka 81981 odlazak      25.03.26. 07:35, kolodvor BJELOVAR"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -11338,5 +11311,77 @@
     "event_time": "2026-03-28T07:24:00",
     "seen_at": "2026-03-28T06:24:58.221Z",
     "raw": "Br. Vlaka 82327 formiran     28.03.26. 07:24, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-28T07:19:00",
+    "seen_at": "2026-03-28T06:29:03.288Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-28T07:19:00",
+    "seen_at": "2026-03-28T06:29:03.288Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81286",
+    "event_time": "2026-03-28T07:29:00",
+    "seen_at": "2026-03-28T06:30:12.155Z",
+    "raw": "Br. Vlaka 81286 dolazak      28.03.26. 07:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-28T07:29:00",
+    "seen_at": "2026-03-28T06:31:43.703Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-28T06:10:00",
+    "seen_at": "2026-03-28T06:32:52.106Z",
+    "raw": "Br. Vlaka 69005 formiran     28.03.26. 06:10, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-28T06:10:00",
+    "seen_at": "2026-03-28T06:32:52.106Z",
+    "raw": "Br. Vlaka 69005 formiran     28.03.26. 06:10, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "82327",
+    "event_time": "2026-03-28T07:33:00",
+    "seen_at": "2026-03-28T06:34:46.421Z",
+    "raw": "Br. Vlaka 82327 odlazak      28.03.26. 07:33, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69613",
+    "event_time": "2026-03-28T07:31:00",
+    "seen_at": "2026-03-28T06:34:46.421Z",
+    "raw": "Br. Vlaka 69613 formiran     28.03.26. 07:31, kolodvor ZAPREŠIĆ"
   }
 ]
