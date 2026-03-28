@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "81281",
-    "event_time": "2026-03-25T21:18:00",
-    "seen_at": "2026-03-25T20:19:41.055Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 21:18, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "987891003319",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2025-09-24T12:21:00",
-    "seen_at": "2026-03-25T20:21:37.878Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894856753",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2025-07-08T20:16:00",
-    "seen_at": "2026-03-25T20:21:37.878Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
-    "uic": "927820620197",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "81281",
@@ -8899,5 +8872,23 @@
     "event_time": "2026-03-28T20:51:00",
     "seen_at": "2026-03-28T19:52:18.785Z",
     "raw": "Br. Vlaka 89169 formiran     28.03.26. 20:51, kolodvor 72303"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-09-24T12:21:00",
+    "seen_at": "2026-03-28T20:22:07.169Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2025-07-08T20:16:00",
+    "seen_at": "2026-03-28T20:22:07.169Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
