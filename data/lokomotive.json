@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-25T04:53:00",
-    "seen_at": "2026-03-25T03:53:57.978Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "48790",
-    "event_time": "2026-03-24T17:02:00",
-    "seen_at": "2026-03-25T03:56:37.134Z",
-    "raw": "Br. Vlaka 48790 formiran     24.03.26. 17:02, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "48790",
-    "event_time": "2026-03-25T04:54:00",
-    "seen_at": "2026-03-25T03:58:07.840Z",
-    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 04:54, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48790",
-    "event_time": "2026-03-25T04:58:00",
-    "seen_at": "2026-03-25T03:58:30.565Z",
-    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 04:58, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -11266,5 +11230,41 @@
     "event_time": "2026-03-28T04:41:00",
     "seen_at": "2026-03-28T03:48:09.903Z",
     "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:41, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:53:00",
+    "seen_at": "2026-03-28T03:53:21.198Z",
+    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:53, kolodvor 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:53:00",
+    "seen_at": "2026-03-28T03:53:21.198Z",
+    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:53, kolodvor 73164"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-28T04:56:00",
+    "seen_at": "2026-03-28T04:01:07.326Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:56, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-28T04:56:00",
+    "seen_at": "2026-03-28T04:01:07.327Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:56, kolodvor RUDOPOLJE"
   }
 ]
