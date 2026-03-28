@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "79931",
-    "event_time": "2026-03-25T19:52:00",
-    "seen_at": "2026-03-25T18:53:04.591Z",
-    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 19:52, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "81280",
-    "event_time": "2026-03-25T19:54:00",
-    "seen_at": "2026-03-25T18:55:22.507Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 19:54, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-25T19:52:00",
-    "seen_at": "2026-03-25T18:57:38.876Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "JANKOVCI",
@@ -9025,5 +8998,23 @@
     "event_time": "2026-03-28T19:46:00",
     "seen_at": "2026-03-28T18:48:58.496Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:46, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:55:00",
+    "seen_at": "2026-03-28T18:56:16.309Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:55, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:55:00",
+    "seen_at": "2026-03-28T18:56:16.309Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:55, kolodvor VRHOVINE"
   }
 ]
