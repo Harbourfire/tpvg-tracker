@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81283",
-    "event_time": "2026-03-26T00:09:00",
-    "seen_at": "2026-03-25T23:09:26.711Z",
-    "raw": "Br. Vlaka 81283 odlazak      26.03.26. 00:09, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -8845,5 +8836,23 @@
     "event_time": "2026-03-28T23:57:00",
     "seen_at": "2026-03-28T22:58:35.547Z",
     "raw": "Br. Vlaka 81976 odlazak      28.03.26. 23:57, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81976",
+    "event_time": "2026-03-29T00:09:00",
+    "seen_at": "2026-03-28T23:12:58.221Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 00:09, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81976",
+    "event_time": "2026-03-29T00:09:00",
+    "seen_at": "2026-03-28T23:12:58.221Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 00:09, kolodvor RUDOPOLJE"
   }
 ]
