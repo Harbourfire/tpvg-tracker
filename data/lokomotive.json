@@ -1,15 +1,6 @@
 [
   {
     "uic": "987891213314",
-    "type": "Formiran",
-    "station": "SIBINJ",
-    "train_number": "76500",
-    "event_time": "2026-03-25T10:11:00",
-    "seen_at": "2026-03-25T09:33:37.926Z",
-    "raw": "Br. Vlaka 76500 formiran     25.03.26. 10:11, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891213314",
     "type": "Odlazak",
     "station": "SIBINJ",
     "train_number": "76500",
@@ -11185,5 +11176,14 @@
     "event_time": "2026-03-28T10:24:00",
     "seen_at": "2026-03-28T09:24:57.435Z",
     "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:24, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "69327",
+    "event_time": "2026-03-28T10:37:00",
+    "seen_at": "2026-03-28T09:39:12.733Z",
+    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:37, kolodvor SIBINJ"
   }
 ]
