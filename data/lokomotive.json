@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "81281",
-    "event_time": "2026-03-25T21:23:00",
-    "seen_at": "2026-03-25T20:23:24.602Z",
-    "raw": "Br. Vlaka 81281 dolazak      25.03.26. 21:23, kolodvor 72304"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-25T15:03:00",
-    "seen_at": "2026-03-25T20:26:06.583Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -8890,5 +8872,23 @@
     "event_time": "2025-07-08T20:16:00",
     "seen_at": "2026-03-28T20:22:07.169Z",
     "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48793",
+    "event_time": "2026-03-28T21:22:00",
+    "seen_at": "2026-03-28T20:25:45.918Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 21:22, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48793",
+    "event_time": "2026-03-28T21:22:00",
+    "seen_at": "2026-03-28T20:25:45.918Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 21:22, kolodvor VRBOVEC"
   }
 ]
