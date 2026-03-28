@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-03-25T10:01:00",
-    "seen_at": "2026-03-25T09:02:17.583Z",
-    "raw": "Br. Vlaka 71207 odlazak      25.03.26. 10:01, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44994",
-    "event_time": "2026-03-25T09:37:00",
-    "seen_at": "2026-03-25T09:07:10.068Z",
-    "raw": "Br. Vlaka 44994 dolazak      25.03.26. 09:37, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44994",
-    "event_time": "2026-03-25T10:03:00",
-    "seen_at": "2026-03-25T09:07:33.555Z",
-    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 10:03, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ŠAPJANE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T10:05:00",
-    "seen_at": "2026-03-25T09:08:21.335Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:05, kolodvor ŠAPJANE"
-  },
-  {
     "uic": "927820440240",
     "type": "Promjena sastava",
     "station": "SAVSKI MAROF",
@@ -11239,5 +11203,23 @@
     "event_time": "2026-03-28T09:47:00",
     "seen_at": "2026-03-28T09:01:29.549Z",
     "raw": "Br. Vlaka 82017 dolazak      28.03.26. 09:47, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "69613",
+    "event_time": "2026-03-28T10:02:00",
+    "seen_at": "2026-03-28T09:02:52.446Z",
+    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 10:02, kolodvor 72302"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "69327",
+    "event_time": "2026-03-28T10:03:00",
+    "seen_at": "2026-03-28T09:04:01.998Z",
+    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:03, kolodvor STARO PETROVO SELO"
   }
 ]
