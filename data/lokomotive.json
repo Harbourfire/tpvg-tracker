@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "82223",
-    "event_time": "2026-03-25T07:33:00",
-    "seen_at": "2026-03-25T08:51:36.099Z",
-    "raw": "Br. Vlaka 82223 formiran     25.03.26. 07:33, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76505",
-    "event_time": "2026-03-25T09:53:00",
-    "seen_at": "2026-03-25T08:53:32.520Z",
-    "raw": "Br. Vlaka 76505 odlazak      25.03.26. 09:53, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Formiran",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-03-25T09:56:00",
-    "seen_at": "2026-03-25T08:57:17.829Z",
-    "raw": "Br. Vlaka 71207 formiran     25.03.26. 09:56, kolodvor SIBINJ"
-  },
-  {
     "uic": "987891162057",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -11230,5 +11203,41 @@
     "event_time": "2026-03-28T09:43:00",
     "seen_at": "2026-03-28T08:43:49.833Z",
     "raw": "Br. Vlaka 69613 odlazak      28.03.26. 09:43, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "69327",
+    "event_time": "2026-03-28T09:50:00",
+    "seen_at": "2026-03-28T08:52:35.028Z",
+    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 09:50, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "69613",
+    "event_time": "2026-03-28T09:50:00",
+    "seen_at": "2026-03-28T08:53:45.073Z",
+    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 09:50, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "69613",
+    "event_time": "2026-03-28T09:57:00",
+    "seen_at": "2026-03-28T08:58:47.145Z",
+    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 09:57, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "82017",
+    "event_time": "2026-03-28T09:47:00",
+    "seen_at": "2026-03-28T09:01:29.549Z",
+    "raw": "Br. Vlaka 82017 dolazak      28.03.26. 09:47, kolodvor SISAK CAPRAG"
   }
 ]
