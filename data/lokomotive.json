@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "69615",
-    "event_time": "2026-03-25T18:13:00",
-    "seen_at": "2026-03-25T17:14:38.425Z",
-    "raw": "Br. Vlaka 69615 dolazak      25.03.26. 18:13, kolodvor 72304"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-25T18:13:00",
-    "seen_at": "2026-03-25T17:15:02.315Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-25T17:27:00",
-    "seen_at": "2026-03-25T17:15:02.316Z",
-    "raw": "Br. Vlaka 63310 promjena sas 25.03.26. 17:27, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "IVANKOVO",
-    "train_number": "48891",
-    "event_time": "2026-03-25T13:10:00",
-    "seen_at": "2026-03-25T17:16:15.431Z",
-    "raw": "Br. Vlaka 48891 formiran     25.03.26. 13:10, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "79931",
-    "event_time": "2026-03-25T18:18:00",
-    "seen_at": "2026-03-25T17:18:11.644Z",
-    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 18:18, kolodvor KARLOVAC"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "SUNJA",
@@ -9358,5 +9313,41 @@
     "event_time": "2026-03-28T18:05:00",
     "seen_at": "2026-03-28T17:11:47.583Z",
     "raw": "Br. Vlaka 47938 dolazak      28.03.26. 18:05, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "47938",
+    "event_time": "2026-03-28T18:10:00",
+    "seen_at": "2026-03-28T17:12:25.856Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:10, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "47938",
+    "event_time": "2026-03-28T18:10:00",
+    "seen_at": "2026-03-28T17:12:25.856Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:10, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "47938",
+    "event_time": "2026-03-28T18:17:00",
+    "seen_at": "2026-03-28T17:18:31.602Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:17, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "47938",
+    "event_time": "2026-03-28T18:17:00",
+    "seen_at": "2026-03-28T17:18:31.602Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:17, kolodvor 77424"
   }
 ]
