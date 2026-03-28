@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "81283",
-    "event_time": "2026-03-25T22:57:00",
-    "seen_at": "2026-03-25T21:57:38.206Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 22:57, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "45994",
-    "event_time": "2026-03-25T23:01:00",
-    "seen_at": "2026-03-25T22:01:38.556Z",
-    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 23:01, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "KOŠKA",
-    "train_number": "82529",
-    "event_time": "2026-03-25T23:02:00",
-    "seen_at": "2026-03-25T22:02:23.794Z",
-    "raw": "Br. Vlaka 82529 formiran     25.03.26. 23:02, kolodvor KOŠKA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -8863,5 +8836,41 @@
     "event_time": "2026-03-28T22:48:00",
     "seen_at": "2026-03-28T21:48:33.990Z",
     "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:48, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:57:00",
+    "seen_at": "2026-03-28T21:58:18.062Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:57, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:57:00",
+    "seen_at": "2026-03-28T21:58:18.062Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:57, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48793",
+    "event_time": "2026-03-28T23:05:00",
+    "seen_at": "2026-03-28T22:05:33.476Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 23:05, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48793",
+    "event_time": "2026-03-28T23:05:00",
+    "seen_at": "2026-03-28T22:05:33.476Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 23:05, kolodvor PODSUSED tvornica"
   }
 ]
