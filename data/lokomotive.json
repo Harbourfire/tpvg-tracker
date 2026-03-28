@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45994",
-    "event_time": "2026-03-25T11:55:00",
-    "seen_at": "2026-03-25T13:33:26.309Z",
-    "raw": "Br. Vlaka 45994 formiran     25.03.26. 11:55, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89921",
-    "event_time": "2026-03-25T14:35:00",
-    "seen_at": "2026-03-25T13:36:31.189Z",
-    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 14:35, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "58260",
-    "event_time": "2026-03-25T14:40:00",
-    "seen_at": "2026-03-25T13:41:31.609Z",
-    "raw": "Br. Vlaka 58260 odlazak      25.03.26. 14:40, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "58260",
-    "event_time": "2026-03-25T14:40:00",
-    "seen_at": "2026-03-25T13:41:31.609Z",
-    "raw": "Br. Vlaka 58260 odlazak      25.03.26. 14:40, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "79931",
-    "event_time": "2026-03-25T14:41:00",
-    "seen_at": "2026-03-25T13:42:30.990Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 14:41, kolodvor OGULIN"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -9961,5 +9916,23 @@
     "event_time": "2026-03-28T14:26:00",
     "seen_at": "2026-03-28T13:28:00.229Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 14:26, kolodvor HORVATI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "81213",
+    "event_time": "2026-03-28T14:34:00",
+    "seen_at": "2026-03-28T13:35:19.224Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 14:34, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "89432",
+    "event_time": "2026-03-28T14:35:00",
+    "seen_at": "2026-03-28T13:36:05.144Z",
+    "raw": "Br. Vlaka 89432 odlazak      28.03.26. 14:35, kolodvor SLAVONSKI ŠAMAC"
   }
 ]
