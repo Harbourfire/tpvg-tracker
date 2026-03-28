@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89720",
-    "event_time": "2026-03-25T01:04:00",
-    "seen_at": "2026-03-25T00:04:28.340Z",
-    "raw": "Br. Vlaka 89720 odlazak      25.03.26. 01:04, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-25T01:07:00",
-    "seen_at": "2026-03-25T00:08:30.586Z",
-    "raw": "Br. Vlaka 63306 odlazak      25.03.26. 01:07, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-03-24T23:00:00",
-    "seen_at": "2026-03-25T00:08:53.487Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-03-24T23:00:00",
-    "seen_at": "2026-03-25T00:15:21.842Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RESNIK",
-    "train_number": "81981",
-    "event_time": "2026-03-25T01:01:00",
-    "seen_at": "2026-03-25T00:15:44.572Z",
-    "raw": "Br. Vlaka 81981 promjena sas 25.03.26. 01:01, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -11140,5 +11095,59 @@
     "event_time": "2026-03-28T00:56:00",
     "seen_at": "2026-03-28T00:03:04.247Z",
     "raw": "Br. Vlaka 63305 odlazak      28.03.26. 00:56, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "45990",
+    "event_time": "2026-03-28T01:09:00",
+    "seen_at": "2026-03-28T00:14:03.438Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 01:09, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "45990",
+    "event_time": "2026-03-28T01:09:00",
+    "seen_at": "2026-03-28T00:14:03.438Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 01:09, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-24T23:00:00",
+    "seen_at": "2026-03-28T00:14:26.781Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89288",
+    "event_time": "2026-03-28T01:18:00",
+    "seen_at": "2026-03-28T00:19:01.800Z",
+    "raw": "Br. Vlaka 89288 odlazak      28.03.26. 01:18, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-03-28T01:21:00",
+    "seen_at": "2026-03-28T00:21:42.346Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47563",
+    "event_time": "2026-03-27T15:38:00",
+    "seen_at": "2026-03-28T00:22:28.100Z",
+    "raw": "Br. Vlaka 47563 formiran     27.03.26. 15:38, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
