@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "KOŠKA",
-    "train_number": null,
-    "event_time": "2026-03-25T06:48:00",
-    "seen_at": "2026-03-25T05:55:59.195Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71906 KOŠKA"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -11275,5 +11266,50 @@
     "event_time": "2026-03-28T06:49:00",
     "seen_at": "2026-03-28T05:50:14.084Z",
     "raw": "Br. Vlaka 81286 odlazak      28.03.26. 06:49, kolodvor 72303"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48793",
+    "event_time": "2026-03-28T06:43:00",
+    "seen_at": "2026-03-28T05:52:19.030Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 06:43, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48793",
+    "event_time": "2026-03-28T06:43:00",
+    "seen_at": "2026-03-28T05:52:19.031Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 06:43, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48793",
+    "event_time": "2026-03-28T06:54:00",
+    "seen_at": "2026-03-28T05:55:21.593Z",
+    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 06:54, kolodvor 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48793",
+    "event_time": "2026-03-28T06:54:00",
+    "seen_at": "2026-03-28T05:55:21.593Z",
+    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 06:54, kolodvor 73164"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "81286",
+    "event_time": "2026-03-28T06:56:00",
+    "seen_at": "2026-03-28T05:57:15.853Z",
+    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 06:56, kolodvor 72304"
   }
 ]
