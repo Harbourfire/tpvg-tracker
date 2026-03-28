@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-25T02:18:00",
-    "seen_at": "2026-03-25T03:50:22.151Z",
-    "raw": "Br. Vlaka 69006 formiran     25.03.26. 02:18, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-03-25T04:48:00",
-    "seen_at": "2026-03-25T03:51:07.624Z",
-    "raw": "Br. Vlaka 69006 odlazak      25.03.26. 04:48, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
     "type": "Rasformiran",
     "station": "OGULIN",
     "train_number": null,
@@ -11248,5 +11230,41 @@
     "event_time": "2026-03-28T04:40:00",
     "seen_at": "2026-03-28T03:42:59.802Z",
     "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:39:00",
+    "seen_at": "2026-03-28T03:47:47.222Z",
+    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:39, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:39:00",
+    "seen_at": "2026-03-28T03:47:47.222Z",
+    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:39, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:41:00",
+    "seen_at": "2026-03-28T03:48:09.903Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:41, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:41:00",
+    "seen_at": "2026-03-28T03:48:09.903Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:41, kolodvor KOPRIVNICA"
   }
 ]
