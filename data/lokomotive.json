@@ -1,113 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:34:00",
-    "seen_at": "2026-03-25T17:54:28.031Z",
-    "raw": "Br. Vlaka 48513 odlazak      25.03.26. 18:34, kolodvor 77424"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:34:00",
-    "seen_at": "2026-03-25T17:54:28.031Z",
-    "raw": "Br. Vlaka 48513 odlazak      25.03.26. 18:34, kolodvor 77424"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "81281",
-    "event_time": "2026-03-25T18:53:00",
-    "seen_at": "2026-03-25T17:54:51.984Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 18:53, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:44:00",
-    "seen_at": "2026-03-25T17:54:51.985Z",
-    "raw": "Br. Vlaka 48513 dolazak      25.03.26. 18:44, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:44:00",
-    "seen_at": "2026-03-25T17:54:51.985Z",
-    "raw": "Br. Vlaka 48513 dolazak      25.03.26. 18:44, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:50:00",
-    "seen_at": "2026-03-25T17:55:15.260Z",
-    "raw": "Br. Vlaka 48513 odlazak      25.03.26. 18:50, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:50:00",
-    "seen_at": "2026-03-25T17:55:15.260Z",
-    "raw": "Br. Vlaka 48513 odlazak      25.03.26. 18:50, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-25T18:54:00",
-    "seen_at": "2026-03-25T17:55:15.261Z",
-    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 18:54, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "89728",
-    "event_time": "2026-03-25T18:56:00",
-    "seen_at": "2026-03-25T17:57:58.007Z",
-    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 18:56, kolodvor SISAK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "81280",
-    "event_time": "2026-03-25T18:56:00",
-    "seen_at": "2026-03-25T18:01:16.893Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 18:56, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:58:00",
-    "seen_at": "2026-03-25T18:01:16.893Z",
-    "raw": "Br. Vlaka 48513 odlazak      25.03.26. 18:58, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "48513",
-    "event_time": "2026-03-25T18:58:00",
-    "seen_at": "2026-03-25T18:01:16.893Z",
-    "raw": "Br. Vlaka 48513 odlazak      25.03.26. 18:58, kolodvor ROČ"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "BLATA",
@@ -9358,5 +9250,23 @@
     "event_time": "2026-03-28T18:40:00",
     "seen_at": "2026-03-28T17:40:35.755Z",
     "raw": "Br. Vlaka 48793 dolazak      28.03.26. 18:40, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81213",
+    "event_time": "2026-03-28T18:50:00",
+    "seen_at": "2026-03-28T17:53:17.208Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 18:50, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81213",
+    "event_time": "2026-03-28T18:50:00",
+    "seen_at": "2026-03-28T17:53:17.208Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 18:50, kolodvor PLAŠKI"
   }
 ]
