@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "81283",
-    "event_time": "2026-03-26T00:48:00",
-    "seen_at": "2026-03-25T23:49:23.311Z",
-    "raw": "Br. Vlaka 81283 odlazak      26.03.26. 00:48, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48790",
-    "event_time": "2026-03-26T00:48:00",
-    "seen_at": "2026-03-25T23:49:23.311Z",
-    "raw": "Br. Vlaka 48790 dolazak      26.03.26. 00:48, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -8782,5 +8764,14 @@
     "event_time": "2026-03-29T00:35:00",
     "seen_at": "2026-03-28T23:36:16.134Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 00:35, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "47562",
+    "event_time": "2026-03-29T00:44:00",
+    "seen_at": "2026-03-28T23:45:19.812Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 00:44, kolodvor STARI MIKANOVCI"
   }
 ]
