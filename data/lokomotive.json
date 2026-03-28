@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "89754",
-    "event_time": "2026-03-25T16:47:00",
-    "seen_at": "2026-03-25T15:51:19.756Z",
-    "raw": "Br. Vlaka 89754 dolazak      25.03.26. 16:47, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-25T16:48:00",
-    "seen_at": "2026-03-25T15:51:19.757Z",
-    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 16:48, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-25T16:47:00",
-    "seen_at": "2026-03-25T15:51:42.903Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "81281",
-    "event_time": "2026-03-25T16:50:00",
-    "seen_at": "2026-03-25T15:54:02.605Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 16:50, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SISAK",
-    "train_number": "81283",
-    "event_time": "2026-03-25T16:53:00",
-    "seen_at": "2026-03-25T15:54:02.606Z",
-    "raw": "Br. Vlaka 81283 dolazak      25.03.26. 16:53, kolodvor SISAK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "89723",
-    "event_time": "2026-03-25T16:52:00",
-    "seen_at": "2026-03-25T15:55:12.591Z",
-    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 16:52, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89723",
-    "event_time": "2026-03-25T16:55:00",
-    "seen_at": "2026-03-25T15:57:44.330Z",
-    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 16:55, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "SISAK",
@@ -9637,5 +9574,23 @@
     "event_time": "2026-03-28T16:38:00",
     "seen_at": "2026-03-28T15:41:13.982Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 16:38, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T16:53:00",
+    "seen_at": "2026-03-28T15:54:41.066Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 16:53, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "81213",
+    "event_time": "2026-03-28T17:00:00",
+    "seen_at": "2026-03-28T16:00:52.048Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 17:00, kolodvor KUKAČA"
   }
 ]
