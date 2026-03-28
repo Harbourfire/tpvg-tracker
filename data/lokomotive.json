@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "58260",
-    "event_time": "2026-03-25T14:59:00",
-    "seen_at": "2026-03-25T14:04:10.291Z",
-    "raw": "Br. Vlaka 58260 dolazak      25.03.26. 14:59, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "58260",
-    "event_time": "2026-03-25T14:59:00",
-    "seen_at": "2026-03-25T14:04:10.291Z",
-    "raw": "Br. Vlaka 58260 dolazak      25.03.26. 14:59, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "58260",
-    "event_time": "2026-03-25T15:03:00",
-    "seen_at": "2026-03-25T14:05:43.076Z",
-    "raw": "Br. Vlaka 58260 odlazak      25.03.26. 15:03, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "58260",
-    "event_time": "2026-03-25T15:03:00",
-    "seen_at": "2026-03-25T14:05:43.076Z",
-    "raw": "Br. Vlaka 58260 odlazak      25.03.26. 15:03, kolodvor BUZET"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "82210",
-    "event_time": "2026-03-25T15:08:00",
-    "seen_at": "2026-03-25T14:09:12.734Z",
-    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 15:08, kolodvor GARČIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "BUZET granica",
-    "train_number": null,
-    "event_time": "2026-03-25T15:10:00",
-    "seen_at": "2026-03-25T14:12:09.528Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "BUZET granica",
-    "train_number": null,
-    "event_time": "2026-03-25T15:10:00",
-    "seen_at": "2026-03-25T14:12:09.528Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-19T15:10:00",
-    "seen_at": "2026-03-25T14:12:32.822Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -9907,5 +9835,23 @@
     "event_time": "2026-03-28T15:02:00",
     "seen_at": "2026-03-28T14:02:26.732Z",
     "raw": "Br. Vlaka 89432 odlazak      28.03.26. 15:02, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89432",
+    "event_time": "2026-03-28T15:08:00",
+    "seen_at": "2026-03-28T14:08:58.913Z",
+    "raw": "Br. Vlaka 89432 odlazak      28.03.26. 15:08, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-03-19T15:10:00",
+    "seen_at": "2026-03-28T14:13:14.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
   }
 ]
