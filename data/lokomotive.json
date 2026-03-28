@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "81280",
-    "event_time": "2026-03-25T20:41:00",
-    "seen_at": "2026-03-25T19:42:18.576Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 20:41, kolodvor KUKAČA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "79931",
-    "event_time": "2026-03-25T20:40:00",
-    "seen_at": "2026-03-25T19:42:41.713Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 20:40, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BIZOVAC",
-    "train_number": "89734",
-    "event_time": "2026-03-25T20:40:00",
-    "seen_at": "2026-03-25T19:43:52.014Z",
-    "raw": "Br. Vlaka 89734 dolazak      25.03.26. 20:40, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-25T20:46:00",
-    "seen_at": "2026-03-25T19:47:54.909Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-25T20:47:00",
-    "seen_at": "2026-03-25T19:47:54.909Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230035",
     "type": "Formiran",
     "station": "OŠTARIJE",
     "train_number": "63305",
@@ -8935,5 +8890,32 @@
     "event_time": "2026-03-28T20:29:00",
     "seen_at": "2026-03-28T19:30:53.179Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 20:29, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-28T20:42:00",
+    "seen_at": "2026-03-28T19:44:01.674Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-28T20:42:00",
+    "seen_at": "2026-03-28T19:44:01.674Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T20:47:00",
+    "seen_at": "2026-03-28T19:48:36.594Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
   }
 ]
