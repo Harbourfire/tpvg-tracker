@@ -1,86 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "81280",
-    "event_time": "2026-03-25T19:17:00",
-    "seen_at": "2026-03-25T18:20:59.023Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 19:17, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "81281",
-    "event_time": "2026-03-25T19:21:00",
-    "seen_at": "2026-03-25T18:23:42.367Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 19:21, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "48891",
-    "event_time": "2026-03-25T19:23:00",
-    "seen_at": "2026-03-25T18:26:01.602Z",
-    "raw": "Br. Vlaka 48891 odlazak      25.03.26. 19:23, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81283",
-    "event_time": "2026-03-25T19:09:00",
-    "seen_at": "2026-03-25T18:26:25.063Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 19:09, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "81281",
-    "event_time": "2026-03-25T19:26:00",
-    "seen_at": "2026-03-25T18:26:48.098Z",
-    "raw": "Br. Vlaka 81281 dolazak      25.03.26. 19:26, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "VELIKA GORICA",
-    "train_number": "89728",
-    "event_time": "2026-03-25T19:26:00",
-    "seen_at": "2026-03-25T18:27:56.651Z",
-    "raw": "Br. Vlaka 89728 dolazak      25.03.26. 19:26, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "81280",
-    "event_time": "2026-03-25T19:29:00",
-    "seen_at": "2026-03-25T18:30:05.628Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 19:29, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-03-25T19:29:00",
-    "seen_at": "2026-03-25T18:30:05.628Z",
-    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 19:29, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "79931",
-    "event_time": "2026-03-25T19:28:00",
-    "seen_at": "2026-03-25T18:30:28.591Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 19:28, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "928012230142",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -9124,5 +9043,41 @@
     "event_time": "2026-03-28T19:07:00",
     "seen_at": "2026-03-28T18:08:35.892Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:07, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:20:00",
+    "seen_at": "2026-03-28T18:22:40.298Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 19:20, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:20:00",
+    "seen_at": "2026-03-28T18:22:40.298Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 19:20, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:22:00",
+    "seen_at": "2026-03-28T18:23:27.024Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:22, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:22:00",
+    "seen_at": "2026-03-28T18:23:27.025Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:22, kolodvor BLATA"
   }
 ]
