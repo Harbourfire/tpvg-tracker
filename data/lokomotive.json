@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "81283",
-    "event_time": "2026-03-25T17:00:00",
-    "seen_at": "2026-03-25T16:02:00.679Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 17:00, kolodvor SISAK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "81280",
-    "event_time": "2026-03-25T16:59:00",
-    "seen_at": "2026-03-25T16:03:09.885Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 16:59, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89921",
-    "event_time": "2026-03-25T17:00:00",
-    "seen_at": "2026-03-25T16:04:41.954Z",
-    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:00, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89921",
-    "event_time": "2026-03-25T17:04:00",
-    "seen_at": "2026-03-25T16:05:04.965Z",
-    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:04, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "LUKA",
-    "train_number": "89921",
-    "event_time": "2026-03-25T17:08:00",
-    "seen_at": "2026-03-25T16:09:32.567Z",
-    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 17:08, kolodvor LUKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "81280",
-    "event_time": "2026-03-25T17:08:00",
-    "seen_at": "2026-03-25T16:09:32.567Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 17:08, kolodvor HORVATI"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
@@ -9592,5 +9538,32 @@
     "event_time": "2026-03-28T17:00:00",
     "seen_at": "2026-03-28T16:00:52.048Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 17:00, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T17:06:00",
+    "seen_at": "2026-03-28T16:06:36.615Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 17:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "OŠTARIJE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T17:06:00",
+    "seen_at": "2026-03-28T16:07:22.557Z",
+    "raw": "Br. Vlaka 81213 promjena sas 28.03.26. 17:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-28T13:11:00",
+    "seen_at": "2026-03-28T16:10:50.711Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
