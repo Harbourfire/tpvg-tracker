@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-03-25T19:04:00",
-    "seen_at": "2026-03-25T18:05:06.981Z",
-    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 19:04, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "89728",
-    "event_time": "2026-03-25T19:04:00",
-    "seen_at": "2026-03-25T18:05:29.892Z",
-    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 19:04, kolodvor GREDA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "81281",
-    "event_time": "2026-03-25T19:02:00",
-    "seen_at": "2026-03-25T18:06:15.652Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 19:02, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "81281",
-    "event_time": "2026-03-25T19:07:00",
-    "seen_at": "2026-03-25T18:07:47.394Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 19:07, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "89728",
-    "event_time": "2026-03-25T19:10:00",
-    "seen_at": "2026-03-25T18:10:43.584Z",
-    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 19:10, kolodvor LEKENIK"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "KARLOVAC",
@@ -9268,5 +9223,23 @@
     "event_time": "2026-03-28T18:50:00",
     "seen_at": "2026-03-28T17:53:17.208Z",
     "raw": "Br. Vlaka 81213 dolazak      28.03.26. 18:50, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:07:00",
+    "seen_at": "2026-03-28T18:08:35.892Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:07, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81213",
+    "event_time": "2026-03-28T19:07:00",
+    "seen_at": "2026-03-28T18:08:35.892Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:07, kolodvor PLAŠKI"
   }
 ]
