@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF",
-    "train_number": "48586",
-    "event_time": "2026-03-25T10:12:00",
-    "seen_at": "2026-03-25T09:13:50.673Z",
-    "raw": "Br. Vlaka 48586 promjena sas 25.03.26. 10:12, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Dolazak",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "76505",
-    "event_time": "2026-03-25T10:06:00",
-    "seen_at": "2026-03-25T09:15:11.670Z",
-    "raw": "Br. Vlaka 76505 dolazak      25.03.26. 10:06, kolodvor KOPANICA-BERAVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": null,
-    "event_time": "2026-03-25T10:06:00",
-    "seen_at": "2026-03-25T09:15:36.141Z",
-    "raw": "Trenutna pozicija je u kolodvoru 78801 KOPANICA-BERAVCI"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-25T10:12:00",
-    "seen_at": "2026-03-25T09:17:31.686Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "JURDANI",
@@ -11221,5 +11185,32 @@
     "event_time": "2026-03-28T10:03:00",
     "seen_at": "2026-03-28T09:04:01.998Z",
     "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:03, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-28T10:11:00",
+    "seen_at": "2026-03-28T09:14:16.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "69327",
+    "event_time": "2026-03-28T10:14:00",
+    "seen_at": "2026-03-28T09:15:28.878Z",
+    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:14, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-03-28T09:18:10.447Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
