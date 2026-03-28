@@ -1,96 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "89723",
-    "event_time": "2026-03-25T17:39:00",
-    "seen_at": "2026-03-25T16:40:53.587Z",
-    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 17:39, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "48513",
-    "event_time": "2026-03-25T17:38:00",
-    "seen_at": "2026-03-25T16:40:53.588Z",
-    "raw": "Br. Vlaka 48513 formiran     25.03.26. 17:38, kolodvor 77424"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "48513",
-    "event_time": "2026-03-25T17:38:00",
-    "seen_at": "2026-03-25T16:41:16.907Z",
-    "raw": "Br. Vlaka 48513 formiran     25.03.26. 17:38, kolodvor 77424"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "89728",
-    "event_time": "2026-03-25T17:32:00",
-    "seen_at": "2026-03-25T16:42:49.425Z",
-    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 17:32, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "79931",
-    "event_time": "2026-03-25T17:43:00",
-    "seen_at": "2026-03-25T16:43:35.600Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 17:43, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81281",
-    "event_time": "2026-03-25T17:42:00",
-    "seen_at": "2026-03-25T16:45:00.536Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 17:42, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "VRHOVINE",
-    "train_number": null,
-    "event_time": "2026-03-25T17:45:00",
-    "seen_at": "2026-03-25T16:45:24.343Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69615",
-    "event_time": "2026-03-25T17:45:00",
-    "seen_at": "2026-03-25T16:47:23.094Z",
-    "raw": "Br. Vlaka 69615 odlazak      25.03.26. 17:45, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-03-25T15:55:00",
-    "seen_at": "2026-03-25T16:48:09.651Z",
-    "raw": "Br. Vlaka 63312 formiran     25.03.26. 15:55, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "69615",
-    "event_time": "2026-03-25T17:50:00",
-    "seen_at": "2026-03-25T16:50:29.822Z",
-    "raw": "Br. Vlaka 69615 odlazak      25.03.26. 17:50, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": "89723",
@@ -9484,5 +9394,23 @@
     "event_time": "2026-03-28T17:30:00",
     "seen_at": "2026-03-28T16:34:54.906Z",
     "raw": "Br. Vlaka 48793 dolazak      28.03.26. 17:30, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LUPOGLAV",
+    "train_number": "47938",
+    "event_time": "2026-03-28T17:46:00",
+    "seen_at": "2026-03-28T16:48:20.304Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:46, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LUPOGLAV",
+    "train_number": "47938",
+    "event_time": "2026-03-28T17:46:00",
+    "seen_at": "2026-03-28T16:48:20.304Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:46, kolodvor LUPOGLAV"
   }
 ]
