@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "81981",
-    "event_time": "2026-03-25T02:07:00",
-    "seen_at": "2026-03-25T01:08:35.978Z",
-    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 02:07, kolodvor DUGO SELO"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "RUDOPOLJE",
@@ -11248,5 +11239,41 @@
     "event_time": "2026-03-28T01:59:00",
     "seen_at": "2026-03-28T01:00:19.283Z",
     "raw": "Br. Vlaka 45990 odlazak      28.03.26. 01:59, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45990",
+    "event_time": "2026-03-28T02:07:00",
+    "seen_at": "2026-03-28T01:07:33.884Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 02:07, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45990",
+    "event_time": "2026-03-28T02:07:00",
+    "seen_at": "2026-03-28T01:07:33.884Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 02:07, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-28T02:09:00",
+    "seen_at": "2026-03-28T01:10:16.869Z",
+    "raw": "Br. Vlaka 63305 odlazak      28.03.26. 02:09, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-03-28T02:09:00",
+    "seen_at": "2026-03-28T01:10:16.869Z",
+    "raw": "Br. Vlaka 63305 odlazak      28.03.26. 02:09, kolodvor PERUŠIĆ"
   }
 ]
