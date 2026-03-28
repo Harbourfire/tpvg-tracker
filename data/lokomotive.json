@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-25T02:18:00",
-    "seen_at": "2026-03-25T04:23:16.550Z",
-    "raw": "Br. Vlaka 69005 formiran     25.03.26. 02:18, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-25T05:27:00",
-    "seen_at": "2026-03-25T04:27:51.153Z",
-    "raw": "Br. Vlaka 69005 odlazak      25.03.26. 05:27, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48790",
-    "event_time": "2026-03-25T05:28:00",
-    "seen_at": "2026-03-25T04:28:13.839Z",
-    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 05:28, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-25T05:33:00",
-    "seen_at": "2026-03-25T04:34:13.734Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "48790",
-    "event_time": "2026-03-25T05:33:00",
-    "seen_at": "2026-03-25T04:34:59.739Z",
-    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 05:33, kolodvor 72304"
-  },
-  {
     "uic": "927820440232",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -11257,5 +11212,23 @@
     "event_time": "2026-03-28T05:10:00",
     "seen_at": "2026-03-28T04:12:17.709Z",
     "raw": "Br. Vlaka 45990 odlazak      28.03.26. 05:10, kolodvor 73164"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48793",
+    "event_time": "2026-03-27T14:46:00",
+    "seen_at": "2026-03-28T04:26:43.784Z",
+    "raw": "Br. Vlaka 48793 formiran     27.03.26. 14:46, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48793",
+    "event_time": "2026-03-27T14:46:00",
+    "seen_at": "2026-03-28T04:26:43.784Z",
+    "raw": "Br. Vlaka 48793 formiran     27.03.26. 14:46, kolodvor KOPRIVNICA GR    A"
   }
 ]
