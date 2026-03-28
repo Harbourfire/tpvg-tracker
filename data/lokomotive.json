@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44994",
-    "event_time": "2026-03-25T07:40:00",
-    "seen_at": "2026-03-25T06:42:14.583Z",
-    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 07:40, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-03-25T07:45:00",
-    "seen_at": "2026-03-25T06:46:23.083Z",
-    "raw": "Br. Vlaka 45105 odlazak      25.03.26. 07:45, kolodvor SPAČVA"
-  },
-  {
     "uic": "987891162057",
     "type": "Rasformiran",
     "station": "SIBINJ",
@@ -11383,5 +11365,23 @@
     "event_time": "2026-03-28T07:31:00",
     "seen_at": "2026-03-28T06:34:46.421Z",
     "raw": "Br. Vlaka 69613 formiran     28.03.26. 07:31, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "82327",
+    "event_time": "2026-03-28T07:42:00",
+    "seen_at": "2026-03-28T06:44:50.988Z",
+    "raw": "Br. Vlaka 82327 dolazak      28.03.26. 07:42, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-28T07:42:00",
+    "seen_at": "2026-03-28T06:45:13.928Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
