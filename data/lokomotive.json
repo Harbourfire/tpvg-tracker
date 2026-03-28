@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "83819",
-    "event_time": "2026-03-25T07:02:00",
-    "seen_at": "2026-03-25T06:02:32.075Z",
-    "raw": "Br. Vlaka 83819 dolazak      25.03.26. 07:02, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-03-25T06:55:00",
-    "seen_at": "2026-03-25T06:09:02.068Z",
-    "raw": "Br. Vlaka 74101 odlazak      25.03.26. 06:55, kolodvor OTOK"
-  },
-  {
     "uic": "987891113167",
     "type": "Formiran",
     "station": "SLATINA",
@@ -11311,5 +11293,14 @@
     "event_time": "2026-03-28T06:56:00",
     "seen_at": "2026-03-28T05:57:15.853Z",
     "raw": "Br. Vlaka 81286 odlazak      28.03.26. 06:56, kolodvor 72304"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81286",
+    "event_time": "2026-03-28T07:05:00",
+    "seen_at": "2026-03-28T06:06:56.479Z",
+    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 07:05, kolodvor ZAGREB KLARA"
   }
 ]
