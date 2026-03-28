@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45994",
-    "event_time": "2026-03-25T20:13:00",
-    "seen_at": "2026-03-25T19:13:20.202Z",
-    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 20:13, kolodvor 72302"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89734",
-    "event_time": "2026-03-25T20:13:00",
-    "seen_at": "2026-03-25T19:14:30.562Z",
-    "raw": "Br. Vlaka 89734 odlazak      25.03.26. 20:13, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45996",
-    "event_time": "2026-03-25T13:30:00",
-    "seen_at": "2026-03-25T19:16:25.107Z",
-    "raw": "Br. Vlaka 45996 promjena sas 25.03.26. 13:30, kolodvor 72303"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "79931",
-    "event_time": "2026-03-25T20:17:00",
-    "seen_at": "2026-03-25T19:18:58.806Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 20:17, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820440240",
     "type": "Dolazak",
     "station": "ZAGREB RESNIK",
     "train_number": "45994",
@@ -8989,5 +8953,23 @@
     "event_time": "2026-03-28T20:09:00",
     "seen_at": "2026-03-28T19:11:16.085Z",
     "raw": "Br. Vlaka 81213 dolazak      28.03.26. 20:09, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T20:10:00",
+    "seen_at": "2026-03-28T19:12:39.078Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 20:10, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T20:10:00",
+    "seen_at": "2026-03-28T19:12:39.078Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 20:10, kolodvor LIČKO LEŠĆE"
   }
 ]
