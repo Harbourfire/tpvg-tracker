@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "83819",
-    "event_time": "2026-03-25T06:48:00",
-    "seen_at": "2026-03-25T05:48:49.912Z",
-    "raw": "Br. Vlaka 83819 odlazak      25.03.26. 06:48, kolodvor ORIOVAC"
-  },
-  {
     "uic": "997894853487",
     "type": "Rasformiran",
     "station": "KOŠKA",
@@ -11275,5 +11266,14 @@
     "event_time": "2026-03-28T06:10:00",
     "seen_at": "2026-03-28T05:13:08.097Z",
     "raw": "Br. Vlaka 63306 dolazak      28.03.26. 06:10, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81286",
+    "event_time": "2026-03-28T06:49:00",
+    "seen_at": "2026-03-28T05:50:14.084Z",
+    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 06:49, kolodvor 72303"
   }
 ]
