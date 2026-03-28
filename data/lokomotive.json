@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ĐAKOVO",
-    "train_number": "89723",
-    "event_time": "2026-03-25T17:30:00",
-    "seen_at": "2026-03-25T16:32:09.012Z",
-    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 17:30, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89921",
-    "event_time": "2026-03-25T17:31:00",
-    "seen_at": "2026-03-25T16:32:32.478Z",
-    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 17:31, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-25T17:31:00",
-    "seen_at": "2026-03-25T16:33:19.192Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69615",
-    "event_time": "2026-03-25T17:09:00",
-    "seen_at": "2026-03-25T16:34:52.348Z",
-    "raw": "Br. Vlaka 69615 formiran     25.03.26. 17:09, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "69177",
-    "event_time": "2026-03-25T17:38:00",
-    "seen_at": "2026-03-25T16:40:07.430Z",
-    "raw": "Br. Vlaka 69177 odlazak      25.03.26. 17:38, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ĐAKOVO",
     "train_number": "89723",
@@ -9493,5 +9448,41 @@
     "event_time": "2026-03-28T17:29:00",
     "seen_at": "2026-03-28T16:30:25.028Z",
     "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:29, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:23:00",
+    "seen_at": "2026-03-28T16:33:23.655Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:23, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:23:00",
+    "seen_at": "2026-03-28T16:33:23.656Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:23, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:30:00",
+    "seen_at": "2026-03-28T16:34:54.906Z",
+    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 17:30, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:30:00",
+    "seen_at": "2026-03-28T16:34:54.906Z",
+    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 17:30, kolodvor LEPAVINA"
   }
 ]
