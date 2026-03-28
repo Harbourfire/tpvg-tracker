@@ -1,86 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "47939",
-    "event_time": "2026-03-25T13:04:00",
-    "seen_at": "2026-03-25T12:29:01.125Z",
-    "raw": "Br. Vlaka 47939 dolazak      25.03.26. 13:04, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82225",
-    "event_time": "2026-03-25T13:28:00",
-    "seen_at": "2026-03-25T12:29:01.125Z",
-    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 13:28, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "47939",
-    "event_time": "2026-03-25T13:11:00",
-    "seen_at": "2026-03-25T12:29:24.384Z",
-    "raw": "Br. Vlaka 47939 odlazak      25.03.26. 13:11, kolodvor BUZET"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "45131",
-    "event_time": "2026-03-25T13:26:00",
-    "seen_at": "2026-03-25T12:30:11.641Z",
-    "raw": "Br. Vlaka 45131 dolazak      25.03.26. 13:26, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "82223",
-    "event_time": "2026-03-25T13:21:00",
-    "seen_at": "2026-03-25T12:30:11.642Z",
-    "raw": "Br. Vlaka 82223 dolazak      25.03.26. 13:21, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "MORAVICE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T13:30:00",
-    "seen_at": "2026-03-25T12:30:11.643Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:30, kolodvor MORAVICE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-25T13:21:00",
-    "seen_at": "2026-03-25T12:30:34.661Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "BANOVA JARUGA",
-    "train_number": "89728",
-    "event_time": "2026-03-25T12:26:00",
-    "seen_at": "2026-03-25T12:30:57.866Z",
-    "raw": "Br. Vlaka 89728 formiran     25.03.26. 12:26, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "81283",
-    "event_time": "2026-03-25T13:28:00",
-    "seen_at": "2026-03-25T12:31:44.153Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:28, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440240",
     "type": "Formiran",
     "station": "SAVSKI MAROF",
@@ -10213,5 +10132,23 @@
     "event_time": "2026-03-28T13:16:00",
     "seen_at": "2026-03-28T12:16:34.569Z",
     "raw": "Br. Vlaka 82017 dolazak      28.03.26. 13:16, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": null,
+    "event_time": "2026-03-28T02:15:00",
+    "seen_at": "2026-03-28T12:28:49.665Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78803 SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81213",
+    "event_time": "2026-03-28T13:33:00",
+    "seen_at": "2026-03-28T12:35:15.856Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 13:33, kolodvor 72303"
   }
 ]
