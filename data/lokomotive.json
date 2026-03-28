@@ -1,122 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "RIJEKA",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:00:00",
-    "seen_at": "2026-03-25T10:50:19.379Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:00, kolodvor RIJEKA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44994",
-    "event_time": "2026-03-25T11:48:00",
-    "seen_at": "2026-03-25T10:50:43.024Z",
-    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 11:48, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82225",
-    "event_time": "2026-03-25T11:48:00",
-    "seen_at": "2026-03-25T10:51:05.902Z",
-    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 11:48, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SUŠAK PEĆINE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:20:00",
-    "seen_at": "2026-03-25T10:51:05.903Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:20, kolodvor SUŠAK PEĆINE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48586",
-    "event_time": "2026-03-25T11:51:00",
-    "seen_at": "2026-03-25T10:51:52.677Z",
-    "raw": "Br. Vlaka 48586 odlazak      25.03.26. 11:51, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "SUŠAK PEĆINE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:16:00",
-    "seen_at": "2026-03-25T10:54:12.997Z",
-    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 11:16, kolodvor SUŠAK PEĆINE"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SUŠAK PEĆINE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:20:00",
-    "seen_at": "2026-03-25T10:54:59.680Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:20, kolodvor SUŠAK PEĆINE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-25T11:55:00",
-    "seen_at": "2026-03-25T10:56:56.278Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:34:00",
-    "seen_at": "2026-03-25T10:58:05.791Z",
-    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 11:34, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44994",
-    "event_time": "2026-03-25T11:54:00",
-    "seen_at": "2026-03-25T10:58:28.583Z",
-    "raw": "Br. Vlaka 44994 dolazak      25.03.26. 11:54, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:46:00",
-    "seen_at": "2026-03-25T10:58:28.585Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:46, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "MEJA",
-    "train_number": "79931",
-    "event_time": "2026-03-25T11:57:00",
-    "seen_at": "2026-03-25T10:58:51.446Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 11:57, kolodvor MEJA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "76506",
-    "event_time": "2026-03-25T11:59:00",
-    "seen_at": "2026-03-25T10:59:47.196Z",
-    "raw": "Br. Vlaka 76506 odlazak      25.03.26. 11:59, kolodvor KOPANICA-BERAVCI"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "BRČKO - izvan HŽ",
@@ -10870,5 +10753,14 @@
     "event_time": "2026-03-28T11:32:00",
     "seen_at": "2026-03-28T10:33:08.928Z",
     "raw": "Br. Vlaka 82017 odlazak      28.03.26. 11:32, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "82017",
+    "event_time": "2026-03-28T11:52:00",
+    "seen_at": "2026-03-28T10:55:04.812Z",
+    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 11:52, kolodvor SUNJA"
   }
 ]
