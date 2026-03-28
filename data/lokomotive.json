@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48790",
-    "event_time": "2026-03-25T05:40:00",
-    "seen_at": "2026-03-25T04:40:39.325Z",
-    "raw": "Br. Vlaka 48790 dolazak      25.03.26. 05:40, kolodvor 72303"
-  },
-  {
     "uic": "927820440026",
     "type": "Formiran",
     "station": "VARAŽDIN",
@@ -11230,5 +11221,41 @@
     "event_time": "2026-03-27T14:46:00",
     "seen_at": "2026-03-28T04:26:43.784Z",
     "raw": "Br. Vlaka 48793 formiran     27.03.26. 14:46, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-03-28T05:19:00",
+    "seen_at": "2026-03-28T04:39:15.211Z",
+    "raw": "Br. Vlaka 63306 dolazak      28.03.26. 05:19, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-03-28T05:19:00",
+    "seen_at": "2026-03-28T04:39:15.211Z",
+    "raw": "Br. Vlaka 63306 dolazak      28.03.26. 05:19, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-03-28T05:37:00",
+    "seen_at": "2026-03-28T04:39:38.390Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 05:37, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-03-28T05:37:00",
+    "seen_at": "2026-03-28T04:39:38.390Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 05:37, kolodvor BLATA"
   }
 ]
