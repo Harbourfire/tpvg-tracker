@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81283",
-    "event_time": "2026-03-25T17:13:00",
-    "seen_at": "2026-03-25T16:21:24.120Z",
-    "raw": "Br. Vlaka 81283 dolazak      25.03.26. 17:13, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "81281",
-    "event_time": "2026-03-25T17:19:00",
-    "seen_at": "2026-03-25T16:21:47.274Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 17:19, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89921",
-    "event_time": "2026-03-25T17:21:00",
-    "seen_at": "2026-03-25T16:23:19.811Z",
-    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:21, kolodvor LUKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81280",
-    "event_time": "2026-03-25T17:22:00",
-    "seen_at": "2026-03-25T16:23:43.012Z",
-    "raw": "Br. Vlaka 81280 dolazak      25.03.26. 17:22, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89921",
-    "event_time": "2026-03-25T17:27:00",
-    "seen_at": "2026-03-25T16:27:50.576Z",
-    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 17:27, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-25T15:13:00",
-    "seen_at": "2026-03-25T16:29:01.867Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "RUDOPOLJE",
-    "train_number": "69177",
-    "event_time": "2026-03-25T15:55:00",
-    "seen_at": "2026-03-25T16:29:48.660Z",
-    "raw": "Br. Vlaka 69177 formiran     25.03.26. 15:55, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "ĐAKOVO",
@@ -9520,5 +9457,41 @@
     "event_time": "2026-03-28T17:14:00",
     "seen_at": "2026-03-28T16:17:35.556Z",
     "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:14, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:23:00",
+    "seen_at": "2026-03-28T16:24:38.265Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:23, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:23:00",
+    "seen_at": "2026-03-28T16:24:38.265Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:23, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:29:00",
+    "seen_at": "2026-03-28T16:30:25.028Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:29, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T17:29:00",
+    "seen_at": "2026-03-28T16:30:25.028Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 17:29, kolodvor LEPAVINA"
   }
 ]
