@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44994",
-    "event_time": "2026-03-25T08:11:00",
-    "seen_at": "2026-03-25T07:15:40.519Z",
-    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 08:11, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44994",
-    "event_time": "2026-03-25T08:20:00",
-    "seen_at": "2026-03-25T07:20:51.786Z",
-    "raw": "Br. Vlaka 44994 odlazak      25.03.26. 08:20, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89160",
-    "event_time": "2026-03-25T08:01:00",
-    "seen_at": "2026-03-25T07:22:01.906Z",
-    "raw": "Br. Vlaka 89160 formiran     25.03.26. 08:01, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-25T10:00:00",
-    "seen_at": "2026-03-25T07:22:01.906Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "PITOMAČA",
-    "train_number": "81981",
-    "event_time": "2026-03-25T08:23:00",
-    "seen_at": "2026-03-25T07:24:43.545Z",
-    "raw": "Br. Vlaka 81981 dolazak      25.03.26. 08:23, kolodvor PITOMAČA"
-  },
-  {
     "uic": "987891113167",
     "type": "Formiran",
     "station": "SLATINA",
@@ -11356,5 +11311,59 @@
     "event_time": "2026-03-28T08:12:00",
     "seen_at": "2026-03-28T07:12:45.259Z",
     "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:12, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69326",
+    "event_time": "2026-03-28T08:17:00",
+    "seen_at": "2026-03-28T07:19:08.204Z",
+    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 08:17, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "82017",
+    "event_time": "2026-03-28T08:19:00",
+    "seen_at": "2026-03-28T07:20:17.765Z",
+    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:19, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-25T10:00:00",
+    "seen_at": "2026-03-28T07:22:37.985Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-28T08:23:00",
+    "seen_at": "2026-03-28T07:24:56.997Z",
+    "raw": "Br. Vlaka 69005 odlazak      28.03.26. 08:23, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-03-27T15:17:00",
+    "seen_at": "2026-03-28T07:24:56.997Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-03-28T08:23:00",
+    "seen_at": "2026-03-28T07:24:56.997Z",
+    "raw": "Br. Vlaka 69005 odlazak      28.03.26. 08:23, kolodvor OGULIN"
   }
 ]
