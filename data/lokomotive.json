@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "JURDANI",
-    "train_number": "79931",
-    "event_time": "2026-03-25T10:20:00",
-    "seen_at": "2026-03-25T09:22:29.002Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:20, kolodvor JURDANI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44994",
-    "event_time": "2026-03-25T10:19:00",
-    "seen_at": "2026-03-25T09:24:35.036Z",
-    "raw": "Br. Vlaka 44994 dolazak      25.03.26. 10:19, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "76506",
-    "event_time": "2026-03-25T10:25:00",
-    "seen_at": "2026-03-25T09:26:06.851Z",
-    "raw": "Br. Vlaka 76506 formiran     25.03.26. 10:25, kolodvor KOPANICA-BERAVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "OPATIJA-MATULJI",
-    "train_number": "79931",
-    "event_time": "2026-03-25T10:29:00",
-    "seen_at": "2026-03-25T09:29:56.536Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 10:29, kolodvor OPATIJA-MATULJI"
-  },
-  {
     "uic": "987891213314",
     "type": "Formiran",
     "station": "SIBINJ",
@@ -11212,5 +11176,14 @@
     "event_time": "2026-03-25T10:12:00",
     "seen_at": "2026-03-28T09:18:10.447Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69327",
+    "event_time": "2026-03-28T10:24:00",
+    "seen_at": "2026-03-28T09:24:57.435Z",
+    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:24, kolodvor ORIOVAC"
   }
 ]
