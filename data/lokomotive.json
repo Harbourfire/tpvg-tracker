@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "81280",
-    "event_time": "2026-03-25T15:50:00",
-    "seen_at": "2026-03-25T14:53:07.477Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 15:50, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81283",
-    "event_time": "2026-03-25T15:52:00",
-    "seen_at": "2026-03-25T14:54:16.371Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 15:52, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-25T15:54:00",
-    "seen_at": "2026-03-25T14:55:03.259Z",
-    "raw": "Br. Vlaka 63310 formiran     25.03.26. 15:54, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89921",
-    "event_time": "2026-03-25T15:56:00",
-    "seen_at": "2026-03-25T14:56:59.060Z",
-    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 15:56, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89723",
-    "event_time": "2026-03-25T15:56:00",
-    "seen_at": "2026-03-25T14:59:05.959Z",
-    "raw": "Br. Vlaka 89723 odlazak      25.03.26. 15:56, kolodvor BIZOVAC"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "SLAVONSKI ŠAMAC",
@@ -9790,5 +9745,32 @@
     "event_time": "2026-03-28T15:45:00",
     "seen_at": "2026-03-28T14:45:27.272Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 15:45, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81974",
+    "event_time": "2026-03-28T15:53:00",
+    "seen_at": "2026-03-28T14:53:22.106Z",
+    "raw": "Br. Vlaka 81974 dolazak      28.03.26. 15:53, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T15:54:00",
+    "seen_at": "2026-03-28T14:54:53.797Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 15:54, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-28T13:00:00",
+    "seen_at": "2026-03-28T14:56:47.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
