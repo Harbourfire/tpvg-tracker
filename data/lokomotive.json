@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "82210",
-    "event_time": "2026-03-25T15:15:00",
-    "seen_at": "2026-03-25T14:17:14.178Z",
-    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 15:15, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81283",
-    "event_time": "2026-03-25T15:18:00",
-    "seen_at": "2026-03-25T14:19:34.417Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 15:18, kolodvor 72303"
-  },
-  {
-    "uic": "927820620189",
     "type": "Rasformiran",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": null,
@@ -9853,5 +9835,23 @@
     "event_time": "2026-03-19T15:10:00",
     "seen_at": "2026-03-28T14:13:14.772Z",
     "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-28T15:16:00",
+    "seen_at": "2026-03-28T14:17:01.571Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "81213",
+    "event_time": "2026-03-28T15:12:00",
+    "seen_at": "2026-03-28T14:17:48.829Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 15:12, kolodvor KARLOVAC"
   }
 ]
