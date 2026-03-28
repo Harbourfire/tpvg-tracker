@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "79931",
-    "event_time": "2026-03-25T14:02:00",
-    "seen_at": "2026-03-25T13:05:23.198Z",
-    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 14:02, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89755",
-    "event_time": "2026-03-25T14:05:00",
-    "seen_at": "2026-03-25T13:06:56.014Z",
-    "raw": "Br. Vlaka 89755 odlazak      25.03.26. 14:05, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82210",
-    "event_time": "2026-03-25T14:12:00",
-    "seen_at": "2026-03-25T13:12:22.347Z",
-    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 14:12, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -10006,5 +9979,23 @@
     "event_time": "2026-03-28T14:00:00",
     "seen_at": "2026-03-28T13:02:57.292Z",
     "raw": "Br. Vlaka 89432 promjena sas 28.03.26. 14:00, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "81213",
+    "event_time": "2026-03-28T14:07:00",
+    "seen_at": "2026-03-28T13:09:27.504Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 14:07, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "81974",
+    "event_time": "2026-03-28T13:58:00",
+    "seen_at": "2026-03-28T13:09:50.700Z",
+    "raw": "Br. Vlaka 81974 promjena sas 28.03.26. 13:58, kolodvor OSIJEK"
   }
 ]
