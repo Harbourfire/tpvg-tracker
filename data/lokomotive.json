@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82210",
-    "event_time": "2026-03-25T14:23:00",
-    "seen_at": "2026-03-25T13:24:21.277Z",
-    "raw": "Br. Vlaka 82210 odlazak      25.03.26. 14:23, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BIZOVAC",
-    "train_number": "89723",
-    "event_time": "2026-03-25T13:51:00",
-    "seen_at": "2026-03-25T13:28:12.314Z",
-    "raw": "Br. Vlaka 89723 dolazak      25.03.26. 13:51, kolodvor BIZOVAC"
-  },
-  {
     "uic": "927820440240",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -9970,5 +9952,14 @@
     "event_time": "2026-03-28T14:16:00",
     "seen_at": "2026-03-28T13:18:59.014Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 14:16, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "81213",
+    "event_time": "2026-03-28T14:26:00",
+    "seen_at": "2026-03-28T13:28:00.229Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 14:26, kolodvor HORVATI"
   }
 ]
