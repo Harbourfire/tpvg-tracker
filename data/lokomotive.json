@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "83819",
-    "event_time": "2026-03-25T07:58:00",
-    "seen_at": "2026-03-25T06:59:02.255Z",
-    "raw": "Br. Vlaka 83819 dolazak      25.03.26. 07:58, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-25T08:01:00",
-    "seen_at": "2026-03-25T07:02:18.038Z",
-    "raw": "Br. Vlaka 45105 dolazak      25.03.26. 08:01, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89160",
-    "event_time": "2026-03-25T08:01:00",
-    "seen_at": "2026-03-25T07:03:50.520Z",
-    "raw": "Br. Vlaka 89160 formiran     25.03.26. 08:01, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "987891113167",
     "type": "Odlazak",
     "station": "SLATINA",
@@ -11374,5 +11347,23 @@
     "event_time": "2026-03-28T07:53:00",
     "seen_at": "2026-03-28T06:53:51.219Z",
     "raw": "Br. Vlaka 69326 odlazak      28.03.26. 07:53, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "69326",
+    "event_time": "2026-03-28T08:03:00",
+    "seen_at": "2026-03-28T07:04:23.466Z",
+    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 08:03, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "82017",
+    "event_time": "2026-03-28T08:05:00",
+    "seen_at": "2026-03-28T07:05:31.765Z",
+    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:05, kolodvor ZAPREŠIĆ"
   }
 ]
