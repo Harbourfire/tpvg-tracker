@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Formiran",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-03-25T03:14:00",
-    "seen_at": "2026-03-25T02:14:53.495Z",
-    "raw": "Br. Vlaka 74101 formiran     25.03.26. 03:14, kolodvor OTOK"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "DUGO SELO",
@@ -11275,5 +11266,23 @@
     "event_time": "2026-03-28T03:03:00",
     "seen_at": "2026-03-28T02:03:30.365Z",
     "raw": "Br. Vlaka 47563 odlazak      28.03.26. 03:03, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47563",
+    "event_time": "2026-03-28T03:08:00",
+    "seen_at": "2026-03-28T02:11:52.828Z",
+    "raw": "Br. Vlaka 47563 odlazak      28.03.26. 03:08, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47563",
+    "event_time": "2026-03-28T03:14:00",
+    "seen_at": "2026-03-28T02:14:13.047Z",
+    "raw": "Br. Vlaka 47563 odlazak      28.03.26. 03:14, kolodvor ZAGREB ZAP. KOL."
   }
 ]
