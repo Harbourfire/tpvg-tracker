@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "SPAČVA",
-    "train_number": null,
-    "event_time": "2026-03-25T07:14:00",
-    "seen_at": "2026-03-25T06:20:10.624Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71304 SPAČVA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "83819",
-    "event_time": "2026-03-25T07:26:00",
-    "seen_at": "2026-03-25T06:26:36.418Z",
-    "raw": "Br. Vlaka 83819 odlazak      25.03.26. 07:26, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Formiran",
-    "station": "SPAČVA",
-    "train_number": "74100",
-    "event_time": "2026-03-25T07:21:00",
-    "seen_at": "2026-03-25T06:27:45.394Z",
-    "raw": "Br. Vlaka 74100 formiran     25.03.26. 07:21, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OTOK",
@@ -11284,5 +11257,86 @@
     "event_time": "2026-03-28T07:05:00",
     "seen_at": "2026-03-28T06:06:56.479Z",
     "raw": "Br. Vlaka 81286 odlazak      28.03.26. 07:05, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81286",
+    "event_time": "2026-03-28T07:17:00",
+    "seen_at": "2026-03-28T06:20:20.579Z",
+    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 07:17, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-28T06:04:00",
+    "seen_at": "2026-03-28T06:22:38.964Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-28T06:04:00",
+    "seen_at": "2026-03-28T06:22:38.964Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-28T06:10:00",
+    "seen_at": "2026-03-28T06:23:02.567Z",
+    "raw": "Br. Vlaka 69006 formiran     28.03.26. 06:10, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-28T06:10:00",
+    "seen_at": "2026-03-28T06:23:02.568Z",
+    "raw": "Br. Vlaka 69006 formiran     28.03.26. 06:10, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81286",
+    "event_time": "2026-03-28T07:23:00",
+    "seen_at": "2026-03-28T06:24:11.923Z",
+    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 07:23, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-28T07:14:00",
+    "seen_at": "2026-03-28T06:24:35.134Z",
+    "raw": "Br. Vlaka 69006 odlazak      28.03.26. 07:14, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-28T07:14:00",
+    "seen_at": "2026-03-28T06:24:35.134Z",
+    "raw": "Br. Vlaka 69006 odlazak      28.03.26. 07:14, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "82327",
+    "event_time": "2026-03-28T07:24:00",
+    "seen_at": "2026-03-28T06:24:58.221Z",
+    "raw": "Br. Vlaka 82327 formiran     28.03.26. 07:24, kolodvor OSIJEK"
   }
 ]
