@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82225",
-    "event_time": "2026-03-25T13:45:00",
-    "seen_at": "2026-03-25T12:46:48.133Z",
-    "raw": "Br. Vlaka 82225 odlazak      25.03.26. 13:45, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89755",
-    "event_time": "2026-03-25T13:49:00",
-    "seen_at": "2026-03-25T12:50:19.981Z",
-    "raw": "Br. Vlaka 89755 dolazak      25.03.26. 13:49, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "GOMIRJE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T13:49:00",
-    "seen_at": "2026-03-25T12:50:19.982Z",
-    "raw": "Br. Vlaka 79931 odlazak      25.03.26. 13:49, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "81283",
-    "event_time": "2026-03-25T13:48:00",
-    "seen_at": "2026-03-25T12:50:43.467Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 13:48, kolodvor 72304"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "OGULINSKI HRELJIN",
@@ -10024,5 +9988,32 @@
     "event_time": "2026-03-28T13:40:00",
     "seen_at": "2026-03-28T12:40:09.904Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 13:40, kolodvor 72304"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "47938",
+    "event_time": "2026-03-28T13:48:00",
+    "seen_at": "2026-03-28T12:48:30.449Z",
+    "raw": "Br. Vlaka 47938 formiran     28.03.26. 13:48, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "47938",
+    "event_time": "2026-03-28T13:48:00",
+    "seen_at": "2026-03-28T12:48:30.449Z",
+    "raw": "Br. Vlaka 47938 formiran     28.03.26. 13:48, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81974",
+    "event_time": "2026-03-28T13:51:00",
+    "seen_at": "2026-03-28T12:51:36.529Z",
+    "raw": "Br. Vlaka 81974 odlazak      28.03.26. 13:51, kolodvor OSIJEK DONJI GRAD"
   }
 ]
