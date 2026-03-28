@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "89728",
-    "event_time": "2026-03-25T18:00:00",
-    "seen_at": "2026-03-25T17:21:17.316Z",
-    "raw": "Br. Vlaka 89728 dolazak      25.03.26. 18:00, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "89728",
-    "event_time": "2026-03-25T18:21:00",
-    "seen_at": "2026-03-25T17:21:40.454Z",
-    "raw": "Br. Vlaka 89728 odlazak      25.03.26. 18:21, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81280",
-    "event_time": "2026-03-25T18:13:00",
-    "seen_at": "2026-03-25T17:26:09.734Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 18:13, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81281",
-    "event_time": "2026-03-25T18:25:00",
-    "seen_at": "2026-03-25T17:28:05.479Z",
-    "raw": "Br. Vlaka 81281 odlazak      25.03.26. 18:25, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -9349,5 +9313,41 @@
     "event_time": "2026-03-28T18:17:00",
     "seen_at": "2026-03-28T17:18:31.602Z",
     "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:17, kolodvor 77424"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48793",
+    "event_time": "2026-03-28T18:24:00",
+    "seen_at": "2026-03-28T17:24:55.062Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 18:24, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48793",
+    "event_time": "2026-03-28T18:24:00",
+    "seen_at": "2026-03-28T17:24:55.062Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 18:24, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T18:27:00",
+    "seen_at": "2026-03-28T17:28:22.339Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 18:27, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T18:27:00",
+    "seen_at": "2026-03-28T17:28:22.339Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 18:27, kolodvor OŠTARIJE"
   }
 ]
