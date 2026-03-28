@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "81283",
-    "event_time": "2026-03-25T22:29:00",
-    "seen_at": "2026-03-25T21:29:26.812Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 22:29, kolodvor NOVSKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-25T22:30:00",
-    "seen_at": "2026-03-25T21:31:34.068Z",
-    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 22:30, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-25T22:30:00",
-    "seen_at": "2026-03-25T21:31:34.068Z",
-    "raw": "Br. Vlaka 63305 odlazak      25.03.26. 22:30, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45994",
-    "event_time": "2026-03-25T22:36:00",
-    "seen_at": "2026-03-25T21:37:39.334Z",
-    "raw": "Br. Vlaka 45994 odlazak      25.03.26. 22:36, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "SESVETE",
@@ -8890,5 +8854,41 @@
     "event_time": "2026-03-28T22:19:00",
     "seen_at": "2026-03-28T21:20:32.930Z",
     "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:19, kolodvor 72303"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:25:00",
+    "seen_at": "2026-03-28T21:31:12.722Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:25, kolodvor 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:25:00",
+    "seen_at": "2026-03-28T21:31:12.722Z",
+    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:25, kolodvor 72304"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:30:00",
+    "seen_at": "2026-03-28T21:34:38.423Z",
+    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 22:30, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "48793",
+    "event_time": "2026-03-28T22:30:00",
+    "seen_at": "2026-03-28T21:34:38.424Z",
+    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 22:30, kolodvor ZAGREB KLARA"
   }
 ]
