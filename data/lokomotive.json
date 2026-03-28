@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "LOKVE",
-    "train_number": "79931",
-    "event_time": "2026-03-25T12:39:00",
-    "seen_at": "2026-03-25T11:39:51.720Z",
-    "raw": "Br. Vlaka 79931 dolazak      25.03.26. 12:39, kolodvor LOKVE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81283",
-    "event_time": "2026-03-25T12:39:00",
-    "seen_at": "2026-03-25T11:40:14.652Z",
-    "raw": "Br. Vlaka 81283 formiran     25.03.26. 12:39, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82225",
-    "event_time": "2026-03-25T12:42:00",
-    "seen_at": "2026-03-25T11:42:55.764Z",
-    "raw": "Br. Vlaka 82225 dolazak      25.03.26. 12:42, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89921",
-    "event_time": "2026-03-25T12:42:00",
-    "seen_at": "2026-03-25T11:44:05.468Z",
-    "raw": "Br. Vlaka 89921 odlazak      25.03.26. 12:42, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "45131",
-    "event_time": "2026-03-25T12:46:00",
-    "seen_at": "2026-03-25T11:48:16.855Z",
-    "raw": "Br. Vlaka 45131 odlazak      25.03.26. 12:46, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ČAČINCI",
@@ -10582,5 +10537,14 @@
     "event_time": "2026-03-28T12:36:00",
     "seen_at": "2026-03-28T11:38:23.477Z",
     "raw": "Br. Vlaka 45131 odlazak      28.03.26. 12:36, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "45131",
+    "event_time": "2026-03-28T12:48:00",
+    "seen_at": "2026-03-28T11:48:30.283Z",
+    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 12:48, kolodvor IVANKOVO"
   }
 ]
