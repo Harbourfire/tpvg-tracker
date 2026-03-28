@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-03-25T04:10:00",
-    "seen_at": "2026-03-25T03:14:08.578Z",
-    "raw": "Br. Vlaka 63306 dolazak      25.03.26. 04:10, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-25T04:10:00",
-    "seen_at": "2026-03-25T03:14:31.709Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89256",
-    "event_time": "2026-03-25T04:15:00",
-    "seen_at": "2026-03-25T03:15:27.549Z",
-    "raw": "Br. Vlaka 89256 odlazak      25.03.26. 04:15, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-25T04:18:00",
-    "seen_at": "2026-03-25T03:20:23.336Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "81981",
-    "event_time": "2026-03-25T04:20:00",
-    "seen_at": "2026-03-25T03:22:39.694Z",
-    "raw": "Br. Vlaka 81981 odlazak      25.03.26. 04:20, kolodvor SV. IVAN ŽABNO"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "BJELOVAR",
@@ -11194,5 +11149,23 @@
     "event_time": "2026-03-28T04:04:00",
     "seen_at": "2026-03-28T03:06:50.495Z",
     "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:04, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:21:00",
+    "seen_at": "2026-03-28T03:22:39.873Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:21, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "45990",
+    "event_time": "2026-03-28T04:21:00",
+    "seen_at": "2026-03-28T03:22:39.873Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:21, kolodvor LEPAVINA"
   }
 ]
