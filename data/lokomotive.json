@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "JANKOVCI",
-    "train_number": "48891",
-    "event_time": "2026-03-25T19:48:00",
-    "seen_at": "2026-03-25T19:06:39.242Z",
-    "raw": "Br. Vlaka 48891 dolazak      25.03.26. 19:48, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "997894215612",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "89895",
-    "event_time": "2026-03-25T20:06:00",
-    "seen_at": "2026-03-25T19:07:02.140Z",
-    "raw": "Br. Vlaka 89895 formiran     25.03.26. 20:06, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89064",
-    "event_time": "2026-03-25T20:07:00",
-    "seen_at": "2026-03-25T19:07:35.633Z",
-    "raw": "Br. Vlaka 89064 formiran     25.03.26. 20:07, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894215612",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89896",
-    "event_time": "2026-03-25T20:07:00",
-    "seen_at": "2026-03-25T19:07:59.023Z",
-    "raw": "Br. Vlaka 89896 formiran     25.03.26. 20:07, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "81280",
-    "event_time": "2026-03-25T20:06:00",
-    "seen_at": "2026-03-25T19:09:31.432Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 20:06, kolodvor ZVEČAJ"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
@@ -9016,5 +8971,23 @@
     "event_time": "2026-03-28T19:55:00",
     "seen_at": "2026-03-28T18:56:16.309Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:55, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T20:09:00",
+    "seen_at": "2026-03-28T19:11:16.085Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 20:09, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81213",
+    "event_time": "2026-03-28T20:09:00",
+    "seen_at": "2026-03-28T19:11:16.085Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 20:09, kolodvor LIČKO LEŠĆE"
   }
 ]
