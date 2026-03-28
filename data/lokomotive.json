@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48790",
-    "event_time": "2026-03-25T05:11:00",
-    "seen_at": "2026-03-25T04:11:30.876Z",
-    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 05:11, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "48790",
-    "event_time": "2026-03-25T05:19:00",
-    "seen_at": "2026-03-25T04:19:38.590Z",
-    "raw": "Br. Vlaka 48790 odlazak      25.03.26. 05:19, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OGULIN",
@@ -11257,5 +11239,23 @@
     "event_time": "2026-03-28T04:56:00",
     "seen_at": "2026-03-28T04:01:07.327Z",
     "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:56, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45990",
+    "event_time": "2026-03-28T05:10:00",
+    "seen_at": "2026-03-28T04:12:17.709Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 05:10, kolodvor 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45990",
+    "event_time": "2026-03-28T05:10:00",
+    "seen_at": "2026-03-28T04:12:17.709Z",
+    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 05:10, kolodvor 73164"
   }
 ]
