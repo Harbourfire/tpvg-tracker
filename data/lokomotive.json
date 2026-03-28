@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45994",
-    "event_time": "2026-03-25T20:22:00",
-    "seen_at": "2026-03-25T19:22:29.007Z",
-    "raw": "Br. Vlaka 45994 dolazak      25.03.26. 20:22, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "81281",
-    "event_time": "2026-03-25T19:26:00",
-    "seen_at": "2026-03-25T19:23:14.758Z",
-    "raw": "Br. Vlaka 81281 promjena sas 25.03.26. 19:26, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "81280",
-    "event_time": "2026-03-25T20:18:00",
-    "seen_at": "2026-03-25T19:24:00.619Z",
-    "raw": "Br. Vlaka 81280 odlazak      25.03.26. 20:18, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -8971,5 +8944,23 @@
     "event_time": "2026-03-28T20:10:00",
     "seen_at": "2026-03-28T19:12:39.078Z",
     "raw": "Br. Vlaka 81213 odlazak      28.03.26. 20:10, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81213",
+    "event_time": "2026-03-28T20:29:00",
+    "seen_at": "2026-03-28T19:30:53.178Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 20:29, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81213",
+    "event_time": "2026-03-28T20:29:00",
+    "seen_at": "2026-03-28T19:30:53.179Z",
+    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 20:29, kolodvor PERUŠIĆ"
   }
 ]
