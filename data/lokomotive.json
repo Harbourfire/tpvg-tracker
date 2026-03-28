@@ -2,51 +2,6 @@
   {
     "uic": "927820620171",
     "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89754",
-    "event_time": "2026-03-25T16:22:00",
-    "seen_at": "2026-03-25T15:22:39.086Z",
-    "raw": "Br. Vlaka 89754 odlazak      25.03.26. 16:22, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "81283",
-    "event_time": "2026-03-25T16:21:00",
-    "seen_at": "2026-03-25T15:22:39.087Z",
-    "raw": "Br. Vlaka 81283 odlazak      25.03.26. 16:21, kolodvor LEKENIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45994",
-    "event_time": "2026-03-25T16:28:00",
-    "seen_at": "2026-03-25T15:28:26.496Z",
-    "raw": "Br. Vlaka 45994 dolazak      25.03.26. 16:28, kolodvor 72302"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89921",
-    "event_time": "2026-03-25T16:28:00",
-    "seen_at": "2026-03-25T15:28:49.462Z",
-    "raw": "Br. Vlaka 89921 dolazak      25.03.26. 16:28, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-25T16:30:00",
-    "seen_at": "2026-03-25T15:31:31.886Z",
-    "raw": "Br. Vlaka 63310 odlazak      25.03.26. 16:30, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
     "station": "STARI MIKANOVCI",
     "train_number": "89754",
     "event_time": "2026-03-25T16:31:00",
@@ -9745,5 +9700,14 @@
     "event_time": "2026-03-28T16:19:00",
     "seen_at": "2026-03-28T15:20:36.608Z",
     "raw": "Br. Vlaka 48793 dolazak      28.03.26. 16:19, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "81213",
+    "event_time": "2026-03-28T16:25:00",
+    "seen_at": "2026-03-28T15:27:19.911Z",
+    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 16:25, kolodvor GENERALSKI STOL"
   }
 ]
