@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81232",
-    "event_time": "2026-03-26T15:17:00",
-    "seen_at": "2026-03-26T14:18:02.474Z",
-    "raw": "Br. Vlaka 81232 dolazak      26.03.26. 15:17, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230050",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF granica",
@@ -8143,5 +8134,14 @@
     "event_time": "2026-03-29T16:00:00",
     "seen_at": "2026-03-29T14:06:22.825Z",
     "raw": "Br. Vlaka 63310 dolazak      29.03.26. 16:00, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89101",
+    "event_time": "2026-03-29T16:18:00",
+    "seen_at": "2026-03-29T14:21:20.616Z",
+    "raw": "Br. Vlaka 89101 odlazak      29.03.26. 16:18, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
