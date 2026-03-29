@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "82330",
-    "event_time": "2026-03-26T20:25:00",
-    "seen_at": "2026-03-26T19:26:18.467Z",
-    "raw": "Br. Vlaka 82330 odlazak      26.03.26. 20:25, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820622029",
     "type": "Dolazak",
     "station": "OSIJEK",
     "train_number": "82330",
@@ -7666,5 +7657,68 @@
     "event_time": "2026-03-29T21:14:00",
     "seen_at": "2026-03-29T19:15:20.202Z",
     "raw": "Br. Vlaka 45897 odlazak      29.03.26. 21:14, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "45897",
+    "event_time": "2026-03-29T21:24:00",
+    "seen_at": "2026-03-29T19:25:14.461Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 21:24, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-29T21:25:00",
+    "seen_at": "2026-03-29T19:26:00.664Z",
+    "raw": "Br. Vlaka 69006 odlazak      29.03.26. 21:25, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-29T21:25:00",
+    "seen_at": "2026-03-29T19:26:00.664Z",
+    "raw": "Br. Vlaka 69006 odlazak      29.03.26. 21:25, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-29T21:30:00",
+    "seen_at": "2026-03-29T19:31:21.221Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-29T21:30:00",
+    "seen_at": "2026-03-29T19:31:21.222Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "89123",
+    "event_time": "2026-03-29T19:04:00",
+    "seen_at": "2026-03-29T19:31:43.971Z",
+    "raw": "Br. Vlaka 89123 formiran     29.03.26. 19:04, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "89123",
+    "event_time": "2026-03-29T19:04:00",
+    "seen_at": "2026-03-29T19:31:43.971Z",
+    "raw": "Br. Vlaka 89123 formiran     29.03.26. 19:04, kolodvor OGULIN"
   }
 ]
