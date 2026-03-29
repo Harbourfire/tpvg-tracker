@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "82323",
-    "event_time": "2026-03-26T12:51:00",
-    "seen_at": "2026-03-26T22:22:05.080Z",
-    "raw": "Br. Vlaka 82323 formiran     26.03.26. 12:51, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "82323",
-    "event_time": "2026-03-26T12:51:00",
-    "seen_at": "2026-03-26T22:22:05.080Z",
-    "raw": "Br. Vlaka 82323 formiran     26.03.26. 12:51, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47945",
-    "event_time": "2026-03-26T23:22:00",
-    "seen_at": "2026-03-26T22:22:27.863Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:22, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47945",
-    "event_time": "2026-03-26T23:22:00",
-    "seen_at": "2026-03-26T22:22:27.863Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:22, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "81284",
-    "event_time": "2026-03-26T23:22:00",
-    "seen_at": "2026-03-26T22:25:07.608Z",
-    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 23:22, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47945",
-    "event_time": "2026-03-26T23:27:00",
-    "seen_at": "2026-03-26T22:27:47.147Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:27, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47945",
-    "event_time": "2026-03-26T23:27:00",
-    "seen_at": "2026-03-26T22:27:47.147Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:27, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-26T23:26:00",
-    "seen_at": "2026-03-26T22:28:09.837Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:26, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-26T23:26:00",
-    "seen_at": "2026-03-26T22:28:09.837Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:26, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "SAVSKI MAROF",
@@ -7504,5 +7423,32 @@
     "event_time": "2026-03-30T00:17:00",
     "seen_at": "2026-03-29T22:18:38.039Z",
     "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:17, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47938",
+    "event_time": "2026-03-30T00:29:00",
+    "seen_at": "2026-03-29T22:29:39.980Z",
+    "raw": "Br. Vlaka 47938 odlazak      30.03.26. 00:29, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-30T00:30:00",
+    "seen_at": "2026-03-29T22:31:12.251Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-30T00:30:00",
+    "seen_at": "2026-03-29T22:31:12.251Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
