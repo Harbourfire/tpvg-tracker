@@ -2,42 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "47562",
-    "event_time": "2026-03-26T18:53:00",
-    "seen_at": "2026-03-26T17:57:27.460Z",
-    "raw": "Br. Vlaka 47562 odlazak      26.03.26. 18:53, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-26T18:58:00",
-    "seen_at": "2026-03-26T18:01:42.611Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-03-26T19:03:00",
-    "seen_at": "2026-03-26T18:04:48.617Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 19:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-03-26T19:03:00",
-    "seen_at": "2026-03-26T18:04:48.618Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 19:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ĐELETOVCI",
     "train_number": "47562",
     "event_time": "2026-03-26T19:02:00",
@@ -7882,5 +7846,14 @@
     "event_time": "2026-03-29T19:49:00",
     "seen_at": "2026-03-29T17:50:02.693Z",
     "raw": "Br. Vlaka 47938 odlazak      29.03.26. 19:49, kolodvor GRADEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47938",
+    "event_time": "2026-03-29T19:58:00",
+    "seen_at": "2026-03-29T17:58:54.187Z",
+    "raw": "Br. Vlaka 47938 dolazak      29.03.26. 19:58, kolodvor KRIŽEVCI"
   }
 ]
