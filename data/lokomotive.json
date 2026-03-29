@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "74101",
-    "event_time": "2026-03-26T09:11:00",
-    "seen_at": "2026-03-26T08:18:49.115Z",
-    "raw": "Br. Vlaka 74101 dolazak      26.03.26. 09:11, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-03-26T09:11:00",
-    "seen_at": "2026-03-26T08:19:35.529Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "70200",
-    "event_time": "2026-03-26T09:12:00",
-    "seen_at": "2026-03-26T08:21:31.958Z",
-    "raw": "Br. Vlaka 70200 odlazak      26.03.26. 09:12, kolodvor ROČ"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Rasformiran",
-    "station": "BUZET",
-    "train_number": null,
-    "event_time": "2026-03-26T09:20:00",
-    "seen_at": "2026-03-26T08:22:06.325Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77425 BUZET"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "DRENOVCI",
@@ -8530,5 +8494,14 @@
     "event_time": "2026-03-29T09:49:00",
     "seen_at": "2026-03-29T07:55:19.629Z",
     "raw": "Br. Vlaka 45895 odlazak      29.03.26. 09:49, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45895",
+    "event_time": "2026-03-29T10:13:00",
+    "seen_at": "2026-03-29T08:14:13.080Z",
+    "raw": "Br. Vlaka 45895 dolazak      29.03.26. 10:13, kolodvor VINKOVCI"
   }
 ]
