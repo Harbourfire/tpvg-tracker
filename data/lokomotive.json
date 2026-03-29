@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "48891",
-    "event_time": "2026-03-26T03:20:00",
-    "seen_at": "2026-03-26T02:35:53.109Z",
-    "raw": "Br. Vlaka 48891 dolazak      26.03.26. 03:20, kolodvor TOVARNIK"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -8854,5 +8845,14 @@
     "event_time": "2026-03-29T04:33:00",
     "seen_at": "2026-03-29T02:33:57.773Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 04:33, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-29T04:34:00",
+    "seen_at": "2026-03-29T02:39:24.346Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.03.26. 04:34, kolodvor JOSIPDOL"
   }
 ]
