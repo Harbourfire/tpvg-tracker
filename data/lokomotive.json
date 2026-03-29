@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48790",
-    "event_time": "2026-03-26T05:30:00",
-    "seen_at": "2026-03-26T04:31:30.549Z",
-    "raw": "Br. Vlaka 48790 odlazak      26.03.26. 05:30, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "48790",
-    "event_time": "2026-03-26T05:36:00",
-    "seen_at": "2026-03-26T04:37:22.013Z",
-    "raw": "Br. Vlaka 48790 dolazak      26.03.26. 05:36, kolodvor SESVETE"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "ŽUPANJA",
@@ -8782,5 +8764,23 @@
     "event_time": "2026-03-29T03:53:00",
     "seen_at": "2026-03-29T04:22:46.241Z",
     "raw": "Br. Vlaka 89182 formiran     29.03.26. 03:53, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-03-29T06:30:00",
+    "seen_at": "2026-03-29T04:32:07.427Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89192",
+    "event_time": "2026-03-29T06:39:00",
+    "seen_at": "2026-03-29T04:39:51.278Z",
+    "raw": "Br. Vlaka 89192 odlazak      29.03.26. 06:39, kolodvor SLAVONSKI BROD"
   }
 ]
