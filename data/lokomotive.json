@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45994",
-    "event_time": "2026-03-26T00:51:00",
-    "seen_at": "2026-03-25T23:52:40.554Z",
-    "raw": "Br. Vlaka 45994 odlazak      26.03.26. 00:51, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "45996",
-    "event_time": "2026-03-26T00:58:00",
-    "seen_at": "2026-03-25T23:58:25.993Z",
-    "raw": "Br. Vlaka 45996 dolazak      26.03.26. 00:58, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "45996",
-    "event_time": "2026-03-26T00:59:00",
-    "seen_at": "2026-03-25T23:59:34.862Z",
-    "raw": "Br. Vlaka 45996 odlazak      26.03.26. 00:59, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81284",
-    "event_time": "2026-03-26T01:01:00",
-    "seen_at": "2026-03-26T00:01:42.578Z",
-    "raw": "Br. Vlaka 81284 formiran     26.03.26. 01:01, kolodvor 72303"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -8773,5 +8737,50 @@
     "event_time": "2026-03-29T00:44:00",
     "seen_at": "2026-03-28T23:45:19.812Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 00:44, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81976",
+    "event_time": "2026-03-29T00:52:00",
+    "seen_at": "2026-03-28T23:53:32.678Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 00:52, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81976",
+    "event_time": "2026-03-29T00:52:00",
+    "seen_at": "2026-03-28T23:53:32.678Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 00:52, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "47562",
+    "event_time": "2026-03-29T00:54:00",
+    "seen_at": "2026-03-28T23:55:54.526Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 00:54, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81976",
+    "event_time": "2026-03-29T01:01:00",
+    "seen_at": "2026-03-29T00:02:31.086Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 01:01, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81976",
+    "event_time": "2026-03-29T01:01:00",
+    "seen_at": "2026-03-29T00:02:31.086Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 01:01, kolodvor PLAŠKI"
   }
 ]
