@@ -2,42 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "83827",
-    "event_time": "2026-03-26T13:38:00",
-    "seen_at": "2026-03-26T12:42:42.116Z",
-    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:38, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "83827",
-    "event_time": "2026-03-26T13:38:00",
-    "seen_at": "2026-03-26T12:42:42.116Z",
-    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:38, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "TOVARNIK granica",
-    "train_number": "47562",
-    "event_time": "2026-03-26T11:01:00",
-    "seen_at": "2026-03-26T12:44:35.632Z",
-    "raw": "Br. Vlaka 47562 formiran     26.03.26. 11:01, kolodvor 71020"
-  },
-  {
-    "uic": "927820440067",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "89240",
-    "event_time": "2026-03-26T13:42:00",
-    "seen_at": "2026-03-26T12:44:58.324Z",
-    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:42, kolodvor SISAK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "83827",
     "event_time": "2026-03-26T13:49:00",
@@ -8197,5 +8161,41 @@
     "event_time": "2026-03-29T14:32:00",
     "seen_at": "2026-03-29T12:35:33.219Z",
     "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:32, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "89101",
+    "event_time": "2026-03-29T14:37:00",
+    "seen_at": "2026-03-29T12:38:34.090Z",
+    "raw": "Br. Vlaka 89101 dolazak      29.03.26. 14:37, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-29T14:38:00",
+    "seen_at": "2026-03-29T12:38:57.347Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:44:00",
+    "seen_at": "2026-03-29T12:46:17.609Z",
+    "raw": "Br. Vlaka 63310 dolazak      29.03.26. 14:44, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:44:00",
+    "seen_at": "2026-03-29T12:46:17.609Z",
+    "raw": "Br. Vlaka 63310 dolazak      29.03.26. 14:44, kolodvor RUDOPOLJE"
   }
 ]
