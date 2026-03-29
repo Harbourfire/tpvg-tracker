@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81284",
-    "event_time": "2026-03-26T22:56:00",
-    "seen_at": "2026-03-26T21:57:14.231Z",
-    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 22:56, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -7531,5 +7522,50 @@
     "event_time": "2026-03-29T23:47:00",
     "seen_at": "2026-03-29T21:47:54.496Z",
     "raw": "Br. Vlaka 89123 odlazak      29.03.26. 23:47, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47990",
+    "event_time": "2026-03-29T23:56:00",
+    "seen_at": "2026-03-29T21:56:41.399Z",
+    "raw": "Br. Vlaka 47990 odlazak      29.03.26. 23:56, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47990",
+    "event_time": "2026-03-29T23:56:00",
+    "seen_at": "2026-03-29T21:56:41.399Z",
+    "raw": "Br. Vlaka 47990 odlazak      29.03.26. 23:56, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47938",
+    "event_time": "2026-03-29T23:58:00",
+    "seen_at": "2026-03-29T21:58:37.474Z",
+    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 23:58, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "89123",
+    "event_time": "2026-03-30T00:00:00",
+    "seen_at": "2026-03-29T22:01:20.282Z",
+    "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:00, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "89123",
+    "event_time": "2026-03-30T00:00:00",
+    "seen_at": "2026-03-29T22:01:20.282Z",
+    "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:00, kolodvor LIČKO LEŠĆE"
   }
 ]
