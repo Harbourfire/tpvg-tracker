@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-03-26T09:17:00",
-    "seen_at": "2026-03-26T08:44:21.568Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81526",
-    "event_time": "2026-03-26T09:46:00",
-    "seen_at": "2026-03-26T08:47:01.708Z",
-    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 09:46, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -8476,5 +8458,23 @@
     "event_time": "2026-03-23T09:36:00",
     "seen_at": "2026-03-29T08:39:45.760Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-29T10:43:00",
+    "seen_at": "2026-03-29T08:44:43.581Z",
+    "raw": "Br. Vlaka 69175 odlazak      29.03.26. 10:43, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-03-29T10:49:00",
+    "seen_at": "2026-03-29T08:50:49.860Z",
+    "raw": "Br. Vlaka 69175 odlazak      29.03.26. 10:49, kolodvor JOSIPDOL"
   }
 ]
