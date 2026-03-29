@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-26T23:11:00",
-    "seen_at": "2026-03-26T22:14:10.863Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:11, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-26T23:11:00",
-    "seen_at": "2026-03-26T22:14:10.864Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.03.26. 23:11, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "81284",
-    "event_time": "2026-03-26T23:15:00",
-    "seen_at": "2026-03-26T22:16:54.074Z",
-    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 23:15, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47945",
-    "event_time": "2026-03-26T23:15:00",
-    "seen_at": "2026-03-26T22:18:03.040Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:15, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47945",
-    "event_time": "2026-03-26T23:15:00",
-    "seen_at": "2026-03-26T22:18:03.040Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 23:15, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-03-26T23:18:00",
-    "seen_at": "2026-03-26T22:20:56.763Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-03-26T23:18:00",
-    "seen_at": "2026-03-26T22:20:56.763Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440232",
     "type": "Formiran",
     "station": "ZAGREB ZAPADNI",
@@ -7522,5 +7459,50 @@
     "event_time": "2026-03-30T00:06:00",
     "seen_at": "2026-03-29T22:07:33.641Z",
     "raw": "Br. Vlaka 47938 odlazak      30.03.26. 00:06, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "47990",
+    "event_time": "2026-03-30T00:13:00",
+    "seen_at": "2026-03-29T22:15:31.074Z",
+    "raw": "Br. Vlaka 47990 dolazak      30.03.26. 00:13, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "47990",
+    "event_time": "2026-03-30T00:13:00",
+    "seen_at": "2026-03-29T22:15:31.074Z",
+    "raw": "Br. Vlaka 47990 dolazak      30.03.26. 00:13, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "89123",
+    "event_time": "2026-03-30T00:17:00",
+    "seen_at": "2026-03-29T22:18:38.039Z",
+    "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:17, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47938",
+    "event_time": "2026-03-30T00:15:00",
+    "seen_at": "2026-03-29T22:18:38.039Z",
+    "raw": "Br. Vlaka 47938 dolazak      30.03.26. 00:15, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "89123",
+    "event_time": "2026-03-30T00:17:00",
+    "seen_at": "2026-03-29T22:18:38.039Z",
+    "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:17, kolodvor PERUŠIĆ"
   }
 ]
