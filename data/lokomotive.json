@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-27T00:10:00",
-    "seen_at": "2026-03-26T23:13:01.557Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.03.26. 00:10, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-27T00:10:00",
-    "seen_at": "2026-03-26T23:13:01.558Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.03.26. 00:10, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "63305",
     "event_time": "2026-03-27T00:19:00",
@@ -7333,5 +7315,50 @@
     "event_time": "2026-03-30T00:59:00",
     "seen_at": "2026-03-29T23:02:20.610Z",
     "raw": "Br. Vlaka 45897 dolazak      30.03.26. 00:59, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47938",
+    "event_time": "2026-03-30T01:09:00",
+    "seen_at": "2026-03-29T23:12:48.591Z",
+    "raw": "Br. Vlaka 47938 dolazak      30.03.26. 01:09, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-03-30T01:09:00",
+    "seen_at": "2026-03-29T23:13:12.140Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89870",
+    "event_time": "2026-03-30T00:32:00",
+    "seen_at": "2026-03-29T23:13:35.235Z",
+    "raw": "Br. Vlaka 89870 formiran     30.03.26. 00:32, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47990",
+    "event_time": "2026-03-30T01:19:00",
+    "seen_at": "2026-03-29T23:20:55.445Z",
+    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 01:19, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47990",
+    "event_time": "2026-03-30T01:19:00",
+    "seen_at": "2026-03-29T23:20:55.445Z",
+    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 01:19, kolodvor VRBOVEC"
   }
 ]
