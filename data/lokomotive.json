@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "82330",
-    "event_time": "2026-03-26T20:32:00",
-    "seen_at": "2026-03-26T19:33:00.861Z",
-    "raw": "Br. Vlaka 82330 dolazak      26.03.26. 20:32, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-26T17:17:00",
-    "seen_at": "2026-03-26T19:33:23.615Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "82328",
-    "event_time": "2026-03-26T19:53:00",
-    "seen_at": "2026-03-26T19:33:46.418Z",
-    "raw": "Br. Vlaka 82328 formiran     26.03.26. 19:53, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -7720,5 +7693,14 @@
     "event_time": "2026-03-29T19:04:00",
     "seen_at": "2026-03-29T19:31:43.971Z",
     "raw": "Br. Vlaka 89123 formiran     29.03.26. 19:04, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "45897",
+    "event_time": "2026-03-29T21:33:00",
+    "seen_at": "2026-03-29T19:33:52.702Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 21:33, kolodvor ORIOVAC"
   }
 ]
