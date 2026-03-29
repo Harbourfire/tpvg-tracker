@@ -1,59 +1,5 @@
 [
   {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-23T09:57:00",
-    "seen_at": "2026-03-26T10:05:38.183Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81526",
-    "event_time": "2026-03-26T11:07:00",
-    "seen_at": "2026-03-26T10:07:33.330Z",
-    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 11:07, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81526",
-    "event_time": "2026-03-26T11:08:00",
-    "seen_at": "2026-03-26T10:08:18.719Z",
-    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 11:08, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "48891",
-    "event_time": "2026-03-26T10:58:00",
-    "seen_at": "2026-03-26T10:08:41.391Z",
-    "raw": "Br. Vlaka 48891 odlazak      26.03.26. 10:58, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-03-26T11:02:00",
-    "seen_at": "2026-03-26T10:09:04.203Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81991",
-    "event_time": "2026-03-26T11:05:00",
-    "seen_at": "2026-03-26T10:09:04.204Z",
-    "raw": "Br. Vlaka 81991 promjena sas 26.03.26. 11:05, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820440232",
     "type": "Dolazak",
     "station": "DUGO SELO",
@@ -8512,5 +8458,23 @@
     "event_time": "2026-03-29T06:54:00",
     "seen_at": "2026-03-29T09:59:43.366Z",
     "raw": "Br. Vlaka 89251 formiran     29.03.26. 06:54, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-03-29T12:01:00",
+    "seen_at": "2026-03-29T10:02:45.240Z",
+    "raw": "Br. Vlaka 69175 odlazak      29.03.26. 12:01, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-23T09:57:00",
+    "seen_at": "2026-03-29T10:06:13.226Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
