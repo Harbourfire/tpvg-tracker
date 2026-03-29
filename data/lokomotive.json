@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47945",
-    "event_time": "2026-03-26T19:53:00",
-    "seen_at": "2026-03-26T18:55:04.398Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 19:53, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47945",
-    "event_time": "2026-03-26T19:53:00",
-    "seen_at": "2026-03-26T18:55:04.398Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 19:53, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "47945",
-    "event_time": "2026-03-26T20:00:00",
-    "seen_at": "2026-03-26T19:00:44.635Z",
-    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 20:00, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "47945",
-    "event_time": "2026-03-26T20:00:00",
-    "seen_at": "2026-03-26T19:00:44.635Z",
-    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 20:00, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "IVANKOVO",
-    "train_number": "47562",
-    "event_time": "2026-03-26T19:58:00",
-    "seen_at": "2026-03-26T19:03:34.359Z",
-    "raw": "Br. Vlaka 47562 dolazak      26.03.26. 19:58, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820440232",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -7720,5 +7675,23 @@
     "event_time": "2026-03-29T20:27:00",
     "seen_at": "2026-03-29T18:28:25.543Z",
     "raw": "Br. Vlaka 45897 odlazak      29.03.26. 20:27, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "45897",
+    "event_time": "2026-03-29T20:47:00",
+    "seen_at": "2026-03-29T19:00:11.864Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 20:47, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "45897",
+    "event_time": "2026-03-29T21:02:00",
+    "seen_at": "2026-03-29T19:02:56.867Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 21:02, kolodvor NOVA GRADIŠKA"
   }
 ]
