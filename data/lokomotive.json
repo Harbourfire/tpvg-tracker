@@ -2,24 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81284",
-    "event_time": "2026-03-26T01:50:00",
-    "seen_at": "2026-03-26T00:51:22.236Z",
-    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 01:50, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "45996",
-    "event_time": "2026-03-26T01:55:00",
-    "seen_at": "2026-03-26T00:55:31.237Z",
-    "raw": "Br. Vlaka 45996 odlazak      26.03.26. 01:55, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "81284",
     "event_time": "2026-03-26T01:57:00",
@@ -8881,5 +8863,23 @@
     "event_time": "2026-03-29T01:39:00",
     "seen_at": "2026-03-29T00:40:07.621Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 01:39, kolodvor SIBINJ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-29T00:20:00",
+    "seen_at": "2026-03-29T00:53:02.328Z",
+    "raw": "Br. Vlaka 63305 formiran     29.03.26. 00:20, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "47562",
+    "event_time": "2026-03-29T01:53:00",
+    "seen_at": "2026-03-29T00:55:18.918Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 01:53, kolodvor ORIOVAC"
   }
 ]
