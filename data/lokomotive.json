@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-26T17:10:00",
-    "seen_at": "2026-03-26T16:13:55.243Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-26T17:03:00",
-    "seen_at": "2026-03-26T16:13:55.243Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 17:03, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-26T17:03:00",
-    "seen_at": "2026-03-26T16:13:55.243Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 17:03, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "48790",
-    "event_time": "2026-03-26T17:13:00",
-    "seen_at": "2026-03-26T16:14:41.155Z",
-    "raw": "Br. Vlaka 48790 odlazak      26.03.26. 17:13, kolodvor 73164"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "PERUŠIĆ",
@@ -8080,5 +8044,14 @@
     "event_time": "2026-03-29T18:10:00",
     "seen_at": "2026-03-29T16:10:58.297Z",
     "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:10, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "45897",
+    "event_time": "2026-03-29T18:18:00",
+    "seen_at": "2026-03-29T16:19:02.690Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:18, kolodvor TUROPOLJE"
   }
 ]
