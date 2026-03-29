@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81526",
-    "event_time": "2026-03-26T13:24:00",
-    "seen_at": "2026-03-26T12:27:14.057Z",
-    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 13:24, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81991",
-    "event_time": "2026-03-26T13:20:00",
-    "seen_at": "2026-03-26T12:31:26.538Z",
-    "raw": "Br. Vlaka 81991 dolazak      26.03.26. 13:20, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440067",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89240",
-    "event_time": "2026-03-26T13:22:00",
-    "seen_at": "2026-03-26T12:32:34.809Z",
-    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:22, kolodvor SISAK CAPRAG"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -8188,5 +8161,41 @@
     "event_time": "2026-03-26T13:13:00",
     "seen_at": "2026-03-29T12:21:45.659Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89251",
+    "event_time": "2026-03-29T14:30:00",
+    "seen_at": "2026-03-29T12:33:59.817Z",
+    "raw": "Br. Vlaka 89251 odlazak      29.03.26. 14:30, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89251",
+    "event_time": "2026-03-29T14:34:00",
+    "seen_at": "2026-03-29T12:34:22.818Z",
+    "raw": "Br. Vlaka 89251 odlazak      29.03.26. 14:34, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:32:00",
+    "seen_at": "2026-03-29T12:35:33.219Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:32, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:32:00",
+    "seen_at": "2026-03-29T12:35:33.219Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:32, kolodvor VRHOVINE"
   }
 ]
