@@ -2,24 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "81284",
-    "event_time": "2026-03-26T02:20:00",
-    "seen_at": "2026-03-26T01:28:32.296Z",
-    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 02:20, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45996",
-    "event_time": "2026-03-26T02:26:00",
-    "seen_at": "2026-03-26T01:28:32.297Z",
-    "raw": "Br. Vlaka 45996 odlazak      26.03.26. 02:26, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "81284",
     "event_time": "2026-03-26T02:35:00",
@@ -8881,5 +8863,68 @@
     "event_time": "2026-03-29T03:17:00",
     "seen_at": "2026-03-29T01:18:05.738Z",
     "raw": "Br. Vlaka 89169 odlazak      29.03.26. 03:17, kolodvor 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89169",
+    "event_time": "2026-03-29T03:28:00",
+    "seen_at": "2026-03-29T01:30:30.497Z",
+    "raw": "Br. Vlaka 89169 odlazak      29.03.26. 03:28, kolodvor 72302"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "47938",
+    "event_time": "2026-03-28T18:17:00",
+    "seen_at": "2026-03-29T01:32:02.054Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:17, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "47938",
+    "event_time": "2026-03-28T18:17:00",
+    "seen_at": "2026-03-29T01:32:02.054Z",
+    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 18:17, kolodvor 77424"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47938",
+    "event_time": "2026-03-29T00:28:00",
+    "seen_at": "2026-03-29T01:32:24.823Z",
+    "raw": "Br. Vlaka 47938 dolazak      29.03.26. 00:28, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47938",
+    "event_time": "2026-03-29T00:28:00",
+    "seen_at": "2026-03-29T01:32:24.823Z",
+    "raw": "Br. Vlaka 47938 dolazak      29.03.26. 00:28, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89169",
+    "event_time": "2026-03-29T03:33:00",
+    "seen_at": "2026-03-29T01:33:56.102Z",
+    "raw": "Br. Vlaka 89169 dolazak      29.03.26. 03:33, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-29T03:33:00",
+    "seen_at": "2026-03-29T01:34:19.009Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
   }
 ]
