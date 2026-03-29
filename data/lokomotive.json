@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "83827",
-    "event_time": "2026-03-26T13:49:00",
-    "seen_at": "2026-03-26T12:51:13.601Z",
-    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:49, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "83827",
-    "event_time": "2026-03-26T13:49:00",
-    "seen_at": "2026-03-26T12:51:13.601Z",
-    "raw": "Br. Vlaka 83827 odlazak      26.03.26. 13:49, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440067",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "89240",
-    "event_time": "2026-03-26T13:52:00",
-    "seen_at": "2026-03-26T12:54:17.061Z",
-    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 13:52, kolodvor GREDA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81526",
-    "event_time": "2026-03-26T13:54:00",
-    "seen_at": "2026-03-26T12:54:39.886Z",
-    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 13:54, kolodvor SUNJA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -8197,5 +8161,32 @@
     "event_time": "2026-03-29T14:44:00",
     "seen_at": "2026-03-29T12:46:17.609Z",
     "raw": "Br. Vlaka 63310 dolazak      29.03.26. 14:44, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:49:00",
+    "seen_at": "2026-03-29T12:51:31.022Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:49, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:49:00",
+    "seen_at": "2026-03-29T12:51:31.022Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:49, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "82243",
+    "event_time": "2026-03-29T00:52:00",
+    "seen_at": "2026-03-29T12:53:25.696Z",
+    "raw": "Br. Vlaka 82243 formiran     29.03.26. 00:52, kolodvor ZAPREŠIĆ"
   }
 ]
