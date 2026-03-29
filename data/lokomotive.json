@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89064",
-    "event_time": "2026-03-26T06:33:00",
-    "seen_at": "2026-03-26T05:33:32.896Z",
-    "raw": "Br. Vlaka 89064 dolazak      26.03.26. 06:33, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-26T06:34:00",
-    "seen_at": "2026-03-26T05:34:18.939Z",
-    "raw": "Br. Vlaka 45105 formiran     26.03.26. 06:34, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987891113167",
     "type": "Formiran",
     "station": "NAŠICE",
@@ -8791,5 +8773,14 @@
     "event_time": "2026-03-29T07:26:00",
     "seen_at": "2026-03-29T05:31:25.116Z",
     "raw": "Br. Vlaka 89192 odlazak      29.03.26. 07:26, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "82017",
+    "event_time": "2026-03-29T07:35:00",
+    "seen_at": "2026-03-29T05:36:11.403Z",
+    "raw": "Br. Vlaka 82017 odlazak      29.03.26. 07:35, kolodvor NOVA GRADIŠKA"
   }
 ]
