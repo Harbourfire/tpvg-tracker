@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81990",
-    "event_time": "2026-03-26T04:29:00",
-    "seen_at": "2026-03-26T03:31:50.893Z",
-    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:29, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81990",
-    "event_time": "2026-03-26T04:29:00",
-    "seen_at": "2026-03-26T03:31:50.893Z",
-    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:29, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "JOSIPDOL",
     "train_number": "81990",
@@ -8800,5 +8782,14 @@
     "event_time": "2026-03-29T05:02:00",
     "seen_at": "2026-03-29T03:15:33.312Z",
     "raw": "Br. Vlaka 63305 odlazak      29.03.26. 05:02, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-29T05:20:00",
+    "seen_at": "2026-03-29T03:31:33.135Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.03.26. 05:20, kolodvor LIČKA JESENICA"
   }
 ]
