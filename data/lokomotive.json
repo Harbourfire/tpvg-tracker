@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "47945",
-    "event_time": "2026-03-26T21:52:00",
-    "seen_at": "2026-03-26T20:53:17.011Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 21:52, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "47945",
-    "event_time": "2026-03-26T21:52:00",
-    "seen_at": "2026-03-26T20:53:17.011Z",
-    "raw": "Br. Vlaka 47945 odlazak      26.03.26. 21:52, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81284",
-    "event_time": "2026-03-26T21:56:00",
-    "seen_at": "2026-03-26T20:56:32.119Z",
-    "raw": "Br. Vlaka 81284 odlazak      26.03.26. 21:56, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "82328",
-    "event_time": "2026-03-26T21:55:00",
-    "seen_at": "2026-03-26T20:56:55.025Z",
-    "raw": "Br. Vlaka 82328 odlazak      26.03.26. 21:55, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "927820440141",
     "type": "Rasformiran",
     "station": "IVANKOVO",
@@ -7693,5 +7657,50 @@
     "event_time": "2026-03-29T22:49:00",
     "seen_at": "2026-03-29T20:50:22.457Z",
     "raw": "Br. Vlaka 47990 odlazak      29.03.26. 22:49, kolodvor 72302"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45897",
+    "event_time": "2026-03-29T22:49:00",
+    "seen_at": "2026-03-29T20:52:52.626Z",
+    "raw": "Br. Vlaka 45897 dolazak      29.03.26. 22:49, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "89123",
+    "event_time": "2026-03-29T22:54:00",
+    "seen_at": "2026-03-29T20:57:31.212Z",
+    "raw": "Br. Vlaka 89123 odlazak      29.03.26. 22:54, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "89123",
+    "event_time": "2026-03-29T22:54:00",
+    "seen_at": "2026-03-29T20:57:31.212Z",
+    "raw": "Br. Vlaka 89123 odlazak      29.03.26. 22:54, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47990",
+    "event_time": "2026-03-29T22:58:00",
+    "seen_at": "2026-03-29T21:00:14.081Z",
+    "raw": "Br. Vlaka 47990 odlazak      29.03.26. 22:58, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47990",
+    "event_time": "2026-03-29T22:58:00",
+    "seen_at": "2026-03-29T21:00:14.081Z",
+    "raw": "Br. Vlaka 47990 odlazak      29.03.26. 22:58, kolodvor ZAGREB RESNIK"
   }
 ]
