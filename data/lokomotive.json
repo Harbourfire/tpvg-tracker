@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81232",
-    "event_time": "2026-03-26T14:45:00",
-    "seen_at": "2026-03-26T13:45:22.180Z",
-    "raw": "Br. Vlaka 81232 formiran     26.03.26. 14:45, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81232",
-    "event_time": "2026-03-26T14:46:00",
-    "seen_at": "2026-03-26T13:46:30.926Z",
-    "raw": "Br. Vlaka 81232 odlazak      26.03.26. 14:46, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440067",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89240",
-    "event_time": "2026-03-26T14:49:00",
-    "seen_at": "2026-03-26T13:50:19.831Z",
-    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 14:49, kolodvor 72302"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -8152,5 +8125,14 @@
     "event_time": "2026-03-29T00:06:00",
     "seen_at": "2026-03-29T13:38:32.387Z",
     "raw": "Br. Vlaka 45897 promjena sas 29.03.26. 00:06, kolodvor 72303"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "ORIOVAC",
+    "train_number": "82551",
+    "event_time": "2026-03-29T15:47:00",
+    "seen_at": "2026-03-29T13:47:18.014Z",
+    "raw": "Br. Vlaka 82551 formiran     29.03.26. 15:47, kolodvor ORIOVAC"
   }
 ]
