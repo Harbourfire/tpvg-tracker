@@ -2,24 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "48790",
-    "event_time": "2026-03-26T16:50:00",
-    "seen_at": "2026-03-26T15:51:31.026Z",
-    "raw": "Br. Vlaka 48790 odlazak      26.03.26. 16:50, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "GREDA",
-    "train_number": "81526",
-    "event_time": "2026-03-26T16:59:00",
-    "seen_at": "2026-03-26T16:00:53.445Z",
-    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 16:59, kolodvor GREDA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "KOPRIVNICA",
     "train_number": "48790",
     "event_time": "2026-03-26T16:59:00",
@@ -8080,5 +8062,32 @@
     "event_time": "2026-03-29T17:33:00",
     "seen_at": "2026-03-29T15:33:46.405Z",
     "raw": "Br. Vlaka 47938 dolazak      29.03.26. 17:33, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45897",
+    "event_time": "2026-03-29T17:53:00",
+    "seen_at": "2026-03-29T15:56:40.199Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 17:53, kolodvor 72303"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89188",
+    "event_time": "2026-03-29T17:57:00",
+    "seen_at": "2026-03-29T15:57:26.849Z",
+    "raw": "Br. Vlaka 89188 dolazak      29.03.26. 17:57, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-29T17:57:00",
+    "seen_at": "2026-03-29T15:57:50.221Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
