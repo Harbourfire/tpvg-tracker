@@ -1,15 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89064",
-    "event_time": "2026-03-26T06:26:00",
-    "seen_at": "2026-03-26T05:28:25.122Z",
-    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 06:26, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "987895225611",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89064",
@@ -8791,5 +8782,14 @@
     "event_time": "2026-03-29T07:18:00",
     "seen_at": "2026-03-29T05:18:57.880Z",
     "raw": "Br. Vlaka 82017 odlazak      29.03.26. 07:18, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89192",
+    "event_time": "2026-03-29T07:26:00",
+    "seen_at": "2026-03-29T05:31:25.116Z",
+    "raw": "Br. Vlaka 89192 odlazak      29.03.26. 07:26, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
