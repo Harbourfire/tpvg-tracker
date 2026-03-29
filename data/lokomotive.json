@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-26T13:13:00",
-    "seen_at": "2026-03-26T12:20:54.168Z",
-    "raw": "Br. Vlaka 45104 dolazak      26.03.26. 13:13, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-26T13:13:00",
-    "seen_at": "2026-03-26T12:21:16.859Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -8161,5 +8143,50 @@
     "event_time": "2026-03-29T14:00:00",
     "seen_at": "2026-03-29T12:01:34.659Z",
     "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:00, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:16:00",
+    "seen_at": "2026-03-29T12:19:02.742Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:16, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-03-29T14:16:00",
+    "seen_at": "2026-03-29T12:19:02.742Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:16, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ČAGLIN",
+    "train_number": "89101",
+    "event_time": "2026-03-29T14:17:00",
+    "seen_at": "2026-03-29T12:20:12.528Z",
+    "raw": "Br. Vlaka 89101 odlazak      29.03.26. 14:17, kolodvor ČAGLIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "48898",
+    "event_time": "2026-03-29T14:15:00",
+    "seen_at": "2026-03-29T12:21:22.391Z",
+    "raw": "Br. Vlaka 48898 odlazak      29.03.26. 14:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-26T13:13:00",
+    "seen_at": "2026-03-29T12:21:45.659Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
