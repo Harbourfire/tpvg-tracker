@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89741",
-    "event_time": "2026-03-26T12:31:00",
-    "seen_at": "2026-03-26T11:32:43.314Z",
-    "raw": "Br. Vlaka 89741 odlazak      26.03.26. 12:31, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89741",
-    "event_time": "2026-03-26T12:31:00",
-    "seen_at": "2026-03-26T11:32:43.315Z",
-    "raw": "Br. Vlaka 89741 odlazak      26.03.26. 12:31, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-03-26T12:33:00",
-    "seen_at": "2026-03-26T11:36:36.884Z",
-    "raw": "Br. Vlaka 45104 odlazak      26.03.26. 12:33, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "81991",
-    "event_time": "2026-03-26T12:28:00",
-    "seen_at": "2026-03-26T11:36:36.886Z",
-    "raw": "Br. Vlaka 81991 odlazak      26.03.26. 12:28, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-03-26T12:20:00",
-    "seen_at": "2026-03-26T11:38:34.332Z",
-    "raw": "Br. Vlaka 45104 odlazak      26.03.26. 12:20, kolodvor DRENOVCI"
-  },
-  {
     "uic": "927820440067",
     "type": "Odlazak",
     "station": "GREDA",
@@ -8215,5 +8170,32 @@
     "event_time": "2026-03-29T13:22:00",
     "seen_at": "2026-03-29T11:22:33.203Z",
     "raw": "Br. Vlaka 47938 odlazak      29.03.26. 13:22, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47938",
+    "event_time": "2026-03-29T13:30:00",
+    "seen_at": "2026-03-29T11:30:51.021Z",
+    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 13:30, kolodvor 72304"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47938",
+    "event_time": "2026-03-29T13:30:00",
+    "seen_at": "2026-03-29T11:30:51.021Z",
+    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 13:30, kolodvor 72304"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "ČAGLIN",
+    "train_number": "89101",
+    "event_time": "2026-03-29T13:30:00",
+    "seen_at": "2026-03-29T11:32:00.386Z",
+    "raw": "Br. Vlaka 89101 formiran     29.03.26. 13:30, kolodvor ČAGLIN"
   }
 ]
