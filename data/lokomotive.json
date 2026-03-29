@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "45994",
-    "event_time": "2026-03-26T01:09:00",
-    "seen_at": "2026-03-26T00:12:36.984Z",
-    "raw": "Br. Vlaka 45994 odlazak      26.03.26. 01:09, kolodvor 73164"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -8854,5 +8845,68 @@
     "event_time": "2026-03-29T01:11:00",
     "seen_at": "2026-03-29T00:11:13.815Z",
     "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:11, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "47562",
+    "event_time": "2026-03-29T01:17:00",
+    "seen_at": "2026-03-29T00:17:38.026Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 01:17, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47563",
+    "event_time": "2026-03-29T01:17:00",
+    "seen_at": "2026-03-29T00:17:38.027Z",
+    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:17, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47563",
+    "event_time": "2026-03-29T01:17:00",
+    "seen_at": "2026-03-29T00:17:38.027Z",
+    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:17, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81976",
+    "event_time": "2026-03-29T01:14:00",
+    "seen_at": "2026-03-29T00:18:01.283Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 01:14, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81976",
+    "event_time": "2026-03-29T01:14:00",
+    "seen_at": "2026-03-29T00:18:01.283Z",
+    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 01:14, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-29T01:21:00",
+    "seen_at": "2026-03-29T00:22:18.243Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-29T01:21:00",
+    "seen_at": "2026-03-29T00:22:18.243Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
