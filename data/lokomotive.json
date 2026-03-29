@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89139",
-    "event_time": "2026-03-26T16:36:00",
-    "seen_at": "2026-03-26T15:36:48.271Z",
-    "raw": "Br. Vlaka 89139 odlazak      26.03.26. 16:36, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -8170,5 +8161,14 @@
     "event_time": "2026-03-29T17:27:00",
     "seen_at": "2026-03-29T15:29:45.032Z",
     "raw": "Br. Vlaka 47938 odlazak      29.03.26. 17:27, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "47938",
+    "event_time": "2026-03-29T17:33:00",
+    "seen_at": "2026-03-29T15:33:46.405Z",
+    "raw": "Br. Vlaka 47938 dolazak      29.03.26. 17:33, kolodvor SESVETE"
   }
 ]
