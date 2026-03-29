@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440067",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "89240",
-    "event_time": "2026-03-26T14:27:00",
-    "seen_at": "2026-03-26T13:28:35.038Z",
-    "raw": "Br. Vlaka 89240 odlazak      26.03.26. 14:27, kolodvor TUROPOLJE"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -8134,5 +8125,41 @@
     "event_time": "2026-03-29T15:12:00",
     "seen_at": "2026-03-29T13:12:55.254Z",
     "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:12, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "82243",
+    "event_time": "2026-03-29T15:19:00",
+    "seen_at": "2026-03-29T13:25:59.481Z",
+    "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:19, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "82243",
+    "event_time": "2026-03-29T15:25:00",
+    "seen_at": "2026-03-29T13:26:45.586Z",
+    "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:25, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "82243",
+    "event_time": "2026-03-29T15:30:00",
+    "seen_at": "2026-03-29T13:31:49.262Z",
+    "raw": "Br. Vlaka 82243 dolazak      29.03.26. 15:30, kolodvor 72304"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89101",
+    "event_time": "2026-03-29T15:32:00",
+    "seen_at": "2026-03-29T13:32:12.271Z",
+    "raw": "Br. Vlaka 89101 dolazak      29.03.26. 15:32, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
