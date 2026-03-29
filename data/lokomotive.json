@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81526",
-    "event_time": "2026-03-26T18:02:00",
-    "seen_at": "2026-03-26T17:02:11.689Z",
-    "raw": "Br. Vlaka 81526 dolazak      26.03.26. 18:02, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-26T18:03:00",
-    "seen_at": "2026-03-26T17:04:28.111Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 18:03, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-26T18:03:00",
-    "seen_at": "2026-03-26T17:04:28.111Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.03.26. 18:03, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47945",
-    "event_time": "2026-03-26T18:07:00",
-    "seen_at": "2026-03-26T17:07:54.079Z",
-    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 18:07, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47945",
-    "event_time": "2026-03-26T18:07:00",
-    "seen_at": "2026-03-26T17:07:54.079Z",
-    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 18:07, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -7981,5 +7936,41 @@
     "event_time": "2026-03-29T18:57:00",
     "seen_at": "2026-03-29T16:58:55.664Z",
     "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:57, kolodvor SISAK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47938",
+    "event_time": "2026-03-29T18:59:00",
+    "seen_at": "2026-03-29T17:02:33.378Z",
+    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 18:59, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-29T19:04:00",
+    "seen_at": "2026-03-29T17:06:22.326Z",
+    "raw": "Br. Vlaka 69006 formiran     29.03.26. 19:04, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-29T19:04:00",
+    "seen_at": "2026-03-29T17:06:22.326Z",
+    "raw": "Br. Vlaka 69006 formiran     29.03.26. 19:04, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "45897",
+    "event_time": "2026-03-29T19:06:00",
+    "seen_at": "2026-03-29T17:08:40.055Z",
+    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 19:06, kolodvor SISAK CAPRAG"
   }
 ]
