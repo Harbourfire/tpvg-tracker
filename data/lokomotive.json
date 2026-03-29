@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "81526",
-    "event_time": "2026-03-26T10:47:00",
-    "seen_at": "2026-03-26T09:49:30.111Z",
-    "raw": "Br. Vlaka 81526 odlazak      26.03.26. 10:47, kolodvor ORIOVAC"
-  },
-  {
     "uic": "987891113472",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -8485,5 +8476,23 @@
     "event_time": "2026-03-29T11:39:00",
     "seen_at": "2026-03-29T09:39:32.504Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 11:39, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69175",
+    "event_time": "2026-03-29T11:42:00",
+    "seen_at": "2026-03-29T09:43:10.943Z",
+    "raw": "Br. Vlaka 69175 odlazak      29.03.26. 11:42, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47562",
+    "event_time": "2026-03-29T11:46:00",
+    "seen_at": "2026-03-29T09:46:13.075Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 11:46, kolodvor SAVSKI MAROF"
   }
 ]
