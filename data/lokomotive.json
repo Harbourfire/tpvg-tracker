@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "SLATINA",
-    "train_number": null,
-    "event_time": "2026-03-26T08:03:00",
-    "seen_at": "2026-03-26T07:04:26.616Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Formiran",
-    "station": "PAZIN",
-    "train_number": "70200",
-    "event_time": "2026-03-26T08:10:00",
-    "seen_at": "2026-03-26T07:12:43.792Z",
-    "raw": "Br. Vlaka 70200 formiran     26.03.26. 08:10, kolodvor PAZIN"
-  },
-  {
     "uic": "997894215711",
     "type": "Rasformiran",
     "station": "PAZIN",
@@ -8728,5 +8710,14 @@
     "event_time": "2026-03-29T08:49:00",
     "seen_at": "2026-03-29T06:50:29.175Z",
     "raw": "Br. Vlaka 69175 formiran     29.03.26. 08:49, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "SLATINA",
+    "train_number": null,
+    "event_time": "2026-03-26T08:03:00",
+    "seen_at": "2026-03-29T07:04:58.808Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
   }
 ]
