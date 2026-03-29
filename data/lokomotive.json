@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-26T15:02:00",
-    "seen_at": "2026-03-26T14:03:50.594Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-26T15:02:00",
-    "seen_at": "2026-03-26T14:03:50.594Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "81232",
-    "event_time": "2026-03-26T15:04:00",
-    "seen_at": "2026-03-26T14:05:24.123Z",
-    "raw": "Br. Vlaka 81232 odlazak      26.03.26. 15:04, kolodvor GARČIN"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -8152,5 +8125,23 @@
     "event_time": "2026-03-29T15:48:00",
     "seen_at": "2026-03-29T14:00:22.891Z",
     "raw": "Br. Vlaka 63310 odlazak      29.03.26. 15:48, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-03-29T16:00:00",
+    "seen_at": "2026-03-29T14:06:22.824Z",
+    "raw": "Br. Vlaka 63310 dolazak      29.03.26. 16:00, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-03-29T16:00:00",
+    "seen_at": "2026-03-29T14:06:22.825Z",
+    "raw": "Br. Vlaka 63310 dolazak      29.03.26. 16:00, kolodvor PLAŠKI"
   }
 ]
