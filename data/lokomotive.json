@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47945",
-    "event_time": "2026-03-26T22:42:00",
-    "seen_at": "2026-03-26T21:43:38.002Z",
-    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 22:42, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47945",
-    "event_time": "2026-03-26T22:42:00",
-    "seen_at": "2026-03-26T21:43:38.002Z",
-    "raw": "Br. Vlaka 47945 dolazak      26.03.26. 22:42, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89872",
-    "event_time": "2026-03-26T22:46:00",
-    "seen_at": "2026-03-26T21:47:02.967Z",
-    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 22:46, kolodvor 72304"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89872",
-    "event_time": "2026-03-26T22:46:00",
-    "seen_at": "2026-03-26T21:47:02.967Z",
-    "raw": "Br. Vlaka 89872 odlazak      26.03.26. 22:46, kolodvor 72304"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -7549,5 +7513,23 @@
     "event_time": "2026-03-29T23:40:00",
     "seen_at": "2026-03-29T21:41:07.295Z",
     "raw": "Br. Vlaka 89123 odlazak      29.03.26. 23:40, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "89123",
+    "event_time": "2026-03-29T23:47:00",
+    "seen_at": "2026-03-29T21:47:54.496Z",
+    "raw": "Br. Vlaka 89123 odlazak      29.03.26. 23:47, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "89123",
+    "event_time": "2026-03-29T23:47:00",
+    "seen_at": "2026-03-29T21:47:54.496Z",
+    "raw": "Br. Vlaka 89123 odlazak      29.03.26. 23:47, kolodvor VRHOVINE"
   }
 ]
