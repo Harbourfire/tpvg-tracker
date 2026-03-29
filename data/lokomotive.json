@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-26T02:13:00",
-    "seen_at": "2026-03-26T01:15:14.939Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45996",
-    "event_time": "2026-03-26T02:12:00",
-    "seen_at": "2026-03-26T01:15:14.939Z",
-    "raw": "Br. Vlaka 45996 dolazak      26.03.26. 02:12, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -8863,5 +8845,14 @@
     "event_time": "2026-03-29T01:53:00",
     "seen_at": "2026-03-29T00:55:18.918Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 01:53, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "47562",
+    "event_time": "2026-03-29T01:59:00",
+    "seen_at": "2026-03-29T01:06:26.209Z",
+    "raw": "Br. Vlaka 47562 dolazak      29.03.26. 01:59, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
