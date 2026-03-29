@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-03-26T15:27:00",
-    "seen_at": "2026-03-26T22:56:08.245Z",
-    "raw": "Br. Vlaka 47944 formiran     26.03.26. 15:27, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-03-25T23:50:00",
-    "seen_at": "2026-03-26T22:56:53.653Z",
-    "raw": "Br. Vlaka 47563 formiran     25.03.26. 23:50, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "82323",
-    "event_time": "2026-03-26T23:58:00",
-    "seen_at": "2026-03-26T22:59:24.939Z",
-    "raw": "Br. Vlaka 82323 odlazak      26.03.26. 23:58, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "82323",
-    "event_time": "2026-03-26T23:58:00",
-    "seen_at": "2026-03-26T22:59:24.939Z",
-    "raw": "Br. Vlaka 82323 odlazak      26.03.26. 23:58, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -7369,5 +7333,32 @@
     "event_time": "2026-03-30T00:50:00",
     "seen_at": "2026-03-29T22:50:57.383Z",
     "raw": "Br. Vlaka 45897 odlazak      30.03.26. 00:50, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47938",
+    "event_time": "2026-03-30T00:49:00",
+    "seen_at": "2026-03-29T22:52:18.880Z",
+    "raw": "Br. Vlaka 47938 odlazak      30.03.26. 00:49, kolodvor 73164"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47990",
+    "event_time": "2026-03-30T00:57:00",
+    "seen_at": "2026-03-29T22:58:26.518Z",
+    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 00:57, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47990",
+    "event_time": "2026-03-30T00:57:00",
+    "seen_at": "2026-03-29T22:58:26.519Z",
+    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 00:57, kolodvor DUGO SELO"
   }
 ]
