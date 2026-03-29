@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "NAŠICE",
-    "train_number": "76926",
-    "event_time": "2026-03-26T07:00:00",
-    "seen_at": "2026-03-26T06:14:31.700Z",
-    "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:00, kolodvor NAŠICE"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "76926",
-    "event_time": "2026-03-26T07:16:00",
-    "seen_at": "2026-03-26T06:18:01.483Z",
-    "raw": "Br. Vlaka 76926 odlazak      26.03.26. 07:16, kolodvor ĐURĐENOVAC"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -8836,5 +8818,41 @@
     "event_time": "2026-03-29T08:08:00",
     "seen_at": "2026-03-29T06:13:02.952Z",
     "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Pretrasiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47562",
+    "event_time": "2026-03-29T08:12:00",
+    "seen_at": "2026-03-29T06:15:12.742Z",
+    "raw": "Br. Vlaka 47562 pretrasiran  29.03.26. 08:12, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47562",
+    "event_time": "2026-03-29T08:13:00",
+    "seen_at": "2026-03-29T06:16:21.879Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 08:13, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "ČAGLIN",
+    "train_number": null,
+    "event_time": "2026-03-29T08:16:00",
+    "seen_at": "2026-03-29T06:17:32.347Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73405 ČAGLIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47562",
+    "event_time": "2026-03-29T08:20:00",
+    "seen_at": "2026-03-29T06:20:59.780Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 08:20, kolodvor PODSUSED tvornica"
   }
 ]
