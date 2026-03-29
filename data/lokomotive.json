@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89139",
-    "event_time": "2026-03-26T16:11:00",
-    "seen_at": "2026-03-26T15:11:15.516Z",
-    "raw": "Br. Vlaka 89139 odlazak      26.03.26. 16:11, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "997894853487",
     "type": "Dolazak",
     "station": "SISAK CAPRAG",
@@ -8179,5 +8170,23 @@
     "event_time": "2026-03-29T16:50:00",
     "seen_at": "2026-03-29T14:53:18.182Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-29T16:46:00",
+    "seen_at": "2026-03-29T15:02:29.889Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-29T16:46:00",
+    "seen_at": "2026-03-29T15:02:29.889Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
