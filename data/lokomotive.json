@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-03-17T15:20:00",
-    "seen_at": "2026-03-26T14:31:56.838Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "987821323118",
     "type": "Formiran",
     "station": "OKUČANI",
@@ -8143,5 +8134,32 @@
     "event_time": "2026-03-29T16:18:00",
     "seen_at": "2026-03-29T14:21:20.616Z",
     "raw": "Br. Vlaka 89101 odlazak      29.03.26. 16:18, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-03-29T16:23:00",
+    "seen_at": "2026-03-29T14:25:22.169Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 16:23, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-03-29T16:23:00",
+    "seen_at": "2026-03-29T14:25:22.169Z",
+    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 16:23, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89101",
+    "event_time": "2026-03-29T16:28:00",
+    "seen_at": "2026-03-29T14:31:59.476Z",
+    "raw": "Br. Vlaka 89101 odlazak      29.03.26. 16:28, kolodvor ORIOVAC"
   }
 ]
