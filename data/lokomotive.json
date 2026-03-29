@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "89064",
-    "event_time": "2026-03-26T07:21:00",
-    "seen_at": "2026-03-26T06:30:33.204Z",
-    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 07:21, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89064",
-    "event_time": "2026-03-26T07:31:00",
-    "seen_at": "2026-03-26T06:32:28.275Z",
-    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 07:31, kolodvor HORVATI"
-  },
-  {
     "uic": "997894215612",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -8854,5 +8836,14 @@
     "event_time": "2026-03-29T08:20:00",
     "seen_at": "2026-03-29T06:20:59.780Z",
     "raw": "Br. Vlaka 47562 odlazak      29.03.26. 08:20, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47562",
+    "event_time": "2026-03-29T08:26:00",
+    "seen_at": "2026-03-29T06:32:58.656Z",
+    "raw": "Br. Vlaka 47562 dolazak      29.03.26. 08:26, kolodvor ZAPREŠIĆ"
   }
 ]
