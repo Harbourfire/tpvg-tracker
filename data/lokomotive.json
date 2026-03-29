@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89064",
-    "event_time": "2026-03-26T07:07:00",
-    "seen_at": "2026-03-26T06:08:50.045Z",
-    "raw": "Br. Vlaka 89064 odlazak      26.03.26. 07:07, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "987891113167",
     "type": "Odlazak",
     "station": "NAŠICE",
@@ -8827,5 +8818,23 @@
     "event_time": "2026-03-29T07:59:00",
     "seen_at": "2026-03-29T06:03:48.400Z",
     "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "ORIOVAC",
+    "train_number": "82017",
+    "event_time": "2026-03-29T08:08:00",
+    "seen_at": "2026-03-29T06:11:07.265Z",
+    "raw": "Br. Vlaka 82017 dolazak      29.03.26. 08:08, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "ORIOVAC",
+    "train_number": null,
+    "event_time": "2026-03-29T08:08:00",
+    "seen_at": "2026-03-29T06:13:02.952Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
   }
 ]
