@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81990",
-    "event_time": "2026-03-26T04:19:00",
-    "seen_at": "2026-03-26T03:20:49.665Z",
-    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:19, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81990",
-    "event_time": "2026-03-26T04:19:00",
-    "seen_at": "2026-03-26T03:20:49.665Z",
-    "raw": "Br. Vlaka 81990 odlazak      26.03.26. 04:19, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "81990",
     "event_time": "2026-03-26T04:29:00",
@@ -8800,5 +8782,23 @@
     "event_time": "2026-03-29T03:07:20.732Z",
     "seen_at": "2026-03-29T03:07:20.732Z",
     "raw": "Trenutna pozicija je u kolodvoru 82250 82250"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-29T05:00:00",
+    "seen_at": "2026-03-29T03:15:09.594Z",
+    "raw": "Br. Vlaka 63305 dolazak      29.03.26. 05:00, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-29T05:02:00",
+    "seen_at": "2026-03-29T03:15:33.312Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.03.26. 05:02, kolodvor BLATA"
   }
 ]
