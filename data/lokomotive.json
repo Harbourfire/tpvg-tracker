@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81283",
-    "event_time": "2026-03-26T01:35:00",
-    "seen_at": "2026-03-26T00:36:24.659Z",
-    "raw": "Br. Vlaka 81283 odlazak      26.03.26. 01:35, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89177",
-    "event_time": "2026-03-26T01:36:00",
-    "seen_at": "2026-03-26T00:38:34.592Z",
-    "raw": "Br. Vlaka 89177 odlazak      26.03.26. 01:36, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45996",
-    "event_time": "2026-03-26T01:38:00",
-    "seen_at": "2026-03-26T00:38:34.592Z",
-    "raw": "Br. Vlaka 45996 odlazak      26.03.26. 01:38, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8881,5 +8854,32 @@
     "event_time": "2026-03-29T01:33:00",
     "seen_at": "2026-03-29T00:33:18.112Z",
     "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:33, kolodvor 72304"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47563",
+    "event_time": "2026-03-29T01:38:00",
+    "seen_at": "2026-03-29T00:38:35.903Z",
+    "raw": "Br. Vlaka 47563 dolazak      29.03.26. 01:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47563",
+    "event_time": "2026-03-29T01:38:00",
+    "seen_at": "2026-03-29T00:38:35.903Z",
+    "raw": "Br. Vlaka 47563 dolazak      29.03.26. 01:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "47562",
+    "event_time": "2026-03-29T01:39:00",
+    "seen_at": "2026-03-29T00:40:07.621Z",
+    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 01:39, kolodvor SIBINJ"
   }
 ]
