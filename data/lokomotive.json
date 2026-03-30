@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "82514",
-    "event_time": "2026-03-27T14:41:00",
-    "seen_at": "2026-03-27T13:41:45.521Z",
-    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 14:41, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ĐAKOVO",
@@ -8215,5 +8206,50 @@
     "event_time": "2026-03-30T15:32:00",
     "seen_at": "2026-03-30T13:33:20.690Z",
     "raw": "Br. Vlaka 89400 odlazak      30.03.26. 15:32, kolodvor LEKENIK"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "89052",
+    "event_time": "2026-03-30T15:36:00",
+    "seen_at": "2026-03-30T13:36:37.302Z",
+    "raw": "Br. Vlaka 89052 odlazak      30.03.26. 15:36, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "49827",
+    "event_time": "2026-03-30T15:35:00",
+    "seen_at": "2026-03-30T13:39:41.237Z",
+    "raw": "Br. Vlaka 49827 dolazak      30.03.26. 15:35, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "TUROPOLJE",
+    "train_number": "89400",
+    "event_time": "2026-03-30T15:40:00",
+    "seen_at": "2026-03-30T13:40:50.956Z",
+    "raw": "Br. Vlaka 89400 dolazak      30.03.26. 15:40, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-30T15:40:00",
+    "seen_at": "2026-03-30T13:40:50.957Z",
+    "raw": "Br. Vlaka 63310 formiran     30.03.26. 15:40, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-03-30T15:40:00",
+    "seen_at": "2026-03-30T13:40:50.957Z",
+    "raw": "Br. Vlaka 63310 formiran     30.03.26. 15:40, kolodvor GOSPIĆ"
   }
 ]
