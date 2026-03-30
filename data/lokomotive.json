@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "81232",
-    "event_time": "2026-03-27T07:59:00",
-    "seen_at": "2026-03-27T07:01:20.518Z",
-    "raw": "Br. Vlaka 81232 dolazak      27.03.26. 07:59, kolodvor PLETERNICA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -7486,5 +7477,41 @@
     "event_time": "2026-03-30T08:52:00",
     "seen_at": "2026-03-30T06:53:51.555Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69852",
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-03-30T06:56:51.784Z",
+    "raw": "Br. Vlaka 69852 odlazak      30.03.26. 08:52, kolodvor DALJ"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Dolazak",
+    "station": "SIBINJ",
+    "train_number": "76601",
+    "event_time": "2026-03-30T08:55:00",
+    "seen_at": "2026-03-30T06:56:51.786Z",
+    "raw": "Br. Vlaka 76601 dolazak      30.03.26. 08:55, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-03-30T09:04:00",
+    "seen_at": "2026-03-30T07:05:30.410Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89540",
+    "event_time": "2026-03-30T09:03:00",
+    "seen_at": "2026-03-30T07:05:30.412Z",
+    "raw": "Br. Vlaka 89540 odlazak      30.03.26. 09:03, kolodvor DARDA"
   }
 ]
