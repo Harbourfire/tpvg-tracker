@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "82233",
-    "event_time": "2026-03-27T20:43:00",
-    "seen_at": "2026-03-27T19:47:12.369Z",
-    "raw": "Br. Vlaka 82233 odlazak      27.03.26. 20:43, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "82233",
-    "event_time": "2026-03-27T20:48:00",
-    "seen_at": "2026-03-27T19:48:20.917Z",
-    "raw": "Br. Vlaka 82233 odlazak      27.03.26. 20:48, kolodvor 72304"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -8827,5 +8809,59 @@
     "event_time": "2026-03-30T21:39:00",
     "seen_at": "2026-03-30T19:42:36.103Z",
     "raw": "Br. Vlaka 69661 dolazak      30.03.26. 21:39, kolodvor LUDBREG"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "LUDBREG",
+    "train_number": "69661",
+    "event_time": "2026-03-30T21:47:00",
+    "seen_at": "2026-03-30T19:48:16.255Z",
+    "raw": "Br. Vlaka 69661 odlazak      30.03.26. 21:47, kolodvor LUDBREG"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "KAŠTEL SUĆURAC",
+    "train_number": "70411",
+    "event_time": "2026-03-30T21:48:00",
+    "seen_at": "2026-03-30T19:49:02.990Z",
+    "raw": "Br. Vlaka 70411 formiran     30.03.26. 21:48, kolodvor KAŠTEL SUĆURAC"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "KAŠTEL SUĆURAC",
+    "train_number": "70411",
+    "event_time": "2026-03-30T21:45:00",
+    "seen_at": "2026-03-30T19:49:26.171Z",
+    "raw": "Br. Vlaka 70411 odlazak      30.03.26. 21:45, kolodvor KAŠTEL SUĆURAC"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "SOLIN",
+    "train_number": null,
+    "event_time": "2026-03-30T21:52:00",
+    "seen_at": "2026-03-30T19:53:44.969Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76510 SOLIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89891",
+    "event_time": "2026-03-30T21:55:00",
+    "seen_at": "2026-03-30T19:55:17.730Z",
+    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 21:55, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89891",
+    "event_time": "2026-03-30T21:55:00",
+    "seen_at": "2026-03-30T19:55:17.730Z",
+    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 21:55, kolodvor KRIŽEVCI"
   }
 ]
