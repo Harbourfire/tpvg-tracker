@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89706",
-    "event_time": "2026-03-27T19:12:00",
-    "seen_at": "2026-03-27T18:13:42.154Z",
-    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 19:12, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89706",
-    "event_time": "2026-03-27T19:17:00",
-    "seen_at": "2026-03-27T18:18:49.367Z",
-    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 19:17, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440026",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
     "train_number": null,
@@ -8728,5 +8710,23 @@
     "event_time": "2026-03-30T20:10:00",
     "seen_at": "2026-03-30T18:10:33.830Z",
     "raw": "Br. Vlaka 89891 dolazak      30.03.26. 20:10, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-03-30T20:13:00",
+    "seen_at": "2026-03-30T18:14:19.879Z",
+    "raw": "Br. Vlaka 61004 formiran     30.03.26. 20:13, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69326",
+    "event_time": "2026-03-30T20:14:00",
+    "seen_at": "2026-03-30T18:14:19.879Z",
+    "raw": "Br. Vlaka 69326 odlazak      30.03.26. 20:14, kolodvor ORIOVAC"
   }
 ]
