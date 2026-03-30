@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74100",
-    "event_time": "2026-03-27T07:15:00",
-    "seen_at": "2026-03-27T06:18:04.593Z",
-    "raw": "Br. Vlaka 74100 odlazak      27.03.26. 07:15, kolodvor OTOK"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -7441,5 +7432,32 @@
     "event_time": "2026-03-30T08:16:00",
     "seen_at": "2026-03-30T06:16:29.696Z",
     "raw": "Br. Vlaka 76830 odlazak      30.03.26. 08:16, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "76600",
+    "event_time": "2026-03-30T08:16:00",
+    "seen_at": "2026-03-30T06:17:25.963Z",
+    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 08:16, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-03-30T08:20:00",
+    "seen_at": "2026-03-30T06:22:26.769Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69852",
+    "event_time": "2026-03-30T08:23:00",
+    "seen_at": "2026-03-30T06:23:59.557Z",
+    "raw": "Br. Vlaka 69852 odlazak      30.03.26. 08:23, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
