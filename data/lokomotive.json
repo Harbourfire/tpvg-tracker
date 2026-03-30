@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45131",
-    "event_time": "2026-03-28T00:01:00",
-    "seen_at": "2026-03-27T23:02:01.758Z",
-    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 00:01, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -9196,5 +9187,41 @@
     "event_time": "2026-03-31T00:55:00",
     "seen_at": "2026-03-30T22:56:15.082Z",
     "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:55, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "47945",
+    "event_time": "2026-03-31T00:50:00",
+    "seen_at": "2026-03-30T22:59:57.115Z",
+    "raw": "Br. Vlaka 47945 dolazak      31.03.26. 00:50, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "47945",
+    "event_time": "2026-03-31T00:50:00",
+    "seen_at": "2026-03-30T22:59:57.115Z",
+    "raw": "Br. Vlaka 47945 dolazak      31.03.26. 00:50, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "82512",
+    "train_number": null,
+    "event_time": "2026-03-30T23:04:39.627Z",
+    "seen_at": "2026-03-30T23:04:39.627Z",
+    "raw": "Trenutna pozicija je u kolodvoru 82512 82512"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "82512",
+    "train_number": null,
+    "event_time": "2026-03-30T23:04:39.627Z",
+    "seen_at": "2026-03-30T23:04:39.627Z",
+    "raw": "Trenutna pozicija je u kolodvoru 82512 82512"
   }
 ]
