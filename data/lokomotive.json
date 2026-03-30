@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81286",
-    "event_time": "2026-03-27T14:53:00",
-    "seen_at": "2026-03-27T13:54:45.828Z",
-    "raw": "Br. Vlaka 81286 odlazak      27.03.26. 14:53, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "45583",
-    "event_time": "2026-03-27T14:57:00",
-    "seen_at": "2026-03-27T13:58:12.544Z",
-    "raw": "Br. Vlaka 45583 odlazak      27.03.26. 14:57, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -8260,5 +8242,14 @@
     "event_time": "2026-03-30T15:41:00",
     "seen_at": "2026-03-30T13:44:02.560Z",
     "raw": "Br. Vlaka 89052 dolazak      30.03.26. 15:41, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "89400",
+    "event_time": "2026-03-30T15:53:00",
+    "seen_at": "2026-03-30T13:53:48.956Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 15:53, kolodvor TUROPOLJE"
   }
 ]
