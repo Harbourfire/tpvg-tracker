@@ -2,33 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47944",
-    "event_time": "2026-03-27T01:41:00",
-    "seen_at": "2026-03-27T00:43:43.449Z",
-    "raw": "Br. Vlaka 47944 odlazak      27.03.26. 01:41, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-03-27T01:47:00",
-    "seen_at": "2026-03-27T00:47:58.052Z",
-    "raw": "Br. Vlaka 47944 odlazak      27.03.26. 01:47, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47944",
-    "event_time": "2026-03-27T01:54:00",
-    "seen_at": "2026-03-27T00:55:03.305Z",
-    "raw": "Br. Vlaka 47944 odlazak      27.03.26. 01:54, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "47944",
     "event_time": "2026-03-27T02:00:00",
@@ -7252,5 +7225,41 @@
     "event_time": "2026-03-30T01:34:00",
     "seen_at": "2026-03-29T23:34:45.543Z",
     "raw": "Br. Vlaka 47990 dolazak      30.03.26. 01:34, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89870",
+    "event_time": "2026-03-30T02:30:00",
+    "seen_at": "2026-03-30T00:46:33.015Z",
+    "raw": "Br. Vlaka 89870 odlazak      30.03.26. 02:30, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89870",
+    "event_time": "2026-03-30T02:44:00",
+    "seen_at": "2026-03-30T00:46:56.611Z",
+    "raw": "Br. Vlaka 89870 dolazak      30.03.26. 02:44, kolodvor 73164"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-30T02:50:00",
+    "seen_at": "2026-03-30T00:50:48.970Z",
+    "raw": "Br. Vlaka 63306 formiran     30.03.26. 02:50, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-30T02:50:00",
+    "seen_at": "2026-03-30T00:50:48.970Z",
+    "raw": "Br. Vlaka 63306 formiran     30.03.26. 02:50, kolodvor GOSPIĆ"
   }
 ]
