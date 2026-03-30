@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89288",
-    "event_time": "2026-03-27T23:50:00",
-    "seen_at": "2026-03-27T22:54:50.476Z",
-    "raw": "Br. Vlaka 89288 dolazak      27.03.26. 23:50, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -9151,5 +9142,59 @@
     "event_time": "2026-03-31T00:42:00",
     "seen_at": "2026-03-30T22:44:53.390Z",
     "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:42, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45101",
+    "event_time": "2026-03-31T00:47:00",
+    "seen_at": "2026-03-30T22:48:06.852Z",
+    "raw": "Br. Vlaka 45101 formiran     31.03.26. 00:47, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T00:00:00",
+    "seen_at": "2026-03-30T22:48:30.237Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45101",
+    "event_time": "2026-03-31T00:49:00",
+    "seen_at": "2026-03-30T22:49:39.893Z",
+    "raw": "Br. Vlaka 45101 formiran     31.03.26. 00:49, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45101",
+    "event_time": "2026-03-31T00:50:00",
+    "seen_at": "2026-03-30T22:51:13.328Z",
+    "raw": "Br. Vlaka 45101 odlazak      31.03.26. 00:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:55:00",
+    "seen_at": "2026-03-30T22:56:15.082Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:55, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:55:00",
+    "seen_at": "2026-03-30T22:56:15.082Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:55, kolodvor LIČKO LEŠĆE"
   }
 ]
