@@ -2,24 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "82233",
-    "event_time": "2026-03-27T20:28:00",
-    "seen_at": "2026-03-27T19:30:22.144Z",
-    "raw": "Br. Vlaka 82233 odlazak      27.03.26. 20:28, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "82233",
-    "event_time": "2026-03-27T20:35:00",
-    "seen_at": "2026-03-27T19:35:31.821Z",
-    "raw": "Br. Vlaka 82233 odlazak      27.03.26. 20:35, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAGREB KLARA",
     "train_number": "82233",
     "event_time": "2026-03-27T20:43:00",
@@ -8818,5 +8800,23 @@
     "event_time": "2026-03-30T21:22:00",
     "seen_at": "2026-03-30T19:26:03.626Z",
     "raw": "Br. Vlaka 69661 odlazak      30.03.26. 21:22, kolodvor JALŽABET"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-03-30T20:33:00",
+    "seen_at": "2026-03-30T19:27:26.936Z",
+    "raw": "Br. Vlaka 61004 promjena sas 30.03.26. 20:33, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-03-30T21:36:00",
+    "seen_at": "2026-03-30T19:36:28.803Z",
+    "raw": "Br. Vlaka 61004 odlazak      30.03.26. 21:36, kolodvor OSIJEK"
   }
 ]
