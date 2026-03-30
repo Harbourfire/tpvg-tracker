@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45131",
-    "event_time": "2026-03-27T20:56:00",
-    "seen_at": "2026-03-27T19:58:12.177Z",
-    "raw": "Br. Vlaka 45131 formiran     27.03.26. 20:56, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "82233",
-    "event_time": "2026-03-27T20:54:00",
-    "seen_at": "2026-03-27T19:58:35.360Z",
-    "raw": "Br. Vlaka 82233 dolazak      27.03.26. 20:54, kolodvor 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-27T20:54:00",
-    "seen_at": "2026-03-27T19:58:58.605Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45990",
-    "event_time": "2026-03-27T13:33:00",
-    "seen_at": "2026-03-27T20:01:32.402Z",
-    "raw": "Br. Vlaka 45990 promjena sas 27.03.26. 13:33, kolodvor 72303"
-  },
-  {
     "uic": "927820440232",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8863,5 +8827,32 @@
     "event_time": "2026-03-30T21:55:00",
     "seen_at": "2026-03-30T19:55:17.730Z",
     "raw": "Br. Vlaka 89891 odlazak      30.03.26. 21:55, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-30T21:30:00",
+    "seen_at": "2026-03-30T19:58:14.279Z",
+    "raw": "Br. Vlaka 47945 dolazak      30.03.26. 21:30, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-30T21:30:00",
+    "seen_at": "2026-03-30T19:58:14.279Z",
+    "raw": "Br. Vlaka 47945 dolazak      30.03.26. 21:30, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "RASINJA",
+    "train_number": "69661",
+    "event_time": "2026-03-30T22:03:00",
+    "seen_at": "2026-03-30T20:04:51.029Z",
+    "raw": "Br. Vlaka 69661 odlazak      30.03.26. 22:03, kolodvor RASINJA"
   }
 ]
