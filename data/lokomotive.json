@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "45583",
-    "event_time": "2026-03-27T16:10:00",
-    "seen_at": "2026-03-27T15:10:29.404Z",
-    "raw": "Br. Vlaka 45583 odlazak      27.03.26. 16:10, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "45583",
-    "event_time": "2026-03-27T16:16:00",
-    "seen_at": "2026-03-27T15:17:13.237Z",
-    "raw": "Br. Vlaka 45583 dolazak      27.03.26. 16:16, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "82235",
-    "train_number": null,
-    "event_time": "2026-03-27T15:17:36.596Z",
-    "seen_at": "2026-03-27T15:17:36.596Z",
-    "raw": "Trenutna pozicija je u kolodvoru 82235 82235"
-  },
-  {
     "uic": "987821320346",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -8413,5 +8386,32 @@
     "event_time": "2026-03-30T17:07:00",
     "seen_at": "2026-03-30T15:08:14.802Z",
     "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:07, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "89052",
+    "event_time": "2026-03-30T17:10:00",
+    "seen_at": "2026-03-30T15:11:16.657Z",
+    "raw": "Br. Vlaka 89052 odlazak      30.03.26. 17:10, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-30T17:17:00",
+    "seen_at": "2026-03-30T15:18:11.620Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:17, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-03-30T17:17:00",
+    "seen_at": "2026-03-30T15:18:11.620Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:17, kolodvor RUDOPOLJE"
   }
 ]
