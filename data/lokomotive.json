@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-03-27T05:59:00",
-    "seen_at": "2026-03-27T05:07:12.629Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 05:59, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-03-27T05:59:00",
-    "seen_at": "2026-03-27T05:07:12.629Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 05:59, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76510",
-    "event_time": "2026-03-27T06:05:00",
-    "seen_at": "2026-03-27T05:07:12.630Z",
-    "raw": "Br. Vlaka 76510 odlazak      27.03.26. 06:05, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "987891113316",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -7414,5 +7387,14 @@
     "event_time": "2026-03-30T07:04:00",
     "seen_at": "2026-03-30T05:04:34.847Z",
     "raw": "Br. Vlaka 76830 odlazak      30.03.26. 07:04, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-03-30T07:08:00",
+    "seen_at": "2026-03-30T05:09:26.008Z",
+    "raw": "Br. Vlaka 74301 formiran     30.03.26. 07:08, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
