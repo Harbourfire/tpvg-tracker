@@ -2,24 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89288",
-    "event_time": "2026-03-27T23:34:00",
-    "seen_at": "2026-03-27T22:34:27.597Z",
-    "raw": "Br. Vlaka 89288 odlazak      27.03.26. 23:34, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-27T23:35:00",
-    "seen_at": "2026-03-27T22:37:09.306Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "89288",
     "event_time": "2026-03-27T23:39:00",
@@ -9106,5 +9088,59 @@
     "event_time": "2026-03-31T00:14:00",
     "seen_at": "2026-03-30T22:18:10.339Z",
     "raw": "Br. Vlaka 81227 promjena sas 31.03.26. 00:14, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89163",
+    "event_time": "2026-03-31T00:30:00",
+    "seen_at": "2026-03-30T22:31:03.441Z",
+    "raw": "Br. Vlaka 89163 formiran     31.03.26. 00:30, kolodvor 72303"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-31T00:32:00",
+    "seen_at": "2026-03-30T22:33:00.065Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:35:00",
+    "seen_at": "2026-03-30T22:35:44.351Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:35, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:35:00",
+    "seen_at": "2026-03-30T22:35:44.352Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:35, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47945",
+    "event_time": "2026-03-31T00:36:00",
+    "seen_at": "2026-03-30T22:37:17.660Z",
+    "raw": "Br. Vlaka 47945 odlazak      31.03.26. 00:36, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47945",
+    "event_time": "2026-03-31T00:36:00",
+    "seen_at": "2026-03-30T22:37:17.660Z",
+    "raw": "Br. Vlaka 47945 odlazak      31.03.26. 00:36, kolodvor DUGO SELO"
   }
 ]
