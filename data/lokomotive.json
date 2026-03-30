@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Formiran",
-    "station": "OTOK",
-    "train_number": "74100",
-    "event_time": "2026-03-27T04:58:00",
-    "seen_at": "2026-03-27T04:00:12.414Z",
-    "raw": "Br. Vlaka 74100 formiran     27.03.26. 04:58, kolodvor OTOK"
-  },
-  {
     "uic": "987891113316",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -7369,5 +7360,14 @@
     "event_time": "2026-03-30T05:53:00",
     "seen_at": "2026-03-30T03:53:50.972Z",
     "raw": "Br. Vlaka 63305 formiran     30.03.26. 05:53, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:02:00",
+    "seen_at": "2026-03-30T04:02:33.859Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:02, kolodvor 72303"
   }
 ]
