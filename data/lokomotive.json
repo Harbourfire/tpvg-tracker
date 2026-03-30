@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-03-27T03:26:00",
-    "seen_at": "2026-03-27T02:27:45.120Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 03:26, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-03-27T03:26:00",
-    "seen_at": "2026-03-27T02:27:45.120Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 03:26, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "45130",
-    "event_time": "2026-03-27T01:46:00",
-    "seen_at": "2026-03-27T02:28:08.158Z",
-    "raw": "Br. Vlaka 45130 dolazak      27.03.26. 01:46, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-27T01:46:00",
-    "seen_at": "2026-03-27T02:28:31.307Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47563",
-    "event_time": "2026-03-27T03:29:00",
-    "seen_at": "2026-03-27T02:30:27.240Z",
-    "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:29, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "47563",
-    "event_time": "2026-03-27T03:35:00",
-    "seen_at": "2026-03-27T02:37:14.028Z",
-    "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:35, kolodvor 72304"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -7297,5 +7243,23 @@
     "event_time": "2026-03-30T04:25:00",
     "seen_at": "2026-03-30T02:25:35.567Z",
     "raw": "Br. Vlaka 89250 formiran     30.03.26. 04:25, kolodvor 72303"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-30T04:33:00",
+    "seen_at": "2026-03-30T02:34:32.410Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 04:33, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-30T04:33:00",
+    "seen_at": "2026-03-30T02:34:32.410Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 04:33, kolodvor RUDOPOLJE"
   }
 ]
