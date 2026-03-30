@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89154",
-    "event_time": "2026-03-27T21:45:00",
-    "seen_at": "2026-03-27T20:45:43.480Z",
-    "raw": "Br. Vlaka 89154 formiran     27.03.26. 21:45, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-28T02:15:00",
-    "seen_at": "2026-03-27T20:52:05.335Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -8971,5 +8953,23 @@
     "event_time": "2026-03-30T22:20:00",
     "seen_at": "2026-03-30T20:43:03.249Z",
     "raw": "Br. Vlaka 63305 promjena sas 30.03.26. 22:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-30T22:45:00",
+    "seen_at": "2026-03-30T20:50:58.549Z",
+    "raw": "Br. Vlaka 47945 odlazak      30.03.26. 22:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47945",
+    "event_time": "2026-03-30T22:45:00",
+    "seen_at": "2026-03-30T20:50:58.550Z",
+    "raw": "Br. Vlaka 47945 odlazak      30.03.26. 22:45, kolodvor KOPRIVNICA"
   }
 ]
