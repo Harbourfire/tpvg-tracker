@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47563",
-    "event_time": "2026-03-27T03:21:00",
-    "seen_at": "2026-03-27T02:21:43.433Z",
-    "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:21, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -7279,5 +7270,32 @@
     "event_time": "2026-03-30T04:15:00",
     "seen_at": "2026-03-30T02:15:40.967Z",
     "raw": "Br. Vlaka 81277 odlazak      30.03.26. 04:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-30T04:23:00",
+    "seen_at": "2026-03-30T02:24:03.597Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 04:23, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-03-30T04:23:00",
+    "seen_at": "2026-03-30T02:24:03.597Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 04:23, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89250",
+    "event_time": "2026-03-30T04:25:00",
+    "seen_at": "2026-03-30T02:25:35.567Z",
+    "raw": "Br. Vlaka 89250 formiran     30.03.26. 04:25, kolodvor 72303"
   }
 ]
