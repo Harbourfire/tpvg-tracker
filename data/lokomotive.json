@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82514",
-    "event_time": "2026-03-27T13:46:00",
-    "seen_at": "2026-03-27T12:56:45.921Z",
-    "raw": "Br. Vlaka 82514 dolazak      27.03.26. 13:46, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820440125",
     "type": "Promjena sastava",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8170,5 +8161,23 @@
     "event_time": "2026-03-30T14:34:00",
     "seen_at": "2026-03-30T12:45:38.082Z",
     "raw": "Br. Vlaka 89400 dolazak      30.03.26. 14:34, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "89400",
+    "event_time": "2026-03-30T14:55:00",
+    "seen_at": "2026-03-30T12:56:42.380Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 14:55, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "49827",
+    "event_time": "2026-03-30T14:46:00",
+    "seen_at": "2026-03-30T12:58:15.051Z",
+    "raw": "Br. Vlaka 49827 odlazak      30.03.26. 14:46, kolodvor DALJ"
   }
 ]
