@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76510",
-    "event_time": "2026-03-27T05:11:00",
-    "seen_at": "2026-03-27T04:12:12.965Z",
-    "raw": "Br. Vlaka 76510 formiran     27.03.26. 05:11, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-27T04:11:00",
-    "seen_at": "2026-03-27T04:17:56.129Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 04:11, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-27T04:11:00",
-    "seen_at": "2026-03-27T04:17:56.130Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 04:11, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "BLATA",
@@ -7369,5 +7342,23 @@
     "event_time": "2026-03-30T06:02:00",
     "seen_at": "2026-03-30T04:02:33.859Z",
     "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:02, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:09:00",
+    "seen_at": "2026-03-30T04:11:37.454Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:09, kolodvor 72304"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:15:00",
+    "seen_at": "2026-03-30T04:16:15.732Z",
+    "raw": "Br. Vlaka 89250 dolazak      30.03.26. 06:15, kolodvor ZAGREB KLARA"
   }
 ]
