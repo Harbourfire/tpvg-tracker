@@ -2,24 +2,6 @@
   {
     "uic": "987891113316",
     "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76510",
-    "event_time": "2026-03-27T06:17:00",
-    "seen_at": "2026-03-27T05:18:49.117Z",
-    "raw": "Br. Vlaka 76510 odlazak      27.03.26. 06:17, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81232",
-    "event_time": "2026-03-27T06:24:00",
-    "seen_at": "2026-03-27T05:25:27.197Z",
-    "raw": "Br. Vlaka 81232 odlazak      27.03.26. 06:24, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "76510",
     "event_time": "2026-03-27T06:29:00",
@@ -7396,5 +7378,32 @@
     "event_time": "2026-03-30T07:08:00",
     "seen_at": "2026-03-30T05:09:26.008Z",
     "raw": "Br. Vlaka 74301 formiran     30.03.26. 07:08, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76830",
+    "event_time": "2026-03-30T07:14:00",
+    "seen_at": "2026-03-30T05:16:37.585Z",
+    "raw": "Br. Vlaka 76830 odlazak      30.03.26. 07:14, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76601",
+    "event_time": "2026-03-30T07:17:00",
+    "seen_at": "2026-03-30T05:19:19.519Z",
+    "raw": "Br. Vlaka 76601 formiran     30.03.26. 07:17, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76830",
+    "event_time": "2026-03-30T07:24:00",
+    "seen_at": "2026-03-30T05:25:06.209Z",
+    "raw": "Br. Vlaka 76830 odlazak      30.03.26. 07:24, kolodvor STARI MIKANOVCI"
   }
 ]
