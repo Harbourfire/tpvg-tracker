@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "66751",
-    "event_time": "2026-03-27T10:03:00",
-    "seen_at": "2026-03-27T09:03:15.555Z",
-    "raw": "Br. Vlaka 66751 odlazak      27.03.26. 10:03, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "82514",
-    "event_time": "2026-03-27T10:04:00",
-    "seen_at": "2026-03-27T09:05:10.589Z",
-    "raw": "Br. Vlaka 82514 formiran     27.03.26. 10:04, kolodvor VELIKA"
-  },
-  {
     "uic": "987891113316",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -7765,5 +7747,77 @@
     "event_time": "2026-03-30T10:50:00",
     "seen_at": "2026-03-30T08:53:14.094Z",
     "raw": "Br. Vlaka 76600 odlazak      30.03.26. 10:50, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89400",
+    "event_time": "2026-03-30T10:56:00",
+    "seen_at": "2026-03-30T08:56:29.688Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:56, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-30T10:53:00",
+    "seen_at": "2026-03-30T08:56:29.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-30T10:53:00",
+    "seen_at": "2026-03-30T08:56:29.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "89158",
+    "event_time": "2026-03-30T06:13:00",
+    "seen_at": "2026-03-30T08:59:34.667Z",
+    "raw": "Br. Vlaka 89158 formiran     30.03.26. 06:13, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "89158",
+    "event_time": "2026-03-30T06:13:00",
+    "seen_at": "2026-03-30T08:59:34.667Z",
+    "raw": "Br. Vlaka 89158 formiran     30.03.26. 06:13, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Formiran",
+    "station": "KARLOVAC",
+    "train_number": "89052",
+    "event_time": "2026-03-30T10:59:00",
+    "seen_at": "2026-03-30T08:59:57.795Z",
+    "raw": "Br. Vlaka 89052 formiran     30.03.26. 10:59, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76600",
+    "event_time": "2026-03-30T11:04:00",
+    "seen_at": "2026-03-30T09:04:36.508Z",
+    "raw": "Br. Vlaka 76600 dolazak      30.03.26. 11:04, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-30T11:04:00",
+    "seen_at": "2026-03-30T09:04:59.543Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
