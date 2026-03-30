@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "PERKOVIĆ",
-    "train_number": null,
-    "event_time": "2026-03-24T12:23:00",
-    "seen_at": "2026-03-27T16:11:02.437Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -8548,5 +8539,32 @@
     "event_time": "2026-03-30T17:56:00",
     "seen_at": "2026-03-30T15:57:37.226Z",
     "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:56, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "PERKOVIĆ",
+    "train_number": null,
+    "event_time": "2026-03-24T12:23:00",
+    "seen_at": "2026-03-30T16:11:48.591Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-30T18:10:00",
+    "seen_at": "2026-03-30T16:12:57.608Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 18:10, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-03-30T18:10:00",
+    "seen_at": "2026-03-30T16:12:57.608Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 18:10, kolodvor JOSIPDOL"
   }
 ]
