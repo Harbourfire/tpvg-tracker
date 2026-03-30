@@ -1,15 +1,6 @@
 [
   {
     "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "74301",
-    "event_time": "2026-03-27T10:41:00",
-    "seen_at": "2026-03-27T09:52:30.790Z",
-    "raw": "Br. Vlaka 74301 dolazak      27.03.26. 10:41, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "987891113316",
     "type": "Odlazak",
     "station": "PLETERNICA",
     "train_number": "74301",
@@ -7936,5 +7927,23 @@
     "event_time": "2026-03-30T07:35:00",
     "seen_at": "2026-03-30T09:39:17.513Z",
     "raw": "Br. Vlaka 81981 formiran     30.03.26. 07:35, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "89400",
+    "event_time": "2026-03-30T11:50:00",
+    "seen_at": "2026-03-30T09:50:23.120Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 11:50, kolodvor NOVSKA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-03-30T11:49:00",
+    "seen_at": "2026-03-30T09:50:47.322Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
