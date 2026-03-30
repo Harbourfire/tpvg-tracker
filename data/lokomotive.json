@@ -2,24 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81232",
-    "event_time": "2026-03-27T06:37:00",
-    "seen_at": "2026-03-27T05:38:35.308Z",
-    "raw": "Br. Vlaka 81232 odlazak      27.03.26. 06:37, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-27T06:40:00",
-    "seen_at": "2026-03-27T05:42:59.521Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "81232",
     "event_time": "2026-03-27T06:52:00",
@@ -7432,5 +7414,32 @@
     "event_time": "2026-03-30T07:16:00",
     "seen_at": "2026-03-30T05:33:07.443Z",
     "raw": "Br. Vlaka 89400 formiran     30.03.26. 07:16, kolodvor 71020"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76830",
+    "event_time": "2026-03-30T07:34:00",
+    "seen_at": "2026-03-30T05:37:30.935Z",
+    "raw": "Br. Vlaka 76830 dolazak      30.03.26. 07:34, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76830",
+    "event_time": "2026-03-30T07:37:00",
+    "seen_at": "2026-03-30T05:38:17.448Z",
+    "raw": "Br. Vlaka 76830 odlazak      30.03.26. 07:37, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "81277",
+    "event_time": "2026-03-30T05:06:00",
+    "seen_at": "2026-03-30T05:42:53.896Z",
+    "raw": "Br. Vlaka 81277 promjena sas 30.03.26. 05:06, kolodvor OSIJEK"
   }
 ]
