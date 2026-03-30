@@ -2,15 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "89706",
-    "event_time": "2026-03-27T19:08:00",
-    "seen_at": "2026-03-27T18:09:53.977Z",
-    "raw": "Br. Vlaka 89706 odlazak      27.03.26. 19:08, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89706",
     "event_time": "2026-03-27T19:12:00",
@@ -8701,5 +8692,41 @@
     "event_time": "2026-03-30T19:59:00",
     "seen_at": "2026-03-30T17:59:35.137Z",
     "raw": "Br. Vlaka 69326 odlazak      30.03.26. 19:59, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "89891",
+    "event_time": "2026-03-30T20:02:00",
+    "seen_at": "2026-03-30T18:04:47.813Z",
+    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 20:02, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "89891",
+    "event_time": "2026-03-30T20:02:00",
+    "seen_at": "2026-03-30T18:04:47.813Z",
+    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 20:02, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89891",
+    "event_time": "2026-03-30T20:10:00",
+    "seen_at": "2026-03-30T18:10:33.829Z",
+    "raw": "Br. Vlaka 89891 dolazak      30.03.26. 20:10, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89891",
+    "event_time": "2026-03-30T20:10:00",
+    "seen_at": "2026-03-30T18:10:33.830Z",
+    "raw": "Br. Vlaka 89891 dolazak      30.03.26. 20:10, kolodvor KRIŽEVCI"
   }
 ]
