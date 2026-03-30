@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-03-27T05:36:00",
-    "seen_at": "2026-03-27T04:41:57.652Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 05:36, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-03-27T05:36:00",
-    "seen_at": "2026-03-27T04:41:57.652Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 05:36, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63306",
     "event_time": "2026-03-27T05:59:00",
@@ -7378,5 +7360,23 @@
     "event_time": "2026-03-30T06:28:00",
     "seen_at": "2026-03-30T04:29:11.705Z",
     "raw": "Br. Vlaka 89540 formiran     30.03.26. 06:28, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:33:00",
+    "seen_at": "2026-03-30T04:37:22.010Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:33, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:38:00",
+    "seen_at": "2026-03-30T04:39:18.349Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:38, kolodvor ZAPREŠIĆ"
   }
 ]
