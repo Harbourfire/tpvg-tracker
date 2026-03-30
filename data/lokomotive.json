@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66854",
-    "event_time": "2026-03-27T19:57:00",
-    "seen_at": "2026-03-27T18:57:32.245Z",
-    "raw": "Br. Vlaka 66854 formiran     27.03.26. 19:57, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
     "train_number": "66854",
@@ -8800,5 +8791,14 @@
     "event_time": "2026-03-30T20:41:00",
     "seen_at": "2026-03-30T18:42:53.739Z",
     "raw": "Br. Vlaka 47945 dolazak      30.03.26. 20:41, kolodvor 73164"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "69326",
+    "event_time": "2026-03-30T20:50:00",
+    "seen_at": "2026-03-30T18:50:49.575Z",
+    "raw": "Br. Vlaka 69326 odlazak      30.03.26. 20:50, kolodvor NOVA GRADIŠKA"
   }
 ]
