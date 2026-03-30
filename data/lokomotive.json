@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-03-27T09:29:00",
-    "seen_at": "2026-03-27T08:45:08.433Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "66751",
-    "event_time": "2026-03-27T09:50:00",
-    "seen_at": "2026-03-27T08:50:25.675Z",
-    "raw": "Br. Vlaka 66751 formiran     27.03.26. 09:50, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -7765,5 +7747,23 @@
     "event_time": "2026-03-30T10:35:00",
     "seen_at": "2026-03-30T08:36:39.856Z",
     "raw": "Br. Vlaka 63305 odlazak      30.03.26. 10:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89400",
+    "event_time": "2026-03-30T10:47:00",
+    "seen_at": "2026-03-30T08:48:07.687Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:47, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76600",
+    "event_time": "2026-03-30T10:50:00",
+    "seen_at": "2026-03-30T08:53:14.094Z",
+    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 10:50, kolodvor SIBINJ"
   }
 ]
