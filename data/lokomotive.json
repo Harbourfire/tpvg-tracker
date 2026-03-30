@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89706",
-    "event_time": "2026-03-27T13:38:00",
-    "seen_at": "2026-03-27T12:38:59.267Z",
-    "raw": "Br. Vlaka 89706 formiran     27.03.26. 13:38, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -8161,5 +8152,14 @@
     "event_time": "2026-03-30T13:35:00",
     "seen_at": "2026-03-30T12:19:20.527Z",
     "raw": "Br. Vlaka 49827 promjena sas 30.03.26. 13:35, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-03-30T14:36:00",
+    "seen_at": "2026-03-30T12:40:29.566Z",
+    "raw": "Br. Vlaka 49827 odlazak      30.03.26. 14:36, kolodvor ERDUT"
   }
 ]
