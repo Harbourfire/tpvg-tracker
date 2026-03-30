@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "66854",
-    "event_time": "2026-03-27T20:10:00",
-    "seen_at": "2026-03-27T19:10:31.489Z",
-    "raw": "Br. Vlaka 66854 dolazak      27.03.26. 20:10, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-27T20:10:00",
-    "seen_at": "2026-03-27T19:10:54.657Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -8791,5 +8773,50 @@
     "event_time": "2026-03-30T20:50:00",
     "seen_at": "2026-03-30T18:50:49.575Z",
     "raw": "Br. Vlaka 69326 odlazak      30.03.26. 20:50, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Dolazak",
+    "station": "OKUČANI",
+    "train_number": "69326",
+    "event_time": "2026-03-30T21:09:00",
+    "seen_at": "2026-03-30T19:09:58.114Z",
+    "raw": "Br. Vlaka 69326 dolazak      30.03.26. 21:09, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "69661",
+    "event_time": "2026-03-30T21:09:00",
+    "seen_at": "2026-03-30T19:10:44.369Z",
+    "raw": "Br. Vlaka 69661 odlazak      30.03.26. 21:09, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47945",
+    "event_time": "2026-03-30T21:14:00",
+    "seen_at": "2026-03-30T19:15:44.808Z",
+    "raw": "Br. Vlaka 47945 odlazak      30.03.26. 21:14, kolodvor 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47945",
+    "event_time": "2026-03-30T21:14:00",
+    "seen_at": "2026-03-30T19:15:44.808Z",
+    "raw": "Br. Vlaka 47945 odlazak      30.03.26. 21:14, kolodvor 73164"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-03-31T01:30:00",
+    "seen_at": "2026-03-30T19:16:30.975Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
   }
 ]
