@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82514",
-    "event_time": "2026-03-27T13:16:00",
-    "seen_at": "2026-03-27T12:18:40.359Z",
-    "raw": "Br. Vlaka 82514 odlazak      27.03.26. 13:16, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Formiran",
     "station": "ZAGREB RESNIK",
@@ -8152,5 +8143,23 @@
     "event_time": "2026-03-30T14:13:00",
     "seen_at": "2026-03-30T12:14:30.792Z",
     "raw": "Br. Vlaka 81981 odlazak      30.03.26. 14:13, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89400",
+    "event_time": "2026-03-30T14:13:00",
+    "seen_at": "2026-03-30T12:18:57.028Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 14:13, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-03-30T13:35:00",
+    "seen_at": "2026-03-30T12:19:20.527Z",
+    "raw": "Br. Vlaka 49827 promjena sas 30.03.26. 13:35, kolodvor ERDUT"
   }
 ]
