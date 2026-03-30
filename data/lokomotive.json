@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-27T10:16:00",
-    "seen_at": "2026-03-27T09:18:37.469Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "SAVSKI MAROF granica",
@@ -7828,5 +7819,50 @@
     "event_time": "2026-03-30T11:10:00",
     "seen_at": "2026-03-30T09:10:39.484Z",
     "raw": "Br. Vlaka 74300 odlazak      30.03.26. 11:10, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "89158",
+    "event_time": "2026-03-30T11:14:00",
+    "seen_at": "2026-03-30T09:15:33.471Z",
+    "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:14, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "89158",
+    "event_time": "2026-03-30T11:14:00",
+    "seen_at": "2026-03-30T09:15:33.471Z",
+    "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:14, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "74300",
+    "event_time": "2026-03-30T11:16:00",
+    "seen_at": "2026-03-30T09:17:29.521Z",
+    "raw": "Br. Vlaka 74300 odlazak      30.03.26. 11:16, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-27T10:16:00",
+    "seen_at": "2026-03-30T09:19:03.127Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89400",
+    "event_time": "2026-03-30T11:19:00",
+    "seen_at": "2026-03-30T09:20:13.559Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 11:19, kolodvor NOVA GRADIŠKA"
   }
 ]
