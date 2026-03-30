@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "82017",
-    "event_time": "2026-03-27T10:37:00",
-    "seen_at": "2026-03-27T09:38:06.661Z",
-    "raw": "Br. Vlaka 82017 formiran     27.03.26. 10:37, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "987891113316",
     "type": "Dolazak",
     "station": "PLETERNICA",
@@ -7891,5 +7882,59 @@
     "event_time": "2026-03-30T11:28:00",
     "seen_at": "2026-03-30T09:29:01.175Z",
     "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:28, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "89400",
+    "event_time": "2026-03-30T11:33:00",
+    "seen_at": "2026-03-30T09:34:36.624Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 11:33, kolodvor OKUČANI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "89158",
+    "event_time": "2026-03-30T11:35:00",
+    "seen_at": "2026-03-30T09:36:10.198Z",
+    "raw": "Br. Vlaka 89158 dolazak      30.03.26. 11:35, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "89158",
+    "event_time": "2026-03-30T11:35:00",
+    "seen_at": "2026-03-30T09:36:10.198Z",
+    "raw": "Br. Vlaka 89158 dolazak      30.03.26. 11:35, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81981",
+    "event_time": "2026-03-30T07:35:00",
+    "seen_at": "2026-03-30T09:38:54.259Z",
+    "raw": "Br. Vlaka 81981 formiran     30.03.26. 07:35, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-30T11:35:00",
+    "seen_at": "2026-03-30T09:38:54.259Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81981",
+    "event_time": "2026-03-30T07:35:00",
+    "seen_at": "2026-03-30T09:39:17.513Z",
+    "raw": "Br. Vlaka 81981 formiran     30.03.26. 07:35, kolodvor OŠTARIJE"
   }
 ]
