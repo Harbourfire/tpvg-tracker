@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "81286",
-    "event_time": "2026-03-27T12:02:00",
-    "seen_at": "2026-03-27T11:02:19.850Z",
-    "raw": "Br. Vlaka 81286 formiran     27.03.26. 12:02, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -8008,5 +7999,14 @@
     "event_time": "2026-03-30T12:55:00",
     "seen_at": "2026-03-30T10:57:26.369Z",
     "raw": "Br. Vlaka 81981 dolazak      30.03.26. 12:55, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45941",
+    "event_time": "2026-03-30T12:56:00",
+    "seen_at": "2026-03-30T11:00:42.320Z",
+    "raw": "Br. Vlaka 45941 odlazak      30.03.26. 12:56, kolodvor BELI MANASTIR"
   }
 ]
