@@ -7315,5 +7315,41 @@
     "event_time": "2026-03-20T03:19:00",
     "seen_at": "2026-03-30T03:28:28.535Z",
     "raw": "Trenutna pozicija je u kolodvoru 75060 KARLOVAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-03-30T05:33:00",
+    "seen_at": "2026-03-30T03:33:51.178Z",
+    "raw": "Br. Vlaka 63306 dolazak      30.03.26. 05:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-03-30T05:33:00",
+    "seen_at": "2026-03-30T03:33:51.179Z",
+    "raw": "Br. Vlaka 63306 dolazak      30.03.26. 05:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-30T05:33:00",
+    "seen_at": "2026-03-30T03:34:14.300Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-30T05:33:00",
+    "seen_at": "2026-03-30T03:34:14.300Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
