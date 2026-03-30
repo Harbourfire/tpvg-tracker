@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-27T07:39:00",
-    "seen_at": "2026-03-27T06:39:39.150Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-03-27T07:38:00",
-    "seen_at": "2026-03-27T06:40:02.364Z",
-    "raw": "Br. Vlaka 63306 dolazak      27.03.26. 07:38, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-03-27T07:38:00",
-    "seen_at": "2026-03-27T06:40:02.365Z",
-    "raw": "Br. Vlaka 63306 dolazak      27.03.26. 07:38, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "997894853412",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-03-24T07:36:00",
-    "seen_at": "2026-03-27T06:40:02.365Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
     "uic": "987891113316",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -7468,5 +7432,32 @@
     "event_time": "2026-03-30T08:34:00",
     "seen_at": "2026-03-30T06:34:25.405Z",
     "raw": "Br. Vlaka 74301 odlazak      30.03.26. 08:34, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76601",
+    "event_time": "2026-03-30T08:37:00",
+    "seen_at": "2026-03-30T06:38:09.255Z",
+    "raw": "Br. Vlaka 76601 odlazak      30.03.26. 08:37, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-03-24T07:36:00",
+    "seen_at": "2026-03-30T06:40:30.251Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "74301",
+    "event_time": "2026-03-30T08:44:00",
+    "seen_at": "2026-03-30T06:45:09.475Z",
+    "raw": "Br. Vlaka 74301 odlazak      30.03.26. 08:44, kolodvor BLACKO JAKŠIĆ"
   }
 ]
