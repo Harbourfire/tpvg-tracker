@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-27T02:54:00",
-    "seen_at": "2026-03-27T01:57:48.644Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 02:54, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-27T02:54:00",
-    "seen_at": "2026-03-27T01:57:48.644Z",
-    "raw": "Br. Vlaka 63306 odlazak      27.03.26. 02:54, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-03-27T03:01:00",
-    "seen_at": "2026-03-27T02:01:58.052Z",
-    "raw": "Br. Vlaka 47563 odlazak      27.03.26. 03:01, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -7270,5 +7243,41 @@
     "event_time": "2026-03-30T03:45:00",
     "seen_at": "2026-03-30T01:46:19.434Z",
     "raw": "Br. Vlaka 45897 odlazak      30.03.26. 03:45, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-30T03:50:00",
+    "seen_at": "2026-03-30T01:53:51.592Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 03:50, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KRIŽEVCI",
+    "train_number": null,
+    "event_time": "2026-03-30T03:50:00",
+    "seen_at": "2026-03-30T01:53:51.592Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-03-30T03:50:00",
+    "seen_at": "2026-03-30T01:53:51.593Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 03:50, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "45897",
+    "event_time": "2026-03-30T03:53:00",
+    "seen_at": "2026-03-30T02:00:03.262Z",
+    "raw": "Br. Vlaka 45897 dolazak      30.03.26. 03:53, kolodvor TOVARNIK"
   }
 ]
