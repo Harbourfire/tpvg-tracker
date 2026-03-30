@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "81232",
-    "event_time": "2026-03-27T09:29:00",
-    "seen_at": "2026-03-27T08:44:22.968Z",
-    "raw": "Br. Vlaka 81232 dolazak      27.03.26. 09:29, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620189",
     "type": "Rasformiran",
     "station": "VELIKA",
     "train_number": null,
@@ -7747,5 +7738,32 @@
     "event_time": "2026-03-30T10:34:00",
     "seen_at": "2026-03-30T08:35:17.670Z",
     "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:34, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-30T10:36:00",
+    "seen_at": "2026-03-30T08:36:16.914Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-30T10:35:00",
+    "seen_at": "2026-03-30T08:36:39.856Z",
+    "raw": "Br. Vlaka 63305 odlazak      30.03.26. 10:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-30T10:35:00",
+    "seen_at": "2026-03-30T08:36:39.856Z",
+    "raw": "Br. Vlaka 63305 odlazak      30.03.26. 10:35, kolodvor JOSIPDOL"
   }
 ]
