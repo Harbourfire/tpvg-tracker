@@ -8917,5 +8917,59 @@
     "event_time": "2026-03-30T22:23:00",
     "seen_at": "2026-03-30T20:24:04.110Z",
     "raw": "Br. Vlaka 89891 odlazak      30.03.26. 22:23, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89891",
+    "event_time": "2026-03-30T22:32:00",
+    "seen_at": "2026-03-30T20:34:32.759Z",
+    "raw": "Br. Vlaka 89891 dolazak      30.03.26. 22:32, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89891",
+    "event_time": "2026-03-30T22:32:00",
+    "seen_at": "2026-03-30T20:34:32.759Z",
+    "raw": "Br. Vlaka 89891 dolazak      30.03.26. 22:32, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-30T22:20:00",
+    "seen_at": "2026-03-30T20:36:06.554Z",
+    "raw": "Br. Vlaka 63305 dolazak      30.03.26. 22:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-30T22:20:00",
+    "seen_at": "2026-03-30T20:36:06.554Z",
+    "raw": "Br. Vlaka 63305 dolazak      30.03.26. 22:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-30T22:20:00",
+    "seen_at": "2026-03-30T20:43:03.249Z",
+    "raw": "Br. Vlaka 63305 promjena sas 30.03.26. 22:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-03-30T22:20:00",
+    "seen_at": "2026-03-30T20:43:03.249Z",
+    "raw": "Br. Vlaka 63305 promjena sas 30.03.26. 22:20, kolodvor JOSIPDOL"
   }
 ]
