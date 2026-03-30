@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "89154",
-    "event_time": "2026-03-27T23:04:00",
-    "seen_at": "2026-03-27T22:12:36.281Z",
-    "raw": "Br. Vlaka 89154 odlazak      27.03.26. 23:04, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89288",
-    "event_time": "2026-03-27T23:13:00",
-    "seen_at": "2026-03-27T22:13:46.637Z",
-    "raw": "Br. Vlaka 89288 odlazak      27.03.26. 23:13, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "PLAŠKI",
@@ -9088,5 +9070,68 @@
     "event_time": "2026-03-31T00:01:00",
     "seen_at": "2026-03-30T22:02:44.617Z",
     "raw": "Br. Vlaka 89173 odlazak      31.03.26. 00:01, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:08:00",
+    "seen_at": "2026-03-30T22:11:14.022Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:08, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:08:00",
+    "seen_at": "2026-03-30T22:11:14.022Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:08, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-03-31T00:08:00",
+    "seen_at": "2026-03-30T22:11:37.096Z",
+    "raw": "Br. Vlaka 47945 odlazak      31.03.26. 00:08, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-03-31T00:08:00",
+    "seen_at": "2026-03-30T22:11:37.096Z",
+    "raw": "Br. Vlaka 47945 odlazak      31.03.26. 00:08, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:17:00",
+    "seen_at": "2026-03-30T22:17:24.259Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:17, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:17:00",
+    "seen_at": "2026-03-30T22:17:24.259Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:17, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81227",
+    "event_time": "2026-03-31T00:14:00",
+    "seen_at": "2026-03-30T22:18:10.339Z",
+    "raw": "Br. Vlaka 81227 promjena sas 31.03.26. 00:14, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
