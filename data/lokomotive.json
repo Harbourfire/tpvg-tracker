@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-03-27T04:26:00",
-    "seen_at": "2026-03-27T04:21:25.227Z",
-    "raw": "Br. Vlaka 63306 dolazak      27.03.26. 04:26, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-03-27T04:26:00",
-    "seen_at": "2026-03-27T04:21:25.227Z",
-    "raw": "Br. Vlaka 63306 dolazak      27.03.26. 04:26, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "BLATA",
     "train_number": "63306",
@@ -7360,5 +7342,41 @@
     "event_time": "2026-03-30T06:15:00",
     "seen_at": "2026-03-30T04:16:15.732Z",
     "raw": "Br. Vlaka 89250 dolazak      30.03.26. 06:15, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:20:00",
+    "seen_at": "2026-03-30T04:21:51.795Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:20, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69852",
+    "event_time": "2026-03-30T06:27:00",
+    "seen_at": "2026-03-30T04:27:38.788Z",
+    "raw": "Br. Vlaka 69852 formiran     30.03.26. 06:27, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89250",
+    "event_time": "2026-03-30T06:28:00",
+    "seen_at": "2026-03-30T04:28:25.531Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:28, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89540",
+    "event_time": "2026-03-30T06:28:00",
+    "seen_at": "2026-03-30T04:29:11.705Z",
+    "raw": "Br. Vlaka 89540 formiran     30.03.26. 06:28, kolodvor OSIJEK"
   }
 ]
