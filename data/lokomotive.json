@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82514",
-    "event_time": "2026-03-27T11:44:00",
-    "seen_at": "2026-03-27T10:49:03.384Z",
-    "raw": "Br. Vlaka 82514 dolazak      27.03.26. 11:44, kolodvor POŽEGA"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -7972,5 +7963,32 @@
     "event_time": "2026-03-30T12:35:00",
     "seen_at": "2026-03-30T10:37:19.547Z",
     "raw": "Br. Vlaka 81981 odlazak      30.03.26. 12:35, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "89400",
+    "event_time": "2026-03-30T12:42:00",
+    "seen_at": "2026-03-30T10:42:38.289Z",
+    "raw": "Br. Vlaka 89400 dolazak      30.03.26. 12:42, kolodvor SUNJA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81981",
+    "event_time": "2026-03-30T12:41:00",
+    "seen_at": "2026-03-30T10:47:37.415Z",
+    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 12:41, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81981",
+    "event_time": "2026-03-30T12:41:00",
+    "seen_at": "2026-03-30T10:47:37.415Z",
+    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 12:41, kolodvor BLATA"
   }
 ]
