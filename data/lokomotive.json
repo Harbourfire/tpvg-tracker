@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89288",
-    "event_time": "2026-03-27T23:39:00",
-    "seen_at": "2026-03-27T22:40:03.339Z",
-    "raw": "Br. Vlaka 89288 odlazak      27.03.26. 23:39, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "SAVSKI MAROF",
     "train_number": "89288",
@@ -9142,5 +9133,23 @@
     "event_time": "2026-03-31T00:36:00",
     "seen_at": "2026-03-30T22:37:17.660Z",
     "raw": "Br. Vlaka 47945 odlazak      31.03.26. 00:36, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:42:00",
+    "seen_at": "2026-03-30T22:44:53.390Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:42, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T00:42:00",
+    "seen_at": "2026-03-30T22:44:53.390Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:42, kolodvor VRHOVINE"
   }
 ]
