@@ -1,15 +1,6 @@
 [
   {
     "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "74301",
-    "event_time": "2026-03-27T11:12:00",
-    "seen_at": "2026-03-27T10:13:08.259Z",
-    "raw": "Br. Vlaka 74301 odlazak      27.03.26. 11:12, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "987891113316",
     "type": "Dolazak",
     "station": "POŽEGA",
     "train_number": "74301",
@@ -7945,5 +7936,14 @@
     "event_time": "2026-03-30T09:42:00",
     "seen_at": "2026-03-30T09:54:25.764Z",
     "raw": "Trenutna pozicija je u kolodvoru 72802 ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89400",
+    "event_time": "2026-03-30T12:15:00",
+    "seen_at": "2026-03-30T10:15:59.123Z",
+    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 12:15, kolodvor HRVATSKA DUBICA"
   }
 ]
