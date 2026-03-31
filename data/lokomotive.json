@@ -2,15 +2,6 @@
   {
     "uic": "987821323118",
     "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69327",
-    "event_time": "2026-03-28T10:24:00",
-    "seen_at": "2026-03-28T09:24:57.435Z",
-    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:24, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
     "station": "SIBINJ",
     "train_number": "69327",
     "event_time": "2026-03-28T10:37:00",
@@ -9574,5 +9565,104 @@
     "event_time": "2026-03-25T10:12:00",
     "seen_at": "2026-03-31T09:18:56.442Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:19:00",
+    "seen_at": "2026-03-31T09:20:22.040Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:19, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:19:00",
+    "seen_at": "2026-03-31T09:20:22.040Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:19, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "48587",
+    "event_time": "2026-03-31T11:20:00",
+    "seen_at": "2026-03-31T09:20:45.597Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 11:20, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "69327",
+    "event_time": "2026-03-31T11:24:00",
+    "seen_at": "2026-03-31T09:24:38.972Z",
+    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:24, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "GREDA",
+    "train_number": "89021",
+    "event_time": "2026-03-31T11:21:00",
+    "seen_at": "2026-03-31T09:25:48.528Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 11:21, kolodvor GREDA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "89021",
+    "event_time": "2026-03-31T11:24:00",
+    "seen_at": "2026-03-31T09:26:34.957Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 11:24, kolodvor GREDA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89540",
+    "event_time": "2026-03-31T09:21:00",
+    "seen_at": "2026-03-31T09:27:21.040Z",
+    "raw": "Br. Vlaka 89540 promjena sas 31.03.26. 09:21, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-03-31T09:30:00",
+    "seen_at": "2026-03-31T09:27:44.332Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "45981",
+    "event_time": "2026-03-31T10:42:00",
+    "seen_at": "2026-03-31T09:28:07.436Z",
+    "raw": "Br. Vlaka 45981 promjena sas 31.03.26. 10:42, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:27:00",
+    "seen_at": "2026-03-31T09:28:30.644Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:27, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:27:00",
+    "seen_at": "2026-03-31T09:28:30.644Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:27, kolodvor VRHOVINE"
   }
 ]
