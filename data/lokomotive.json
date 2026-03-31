@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "82017",
-    "event_time": "2026-03-28T08:56:00",
-    "seen_at": "2026-03-28T07:57:07.390Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:56, kolodvor LEKENIK"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
@@ -9349,5 +9340,41 @@
     "event_time": "2026-03-31T09:41:00",
     "seen_at": "2026-03-31T07:52:47.894Z",
     "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "89021",
+    "event_time": "2026-03-31T09:53:00",
+    "seen_at": "2026-03-31T07:53:49.124Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 09:53, kolodvor HORVATI"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Formiran",
+    "station": "ZABOK",
+    "train_number": "79965",
+    "event_time": "2026-03-31T09:53:00",
+    "seen_at": "2026-03-31T07:54:13.331Z",
+    "raw": "Br. Vlaka 79965 formiran     31.03.26. 09:53, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-03-31T09:57:00",
+    "seen_at": "2026-03-31T07:59:19.871Z",
+    "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:57, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-03-31T09:57:00",
+    "seen_at": "2026-03-31T07:59:19.871Z",
+    "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:57, kolodvor JOSIPDOL"
   }
 ]
