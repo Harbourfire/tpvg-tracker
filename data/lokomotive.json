@@ -1,15 +1,6 @@
 [
   {
     "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69327",
-    "event_time": "2026-03-28T10:37:00",
-    "seen_at": "2026-03-28T09:39:12.733Z",
-    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:37, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987821323118",
     "type": "Rasformiran",
     "station": "SLAVONSKI BROD",
     "train_number": null,
@@ -9664,5 +9655,59 @@
     "event_time": "2026-03-31T11:27:00",
     "seen_at": "2026-03-31T09:28:30.644Z",
     "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:27, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "69327",
+    "event_time": "2026-03-31T11:36:00",
+    "seen_at": "2026-03-31T09:38:59.317Z",
+    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:36, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89021",
+    "event_time": "2026-03-31T11:38:00",
+    "seen_at": "2026-03-31T09:38:59.319Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 11:38, kolodvor SISAK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:40:00",
+    "seen_at": "2026-03-31T09:41:43.027Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:40, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:40:00",
+    "seen_at": "2026-03-31T09:41:43.027Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:40, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "82510",
+    "event_time": "2026-03-31T11:37:00",
+    "seen_at": "2026-03-31T09:43:38.306Z",
+    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 11:37, kolodvor VELIKA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69327",
+    "event_time": "2026-03-31T11:45:00",
+    "seen_at": "2026-03-31T09:46:43.839Z",
+    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:45, kolodvor ORIOVAC"
   }
 ]
