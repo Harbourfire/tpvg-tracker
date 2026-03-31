@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-28T02:49:00",
-    "seen_at": "2026-03-28T01:49:16.943Z",
-    "raw": "Br. Vlaka 63306 formiran     28.03.26. 02:49, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-28T02:49:00",
-    "seen_at": "2026-03-28T01:49:16.943Z",
-    "raw": "Br. Vlaka 63306 formiran     28.03.26. 02:49, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "82017",
-    "train_number": null,
-    "event_time": "2026-03-28T01:55:52.108Z",
-    "seen_at": "2026-03-28T01:55:52.108Z",
-    "raw": "Trenutna pozicija je u kolodvoru 82017 82017"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "SAVSKI MAROF",
@@ -9250,5 +9223,41 @@
     "event_time": "2026-03-31T03:20:00",
     "seen_at": "2026-03-31T01:47:10.711Z",
     "raw": "Br. Vlaka 81226 promjena sas 31.03.26. 03:20, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89163",
+    "event_time": "2026-03-31T03:45:00",
+    "seen_at": "2026-03-31T01:50:03.969Z",
+    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 03:45, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89163",
+    "event_time": "2026-03-31T03:55:00",
+    "seen_at": "2026-03-31T01:56:39.928Z",
+    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 03:55, kolodvor 72302"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:56:00",
+    "seen_at": "2026-03-31T01:57:49.176Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:56, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:56:00",
+    "seen_at": "2026-03-31T01:57:49.176Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:56, kolodvor JOSIPDOL"
   }
 ]
