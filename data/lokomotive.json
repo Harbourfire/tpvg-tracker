@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:39:00",
-    "seen_at": "2026-03-28T03:47:47.222Z",
-    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:39, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:39:00",
-    "seen_at": "2026-03-28T03:47:47.222Z",
-    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:39, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:41:00",
-    "seen_at": "2026-03-28T03:48:09.903Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:41, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:41:00",
-    "seen_at": "2026-03-28T03:48:09.903Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:41, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:53:00",
-    "seen_at": "2026-03-28T03:53:21.198Z",
-    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:53, kolodvor 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:53:00",
-    "seen_at": "2026-03-28T03:53:21.198Z",
-    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 04:53, kolodvor 73164"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -9358,5 +9304,14 @@
     "event_time": "2026-03-31T05:40:00",
     "seen_at": "2026-03-31T03:43:39.783Z",
     "raw": "Br. Vlaka 89163 dolazak      31.03.26. 05:40, kolodvor MOSLAVAČKA GRAČENICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81233",
+    "event_time": "2026-03-31T05:49:00",
+    "seen_at": "2026-03-31T03:49:52.209Z",
+    "raw": "Br. Vlaka 81233 dolazak      31.03.26. 05:49, kolodvor ZAGREB ZAP. KOL."
   }
 ]
