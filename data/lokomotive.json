@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "47562",
-    "event_time": "2026-03-29T00:44:00",
-    "seen_at": "2026-03-28T23:45:19.812Z",
-    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 00:44, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "BLATA",
@@ -10393,5 +10384,59 @@
     "event_time": "2026-04-01T01:33:00",
     "seen_at": "2026-03-31T23:35:11.840Z",
     "raw": "Br. Vlaka 89711 odlazak      01.04.26. 01:33, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "PRIMORSKI DOLAC",
+    "train_number": "78000",
+    "event_time": "2026-04-01T01:41:00",
+    "seen_at": "2026-03-31T23:42:28.355Z",
+    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 01:41, kolodvor PRIMORSKI DOLAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81211",
+    "event_time": "2026-04-01T01:43:00",
+    "seen_at": "2026-03-31T23:44:26.081Z",
+    "raw": "Br. Vlaka 81211 odlazak      01.04.26. 01:43, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŠPIŠIĆ BUKOVICA",
+    "train_number": "89711",
+    "event_time": "2026-04-01T01:43:00",
+    "seen_at": "2026-03-31T23:45:12.752Z",
+    "raw": "Br. Vlaka 89711 odlazak      01.04.26. 01:43, kolodvor ŠPIŠIĆ BUKOVICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47945",
+    "event_time": "2026-04-01T01:48:00",
+    "seen_at": "2026-03-31T23:49:07.550Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 01:48, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47945",
+    "event_time": "2026-04-01T01:48:00",
+    "seen_at": "2026-03-31T23:49:07.550Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 01:48, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-01T01:50:00",
+    "seen_at": "2026-03-31T23:50:40.913Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
   }
 ]
