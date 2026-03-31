@@ -2,24 +2,6 @@
   {
     "uic": "997894853487",
     "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "82017",
-    "event_time": "2026-03-28T08:47:00",
-    "seen_at": "2026-03-28T07:48:02.627Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:47, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "69326",
-    "event_time": "2026-03-28T08:51:00",
-    "seen_at": "2026-03-28T07:51:54.962Z",
-    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 08:51, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
     "station": "LEKENIK",
     "train_number": "82017",
     "event_time": "2026-03-28T08:56:00",
@@ -9313,5 +9295,59 @@
     "event_time": "2026-03-28T08:30:00",
     "seen_at": "2026-03-31T07:31:51.234Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "LUDBREG",
+    "train_number": "81226",
+    "event_time": "2026-03-31T09:38:00",
+    "seen_at": "2026-03-31T07:47:41.671Z",
+    "raw": "Br. Vlaka 81226 dolazak      31.03.26. 09:38, kolodvor LUDBREG"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "82326",
+    "event_time": "2026-03-31T09:28:00",
+    "seen_at": "2026-03-31T07:50:02.737Z",
+    "raw": "Br. Vlaka 82326 dolazak      31.03.26. 09:28, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-03-31T09:28:00",
+    "seen_at": "2026-03-31T07:50:26.097Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-31T09:50:00",
+    "seen_at": "2026-03-31T07:51:36.887Z",
+    "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:50, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-03-31T09:50:00",
+    "seen_at": "2026-03-31T07:51:36.887Z",
+    "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:50, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-03-31T09:41:00",
+    "seen_at": "2026-03-31T07:52:47.894Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
   }
 ]
