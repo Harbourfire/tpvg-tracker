@@ -2,60 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45990",
-    "event_time": "2026-03-28T00:57:00",
-    "seen_at": "2026-03-27T23:58:28.293Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 00:57, kolodvor 72302"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45990",
-    "event_time": "2026-03-28T00:57:00",
-    "seen_at": "2026-03-27T23:58:28.293Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 00:57, kolodvor 72302"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-28T00:55:00",
-    "seen_at": "2026-03-28T00:02:41.431Z",
-    "raw": "Br. Vlaka 63305 dolazak      28.03.26. 00:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-28T00:55:00",
-    "seen_at": "2026-03-28T00:02:41.431Z",
-    "raw": "Br. Vlaka 63305 dolazak      28.03.26. 00:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-28T00:56:00",
-    "seen_at": "2026-03-28T00:03:04.247Z",
-    "raw": "Br. Vlaka 63305 odlazak      28.03.26. 00:56, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-28T00:56:00",
-    "seen_at": "2026-03-28T00:03:04.247Z",
-    "raw": "Br. Vlaka 63305 odlazak      28.03.26. 00:56, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "SESVETE",
     "train_number": "45990",
     "event_time": "2026-03-28T01:09:00",
@@ -9340,5 +9286,14 @@
     "event_time": "2026-03-30T20:18:00",
     "seen_at": "2026-03-30T23:43:08.719Z",
     "raw": "Br. Vlaka 48587 formiran     30.03.26. 20:18, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81227",
+    "event_time": "2026-03-31T02:00:00",
+    "seen_at": "2026-03-31T00:01:46.805Z",
+    "raw": "Br. Vlaka 81227 dolazak      31.03.26. 02:00, kolodvor OSIJEK"
   }
 ]
