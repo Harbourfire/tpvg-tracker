@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81976",
-    "event_time": "2026-03-28T23:57:00",
-    "seen_at": "2026-03-28T22:58:35.546Z",
-    "raw": "Br. Vlaka 81976 odlazak      28.03.26. 23:57, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81976",
-    "event_time": "2026-03-28T23:57:00",
-    "seen_at": "2026-03-28T22:58:35.547Z",
-    "raw": "Br. Vlaka 81976 odlazak      28.03.26. 23:57, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "81976",
     "event_time": "2026-03-29T00:09:00",
@@ -10213,5 +10195,68 @@
     "event_time": "2026-04-01T00:46:00",
     "seen_at": "2026-03-31T22:51:12.801Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81211",
+    "event_time": "2026-03-31T23:14:00",
+    "seen_at": "2026-03-31T22:54:14.464Z",
+    "raw": "Br. Vlaka 81211 promjena sas 31.03.26. 23:14, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "89761",
+    "event_time": "2026-04-01T00:53:00",
+    "seen_at": "2026-03-31T22:55:25.848Z",
+    "raw": "Br. Vlaka 89761 odlazak      01.04.26. 00:53, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "SOLIN",
+    "train_number": "78000",
+    "event_time": "2026-04-01T00:55:00",
+    "seen_at": "2026-03-31T22:55:49.620Z",
+    "raw": "Br. Vlaka 78000 formiran     01.04.26. 00:55, kolodvor SOLIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47945",
+    "event_time": "2026-04-01T00:55:00",
+    "seen_at": "2026-03-31T22:57:00.499Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 00:55, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47945",
+    "event_time": "2026-04-01T00:55:00",
+    "seen_at": "2026-03-31T22:57:00.499Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 00:55, kolodvor 73164"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "SOLIN",
+    "train_number": "78000",
+    "event_time": "2026-04-01T01:00:00",
+    "seen_at": "2026-03-31T23:01:19.551Z",
+    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 01:00, kolodvor SOLIN"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "89761",
+    "event_time": "2026-04-01T01:02:00",
+    "seen_at": "2026-03-31T23:02:30.499Z",
+    "raw": "Br. Vlaka 89761 odlazak      01.04.26. 01:02, kolodvor SUHOPOLJE"
   }
 ]
