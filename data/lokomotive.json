@@ -2,15 +2,6 @@
   {
     "uic": "927820620254",
     "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "45131",
-    "event_time": "2026-03-28T12:48:00",
-    "seen_at": "2026-03-28T11:48:30.283Z",
-    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 12:48, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
     "station": "STARI MIKANOVCI",
     "train_number": "45131",
     "event_time": "2026-03-28T12:56:00",
@@ -9898,5 +9889,77 @@
     "event_time": "2026-03-31T13:36:00",
     "seen_at": "2026-03-31T11:40:46.212Z",
     "raw": "Br. Vlaka 81233 odlazak      31.03.26. 13:36, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "45596",
+    "event_time": "2026-03-31T13:42:00",
+    "seen_at": "2026-03-31T11:44:24.648Z",
+    "raw": "Br. Vlaka 45596 odlazak      31.03.26. 13:42, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81268",
+    "event_time": "2026-03-31T13:45:00",
+    "seen_at": "2026-03-31T11:45:33.982Z",
+    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 13:45, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81268",
+    "event_time": "2026-03-31T13:45:00",
+    "seen_at": "2026-03-31T11:45:33.982Z",
+    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 13:45, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-03-31T13:46:00",
+    "seen_at": "2026-03-31T11:46:20.993Z",
+    "raw": "Br. Vlaka 45104 formiran     31.03.26. 13:46, kolodvor 71308"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-03-31T13:17:00",
+    "seen_at": "2026-03-31T11:47:31.002Z",
+    "raw": "Br. Vlaka 45104 dolazak      31.03.26. 13:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "BUZET granica",
+    "train_number": null,
+    "event_time": "2026-03-31T13:48:00",
+    "seen_at": "2026-03-31T11:48:17.527Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89542",
+    "event_time": "2026-03-31T13:48:00",
+    "seen_at": "2026-03-31T11:49:03.765Z",
+    "raw": "Br. Vlaka 89542 odlazak      31.03.26. 13:48, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SV. IVAN ŽABNO",
+    "train_number": "48587",
+    "event_time": "2026-03-31T13:46:00",
+    "seen_at": "2026-03-31T11:49:26.913Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 13:46, kolodvor SV. IVAN ŽABNO"
   }
 ]
