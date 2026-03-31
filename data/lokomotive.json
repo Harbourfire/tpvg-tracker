@@ -2,24 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "48793",
-    "event_time": "2026-03-28T22:09:00",
-    "seen_at": "2026-03-28T21:11:41.879Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:09, kolodvor 72302"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "48793",
-    "event_time": "2026-03-28T22:09:00",
-    "seen_at": "2026-03-28T21:11:41.880Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:09, kolodvor 72302"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "48793",
     "event_time": "2026-03-28T22:19:00",
@@ -9970,5 +9952,14 @@
     "event_time": "2026-03-31T23:01:00",
     "seen_at": "2026-03-31T21:04:20.247Z",
     "raw": "Br. Vlaka 63305 dolazak      31.03.26. 23:01, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89873",
+    "event_time": "2026-03-31T23:05:00",
+    "seen_at": "2026-03-31T21:10:01.194Z",
+    "raw": "Br. Vlaka 89873 odlazak      31.03.26. 23:05, kolodvor KOPRIVNICA"
   }
 ]
