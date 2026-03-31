@@ -2,42 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81976",
-    "event_time": "2026-03-28T23:42:00",
-    "seen_at": "2026-03-28T22:44:17.554Z",
-    "raw": "Br. Vlaka 81976 odlazak      28.03.26. 23:42, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81976",
-    "event_time": "2026-03-28T23:42:00",
-    "seen_at": "2026-03-28T22:44:17.555Z",
-    "raw": "Br. Vlaka 81976 odlazak      28.03.26. 23:42, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-03-28T15:03:00",
-    "seen_at": "2026-03-28T22:44:40.603Z",
-    "raw": "Br. Vlaka 47563 formiran     28.03.26. 15:03, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-03-28T15:03:00",
-    "seen_at": "2026-03-28T22:44:40.603Z",
-    "raw": "Br. Vlaka 47563 formiran     28.03.26. 15:03, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "81976",
     "event_time": "2026-03-28T23:57:00",
@@ -10213,5 +10177,41 @@
     "event_time": "2026-04-01T00:42:00",
     "seen_at": "2026-03-31T22:43:11.931Z",
     "raw": "Br. Vlaka 89711 odlazak      01.04.26. 00:42, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-01T00:35:00",
+    "seen_at": "2026-03-31T22:50:49.619Z",
+    "raw": "Br. Vlaka 63305 odlazak      01.04.26. 00:35, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-01T00:35:00",
+    "seen_at": "2026-03-31T22:50:49.619Z",
+    "raw": "Br. Vlaka 63305 odlazak      01.04.26. 00:35, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-01T00:46:00",
+    "seen_at": "2026-03-31T22:51:12.801Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-01T00:46:00",
+    "seen_at": "2026-03-31T22:51:12.801Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
