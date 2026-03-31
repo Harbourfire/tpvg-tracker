@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "81213",
-    "event_time": "2026-03-28T16:14:00",
-    "seen_at": "2026-03-28T15:15:35.436Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 16:14, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "48793",
-    "event_time": "2026-03-28T16:19:00",
-    "seen_at": "2026-03-28T15:20:36.607Z",
-    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 16:19, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "48793",
-    "event_time": "2026-03-28T16:19:00",
-    "seen_at": "2026-03-28T15:20:36.608Z",
-    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 16:19, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "GENERALSKI STOL",
     "train_number": "81213",
@@ -10078,5 +10051,41 @@
     "event_time": "2026-03-31T17:06:00",
     "seen_at": "2026-03-31T15:06:59.080Z",
     "raw": "Br. Vlaka 89021 odlazak      31.03.26. 17:06, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "ŠAPJANE",
+    "train_number": null,
+    "event_time": "2026-03-31T17:13:00",
+    "seen_at": "2026-03-31T15:13:52.426Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75605 ŠAPJANE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89021",
+    "event_time": "2026-03-31T17:13:00",
+    "seen_at": "2026-03-31T15:13:52.427Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 17:13, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45983",
+    "event_time": "2026-03-31T17:17:00",
+    "seen_at": "2026-03-31T15:18:31.606Z",
+    "raw": "Br. Vlaka 45983 dolazak      31.03.26. 17:17, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89021",
+    "event_time": "2026-03-31T17:21:00",
+    "seen_at": "2026-03-31T15:22:25.360Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 17:21, kolodvor SIBINJ"
   }
 ]
