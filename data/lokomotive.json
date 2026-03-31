@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "82017",
-    "event_time": "2026-03-28T09:26:00",
-    "seen_at": "2026-03-28T08:27:03.331Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 09:26, kolodvor GREDA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69613",
-    "event_time": "2026-03-28T09:28:00",
-    "seen_at": "2026-03-28T08:28:34.516Z",
-    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 09:28, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -9430,5 +9412,41 @@
     "event_time": "2026-03-31T10:20:00",
     "seen_at": "2026-03-31T08:21:05.730Z",
     "raw": "Br. Vlaka 79965 dolazak      31.03.26. 10:20, kolodvor LUKA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89021",
+    "event_time": "2026-03-31T10:24:00",
+    "seen_at": "2026-03-31T08:25:14.030Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 10:24, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "82513",
+    "event_time": "2026-03-31T09:21:00",
+    "seen_at": "2026-03-31T08:25:37.782Z",
+    "raw": "Br. Vlaka 82513 formiran     31.03.26. 09:21, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "82513",
+    "event_time": "2026-03-31T09:21:00",
+    "seen_at": "2026-03-31T08:25:37.782Z",
+    "raw": "Br. Vlaka 82513 formiran     31.03.26. 09:21, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "79965",
+    "event_time": "2026-03-31T10:28:00",
+    "seen_at": "2026-03-31T08:29:06.371Z",
+    "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:28, kolodvor LUKA"
   }
 ]
