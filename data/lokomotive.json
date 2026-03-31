@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81213",
-    "event_time": "2026-03-28T19:55:00",
-    "seen_at": "2026-03-28T18:56:16.309Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:55, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81213",
-    "event_time": "2026-03-28T19:55:00",
-    "seen_at": "2026-03-28T18:56:16.309Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 19:55, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "81213",
@@ -9889,5 +9871,14 @@
     "event_time": "2026-03-31T20:34:00",
     "seen_at": "2026-03-31T18:37:02.410Z",
     "raw": "Br. Vlaka 81227 odlazak      31.03.26. 20:34, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "48587",
+    "event_time": "2026-03-31T21:00:00",
+    "seen_at": "2026-03-31T19:03:30.876Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 21:00, kolodvor SUHOPOLJE"
   }
 ]
