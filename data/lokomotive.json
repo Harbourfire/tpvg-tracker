@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-28T04:04:00",
-    "seen_at": "2026-03-28T03:06:50.495Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:04, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-28T04:04:00",
-    "seen_at": "2026-03-28T03:06:50.495Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 04:04, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -9358,5 +9340,23 @@
     "event_time": "2026-03-31T04:55:00",
     "seen_at": "2026-03-31T02:57:32.839Z",
     "raw": "Br. Vlaka 89163 dolazak      31.03.26. 04:55, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "DEANOVEC",
+    "train_number": "89163",
+    "event_time": "2026-03-31T05:08:00",
+    "seen_at": "2026-03-31T03:08:22.659Z",
+    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 05:08, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVOSELEC",
+    "train_number": "89163",
+    "event_time": "2026-03-31T05:13:00",
+    "seen_at": "2026-03-31T03:13:52.092Z",
+    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 05:13, kolodvor NOVOSELEC"
   }
 ]
