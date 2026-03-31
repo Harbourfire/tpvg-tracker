@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "82017",
-    "event_time": "2026-03-28T12:34:00",
-    "seen_at": "2026-03-28T11:37:37.703Z",
-    "raw": "Br. Vlaka 82017 dolazak      28.03.26. 12:34, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-25T12:35:00",
-    "seen_at": "2026-03-28T11:38:00.789Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45131",
-    "event_time": "2026-03-28T12:36:00",
-    "seen_at": "2026-03-28T11:38:23.477Z",
-    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 12:36, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -9907,5 +9880,23 @@
     "event_time": "2026-03-31T13:20:00",
     "seen_at": "2026-03-31T11:23:04.094Z",
     "raw": "Br. Vlaka 81233 odlazak      31.03.26. 13:20, kolodvor SESVETE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-25T12:35:00",
+    "seen_at": "2026-03-31T11:38:27.285Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "81233",
+    "event_time": "2026-03-31T13:36:00",
+    "seen_at": "2026-03-31T11:40:46.212Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 13:36, kolodvor DUGO SELO"
   }
 ]
