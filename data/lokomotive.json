@@ -9844,5 +9844,41 @@
     "event_time": "2026-03-31T21:15:00",
     "seen_at": "2026-03-31T19:17:10.207Z",
     "raw": "Br. Vlaka 48587 odlazak      31.03.26. 21:15, kolodvor CABUNA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "48587",
+    "event_time": "2026-03-31T21:33:00",
+    "seen_at": "2026-03-31T19:34:46.640Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 21:33, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45983",
+    "event_time": "2026-03-31T21:37:00",
+    "seen_at": "2026-03-31T19:38:15.330Z",
+    "raw": "Br. Vlaka 45983 odlazak      31.03.26. 21:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VALPOVO",
+    "train_number": null,
+    "event_time": "2026-03-31T21:06:00",
+    "seen_at": "2026-03-31T19:40:58.163Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71992 VALPOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "VALPOVO",
+    "train_number": "89713",
+    "event_time": "2026-03-31T19:16:00",
+    "seen_at": "2026-03-31T19:42:30.409Z",
+    "raw": "Br. Vlaka 89713 formiran     31.03.26. 19:16, kolodvor VALPOVO"
   }
 ]
