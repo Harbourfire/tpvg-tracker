@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "81213",
-    "event_time": "2026-03-28T16:25:00",
-    "seen_at": "2026-03-28T15:27:19.911Z",
-    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 16:25, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
     "train_number": "81213",
@@ -10087,5 +10078,14 @@
     "event_time": "2026-03-31T17:21:00",
     "seen_at": "2026-03-31T15:22:25.360Z",
     "raw": "Br. Vlaka 89021 odlazak      31.03.26. 17:21, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89021",
+    "event_time": "2026-03-31T17:29:00",
+    "seen_at": "2026-03-31T15:30:03.765Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 17:29, kolodvor SLAVONSKI BROD"
   }
 ]
