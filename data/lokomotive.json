@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69326",
-    "event_time": "2026-03-28T08:03:00",
-    "seen_at": "2026-03-28T07:04:23.466Z",
-    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 08:03, kolodvor SIBINJ"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -9277,5 +9268,50 @@
     "event_time": "2026-03-31T08:53:00",
     "seen_at": "2026-03-31T06:54:23.098Z",
     "raw": "Br. Vlaka 89540 odlazak      31.03.26. 08:53, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-31T08:55:00",
+    "seen_at": "2026-03-31T06:57:25.435Z",
+    "raw": "Br. Vlaka 45105 odlazak      31.03.26. 08:55, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "79964",
+    "event_time": "2026-03-31T08:57:00",
+    "seen_at": "2026-03-31T06:58:35.948Z",
+    "raw": "Br. Vlaka 79964 formiran     31.03.26. 08:57, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "89021",
+    "event_time": "2026-03-31T09:00:00",
+    "seen_at": "2026-03-31T07:01:20.395Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 09:00, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82326",
+    "event_time": "2026-03-31T09:00:00",
+    "seen_at": "2026-03-31T07:01:43.965Z",
+    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 09:00, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "81226",
+    "event_time": "2026-03-31T09:03:00",
+    "seen_at": "2026-03-31T07:04:52.680Z",
+    "raw": "Br. Vlaka 81226 odlazak      31.03.26. 09:03, kolodvor KOPRIVNICA"
   }
 ]
