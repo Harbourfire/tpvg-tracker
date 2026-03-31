@@ -2,42 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81213",
-    "event_time": "2026-03-28T18:27:00",
-    "seen_at": "2026-03-28T17:28:22.339Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 18:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81213",
-    "event_time": "2026-03-28T18:27:00",
-    "seen_at": "2026-03-28T17:28:22.339Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 18:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48793",
-    "event_time": "2026-03-28T18:33:00",
-    "seen_at": "2026-03-28T17:37:32.187Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 18:33, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48793",
-    "event_time": "2026-03-28T18:33:00",
-    "seen_at": "2026-03-28T17:37:32.188Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 18:33, kolodvor GRADEC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "JOSIPDOL",
     "train_number": "81213",
     "event_time": "2026-03-28T18:34:00",
@@ -9943,5 +9907,23 @@
     "event_time": "2026-03-31T19:26:00",
     "seen_at": "2026-03-31T17:28:14.382Z",
     "raw": "Br. Vlaka 48587 dolazak      31.03.26. 19:26, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T19:30:00",
+    "seen_at": "2026-03-31T17:31:31.258Z",
+    "raw": "Br. Vlaka 63305 formiran     31.03.26. 19:30, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-03-31T19:30:00",
+    "seen_at": "2026-03-31T17:31:31.258Z",
+    "raw": "Br. Vlaka 63305 formiran     31.03.26. 19:30, kolodvor OŠTARIJE"
   }
 ]
