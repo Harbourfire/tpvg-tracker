@@ -2,15 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81213",
-    "event_time": "2026-03-28T13:33:00",
-    "seen_at": "2026-03-28T12:35:15.856Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 13:33, kolodvor 72303"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "81213",
     "event_time": "2026-03-28T13:40:00",
@@ -10033,5 +10024,68 @@
     "event_time": "2026-03-31T14:29:00",
     "seen_at": "2026-03-31T12:29:28.061Z",
     "raw": "Br. Vlaka 81233 odlazak      31.03.26. 14:29, kolodvor GRADEC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81268",
+    "event_time": "2026-03-31T14:32:00",
+    "seen_at": "2026-03-31T12:33:12.557Z",
+    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 14:32, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81268",
+    "event_time": "2026-03-31T14:32:00",
+    "seen_at": "2026-03-31T12:33:12.557Z",
+    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 14:32, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "89021",
+    "event_time": "2026-03-31T14:10:00",
+    "seen_at": "2026-03-31T12:35:33.714Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 14:10, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "82510",
+    "event_time": "2026-03-31T14:25:00",
+    "seen_at": "2026-03-31T12:37:55.946Z",
+    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 14:25, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82510",
+    "event_time": "2026-03-31T14:38:00",
+    "seen_at": "2026-03-31T12:38:19.668Z",
+    "raw": "Br. Vlaka 82510 dolazak      31.03.26. 14:38, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89021",
+    "event_time": "2026-03-31T14:29:00",
+    "seen_at": "2026-03-31T12:38:19.671Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 14:29, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-31T14:38:00",
+    "seen_at": "2026-03-31T12:39:30.172Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
