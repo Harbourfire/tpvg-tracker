@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "47938",
-    "event_time": "2026-03-28T17:56:00",
-    "seen_at": "2026-03-28T16:57:11.682Z",
-    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:56, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "47938",
-    "event_time": "2026-03-28T17:56:00",
-    "seen_at": "2026-03-28T16:57:11.682Z",
-    "raw": "Br. Vlaka 47938 odlazak      28.03.26. 17:56, kolodvor ROČ"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -9952,5 +9934,23 @@
     "event_time": "2026-03-31T18:42:00",
     "seen_at": "2026-03-31T16:48:47.021Z",
     "raw": "Br. Vlaka 48587 odlazak      31.03.26. 18:42, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "JOSIPOVAC",
+    "train_number": "81227",
+    "event_time": "2026-03-31T18:54:00",
+    "seen_at": "2026-03-31T16:56:23.624Z",
+    "raw": "Br. Vlaka 81227 dolazak      31.03.26. 18:54, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "PITOMAČA",
+    "train_number": "48587",
+    "event_time": "2026-03-31T18:54:00",
+    "seen_at": "2026-03-31T16:59:28.837Z",
+    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 18:54, kolodvor PITOMAČA"
   }
 ]
