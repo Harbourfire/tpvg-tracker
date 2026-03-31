@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81974",
-    "event_time": "2026-03-28T13:58:00",
-    "seen_at": "2026-03-28T12:59:09.412Z",
-    "raw": "Br. Vlaka 81974 dolazak      28.03.26. 13:58, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "89432",
-    "event_time": "2026-03-28T14:00:00",
-    "seen_at": "2026-03-28T13:02:57.292Z",
-    "raw": "Br. Vlaka 89432 promjena sas 28.03.26. 14:00, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "HRVATSKI LESKOVAC",
@@ -10069,5 +10051,41 @@
     "event_time": "2026-03-31T14:46:00",
     "seen_at": "2026-03-31T12:49:25.660Z",
     "raw": "Br. Vlaka 81268 odlazak      31.03.26. 14:46, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "75604",
+    "train_number": "45543",
+    "event_time": "2026-03-31T15:00:00",
+    "seen_at": "2026-03-31T13:00:40.770Z",
+    "raw": "Br. Vlaka 45543 formiran     31.03.26. 15:00, kolodvor 75604"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81268",
+    "event_time": "2026-03-31T15:04:00",
+    "seen_at": "2026-03-31T13:05:22.642Z",
+    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81268",
+    "event_time": "2026-03-31T15:04:00",
+    "seen_at": "2026-03-31T13:05:22.642Z",
+    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89021",
+    "event_time": "2026-03-31T15:03:00",
+    "seen_at": "2026-03-31T13:07:18.687Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 15:03, kolodvor HRVATSKA DUBICA"
   }
 ]
