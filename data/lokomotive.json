@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "81213",
-    "event_time": "2026-03-28T16:53:00",
-    "seen_at": "2026-03-28T15:54:41.066Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 16:53, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "81213",
-    "event_time": "2026-03-28T17:00:00",
-    "seen_at": "2026-03-28T16:00:52.048Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 17:00, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "81213",
@@ -10078,5 +10060,14 @@
     "event_time": "2026-03-31T17:29:00",
     "seen_at": "2026-03-31T15:30:03.765Z",
     "raw": "Br. Vlaka 89021 dolazak      31.03.26. 17:29, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BJELOVAR",
+    "train_number": "48587",
+    "event_time": "2026-03-31T17:57:00",
+    "seen_at": "2026-03-31T16:02:22.645Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 17:57, kolodvor BJELOVAR"
   }
 ]
