@@ -2,24 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48793",
-    "event_time": "2026-03-28T22:19:00",
-    "seen_at": "2026-03-28T21:20:32.930Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:19, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48793",
-    "event_time": "2026-03-28T22:19:00",
-    "seen_at": "2026-03-28T21:20:32.930Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 22:19, kolodvor 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "48793",
     "event_time": "2026-03-28T22:25:00",
@@ -9961,5 +9943,59 @@
     "event_time": "2026-03-31T23:05:00",
     "seen_at": "2026-03-31T21:10:01.194Z",
     "raw": "Br. Vlaka 89873 odlazak      31.03.26. 23:05, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-31T23:01:00",
+    "seen_at": "2026-03-31T21:18:40.643Z",
+    "raw": "Br. Vlaka 63305 promjena sas 31.03.26. 23:01, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-31T23:01:00",
+    "seen_at": "2026-03-31T21:18:40.643Z",
+    "raw": "Br. Vlaka 63305 promjena sas 31.03.26. 23:01, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "89713",
+    "event_time": "2026-03-31T23:17:00",
+    "seen_at": "2026-03-31T21:22:35.729Z",
+    "raw": "Br. Vlaka 89713 odlazak      31.03.26. 23:17, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-31T23:23:00",
+    "seen_at": "2026-03-31T21:24:32.909Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 23:23, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-03-31T23:23:00",
+    "seen_at": "2026-03-31T21:24:32.909Z",
+    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 23:23, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "89711",
+    "event_time": "2026-03-31T23:27:00",
+    "seen_at": "2026-03-31T21:27:40.506Z",
+    "raw": "Br. Vlaka 89711 odlazak      31.03.26. 23:27, kolodvor VRBOVEC"
   }
 ]
