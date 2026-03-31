@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "81213",
-    "event_time": "2026-03-28T15:45:00",
-    "seen_at": "2026-03-28T14:45:27.272Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 15:45, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81974",
-    "event_time": "2026-03-28T15:53:00",
-    "seen_at": "2026-03-28T14:53:22.106Z",
-    "raw": "Br. Vlaka 81974 dolazak      28.03.26. 15:53, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "MRZLO POLJE",
     "train_number": "81213",
     "event_time": "2026-03-28T15:54:00",
@@ -10087,5 +10069,32 @@
     "event_time": "2026-03-31T16:31:00",
     "seen_at": "2026-03-31T14:32:14.048Z",
     "raw": "Br. Vlaka 89021 odlazak      31.03.26. 16:31, kolodvor OKUČANI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89021",
+    "event_time": "2026-03-31T16:46:00",
+    "seen_at": "2026-03-31T14:46:58.747Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 16:46, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89711",
+    "event_time": "2026-03-31T16:46:00",
+    "seen_at": "2026-03-31T14:48:07.987Z",
+    "raw": "Br. Vlaka 89711 formiran     31.03.26. 16:46, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45983",
+    "event_time": "2026-03-31T16:42:00",
+    "seen_at": "2026-03-31T14:49:17.159Z",
+    "raw": "Br. Vlaka 45983 odlazak      31.03.26. 16:42, kolodvor BELI MANASTIR"
   }
 ]
