@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": null,
-    "event_time": "2026-03-28T02:15:00",
-    "seen_at": "2026-03-28T12:28:49.665Z",
-    "raw": "Trenutna pozicija je u kolodvoru 78803 SLAVONSKI ŠAMAC"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -10033,5 +10024,14 @@
     "event_time": "2026-03-31T14:17:00",
     "seen_at": "2026-03-31T12:20:41.684Z",
     "raw": "Br. Vlaka 81268 odlazak      31.03.26. 14:17, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "81233",
+    "event_time": "2026-03-31T14:29:00",
+    "seen_at": "2026-03-31T12:29:28.061Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 14:29, kolodvor GRADEC"
   }
 ]
