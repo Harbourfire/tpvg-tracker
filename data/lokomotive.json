@@ -2,15 +2,6 @@
   {
     "uic": "997894853487",
     "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "82017",
-    "event_time": "2026-03-28T11:32:00",
-    "seen_at": "2026-03-28T10:33:08.928Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 11:32, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
     "station": "SUNJA",
     "train_number": "82017",
     "event_time": "2026-03-28T11:52:00",
@@ -9790,5 +9781,14 @@
     "event_time": "2026-03-31T12:22:00",
     "seen_at": "2026-03-31T10:22:49.936Z",
     "raw": "Br. Vlaka 82513 odlazak      31.03.26. 12:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SV. IVAN ŽABNO",
+    "train_number": "48587",
+    "event_time": "2026-03-31T12:28:00",
+    "seen_at": "2026-03-31T10:29:38.921Z",
+    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 12:28, kolodvor SV. IVAN ŽABNO"
   }
 ]
