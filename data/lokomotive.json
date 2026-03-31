@@ -2,60 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81286",
-    "event_time": "2026-03-28T06:49:00",
-    "seen_at": "2026-03-28T05:50:14.084Z",
-    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 06:49, kolodvor 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48793",
-    "event_time": "2026-03-28T06:43:00",
-    "seen_at": "2026-03-28T05:52:19.030Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 06:43, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48793",
-    "event_time": "2026-03-28T06:43:00",
-    "seen_at": "2026-03-28T05:52:19.031Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 06:43, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "48793",
-    "event_time": "2026-03-28T06:54:00",
-    "seen_at": "2026-03-28T05:55:21.593Z",
-    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 06:54, kolodvor 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "48793",
-    "event_time": "2026-03-28T06:54:00",
-    "seen_at": "2026-03-28T05:55:21.593Z",
-    "raw": "Br. Vlaka 48793 dolazak      28.03.26. 06:54, kolodvor 73164"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "81286",
-    "event_time": "2026-03-28T06:56:00",
-    "seen_at": "2026-03-28T05:57:15.853Z",
-    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 06:56, kolodvor 72304"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "ZAGREB KLARA",
     "train_number": "81286",
     "event_time": "2026-03-28T07:05:00",
@@ -9412,5 +9358,23 @@
     "event_time": "2026-03-31T07:40:00",
     "seen_at": "2026-03-31T05:41:08.315Z",
     "raw": "Br. Vlaka 48587 dolazak      31.03.26. 07:40, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81233",
+    "event_time": "2026-03-31T07:49:00",
+    "seen_at": "2026-03-31T05:49:53.024Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 07:49, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-03-31T07:50:00",
+    "seen_at": "2026-03-31T05:52:58.557Z",
+    "raw": "Br. Vlaka 45105 odlazak      31.03.26. 07:50, kolodvor SPAČVA"
   }
 ]
