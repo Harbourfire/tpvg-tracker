@@ -1,86 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-28T08:23:00",
-    "seen_at": "2026-03-28T07:24:56.997Z",
-    "raw": "Br. Vlaka 69005 odlazak      28.03.26. 08:23, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-27T15:17:00",
-    "seen_at": "2026-03-28T07:24:56.997Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-28T08:23:00",
-    "seen_at": "2026-03-28T07:24:56.997Z",
-    "raw": "Br. Vlaka 69005 odlazak      28.03.26. 08:23, kolodvor OGULIN"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69326",
-    "event_time": "2026-03-28T08:27:00",
-    "seen_at": "2026-03-28T07:28:55.642Z",
-    "raw": "Br. Vlaka 69326 odlazak      28.03.26. 08:27, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "82017",
-    "event_time": "2026-03-28T08:28:00",
-    "seen_at": "2026-03-28T07:29:41.244Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:28, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-28T08:30:00",
-    "seen_at": "2026-03-28T07:30:49.406Z",
-    "raw": "Br. Vlaka 69005 dolazak      28.03.26. 08:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-28T08:30:00",
-    "seen_at": "2026-03-28T07:30:49.406Z",
-    "raw": "Br. Vlaka 69005 dolazak      28.03.26. 08:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-28T08:30:00",
-    "seen_at": "2026-03-28T07:31:12.002Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-28T08:30:00",
-    "seen_at": "2026-03-28T07:31:12.002Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "STARO PETROVO SELO",
@@ -9367,5 +9286,59 @@
     "event_time": "2026-03-25T10:00:00",
     "seen_at": "2026-03-31T07:23:07.142Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-03-31T09:04:00",
+    "seen_at": "2026-03-31T07:24:26.828Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "RASINJA",
+    "train_number": "81226",
+    "event_time": "2026-03-31T09:21:00",
+    "seen_at": "2026-03-31T07:24:50.085Z",
+    "raw": "Br. Vlaka 81226 odlazak      31.03.26. 09:21, kolodvor RASINJA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89540",
+    "event_time": "2026-03-31T09:21:00",
+    "seen_at": "2026-03-31T07:27:09.889Z",
+    "raw": "Br. Vlaka 89540 dolazak      31.03.26. 09:21, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "79964",
+    "event_time": "2026-03-31T09:27:00",
+    "seen_at": "2026-03-31T07:27:09.890Z",
+    "raw": "Br. Vlaka 79964 odlazak      31.03.26. 09:27, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "HORVATI",
+    "train_number": "89021",
+    "event_time": "2026-03-31T09:29:00",
+    "seen_at": "2026-03-31T07:29:53.795Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 09:29, kolodvor HORVATI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-03-28T08:30:00",
+    "seen_at": "2026-03-31T07:31:51.234Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
