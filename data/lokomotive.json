@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "45131",
-    "event_time": "2026-03-28T13:04:00",
-    "seen_at": "2026-03-28T12:05:13.884Z",
-    "raw": "Br. Vlaka 45131 odlazak      28.03.26. 13:04, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "OSIJEK DONJI GRAD",
@@ -9988,5 +9979,50 @@
     "event_time": "2026-03-31T13:59:00",
     "seen_at": "2026-03-31T12:00:31.131Z",
     "raw": "Br. Vlaka 81268 odlazak      31.03.26. 13:59, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89542",
+    "event_time": "2026-03-31T14:03:00",
+    "seen_at": "2026-03-31T12:04:13.507Z",
+    "raw": "Br. Vlaka 89542 odlazak      31.03.26. 14:03, kolodvor DARDA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-03-31T14:04:00",
+    "seen_at": "2026-03-31T12:05:22.871Z",
+    "raw": "Br. Vlaka 45104 odlazak      31.03.26. 14:04, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "81233",
+    "event_time": "2026-03-31T14:03:00",
+    "seen_at": "2026-03-31T12:05:46.019Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 14:03, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "82510",
+    "event_time": "2026-03-31T14:07:00",
+    "seen_at": "2026-03-31T12:08:06.599Z",
+    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 14:07, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "BJELOVAR",
+    "train_number": "48587",
+    "event_time": "2026-03-31T14:07:00",
+    "seen_at": "2026-03-31T12:10:02.576Z",
+    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 14:07, kolodvor BJELOVAR"
   }
 ]
