@@ -9196,5 +9196,59 @@
     "event_time": "2026-03-31T03:32:00",
     "seen_at": "2026-03-31T01:34:08.122Z",
     "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:32, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-31T03:05:00",
+    "seen_at": "2026-03-31T01:40:06.814Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "81233",
+    "event_time": "2026-03-30T19:35:00",
+    "seen_at": "2026-03-31T01:40:30.417Z",
+    "raw": "Br. Vlaka 81233 formiran     30.03.26. 19:35, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48587",
+    "event_time": "2026-03-31T03:30:00",
+    "seen_at": "2026-03-31T01:40:54.134Z",
+    "raw": "Br. Vlaka 48587 promjena sas 31.03.26. 03:30, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:42:00",
+    "seen_at": "2026-03-31T01:44:03.356Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:42, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:42:00",
+    "seen_at": "2026-03-31T01:44:03.356Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:42, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "KOPRIVNICA",
+    "train_number": "81226",
+    "event_time": "2026-03-31T03:20:00",
+    "seen_at": "2026-03-31T01:47:10.711Z",
+    "raw": "Br. Vlaka 81226 promjena sas 31.03.26. 03:20, kolodvor KOPRIVNICA"
   }
 ]
