@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81213",
-    "event_time": "2026-03-28T18:50:00",
-    "seen_at": "2026-03-28T17:53:17.208Z",
-    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 18:50, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81213",
-    "event_time": "2026-03-28T18:50:00",
-    "seen_at": "2026-03-28T17:53:17.208Z",
-    "raw": "Br. Vlaka 81213 dolazak      28.03.26. 18:50, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "81213",
@@ -9943,5 +9925,23 @@
     "event_time": "2026-03-31T19:36:00",
     "seen_at": "2026-03-31T17:41:49.072Z",
     "raw": "Br. Vlaka 48587 odlazak      31.03.26. 19:36, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "81227",
+    "event_time": "2026-03-31T19:47:00",
+    "seen_at": "2026-03-31T17:49:47.500Z",
+    "raw": "Br. Vlaka 81227 odlazak      31.03.26. 19:47, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SUHOPOLJE",
+    "train_number": "48587",
+    "event_time": "2026-03-31T19:48:00",
+    "seen_at": "2026-03-31T17:52:29.599Z",
+    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 19:48, kolodvor SUHOPOLJE"
   }
 ]
