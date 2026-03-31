@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "82017",
-    "event_time": "2026-03-28T08:05:00",
-    "seen_at": "2026-03-28T07:05:31.765Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:05, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "82017",
-    "event_time": "2026-03-28T08:12:00",
-    "seen_at": "2026-03-28T07:12:45.259Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 08:12, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -9313,5 +9295,59 @@
     "event_time": "2026-03-31T09:03:00",
     "seen_at": "2026-03-31T07:04:52.680Z",
     "raw": "Br. Vlaka 81226 odlazak      31.03.26. 09:03, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89540",
+    "event_time": "2026-03-31T09:04:00",
+    "seen_at": "2026-03-31T07:07:01.565Z",
+    "raw": "Br. Vlaka 89540 odlazak      31.03.26. 09:04, kolodvor DARDA"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "79964",
+    "event_time": "2026-03-31T09:09:00",
+    "seen_at": "2026-03-31T07:09:42.853Z",
+    "raw": "Br. Vlaka 79964 odlazak      31.03.26. 09:09, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82326",
+    "event_time": "2026-03-31T09:12:00",
+    "seen_at": "2026-03-31T07:12:47.322Z",
+    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 09:12, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45105",
+    "event_time": "2026-03-31T09:04:00",
+    "seen_at": "2026-03-31T07:13:10.360Z",
+    "raw": "Br. Vlaka 45105 dolazak      31.03.26. 09:04, kolodvor 71308"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "79964",
+    "event_time": "2026-03-31T09:13:00",
+    "seen_at": "2026-03-31T07:13:10.362Z",
+    "raw": "Br. Vlaka 79964 odlazak      31.03.26. 09:13, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "89021",
+    "event_time": "2026-03-31T09:14:00",
+    "seen_at": "2026-03-31T07:14:20.137Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 09:14, kolodvor JASTREBARSKO"
   }
 ]
