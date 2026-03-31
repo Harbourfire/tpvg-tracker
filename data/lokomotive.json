@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-03-28T05:49:00",
-    "seen_at": "2026-03-28T04:49:53.034Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 05:49, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-03-28T05:49:00",
-    "seen_at": "2026-03-28T04:49:53.034Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.03.26. 05:49, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "JOSIPDOL",
     "train_number": "63306",
     "event_time": "2026-03-28T06:04:00",
@@ -9367,5 +9349,23 @@
     "event_time": "2026-03-31T06:32:00",
     "seen_at": "2026-03-31T04:32:58.013Z",
     "raw": "Br. Vlaka 70064 odlazak      31.03.26. 06:32, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82326",
+    "event_time": "2026-03-31T06:44:00",
+    "seen_at": "2026-03-31T04:45:34.443Z",
+    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 06:44, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "ZVEČAJ",
+    "train_number": null,
+    "event_time": "2026-03-31T06:42:00",
+    "seen_at": "2026-03-31T04:47:55.154Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75104 ZVEČAJ"
   }
 ]
