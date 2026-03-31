@@ -2,51 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "69613",
-    "event_time": "2026-03-28T09:32:00",
-    "seen_at": "2026-03-28T08:32:57.137Z",
-    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 09:32, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "OKUČANI",
-    "train_number": "69327",
-    "event_time": "2026-03-28T01:13:00",
-    "seen_at": "2026-03-28T08:35:59.716Z",
-    "raw": "Br. Vlaka 69327 formiran     28.03.26. 01:13, kolodvor OKUČANI"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "69327",
-    "event_time": "2026-03-28T09:35:00",
-    "seen_at": "2026-03-28T08:36:22.416Z",
-    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 09:35, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "69613",
-    "event_time": "2026-03-28T09:37:00",
-    "seen_at": "2026-03-28T08:38:15.986Z",
-    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 09:37, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "82017",
-    "event_time": "2026-03-28T09:37:00",
-    "seen_at": "2026-03-28T08:39:24.342Z",
-    "raw": "Br. Vlaka 82017 odlazak      28.03.26. 09:37, kolodvor SISAK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "ZAGREB GL. KOL.",
     "train_number": "69613",
     "event_time": "2026-03-28T09:43:00",
@@ -9448,5 +9403,32 @@
     "event_time": "2026-03-31T10:28:00",
     "seen_at": "2026-03-31T08:29:06.371Z",
     "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:28, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "JALŽABET",
+    "train_number": null,
+    "event_time": "2026-03-31T10:34:00",
+    "seen_at": "2026-03-31T08:34:43.690Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73806 JALŽABET"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "79965",
+    "event_time": "2026-03-31T10:35:00",
+    "seen_at": "2026-03-31T08:35:30.106Z",
+    "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:35, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "JALŽABET",
+    "train_number": "69660",
+    "event_time": "2026-03-31T08:43:00",
+    "seen_at": "2026-03-31T08:39:22.312Z",
+    "raw": "Br. Vlaka 69660 formiran     31.03.26. 08:43, kolodvor JALŽABET"
   }
 ]
