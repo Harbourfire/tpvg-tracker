@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-28T23:29:00",
-    "seen_at": "2026-03-28T08:04:55.168Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69613",
-    "event_time": "2026-03-28T09:05:00",
-    "seen_at": "2026-03-28T08:05:41.006Z",
-    "raw": "Br. Vlaka 69613 formiran     28.03.26. 09:05, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-03-28T09:07:00",
-    "seen_at": "2026-03-28T08:08:19.716Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -9376,5 +9349,23 @@
     "event_time": "2026-03-31T09:57:00",
     "seen_at": "2026-03-31T07:59:19.871Z",
     "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:57, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "89021",
+    "event_time": "2026-03-31T09:59:00",
+    "seen_at": "2026-03-31T08:07:26.993Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 09:59, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "89021",
+    "event_time": "2026-03-31T10:10:00",
+    "seen_at": "2026-03-31T08:12:07.991Z",
+    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 10:10, kolodvor HRVATSKI LESKOVAC"
   }
 ]
