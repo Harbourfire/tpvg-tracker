@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891003319",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2025-09-24T12:21:00",
-    "seen_at": "2026-03-28T20:22:07.169Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894856753",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2025-07-08T20:16:00",
-    "seen_at": "2026-03-28T20:22:07.169Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48793",
-    "event_time": "2026-03-28T21:22:00",
-    "seen_at": "2026-03-28T20:25:45.918Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 21:22, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48793",
-    "event_time": "2026-03-28T21:22:00",
-    "seen_at": "2026-03-28T20:25:45.918Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 21:22, kolodvor VRBOVEC"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "DUGO SELO",
@@ -9889,5 +9853,68 @@
     "event_time": "2026-03-31T22:11:00",
     "seen_at": "2026-03-31T20:12:16.522Z",
     "raw": "Br. Vlaka 89711 odlazak      31.03.26. 22:11, kolodvor 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89711",
+    "event_time": "2026-03-31T22:20:00",
+    "seen_at": "2026-03-31T20:21:31.464Z",
+    "raw": "Br. Vlaka 89711 dolazak      31.03.26. 22:20, kolodvor 72302"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "89873",
+    "event_time": "2026-03-31T22:21:00",
+    "seen_at": "2026-03-31T20:22:19.084Z",
+    "raw": "Br. Vlaka 89873 odlazak      31.03.26. 22:21, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-09-24T12:21:00",
+    "seen_at": "2026-03-31T20:22:42.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2025-07-08T20:16:00",
+    "seen_at": "2026-03-31T20:22:42.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-31T22:22:00",
+    "seen_at": "2026-03-31T20:27:03.242Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89711",
+    "event_time": "2026-03-31T22:28:00",
+    "seen_at": "2026-03-31T20:28:14.211Z",
+    "raw": "Br. Vlaka 89711 odlazak      31.03.26. 22:28, kolodvor 72302"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "89873",
+    "event_time": "2026-03-31T22:29:00",
+    "seen_at": "2026-03-31T20:29:24.734Z",
+    "raw": "Br. Vlaka 89873 odlazak      31.03.26. 22:29, kolodvor MUČNA REKA"
   }
 ]
