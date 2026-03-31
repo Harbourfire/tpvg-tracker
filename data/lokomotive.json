@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-25T11:09:00",
-    "seen_at": "2026-03-28T10:11:22.708Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "45131",
-    "event_time": "2026-03-28T00:42:00",
-    "seen_at": "2026-03-28T10:15:57.072Z",
-    "raw": "Br. Vlaka 45131 promjena sas 28.03.26. 00:42, kolodvor VINKOVCI"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
@@ -9754,5 +9736,23 @@
     "event_time": "2026-03-31T11:59:00",
     "seen_at": "2026-03-31T10:01:02.580Z",
     "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:59, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48587",
+    "event_time": "2026-03-31T12:07:00",
+    "seen_at": "2026-03-31T10:09:19.651Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 12:07, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-31T12:08:00",
+    "seen_at": "2026-03-31T10:10:30.399Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
