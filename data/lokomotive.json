@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89432",
-    "event_time": "2026-03-28T15:08:00",
-    "seen_at": "2026-03-28T14:08:58.913Z",
-    "raw": "Br. Vlaka 89432 odlazak      28.03.26. 15:08, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-19T15:10:00",
-    "seen_at": "2026-03-28T14:13:14.772Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "927820620254",
     "type": "Rasformiran",
     "station": "VINKOVCI",
     "train_number": null,
@@ -10105,5 +10087,23 @@
     "event_time": "2026-03-31T15:47:00",
     "seen_at": "2026-03-31T13:49:26.070Z",
     "raw": "Br. Vlaka 89021 odlazak      31.03.26. 15:47, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "45983",
+    "event_time": "2026-03-31T15:30:00",
+    "seen_at": "2026-03-31T14:10:38.064Z",
+    "raw": "Br. Vlaka 45983 promjena sas 31.03.26. 15:30, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-03-19T15:10:00",
+    "seen_at": "2026-03-31T14:13:44.940Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
   }
 ]
