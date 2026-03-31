@@ -2,15 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "81286",
-    "event_time": "2026-03-28T07:05:00",
-    "seen_at": "2026-03-28T06:06:56.479Z",
-    "raw": "Br. Vlaka 81286 odlazak      28.03.26. 07:05, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "81286",
     "event_time": "2026-03-28T07:17:00",
@@ -9376,5 +9367,23 @@
     "event_time": "2026-03-31T07:50:00",
     "seen_at": "2026-03-31T05:52:58.557Z",
     "raw": "Br. Vlaka 45105 odlazak      31.03.26. 07:50, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81233",
+    "event_time": "2026-03-31T07:59:00",
+    "seen_at": "2026-03-31T05:59:47.469Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 07:59, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "82326",
+    "event_time": "2026-03-31T08:03:00",
+    "seen_at": "2026-03-31T06:04:06.246Z",
+    "raw": "Br. Vlaka 82326 dolazak      31.03.26. 08:03, kolodvor PLETERNICA"
   }
 ]
