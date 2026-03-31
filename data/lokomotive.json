@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81213",
-    "event_time": "2026-03-28T08:24:00",
-    "seen_at": "2026-03-28T08:13:54.394Z",
-    "raw": "Br. Vlaka 81213 formiran     28.03.26. 08:24, kolodvor 72303"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "GREDA",
@@ -9367,5 +9358,77 @@
     "event_time": "2026-03-31T10:10:00",
     "seen_at": "2026-03-31T08:12:07.991Z",
     "raw": "Br. Vlaka 89021 odlazak      31.03.26. 10:10, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "79965",
+    "event_time": "2026-03-31T10:08:00",
+    "seen_at": "2026-03-31T08:14:27.408Z",
+    "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:08, kolodvor ZABOK"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "79965",
+    "event_time": "2026-03-31T10:15:00",
+    "seen_at": "2026-03-31T08:15:37.470Z",
+    "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:15, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-31T10:12:00",
+    "seen_at": "2026-03-31T08:16:24.227Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-03-31T10:12:00",
+    "seen_at": "2026-03-31T08:16:24.227Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "LUDBREG",
+    "train_number": null,
+    "event_time": "2026-03-30T10:00:00",
+    "seen_at": "2026-03-31T08:16:47.464Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73804 LUDBREG"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "LUDBREG",
+    "train_number": "81226",
+    "event_time": "2026-03-31T09:38:00",
+    "seen_at": "2026-03-31T08:17:34.004Z",
+    "raw": "Br. Vlaka 81226 promjena sas 31.03.26. 09:38, kolodvor LUDBREG"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "LUDBREG",
+    "train_number": "81226",
+    "event_time": "2026-03-31T10:14:00",
+    "seen_at": "2026-03-31T08:19:55.110Z",
+    "raw": "Br. Vlaka 81226 odlazak      31.03.26. 10:14, kolodvor LUDBREG"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Dolazak",
+    "station": "LUKA",
+    "train_number": "79965",
+    "event_time": "2026-03-31T10:20:00",
+    "seen_at": "2026-03-31T08:21:05.730Z",
+    "raw": "Br. Vlaka 79965 dolazak      31.03.26. 10:20, kolodvor LUKA"
   }
 ]
