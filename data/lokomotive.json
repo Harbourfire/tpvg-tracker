@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-03-28T06:10:00",
-    "seen_at": "2026-03-28T05:13:08.097Z",
-    "raw": "Br. Vlaka 63306 dolazak      28.03.26. 06:10, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-03-28T06:10:00",
-    "seen_at": "2026-03-28T05:13:08.097Z",
-    "raw": "Br. Vlaka 63306 dolazak      28.03.26. 06:10, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -9358,5 +9340,23 @@
     "event_time": "2026-03-31T06:57:00",
     "seen_at": "2026-03-31T04:58:22.422Z",
     "raw": "Br. Vlaka 82326 odlazak      31.03.26. 06:57, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-03-31T07:10:00",
+    "seen_at": "2026-03-31T05:10:47.411Z",
+    "raw": "Br. Vlaka 45105 odlazak      31.03.26. 07:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "82326",
+    "event_time": "2026-03-31T07:11:00",
+    "seen_at": "2026-03-31T05:11:33.429Z",
+    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 07:11, kolodvor ORIOVAC"
   }
 ]
