@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "48793",
-    "event_time": "2026-03-28T18:24:00",
-    "seen_at": "2026-03-28T17:24:55.062Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 18:24, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "48793",
-    "event_time": "2026-03-28T18:24:00",
-    "seen_at": "2026-03-28T17:24:55.062Z",
-    "raw": "Br. Vlaka 48793 odlazak      28.03.26. 18:24, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -9934,5 +9916,32 @@
     "event_time": "2026-03-31T19:11:00",
     "seen_at": "2026-03-31T17:18:44.758Z",
     "raw": "Br. Vlaka 89891 dolazak      31.03.26. 19:11, kolodvor 73164"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89891",
+    "event_time": "2026-03-31T19:24:00",
+    "seen_at": "2026-03-31T17:26:41.815Z",
+    "raw": "Br. Vlaka 89891 odlazak      31.03.26. 19:24, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89891",
+    "event_time": "2026-03-31T19:24:00",
+    "seen_at": "2026-03-31T17:26:41.815Z",
+    "raw": "Br. Vlaka 89891 odlazak      31.03.26. 19:24, kolodvor 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "48587",
+    "event_time": "2026-03-31T19:26:00",
+    "seen_at": "2026-03-31T17:28:14.382Z",
+    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 19:26, kolodvor VIROVITICA"
   }
 ]
