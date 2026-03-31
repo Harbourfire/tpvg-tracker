@@ -2,33 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "81213",
-    "event_time": "2026-03-28T14:26:00",
-    "seen_at": "2026-03-28T13:28:00.229Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 14:26, kolodvor HORVATI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "81213",
-    "event_time": "2026-03-28T14:34:00",
-    "seen_at": "2026-03-28T13:35:19.224Z",
-    "raw": "Br. Vlaka 81213 odlazak      28.03.26. 14:34, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "89432",
-    "event_time": "2026-03-28T14:35:00",
-    "seen_at": "2026-03-28T13:36:05.144Z",
-    "raw": "Br. Vlaka 89432 odlazak      28.03.26. 14:35, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "JASTREBARSKO",
     "train_number": "81213",
     "event_time": "2026-03-28T14:41:00",
@@ -10096,5 +10069,23 @@
     "event_time": "2026-03-31T15:23:00",
     "seen_at": "2026-03-31T13:24:15.668Z",
     "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:23, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89542",
+    "event_time": "2026-03-31T14:20:00",
+    "seen_at": "2026-03-31T13:31:35.920Z",
+    "raw": "Br. Vlaka 89542 dolazak      31.03.26. 14:20, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-03-31T12:00:00",
+    "seen_at": "2026-03-31T13:31:59.001Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
   }
 ]
