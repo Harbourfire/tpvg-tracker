@@ -2,15 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47563",
-    "event_time": "2026-03-28T03:22:00",
-    "seen_at": "2026-03-28T02:22:53.639Z",
-    "raw": "Br. Vlaka 47563 odlazak      28.03.26. 03:22, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "47563",
     "event_time": "2026-03-28T03:29:00",
@@ -9277,5 +9268,23 @@
     "event_time": "2026-03-31T04:12:00",
     "seen_at": "2026-03-31T02:15:37.594Z",
     "raw": "Br. Vlaka 81233 odlazak      31.03.26. 04:12, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81233",
+    "event_time": "2026-03-31T04:25:00",
+    "seen_at": "2026-03-31T02:25:28.207Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 04:25, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48587",
+    "event_time": "2026-03-31T04:19:00",
+    "seen_at": "2026-03-31T02:26:15.040Z",
+    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 04:19, kolodvor ZAGREB ZAP. KOL."
   }
 ]
