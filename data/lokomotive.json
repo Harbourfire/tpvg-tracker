@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:21:00",
-    "seen_at": "2026-03-28T03:22:39.873Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:21, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T04:21:00",
-    "seen_at": "2026-03-28T03:22:39.873Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 04:21, kolodvor LEPAVINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Promjena sastava",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -9358,5 +9340,59 @@
     "event_time": "2026-03-31T05:13:00",
     "seen_at": "2026-03-31T03:13:52.092Z",
     "raw": "Br. Vlaka 89163 odlazak      31.03.26. 05:13, kolodvor NOVOSELEC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-31T05:16:00",
+    "seen_at": "2026-03-31T03:17:13.461Z",
+    "raw": "Br. Vlaka 69006 odlazak      31.03.26. 05:16, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-03-31T05:16:00",
+    "seen_at": "2026-03-31T03:17:13.461Z",
+    "raw": "Br. Vlaka 69006 odlazak      31.03.26. 05:16, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LUDINA",
+    "train_number": "89163",
+    "event_time": "2026-03-31T05:18:00",
+    "seen_at": "2026-03-31T03:18:24.890Z",
+    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 05:18, kolodvor LUDINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "POPOVAČA",
+    "train_number": "89163",
+    "event_time": "2026-03-31T05:23:00",
+    "seen_at": "2026-03-31T03:24:17.308Z",
+    "raw": "Br. Vlaka 89163 dolazak      31.03.26. 05:23, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-31T05:23:00",
+    "seen_at": "2026-03-31T03:24:40.623Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-03-31T05:23:00",
+    "seen_at": "2026-03-31T03:24:40.623Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
   }
 ]
