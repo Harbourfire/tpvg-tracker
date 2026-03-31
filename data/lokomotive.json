@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "82017",
-    "event_time": "2026-03-28T09:47:00",
-    "seen_at": "2026-03-28T09:01:29.549Z",
-    "raw": "Br. Vlaka 82017 dolazak      28.03.26. 09:47, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "69613",
-    "event_time": "2026-03-28T10:02:00",
-    "seen_at": "2026-03-28T09:02:52.446Z",
-    "raw": "Br. Vlaka 69613 odlazak      28.03.26. 10:02, kolodvor 72302"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "69327",
-    "event_time": "2026-03-28T10:03:00",
-    "seen_at": "2026-03-28T09:04:01.998Z",
-    "raw": "Br. Vlaka 69327 odlazak      28.03.26. 10:03, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -9511,5 +9484,50 @@
     "event_time": "2026-03-31T10:59:00",
     "seen_at": "2026-03-31T09:00:00.860Z",
     "raw": "Br. Vlaka 81233 odlazak      31.03.26. 10:59, kolodvor 72303"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:02:00",
+    "seen_at": "2026-03-31T09:03:27.092Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:02, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82513",
+    "event_time": "2026-03-31T11:02:00",
+    "seen_at": "2026-03-31T09:03:27.092Z",
+    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:02, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48587",
+    "event_time": "2026-03-31T11:00:00",
+    "seen_at": "2026-03-31T09:06:57.889Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 11:00, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "81233",
+    "event_time": "2026-03-31T11:06:00",
+    "seen_at": "2026-03-31T09:07:45.113Z",
+    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 11:06, kolodvor 72302"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "LEKENIK",
+    "train_number": "89021",
+    "event_time": "2026-03-31T11:06:00",
+    "seen_at": "2026-03-31T09:09:18.546Z",
+    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 11:06, kolodvor LEKENIK"
   }
 ]
