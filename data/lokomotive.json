@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45990",
-    "event_time": "2026-03-28T02:07:00",
-    "seen_at": "2026-03-28T01:07:33.884Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 02:07, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45990",
-    "event_time": "2026-03-28T02:07:00",
-    "seen_at": "2026-03-28T01:07:33.884Z",
-    "raw": "Br. Vlaka 45990 odlazak      28.03.26. 02:07, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-28T02:09:00",
-    "seen_at": "2026-03-28T01:10:16.869Z",
-    "raw": "Br. Vlaka 63305 odlazak      28.03.26. 02:09, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-28T02:09:00",
-    "seen_at": "2026-03-28T01:10:16.869Z",
-    "raw": "Br. Vlaka 63305 odlazak      28.03.26. 02:09, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "GOSPIĆ",
@@ -9214,5 +9178,23 @@
     "event_time": "2026-03-30T19:35:00",
     "seen_at": "2026-03-31T01:01:04.449Z",
     "raw": "Br. Vlaka 81233 formiran     30.03.26. 19:35, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:03:00",
+    "seen_at": "2026-03-31T01:04:06.510Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:03, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:03:00",
+    "seen_at": "2026-03-31T01:04:06.510Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:03, kolodvor RUDOPOLJE"
   }
 ]
