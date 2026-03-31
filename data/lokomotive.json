@@ -1,60 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-28T02:21:00",
-    "seen_at": "2026-03-28T01:22:58.033Z",
-    "raw": "Br. Vlaka 63305 dolazak      28.03.26. 02:21, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-03-28T02:21:00",
-    "seen_at": "2026-03-28T01:22:58.033Z",
-    "raw": "Br. Vlaka 63305 dolazak      28.03.26. 02:21, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-28T02:21:00",
-    "seen_at": "2026-03-28T01:23:20.983Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-28T02:21:00",
-    "seen_at": "2026-03-28T01:23:20.983Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T02:26:00",
-    "seen_at": "2026-03-28T01:26:25.347Z",
-    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 02:26, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "45990",
-    "event_time": "2026-03-28T02:26:00",
-    "seen_at": "2026-03-28T01:26:25.347Z",
-    "raw": "Br. Vlaka 45990 dolazak      28.03.26. 02:26, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "928012230035",
     "type": "Formiran",
     "station": "GOSPIĆ",
     "train_number": "63306",
@@ -9196,5 +9142,41 @@
     "event_time": "2026-03-31T03:03:00",
     "seen_at": "2026-03-31T01:04:06.510Z",
     "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:03, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48587",
+    "event_time": "2026-03-31T03:20:00",
+    "seen_at": "2026-03-31T01:21:33.635Z",
+    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 03:20, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:23:00",
+    "seen_at": "2026-03-31T01:23:53.259Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:23, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-03-31T03:23:00",
+    "seen_at": "2026-03-31T01:23:53.259Z",
+    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:23, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-03-30T23:00:00",
+    "seen_at": "2026-03-31T01:27:21.728Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
   }
 ]
