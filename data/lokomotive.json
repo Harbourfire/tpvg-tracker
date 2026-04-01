@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89251",
-    "event_time": "2026-03-29T14:30:00",
-    "seen_at": "2026-03-29T12:33:59.817Z",
-    "raw": "Br. Vlaka 89251 odlazak      29.03.26. 14:30, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89251",
-    "event_time": "2026-03-29T14:34:00",
-    "seen_at": "2026-03-29T12:34:22.818Z",
-    "raw": "Br. Vlaka 89251 odlazak      29.03.26. 14:34, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-29T14:32:00",
-    "seen_at": "2026-03-29T12:35:33.219Z",
-    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:32, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-29T14:32:00",
-    "seen_at": "2026-03-29T12:35:33.219Z",
-    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:32, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "89101",
-    "event_time": "2026-03-29T14:37:00",
-    "seen_at": "2026-03-29T12:38:34.090Z",
-    "raw": "Br. Vlaka 89101 dolazak      29.03.26. 14:37, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-29T14:38:00",
-    "seen_at": "2026-03-29T12:38:57.347Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "RUDOPOLJE",
@@ -12130,5 +12076,32 @@
     "event_time": "2026-04-01T14:21:00",
     "seen_at": "2026-04-01T12:22:47.415Z",
     "raw": "Br. Vlaka 77251 odlazak      01.04.26. 14:21, kolodvor ŠAPJANE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45788",
+    "event_time": "2026-04-01T14:32:00",
+    "seen_at": "2026-04-01T12:33:35.001Z",
+    "raw": "Br. Vlaka 45788 dolazak      01.04.26. 14:32, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-01T11:30:00",
+    "seen_at": "2026-04-01T12:33:58.356Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "JURDANI",
+    "train_number": "77251",
+    "event_time": "2026-04-01T14:35:00",
+    "seen_at": "2026-04-01T12:37:52.975Z",
+    "raw": "Br. Vlaka 77251 odlazak      01.04.26. 14:35, kolodvor JURDANI"
   }
 ]
