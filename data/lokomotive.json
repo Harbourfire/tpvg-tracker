@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47938",
-    "event_time": "2026-03-30T01:09:00",
-    "seen_at": "2026-03-29T23:12:48.591Z",
-    "raw": "Br. Vlaka 47938 dolazak      30.03.26. 01:09, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-30T01:09:00",
-    "seen_at": "2026-03-29T23:13:12.140Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89870",
-    "event_time": "2026-03-30T00:32:00",
-    "seen_at": "2026-03-29T23:13:35.235Z",
-    "raw": "Br. Vlaka 89870 formiran     30.03.26. 00:32, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -12634,5 +12607,14 @@
     "event_time": "2026-04-02T01:02:00",
     "seen_at": "2026-04-01T23:03:28.042Z",
     "raw": "Br. Vlaka 44994 odlazak      02.04.26. 01:02, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89752",
+    "event_time": "2026-04-02T01:13:00",
+    "seen_at": "2026-04-01T23:14:07.159Z",
+    "raw": "Br. Vlaka 89752 odlazak      02.04.26. 01:13, kolodvor VINKOVCI"
   }
 ]
