@@ -2,24 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "69175",
-    "event_time": "2026-03-29T10:49:00",
-    "seen_at": "2026-03-29T08:50:49.860Z",
-    "raw": "Br. Vlaka 69175 odlazak      29.03.26. 10:49, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "48898",
-    "event_time": "2026-03-28T22:35:00",
-    "seen_at": "2026-03-29T08:53:58.163Z",
-    "raw": "Br. Vlaka 48898 promjena sas 28.03.26. 22:35, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "69175",
     "event_time": "2026-03-29T11:02:00",
@@ -11734,5 +11716,23 @@
     "event_time": "2026-04-01T10:49:00",
     "seen_at": "2026-04-01T08:49:22.804Z",
     "raw": "Br. Vlaka 43781 odlazak      01.04.26. 10:49, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-01T10:57:00",
+    "seen_at": "2026-04-01T08:57:55.952Z",
+    "raw": "Br. Vlaka 69851 odlazak      01.04.26. 10:57, kolodvor ERDUT"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "46654",
+    "event_time": "2026-04-01T10:57:00",
+    "seen_at": "2026-04-01T08:58:19.609Z",
+    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 10:57, kolodvor SAVSKI MAROF"
   }
 ]
