@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "89123",
-    "event_time": "2026-03-29T23:06:00",
-    "seen_at": "2026-03-29T21:06:47.303Z",
-    "raw": "Br. Vlaka 89123 odlazak      29.03.26. 23:06, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "89123",
-    "event_time": "2026-03-29T23:06:00",
-    "seen_at": "2026-03-29T21:06:47.303Z",
-    "raw": "Br. Vlaka 89123 odlazak      29.03.26. 23:06, kolodvor BLATA"
-  },
-  {
     "uic": "927820440026",
     "type": "Dolazak",
     "station": "SESVETE",
@@ -12445,5 +12427,32 @@
     "event_time": "2026-04-01T23:00:00",
     "seen_at": "2026-04-01T21:01:40.483Z",
     "raw": "Br. Vlaka 44994 odlazak      01.04.26. 23:00, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-01T23:04:00",
+    "seen_at": "2026-04-01T21:05:02.378Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-01T23:04:00",
+    "seen_at": "2026-04-01T21:05:02.378Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "83818",
+    "event_time": "2026-04-01T23:08:00",
+    "seen_at": "2026-04-01T21:08:11.830Z",
+    "raw": "Br. Vlaka 83818 dolazak      01.04.26. 23:08, kolodvor SLAVONSKI BROD"
   }
 ]
