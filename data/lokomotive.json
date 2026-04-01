@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45895",
-    "event_time": "2026-03-29T10:13:00",
-    "seen_at": "2026-03-29T08:14:13.080Z",
-    "raw": "Br. Vlaka 45895 dolazak      29.03.26. 10:13, kolodvor VINKOVCI"
-  },
-  {
     "uic": "997894215711",
     "type": "Rasformiran",
     "station": "BUZET",
@@ -11572,5 +11563,68 @@
     "event_time": "2026-04-01T04:55:00",
     "seen_at": "2026-04-01T08:04:59.508Z",
     "raw": "Br. Vlaka 89251 formiran     01.04.26. 04:55, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "46654",
+    "event_time": "2026-04-01T10:12:00",
+    "seen_at": "2026-04-01T08:13:03.894Z",
+    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 10:12, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "74300",
+    "event_time": "2026-04-01T10:15:00",
+    "seen_at": "2026-04-01T08:15:25.441Z",
+    "raw": "Br. Vlaka 74300 odlazak      01.04.26. 10:15, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "46654",
+    "event_time": "2026-04-01T10:16:00",
+    "seen_at": "2026-04-01T08:16:59.513Z",
+    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 10:16, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "43781",
+    "event_time": "2026-04-01T10:16:00",
+    "seen_at": "2026-04-01T08:16:59.513Z",
+    "raw": "Br. Vlaka 43781 odlazak      01.04.26. 10:16, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "KOTORIBA",
+    "train_number": "81223",
+    "event_time": "2026-04-01T10:17:00",
+    "seen_at": "2026-04-01T08:17:46.912Z",
+    "raw": "Br. Vlaka 81223 formiran     01.04.26. 10:17, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "78002",
+    "event_time": "2026-04-01T10:10:00",
+    "seen_at": "2026-04-01T08:20:07.905Z",
+    "raw": "Br. Vlaka 78002 dolazak      01.04.26. 10:10, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "PERUŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-01T10:10:00",
+    "seen_at": "2026-04-01T08:20:31.346Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76106 PERUŠIĆ"
   }
 ]
