@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "89101",
-    "event_time": "2026-03-29T15:05:00",
-    "seen_at": "2026-03-29T13:06:01.253Z",
-    "raw": "Br. Vlaka 89101 odlazak      29.03.26. 15:05, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47938",
-    "event_time": "2026-03-29T15:05:00",
-    "seen_at": "2026-03-29T13:06:01.254Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 15:05, kolodvor 72302"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "82243",
-    "event_time": "2026-03-29T15:06:00",
-    "seen_at": "2026-03-29T13:07:11.551Z",
-    "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:06, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "ŽUPANJA",
@@ -12094,5 +12067,14 @@
     "event_time": "2026-04-01T14:57:00",
     "seen_at": "2026-04-01T12:57:44.225Z",
     "raw": "Br. Vlaka 48588 odlazak      01.04.26. 14:57, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "OPATIJA-MATULJI",
+    "train_number": "77251",
+    "event_time": "2026-04-01T15:01:00",
+    "seen_at": "2026-04-01T13:02:44.599Z",
+    "raw": "Br. Vlaka 77251 odlazak      01.04.26. 15:01, kolodvor OPATIJA-MATULJI"
   }
 ]
