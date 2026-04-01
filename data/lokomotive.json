@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "45897",
-    "event_time": "2026-03-29T19:59:00",
-    "seen_at": "2026-03-29T18:08:04.328Z",
-    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 19:59, kolodvor HRVATSKA DUBICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -12454,5 +12445,32 @@
     "event_time": "2026-04-01T20:00:00",
     "seen_at": "2026-04-01T18:02:53.589Z",
     "raw": "Br. Vlaka 81986 odlazak      01.04.26. 20:00, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-01T20:03:00",
+    "seen_at": "2026-04-01T18:04:16.244Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:03, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-01T20:03:00",
+    "seen_at": "2026-04-01T18:04:16.244Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:03, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81986",
+    "event_time": "2026-04-01T20:07:00",
+    "seen_at": "2026-04-01T18:10:04.742Z",
+    "raw": "Br. Vlaka 81986 dolazak      01.04.26. 20:07, kolodvor OSIJEK"
   }
 ]
