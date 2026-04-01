@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47990",
-    "event_time": "2026-03-30T01:34:00",
-    "seen_at": "2026-03-29T23:34:45.542Z",
-    "raw": "Br. Vlaka 47990 dolazak      30.03.26. 01:34, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47990",
-    "event_time": "2026-03-30T01:34:00",
-    "seen_at": "2026-03-29T23:34:45.543Z",
-    "raw": "Br. Vlaka 47990 dolazak      30.03.26. 01:34, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "KOPRIVNICA GR    A",
@@ -12580,5 +12562,14 @@
     "event_time": "2026-04-02T01:13:00",
     "seen_at": "2026-04-01T23:14:07.159Z",
     "raw": "Br. Vlaka 89752 odlazak      02.04.26. 01:13, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44994",
+    "event_time": "2026-04-02T01:26:00",
+    "seen_at": "2026-04-01T23:28:34.317Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 01:26, kolodvor NOVI MAROF"
   }
 ]
