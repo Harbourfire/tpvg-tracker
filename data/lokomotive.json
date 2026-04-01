@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "45897",
-    "event_time": "2026-03-29T19:28:00",
-    "seen_at": "2026-03-29T17:28:54.583Z",
-    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 19:28, kolodvor SUNJA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -12391,5 +12382,32 @@
     "event_time": "2026-04-01T19:22:00",
     "seen_at": "2026-04-01T17:22:27.506Z",
     "raw": "Br. Vlaka 81223 odlazak      01.04.26. 19:22, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81223",
+    "event_time": "2026-04-01T19:29:00",
+    "seen_at": "2026-04-01T17:29:39.016Z",
+    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 19:29, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-01T19:33:00",
+    "seen_at": "2026-04-01T17:34:41.878Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 19:33, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-01T19:33:00",
+    "seen_at": "2026-04-01T17:34:41.878Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 19:33, kolodvor PERUŠIĆ"
   }
 ]
