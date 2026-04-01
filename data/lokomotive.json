@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "48898",
-    "event_time": "2026-03-29T14:15:00",
-    "seen_at": "2026-03-29T12:21:22.391Z",
-    "raw": "Br. Vlaka 48898 odlazak      29.03.26. 14:15, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-26T13:13:00",
-    "seen_at": "2026-03-29T12:21:45.659Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SAVSKI MAROF granica",
@@ -12139,5 +12121,14 @@
     "event_time": "2026-04-01T14:18:00",
     "seen_at": "2026-04-01T12:19:27.306Z",
     "raw": "Br. Vlaka 48588 odlazak      01.04.26. 14:18, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "ŠAPJANE",
+    "train_number": "77251",
+    "event_time": "2026-04-01T14:21:00",
+    "seen_at": "2026-04-01T12:22:47.415Z",
+    "raw": "Br. Vlaka 77251 odlazak      01.04.26. 14:21, kolodvor ŠAPJANE"
   }
 ]
