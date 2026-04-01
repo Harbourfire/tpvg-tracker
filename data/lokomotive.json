@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47938",
-    "event_time": "2026-03-29T19:58:00",
-    "seen_at": "2026-03-29T17:58:54.187Z",
-    "raw": "Br. Vlaka 47938 dolazak      29.03.26. 19:58, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -12454,5 +12445,14 @@
     "event_time": "2026-04-01T10:00:00",
     "seen_at": "2026-04-01T17:52:53.679Z",
     "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81986",
+    "event_time": "2026-04-01T20:00:00",
+    "seen_at": "2026-04-01T18:02:53.589Z",
+    "raw": "Br. Vlaka 81986 odlazak      01.04.26. 20:00, kolodvor OSIJEK DONJI GRAD"
   }
 ]
