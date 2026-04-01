@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Rasformiran",
-    "station": "BUZET",
-    "train_number": null,
-    "event_time": "2026-03-26T09:20:00",
-    "seen_at": "2026-03-29T08:22:56.589Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77425 BUZET"
-  },
-  {
     "uic": "997894215612",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -11626,5 +11617,41 @@
     "event_time": "2026-04-01T10:10:00",
     "seen_at": "2026-04-01T08:20:31.346Z",
     "raw": "Trenutna pozicija je u kolodvoru 76106 PERUŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "45690",
+    "event_time": "2026-04-01T10:22:00",
+    "seen_at": "2026-04-01T08:23:07.094Z",
+    "raw": "Br. Vlaka 45690 odlazak      01.04.26. 10:22, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "81223",
+    "event_time": "2026-04-01T10:20:00",
+    "seen_at": "2026-04-01T08:24:41.051Z",
+    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 10:20, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-01T10:28:00",
+    "seen_at": "2026-04-01T08:30:10.181Z",
+    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 10:28, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-01T10:28:00",
+    "seen_at": "2026-04-01T08:30:10.181Z",
+    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 10:28, kolodvor GOSPIĆ"
   }
 ]
