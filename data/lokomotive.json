@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-29T08:22:00",
-    "seen_at": "2026-03-29T18:18:56.098Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-29T08:22:00",
-    "seen_at": "2026-03-29T18:18:56.098Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47990",
-    "event_time": "2026-03-29T20:07:00",
-    "seen_at": "2026-03-29T18:20:27.754Z",
-    "raw": "Br. Vlaka 47990 formiran     29.03.26. 20:07, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47990",
-    "event_time": "2026-03-29T20:07:00",
-    "seen_at": "2026-03-29T18:20:50.639Z",
-    "raw": "Br. Vlaka 47990 formiran     29.03.26. 20:07, kolodvor 72303"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -12472,5 +12436,32 @@
     "event_time": "2026-04-01T20:07:00",
     "seen_at": "2026-04-01T18:10:04.742Z",
     "raw": "Br. Vlaka 81986 dolazak      01.04.26. 20:07, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-01T20:13:00",
+    "seen_at": "2026-04-01T18:13:21.863Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:13, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-01T20:13:00",
+    "seen_at": "2026-04-01T18:13:21.863Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:13, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44994",
+    "event_time": "2026-04-01T10:28:00",
+    "seen_at": "2026-04-01T18:16:05.116Z",
+    "raw": "Br. Vlaka 44994 promjena sas 01.04.26. 10:28, kolodvor 72303"
   }
 ]
