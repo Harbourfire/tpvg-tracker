@@ -1,42 +1,6 @@
 [
   {
     "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82017",
-    "event_time": "2026-03-29T07:58:00",
-    "seen_at": "2026-03-29T05:58:45.077Z",
-    "raw": "Br. Vlaka 82017 odlazak      29.03.26. 07:58, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "89182",
-    "event_time": "2026-03-29T07:55:00",
-    "seen_at": "2026-03-29T05:59:08.228Z",
-    "raw": "Br. Vlaka 89182 odlazak      29.03.26. 07:55, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "89192",
-    "event_time": "2026-03-29T07:59:00",
-    "seen_at": "2026-03-29T06:00:41.790Z",
-    "raw": "Br. Vlaka 89192 odlazak      29.03.26. 07:59, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VUKOVAR",
-    "train_number": null,
-    "event_time": "2026-03-29T07:59:00",
-    "seen_at": "2026-03-29T06:03:48.400Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
-  },
-  {
-    "uic": "997894853487",
     "type": "Dolazak",
     "station": "ORIOVAC",
     "train_number": "82017",
@@ -10915,5 +10879,77 @@
     "event_time": "2026-04-01T07:47:00",
     "seen_at": "2026-04-01T05:48:45.344Z",
     "raw": "Br. Vlaka 46654 odlazak      01.04.26. 07:47, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "74301",
+    "event_time": "2026-04-01T07:50:00",
+    "seen_at": "2026-04-01T05:56:52.314Z",
+    "raw": "Br. Vlaka 74301 dolazak      01.04.26. 07:50, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "PLETERNICA",
+    "train_number": null,
+    "event_time": "2026-04-01T07:50:00",
+    "seen_at": "2026-04-01T05:57:16.858Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "PLETERNICA",
+    "train_number": "74303",
+    "event_time": "2026-04-01T07:57:00",
+    "seen_at": "2026-04-01T05:58:27.837Z",
+    "raw": "Br. Vlaka 74303 formiran     01.04.26. 07:57, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-04-01T07:58:00",
+    "seen_at": "2026-04-01T06:00:02.310Z",
+    "raw": "Br. Vlaka 45105 odlazak      01.04.26. 07:58, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "74303",
+    "event_time": "2026-04-01T07:54:00",
+    "seen_at": "2026-04-01T06:00:02.311Z",
+    "raw": "Br. Vlaka 74303 odlazak      01.04.26. 07:54, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "DUGA RESA",
+    "train_number": "46654",
+    "event_time": "2026-04-01T07:58:00",
+    "seen_at": "2026-04-01T06:00:49.806Z",
+    "raw": "Br. Vlaka 46654 dolazak      01.04.26. 07:58, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-01T08:01:00",
+    "seen_at": "2026-04-01T06:01:36.997Z",
+    "raw": "Br. Vlaka 81230 formiran     01.04.26. 08:01, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-01T08:01:00",
+    "seen_at": "2026-04-01T06:01:36.997Z",
+    "raw": "Br. Vlaka 81230 formiran     01.04.26. 08:01, kolodvor GOSPIĆ"
   }
 ]
