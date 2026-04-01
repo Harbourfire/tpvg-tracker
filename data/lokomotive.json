@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-03-29T16:37:00",
-    "seen_at": "2026-03-29T14:39:35.368Z",
-    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 16:37, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-03-29T16:37:00",
-    "seen_at": "2026-03-29T14:39:35.368Z",
-    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 16:37, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89101",
-    "event_time": "2026-03-29T16:40:00",
-    "seen_at": "2026-03-29T14:41:08.233Z",
-    "raw": "Br. Vlaka 89101 odlazak      29.03.26. 16:40, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -12184,5 +12157,23 @@
     "event_time": "2026-04-01T16:21:00",
     "seen_at": "2026-04-01T14:23:36.830Z",
     "raw": "Br. Vlaka 81231 odlazak      01.04.26. 16:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81231",
+    "event_time": "2026-04-01T16:36:00",
+    "seen_at": "2026-04-01T14:39:28.972Z",
+    "raw": "Br. Vlaka 81231 dolazak      01.04.26. 16:36, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81231",
+    "event_time": "2026-04-01T16:36:00",
+    "seen_at": "2026-04-01T14:39:28.972Z",
+    "raw": "Br. Vlaka 81231 dolazak      01.04.26. 16:36, kolodvor PLAŠKI"
   }
 ]
