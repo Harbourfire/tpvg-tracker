@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "ŽUPANJA",
-    "train_number": "89188",
-    "event_time": "2026-03-29T17:11:00",
-    "seen_at": "2026-03-29T15:14:12.239Z",
-    "raw": "Br. Vlaka 89188 odlazak      29.03.26. 17:11, kolodvor ŽUPANJA"
-  },
-  {
     "uic": "997894855706",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
@@ -12202,5 +12193,23 @@
     "event_time": "2026-04-01T17:05:00",
     "seen_at": "2026-04-01T15:05:19.365Z",
     "raw": "Br. Vlaka 45104 formiran     01.04.26. 17:05, kolodvor 71308"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-01T13:43:00",
+    "seen_at": "2026-04-01T15:14:07.342Z",
+    "raw": "Br. Vlaka 45104 odlazak      01.04.26. 13:43, kolodvor 71308"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-01T13:52:00",
+    "seen_at": "2026-04-01T15:14:30.167Z",
+    "raw": "Br. Vlaka 45104 dolazak      01.04.26. 13:52, kolodvor DRENOVCI"
   }
 ]
