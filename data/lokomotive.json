@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "69175",
-    "event_time": "2026-03-29T12:29:00",
-    "seen_at": "2026-03-29T10:29:34.267Z",
-    "raw": "Br. Vlaka 69175 R            29.03.26. 12:29, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-29T12:29:00",
-    "seen_at": "2026-03-29T10:29:57.140Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -12148,5 +12130,32 @@
     "event_time": "2026-04-01T12:25:00",
     "seen_at": "2026-04-01T10:25:27.926Z",
     "raw": "Br. Vlaka 45100 odlazak      01.04.26. 12:25, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81230",
+    "event_time": "2026-04-01T12:31:00",
+    "seen_at": "2026-04-01T10:32:34.394Z",
+    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 12:31, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81230",
+    "event_time": "2026-04-01T12:31:00",
+    "seen_at": "2026-04-01T10:32:34.394Z",
+    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 12:31, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "43781",
+    "event_time": "2026-04-01T12:33:00",
+    "seen_at": "2026-04-01T10:34:06.841Z",
+    "raw": "Br. Vlaka 43781 odlazak      01.04.26. 12:33, kolodvor SAVSKI MAROF"
   }
 ]
