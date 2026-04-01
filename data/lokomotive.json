@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "82017",
-    "event_time": "2026-03-29T07:00:00",
-    "seen_at": "2026-03-29T05:02:07.031Z",
-    "raw": "Br. Vlaka 82017 odlazak      29.03.26. 07:00, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89192",
-    "event_time": "2026-03-29T07:04:00",
-    "seen_at": "2026-03-29T05:04:49.698Z",
-    "raw": "Br. Vlaka 89192 odlazak      29.03.26. 07:04, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -10879,5 +10861,32 @@
     "event_time": "2026-04-01T06:53:00",
     "seen_at": "2026-04-01T04:54:55.702Z",
     "raw": "Br. Vlaka 46654 odlazak      01.04.26. 06:53, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "46654",
+    "event_time": "2026-04-01T07:00:00",
+    "seen_at": "2026-04-01T05:02:10.581Z",
+    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 07:00, kolodvor KUKAČA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48588",
+    "event_time": "2026-04-01T07:05:00",
+    "seen_at": "2026-04-01T05:05:16.573Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 07:05, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48588",
+    "event_time": "2026-04-01T07:05:00",
+    "seen_at": "2026-04-01T05:05:16.573Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 07:05, kolodvor KRIŽEVCI"
   }
 ]
