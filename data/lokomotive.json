@@ -1,60 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47938",
-    "event_time": "2026-03-29T03:56:00",
-    "seen_at": "2026-03-29T01:57:20.467Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 03:56, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47938",
-    "event_time": "2026-03-29T03:56:00",
-    "seen_at": "2026-03-29T01:57:20.467Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 03:56, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47938",
-    "event_time": "2026-03-29T04:00:00",
-    "seen_at": "2026-03-29T02:00:25.796Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 04:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47938",
-    "event_time": "2026-03-29T04:00:00",
-    "seen_at": "2026-03-29T02:00:25.796Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 04:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47938",
-    "event_time": "2026-03-29T04:03:00",
-    "seen_at": "2026-03-29T02:03:54.535Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 04:03, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47938",
-    "event_time": "2026-03-29T04:03:00",
-    "seen_at": "2026-03-29T02:03:54.535Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 04:03, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230076",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "47938",
@@ -10654,5 +10600,32 @@
     "event_time": "2026-04-01T03:49:00",
     "seen_at": "2026-04-01T01:51:09.398Z",
     "raw": "Br. Vlaka 48588 odlazak      01.04.26. 03:49, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KLOŠTAR",
+    "train_number": "48588",
+    "event_time": "2026-04-01T03:58:00",
+    "seen_at": "2026-04-01T02:01:08.995Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 03:58, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KLOŠTAR",
+    "train_number": "48588",
+    "event_time": "2026-04-01T03:58:00",
+    "seen_at": "2026-04-01T02:01:08.995Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 03:58, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "KNIN",
+    "train_number": null,
+    "event_time": "2026-04-01T03:44:00",
+    "seen_at": "2026-04-01T02:01:32.823Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
   }
 ]
