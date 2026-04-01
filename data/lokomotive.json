@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894855706",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-20T16:23:00",
-    "seen_at": "2026-03-29T15:25:33.324Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47938",
-    "event_time": "2026-03-29T17:27:00",
-    "seen_at": "2026-03-29T15:29:45.032Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 17:27, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "SESVETE",
@@ -12211,5 +12193,41 @@
     "event_time": "2026-04-01T13:52:00",
     "seen_at": "2026-04-01T15:14:30.167Z",
     "raw": "Br. Vlaka 45104 dolazak      01.04.26. 13:52, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81231",
+    "event_time": "2026-04-01T17:24:00",
+    "seen_at": "2026-04-01T15:24:47.829Z",
+    "raw": "Br. Vlaka 81231 odlazak      01.04.26. 17:24, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81231",
+    "event_time": "2026-04-01T17:24:00",
+    "seen_at": "2026-04-01T15:24:47.829Z",
+    "raw": "Br. Vlaka 81231 odlazak      01.04.26. 17:24, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-01T15:25:57.284Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81223",
+    "event_time": "2026-04-01T17:24:00",
+    "seen_at": "2026-04-01T15:28:40.278Z",
+    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 17:24, kolodvor VARAŽDIN"
   }
 ]
