@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81976",
-    "event_time": "2026-03-29T01:01:00",
-    "seen_at": "2026-03-29T00:02:31.086Z",
-    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 01:01, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81976",
-    "event_time": "2026-03-29T01:01:00",
-    "seen_at": "2026-03-29T00:02:31.086Z",
-    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 01:01, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-03-29T00:58:00",
-    "seen_at": "2026-03-29T00:03:10.720Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 00:58, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-03-29T00:58:00",
-    "seen_at": "2026-03-29T00:03:10.720Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 00:58, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:02:00",
-    "seen_at": "2026-03-29T00:03:57.835Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:02, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:02:00",
-    "seen_at": "2026-03-29T00:03:57.835Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:02, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:07:00",
-    "seen_at": "2026-03-29T00:07:47.451Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:07, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:07:00",
-    "seen_at": "2026-03-29T00:07:47.451Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:07, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -10447,5 +10375,50 @@
     "event_time": "2026-03-31T12:18:00",
     "seen_at": "2026-03-31T23:57:04.362Z",
     "raw": "Br. Vlaka 48588 formiran     31.03.26. 12:18, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "PERKOVIĆ",
+    "train_number": "78000",
+    "event_time": "2026-04-01T01:49:00",
+    "seen_at": "2026-04-01T00:01:09.214Z",
+    "raw": "Br. Vlaka 78000 dolazak      01.04.26. 01:49, kolodvor PERKOVIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47945",
+    "event_time": "2026-04-01T02:03:00",
+    "seen_at": "2026-04-01T00:04:16.604Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:03, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "47945",
+    "event_time": "2026-04-01T02:03:00",
+    "seen_at": "2026-04-01T00:04:16.604Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:03, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-04-01T02:05:00",
+    "seen_at": "2026-04-01T00:07:03.406Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 02:05, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-04-01T02:05:00",
+    "seen_at": "2026-04-01T00:07:03.406Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 02:05, kolodvor ČAČINCI"
   }
 ]
