@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "ORIOVAC",
-    "train_number": "82551",
-    "event_time": "2026-03-29T15:47:00",
-    "seen_at": "2026-03-29T13:47:18.014Z",
-    "raw": "Br. Vlaka 82551 formiran     29.03.26. 15:47, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820440067",
     "type": "Rasformiran",
     "station": "ZAGREB RESNIK",
@@ -12130,5 +12121,14 @@
     "event_time": "2026-04-01T09:19:00",
     "seen_at": "2026-04-01T13:42:51.368Z",
     "raw": "Br. Vlaka 89723 formiran     01.04.26. 09:19, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "76512",
+    "event_time": "2026-04-01T15:53:00",
+    "seen_at": "2026-04-01T13:55:52.121Z",
+    "raw": "Br. Vlaka 76512 odlazak      01.04.26. 15:53, kolodvor OTOK"
   }
 ]
