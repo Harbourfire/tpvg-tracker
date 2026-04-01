@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Pretrasiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47562",
-    "event_time": "2026-03-29T08:12:00",
-    "seen_at": "2026-03-29T06:15:12.742Z",
-    "raw": "Br. Vlaka 47562 pretrasiran  29.03.26. 08:12, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47562",
-    "event_time": "2026-03-29T08:13:00",
-    "seen_at": "2026-03-29T06:16:21.879Z",
-    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 08:13, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "ČAGLIN",
-    "train_number": null,
-    "event_time": "2026-03-29T08:16:00",
-    "seen_at": "2026-03-29T06:17:32.347Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73405 ČAGLIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47562",
-    "event_time": "2026-03-29T08:20:00",
-    "seen_at": "2026-03-29T06:20:59.780Z",
-    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 08:20, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAPREŠIĆ",
     "train_number": "47562",
@@ -10951,5 +10915,77 @@
     "event_time": "2026-04-01T08:13:00",
     "seen_at": "2026-04-01T06:14:32.237Z",
     "raw": "Br. Vlaka 46654 odlazak      01.04.26. 08:13, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-01T08:14:00",
+    "seen_at": "2026-04-01T06:16:19.265Z",
+    "raw": "Br. Vlaka 45105 dolazak      01.04.26. 08:14, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "89021",
+    "event_time": "2026-04-01T06:54:00",
+    "seen_at": "2026-04-01T06:17:06.409Z",
+    "raw": "Br. Vlaka 89021 dolazak      01.04.26. 06:54, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89021",
+    "event_time": "2026-04-01T08:16:00",
+    "seen_at": "2026-04-01T06:17:29.890Z",
+    "raw": "Br. Vlaka 89021 odlazak      01.04.26. 08:16, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "78002",
+    "event_time": "2026-04-01T08:20:00",
+    "seen_at": "2026-04-01T06:20:37.981Z",
+    "raw": "Br. Vlaka 78002 formiran     01.04.26. 08:20, kolodvor KNIN"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "89021",
+    "event_time": "2026-04-01T06:54:00",
+    "seen_at": "2026-04-01T06:20:37.981Z",
+    "raw": "Br. Vlaka 89021 dolazak      01.04.26. 06:54, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "KNIN",
+    "train_number": "78002",
+    "event_time": "2026-04-01T08:20:00",
+    "seen_at": "2026-04-01T06:21:01.617Z",
+    "raw": "Br. Vlaka 78002 odlazak      01.04.26. 08:20, kolodvor KNIN"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89021",
+    "event_time": "2026-04-01T08:16:00",
+    "seen_at": "2026-04-01T06:21:01.617Z",
+    "raw": "Br. Vlaka 89021 odlazak      01.04.26. 08:16, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "46654",
+    "event_time": "2026-04-01T08:23:00",
+    "seen_at": "2026-04-01T06:24:34.182Z",
+    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 08:23, kolodvor MRZLO POLJE"
   }
 ]
