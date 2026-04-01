@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "SLATINA",
-    "train_number": null,
-    "event_time": "2026-03-26T08:03:00",
-    "seen_at": "2026-03-29T07:04:58.808Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "VUKOVAR",
@@ -11149,5 +11140,86 @@
     "event_time": "2026-04-01T09:01:00",
     "seen_at": "2026-04-01T07:02:59.770Z",
     "raw": "Br. Vlaka 46654 dolazak      01.04.26. 09:01, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "SLATINA",
+    "train_number": null,
+    "event_time": "2026-03-26T08:03:00",
+    "seen_at": "2026-04-01T07:05:38.333Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-01T08:35:00",
+    "seen_at": "2026-04-01T07:06:26.185Z",
+    "raw": "Br. Vlaka 45105 odlazak      01.04.26. 08:35, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-04-01T08:44:00",
+    "seen_at": "2026-04-01T07:06:49.733Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "ERDUT",
+    "train_number": "49826",
+    "event_time": "2026-04-01T09:07:00",
+    "seen_at": "2026-04-01T07:08:24.467Z",
+    "raw": "Br. Vlaka 49826 dolazak      01.04.26. 09:07, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-04-01T06:08:00",
+    "seen_at": "2026-04-01T07:08:48.038Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-01T08:36:00",
+    "seen_at": "2026-04-01T07:09:12.443Z",
+    "raw": "Br. Vlaka 69851 formiran     01.04.26. 08:36, kolodvor ERDUT"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "MALOVAN",
+    "train_number": "78002",
+    "event_time": "2026-04-01T09:07:00",
+    "seen_at": "2026-04-01T07:09:12.446Z",
+    "raw": "Br. Vlaka 78002 odlazak      01.04.26. 09:07, kolodvor MALOVAN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89130",
+    "event_time": "2026-04-01T09:10:00",
+    "seen_at": "2026-04-01T07:10:48.311Z",
+    "raw": "Br. Vlaka 89130 odlazak      01.04.26. 09:10, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "76511",
+    "event_time": "2026-04-01T09:10:00",
+    "seen_at": "2026-04-01T07:12:22.903Z",
+    "raw": "Br. Vlaka 76511 odlazak      01.04.26. 09:10, kolodvor SPAČVA"
   }
 ]
