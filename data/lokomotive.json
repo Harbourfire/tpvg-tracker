@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-29T08:49:00",
-    "seen_at": "2026-03-29T06:50:29.175Z",
-    "raw": "Br. Vlaka 69175 formiran     29.03.26. 08:49, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "987891113167",
     "type": "Rasformiran",
     "station": "SLATINA",
@@ -11068,5 +11059,41 @@
     "event_time": "2026-04-01T08:40:00",
     "seen_at": "2026-04-01T06:41:34.650Z",
     "raw": "Br. Vlaka 78002 odlazak      01.04.26. 08:40, kolodvor PLAVNO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "46654",
+    "event_time": "2026-04-01T08:44:00",
+    "seen_at": "2026-04-01T06:46:51.086Z",
+    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 08:44, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47562",
+    "event_time": "2026-04-01T08:46:00",
+    "seen_at": "2026-04-01T06:48:24.478Z",
+    "raw": "Br. Vlaka 47562 odlazak      01.04.26. 08:46, kolodvor 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47562",
+    "event_time": "2026-04-01T08:46:00",
+    "seen_at": "2026-04-01T06:48:24.478Z",
+    "raw": "Br. Vlaka 47562 odlazak      01.04.26. 08:46, kolodvor 72304"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-01T08:51:00",
+    "seen_at": "2026-04-01T06:51:31.135Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
