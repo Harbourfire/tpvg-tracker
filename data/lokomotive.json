@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "45897",
-    "event_time": "2026-03-29T18:57:00",
-    "seen_at": "2026-03-29T16:58:55.664Z",
-    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:57, kolodvor SISAK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47938",
-    "event_time": "2026-03-29T18:59:00",
-    "seen_at": "2026-03-29T17:02:33.378Z",
-    "raw": "Br. Vlaka 47938 odlazak      29.03.26. 18:59, kolodvor SESVETE"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -12373,5 +12355,14 @@
     "event_time": "2026-04-01T18:53:00",
     "seen_at": "2026-04-01T16:54:23.336Z",
     "raw": "Br. Vlaka 81223 odlazak      01.04.26. 18:53, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-01T18:55:00",
+    "seen_at": "2026-04-01T16:58:03.836Z",
+    "raw": "Br. Vlaka 45104 dolazak      01.04.26. 18:55, kolodvor VINKOVCI"
   }
 ]
