@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89192",
-    "event_time": "2026-03-29T07:13:00",
-    "seen_at": "2026-03-29T05:15:55.806Z",
-    "raw": "Br. Vlaka 89192 dolazak      29.03.26. 07:13, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "OKUČANI",
@@ -10888,5 +10879,23 @@
     "event_time": "2026-04-01T07:05:00",
     "seen_at": "2026-04-01T05:05:16.573Z",
     "raw": "Br. Vlaka 48588 dolazak      01.04.26. 07:05, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "46654",
+    "event_time": "2026-04-01T07:08:00",
+    "seen_at": "2026-04-01T05:09:28.228Z",
+    "raw": "Br. Vlaka 46654 dolazak      01.04.26. 07:08, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81211",
+    "event_time": "2026-04-01T07:10:00",
+    "seen_at": "2026-04-01T05:12:13.246Z",
+    "raw": "Br. Vlaka 81211 odlazak      01.04.26. 07:10, kolodvor OSIJEK"
   }
 ]
