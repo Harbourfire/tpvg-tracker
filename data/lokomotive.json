@@ -2,33 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81976",
-    "event_time": "2026-03-29T00:52:00",
-    "seen_at": "2026-03-28T23:53:32.678Z",
-    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 00:52, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81976",
-    "event_time": "2026-03-29T00:52:00",
-    "seen_at": "2026-03-28T23:53:32.678Z",
-    "raw": "Br. Vlaka 81976 odlazak      29.03.26. 00:52, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "47562",
-    "event_time": "2026-03-29T00:54:00",
-    "seen_at": "2026-03-28T23:55:54.526Z",
-    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 00:54, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "81976",
     "event_time": "2026-03-29T01:01:00",
@@ -10438,5 +10411,41 @@
     "event_time": "2026-04-01T01:50:00",
     "seen_at": "2026-03-31T23:50:40.913Z",
     "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "89711",
+    "event_time": "2026-04-01T01:52:00",
+    "seen_at": "2026-03-31T23:53:57.751Z",
+    "raw": "Br. Vlaka 89711 dolazak      01.04.26. 01:52, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-04-01T01:52:00",
+    "seen_at": "2026-03-31T23:55:06.902Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-03-31T12:18:00",
+    "seen_at": "2026-03-31T23:56:40.899Z",
+    "raw": "Br. Vlaka 48588 formiran     31.03.26. 12:18, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-03-31T12:18:00",
+    "seen_at": "2026-03-31T23:57:04.362Z",
+    "raw": "Br. Vlaka 48588 formiran     31.03.26. 12:18, kolodvor ČAČINCI"
   }
 ]
