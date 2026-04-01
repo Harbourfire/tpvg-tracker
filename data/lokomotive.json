@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-29T14:44:00",
-    "seen_at": "2026-03-29T12:46:17.609Z",
-    "raw": "Br. Vlaka 63310 dolazak      29.03.26. 14:44, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-03-29T14:44:00",
-    "seen_at": "2026-03-29T12:46:17.609Z",
-    "raw": "Br. Vlaka 63310 dolazak      29.03.26. 14:44, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "63310",
@@ -12103,5 +12085,32 @@
     "event_time": "2026-04-01T14:35:00",
     "seen_at": "2026-04-01T12:37:52.975Z",
     "raw": "Br. Vlaka 77251 odlazak      01.04.26. 14:35, kolodvor JURDANI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "OPATIJA-MATULJI",
+    "train_number": "77251",
+    "event_time": "2026-04-01T14:45:00",
+    "seen_at": "2026-04-01T12:45:51.906Z",
+    "raw": "Br. Vlaka 77251 dolazak      01.04.26. 14:45, kolodvor OPATIJA-MATULJI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "48588",
+    "event_time": "2026-04-01T14:46:00",
+    "seen_at": "2026-04-01T12:46:14.979Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 14:46, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "48588",
+    "event_time": "2026-04-01T14:46:00",
+    "seen_at": "2026-04-01T12:46:14.979Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 14:46, kolodvor DUGO SELO"
   }
 ]
