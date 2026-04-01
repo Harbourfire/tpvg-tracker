@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:33:00",
-    "seen_at": "2026-03-29T00:33:18.111Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:33, kolodvor 72304"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:33:00",
-    "seen_at": "2026-03-29T00:33:18.112Z",
-    "raw": "Br. Vlaka 47563 odlazak      29.03.26. 01:33, kolodvor 72304"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:38:00",
-    "seen_at": "2026-03-29T00:38:35.903Z",
-    "raw": "Br. Vlaka 47563 dolazak      29.03.26. 01:38, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47563",
-    "event_time": "2026-03-29T01:38:00",
-    "seen_at": "2026-03-29T00:38:35.903Z",
-    "raw": "Br. Vlaka 47563 dolazak      29.03.26. 01:38, kolodvor 72303"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -10321,5 +10285,50 @@
     "event_time": "2026-04-01T02:11:00",
     "seen_at": "2026-04-01T00:12:21.091Z",
     "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:11, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81211",
+    "event_time": "2026-04-01T02:30:00",
+    "seen_at": "2026-04-01T00:31:13.997Z",
+    "raw": "Br. Vlaka 81211 dolazak      01.04.26. 02:30, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "48588",
+    "event_time": "2026-04-01T02:31:00",
+    "seen_at": "2026-04-01T00:32:00.945Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 02:31, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "48588",
+    "event_time": "2026-04-01T02:31:00",
+    "seen_at": "2026-04-01T00:32:00.945Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 02:31, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-04-01T02:20:00",
+    "seen_at": "2026-04-01T00:32:47.913Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:20, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47945",
+    "event_time": "2026-04-01T02:20:00",
+    "seen_at": "2026-04-01T00:32:47.913Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:20, kolodvor VRBOVEC"
   }
 ]
