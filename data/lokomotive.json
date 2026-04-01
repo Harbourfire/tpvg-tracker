@@ -2,15 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "45897",
-    "event_time": "2026-03-29T18:33:00",
-    "seen_at": "2026-03-29T16:34:40.821Z",
-    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:33, kolodvor GREDA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "SISAK",
     "train_number": "45897",
     "event_time": "2026-03-29T18:57:00",
@@ -12310,5 +12301,59 @@
     "event_time": "2026-04-01T18:25:00",
     "seen_at": "2026-04-01T16:28:10.530Z",
     "raw": "Br. Vlaka 81231 dolazak      01.04.26. 18:25, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-01T18:28:00",
+    "seen_at": "2026-04-01T16:30:45.675Z",
+    "raw": "Br. Vlaka 45104 odlazak      01.04.26. 18:28, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "81223",
+    "event_time": "2026-04-01T18:32:00",
+    "seen_at": "2026-04-01T16:32:19.617Z",
+    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 18:32, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-01T12:00:00",
+    "seen_at": "2026-04-01T16:32:42.828Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-01T12:00:00",
+    "seen_at": "2026-04-01T16:32:42.828Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-01T17:36:00",
+    "seen_at": "2026-04-01T16:33:05.980Z",
+    "raw": "Br. Vlaka 63310 formiran     01.04.26. 17:36, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-01T17:36:00",
+    "seen_at": "2026-04-01T16:33:29.171Z",
+    "raw": "Br. Vlaka 63310 formiran     01.04.26. 17:36, kolodvor GOSPIĆ"
   }
 ]
