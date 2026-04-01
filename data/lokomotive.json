@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "82243",
-    "event_time": "2026-03-29T15:30:00",
-    "seen_at": "2026-03-29T13:31:49.262Z",
-    "raw": "Br. Vlaka 82243 dolazak      29.03.26. 15:30, kolodvor 72304"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89101",
-    "event_time": "2026-03-29T15:32:00",
-    "seen_at": "2026-03-29T13:32:12.271Z",
-    "raw": "Br. Vlaka 89101 dolazak      29.03.26. 15:32, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": null,
@@ -12085,5 +12067,32 @@
     "event_time": "2026-04-01T15:23:00",
     "seen_at": "2026-04-01T13:23:25.814Z",
     "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:23, kolodvor 72302"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "76512",
+    "event_time": "2026-04-01T15:25:00",
+    "seen_at": "2026-04-01T13:28:44.012Z",
+    "raw": "Br. Vlaka 76512 dolazak      01.04.26. 15:25, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:30:00",
+    "seen_at": "2026-04-01T13:30:39.634Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 15:30, kolodvor 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:30:00",
+    "seen_at": "2026-04-01T13:30:39.635Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 15:30, kolodvor 72303"
   }
 ]
