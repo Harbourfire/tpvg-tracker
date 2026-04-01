@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "45897",
-    "event_time": "2026-03-30T00:50:00",
-    "seen_at": "2026-03-29T22:50:57.383Z",
-    "raw": "Br. Vlaka 45897 odlazak      30.03.26. 00:50, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47938",
-    "event_time": "2026-03-30T00:49:00",
-    "seen_at": "2026-03-29T22:52:18.880Z",
-    "raw": "Br. Vlaka 47938 odlazak      30.03.26. 00:49, kolodvor 73164"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "47990",
-    "event_time": "2026-03-30T00:57:00",
-    "seen_at": "2026-03-29T22:58:26.518Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 00:57, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "47990",
-    "event_time": "2026-03-30T00:57:00",
-    "seen_at": "2026-03-29T22:58:26.519Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 00:57, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ĐELETOVCI",
     "train_number": "45897",
@@ -12643,5 +12607,32 @@
     "event_time": "2026-04-02T00:40:00",
     "seen_at": "2026-04-01T22:48:25.163Z",
     "raw": "Br. Vlaka 63305 dolazak      02.04.26. 00:40, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44994",
+    "event_time": "2026-04-02T00:51:00",
+    "seen_at": "2026-04-01T22:51:40.150Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 00:51, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-02T00:51:00",
+    "seen_at": "2026-04-01T22:53:12.514Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89752",
+    "event_time": "2026-04-01T23:46:00",
+    "seen_at": "2026-04-01T22:58:13.825Z",
+    "raw": "Br. Vlaka 89752 formiran     01.04.26. 23:46, kolodvor VINKOVCI"
   }
 ]
