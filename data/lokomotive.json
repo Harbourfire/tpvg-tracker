@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "47990",
-    "event_time": "2026-03-30T00:13:00",
-    "seen_at": "2026-03-29T22:15:31.074Z",
-    "raw": "Br. Vlaka 47990 dolazak      30.03.26. 00:13, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "47990",
-    "event_time": "2026-03-30T00:13:00",
-    "seen_at": "2026-03-29T22:15:31.074Z",
-    "raw": "Br. Vlaka 47990 dolazak      30.03.26. 00:13, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "89123",
-    "event_time": "2026-03-30T00:17:00",
-    "seen_at": "2026-03-29T22:18:38.039Z",
-    "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:17, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47938",
-    "event_time": "2026-03-30T00:15:00",
-    "seen_at": "2026-03-29T22:18:38.039Z",
-    "raw": "Br. Vlaka 47938 dolazak      30.03.26. 00:15, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "89123",
-    "event_time": "2026-03-30T00:17:00",
-    "seen_at": "2026-03-29T22:18:38.039Z",
-    "raw": "Br. Vlaka 89123 odlazak      30.03.26. 00:17, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -12553,5 +12508,50 @@
     "event_time": "2026-04-02T00:10:00",
     "seen_at": "2026-04-01T22:11:24.502Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48588",
+    "event_time": "2026-04-02T00:11:00",
+    "seen_at": "2026-04-01T22:12:03.931Z",
+    "raw": "Br. Vlaka 48588 odlazak      02.04.26. 00:11, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48588",
+    "event_time": "2026-04-02T00:11:00",
+    "seen_at": "2026-04-01T22:12:03.931Z",
+    "raw": "Br. Vlaka 48588 odlazak      02.04.26. 00:11, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48588",
+    "event_time": "2026-04-02T00:15:00",
+    "seen_at": "2026-04-01T22:17:07.841Z",
+    "raw": "Br. Vlaka 48588 odlazak      02.04.26. 00:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48588",
+    "event_time": "2026-04-02T00:15:00",
+    "seen_at": "2026-04-01T22:17:07.841Z",
+    "raw": "Br. Vlaka 48588 odlazak      02.04.26. 00:15, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44994",
+    "event_time": "2026-04-02T00:16:00",
+    "seen_at": "2026-04-01T22:17:31.084Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 00:16, kolodvor ZABOK"
   }
 ]
