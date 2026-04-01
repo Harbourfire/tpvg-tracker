@@ -2,15 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-29T10:43:00",
-    "seen_at": "2026-03-29T08:44:43.581Z",
-    "raw": "Br. Vlaka 69175 odlazak      29.03.26. 10:43, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "JOSIPDOL",
     "train_number": "69175",
     "event_time": "2026-03-29T10:49:00",
@@ -11680,5 +11671,68 @@
     "event_time": "2026-04-01T10:37:00",
     "seen_at": "2026-04-01T08:39:06.407Z",
     "raw": "Br. Vlaka 81223 odlazak      01.04.26. 10:37, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "48588",
+    "event_time": "2026-04-01T10:41:00",
+    "seen_at": "2026-04-01T08:42:25.217Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 10:41, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "48588",
+    "event_time": "2026-04-01T10:41:00",
+    "seen_at": "2026-04-01T08:42:25.217Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 10:41, kolodvor GRADEC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-01T10:43:00",
+    "seen_at": "2026-04-01T08:43:57.883Z",
+    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 10:43, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-01T10:43:00",
+    "seen_at": "2026-04-01T08:43:57.883Z",
+    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 10:43, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "48588",
+    "event_time": "2026-04-01T10:47:00",
+    "seen_at": "2026-04-01T08:48:13.312Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 10:47, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "48588",
+    "event_time": "2026-04-01T10:47:00",
+    "seen_at": "2026-04-01T08:48:13.312Z",
+    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 10:47, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "43781",
+    "event_time": "2026-04-01T10:49:00",
+    "seen_at": "2026-04-01T08:49:22.804Z",
+    "raw": "Br. Vlaka 43781 odlazak      01.04.26. 10:49, kolodvor DUGO SELO"
   }
 ]
