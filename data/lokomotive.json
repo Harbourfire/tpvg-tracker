@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "47562",
-    "event_time": "2026-03-29T01:39:00",
-    "seen_at": "2026-03-29T00:40:07.621Z",
-    "raw": "Br. Vlaka 47562 odlazak      29.03.26. 01:39, kolodvor SIBINJ"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -10330,5 +10321,32 @@
     "event_time": "2026-04-01T02:20:00",
     "seen_at": "2026-04-01T00:32:47.913Z",
     "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:20, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "VIROVITICA",
+    "train_number": "45690",
+    "event_time": "2026-04-01T02:39:00",
+    "seen_at": "2026-04-01T00:39:40.979Z",
+    "raw": "Br. Vlaka 45690 formiran     01.04.26. 02:39, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47945",
+    "event_time": "2026-04-01T02:41:00",
+    "seen_at": "2026-04-01T00:42:03.535Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:41, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "47945",
+    "event_time": "2026-04-01T02:41:00",
+    "seen_at": "2026-04-01T00:42:03.535Z",
+    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:41, kolodvor DUGO SELO"
   }
 ]
