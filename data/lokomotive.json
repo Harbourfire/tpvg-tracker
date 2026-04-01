@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "ŽUPANJA",
-    "train_number": "48898",
-    "event_time": "2026-03-29T15:08:00",
-    "seen_at": "2026-03-29T13:09:51.965Z",
-    "raw": "Br. Vlaka 48898 dolazak      29.03.26. 15:08, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "ŽUPANJA",
-    "train_number": null,
-    "event_time": "2026-03-29T15:08:00",
-    "seen_at": "2026-03-29T13:10:14.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47938",
-    "event_time": "2026-03-29T15:10:00",
-    "seen_at": "2026-03-29T13:10:37.503Z",
-    "raw": "Br. Vlaka 47938 dolazak      29.03.26. 15:10, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "89188",
-    "event_time": "2026-03-29T03:52:00",
-    "seen_at": "2026-03-29T13:12:09.372Z",
-    "raw": "Br. Vlaka 89188 formiran     29.03.26. 03:52, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "82243",
-    "event_time": "2026-03-29T15:12:00",
-    "seen_at": "2026-03-29T13:12:55.254Z",
-    "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:12, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -12076,5 +12031,41 @@
     "event_time": "2026-04-01T15:01:00",
     "seen_at": "2026-04-01T13:02:44.599Z",
     "raw": "Br. Vlaka 77251 odlazak      01.04.26. 15:01, kolodvor OPATIJA-MATULJI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:11:00",
+    "seen_at": "2026-04-01T13:11:11.068Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:11, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:11:00",
+    "seen_at": "2026-04-01T13:11:11.069Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:11, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "76512",
+    "event_time": "2026-04-01T15:10:00",
+    "seen_at": "2026-04-01T13:11:34.137Z",
+    "raw": "Br. Vlaka 76512 odlazak      01.04.26. 15:10, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-01T15:16:00",
+    "seen_at": "2026-04-01T13:16:34.747Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
   }
 ]
