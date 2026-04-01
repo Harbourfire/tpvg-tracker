@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "45897",
-    "event_time": "2026-03-29T18:18:00",
-    "seen_at": "2026-03-29T16:19:02.690Z",
-    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:18, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "45897",
-    "event_time": "2026-03-29T18:25:00",
-    "seen_at": "2026-03-29T16:27:42.256Z",
-    "raw": "Br. Vlaka 45897 odlazak      29.03.26. 18:25, kolodvor LEKENIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "GREDA",
     "train_number": "45897",
     "event_time": "2026-03-29T18:33:00",
@@ -12283,5 +12265,50 @@
     "event_time": "2026-04-01T18:06:00",
     "seen_at": "2026-04-01T16:07:34.319Z",
     "raw": "Br. Vlaka 81231 odlazak      01.04.26. 18:06, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81223",
+    "event_time": "2026-04-01T18:14:00",
+    "seen_at": "2026-04-01T16:19:18.463Z",
+    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 18:14, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-01T18:14:00",
+    "seen_at": "2026-04-01T16:19:41.565Z",
+    "raw": "Br. Vlaka 45104 odlazak      01.04.26. 18:14, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81223",
+    "event_time": "2026-04-01T18:24:00",
+    "seen_at": "2026-04-01T16:26:14.914Z",
+    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 18:24, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "81231",
+    "event_time": "2026-04-01T18:25:00",
+    "seen_at": "2026-04-01T16:28:10.530Z",
+    "raw": "Br. Vlaka 81231 dolazak      01.04.26. 18:25, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "81231",
+    "event_time": "2026-04-01T18:25:00",
+    "seen_at": "2026-04-01T16:28:10.530Z",
+    "raw": "Br. Vlaka 81231 dolazak      01.04.26. 18:25, kolodvor GOSPIĆ"
   }
 ]
