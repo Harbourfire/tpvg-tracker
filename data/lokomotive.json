@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "82243",
-    "event_time": "2026-03-29T15:19:00",
-    "seen_at": "2026-03-29T13:25:59.481Z",
-    "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:19, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "82243",
-    "event_time": "2026-03-29T15:25:00",
-    "seen_at": "2026-03-29T13:26:45.586Z",
-    "raw": "Br. Vlaka 82243 odlazak      29.03.26. 15:25, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "82243",
@@ -12067,5 +12049,41 @@
     "event_time": "2026-04-01T15:16:00",
     "seen_at": "2026-04-01T13:16:34.747Z",
     "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:18:00",
+    "seen_at": "2026-04-01T13:20:41.529Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:18, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:18:00",
+    "seen_at": "2026-04-01T13:20:41.529Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:18, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:23:00",
+    "seen_at": "2026-04-01T13:23:25.814Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:23, kolodvor 72302"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48588",
+    "event_time": "2026-04-01T15:23:00",
+    "seen_at": "2026-04-01T13:23:25.814Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:23, kolodvor 72302"
   }
 ]
