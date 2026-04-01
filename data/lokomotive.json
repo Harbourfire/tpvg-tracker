@@ -2,15 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-03-29T05:20:00",
-    "seen_at": "2026-03-29T03:31:33.135Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.03.26. 05:20, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "63305",
     "event_time": "2026-03-29T05:40:00",
@@ -10726,5 +10717,50 @@
     "event_time": "2026-04-01T05:10:00",
     "seen_at": "2026-04-01T03:10:07.651Z",
     "raw": "Br. Vlaka 89021 dolazak      01.04.26. 05:10, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89717",
+    "event_time": "2026-04-01T05:24:00",
+    "seen_at": "2026-04-01T03:24:36.940Z",
+    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:24, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89717",
+    "event_time": "2026-04-01T05:24:00",
+    "seen_at": "2026-04-01T03:24:36.940Z",
+    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:24, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "45690",
+    "event_time": "2026-04-01T05:05:00",
+    "seen_at": "2026-04-01T03:25:00.127Z",
+    "raw": "Br. Vlaka 45690 dolazak      01.04.26. 05:05, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89717",
+    "event_time": "2026-04-01T05:29:00",
+    "seen_at": "2026-04-01T03:29:39.897Z",
+    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89717",
+    "event_time": "2026-04-01T05:29:00",
+    "seen_at": "2026-04-01T03:29:39.898Z",
+    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:29, kolodvor ZAPREŠIĆ"
   }
 ]
