@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-29T14:16:00",
-    "seen_at": "2026-03-29T12:19:02.742Z",
-    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:16, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-29T14:16:00",
-    "seen_at": "2026-03-29T12:19:02.742Z",
-    "raw": "Br. Vlaka 63310 odlazak      29.03.26. 14:16, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ČAGLIN",
-    "train_number": "89101",
-    "event_time": "2026-03-29T14:17:00",
-    "seen_at": "2026-03-29T12:20:12.528Z",
-    "raw": "Br. Vlaka 89101 odlazak      29.03.26. 14:17, kolodvor ČAGLIN"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -12121,5 +12094,50 @@
     "event_time": "2026-04-01T13:51:00",
     "seen_at": "2026-04-01T11:53:17.349Z",
     "raw": "Br. Vlaka 81223 dolazak      01.04.26. 13:51, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "ŠAPJANE",
+    "train_number": "77251",
+    "event_time": "2026-04-01T13:57:00",
+    "seen_at": "2026-04-01T12:13:36.391Z",
+    "raw": "Br. Vlaka 77251 formiran     01.04.26. 13:57, kolodvor ŠAPJANE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81231",
+    "event_time": "2026-04-01T13:27:00",
+    "seen_at": "2026-04-01T12:16:42.911Z",
+    "raw": "Br. Vlaka 81231 formiran     01.04.26. 13:27, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81231",
+    "event_time": "2026-04-01T13:27:00",
+    "seen_at": "2026-04-01T12:17:30.009Z",
+    "raw": "Br. Vlaka 81231 formiran     01.04.26. 13:27, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48588",
+    "event_time": "2026-04-01T14:18:00",
+    "seen_at": "2026-04-01T12:19:27.306Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 14:18, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "48588",
+    "event_time": "2026-04-01T14:18:00",
+    "seen_at": "2026-04-01T12:19:27.306Z",
+    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 14:18, kolodvor VRBOVEC"
   }
 ]
