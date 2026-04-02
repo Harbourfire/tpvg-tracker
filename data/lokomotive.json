@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "74301",
-    "event_time": "2026-03-30T08:52:00",
-    "seen_at": "2026-03-30T06:53:28.559Z",
-    "raw": "Br. Vlaka 74301 odlazak      30.03.26. 08:52, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89540",
-    "event_time": "2026-03-30T08:53:00",
-    "seen_at": "2026-03-30T06:53:51.555Z",
-    "raw": "Br. Vlaka 89540 odlazak      30.03.26. 08:53, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-30T08:52:00",
-    "seen_at": "2026-03-30T06:53:51.555Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69852",
-    "event_time": "2026-03-30T08:52:00",
-    "seen_at": "2026-03-30T06:56:51.784Z",
-    "raw": "Br. Vlaka 69852 odlazak      30.03.26. 08:52, kolodvor DALJ"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Dolazak",
-    "station": "SIBINJ",
-    "train_number": "76601",
-    "event_time": "2026-03-30T08:55:00",
-    "seen_at": "2026-03-30T06:56:51.786Z",
-    "raw": "Br. Vlaka 76601 dolazak      30.03.26. 08:55, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "ERDUT",
@@ -12805,5 +12760,59 @@
     "event_time": "2026-04-02T08:46:00",
     "seen_at": "2026-04-02T06:48:11.043Z",
     "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:46, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-02T08:11:00",
+    "seen_at": "2026-04-02T06:52:22.999Z",
+    "raw": "Br. Vlaka 45105 promjena sas 02.04.26. 08:11, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "SLATINA",
+    "train_number": null,
+    "event_time": "2026-04-02T08:52:00",
+    "seen_at": "2026-04-02T06:52:23.000Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73909 SLATINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "83818",
+    "event_time": "2026-04-02T08:51:00",
+    "seen_at": "2026-04-02T06:52:46.954Z",
+    "raw": "Br. Vlaka 83818 odlazak      02.04.26. 08:51, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-04-02T06:54:21.170Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:52:00",
+    "seen_at": "2026-04-02T06:54:21.171Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:52, kolodvor SESVETE"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "DUGO SELO",
+    "train_number": null,
+    "event_time": "2026-04-02T08:54:00",
+    "seen_at": "2026-04-02T06:54:44.688Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
   }
 ]
