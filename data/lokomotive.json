@@ -1,33 +1,6 @@
 [
   {
     "uic": "987891113316",
-    "type": "Formiran",
-    "station": "POŽEGA",
-    "train_number": "76600",
-    "event_time": "2026-03-30T07:59:00",
-    "seen_at": "2026-03-30T06:07:36.994Z",
-    "raw": "Br. Vlaka 76600 formiran     30.03.26. 07:59, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69852",
-    "event_time": "2026-03-30T08:09:00",
-    "seen_at": "2026-03-30T06:09:56.386Z",
-    "raw": "Br. Vlaka 69852 odlazak      30.03.26. 08:09, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81277",
-    "event_time": "2026-03-30T08:11:00",
-    "seen_at": "2026-03-30T06:11:51.571Z",
-    "raw": "Br. Vlaka 81277 odlazak      30.03.26. 08:11, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891113316",
     "type": "Odlazak",
     "station": "POŽEGA",
     "train_number": "76600",
@@ -12805,5 +12778,32 @@
     "event_time": "2026-04-02T08:01:00",
     "seen_at": "2026-04-02T06:02:16.838Z",
     "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:01, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89195",
+    "event_time": "2026-04-02T08:04:00",
+    "seen_at": "2026-04-02T06:04:51.232Z",
+    "raw": "Br. Vlaka 89195 odlazak      02.04.26. 08:04, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:09:00",
+    "seen_at": "2026-04-02T06:10:15.745Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:09, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89195",
+    "event_time": "2026-04-02T08:11:00",
+    "seen_at": "2026-04-02T06:11:48.394Z",
+    "raw": "Br. Vlaka 89195 odlazak      02.04.26. 08:11, kolodvor IVANKOVO"
   }
 ]
