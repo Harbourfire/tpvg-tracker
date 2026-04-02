@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T00:42:00",
-    "seen_at": "2026-03-30T22:44:53.390Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:42, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T00:42:00",
-    "seen_at": "2026-03-30T22:44:53.390Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 00:42, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45101",
-    "event_time": "2026-03-31T00:47:00",
-    "seen_at": "2026-03-30T22:48:06.852Z",
-    "raw": "Br. Vlaka 45101 formiran     31.03.26. 00:47, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-30T00:00:00",
-    "seen_at": "2026-03-30T22:48:30.237Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45101",
-    "event_time": "2026-03-31T00:49:00",
-    "seen_at": "2026-03-30T22:49:39.893Z",
-    "raw": "Br. Vlaka 45101 formiran     31.03.26. 00:49, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -13444,5 +13399,23 @@
     "event_time": "2026-04-03T00:19:00",
     "seen_at": "2026-04-02T22:20:55.036Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45130",
+    "event_time": "2026-04-03T00:45:00",
+    "seen_at": "2026-04-02T22:49:35.569Z",
+    "raw": "Br. Vlaka 45130 dolazak      03.04.26. 00:45, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-03T00:45:00",
+    "seen_at": "2026-04-02T22:49:59.803Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
