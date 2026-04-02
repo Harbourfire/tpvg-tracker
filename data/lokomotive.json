@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Dolazak",
-    "station": "OKUČANI",
-    "train_number": "69326",
-    "event_time": "2026-03-30T21:09:00",
-    "seen_at": "2026-03-30T19:09:58.114Z",
-    "raw": "Br. Vlaka 69326 dolazak      30.03.26. 21:09, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "69661",
-    "event_time": "2026-03-30T21:09:00",
-    "seen_at": "2026-03-30T19:10:44.369Z",
-    "raw": "Br. Vlaka 69661 odlazak      30.03.26. 21:09, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47945",
-    "event_time": "2026-03-30T21:14:00",
-    "seen_at": "2026-03-30T19:15:44.808Z",
-    "raw": "Br. Vlaka 47945 odlazak      30.03.26. 21:14, kolodvor 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47945",
-    "event_time": "2026-03-30T21:14:00",
-    "seen_at": "2026-03-30T19:15:44.808Z",
-    "raw": "Br. Vlaka 47945 odlazak      30.03.26. 21:14, kolodvor 73164"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-03-31T01:30:00",
-    "seen_at": "2026-03-30T19:16:30.975Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "JALŽABET",
@@ -13633,5 +13588,32 @@
     "event_time": "2026-04-02T21:04:00",
     "seen_at": "2026-04-02T19:04:40.563Z",
     "raw": "Br. Vlaka 89760 odlazak      02.04.26. 21:04, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "89760",
+    "event_time": "2026-04-02T21:10:00",
+    "seen_at": "2026-04-02T19:11:05.657Z",
+    "raw": "Br. Vlaka 89760 odlazak      02.04.26. 21:10, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "47593",
+    "event_time": "2026-04-02T21:16:00",
+    "seen_at": "2026-04-02T19:16:59.371Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 21:16, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89760",
+    "event_time": "2026-04-02T21:15:00",
+    "seen_at": "2026-04-02T19:18:09.853Z",
+    "raw": "Br. Vlaka 89760 dolazak      02.04.26. 21:15, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
