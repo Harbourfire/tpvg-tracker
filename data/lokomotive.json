@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-03-30T07:08:00",
-    "seen_at": "2026-03-30T05:09:26.008Z",
-    "raw": "Br. Vlaka 74301 formiran     30.03.26. 07:08, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "987893113462",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -12724,5 +12715,41 @@
     "event_time": "2026-04-02T06:29:00",
     "seen_at": "2026-04-02T04:57:56.415Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "83818",
+    "event_time": "2026-04-02T07:05:00",
+    "seen_at": "2026-04-02T05:09:47.202Z",
+    "raw": "Br. Vlaka 83818 dolazak      02.04.26. 07:05, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Formiran",
+    "station": "NAŠICE",
+    "train_number": "77022",
+    "event_time": "2026-04-02T07:07:00",
+    "seen_at": "2026-04-02T05:10:34.045Z",
+    "raw": "Br. Vlaka 77022 formiran     02.04.26. 07:07, kolodvor NAŠICE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "82270",
+    "event_time": "2026-04-02T07:10:00",
+    "seen_at": "2026-04-02T05:10:57.336Z",
+    "raw": "Br. Vlaka 82270 odlazak      02.04.26. 07:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-02T07:11:00",
+    "seen_at": "2026-04-02T05:11:20.709Z",
+    "raw": "Br. Vlaka 45105 odlazak      02.04.26. 07:11, kolodvor VINKOVCI"
   }
 ]
