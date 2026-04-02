@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "LUDBREG",
-    "train_number": "69661",
-    "event_time": "2026-03-30T21:39:00",
-    "seen_at": "2026-03-30T19:42:36.103Z",
-    "raw": "Br. Vlaka 69661 dolazak      30.03.26. 21:39, kolodvor LUDBREG"
-  },
-  {
-    "uic": "927820620197",
     "type": "Odlazak",
     "station": "LUDBREG",
     "train_number": "69661",
@@ -13633,5 +13624,23 @@
     "event_time": "2026-04-02T13:40:00",
     "seen_at": "2026-04-02T19:29:49.592Z",
     "raw": "Br. Vlaka 44996 promjena sas 02.04.26. 13:40, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89753",
+    "event_time": "2026-04-02T21:37:00",
+    "seen_at": "2026-04-02T19:41:22.740Z",
+    "raw": "Br. Vlaka 89753 odlazak      02.04.26. 21:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "47593",
+    "event_time": "2026-04-02T21:40:00",
+    "seen_at": "2026-04-02T19:41:22.742Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 21:40, kolodvor GARČIN"
   }
 ]
