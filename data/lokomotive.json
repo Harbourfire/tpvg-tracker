@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "47990",
-    "event_time": "2026-03-30T16:43:00",
-    "seen_at": "2026-03-30T14:43:35.445Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 16:43, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "47990",
-    "event_time": "2026-03-30T16:43:00",
-    "seen_at": "2026-03-30T14:43:35.445Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 16:43, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "47990",
-    "event_time": "2026-03-30T16:50:00",
-    "seen_at": "2026-03-30T14:50:30.454Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 16:50, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "47990",
-    "event_time": "2026-03-30T16:50:00",
-    "seen_at": "2026-03-30T14:50:30.454Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 16:50, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-30T16:50:00",
-    "seen_at": "2026-03-30T14:51:56.772Z",
-    "raw": "Br. Vlaka 63310 dolazak      30.03.26. 16:50, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-03-30T16:50:00",
-    "seen_at": "2026-03-30T14:51:56.773Z",
-    "raw": "Br. Vlaka 63310 dolazak      30.03.26. 16:50, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
     "train_number": "47990",
@@ -13606,5 +13552,32 @@
     "event_time": "2026-04-02T16:37:00",
     "seen_at": "2026-04-02T14:41:04.717Z",
     "raw": "Br. Vlaka 63310 dolazak      02.04.26. 16:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "VRBOVSKO",
+    "train_number": "77265",
+    "event_time": "2026-04-02T16:47:00",
+    "seen_at": "2026-04-02T14:47:54.462Z",
+    "raw": "Br. Vlaka 77265 odlazak      02.04.26. 16:47, kolodvor VRBOVSKO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-02T16:49:00",
+    "seen_at": "2026-04-02T14:50:59.066Z",
+    "raw": "Br. Vlaka 63310 odlazak      02.04.26. 16:49, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-02T16:49:00",
+    "seen_at": "2026-04-02T14:50:59.066Z",
+    "raw": "Br. Vlaka 63310 odlazak      02.04.26. 16:49, kolodvor LIČKA JESENICA"
   }
 ]
