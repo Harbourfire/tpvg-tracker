@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47990",
-    "event_time": "2026-03-30T17:33:00",
-    "seen_at": "2026-03-30T15:35:47.685Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 17:33, kolodvor 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47990",
-    "event_time": "2026-03-30T17:33:00",
-    "seen_at": "2026-03-30T15:35:47.685Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 17:33, kolodvor 73164"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-30T17:35:00",
-    "seen_at": "2026-03-30T15:36:34.967Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:35, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-03-30T17:35:00",
-    "seen_at": "2026-03-30T15:36:34.967Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:35, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "987821320346",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -13606,5 +13570,32 @@
     "event_time": "2026-04-02T17:26:00",
     "seen_at": "2026-04-02T15:28:05.905Z",
     "raw": "Br. Vlaka 48597 dolazak      02.04.26. 17:26, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-02T17:31:00",
+    "seen_at": "2026-04-02T15:33:04.379Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-02T17:31:00",
+    "seen_at": "2026-04-02T15:33:04.379Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-04-02T17:35:00",
+    "seen_at": "2026-04-02T15:35:28.472Z",
+    "raw": "Br. Vlaka 69750 odlazak      02.04.26. 17:35, kolodvor OSIJEK DONJI GRAD"
   }
 ]
