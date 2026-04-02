@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "45105",
-    "event_time": "2026-03-30T09:12:00",
-    "seen_at": "2026-03-30T07:12:26.674Z",
-    "raw": "Br. Vlaka 45105 formiran     30.03.26. 09:12, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "45105",
-    "event_time": "2026-03-30T09:06:00",
-    "seen_at": "2026-03-30T07:17:27.645Z",
-    "raw": "Br. Vlaka 45105 odlazak      30.03.26. 09:06, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76601",
-    "event_time": "2026-03-30T09:16:00",
-    "seen_at": "2026-03-30T07:17:27.647Z",
-    "raw": "Br. Vlaka 76601 odlazak      30.03.26. 09:16, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "TOVARNIK",
@@ -12823,5 +12796,50 @@
     "event_time": "2026-04-02T01:11:00",
     "seen_at": "2026-04-02T07:10:35.182Z",
     "raw": "Br. Vlaka 47593 formiran     02.04.26. 01:11, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-04-02T09:08:00",
+    "seen_at": "2026-04-02T07:12:44.447Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 09:08, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "83818",
+    "event_time": "2026-04-02T09:12:00",
+    "seen_at": "2026-04-02T07:14:41.917Z",
+    "raw": "Br. Vlaka 83818 odlazak      02.04.26. 09:12, kolodvor POŽEGA"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:46:00",
+    "seen_at": "2026-04-02T07:14:41.918Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:46, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "75023",
+    "event_time": "2026-04-02T09:14:00",
+    "seen_at": "2026-04-02T07:15:05.468Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 09:14, kolodvor SESVETE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "71201",
+    "event_time": "2026-04-02T09:15:00",
+    "seen_at": "2026-04-02T07:18:13.843Z",
+    "raw": "Br. Vlaka 71201 odlazak      02.04.26. 09:15, kolodvor JANKOVCI"
   }
 ]
