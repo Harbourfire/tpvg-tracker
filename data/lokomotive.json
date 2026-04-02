@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "74300",
-    "event_time": "2026-03-30T10:10:00",
-    "seen_at": "2026-03-30T08:11:26.006Z",
-    "raw": "Br. Vlaka 74300 dolazak      30.03.26. 10:10, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89400",
-    "event_time": "2026-03-30T10:14:00",
-    "seen_at": "2026-03-30T08:14:56.690Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:14, kolodvor GARČIN"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "82551",
-    "event_time": "2026-03-30T10:17:00",
-    "seen_at": "2026-03-30T08:17:56.394Z",
-    "raw": "Br. Vlaka 82551 odlazak      30.03.26. 10:17, kolodvor GARČIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -12877,5 +12850,32 @@
     "event_time": "2026-04-02T10:00:00",
     "seen_at": "2026-04-02T08:01:38.062Z",
     "raw": "Br. Vlaka 75023 odlazak      02.04.26. 10:00, kolodvor 92515"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44994",
+    "event_time": "2026-04-02T10:03:00",
+    "seen_at": "2026-04-02T08:09:08.446Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 10:03, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "72002",
+    "event_time": "2026-04-02T10:10:00",
+    "seen_at": "2026-04-02T08:11:52.940Z",
+    "raw": "Br. Vlaka 72002 odlazak      02.04.26. 10:10, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "81278",
+    "event_time": "2026-04-02T10:13:00",
+    "seen_at": "2026-04-02T08:13:25.573Z",
+    "raw": "Br. Vlaka 81278 formiran     02.04.26. 10:13, kolodvor VELIKA"
   }
 ]
