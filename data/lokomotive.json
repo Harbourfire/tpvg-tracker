@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89400",
-    "event_time": "2026-03-30T10:25:00",
-    "seen_at": "2026-03-30T08:26:18.900Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:25, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "82551",
-    "event_time": "2026-03-30T10:25:00",
-    "seen_at": "2026-03-30T08:27:06.310Z",
-    "raw": "Br. Vlaka 82551 odlazak      30.03.26. 10:25, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -12877,5 +12859,68 @@
     "event_time": "2026-04-02T10:13:00",
     "seen_at": "2026-04-02T08:13:25.573Z",
     "raw": "Br. Vlaka 81278 formiran     02.04.26. 10:13, kolodvor VELIKA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82253",
+    "event_time": "2026-04-02T08:53:00",
+    "seen_at": "2026-04-02T08:18:42.194Z",
+    "raw": "Br. Vlaka 82253 formiran     02.04.26. 08:53, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82253",
+    "event_time": "2026-04-02T08:53:00",
+    "seen_at": "2026-04-02T08:18:42.194Z",
+    "raw": "Br. Vlaka 82253 formiran     02.04.26. 08:53, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Dolazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "75023",
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-02T08:19:53.016Z",
+    "raw": "Br. Vlaka 75023 dolazak      02.04.26. 10:15, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-04-02T10:18:00",
+    "seen_at": "2026-04-02T08:21:03.336Z",
+    "raw": "Br. Vlaka 44994 dolazak      02.04.26. 10:18, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-02T08:22:14.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-02T08:23:02.493Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "72003",
+    "event_time": "2026-04-02T10:22:00",
+    "seen_at": "2026-04-02T08:25:46.650Z",
+    "raw": "Br. Vlaka 72003 formiran     02.04.26. 10:22, kolodvor ZAPREŠIĆ"
   }
 ]
