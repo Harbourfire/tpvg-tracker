@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "89400",
-    "event_time": "2026-03-30T15:53:00",
-    "seen_at": "2026-03-30T13:53:48.956Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 15:53, kolodvor TUROPOLJE"
-  },
-  {
     "uic": "987895225611",
     "type": "Formiran",
     "station": "KARLOVAC",
@@ -13570,5 +13561,59 @@
     "event_time": "2026-04-02T15:39:00",
     "seen_at": "2026-04-02T13:39:29.825Z",
     "raw": "Br. Vlaka 77263 odlazak      02.04.26. 15:39, kolodvor LOKVE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "DELNICE",
+    "train_number": "77263",
+    "event_time": "2026-04-02T15:47:00",
+    "seen_at": "2026-04-02T13:47:28.591Z",
+    "raw": "Br. Vlaka 77263 dolazak      02.04.26. 15:47, kolodvor DELNICE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "DELNICE",
+    "train_number": null,
+    "event_time": "2026-04-02T15:47:00",
+    "seen_at": "2026-04-02T13:48:38.977Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75412 DELNICE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "DELNICE",
+    "train_number": "77265",
+    "event_time": "2026-04-02T15:13:00",
+    "seen_at": "2026-04-02T13:50:36.320Z",
+    "raw": "Br. Vlaka 77265 formiran     02.04.26. 15:13, kolodvor DELNICE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-02T15:52:00",
+    "seen_at": "2026-04-02T13:52:57.697Z",
+    "raw": "Br. Vlaka 63310 odlazak      02.04.26. 15:52, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-02T15:52:00",
+    "seen_at": "2026-04-02T13:52:57.697Z",
+    "raw": "Br. Vlaka 63310 odlazak      02.04.26. 15:52, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45985",
+    "event_time": "2026-04-02T15:48:00",
+    "seen_at": "2026-04-02T13:54:08.255Z",
+    "raw": "Br. Vlaka 45985 odlazak      02.04.26. 15:48, kolodvor OSIJEK"
   }
 ]
