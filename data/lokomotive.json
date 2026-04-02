@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "89400",
-    "event_time": "2026-03-30T11:08:00",
-    "seen_at": "2026-03-30T09:08:20.082Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 11:08, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "74300",
-    "event_time": "2026-03-30T11:10:00",
-    "seen_at": "2026-03-30T09:10:39.484Z",
-    "raw": "Br. Vlaka 74300 odlazak      30.03.26. 11:10, kolodvor POŽEGA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "89158",
-    "event_time": "2026-03-30T11:14:00",
-    "seen_at": "2026-03-30T09:15:33.471Z",
-    "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:14, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "89158",
-    "event_time": "2026-03-30T11:14:00",
-    "seen_at": "2026-03-30T09:15:33.471Z",
-    "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:14, kolodvor PLAŠKI"
-  },
-  {
     "uic": "987893113470",
     "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
@@ -12958,5 +12922,59 @@
     "event_time": "2026-04-02T11:05:00",
     "seen_at": "2026-04-02T09:06:11.764Z",
     "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:05, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-04-02T11:01:00",
+    "seen_at": "2026-04-02T09:06:48.025Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 11:01, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-02T11:06:00",
+    "seen_at": "2026-04-02T09:08:22.341Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:06:00",
+    "seen_at": "2026-04-02T09:11:05.046Z",
+    "raw": "Br. Vlaka 76600 formiran     02.04.26. 11:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-02T10:08:00",
+    "seen_at": "2026-04-02T09:13:01.830Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 10:08, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:06:00",
+    "seen_at": "2026-04-02T09:13:25.587Z",
+    "raw": "Br. Vlaka 76600 formiran     02.04.26. 11:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:08:00",
+    "seen_at": "2026-04-02T09:13:48.843Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:08, kolodvor VINKOVCI"
   }
 ]
