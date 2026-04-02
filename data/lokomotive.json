@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47945",
-    "event_time": "2026-03-30T20:41:00",
-    "seen_at": "2026-03-30T18:42:53.739Z",
-    "raw": "Br. Vlaka 47945 dolazak      30.03.26. 20:41, kolodvor 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47945",
-    "event_time": "2026-03-30T20:41:00",
-    "seen_at": "2026-03-30T18:42:53.739Z",
-    "raw": "Br. Vlaka 47945 dolazak      30.03.26. 20:41, kolodvor 73164"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -13579,5 +13561,23 @@
     "event_time": "2026-04-02T20:37:00",
     "seen_at": "2026-04-02T18:38:26.847Z",
     "raw": "Br. Vlaka 63305 formiran     02.04.26. 20:37, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "47593",
+    "event_time": "2026-04-02T20:42:00",
+    "seen_at": "2026-04-02T18:43:38.704Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 20:42, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89760",
+    "event_time": "2026-04-02T20:44:00",
+    "seen_at": "2026-04-02T18:46:20.606Z",
+    "raw": "Br. Vlaka 89760 odlazak      02.04.26. 20:44, kolodvor ZAGREB KLARA"
   }
 ]
