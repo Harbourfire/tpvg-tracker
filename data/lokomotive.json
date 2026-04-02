@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-30T18:21:00",
-    "seen_at": "2026-03-30T16:25:29.794Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-30T18:21:00",
-    "seen_at": "2026-03-30T16:25:29.794Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -13615,5 +13597,14 @@
     "event_time": "2026-04-02T18:15:00",
     "seen_at": "2026-04-02T16:15:51.869Z",
     "raw": "Br. Vlaka 89706 odlazak      02.04.26. 18:15, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "47593",
+    "event_time": "2026-04-02T18:22:00",
+    "seen_at": "2026-04-02T16:23:26.846Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 18:22, kolodvor SISAK CAPRAG"
   }
 ]
