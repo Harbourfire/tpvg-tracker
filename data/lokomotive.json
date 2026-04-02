@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "89400",
-    "event_time": "2026-03-30T09:32:00",
-    "seen_at": "2026-03-30T07:32:46.002Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 09:32, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82551",
-    "event_time": "2026-03-30T09:32:00",
-    "seen_at": "2026-03-30T07:32:46.004Z",
-    "raw": "Br. Vlaka 82551 odlazak      30.03.26. 09:32, kolodvor ORIOVAC"
-  },
-  {
     "uic": "987891113316",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -12841,5 +12823,23 @@
     "event_time": "2026-03-30T09:28:00",
     "seen_at": "2026-04-02T07:30:11.078Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89540",
+    "event_time": "2026-04-02T09:24:00",
+    "seen_at": "2026-04-02T07:31:10.104Z",
+    "raw": "Br. Vlaka 89540 odlazak      02.04.26. 09:24, kolodvor DARDA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "TOVARNIK",
+    "train_number": null,
+    "event_time": "2026-04-02T09:33:00",
+    "seen_at": "2026-04-02T07:36:40.653Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71001 TOVARNIK"
   }
 ]
