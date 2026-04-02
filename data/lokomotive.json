@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "74300",
-    "event_time": "2026-03-30T11:25:00",
-    "seen_at": "2026-03-30T09:25:55.835Z",
-    "raw": "Br. Vlaka 74300 odlazak      30.03.26. 11:25, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-03-30T08:00:00",
-    "seen_at": "2026-03-30T09:28:15.398Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "45941",
-    "event_time": "2026-03-30T11:10:00",
-    "seen_at": "2026-03-30T09:28:38.268Z",
-    "raw": "Br. Vlaka 45941 promjena sas 30.03.26. 11:10, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89158",
-    "event_time": "2026-03-30T11:28:00",
-    "seen_at": "2026-03-30T09:29:01.175Z",
-    "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:28, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89158",
-    "event_time": "2026-03-30T11:28:00",
-    "seen_at": "2026-03-30T09:29:01.175Z",
-    "raw": "Br. Vlaka 89158 odlazak      30.03.26. 11:28, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "89400",
-    "event_time": "2026-03-30T11:33:00",
-    "seen_at": "2026-03-30T09:34:36.624Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 11:33, kolodvor OKUČANI"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "OŠTARIJE",
@@ -13012,5 +12958,68 @@
     "event_time": "2026-04-02T11:13:00",
     "seen_at": "2026-04-02T09:22:41.861Z",
     "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:13, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "71200",
+    "event_time": "2026-04-02T11:22:00",
+    "seen_at": "2026-04-02T09:26:24.532Z",
+    "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:22, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "81278",
+    "event_time": "2026-04-02T11:22:00",
+    "seen_at": "2026-04-02T09:26:47.920Z",
+    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 11:22, kolodvor VELIKA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:26:00",
+    "seen_at": "2026-04-02T09:27:11.388Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:26, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:26:00",
+    "seen_at": "2026-04-02T09:27:11.389Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:26, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:27:00",
+    "seen_at": "2026-04-02T09:28:22.055Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:27, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-02T11:30:00",
+    "seen_at": "2026-04-02T09:30:41.958Z",
+    "raw": "Br. Vlaka 45104 odlazak      02.04.26. 11:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "71200",
+    "event_time": "2026-04-02T11:31:00",
+    "seen_at": "2026-04-02T09:31:28.241Z",
+    "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:31, kolodvor JANKOVCI"
   }
 ]
