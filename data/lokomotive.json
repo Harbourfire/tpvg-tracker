@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "89158",
-    "event_time": "2026-03-30T11:35:00",
-    "seen_at": "2026-03-30T09:36:10.198Z",
-    "raw": "Br. Vlaka 89158 dolazak      30.03.26. 11:35, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "89158",
-    "event_time": "2026-03-30T11:35:00",
-    "seen_at": "2026-03-30T09:36:10.198Z",
-    "raw": "Br. Vlaka 89158 dolazak      30.03.26. 11:35, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81981",
-    "event_time": "2026-03-30T07:35:00",
-    "seen_at": "2026-03-30T09:38:54.259Z",
-    "raw": "Br. Vlaka 81981 formiran     30.03.26. 07:35, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-30T11:35:00",
-    "seen_at": "2026-03-30T09:38:54.259Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81981",
-    "event_time": "2026-03-30T07:35:00",
-    "seen_at": "2026-03-30T09:39:17.513Z",
-    "raw": "Br. Vlaka 81981 formiran     30.03.26. 07:35, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -13021,5 +12976,32 @@
     "event_time": "2026-04-02T11:31:00",
     "seen_at": "2026-04-02T09:31:28.241Z",
     "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:31, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:35:00",
+    "seen_at": "2026-04-02T09:36:20.527Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:35, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "81278",
+    "event_time": "2026-04-02T11:36:00",
+    "seen_at": "2026-04-02T09:41:25.087Z",
+    "raw": "Br. Vlaka 81278 dolazak      02.04.26. 11:36, kolodvor POŽEGA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-02T11:40:00",
+    "seen_at": "2026-04-02T09:43:44.281Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
