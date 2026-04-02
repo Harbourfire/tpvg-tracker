@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-03-30T21:36:00",
-    "seen_at": "2026-03-30T19:36:28.803Z",
-    "raw": "Br. Vlaka 61004 odlazak      30.03.26. 21:36, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620197",
     "type": "Dolazak",
     "station": "LUDBREG",
@@ -13633,5 +13624,14 @@
     "event_time": "2026-04-02T21:26:00",
     "seen_at": "2026-04-02T19:28:50.433Z",
     "raw": "Br. Vlaka 82516 dolazak      02.04.26. 21:26, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-02T13:40:00",
+    "seen_at": "2026-04-02T19:29:49.592Z",
+    "raw": "Br. Vlaka 44996 promjena sas 02.04.26. 13:40, kolodvor ZABOK"
   }
 ]
