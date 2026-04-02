@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "89400",
-    "event_time": "2026-03-30T12:15:00",
-    "seen_at": "2026-03-30T10:15:59.123Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 12:15, kolodvor HRVATSKA DUBICA"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -13183,5 +13174,59 @@
     "event_time": "2026-04-02T12:11:00",
     "seen_at": "2026-04-02T10:12:01.171Z",
     "raw": "Br. Vlaka 76600 odlazak      02.04.26. 12:11, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-02T12:17:00",
+    "seen_at": "2026-04-02T10:17:46.881Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LUPOGLAV",
+    "train_number": "89690",
+    "event_time": "2026-04-02T12:18:00",
+    "seen_at": "2026-04-02T10:18:33.945Z",
+    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:18, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LUPOGLAV",
+    "train_number": "89690",
+    "event_time": "2026-04-02T12:18:00",
+    "seen_at": "2026-04-02T10:18:33.946Z",
+    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:18, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89923",
+    "event_time": "2026-04-02T12:18:00",
+    "seen_at": "2026-04-02T10:18:57.243Z",
+    "raw": "Br. Vlaka 89923 odlazak      02.04.26. 12:18, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "77027",
+    "event_time": "2026-04-02T12:17:00",
+    "seen_at": "2026-04-02T10:19:44.509Z",
+    "raw": "Br. Vlaka 77027 odlazak      02.04.26. 12:17, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76600",
+    "event_time": "2026-04-02T12:22:00",
+    "seen_at": "2026-04-02T10:22:29.604Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 12:22, kolodvor ORIOVAC"
   }
 ]
