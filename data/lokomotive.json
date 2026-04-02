@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-03-27T22:00:00",
-    "seen_at": "2026-03-30T20:08:36.973Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "61004",
-    "event_time": "2026-03-30T22:11:00",
-    "seen_at": "2026-03-30T20:11:42.869Z",
-    "raw": "Br. Vlaka 61004 dolazak      30.03.26. 22:11, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-03-30T22:15:00",
-    "seen_at": "2026-03-30T20:16:38.396Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -13588,5 +13561,50 @@
     "event_time": "2026-04-02T21:57:00",
     "seen_at": "2026-04-02T19:58:53.076Z",
     "raw": "Br. Vlaka 47593 odlazak      02.04.26. 21:57, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-02T22:05:00",
+    "seen_at": "2026-04-02T20:07:42.817Z",
+    "raw": "Br. Vlaka 44996 odlazak      02.04.26. 22:05, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "47593",
+    "event_time": "2026-04-02T22:05:00",
+    "seen_at": "2026-04-02T20:08:06.653Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 22:05, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89112",
+    "event_time": "2026-04-02T22:08:00",
+    "seen_at": "2026-04-02T20:09:17.440Z",
+    "raw": "Br. Vlaka 89112 formiran     02.04.26. 22:08, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "47593",
+    "event_time": "2026-04-02T22:13:00",
+    "seen_at": "2026-04-02T20:13:13.317Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 22:13, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44996",
+    "event_time": "2026-04-02T22:15:00",
+    "seen_at": "2026-04-02T20:15:34.074Z",
+    "raw": "Br. Vlaka 44996 odlazak      02.04.26. 22:15, kolodvor ZLATAR-BISTRICA"
   }
 ]
