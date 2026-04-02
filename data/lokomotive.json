@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "76600",
-    "event_time": "2026-03-30T08:09:00",
-    "seen_at": "2026-03-30T06:15:20.337Z",
-    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 08:09, kolodvor POŽEGA"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "76830",
-    "event_time": "2026-03-30T08:16:00",
-    "seen_at": "2026-03-30T06:16:29.696Z",
-    "raw": "Br. Vlaka 76830 odlazak      30.03.26. 08:16, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "76600",
-    "event_time": "2026-03-30T08:16:00",
-    "seen_at": "2026-03-30T06:17:25.963Z",
-    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 08:16, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-03-30T08:20:00",
-    "seen_at": "2026-03-30T06:22:26.769Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -12805,5 +12769,32 @@
     "event_time": "2026-04-02T08:11:00",
     "seen_at": "2026-04-02T06:11:48.394Z",
     "raw": "Br. Vlaka 89195 odlazak      02.04.26. 08:11, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-02T08:11:00",
+    "seen_at": "2026-04-02T06:15:54.268Z",
+    "raw": "Br. Vlaka 45105 dolazak      02.04.26. 08:11, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-02T08:18:00",
+    "seen_at": "2026-04-02T06:18:37.074Z",
+    "raw": "Br. Vlaka 45597 formiran     02.04.26. 08:18, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-02T08:18:00",
+    "seen_at": "2026-04-02T06:18:37.074Z",
+    "raw": "Br. Vlaka 45597 formiran     02.04.26. 08:18, kolodvor 77424"
   }
 ]
