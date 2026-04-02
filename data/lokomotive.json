@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "89400",
-    "event_time": "2026-03-30T12:42:00",
-    "seen_at": "2026-03-30T10:42:38.289Z",
-    "raw": "Br. Vlaka 89400 dolazak      30.03.26. 12:42, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81981",
-    "event_time": "2026-03-30T12:41:00",
-    "seen_at": "2026-03-30T10:47:37.415Z",
-    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 12:41, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81981",
-    "event_time": "2026-03-30T12:41:00",
-    "seen_at": "2026-03-30T10:47:37.415Z",
-    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 12:41, kolodvor BLATA"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "LIČKA JESENICA",
@@ -13264,5 +13237,59 @@
     "event_time": "2026-04-02T12:38:00",
     "seen_at": "2026-04-02T10:39:43.949Z",
     "raw": "Br. Vlaka 82253 odlazak      02.04.26. 12:38, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-04-02T12:37:00",
+    "seen_at": "2026-04-02T10:46:14.547Z",
+    "raw": "Br. Vlaka 89690 dolazak      02.04.26. 12:37, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-04-02T12:37:00",
+    "seen_at": "2026-04-02T10:46:14.547Z",
+    "raw": "Br. Vlaka 89690 dolazak      02.04.26. 12:37, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-04-02T12:44:00",
+    "seen_at": "2026-04-02T10:47:25.448Z",
+    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:44, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-04-02T12:44:00",
+    "seen_at": "2026-04-02T10:47:25.448Z",
+    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:44, kolodvor BUZET"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76600",
+    "event_time": "2026-04-02T12:48:00",
+    "seen_at": "2026-04-02T10:48:59.048Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 12:48, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "NAŠICE",
+    "train_number": null,
+    "event_time": "2026-04-02T12:49:00",
+    "seen_at": "2026-04-02T10:49:22.491Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73901 NAŠICE"
   }
 ]
