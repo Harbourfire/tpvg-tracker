@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "49827",
-    "event_time": "2026-03-30T14:46:00",
-    "seen_at": "2026-03-30T12:58:15.051Z",
-    "raw": "Br. Vlaka 49827 odlazak      30.03.26. 14:46, kolodvor DALJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "89400",
-    "event_time": "2026-03-30T15:02:00",
-    "seen_at": "2026-03-30T13:04:37.474Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 15:02, kolodvor SISAK"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "GOSPIĆ",
@@ -13561,5 +13543,50 @@
     "event_time": "2026-04-02T14:45:00",
     "seen_at": "2026-04-02T12:55:59.511Z",
     "raw": "Br. Vlaka 45985 odlazak      02.04.26. 14:45, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81278",
+    "event_time": "2026-04-02T14:56:00",
+    "seen_at": "2026-04-02T12:57:30.732Z",
+    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:56, kolodvor GARČIN"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "77263",
+    "event_time": "2026-04-02T14:56:00",
+    "seen_at": "2026-04-02T12:58:17.848Z",
+    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 14:56, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "GREDA",
+    "train_number": "47593",
+    "event_time": "2026-04-02T15:01:00",
+    "seen_at": "2026-04-02T13:02:36.714Z",
+    "raw": "Br. Vlaka 47593 dolazak      02.04.26. 15:01, kolodvor GREDA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Dolazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "76600",
+    "event_time": "2026-04-02T14:38:00",
+    "seen_at": "2026-04-02T13:02:36.715Z",
+    "raw": "Br. Vlaka 76600 dolazak      02.04.26. 14:38, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "ANDRIJEVCI",
+    "train_number": null,
+    "event_time": "2026-04-02T15:04:00",
+    "seen_at": "2026-04-02T13:06:08.329Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72802 ANDRIJEVCI"
   }
 ]
