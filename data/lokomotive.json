@@ -2,42 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89870",
-    "event_time": "2026-03-30T02:30:00",
-    "seen_at": "2026-03-30T00:46:33.015Z",
-    "raw": "Br. Vlaka 89870 odlazak      30.03.26. 02:30, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89870",
-    "event_time": "2026-03-30T02:44:00",
-    "seen_at": "2026-03-30T00:46:56.611Z",
-    "raw": "Br. Vlaka 89870 dolazak      30.03.26. 02:44, kolodvor 73164"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-30T02:50:00",
-    "seen_at": "2026-03-30T00:50:48.970Z",
-    "raw": "Br. Vlaka 63306 formiran     30.03.26. 02:50, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-30T02:50:00",
-    "seen_at": "2026-03-30T00:50:48.970Z",
-    "raw": "Br. Vlaka 63306 formiran     30.03.26. 02:50, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "NOVO DRNJE",
     "train_number": "89870",
     "event_time": "2026-03-30T03:06:00",
@@ -12706,5 +12670,23 @@
     "event_time": "2026-04-02T02:36:00",
     "seen_at": "2026-04-02T00:36:37.616Z",
     "raw": "Br. Vlaka 63305 odlazak      02.04.26. 02:36, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-02T02:49:00",
+    "seen_at": "2026-04-02T00:50:01.242Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 02:49, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-02T02:49:00",
+    "seen_at": "2026-04-02T00:50:01.242Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 02:49, kolodvor LIČKO LEŠĆE"
   }
 ]
