@@ -2,42 +2,6 @@
   {
     "uic": "987891113316",
     "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76600",
-    "event_time": "2026-03-30T09:40:00",
-    "seen_at": "2026-03-30T07:40:20.789Z",
-    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 09:40, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89400",
-    "event_time": "2026-03-30T09:40:00",
-    "seen_at": "2026-03-30T07:41:29.676Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 09:40, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-30T09:42:00",
-    "seen_at": "2026-03-30T07:46:58.033Z",
-    "raw": "Br. Vlaka 45105 dolazak      30.03.26. 09:42, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "82551",
-    "event_time": "2026-03-30T09:45:00",
-    "seen_at": "2026-03-30T07:46:58.034Z",
-    "raw": "Br. Vlaka 82551 odlazak      30.03.26. 09:45, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "76600",
     "event_time": "2026-03-30T09:49:00",
@@ -12841,5 +12805,59 @@
     "event_time": "2026-04-02T09:33:00",
     "seen_at": "2026-04-02T07:36:40.653Z",
     "raw": "Trenutna pozicija je u kolodvoru 71001 TOVARNIK"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "75023",
+    "event_time": "2026-04-02T09:39:00",
+    "seen_at": "2026-04-02T07:40:24.940Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 09:39, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "44994",
+    "event_time": "2026-04-02T09:23:00",
+    "seen_at": "2026-04-02T07:44:43.931Z",
+    "raw": "Br. Vlaka 44994 promjena sas 02.04.26. 09:23, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89540",
+    "event_time": "2026-04-02T09:41:00",
+    "seen_at": "2026-04-02T07:45:07.405Z",
+    "raw": "Br. Vlaka 89540 dolazak      02.04.26. 09:41, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-02T10:00:00",
+    "seen_at": "2026-04-02T07:46:42.068Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "83818",
+    "event_time": "2026-04-02T09:29:00",
+    "seen_at": "2026-04-02T07:47:52.042Z",
+    "raw": "Br. Vlaka 83818 dolazak      02.04.26. 09:29, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-02T09:29:00",
+    "seen_at": "2026-04-02T07:48:15.241Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
   }
 ]
