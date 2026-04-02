@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "89400",
-    "event_time": "2026-03-30T14:13:00",
-    "seen_at": "2026-03-30T12:18:57.028Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 14:13, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-03-30T13:35:00",
-    "seen_at": "2026-03-30T12:19:20.527Z",
-    "raw": "Br. Vlaka 49827 promjena sas 30.03.26. 13:35, kolodvor ERDUT"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "ERDUT",
@@ -13480,5 +13462,50 @@
     "event_time": "2026-04-02T14:10:00",
     "seen_at": "2026-04-02T12:15:02.257Z",
     "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:10, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "LUDINA",
+    "train_number": "76600",
+    "event_time": "2026-04-02T14:16:00",
+    "seen_at": "2026-04-02T12:18:47.146Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 14:16, kolodvor LUDINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "47593",
+    "event_time": "2026-04-02T14:19:00",
+    "seen_at": "2026-04-02T12:19:58.000Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 14:19, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "NOVOSELEC",
+    "train_number": "76600",
+    "event_time": "2026-04-02T14:22:00",
+    "seen_at": "2026-04-02T12:23:07.821Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 14:22, kolodvor NOVOSELEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "81278",
+    "event_time": "2026-04-02T14:20:00",
+    "seen_at": "2026-04-02T12:25:28.334Z",
+    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:20, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "MEJA",
+    "train_number": "77263",
+    "event_time": "2026-04-02T14:25:00",
+    "seen_at": "2026-04-02T12:26:15.375Z",
+    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 14:25, kolodvor MEJA"
   }
 ]
