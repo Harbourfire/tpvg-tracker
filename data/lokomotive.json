@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69852",
-    "event_time": "2026-03-30T08:23:00",
-    "seen_at": "2026-03-30T06:23:59.557Z",
-    "raw": "Br. Vlaka 69852 odlazak      30.03.26. 08:23, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76601",
-    "event_time": "2026-03-30T08:25:00",
-    "seen_at": "2026-03-30T06:26:42.186Z",
-    "raw": "Br. Vlaka 76601 odlazak      30.03.26. 08:25, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "76600",
-    "event_time": "2026-03-30T08:27:00",
-    "seen_at": "2026-03-30T06:27:51.824Z",
-    "raw": "Br. Vlaka 76600 dolazak      30.03.26. 08:27, kolodvor PLETERNICA"
-  },
-  {
     "uic": "987893113470",
     "type": "Odlazak",
     "station": "PLETERNICA",
@@ -12796,5 +12769,50 @@
     "event_time": "2026-04-02T08:18:00",
     "seen_at": "2026-04-02T06:18:37.074Z",
     "raw": "Br. Vlaka 45597 formiran     02.04.26. 08:18, kolodvor 77424"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-02T08:19:00",
+    "seen_at": "2026-04-02T06:24:36.548Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Dolazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:14:00",
+    "seen_at": "2026-04-02T06:25:23.588Z",
+    "raw": "Br. Vlaka 75023 dolazak      02.04.26. 08:14, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:21:00",
+    "seen_at": "2026-04-02T06:27:43.583Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:21, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "77022",
+    "event_time": "2026-04-02T08:26:00",
+    "seen_at": "2026-04-02T06:28:07.025Z",
+    "raw": "Br. Vlaka 77022 odlazak      02.04.26. 08:26, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:30:00",
+    "seen_at": "2026-04-02T06:30:27.847Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:30, kolodvor ZAGREB BORONGAJ"
   }
 ]
