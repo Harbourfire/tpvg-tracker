@@ -2,15 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89250",
-    "event_time": "2026-03-30T06:38:00",
-    "seen_at": "2026-03-30T04:39:18.349Z",
-    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:38, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "SAVSKI MAROF",
     "train_number": "89250",
     "event_time": "2026-03-30T06:48:00",
@@ -12697,5 +12688,23 @@
     "event_time": "2026-04-02T06:35:00",
     "seen_at": "2026-04-02T04:35:34.481Z",
     "raw": "Br. Vlaka 45105 formiran     02.04.26. 06:35, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "83818",
+    "event_time": "2026-04-02T06:41:00",
+    "seen_at": "2026-04-02T04:43:17.842Z",
+    "raw": "Br. Vlaka 83818 odlazak      02.04.26. 06:41, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-01T23:48:00",
+    "seen_at": "2026-04-02T04:45:13.663Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
