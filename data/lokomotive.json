@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89400",
-    "event_time": "2026-03-30T10:00:00",
-    "seen_at": "2026-03-30T08:01:19.573Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:00, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "82551",
-    "event_time": "2026-03-30T10:00:00",
-    "seen_at": "2026-03-30T08:04:28.319Z",
-    "raw": "Br. Vlaka 82551 odlazak      30.03.26. 10:00, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "SIBINJ",
-    "train_number": "76600",
-    "event_time": "2026-03-30T10:05:00",
-    "seen_at": "2026-03-30T08:07:07.978Z",
-    "raw": "Br. Vlaka 76600 dolazak      30.03.26. 10:05, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89400",
-    "event_time": "2026-03-30T10:07:00",
-    "seen_at": "2026-03-30T08:07:31.660Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:07, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "987893113470",
     "type": "Dolazak",
     "station": "POŽEGA",
@@ -12895,5 +12859,23 @@
     "event_time": "2026-04-02T09:57:00",
     "seen_at": "2026-04-02T07:58:42.021Z",
     "raw": "Br. Vlaka 44994 odlazak      02.04.26. 09:57, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Formiran",
+    "station": "PODSUSED tvornica",
+    "train_number": "72002",
+    "event_time": "2026-04-02T10:00:00",
+    "seen_at": "2026-04-02T08:01:38.062Z",
+    "raw": "Br. Vlaka 72002 formiran     02.04.26. 10:00, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "PREČEC stajalište",
+    "train_number": "75023",
+    "event_time": "2026-04-02T10:00:00",
+    "seen_at": "2026-04-02T08:01:38.062Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 10:00, kolodvor 92515"
   }
 ]
