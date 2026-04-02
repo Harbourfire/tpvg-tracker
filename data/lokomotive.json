@@ -2,24 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89250",
-    "event_time": "2026-03-30T06:20:00",
-    "seen_at": "2026-03-30T04:21:51.795Z",
-    "raw": "Br. Vlaka 89250 odlazak      30.03.26. 06:20, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "69852",
-    "event_time": "2026-03-30T06:27:00",
-    "seen_at": "2026-03-30T04:27:38.788Z",
-    "raw": "Br. Vlaka 69852 formiran     30.03.26. 06:27, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89250",
     "event_time": "2026-03-30T06:28:00",
@@ -12697,5 +12679,41 @@
     "event_time": "2026-04-02T06:06:00",
     "seen_at": "2026-04-02T04:08:38.549Z",
     "raw": "Br. Vlaka 63306 odlazak      02.04.26. 06:06, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "82270",
+    "event_time": "2026-04-02T06:24:00",
+    "seen_at": "2026-04-02T04:24:54.858Z",
+    "raw": "Br. Vlaka 82270 formiran     02.04.26. 06:24, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-04-02T06:21:00",
+    "seen_at": "2026-04-02T04:25:17.983Z",
+    "raw": "Br. Vlaka 63306 odlazak      02.04.26. 06:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-04-02T06:21:00",
+    "seen_at": "2026-04-02T04:25:17.983Z",
+    "raw": "Br. Vlaka 63306 odlazak      02.04.26. 06:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "83818",
+    "event_time": "2026-04-02T06:27:00",
+    "seen_at": "2026-04-02T04:27:59.567Z",
+    "raw": "Br. Vlaka 83818 odlazak      02.04.26. 06:27, kolodvor SLAVONSKI BROD"
   }
 ]
