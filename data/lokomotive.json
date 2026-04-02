@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-30T16:35:00",
-    "seen_at": "2026-03-30T14:36:42.999Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 16:35, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-03-30T16:35:00",
-    "seen_at": "2026-03-30T14:36:42.999Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 16:35, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -13597,5 +13579,32 @@
     "event_time": "2026-04-02T16:28:00",
     "seen_at": "2026-04-02T14:30:14.695Z",
     "raw": "Br. Vlaka 77265 odlazak      02.04.26. 16:28, kolodvor BROD MORAVICE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "MORAVICE",
+    "train_number": "77265",
+    "event_time": "2026-04-02T16:38:00",
+    "seen_at": "2026-04-02T14:40:41.197Z",
+    "raw": "Br. Vlaka 77265 odlazak      02.04.26. 16:38, kolodvor MORAVICE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-02T16:37:00",
+    "seen_at": "2026-04-02T14:41:04.717Z",
+    "raw": "Br. Vlaka 63310 dolazak      02.04.26. 16:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-02T16:37:00",
+    "seen_at": "2026-04-02T14:41:04.717Z",
+    "raw": "Br. Vlaka 63310 dolazak      02.04.26. 16:37, kolodvor LIČKA JESENICA"
   }
 ]
