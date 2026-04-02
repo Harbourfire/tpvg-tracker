@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987821320346",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-24T16:39:00",
-    "seen_at": "2026-03-30T15:42:16.892Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-03-30T17:45:00",
-    "seen_at": "2026-03-30T15:46:07.357Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:45, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-03-30T17:45:00",
-    "seen_at": "2026-03-30T15:46:07.358Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:45, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-30T17:42:00",
-    "seen_at": "2026-03-30T15:46:30.488Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-03-30T17:42:00",
-    "seen_at": "2026-03-30T15:46:30.488Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
     "uic": "927820440026",
     "type": "Formiran",
     "station": "KOPRIVNICA GR    A",
@@ -13597,5 +13552,59 @@
     "event_time": "2026-04-02T17:35:00",
     "seen_at": "2026-04-02T15:35:28.472Z",
     "raw": "Br. Vlaka 69750 odlazak      02.04.26. 17:35, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-02T17:41:00",
+    "seen_at": "2026-04-02T15:42:04.169Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-02T17:38:00",
+    "seen_at": "2026-04-02T15:42:28.157Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-03-24T16:39:00",
+    "seen_at": "2026-04-02T15:42:51.758Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "48597",
+    "event_time": "2026-04-02T17:40:00",
+    "seen_at": "2026-04-02T15:44:02.887Z",
+    "raw": "Br. Vlaka 48597 odlazak      02.04.26. 17:40, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "48597",
+    "event_time": "2026-04-02T17:40:00",
+    "seen_at": "2026-04-02T15:44:02.887Z",
+    "raw": "Br. Vlaka 48597 odlazak      02.04.26. 17:40, kolodvor BUZET"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89706",
+    "event_time": "2026-04-02T17:47:00",
+    "seen_at": "2026-04-02T15:47:54.873Z",
+    "raw": "Br. Vlaka 89706 formiran     02.04.26. 17:47, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
