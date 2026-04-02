@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "ANDRIJEVCI",
-    "train_number": null,
-    "event_time": "2026-03-30T09:42:00",
-    "seen_at": "2026-03-30T09:54:25.764Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72802 ANDRIJEVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -13048,5 +13039,86 @@
     "event_time": "2026-04-02T11:50:00",
     "seen_at": "2026-04-02T09:51:21.942Z",
     "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:50, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89923",
+    "event_time": "2026-04-02T10:17:00",
+    "seen_at": "2026-04-02T09:54:38.576Z",
+    "raw": "Br. Vlaka 89923 formiran     02.04.26. 10:17, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89923",
+    "event_time": "2026-04-02T11:35:00",
+    "seen_at": "2026-04-02T09:55:02.834Z",
+    "raw": "Br. Vlaka 89923 odlazak      02.04.26. 11:35, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "89923",
+    "event_time": "2026-04-02T11:38:00",
+    "seen_at": "2026-04-02T09:55:49.362Z",
+    "raw": "Br. Vlaka 89923 dolazak      02.04.26. 11:38, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "89923",
+    "event_time": "2026-04-02T11:39:00",
+    "seen_at": "2026-04-02T09:56:13.185Z",
+    "raw": "Br. Vlaka 89923 odlazak      02.04.26. 11:39, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:54:00",
+    "seen_at": "2026-04-02T10:00:08.928Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:54, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:54:00",
+    "seen_at": "2026-04-02T10:00:08.928Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:54, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89923",
+    "event_time": "2026-04-02T11:52:00",
+    "seen_at": "2026-04-02T10:00:56.581Z",
+    "raw": "Br. Vlaka 89923 odlazak      02.04.26. 11:52, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-02T12:00:00",
+    "seen_at": "2026-04-02T10:02:30.262Z",
+    "raw": "Br. Vlaka 45104 odlazak      02.04.26. 12:00, kolodvor OTOK"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76600",
+    "event_time": "2026-04-02T12:03:00",
+    "seen_at": "2026-04-02T10:03:40.580Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 12:03, kolodvor SLAVONSKI BROD"
   }
 ]
