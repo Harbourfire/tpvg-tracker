@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-03-30T05:27:00",
-    "seen_at": "2026-03-30T03:28:05.284Z",
-    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 05:27, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-03-30T05:27:00",
-    "seen_at": "2026-03-30T03:28:05.284Z",
-    "raw": "Br. Vlaka 63306 odlazak      30.03.26. 05:27, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "997894215729",
-    "type": "Rasformiran",
-    "station": "KARLOVAC",
-    "train_number": null,
-    "event_time": "2026-03-20T03:19:00",
-    "seen_at": "2026-03-30T03:28:28.535Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75060 KARLOVAC"
-  },
-  {
-    "uic": "928012230050",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "63306",
@@ -12715,5 +12688,23 @@
     "event_time": "2026-04-02T05:18:00",
     "seen_at": "2026-04-02T03:19:00.430Z",
     "raw": "Br. Vlaka 63306 odlazak      02.04.26. 05:18, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-02T05:28:00",
+    "seen_at": "2026-04-02T03:28:54.119Z",
+    "raw": "Br. Vlaka 63306 odlazak      02.04.26. 05:28, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-02T05:28:00",
+    "seen_at": "2026-04-02T03:28:54.120Z",
+    "raw": "Br. Vlaka 63306 odlazak      02.04.26. 05:28, kolodvor RUDOPOLJE"
   }
 ]
