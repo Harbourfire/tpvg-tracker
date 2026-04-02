@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-03-30T14:36:00",
-    "seen_at": "2026-03-30T12:40:29.566Z",
-    "raw": "Br. Vlaka 49827 odlazak      30.03.26. 14:36, kolodvor ERDUT"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89400",
-    "event_time": "2026-03-30T14:34:00",
-    "seen_at": "2026-03-30T12:45:38.082Z",
-    "raw": "Br. Vlaka 89400 dolazak      30.03.26. 14:34, kolodvor SISAK CAPRAG"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
@@ -13525,5 +13507,32 @@
     "event_time": "2026-04-02T14:34:00",
     "seen_at": "2026-04-02T12:34:51.426Z",
     "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:34, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "PLASE",
+    "train_number": "77263",
+    "event_time": "2026-04-02T14:39:00",
+    "seen_at": "2026-04-02T12:40:54.866Z",
+    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 14:39, kolodvor PLASE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "47593",
+    "event_time": "2026-04-02T14:43:00",
+    "seen_at": "2026-04-02T12:43:37.143Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 14:43, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81278",
+    "event_time": "2026-04-02T14:43:00",
+    "seen_at": "2026-04-02T12:44:24.374Z",
+    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:43, kolodvor SLAVONSKI BROD"
   }
 ]
