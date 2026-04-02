@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-03-30T20:13:00",
-    "seen_at": "2026-03-30T18:14:19.879Z",
-    "raw": "Br. Vlaka 61004 formiran     30.03.26. 20:13, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69326",
-    "event_time": "2026-03-30T20:14:00",
-    "seen_at": "2026-03-30T18:14:19.879Z",
-    "raw": "Br. Vlaka 69326 odlazak      30.03.26. 20:14, kolodvor ORIOVAC"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -13615,5 +13597,23 @@
     "event_time": "2026-04-02T20:11:00",
     "seen_at": "2026-04-02T18:11:39.997Z",
     "raw": "Br. Vlaka 89760 odlazak      02.04.26. 20:11, kolodvor 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "47593",
+    "event_time": "2026-04-02T20:14:00",
+    "seen_at": "2026-04-02T18:14:57.184Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 20:14, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "82516",
+    "event_time": "2026-04-02T20:15:00",
+    "seen_at": "2026-04-02T18:16:06.147Z",
+    "raw": "Br. Vlaka 82516 formiran     02.04.26. 20:15, kolodvor OSIJEK"
   }
 ]
