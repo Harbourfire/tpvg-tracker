@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81981",
-    "event_time": "2026-03-30T14:13:00",
-    "seen_at": "2026-03-30T12:14:30.792Z",
-    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 14:13, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81981",
-    "event_time": "2026-03-30T14:13:00",
-    "seen_at": "2026-03-30T12:14:30.792Z",
-    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 14:13, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SUNJA",
@@ -13453,5 +13435,50 @@
     "event_time": "2026-04-02T14:07:00",
     "seen_at": "2026-04-02T12:07:38.606Z",
     "raw": "Br. Vlaka 76600 dolazak      02.04.26. 14:07, kolodvor LUDINA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "77263",
+    "event_time": "2026-04-02T14:09:00",
+    "seen_at": "2026-04-02T12:09:31.329Z",
+    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 14:09, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "48597",
+    "event_time": "2026-04-02T14:12:00",
+    "seen_at": "2026-04-02T12:12:40.486Z",
+    "raw": "Br. Vlaka 48597 formiran     02.04.26. 14:12, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "48597",
+    "event_time": "2026-04-02T14:12:00",
+    "seen_at": "2026-04-02T12:12:40.486Z",
+    "raw": "Br. Vlaka 48597 formiran     02.04.26. 14:12, kolodvor 77424"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "VELIKA GORICA",
+    "train_number": "47593",
+    "event_time": "2026-04-02T14:14:00",
+    "seen_at": "2026-04-02T12:14:38.551Z",
+    "raw": "Br. Vlaka 47593 dolazak      02.04.26. 14:14, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81278",
+    "event_time": "2026-04-02T14:10:00",
+    "seen_at": "2026-04-02T12:15:02.257Z",
+    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:10, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
