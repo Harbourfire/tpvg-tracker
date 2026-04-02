@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "81981",
-    "event_time": "2026-03-30T14:29:00",
-    "seen_at": "2026-03-30T13:06:56.465Z",
-    "raw": "Br. Vlaka 81981 dolazak      30.03.26. 14:29, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "81981",
-    "event_time": "2026-03-30T14:29:00",
-    "seen_at": "2026-03-30T13:06:56.465Z",
-    "raw": "Br. Vlaka 81981 dolazak      30.03.26. 14:29, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-30T14:29:00",
-    "seen_at": "2026-03-30T13:07:19.486Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-30T14:29:00",
-    "seen_at": "2026-03-30T13:07:19.486Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "89400",
-    "event_time": "2026-03-30T15:15:00",
-    "seen_at": "2026-03-30T13:15:39.238Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 15:15, kolodvor GREDA"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -13588,5 +13543,14 @@
     "event_time": "2026-04-02T15:04:00",
     "seen_at": "2026-04-02T13:06:08.329Z",
     "raw": "Trenutna pozicija je u kolodvoru 72802 ANDRIJEVCI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "FUŽINE",
+    "train_number": "77263",
+    "event_time": "2026-04-02T15:08:00",
+    "seen_at": "2026-04-02T13:08:21.487Z",
+    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 15:08, kolodvor FUŽINE"
   }
 ]
