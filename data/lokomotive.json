@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69326",
-    "event_time": "2026-03-30T20:24:00",
-    "seen_at": "2026-03-30T18:25:09.118Z",
-    "raw": "Br. Vlaka 69326 odlazak      30.03.26. 20:24, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-03-30T20:25:00",
-    "seen_at": "2026-03-30T18:26:41.602Z",
-    "raw": "Br. Vlaka 61004 odlazak      30.03.26. 20:25, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -13615,5 +13597,23 @@
     "event_time": "2026-04-02T20:15:00",
     "seen_at": "2026-04-02T18:16:06.147Z",
     "raw": "Br. Vlaka 82516 formiran     02.04.26. 20:15, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89760",
+    "event_time": "2026-04-02T20:19:00",
+    "seen_at": "2026-04-02T18:23:36.779Z",
+    "raw": "Br. Vlaka 89760 odlazak      02.04.26. 20:19, kolodvor 72304"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "47593",
+    "event_time": "2026-04-02T20:30:00",
+    "seen_at": "2026-04-02T18:31:19.381Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 20:30, kolodvor NOVA GRADIŠKA"
   }
 ]
