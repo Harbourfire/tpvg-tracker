@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "76830",
-    "event_time": "2026-03-30T07:14:00",
-    "seen_at": "2026-03-30T05:16:37.585Z",
-    "raw": "Br. Vlaka 76830 odlazak      30.03.26. 07:14, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76601",
-    "event_time": "2026-03-30T07:17:00",
-    "seen_at": "2026-03-30T05:19:19.519Z",
-    "raw": "Br. Vlaka 76601 formiran     30.03.26. 07:17, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113462",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76830",
-    "event_time": "2026-03-30T07:24:00",
-    "seen_at": "2026-03-30T05:25:06.209Z",
-    "raw": "Br. Vlaka 76830 odlazak      30.03.26. 07:24, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "TOVARNIK",
@@ -12751,5 +12724,32 @@
     "event_time": "2026-04-02T07:11:00",
     "seen_at": "2026-04-02T05:11:20.709Z",
     "raw": "Br. Vlaka 45105 odlazak      02.04.26. 07:11, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "77022",
+    "event_time": "2026-04-02T07:17:00",
+    "seen_at": "2026-04-02T05:22:02.423Z",
+    "raw": "Br. Vlaka 77022 odlazak      02.04.26. 07:17, kolodvor NAŠICE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89540",
+    "event_time": "2026-04-02T06:05:00",
+    "seen_at": "2026-04-02T05:22:25.428Z",
+    "raw": "Br. Vlaka 89540 formiran     02.04.26. 06:05, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "82270",
+    "event_time": "2026-04-02T07:23:00",
+    "seen_at": "2026-04-02T05:23:34.711Z",
+    "raw": "Br. Vlaka 82270 odlazak      02.04.26. 07:23, kolodvor IVANKOVO"
   }
 ]
