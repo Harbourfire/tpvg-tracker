@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-31T01:23:00",
-    "seen_at": "2026-03-30T23:24:51.629Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-31T01:23:00",
-    "seen_at": "2026-03-30T23:24:51.629Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-31T01:25:00",
-    "seen_at": "2026-03-30T23:26:12.107Z",
-    "raw": "Br. Vlaka 63306 formiran     31.03.26. 01:25, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-03-31T01:25:00",
-    "seen_at": "2026-03-30T23:26:12.108Z",
-    "raw": "Br. Vlaka 63306 formiran     31.03.26. 01:25, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81227",
-    "event_time": "2026-03-31T01:21:00",
-    "seen_at": "2026-03-30T23:26:59.041Z",
-    "raw": "Br. Vlaka 81227 odlazak      31.03.26. 01:21, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Pretrasiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47945",
-    "event_time": "2026-03-31T01:22:00",
-    "seen_at": "2026-03-30T23:27:46.414Z",
-    "raw": "Br. Vlaka 47945 pretrasiran  31.03.26. 01:22, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Pretrasiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47945",
-    "event_time": "2026-03-31T01:22:00",
-    "seen_at": "2026-03-30T23:27:46.414Z",
-    "raw": "Br. Vlaka 47945 pretrasiran  31.03.26. 01:22, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -13345,5 +13282,23 @@
     "event_time": "2026-04-03T01:03:00",
     "seen_at": "2026-04-02T23:03:35.668Z",
     "raw": "Br. Vlaka 63306 formiran     03.04.26. 01:03, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-03T01:21:00",
+    "seen_at": "2026-04-02T23:22:21.662Z",
+    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 01:21, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-03T01:21:00",
+    "seen_at": "2026-04-02T23:22:21.662Z",
+    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 01:21, kolodvor GOSPIĆ"
   }
 ]
