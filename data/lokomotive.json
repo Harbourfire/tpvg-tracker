@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89891",
-    "event_time": "2026-03-30T19:35:00",
-    "seen_at": "2026-03-30T17:35:41.606Z",
-    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 19:35, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89891",
-    "event_time": "2026-03-30T19:35:00",
-    "seen_at": "2026-03-30T17:35:41.606Z",
-    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 19:35, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-30T01:30:00",
-    "seen_at": "2026-03-30T17:42:51.679Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-03-30T19:43:00",
-    "seen_at": "2026-03-30T17:43:38.635Z",
-    "raw": "Br. Vlaka 69326 formiran     30.03.26. 19:43, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-31T01:30:00",
-    "seen_at": "2026-03-30T17:44:01.833Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "987821323118",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -13660,5 +13615,59 @@
     "event_time": "2026-04-02T19:17:00",
     "seen_at": "2026-04-02T17:25:18.182Z",
     "raw": "Br. Vlaka 47593 odlazak      02.04.26. 19:17, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-02T21:00:00",
+    "seen_at": "2026-04-02T17:39:44.044Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89760",
+    "event_time": "2026-04-02T19:16:00",
+    "seen_at": "2026-04-02T17:40:07.934Z",
+    "raw": "Br. Vlaka 89760 formiran     02.04.26. 19:16, kolodvor 72303"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-02T19:39:00",
+    "seen_at": "2026-04-02T17:40:31.469Z",
+    "raw": "Br. Vlaka 69005 odlazak      02.04.26. 19:39, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-02T19:39:00",
+    "seen_at": "2026-04-02T17:40:31.469Z",
+    "raw": "Br. Vlaka 69005 odlazak      02.04.26. 19:39, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-02T19:44:00",
+    "seen_at": "2026-04-02T17:44:24.938Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-02T19:44:00",
+    "seen_at": "2026-04-02T17:44:24.938Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
