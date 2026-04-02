@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "45897",
-    "event_time": "2026-03-30T07:10:00",
-    "seen_at": "2026-03-30T05:29:39.186Z",
-    "raw": "Br. Vlaka 45897 odlazak      30.03.26. 07:10, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-03-30T07:30:00",
-    "seen_at": "2026-03-30T05:30:25.294Z",
-    "raw": "Br. Vlaka 74301 odlazak      30.03.26. 07:30, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-03-30T07:14:00",
-    "seen_at": "2026-03-30T05:31:34.849Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "TOVARNIK granica",
-    "train_number": "89400",
-    "event_time": "2026-03-30T07:16:00",
-    "seen_at": "2026-03-30T05:33:07.443Z",
-    "raw": "Br. Vlaka 89400 formiran     30.03.26. 07:16, kolodvor 71020"
-  },
-  {
     "uic": "987893113462",
     "type": "Dolazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -12751,5 +12715,32 @@
     "event_time": "2026-04-02T07:23:00",
     "seen_at": "2026-04-02T05:23:34.711Z",
     "raw": "Br. Vlaka 82270 odlazak      02.04.26. 07:23, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "83818",
+    "event_time": "2026-04-02T07:30:00",
+    "seen_at": "2026-04-02T05:32:39.649Z",
+    "raw": "Br. Vlaka 83818 odlazak      02.04.26. 07:30, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "77022",
+    "event_time": "2026-04-02T07:31:00",
+    "seen_at": "2026-04-02T05:32:39.650Z",
+    "raw": "Br. Vlaka 77022 odlazak      02.04.26. 07:31, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "82270",
+    "event_time": "2026-04-02T07:33:00",
+    "seen_at": "2026-04-02T05:34:35.272Z",
+    "raw": "Br. Vlaka 82270 odlazak      02.04.26. 07:33, kolodvor STARI MIKANOVCI"
   }
 ]
