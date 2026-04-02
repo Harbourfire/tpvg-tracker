@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "PLAŠKI",
-    "train_number": "89158",
-    "event_time": "2026-03-30T06:13:00",
-    "seen_at": "2026-03-30T08:59:34.667Z",
-    "raw": "Br. Vlaka 89158 formiran     30.03.26. 06:13, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "PLAŠKI",
-    "train_number": "89158",
-    "event_time": "2026-03-30T06:13:00",
-    "seen_at": "2026-03-30T08:59:34.667Z",
-    "raw": "Br. Vlaka 89158 formiran     30.03.26. 06:13, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Formiran",
-    "station": "KARLOVAC",
-    "train_number": "89052",
-    "event_time": "2026-03-30T10:59:00",
-    "seen_at": "2026-03-30T08:59:57.795Z",
-    "raw": "Br. Vlaka 89052 formiran     30.03.26. 10:59, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76600",
-    "event_time": "2026-03-30T11:04:00",
-    "seen_at": "2026-03-30T09:04:36.508Z",
-    "raw": "Br. Vlaka 76600 dolazak      30.03.26. 11:04, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-30T11:04:00",
-    "seen_at": "2026-03-30T09:04:59.543Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "STARO PETROVO SELO",
@@ -12940,5 +12895,68 @@
     "event_time": "2026-04-02T10:50:00",
     "seen_at": "2026-04-02T08:51:08.058Z",
     "raw": "Br. Vlaka 82253 odlazak      02.04.26. 10:50, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "45597",
+    "event_time": "2026-04-02T10:57:00",
+    "seen_at": "2026-04-02T09:01:50.468Z",
+    "raw": "Br. Vlaka 45597 dolazak      02.04.26. 10:57, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "45597",
+    "event_time": "2026-04-02T10:57:00",
+    "seen_at": "2026-04-02T09:01:50.468Z",
+    "raw": "Br. Vlaka 45597 dolazak      02.04.26. 10:57, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-02T10:57:00",
+    "seen_at": "2026-04-02T09:04:37.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-02T10:57:00",
+    "seen_at": "2026-04-02T09:04:37.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-30T11:04:00",
+    "seen_at": "2026-04-02T09:05:24.678Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:05:00",
+    "seen_at": "2026-04-02T09:06:11.764Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:05, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:05:00",
+    "seen_at": "2026-04-02T09:06:11.764Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:05, kolodvor PLAŠKI"
   }
 ]
