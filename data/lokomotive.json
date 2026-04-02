@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "ERDUT",
-    "train_number": null,
-    "event_time": "2026-03-30T09:04:00",
-    "seen_at": "2026-03-30T07:05:30.410Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89540",
-    "event_time": "2026-03-30T09:03:00",
-    "seen_at": "2026-03-30T07:05:30.412Z",
-    "raw": "Br. Vlaka 89540 odlazak      30.03.26. 09:03, kolodvor DARDA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "74301",
-    "event_time": "2026-03-30T09:06:00",
-    "seen_at": "2026-03-30T07:10:07.553Z",
-    "raw": "Br. Vlaka 74301 dolazak      30.03.26. 09:06, kolodvor VELIKA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-03-30T09:06:00",
-    "seen_at": "2026-03-30T07:10:31.658Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -12814,5 +12778,50 @@
     "event_time": "2026-04-02T08:54:00",
     "seen_at": "2026-04-02T06:54:44.688Z",
     "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89250",
+    "event_time": "2026-04-02T09:01:00",
+    "seen_at": "2026-04-02T07:02:00.697Z",
+    "raw": "Br. Vlaka 89250 odlazak      02.04.26. 09:01, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "83818",
+    "event_time": "2026-04-02T09:02:00",
+    "seen_at": "2026-04-02T07:02:47.314Z",
+    "raw": "Br. Vlaka 83818 odlazak      02.04.26. 09:02, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-02T09:05:00",
+    "seen_at": "2026-04-02T07:05:54.615Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71201",
+    "event_time": "2026-04-02T09:06:00",
+    "seen_at": "2026-04-02T07:07:27.416Z",
+    "raw": "Br. Vlaka 71201 odlazak      02.04.26. 09:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47593",
+    "event_time": "2026-04-02T01:11:00",
+    "seen_at": "2026-04-02T07:10:35.182Z",
+    "raw": "Br. Vlaka 47593 formiran     02.04.26. 01:11, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
