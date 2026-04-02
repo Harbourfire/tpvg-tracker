@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89400",
-    "event_time": "2026-03-30T16:15:00",
-    "seen_at": "2026-03-30T14:15:25.991Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 16:15, kolodvor 72302"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89891",
-    "event_time": "2026-03-30T16:13:00",
-    "seen_at": "2026-03-30T14:18:30.108Z",
-    "raw": "Br. Vlaka 89891 formiran     30.03.26. 16:13, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89891",
-    "event_time": "2026-03-30T16:13:00",
-    "seen_at": "2026-03-30T14:19:16.119Z",
-    "raw": "Br. Vlaka 89891 formiran     30.03.26. 16:13, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-30T16:18:00",
-    "seen_at": "2026-03-30T14:19:39.145Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 16:18, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-03-30T16:18:00",
-    "seen_at": "2026-03-30T14:19:39.145Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 16:18, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440141",
     "type": "Rasformiran",
     "station": "ZAGREB RESNIK",
     "train_number": null,
@@ -13624,5 +13579,32 @@
     "event_time": "2026-04-02T16:09:00",
     "seen_at": "2026-04-02T14:13:44.556Z",
     "raw": "Br. Vlaka 76600 odlazak      02.04.26. 16:09, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "SKRAD",
+    "train_number": "77265",
+    "event_time": "2026-04-02T16:16:00",
+    "seen_at": "2026-04-02T14:16:19.480Z",
+    "raw": "Br. Vlaka 77265 odlazak      02.04.26. 16:16, kolodvor SKRAD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-02T16:16:00",
+    "seen_at": "2026-04-02T14:17:30.175Z",
+    "raw": "Br. Vlaka 63310 odlazak      02.04.26. 16:16, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-02T16:16:00",
+    "seen_at": "2026-04-02T14:17:30.175Z",
+    "raw": "Br. Vlaka 63310 odlazak      02.04.26. 16:16, kolodvor RUDOPOLJE"
   }
 ]
