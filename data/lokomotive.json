@@ -13660,5 +13660,41 @@
     "event_time": "2026-04-02T18:49:00",
     "seen_at": "2026-04-02T16:52:32.889Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-02T18:46:00",
+    "seen_at": "2026-04-02T17:01:38.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-02T18:46:00",
+    "seen_at": "2026-04-02T17:01:38.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-02T18:32:00",
+    "seen_at": "2026-04-02T17:05:55.201Z",
+    "raw": "Br. Vlaka 69005 formiran     02.04.26. 18:32, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-02T18:32:00",
+    "seen_at": "2026-04-02T17:05:55.202Z",
+    "raw": "Br. Vlaka 69005 formiran     02.04.26. 18:32, kolodvor OGULIN"
   }
 ]
