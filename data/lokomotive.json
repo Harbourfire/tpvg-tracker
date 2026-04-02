@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "JALŽABET",
-    "train_number": "69661",
-    "event_time": "2026-03-30T21:22:00",
-    "seen_at": "2026-03-30T19:26:03.626Z",
-    "raw": "Br. Vlaka 69661 odlazak      30.03.26. 21:22, kolodvor JALŽABET"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-03-30T20:33:00",
-    "seen_at": "2026-03-30T19:27:26.936Z",
-    "raw": "Br. Vlaka 61004 promjena sas 30.03.26. 20:33, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -13615,5 +13597,41 @@
     "event_time": "2026-04-02T21:15:00",
     "seen_at": "2026-04-02T19:18:09.853Z",
     "raw": "Br. Vlaka 89760 dolazak      02.04.26. 21:15, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89760",
+    "event_time": "2026-04-02T21:22:00",
+    "seen_at": "2026-04-02T19:22:38.321Z",
+    "raw": "Br. Vlaka 89760 odlazak      02.04.26. 21:22, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "47593",
+    "event_time": "2026-04-02T21:27:00",
+    "seen_at": "2026-04-02T19:27:40.780Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 21:27, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-02T21:26:00",
+    "seen_at": "2026-04-02T19:28:04.210Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "JOSIPOVAC",
+    "train_number": "82516",
+    "event_time": "2026-04-02T21:26:00",
+    "seen_at": "2026-04-02T19:28:50.433Z",
+    "raw": "Br. Vlaka 82516 dolazak      02.04.26. 21:26, kolodvor JOSIPOVAC"
   }
 ]
