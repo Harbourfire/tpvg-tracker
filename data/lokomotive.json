@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89400",
-    "event_time": "2026-03-30T10:47:00",
-    "seen_at": "2026-03-30T08:48:07.687Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:47, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76600",
-    "event_time": "2026-03-30T10:50:00",
-    "seen_at": "2026-03-30T08:53:14.094Z",
-    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 10:50, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89400",
-    "event_time": "2026-03-30T10:56:00",
-    "seen_at": "2026-03-30T08:56:29.688Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 10:56, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-03-30T10:53:00",
-    "seen_at": "2026-03-30T08:56:29.689Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-03-30T10:53:00",
-    "seen_at": "2026-03-30T08:56:29.689Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "PLAŠKI",
@@ -12949,5 +12904,41 @@
     "event_time": "2026-04-02T10:45:00",
     "seen_at": "2026-04-02T08:47:03.940Z",
     "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45597",
+    "event_time": "2026-04-02T10:46:00",
+    "seen_at": "2026-04-02T08:47:37.615Z",
+    "raw": "Br. Vlaka 45597 odlazak      02.04.26. 10:46, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45597",
+    "event_time": "2026-04-02T10:46:00",
+    "seen_at": "2026-04-02T08:47:37.615Z",
+    "raw": "Br. Vlaka 45597 odlazak      02.04.26. 10:46, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82253",
+    "event_time": "2026-04-02T10:50:00",
+    "seen_at": "2026-04-02T08:51:08.058Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 10:50, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82253",
+    "event_time": "2026-04-02T10:50:00",
+    "seen_at": "2026-04-02T08:51:08.058Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 10:50, kolodvor JOSIPDOL"
   }
 ]
