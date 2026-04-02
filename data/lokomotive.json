@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "89400",
-    "event_time": "2026-03-30T11:50:00",
-    "seen_at": "2026-03-30T09:50:23.120Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 11:50, kolodvor NOVSKA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-03-30T11:49:00",
-    "seen_at": "2026-03-30T09:50:47.322Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "ANDRIJEVCI",
@@ -13003,5 +12985,68 @@
     "event_time": "2026-04-02T11:40:00",
     "seen_at": "2026-04-02T09:43:44.281Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-02T11:46:00",
+    "seen_at": "2026-04-02T09:46:42.375Z",
+    "raw": "Br. Vlaka 45104 odlazak      02.04.26. 11:46, kolodvor SPAČVA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:47:00",
+    "seen_at": "2026-04-02T09:47:52.120Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:47, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82253",
+    "event_time": "2026-04-02T11:47:00",
+    "seen_at": "2026-04-02T09:47:52.121Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:47, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:44:00",
+    "seen_at": "2026-04-02T09:48:38.442Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:44, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "89690",
+    "event_time": "2026-04-02T11:50:00",
+    "seen_at": "2026-04-02T09:50:35.046Z",
+    "raw": "Br. Vlaka 89690 formiran     02.04.26. 11:50, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "89690",
+    "event_time": "2026-04-02T11:50:00",
+    "seen_at": "2026-04-02T09:50:58.653Z",
+    "raw": "Br. Vlaka 89690 formiran     02.04.26. 11:50, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "76600",
+    "event_time": "2026-04-02T11:50:00",
+    "seen_at": "2026-04-02T09:51:21.942Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:50, kolodvor GARČIN"
   }
 ]
