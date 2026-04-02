@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81981",
-    "event_time": "2026-03-30T13:18:00",
-    "seen_at": "2026-03-30T11:20:35.132Z",
-    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 13:18, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81981",
-    "event_time": "2026-03-30T13:18:00",
-    "seen_at": "2026-03-30T11:20:35.132Z",
-    "raw": "Br. Vlaka 81981 odlazak      30.03.26. 13:18, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82326",
-    "event_time": "2026-03-30T13:22:00",
-    "seen_at": "2026-03-30T11:22:09.314Z",
-    "raw": "Br. Vlaka 82326 odlazak      30.03.26. 13:22, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "DARDA",
-    "train_number": "45941",
-    "event_time": "2026-03-30T13:20:00",
-    "seen_at": "2026-03-30T11:22:56.300Z",
-    "raw": "Br. Vlaka 45941 dolazak      30.03.26. 13:20, kolodvor DARDA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -13390,5 +13354,41 @@
     "event_time": "2026-04-02T13:18:00",
     "seen_at": "2026-04-02T11:20:18.604Z",
     "raw": "Br. Vlaka 81278 odlazak      02.04.26. 13:18, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "RIJEKA",
+    "train_number": "77263",
+    "event_time": "2026-04-02T13:20:00",
+    "seen_at": "2026-04-02T11:20:53.711Z",
+    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 13:20, kolodvor RIJEKA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "77263",
+    "event_time": "2026-04-02T13:24:00",
+    "seen_at": "2026-04-02T11:27:33.327Z",
+    "raw": "Br. Vlaka 77263 dolazak      02.04.26. 13:24, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89751",
+    "event_time": "2026-04-02T13:23:00",
+    "seen_at": "2026-04-02T11:27:56.819Z",
+    "raw": "Br. Vlaka 89751 dolazak      02.04.26. 13:23, kolodvor 72302"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89751",
+    "event_time": "2026-04-02T13:23:00",
+    "seen_at": "2026-04-02T11:28:20.134Z",
+    "raw": "Br. Vlaka 89751 odlazak      02.04.26. 13:23, kolodvor 72302"
   }
 ]
