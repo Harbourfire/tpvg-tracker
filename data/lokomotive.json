@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "81277",
-    "event_time": "2026-03-30T04:15:00",
-    "seen_at": "2026-03-30T02:15:40.967Z",
-    "raw": "Br. Vlaka 81277 odlazak      30.03.26. 04:15, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -12706,5 +12697,23 @@
     "event_time": "2026-04-02T03:55:00",
     "seen_at": "2026-04-02T01:56:22.992Z",
     "raw": "Br. Vlaka 47563 dolazak      02.04.26. 03:55, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47563",
+    "event_time": "2026-04-02T04:10:00",
+    "seen_at": "2026-04-02T02:13:13.671Z",
+    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 04:10, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47563",
+    "event_time": "2026-04-02T04:16:00",
+    "seen_at": "2026-04-02T02:17:04.626Z",
+    "raw": "Br. Vlaka 47563 dolazak      02.04.26. 04:16, kolodvor ZAGREB ZAP. KOL."
   }
 ]
