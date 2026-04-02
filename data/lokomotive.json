@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-30T22:20:00",
-    "seen_at": "2026-03-30T20:36:06.554Z",
-    "raw": "Br. Vlaka 63305 dolazak      30.03.26. 22:20, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-30T22:20:00",
-    "seen_at": "2026-03-30T20:36:06.554Z",
-    "raw": "Br. Vlaka 63305 dolazak      30.03.26. 22:20, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-30T22:20:00",
-    "seen_at": "2026-03-30T20:43:03.249Z",
-    "raw": "Br. Vlaka 63305 promjena sas 30.03.26. 22:20, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-30T22:20:00",
-    "seen_at": "2026-03-30T20:43:03.249Z",
-    "raw": "Br. Vlaka 63305 promjena sas 30.03.26. 22:20, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
@@ -13597,5 +13561,14 @@
     "event_time": "2026-04-02T22:32:00",
     "seen_at": "2026-04-02T20:32:49.916Z",
     "raw": "Br. Vlaka 44996 odlazak      02.04.26. 22:32, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "47593",
+    "event_time": "2026-04-02T22:38:00",
+    "seen_at": "2026-04-02T20:39:36.501Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 22:38, kolodvor JANKOVCI"
   }
 ]
