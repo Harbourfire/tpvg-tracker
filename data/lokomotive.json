@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-30T14:00:00",
-    "seen_at": "2026-03-30T12:00:46.349Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -13435,5 +13426,32 @@
     "event_time": "2026-04-02T13:56:00",
     "seen_at": "2026-04-02T11:56:26.233Z",
     "raw": "Br. Vlaka 77263 dolazak      02.04.26. 13:56, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "POPOVAČA",
+    "train_number": "76600",
+    "event_time": "2026-04-02T14:00:00",
+    "seen_at": "2026-04-02T12:00:33.197Z",
+    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 14:00, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47593",
+    "event_time": "2026-04-02T14:06:00",
+    "seen_at": "2026-04-02T12:06:27.363Z",
+    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 14:06, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Dolazak",
+    "station": "LUDINA",
+    "train_number": "76600",
+    "event_time": "2026-04-02T14:07:00",
+    "seen_at": "2026-04-02T12:07:38.606Z",
+    "raw": "Br. Vlaka 76600 dolazak      02.04.26. 14:07, kolodvor LUDINA"
   }
 ]
