@@ -2,15 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89870",
-    "event_time": "2026-03-30T03:06:00",
-    "seen_at": "2026-03-30T01:07:14.322Z",
-    "raw": "Br. Vlaka 89870 odlazak      30.03.26. 03:06, kolodvor 73164"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "KOPRIVNICA",
     "train_number": "89870",
     "event_time": "2026-03-30T03:19:00",
@@ -12688,5 +12679,23 @@
     "event_time": "2026-04-02T02:49:00",
     "seen_at": "2026-04-02T00:50:01.242Z",
     "raw": "Br. Vlaka 63305 odlazak      02.04.26. 02:49, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-02T03:05:00",
+    "seen_at": "2026-04-02T01:06:11.329Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 03:05, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-02T03:05:00",
+    "seen_at": "2026-04-02T01:06:11.330Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 03:05, kolodvor PERUŠIĆ"
   }
 ]
