@@ -2,24 +2,6 @@
   {
     "uic": "987893113470",
     "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "74301",
-    "event_time": "2026-03-30T08:44:00",
-    "seen_at": "2026-03-30T06:45:09.475Z",
-    "raw": "Br. Vlaka 74301 odlazak      30.03.26. 08:44, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "76600",
-    "event_time": "2026-03-30T08:48:00",
-    "seen_at": "2026-03-30T06:49:36.593Z",
-    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 08:48, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
     "station": "POŽEGA",
     "train_number": "74301",
     "event_time": "2026-03-30T08:52:00",
@@ -12805,5 +12787,23 @@
     "event_time": "2026-03-24T07:36:00",
     "seen_at": "2026-04-02T06:40:57.027Z",
     "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:37:00",
+    "seen_at": "2026-04-02T06:47:47.013Z",
+    "raw": "Br. Vlaka 75023 dolazak      02.04.26. 08:37, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "75023",
+    "event_time": "2026-04-02T08:46:00",
+    "seen_at": "2026-04-02T06:48:11.043Z",
+    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:46, kolodvor ZAGREB RESNIK"
   }
 ]
