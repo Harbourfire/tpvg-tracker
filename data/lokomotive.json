@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47945",
-    "event_time": "2026-03-30T08:13:00",
-    "seen_at": "2026-03-30T15:55:41.045Z",
-    "raw": "Br. Vlaka 47945 formiran     30.03.26. 08:13, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47945",
-    "event_time": "2026-03-30T08:13:00",
-    "seen_at": "2026-03-30T15:56:04.278Z",
-    "raw": "Br. Vlaka 47945 formiran     30.03.26. 08:13, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-03-30T17:56:00",
-    "seen_at": "2026-03-30T15:57:37.226Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:56, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-03-30T17:56:00",
-    "seen_at": "2026-03-30T15:57:37.226Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.03.26. 17:56, kolodvor PLAŠKI"
-  },
-  {
     "uic": "997894245619",
     "type": "Rasformiran",
     "station": "PERKOVIĆ",
@@ -13606,5 +13570,68 @@
     "event_time": "2026-04-02T17:47:00",
     "seen_at": "2026-04-02T15:47:54.873Z",
     "raw": "Br. Vlaka 89706 formiran     02.04.26. 17:47, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "48597",
+    "event_time": "2026-04-02T17:49:00",
+    "seen_at": "2026-04-02T16:00:02.547Z",
+    "raw": "Br. Vlaka 48597 odlazak      02.04.26. 17:49, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "48597",
+    "event_time": "2026-04-02T17:49:00",
+    "seen_at": "2026-04-02T16:00:02.547Z",
+    "raw": "Br. Vlaka 48597 odlazak      02.04.26. 17:49, kolodvor ROČ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89706",
+    "event_time": "2026-04-02T18:02:00",
+    "seen_at": "2026-04-02T16:02:23.766Z",
+    "raw": "Br. Vlaka 89706 odlazak      02.04.26. 18:02, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "48597",
+    "event_time": "2026-04-02T18:00:00",
+    "seen_at": "2026-04-02T16:05:10.022Z",
+    "raw": "Br. Vlaka 48597 dolazak      02.04.26. 18:00, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "48597",
+    "event_time": "2026-04-02T18:00:00",
+    "seen_at": "2026-04-02T16:05:10.022Z",
+    "raw": "Br. Vlaka 48597 dolazak      02.04.26. 18:00, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-02T18:00:00",
+    "seen_at": "2026-04-02T16:05:33.738Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-02T18:00:00",
+    "seen_at": "2026-04-02T16:05:33.738Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
   }
 ]
