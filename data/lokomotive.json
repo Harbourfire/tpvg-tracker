@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76600",
-    "event_time": "2026-03-30T09:49:00",
-    "seen_at": "2026-03-30T07:50:04.979Z",
-    "raw": "Br. Vlaka 76600 odlazak      30.03.26. 09:49, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89540",
-    "event_time": "2026-03-30T09:19:00",
-    "seen_at": "2026-03-30T07:50:52.406Z",
-    "raw": "Br. Vlaka 89540 dolazak      30.03.26. 09:19, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89400",
-    "event_time": "2026-03-30T09:54:00",
-    "seen_at": "2026-03-30T07:55:09.840Z",
-    "raw": "Br. Vlaka 89400 odlazak      30.03.26. 09:54, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "82551",
-    "event_time": "2026-03-30T09:55:00",
-    "seen_at": "2026-03-30T07:55:56.770Z",
-    "raw": "Br. Vlaka 82551 dolazak      30.03.26. 09:55, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "74300",
-    "event_time": "2026-03-30T09:58:00",
-    "seen_at": "2026-03-30T07:58:59.230Z",
-    "raw": "Br. Vlaka 74300 odlazak      30.03.26. 09:58, kolodvor VELIKA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -12859,5 +12814,86 @@
     "event_time": "2026-04-02T09:29:00",
     "seen_at": "2026-04-02T07:48:15.241Z",
     "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-02T09:39:00",
+    "seen_at": "2026-04-02T07:50:29.914Z",
+    "raw": "Br. Vlaka 45597 odlazak      02.04.26. 09:39, kolodvor 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-02T09:39:00",
+    "seen_at": "2026-04-02T07:50:29.915Z",
+    "raw": "Br. Vlaka 45597 odlazak      02.04.26. 09:39, kolodvor 77424"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44994",
+    "event_time": "2026-04-02T09:48:00",
+    "seen_at": "2026-04-02T07:50:53.687Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 09:48, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "45597",
+    "event_time": "2026-04-02T09:46:00",
+    "seen_at": "2026-04-02T07:51:40.395Z",
+    "raw": "Br. Vlaka 45597 dolazak      02.04.26. 09:46, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "45597",
+    "event_time": "2026-04-02T09:46:00",
+    "seen_at": "2026-04-02T07:51:40.395Z",
+    "raw": "Br. Vlaka 45597 dolazak      02.04.26. 09:46, kolodvor BUZET"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Dolazak",
+    "station": "PREČEC stajalište",
+    "train_number": "75023",
+    "event_time": "2026-04-02T09:52:00",
+    "seen_at": "2026-04-02T07:52:27.529Z",
+    "raw": "Br. Vlaka 75023 dolazak      02.04.26. 09:52, kolodvor 92515"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Formiran",
+    "station": "SLATINA",
+    "train_number": "77027",
+    "event_time": "2026-04-02T09:40:00",
+    "seen_at": "2026-04-02T07:52:51.031Z",
+    "raw": "Br. Vlaka 77027 formiran     02.04.26. 09:40, kolodvor SLATINA"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "77027",
+    "event_time": "2026-04-02T09:50:00",
+    "seen_at": "2026-04-02T07:53:38.038Z",
+    "raw": "Br. Vlaka 77027 odlazak      02.04.26. 09:50, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44994",
+    "event_time": "2026-04-02T09:57:00",
+    "seen_at": "2026-04-02T07:58:42.021Z",
+    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 09:57, kolodvor MALA SUBOTICA"
   }
 ]
