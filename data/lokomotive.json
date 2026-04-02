@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89891",
-    "event_time": "2026-03-30T19:10:00",
-    "seen_at": "2026-03-30T17:10:29.623Z",
-    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 19:10, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89891",
-    "event_time": "2026-03-30T19:10:00",
-    "seen_at": "2026-03-30T17:10:29.623Z",
-    "raw": "Br. Vlaka 89891 odlazak      30.03.26. 19:10, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "SESVETE",
     "train_number": "89891",
@@ -13696,5 +13678,14 @@
     "event_time": "2026-04-02T18:32:00",
     "seen_at": "2026-04-02T17:05:55.202Z",
     "raw": "Br. Vlaka 69005 formiran     02.04.26. 18:32, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "47593",
+    "event_time": "2026-04-02T19:10:00",
+    "seen_at": "2026-04-02T17:14:41.548Z",
+    "raw": "Br. Vlaka 47593 dolazak      02.04.26. 19:10, kolodvor HRVATSKA DUBICA"
   }
 ]
