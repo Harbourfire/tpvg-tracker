@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81981",
-    "event_time": "2026-03-30T12:55:00",
-    "seen_at": "2026-03-30T10:57:26.369Z",
-    "raw": "Br. Vlaka 81981 dolazak      30.03.26. 12:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81981",
-    "event_time": "2026-03-30T12:55:00",
-    "seen_at": "2026-03-30T10:57:26.369Z",
-    "raw": "Br. Vlaka 81981 dolazak      30.03.26. 12:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45941",
-    "event_time": "2026-03-30T12:56:00",
-    "seen_at": "2026-03-30T11:00:42.320Z",
-    "raw": "Br. Vlaka 45941 odlazak      30.03.26. 12:56, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -13291,5 +13264,50 @@
     "event_time": "2026-04-02T12:49:00",
     "seen_at": "2026-04-02T10:49:22.491Z",
     "raw": "Trenutna pozicija je u kolodvoru 73901 NAŠICE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "BUZET granica",
+    "train_number": null,
+    "event_time": "2026-04-02T12:51:00",
+    "seen_at": "2026-04-02T10:52:18.585Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "BUZET granica",
+    "train_number": null,
+    "event_time": "2026-04-02T12:51:00",
+    "seen_at": "2026-04-02T10:52:18.585Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82253",
+    "event_time": "2026-04-02T12:55:00",
+    "seen_at": "2026-04-02T10:56:10.990Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 12:55, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82253",
+    "event_time": "2026-04-02T12:55:00",
+    "seen_at": "2026-04-02T10:56:10.990Z",
+    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 12:55, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "81278",
+    "event_time": "2026-04-02T12:58:00",
+    "seen_at": "2026-04-02T11:01:13.982Z",
+    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 12:58, kolodvor POŽEGA"
   }
 ]
