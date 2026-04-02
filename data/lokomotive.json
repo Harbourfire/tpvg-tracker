@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "KARLOVAC",
-    "train_number": "89021",
-    "event_time": "2026-03-30T16:02:00",
-    "seen_at": "2026-03-30T14:03:52.004Z",
-    "raw": "Br. Vlaka 89021 formiran     30.03.26. 16:02, kolodvor KARLOVAC"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "VELIKA GORICA",
@@ -13615,5 +13606,23 @@
     "event_time": "2026-04-02T15:48:00",
     "seen_at": "2026-04-02T13:54:08.255Z",
     "raw": "Br. Vlaka 45985 odlazak      02.04.26. 15:48, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T15:57:00",
+    "seen_at": "2026-04-02T13:58:16.422Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "DELNICE",
+    "train_number": "77265",
+    "event_time": "2026-04-02T16:01:00",
+    "seen_at": "2026-04-02T14:02:11.332Z",
+    "raw": "Br. Vlaka 77265 odlazak      02.04.26. 16:01, kolodvor DELNICE"
   }
 ]
