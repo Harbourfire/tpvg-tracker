@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-03-30T16:21:00",
-    "seen_at": "2026-03-30T14:26:50.392Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "69661",
-    "event_time": "2026-03-30T15:43:00",
-    "seen_at": "2026-03-30T14:27:36.385Z",
-    "raw": "Br. Vlaka 69661 formiran     30.03.26. 15:43, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47990",
-    "event_time": "2026-03-30T16:25:00",
-    "seen_at": "2026-03-30T14:27:59.291Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 16:25, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47990",
-    "event_time": "2026-03-30T16:25:00",
-    "seen_at": "2026-03-30T14:27:59.291Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.03.26. 16:25, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -13606,5 +13570,32 @@
     "event_time": "2026-04-02T16:16:00",
     "seen_at": "2026-04-02T14:17:30.175Z",
     "raw": "Br. Vlaka 63310 odlazak      02.04.26. 16:16, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "BROD MORAVICE",
+    "train_number": "77265",
+    "event_time": "2026-04-02T16:24:00",
+    "seen_at": "2026-04-02T14:25:58.117Z",
+    "raw": "Br. Vlaka 77265 dolazak      02.04.26. 16:24, kolodvor BROD MORAVICE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-30T16:21:00",
+    "seen_at": "2026-04-02T14:27:31.286Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "77265",
+    "event_time": "2026-04-02T16:28:00",
+    "seen_at": "2026-04-02T14:30:14.695Z",
+    "raw": "Br. Vlaka 77265 odlazak      02.04.26. 16:28, kolodvor BROD MORAVICE"
   }
 ]
