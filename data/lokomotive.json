@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987893113462",
-    "type": "Dolazak",
-    "station": "ĐAKOVO",
-    "train_number": "76830",
-    "event_time": "2026-03-30T07:49:00",
-    "seen_at": "2026-03-30T05:51:30.260Z",
-    "raw": "Br. Vlaka 76830 dolazak      30.03.26. 07:49, kolodvor ĐAKOVO"
-  },
-  {
     "uic": "987893113470",
     "type": "Dolazak",
     "station": "PLETERNICA",
@@ -12715,5 +12706,59 @@
     "event_time": "2026-04-02T07:33:00",
     "seen_at": "2026-04-02T05:34:35.272Z",
     "raw": "Br. Vlaka 82270 odlazak      02.04.26. 07:33, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-04-02T07:39:00",
+    "seen_at": "2026-04-02T05:45:33.395Z",
+    "raw": "Br. Vlaka 45105 odlazak      02.04.26. 07:39, kolodvor OTOK"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "75023",
+    "event_time": "2026-04-02T07:45:00",
+    "seen_at": "2026-04-02T05:45:57.131Z",
+    "raw": "Br. Vlaka 75023 formiran     02.04.26. 07:45, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "82270",
+    "event_time": "2026-04-02T07:44:00",
+    "seen_at": "2026-04-02T05:46:20.544Z",
+    "raw": "Br. Vlaka 82270 dolazak      02.04.26. 07:44, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-02T07:44:00",
+    "seen_at": "2026-04-02T05:46:43.899Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "77022",
+    "event_time": "2026-04-02T07:45:00",
+    "seen_at": "2026-04-02T05:47:07.148Z",
+    "raw": "Br. Vlaka 77022 odlazak      02.04.26. 07:45, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89195",
+    "event_time": "2026-04-02T06:07:00",
+    "seen_at": "2026-04-02T05:53:22.338Z",
+    "raw": "Br. Vlaka 89195 formiran     02.04.26. 06:07, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
