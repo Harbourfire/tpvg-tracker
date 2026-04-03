@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "PRIMORSKI DOLAC",
-    "train_number": "78000",
-    "event_time": "2026-04-01T01:41:00",
-    "seen_at": "2026-03-31T23:42:28.355Z",
-    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 01:41, kolodvor PRIMORSKI DOLAC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "81211",
-    "event_time": "2026-04-01T01:43:00",
-    "seen_at": "2026-03-31T23:44:26.081Z",
-    "raw": "Br. Vlaka 81211 odlazak      01.04.26. 01:43, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "89711",
-    "event_time": "2026-04-01T01:43:00",
-    "seen_at": "2026-03-31T23:45:12.752Z",
-    "raw": "Br. Vlaka 89711 odlazak      01.04.26. 01:43, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -12715,5 +12688,14 @@
     "event_time": "2026-04-04T01:34:00",
     "seen_at": "2026-04-03T23:34:58.277Z",
     "raw": "Br. Vlaka 89420 odlazak      04.04.26. 01:34, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89420",
+    "event_time": "2026-04-04T01:44:00",
+    "seen_at": "2026-04-03T23:44:50.608Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 01:44, kolodvor IVANKOVO"
   }
 ]
