@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89891",
-    "event_time": "2026-03-31T19:24:00",
-    "seen_at": "2026-03-31T17:26:41.815Z",
-    "raw": "Br. Vlaka 89891 odlazak      31.03.26. 19:24, kolodvor 73164"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89891",
-    "event_time": "2026-03-31T19:24:00",
-    "seen_at": "2026-03-31T17:26:41.815Z",
-    "raw": "Br. Vlaka 89891 odlazak      31.03.26. 19:24, kolodvor 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "VIROVITICA",
-    "train_number": "48587",
-    "event_time": "2026-03-31T19:26:00",
-    "seen_at": "2026-03-31T17:28:14.382Z",
-    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 19:26, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T19:30:00",
-    "seen_at": "2026-03-31T17:31:31.258Z",
-    "raw": "Br. Vlaka 63305 formiran     31.03.26. 19:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T19:30:00",
-    "seen_at": "2026-03-31T17:31:31.258Z",
-    "raw": "Br. Vlaka 63305 formiran     31.03.26. 19:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "KOPRIVNICA GR    A",
     "train_number": "89891",
@@ -13003,5 +12958,32 @@
     "event_time": "2026-04-03T19:21:00",
     "seen_at": "2026-04-03T17:22:33.761Z",
     "raw": "Br. Vlaka 89402 odlazak      03.04.26. 19:21, kolodvor PČELIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "SUHOPOLJE",
+    "train_number": "89402",
+    "event_time": "2026-04-03T19:25:00",
+    "seen_at": "2026-04-03T17:30:36.136Z",
+    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 19:25, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "46657",
+    "event_time": "2026-04-03T19:29:00",
+    "seen_at": "2026-04-03T17:31:22.737Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 19:29, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "46657",
+    "event_time": "2026-04-03T19:29:00",
+    "seen_at": "2026-04-03T17:31:22.737Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 19:29, kolodvor DRAGANIĆI"
   }
 ]
