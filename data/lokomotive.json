@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48587",
-    "event_time": "2026-03-31T12:16:00",
-    "seen_at": "2026-03-31T10:16:56.900Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 12:16, kolodvor GRADEC"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Formiran",
-    "station": "BUZET",
-    "train_number": "45596",
-    "event_time": "2026-03-31T12:16:00",
-    "seen_at": "2026-03-31T10:18:06.794Z",
-    "raw": "Br. Vlaka 45596 formiran     31.03.26. 12:16, kolodvor BUZET"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -13192,5 +13174,77 @@
     "event_time": "2026-04-03T12:11:00",
     "seen_at": "2026-04-03T10:11:27.456Z",
     "raw": "Br. Vlaka 83829 odlazak      03.04.26. 12:11, kolodvor LEKENIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:12:00",
+    "seen_at": "2026-04-03T10:14:45.870Z",
+    "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:12, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:12:00",
+    "seen_at": "2026-04-03T10:14:45.870Z",
+    "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:12, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-03T12:05:00",
+    "seen_at": "2026-04-03T10:17:06.572Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81295",
+    "event_time": "2026-04-03T05:08:00",
+    "seen_at": "2026-04-03T10:18:16.467Z",
+    "raw": "Br. Vlaka 81295 promjena sas 03.04.26. 05:08, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "GREDA",
+    "train_number": "83829",
+    "event_time": "2026-04-03T12:18:00",
+    "seen_at": "2026-04-03T10:19:26.650Z",
+    "raw": "Br. Vlaka 83829 dolazak      03.04.26. 12:18, kolodvor GREDA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-03T12:18:00",
+    "seen_at": "2026-04-03T10:19:49.800Z",
+    "raw": "Br. Vlaka 45104 odlazak      03.04.26. 12:18, kolodvor SPAČVA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:20:00",
+    "seen_at": "2026-04-03T10:21:23.476Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 12:20, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:20:00",
+    "seen_at": "2026-04-03T10:21:23.476Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 12:20, kolodvor HRVATSKI LESKOVAC"
   }
 ]
