@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "PREČEC stajalište",
-    "train_number": "89163",
-    "event_time": "2026-03-31T04:36:00",
-    "seen_at": "2026-03-31T02:38:19.774Z",
-    "raw": "Br. Vlaka 89163 dolazak      31.03.26. 04:36, kolodvor 92515"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "PREČEC stajalište",
-    "train_number": "89163",
-    "event_time": "2026-03-31T04:39:00",
-    "seen_at": "2026-03-31T02:39:53.949Z",
-    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 04:39, kolodvor 92515"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -13183,5 +13165,14 @@
     "event_time": "2026-04-03T04:30:00",
     "seen_at": "2026-04-03T02:30:23.474Z",
     "raw": "Br. Vlaka 89402 dolazak      03.04.26. 04:30, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89405",
+    "event_time": "2026-04-03T04:05:00",
+    "seen_at": "2026-04-03T02:33:20.679Z",
+    "raw": "Br. Vlaka 89405 formiran     03.04.26. 04:05, kolodvor OSIJEK"
   }
 ]
