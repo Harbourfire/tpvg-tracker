@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "DEANOVEC",
-    "train_number": "89163",
-    "event_time": "2026-03-31T04:55:00",
-    "seen_at": "2026-03-31T02:57:32.839Z",
-    "raw": "Br. Vlaka 89163 dolazak      31.03.26. 04:55, kolodvor DEANOVEC"
-  },
-  {
-    "uic": "927820440240",
     "type": "Odlazak",
     "station": "DEANOVEC",
     "train_number": "89163",
@@ -13102,5 +13093,32 @@
     "event_time": "2026-04-03T04:05:00",
     "seen_at": "2026-04-03T02:33:20.679Z",
     "raw": "Br. Vlaka 89405 formiran     03.04.26. 04:05, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "44694",
+    "event_time": "2026-04-03T04:50:00",
+    "seen_at": "2026-04-03T02:51:28.342Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 04:50, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Dolazak",
+    "station": "JOSIPOVAC",
+    "train_number": "77033",
+    "event_time": "2026-04-03T04:56:00",
+    "seen_at": "2026-04-03T02:56:59.112Z",
+    "raw": "Br. Vlaka 77033 dolazak      03.04.26. 04:56, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "44694",
+    "event_time": "2026-04-03T04:58:00",
+    "seen_at": "2026-04-03T02:59:21.619Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 04:58, kolodvor KUKAČA"
   }
 ]
