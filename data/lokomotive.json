@@ -1,59 +1,5 @@
 [
   {
-    "uic": "997894215729",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "70064",
-    "event_time": "2026-03-31T06:25:00",
-    "seen_at": "2026-03-31T04:26:33.214Z",
-    "raw": "Br. Vlaka 70064 odlazak      31.03.26. 06:25, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-31T06:27:00",
-    "seen_at": "2026-03-31T04:30:24.332Z",
-    "raw": "Br. Vlaka 69005 dolazak      31.03.26. 06:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-03-31T06:27:00",
-    "seen_at": "2026-03-31T04:30:24.332Z",
-    "raw": "Br. Vlaka 69005 dolazak      31.03.26. 06:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-31T06:27:00",
-    "seen_at": "2026-03-31T04:30:47.933Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-03-31T06:27:00",
-    "seen_at": "2026-03-31T04:30:47.934Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "997894215729",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "70064",
-    "event_time": "2026-03-31T06:32:00",
-    "seen_at": "2026-03-31T04:32:58.013Z",
-    "raw": "Br. Vlaka 70064 odlazak      31.03.26. 06:32, kolodvor DUGA RESA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -13003,5 +12949,14 @@
     "event_time": "2026-04-03T06:18:00",
     "seen_at": "2026-04-03T04:19:23.103Z",
     "raw": "Br. Vlaka 44694 dolazak      03.04.26. 06:18, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "44694",
+    "event_time": "2026-04-03T06:27:00",
+    "seen_at": "2026-04-03T04:29:45.155Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 06:27, kolodvor ZVEČAJ"
   }
 ]
