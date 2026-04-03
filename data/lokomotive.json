@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82510",
-    "event_time": "2026-03-31T14:07:00",
-    "seen_at": "2026-03-31T12:08:06.599Z",
-    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 14:07, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "BJELOVAR",
-    "train_number": "48587",
-    "event_time": "2026-03-31T14:07:00",
-    "seen_at": "2026-03-31T12:10:02.576Z",
-    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 14:07, kolodvor BJELOVAR"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "GRADEC",
-    "train_number": "81233",
-    "event_time": "2026-03-31T14:13:00",
-    "seen_at": "2026-03-31T12:14:06.554Z",
-    "raw": "Br. Vlaka 81233 dolazak      31.03.26. 14:13, kolodvor GRADEC"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OTOK",
@@ -13129,5 +13102,41 @@
     "event_time": "2026-04-03T14:05:00",
     "seen_at": "2026-04-03T12:05:23.903Z",
     "raw": "Br. Vlaka 45596 formiran     03.04.26. 14:05, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81295",
+    "event_time": "2026-04-03T14:10:00",
+    "seen_at": "2026-04-03T12:10:44.175Z",
+    "raw": "Br. Vlaka 81295 odlazak      03.04.26. 14:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-03T14:09:00",
+    "seen_at": "2026-04-03T12:11:07.664Z",
+    "raw": "Br. Vlaka 63310 dolazak      03.04.26. 14:09, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-03T14:09:00",
+    "seen_at": "2026-04-03T12:12:41.125Z",
+    "raw": "Br. Vlaka 63310 promjena sas 03.04.26. 14:09, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "89402",
+    "event_time": "2026-04-03T14:13:00",
+    "seen_at": "2026-04-03T12:14:14.921Z",
+    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 14:13, kolodvor BIZOVAC"
   }
 ]
