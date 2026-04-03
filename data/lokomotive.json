@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89021",
-    "event_time": "2026-03-31T08:45:00",
-    "seen_at": "2026-03-31T06:46:06.492Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 08:45, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82326",
-    "event_time": "2026-03-31T08:48:00",
-    "seen_at": "2026-03-31T06:49:16.371Z",
-    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 08:48, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -13201,5 +13183,41 @@
     "event_time": "2026-04-03T08:37:00",
     "seen_at": "2026-04-03T06:39:19.433Z",
     "raw": "Br. Vlaka 45105 dolazak      03.04.26. 08:37, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44694",
+    "event_time": "2026-04-03T08:41:00",
+    "seen_at": "2026-04-03T06:43:10.305Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 08:41, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": null,
+    "event_time": "2026-04-03T08:43:00",
+    "seen_at": "2026-04-03T06:45:56.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71204 VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44694",
+    "event_time": "2026-04-03T08:46:00",
+    "seen_at": "2026-04-03T06:46:20.692Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 08:46, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89503",
+    "event_time": "2026-04-03T08:51:00",
+    "seen_at": "2026-04-03T06:51:29.859Z",
+    "raw": "Br. Vlaka 89503 formiran     03.04.26. 08:51, kolodvor OSIJEK"
   }
 ]
