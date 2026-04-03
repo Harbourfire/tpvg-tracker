@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Formiran",
-    "station": "75604",
-    "train_number": "45543",
-    "event_time": "2026-03-31T15:00:00",
-    "seen_at": "2026-03-31T13:00:40.770Z",
-    "raw": "Br. Vlaka 45543 formiran     31.03.26. 15:00, kolodvor 75604"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:04:00",
-    "seen_at": "2026-03-31T13:05:22.642Z",
-    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:04, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:04:00",
-    "seen_at": "2026-03-31T13:05:22.642Z",
-    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:04, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "987895225611",
     "type": "Dolazak",
     "station": "HRVATSKA DUBICA",
@@ -13111,5 +13084,50 @@
     "event_time": "2026-04-03T12:46:00",
     "seen_at": "2026-04-03T12:56:01.067Z",
     "raw": "Br. Vlaka 63312 formiran     03.04.26. 12:46, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-03T14:53:00",
+    "seen_at": "2026-04-03T12:56:37.766Z",
+    "raw": "Br. Vlaka 63312 odlazak      03.04.26. 14:53, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81295",
+    "event_time": "2026-04-03T15:02:00",
+    "seen_at": "2026-04-03T13:03:09.405Z",
+    "raw": "Br. Vlaka 81295 dolazak      03.04.26. 15:02, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63312",
+    "event_time": "2026-04-03T15:03:00",
+    "seen_at": "2026-04-03T13:03:09.406Z",
+    "raw": "Br. Vlaka 63312 dolazak      03.04.26. 15:03, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "89402",
+    "event_time": "2026-04-03T15:02:00",
+    "seen_at": "2026-04-03T13:03:33.513Z",
+    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 15:02, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-03T15:03:00",
+    "seen_at": "2026-04-03T13:03:33.514Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
   }
 ]
