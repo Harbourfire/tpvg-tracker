@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BJELOVAR",
-    "train_number": "89711",
-    "event_time": "2026-04-01T00:42:00",
-    "seen_at": "2026-03-31T22:43:11.931Z",
-    "raw": "Br. Vlaka 89711 odlazak      01.04.26. 00:42, kolodvor BJELOVAR"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-01T00:35:00",
-    "seen_at": "2026-03-31T22:50:49.619Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.04.26. 00:35, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-01T00:35:00",
-    "seen_at": "2026-03-31T22:50:49.619Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.04.26. 00:35, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-01T00:46:00",
-    "seen_at": "2026-03-31T22:51:12.801Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-01T00:46:00",
-    "seen_at": "2026-03-31T22:51:12.801Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820622029",
     "type": "Promjena sastava",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -12769,5 +12724,59 @@
     "event_time": "2026-04-04T00:37:00",
     "seen_at": "2026-04-03T22:38:14.000Z",
     "raw": "Br. Vlaka 47563 odlazak      04.04.26. 00:37, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47563",
+    "event_time": "2026-04-04T00:42:00",
+    "seen_at": "2026-04-03T22:42:43.976Z",
+    "raw": "Br. Vlaka 47563 dolazak      04.04.26. 00:42, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47998",
+    "event_time": "2026-04-04T00:43:00",
+    "seen_at": "2026-04-03T22:43:31.095Z",
+    "raw": "Br. Vlaka 47998 dolazak      04.04.26. 00:43, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-04T00:42:00",
+    "seen_at": "2026-04-03T22:43:31.096Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:42, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-04T00:42:00",
+    "seen_at": "2026-04-03T22:43:31.096Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:42, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47998",
+    "event_time": "2026-04-04T00:45:00",
+    "seen_at": "2026-04-03T22:49:24.496Z",
+    "raw": "Br. Vlaka 47998 odlazak      04.04.26. 00:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "61004",
+    "event_time": "2026-04-04T00:50:00",
+    "seen_at": "2026-04-03T22:51:22.137Z",
+    "raw": "Br. Vlaka 61004 dolazak      04.04.26. 00:50, kolodvor VINKOVCI"
   }
 ]
