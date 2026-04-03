@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "89542",
-    "event_time": "2026-03-31T12:08:00",
-    "seen_at": "2026-03-31T11:20:44.454Z",
-    "raw": "Br. Vlaka 89542 formiran     31.03.26. 12:08, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "81233",
-    "event_time": "2026-03-31T13:09:00",
-    "seen_at": "2026-03-31T11:22:40.799Z",
-    "raw": "Br. Vlaka 81233 dolazak      31.03.26. 13:09, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "81233",
-    "event_time": "2026-03-31T13:20:00",
-    "seen_at": "2026-03-31T11:23:04.094Z",
-    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 13:20, kolodvor SESVETE"
-  },
-  {
     "uic": "987891162040",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -13246,5 +13219,23 @@
     "event_time": "2026-04-03T13:08:00",
     "seen_at": "2026-04-03T11:17:08.709Z",
     "raw": "Br. Vlaka 83829 dolazak      03.04.26. 13:08, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-03T13:20:00",
+    "seen_at": "2026-04-03T11:20:48.265Z",
+    "raw": "Br. Vlaka 63310 odlazak      03.04.26. 13:20, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89286",
+    "event_time": "2026-04-03T13:25:00",
+    "seen_at": "2026-04-03T11:26:15.259Z",
+    "raw": "Br. Vlaka 89286 formiran     03.04.26. 13:25, kolodvor 72304"
   }
 ]
