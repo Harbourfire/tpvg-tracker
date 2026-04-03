@@ -2,51 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-03-31T03:32:00",
-    "seen_at": "2026-03-31T01:34:08.121Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:32, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-03-31T03:32:00",
-    "seen_at": "2026-03-31T01:34:08.122Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:32, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-31T03:05:00",
-    "seen_at": "2026-03-31T01:40:06.814Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "81233",
-    "event_time": "2026-03-30T19:35:00",
-    "seen_at": "2026-03-31T01:40:30.417Z",
-    "raw": "Br. Vlaka 81233 formiran     30.03.26. 19:35, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Promjena sastava",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48587",
-    "event_time": "2026-03-31T03:30:00",
-    "seen_at": "2026-03-31T01:40:54.134Z",
-    "raw": "Br. Vlaka 48587 promjena sas 31.03.26. 03:30, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63306",
     "event_time": "2026-03-31T03:42:00",
@@ -13291,5 +13246,14 @@
     "event_time": "2026-04-02T14:28:00",
     "seen_at": "2026-04-03T01:29:14.971Z",
     "raw": "Br. Vlaka 89402 formiran     02.04.26. 14:28, kolodvor 71020"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "77033",
+    "event_time": "2026-04-03T03:34:00",
+    "seen_at": "2026-04-03T01:40:53.163Z",
+    "raw": "Br. Vlaka 77033 dolazak      03.04.26. 03:34, kolodvor BIZOVAC"
   }
 ]
