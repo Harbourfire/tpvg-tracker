@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "48587",
-    "event_time": "2026-03-31T21:33:00",
-    "seen_at": "2026-03-31T19:34:46.640Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 21:33, kolodvor SLATINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45983",
-    "event_time": "2026-03-31T21:37:00",
-    "seen_at": "2026-03-31T19:38:15.330Z",
-    "raw": "Br. Vlaka 45983 odlazak      31.03.26. 21:37, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622029",
     "type": "Rasformiran",
     "station": "VALPOVO",
@@ -13111,5 +13093,14 @@
     "event_time": "2026-04-03T21:28:00",
     "seen_at": "2026-04-03T19:29:37.668Z",
     "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:28, kolodvor 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89258",
+    "event_time": "2026-04-03T21:35:00",
+    "seen_at": "2026-04-03T19:35:41.830Z",
+    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:35, kolodvor 72304"
   }
 ]
