@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-03-31T02:53:00",
-    "seen_at": "2026-03-31T00:54:07.222Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 02:53, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-03-31T02:53:00",
-    "seen_at": "2026-03-31T00:54:07.222Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 02:53, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820440026",
     "type": "Dolazak",
     "station": "SAVSKI MAROF",
@@ -13282,5 +13264,32 @@
     "event_time": "2026-04-03T02:37:00",
     "seen_at": "2026-04-03T00:38:47.576Z",
     "raw": "Br. Vlaka 63306 odlazak      03.04.26. 02:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-03T02:45:00",
+    "seen_at": "2026-04-03T00:46:04.969Z",
+    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 02:45, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-03T02:45:00",
+    "seen_at": "2026-04-03T00:46:04.969Z",
+    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 02:45, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "82519",
+    "event_time": "2026-04-03T02:52:00",
+    "seen_at": "2026-04-03T00:53:11.332Z",
+    "raw": "Br. Vlaka 82519 dolazak      03.04.26. 02:52, kolodvor BIZOVAC"
   }
 ]
