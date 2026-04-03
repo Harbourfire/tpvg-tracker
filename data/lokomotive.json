@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-03-25T20:47:00",
-    "seen_at": "2026-03-31T19:49:16.102Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "KRIŽEVCI",
@@ -13102,5 +13093,23 @@
     "event_time": "2026-04-03T21:46:00",
     "seen_at": "2026-04-03T19:47:55.030Z",
     "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:46, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-25T20:47:00",
+    "seen_at": "2026-04-03T19:50:04.455Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89258",
+    "event_time": "2026-04-03T21:55:00",
+    "seen_at": "2026-04-03T19:57:09.983Z",
+    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:55, kolodvor ZAGREB ZAP. KOL."
   }
 ]
