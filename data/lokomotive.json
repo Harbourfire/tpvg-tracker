@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "89711",
-    "event_time": "2026-04-01T00:21:00",
-    "seen_at": "2026-03-31T22:22:51.557Z",
-    "raw": "Br. Vlaka 89711 odlazak      01.04.26. 00:21, kolodvor SV. IVAN ŽABNO"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47945",
-    "event_time": "2026-04-01T00:25:00",
-    "seen_at": "2026-03-31T22:26:17.717Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 00:25, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "47945",
-    "event_time": "2026-04-01T00:25:00",
-    "seen_at": "2026-03-31T22:26:17.717Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 00:25, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ČAČINCI",
-    "train_number": null,
-    "event_time": "2026-03-31T16:00:00",
-    "seen_at": "2026-03-31T22:28:37.313Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "82510",
-    "event_time": "2026-04-01T00:30:00",
-    "seen_at": "2026-03-31T22:32:29.066Z",
-    "raw": "Br. Vlaka 82510 dolazak      01.04.26. 00:30, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -12859,5 +12814,41 @@
     "event_time": "2026-04-04T00:19:00",
     "seen_at": "2026-04-03T22:21:16.829Z",
     "raw": "Br. Vlaka 47998 odlazak      04.04.26. 00:19, kolodvor VIRJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-04T00:26:00",
+    "seen_at": "2026-04-03T22:27:25.017Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:26, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-04T00:26:00",
+    "seen_at": "2026-04-03T22:27:25.017Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:26, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-04-04T00:28:00",
+    "seen_at": "2026-04-03T22:29:23.458Z",
+    "raw": "Br. Vlaka 47563 odlazak      04.04.26. 00:28, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "47998",
+    "event_time": "2026-04-04T00:29:00",
+    "seen_at": "2026-04-03T22:31:45.879Z",
+    "raw": "Br. Vlaka 47998 odlazak      04.04.26. 00:29, kolodvor BREGI"
   }
 ]
