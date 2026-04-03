@@ -2,24 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48587",
-    "event_time": "2026-03-31T12:07:00",
-    "seen_at": "2026-03-31T10:09:19.651Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 12:07, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-31T12:08:00",
-    "seen_at": "2026-03-31T10:10:30.399Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "GRADEC",
     "train_number": "48587",
     "event_time": "2026-03-31T12:16:00",
@@ -13156,5 +13138,59 @@
     "event_time": "2026-04-03T11:17:00",
     "seen_at": "2026-04-03T10:01:48.461Z",
     "raw": "Br. Vlaka 45104 dolazak      03.04.26. 11:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "83829",
+    "event_time": "2026-04-03T12:03:00",
+    "seen_at": "2026-04-03T10:04:21.639Z",
+    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 12:03, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-03T12:04:00",
+    "seen_at": "2026-04-03T10:04:45.371Z",
+    "raw": "Br. Vlaka 45104 odlazak      03.04.26. 12:04, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-03T12:05:00",
+    "seen_at": "2026-04-03T10:07:07.212Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-03T12:02:00",
+    "seen_at": "2026-04-03T10:09:04.897Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-31T12:08:00",
+    "seen_at": "2026-04-03T10:11:03.833Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "83829",
+    "event_time": "2026-04-03T12:11:00",
+    "seen_at": "2026-04-03T10:11:27.456Z",
+    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 12:11, kolodvor LEKENIK"
   }
 ]
