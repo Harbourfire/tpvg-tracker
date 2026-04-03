@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-31T23:01:00",
-    "seen_at": "2026-03-31T21:18:40.643Z",
-    "raw": "Br. Vlaka 63305 promjena sas 31.03.26. 23:01, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-31T23:01:00",
-    "seen_at": "2026-03-31T21:18:40.643Z",
-    "raw": "Br. Vlaka 63305 promjena sas 31.03.26. 23:01, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89713",
-    "event_time": "2026-03-31T23:17:00",
-    "seen_at": "2026-03-31T21:22:35.729Z",
-    "raw": "Br. Vlaka 89713 odlazak      31.03.26. 23:17, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-31T23:23:00",
-    "seen_at": "2026-03-31T21:24:32.909Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 23:23, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-03-31T23:23:00",
-    "seen_at": "2026-03-31T21:24:32.909Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 23:23, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -12976,5 +12931,41 @@
     "event_time": "2026-04-03T10:13:00",
     "seen_at": "2026-04-03T20:38:25.979Z",
     "raw": "Br. Vlaka 47563 formiran     03.04.26. 10:13, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-03T23:15:00",
+    "seen_at": "2026-04-03T21:16:06.408Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-03T23:15:00",
+    "seen_at": "2026-04-03T21:16:06.408Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-03T23:20:00",
+    "seen_at": "2026-04-03T21:21:58.827Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-03T23:20:00",
+    "seen_at": "2026-04-03T21:21:58.827Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:20, kolodvor JOSIPDOL"
   }
 ]
