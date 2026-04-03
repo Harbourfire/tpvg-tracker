@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-03-31T07:10:00",
-    "seen_at": "2026-03-31T05:10:47.411Z",
-    "raw": "Br. Vlaka 45105 odlazak      31.03.26. 07:10, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82326",
-    "event_time": "2026-03-31T07:11:00",
-    "seen_at": "2026-03-31T05:11:33.429Z",
-    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 07:11, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -12985,5 +12967,77 @@
     "event_time": "2026-04-03T06:58:00",
     "seen_at": "2026-04-03T04:58:32.688Z",
     "raw": "Br. Vlaka 89402 odlazak      03.04.26. 06:58, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-03T07:04:00",
+    "seen_at": "2026-04-03T05:05:27.459Z",
+    "raw": "Br. Vlaka 66853 formiran     03.04.26. 07:04, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-03T07:07:00",
+    "seen_at": "2026-04-03T05:07:47.680Z",
+    "raw": "Br. Vlaka 45105 formiran     03.04.26. 07:07, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-03T07:06:00",
+    "seen_at": "2026-04-03T05:08:10.954Z",
+    "raw": "Br. Vlaka 66853 odlazak      03.04.26. 07:06, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "44694",
+    "event_time": "2026-04-03T07:09:00",
+    "seen_at": "2026-04-03T05:10:53.558Z",
+    "raw": "Br. Vlaka 44694 dolazak      03.04.26. 07:09, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "89402",
+    "event_time": "2026-04-03T07:10:00",
+    "seen_at": "2026-04-03T05:11:40.116Z",
+    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 07:10, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-03T08:00:00",
+    "seen_at": "2026-04-03T05:12:50.283Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-03T05:15:00",
+    "seen_at": "2026-04-03T05:13:13.418Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89112",
+    "event_time": "2026-04-02T22:08:00",
+    "seen_at": "2026-04-03T05:13:36.573Z",
+    "raw": "Br. Vlaka 89112 formiran     02.04.26. 22:08, kolodvor ZAGREB RESNIK"
   }
 ]
