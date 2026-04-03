@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89711",
-    "event_time": "2026-03-31T22:11:00",
-    "seen_at": "2026-03-31T20:12:16.522Z",
-    "raw": "Br. Vlaka 89711 odlazak      31.03.26. 22:11, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "ZAGREB ŽITNJAK",
     "train_number": "89711",
@@ -13120,5 +13111,23 @@
     "event_time": "2026-04-03T21:37:00",
     "seen_at": "2026-04-03T20:08:04.362Z",
     "raw": "Br. Vlaka 63305 formiran     03.04.26. 21:37, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89258",
+    "event_time": "2026-04-03T22:13:00",
+    "seen_at": "2026-04-03T20:13:26.380Z",
+    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 22:13, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89258",
+    "event_time": "2026-04-03T22:16:00",
+    "seen_at": "2026-04-03T20:18:12.469Z",
+    "raw": "Br. Vlaka 89258 dolazak      03.04.26. 22:16, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
