@@ -1,87 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48587",
-    "event_time": "2026-03-31T02:56:00",
-    "seen_at": "2026-03-31T00:57:58.977Z",
-    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 02:56, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48587",
-    "event_time": "2026-03-31T02:56:00",
-    "seen_at": "2026-03-31T00:57:58.977Z",
-    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 02:56, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-03-31T03:05:00",
-    "seen_at": "2026-03-31T00:59:31.180Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "81233",
-    "event_time": "2026-03-30T19:35:00",
-    "seen_at": "2026-03-31T00:59:54.128Z",
-    "raw": "Br. Vlaka 81233 formiran     30.03.26. 19:35, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-03-30T23:00:00",
-    "seen_at": "2026-03-31T01:00:40.508Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF",
-    "train_number": "48587",
-    "event_time": "2026-03-31T02:56:00",
-    "seen_at": "2026-03-31T01:01:04.449Z",
-    "raw": "Br. Vlaka 48587 promjena sas 31.03.26. 02:56, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "81233",
-    "event_time": "2026-03-30T19:35:00",
-    "seen_at": "2026-03-31T01:01:04.449Z",
-    "raw": "Br. Vlaka 81233 formiran     30.03.26. 19:35, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-03-31T03:03:00",
-    "seen_at": "2026-03-31T01:04:06.510Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-03-31T03:03:00",
-    "seen_at": "2026-03-31T01:04:06.510Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440026",
     "type": "Odlazak",
     "station": "SAVSKI MAROF",
     "train_number": "48587",
@@ -13291,5 +13210,32 @@
     "event_time": "2026-04-03T02:52:00",
     "seen_at": "2026-04-03T00:53:11.332Z",
     "raw": "Br. Vlaka 82519 dolazak      03.04.26. 02:52, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "77033",
+    "event_time": "2026-04-03T02:55:00",
+    "seen_at": "2026-04-03T00:56:34.054Z",
+    "raw": "Br. Vlaka 77033 odlazak      03.04.26. 02:55, kolodvor NAŠICE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-03T02:55:00",
+    "seen_at": "2026-04-03T00:56:57.548Z",
+    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 02:55, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-03T02:55:00",
+    "seen_at": "2026-04-03T00:56:57.549Z",
+    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 02:55, kolodvor PLAŠKI"
   }
 ]
