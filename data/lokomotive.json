@@ -2,15 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82510",
-    "event_time": "2026-03-31T12:51:00",
-    "seen_at": "2026-03-31T10:52:08.918Z",
-    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 12:51, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
     "train_number": "82510",
     "event_time": "2026-03-31T13:01:00",
@@ -13273,5 +13264,23 @@
     "event_time": "2026-04-03T12:45:00",
     "seen_at": "2026-04-03T10:46:55.528Z",
     "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:45, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-03T12:54:00",
+    "seen_at": "2026-04-03T10:55:00.030Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-03T12:58:00",
+    "seen_at": "2026-04-03T10:58:55.978Z",
+    "raw": "Br. Vlaka 63310 formiran     03.04.26. 12:58, kolodvor GOSPIĆ"
   }
 ]
