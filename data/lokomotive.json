@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "81227",
-    "event_time": "2026-03-31T02:00:00",
-    "seen_at": "2026-03-31T13:41:08.433Z",
-    "raw": "Br. Vlaka 81227 promjena sas 31.03.26. 02:00, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:38:00",
-    "seen_at": "2026-03-31T13:41:08.434Z",
-    "raw": "Br. Vlaka 81268 dolazak      31.03.26. 15:38, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:38:00",
-    "seen_at": "2026-03-31T13:41:08.434Z",
-    "raw": "Br. Vlaka 81268 dolazak      31.03.26. 15:38, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:38:00",
-    "seen_at": "2026-03-31T13:41:54.581Z",
-    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:38, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:38:00",
-    "seen_at": "2026-03-31T13:41:54.581Z",
-    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:38, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "928012230050",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -13102,5 +13057,23 @@
     "event_time": "2026-04-03T15:29:00",
     "seen_at": "2026-04-03T13:31:36.162Z",
     "raw": "Br. Vlaka 89402 odlazak      03.04.26. 15:29, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "89402",
+    "event_time": "2026-04-03T15:38:00",
+    "seen_at": "2026-04-03T13:40:00.505Z",
+    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 15:38, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-03T15:41:00",
+    "seen_at": "2026-04-03T13:42:43.707Z",
+    "raw": "Br. Vlaka 63310 odlazak      03.04.26. 15:41, kolodvor LIČKA JESENICA"
   }
 ]
