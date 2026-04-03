@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82326",
-    "event_time": "2026-03-31T07:20:00",
-    "seen_at": "2026-03-31T05:28:09.352Z",
-    "raw": "Br. Vlaka 82326 dolazak      31.03.26. 07:20, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48587",
-    "event_time": "2026-03-31T07:27:00",
-    "seen_at": "2026-03-31T05:28:32.953Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 07:27, kolodvor 72303"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82326",
-    "event_time": "2026-03-31T07:32:00",
-    "seen_at": "2026-03-31T05:33:06.073Z",
-    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 07:32, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OTOK",
@@ -13066,5 +13039,41 @@
     "event_time": "2026-04-03T07:09:00",
     "seen_at": "2026-04-03T05:20:51.534Z",
     "raw": "Br. Vlaka 74101 odlazak      03.04.26. 07:09, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "44694",
+    "event_time": "2026-04-03T07:27:00",
+    "seen_at": "2026-04-03T05:28:28.892Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 07:27, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-04-03T07:29:00",
+    "seen_at": "2026-04-03T05:30:25.752Z",
+    "raw": "Br. Vlaka 74301 formiran     03.04.26. 07:29, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-04-03T07:28:00",
+    "seen_at": "2026-04-03T05:31:36.360Z",
+    "raw": "Br. Vlaka 74301 odlazak      03.04.26. 07:28, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-03T07:32:00",
+    "seen_at": "2026-04-03T05:33:08.944Z",
+    "raw": "Br. Vlaka 44996 odlazak      03.04.26. 07:32, kolodvor VARAŽDIN"
   }
 ]
