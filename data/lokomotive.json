@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48587",
-    "event_time": "2026-03-31T04:06:00",
-    "seen_at": "2026-03-31T02:06:56.384Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 04:06, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48587",
-    "event_time": "2026-03-31T04:10:00",
-    "seen_at": "2026-03-31T02:10:35.918Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 04:10, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "89163",
-    "event_time": "2026-03-31T04:05:00",
-    "seen_at": "2026-03-31T02:11:22.647Z",
-    "raw": "Br. Vlaka 89163 dolazak      31.03.26. 04:05, kolodvor SESVETE"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -13201,5 +13174,23 @@
     "event_time": "2026-04-03T03:56:00",
     "seen_at": "2026-04-03T01:59:31.921Z",
     "raw": "Br. Vlaka 82519 odlazak      03.04.26. 03:56, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "89402",
+    "event_time": "2026-04-03T04:00:00",
+    "seen_at": "2026-04-03T02:05:58.237Z",
+    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 04:00, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "89402",
+    "event_time": "2026-04-03T04:05:00",
+    "seen_at": "2026-04-03T02:06:21.423Z",
+    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 04:05, kolodvor TOVARNIK"
   }
 ]
