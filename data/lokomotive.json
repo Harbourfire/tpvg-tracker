@@ -1,60 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "89021",
-    "event_time": "2026-03-31T11:14:00",
-    "seen_at": "2026-03-31T09:17:47.130Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 11:14, kolodvor LEKENIK"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-25T10:12:00",
-    "seen_at": "2026-03-31T09:18:56.442Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82513",
-    "event_time": "2026-03-31T11:19:00",
-    "seen_at": "2026-03-31T09:20:22.040Z",
-    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:19, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82513",
-    "event_time": "2026-03-31T11:19:00",
-    "seen_at": "2026-03-31T09:20:22.040Z",
-    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:19, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "48587",
-    "event_time": "2026-03-31T11:20:00",
-    "seen_at": "2026-03-31T09:20:45.597Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 11:20, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "69327",
-    "event_time": "2026-03-31T11:24:00",
-    "seen_at": "2026-03-31T09:24:38.972Z",
-    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:24, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "987895225611",
     "type": "Dolazak",
     "station": "GREDA",
     "train_number": "89021",
@@ -13030,5 +12976,32 @@
     "event_time": "2026-04-03T11:14:00",
     "seen_at": "2026-04-03T09:14:48.556Z",
     "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:14, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "IVANKOVO",
+    "train_number": "62902",
+    "event_time": "2026-04-03T11:16:00",
+    "seen_at": "2026-04-03T09:17:41.809Z",
+    "raw": "Br. Vlaka 62902 dolazak      03.04.26. 11:16, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-03T09:19:38.185Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81987",
+    "event_time": "2026-04-03T11:20:00",
+    "seen_at": "2026-04-03T09:21:58.531Z",
+    "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:20, kolodvor VRHOVINE"
   }
 ]
