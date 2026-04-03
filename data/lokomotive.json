@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-31T12:34:00",
-    "seen_at": "2026-03-31T10:36:14.209Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-03-31T12:34:00",
-    "seen_at": "2026-03-31T10:36:14.209Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "BELI MANASTIR",
@@ -13246,5 +13228,32 @@
     "event_time": "2026-04-03T12:27:00",
     "seen_at": "2026-04-03T10:28:58.145Z",
     "raw": "Br. Vlaka 46657 odlazak      03.04.26. 12:27, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-03T12:34:00",
+    "seen_at": "2026-04-03T10:35:29.351Z",
+    "raw": "Br. Vlaka 45104 odlazak      03.04.26. 12:34, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:35:00",
+    "seen_at": "2026-04-03T10:36:16.191Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 12:35, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:35:00",
+    "seen_at": "2026-04-03T10:36:16.191Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 12:35, kolodvor ZDENČINA"
   }
 ]
