@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "LUDBREG",
-    "train_number": "81226",
-    "event_time": "2026-03-31T09:38:00",
-    "seen_at": "2026-03-31T07:47:41.671Z",
-    "raw": "Br. Vlaka 81226 dolazak      31.03.26. 09:38, kolodvor LUDBREG"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "VELIKA",
@@ -13219,5 +13210,41 @@
     "event_time": "2026-04-03T09:30:00",
     "seen_at": "2026-04-03T07:36:33.491Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45940",
+    "event_time": "2026-04-03T09:40:00",
+    "seen_at": "2026-04-03T07:41:09.922Z",
+    "raw": "Br. Vlaka 45940 dolazak      03.04.26. 09:40, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "74100",
+    "event_time": "2026-04-03T09:40:00",
+    "seen_at": "2026-04-03T07:41:09.924Z",
+    "raw": "Br. Vlaka 74100 odlazak      03.04.26. 09:40, kolodvor OTOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44996",
+    "event_time": "2026-04-03T09:40:00",
+    "seen_at": "2026-04-03T07:41:57.484Z",
+    "raw": "Br. Vlaka 44996 dolazak      03.04.26. 09:40, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "83829",
+    "event_time": "2026-04-03T04:57:00",
+    "seen_at": "2026-04-03T07:49:25.369Z",
+    "raw": "Br. Vlaka 83829 promjena sas 03.04.26. 04:57, kolodvor 72303"
   }
 ]
