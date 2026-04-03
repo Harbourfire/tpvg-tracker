@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45981",
-    "event_time": "2026-03-31T12:41:00",
-    "seen_at": "2026-03-31T10:47:03.892Z",
-    "raw": "Br. Vlaka 45981 odlazak      31.03.26. 12:41, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -13255,5 +13246,32 @@
     "event_time": "2026-04-03T12:35:00",
     "seen_at": "2026-04-03T10:36:16.191Z",
     "raw": "Br. Vlaka 46657 odlazak      03.04.26. 12:35, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "83829",
+    "event_time": "2026-04-03T12:41:00",
+    "seen_at": "2026-04-03T10:43:26.032Z",
+    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 12:41, kolodvor GREDA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:45:00",
+    "seen_at": "2026-04-03T10:46:55.528Z",
+    "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:45, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "46657",
+    "event_time": "2026-04-03T12:45:00",
+    "seen_at": "2026-04-03T10:46:55.528Z",
+    "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:45, kolodvor JASTREBARSKO"
   }
 ]
