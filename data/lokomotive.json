@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48587",
-    "event_time": "2026-03-31T03:20:00",
-    "seen_at": "2026-03-31T01:21:33.635Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 03:20, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -13264,5 +13255,50 @@
     "event_time": "2026-04-03T03:11:00",
     "seen_at": "2026-04-03T01:13:39.148Z",
     "raw": "Br. Vlaka 63306 odlazak      03.04.26. 03:11, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "77033",
+    "event_time": "2026-04-03T03:15:00",
+    "seen_at": "2026-04-03T01:16:34.559Z",
+    "raw": "Br. Vlaka 77033 odlazak      03.04.26. 03:15, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-04-03T03:18:00",
+    "seen_at": "2026-04-03T01:19:16.737Z",
+    "raw": "Br. Vlaka 63306 dolazak      03.04.26. 03:18, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-04-03T03:18:00",
+    "seen_at": "2026-04-03T01:19:16.737Z",
+    "raw": "Br. Vlaka 63306 dolazak      03.04.26. 03:18, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-03T03:18:00",
+    "seen_at": "2026-04-03T01:19:39.878Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-03T03:18:00",
+    "seen_at": "2026-04-03T01:19:39.878Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
