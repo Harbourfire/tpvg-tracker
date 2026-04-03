@@ -1,77 +1,5 @@
 [
   {
-    "uic": "987895155610",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "79964",
-    "event_time": "2026-03-31T09:22:00",
-    "seen_at": "2026-03-31T07:22:21.115Z",
-    "raw": "Br. Vlaka 79964 odlazak      31.03.26. 09:22, kolodvor LUKA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "89021",
-    "event_time": "2026-03-31T09:21:00",
-    "seen_at": "2026-03-31T07:22:44.072Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 09:21, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-25T10:00:00",
-    "seen_at": "2026-03-31T07:23:07.142Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-03-31T09:04:00",
-    "seen_at": "2026-03-31T07:24:26.828Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "RASINJA",
-    "train_number": "81226",
-    "event_time": "2026-03-31T09:21:00",
-    "seen_at": "2026-03-31T07:24:50.085Z",
-    "raw": "Br. Vlaka 81226 odlazak      31.03.26. 09:21, kolodvor RASINJA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89540",
-    "event_time": "2026-03-31T09:21:00",
-    "seen_at": "2026-03-31T07:27:09.889Z",
-    "raw": "Br. Vlaka 89540 dolazak      31.03.26. 09:21, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "987895155610",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "79964",
-    "event_time": "2026-03-31T09:27:00",
-    "seen_at": "2026-03-31T07:27:09.890Z",
-    "raw": "Br. Vlaka 79964 odlazak      31.03.26. 09:27, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "HORVATI",
-    "train_number": "89021",
-    "event_time": "2026-03-31T09:29:00",
-    "seen_at": "2026-03-31T07:29:53.795Z",
-    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 09:29, kolodvor HORVATI"
-  },
-  {
     "uic": "928012230035",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -13228,5 +13156,50 @@
     "event_time": "2026-04-03T09:17:00",
     "seen_at": "2026-04-03T07:20:24.236Z",
     "raw": "Br. Vlaka 44996 odlazak      03.04.26. 09:17, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89405",
+    "event_time": "2026-04-03T09:20:00",
+    "seen_at": "2026-04-03T07:20:58.335Z",
+    "raw": "Br. Vlaka 89405 odlazak      03.04.26. 09:20, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89112",
+    "event_time": "2026-04-03T09:18:00",
+    "seen_at": "2026-04-03T07:21:45.352Z",
+    "raw": "Br. Vlaka 89112 odlazak      03.04.26. 09:18, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89112",
+    "event_time": "2026-04-03T09:22:00",
+    "seen_at": "2026-04-03T07:22:32.051Z",
+    "raw": "Br. Vlaka 89112 odlazak      03.04.26. 09:22, kolodvor 72302"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-25T10:00:00",
+    "seen_at": "2026-04-03T07:23:41.959Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-03T09:25:00",
+    "seen_at": "2026-04-03T07:27:12.456Z",
+    "raw": "Br. Vlaka 44996 odlazak      03.04.26. 09:25, kolodvor DONJI KRALJEVEC"
   }
 ]
