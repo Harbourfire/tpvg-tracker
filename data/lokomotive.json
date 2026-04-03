@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89711",
-    "event_time": "2026-03-31T22:20:00",
-    "seen_at": "2026-03-31T20:21:31.464Z",
-    "raw": "Br. Vlaka 89711 dolazak      31.03.26. 22:20, kolodvor 72302"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89873",
-    "event_time": "2026-03-31T22:21:00",
-    "seen_at": "2026-03-31T20:22:19.084Z",
-    "raw": "Br. Vlaka 89873 odlazak      31.03.26. 22:21, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "987891003319",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2025-09-24T12:21:00",
-    "seen_at": "2026-03-31T20:22:42.718Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894856753",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2025-07-08T20:16:00",
-    "seen_at": "2026-03-31T20:22:42.718Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-03-31T22:22:00",
-    "seen_at": "2026-03-31T20:27:03.242Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
     "train_number": "89711",
@@ -13129,5 +13084,32 @@
     "event_time": "2026-04-03T22:16:00",
     "seen_at": "2026-04-03T20:18:12.469Z",
     "raw": "Br. Vlaka 89258 dolazak      03.04.26. 22:16, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-03T22:16:00",
+    "seen_at": "2026-04-03T20:18:46.528Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-09-24T12:21:00",
+    "seen_at": "2026-04-03T20:23:27.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2025-07-08T20:16:00",
+    "seen_at": "2026-04-03T20:23:27.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
