@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "47945",
-    "event_time": "2026-04-01T01:48:00",
-    "seen_at": "2026-03-31T23:49:07.550Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 01:48, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "47945",
-    "event_time": "2026-04-01T01:48:00",
-    "seen_at": "2026-03-31T23:49:07.550Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 01:48, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ČAČINCI",
-    "train_number": null,
-    "event_time": "2026-04-01T01:50:00",
-    "seen_at": "2026-03-31T23:50:40.913Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VIROVITICA",
-    "train_number": "89711",
-    "event_time": "2026-04-01T01:52:00",
-    "seen_at": "2026-03-31T23:53:57.751Z",
-    "raw": "Br. Vlaka 89711 dolazak      01.04.26. 01:52, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-01T01:52:00",
-    "seen_at": "2026-03-31T23:55:06.902Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "ČAČINCI",
-    "train_number": "48588",
-    "event_time": "2026-03-31T12:18:00",
-    "seen_at": "2026-03-31T23:56:40.899Z",
-    "raw": "Br. Vlaka 48588 formiran     31.03.26. 12:18, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "ČAČINCI",
-    "train_number": "48588",
-    "event_time": "2026-03-31T12:18:00",
-    "seen_at": "2026-03-31T23:57:04.362Z",
-    "raw": "Br. Vlaka 48588 formiran     31.03.26. 12:18, kolodvor ČAČINCI"
-  },
-  {
     "uic": "997894245619",
     "type": "Dolazak",
     "station": "PERKOVIĆ",
@@ -12697,5 +12634,14 @@
     "event_time": "2026-04-04T01:44:00",
     "seen_at": "2026-04-03T23:44:50.608Z",
     "raw": "Br. Vlaka 89420 odlazak      04.04.26. 01:44, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89420",
+    "event_time": "2026-04-04T01:51:00",
+    "seen_at": "2026-04-03T23:51:58.176Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 01:51, kolodvor STARI MIKANOVCI"
   }
 ]
