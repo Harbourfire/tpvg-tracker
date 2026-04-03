@@ -2,69 +2,6 @@
   {
     "uic": "987895225611",
     "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "89021",
-    "event_time": "2026-03-31T10:49:00",
-    "seen_at": "2026-03-31T08:49:37.319Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 10:49, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "82510",
-    "event_time": "2026-03-31T10:51:00",
-    "seen_at": "2026-03-31T08:51:23.188Z",
-    "raw": "Br. Vlaka 82510 formiran     31.03.26. 10:51, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48587",
-    "event_time": "2026-03-31T10:47:00",
-    "seen_at": "2026-03-31T08:51:46.833Z",
-    "raw": "Br. Vlaka 48587 odlazak      31.03.26. 10:47, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "JALŽABET",
-    "train_number": "69660",
-    "event_time": "2026-03-31T10:49:00",
-    "seen_at": "2026-03-31T08:55:19.051Z",
-    "raw": "Br. Vlaka 69660 odlazak      31.03.26. 10:49, kolodvor JALŽABET"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "69327",
-    "event_time": "2026-03-31T10:54:00",
-    "seen_at": "2026-03-31T08:55:19.051Z",
-    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 10:54, kolodvor OKUČANI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82513",
-    "event_time": "2026-03-31T10:53:00",
-    "seen_at": "2026-03-31T08:55:19.051Z",
-    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 10:53, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82513",
-    "event_time": "2026-03-31T10:53:00",
-    "seen_at": "2026-03-31T08:55:19.051Z",
-    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 10:53, kolodvor BLATA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
     "station": "TUROPOLJE",
     "train_number": "89021",
     "event_time": "2026-03-31T10:56:00",
@@ -13129,5 +13066,14 @@
     "event_time": "2026-04-03T10:45:00",
     "seen_at": "2026-04-03T08:45:36.037Z",
     "raw": "Br. Vlaka 81987 odlazak      03.04.26. 10:45, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "89405",
+    "event_time": "2026-04-03T10:38:00",
+    "seen_at": "2026-04-03T08:50:06.226Z",
+    "raw": "Br. Vlaka 89405 dolazak      03.04.26. 10:38, kolodvor TOVARNIK"
   }
 ]
