@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89021",
-    "event_time": "2026-03-31T09:00:00",
-    "seen_at": "2026-03-31T07:01:20.395Z",
-    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 09:00, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82326",
-    "event_time": "2026-03-31T09:00:00",
-    "seen_at": "2026-03-31T07:01:43.965Z",
-    "raw": "Br. Vlaka 82326 odlazak      31.03.26. 09:00, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "81226",
-    "event_time": "2026-03-31T09:03:00",
-    "seen_at": "2026-03-31T07:04:52.680Z",
-    "raw": "Br. Vlaka 81226 odlazak      31.03.26. 09:03, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89540",
-    "event_time": "2026-03-31T09:04:00",
-    "seen_at": "2026-03-31T07:07:01.565Z",
-    "raw": "Br. Vlaka 89540 odlazak      31.03.26. 09:04, kolodvor DARDA"
-  },
-  {
-    "uic": "987895155610",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "79964",
-    "event_time": "2026-03-31T09:09:00",
-    "seen_at": "2026-03-31T07:09:42.853Z",
-    "raw": "Br. Vlaka 79964 odlazak      31.03.26. 09:09, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -13219,5 +13174,59 @@
     "event_time": "2026-04-03T08:13:00",
     "seen_at": "2026-04-03T07:01:06.191Z",
     "raw": "Br. Vlaka 45940 formiran     03.04.26. 08:13, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45940",
+    "event_time": "2026-04-03T08:59:00",
+    "seen_at": "2026-04-03T07:01:41.261Z",
+    "raw": "Br. Vlaka 45940 odlazak      03.04.26. 08:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89405",
+    "event_time": "2026-04-03T09:02:00",
+    "seen_at": "2026-04-03T07:02:28.523Z",
+    "raw": "Br. Vlaka 89405 dolazak      03.04.26. 09:02, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89405",
+    "event_time": "2026-04-03T09:04:00",
+    "seen_at": "2026-04-03T07:04:27.137Z",
+    "raw": "Br. Vlaka 89405 odlazak      03.04.26. 09:04, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-03T09:07:00",
+    "seen_at": "2026-04-03T07:07:12.410Z",
+    "raw": "Br. Vlaka 44996 odlazak      03.04.26. 09:07, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44694",
+    "event_time": "2026-04-03T08:52:00",
+    "seen_at": "2026-04-03T07:08:46.727Z",
+    "raw": "Br. Vlaka 44694 dolazak      03.04.26. 08:52, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81987",
+    "event_time": "2026-04-03T08:48:00",
+    "seen_at": "2026-04-03T07:09:34.372Z",
+    "raw": "Br. Vlaka 81987 formiran     03.04.26. 08:48, kolodvor OŠTARIJE"
   }
 ]
