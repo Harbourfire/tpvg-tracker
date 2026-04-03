@@ -2,24 +2,6 @@
   {
     "uic": "987895225611",
     "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "89021",
-    "event_time": "2026-03-31T08:17:00",
-    "seen_at": "2026-03-31T06:22:51.354Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 08:17, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89021",
-    "event_time": "2026-03-31T08:30:00",
-    "seen_at": "2026-03-31T06:31:42.977Z",
-    "raw": "Br. Vlaka 89021 dolazak      31.03.26. 08:30, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
     "station": "DRAGANIĆI",
     "train_number": "89021",
     "event_time": "2026-03-31T08:45:00",
@@ -13147,5 +13129,41 @@
     "event_time": "2026-04-03T07:59:00",
     "seen_at": "2026-04-03T06:21:45.666Z",
     "raw": "Br. Vlaka 71203 formiran     03.04.26. 07:59, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-04-03T08:21:00",
+    "seen_at": "2026-04-03T06:24:00.526Z",
+    "raw": "Br. Vlaka 45105 odlazak      03.04.26. 08:21, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-03T07:50:00",
+    "seen_at": "2026-04-03T06:28:20.764Z",
+    "raw": "Br. Vlaka 44996 dolazak      03.04.26. 07:50, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "74150",
+    "event_time": "2026-04-03T08:28:00",
+    "seen_at": "2026-04-03T06:29:08.054Z",
+    "raw": "Br. Vlaka 74150 odlazak      03.04.26. 08:28, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-03T08:28:00",
+    "seen_at": "2026-04-03T06:30:42.541Z",
+    "raw": "Br. Vlaka 71203 odlazak      03.04.26. 08:28, kolodvor IVANKOVO"
   }
 ]
