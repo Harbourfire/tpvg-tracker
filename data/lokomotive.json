@@ -2,33 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-31T03:23:00",
-    "seen_at": "2026-03-31T01:23:53.259Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:23, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-03-31T03:23:00",
-    "seen_at": "2026-03-31T01:23:53.259Z",
-    "raw": "Br. Vlaka 63306 odlazak      31.03.26. 03:23, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-03-30T23:00:00",
-    "seen_at": "2026-03-31T01:27:21.728Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "63306",
     "event_time": "2026-03-31T03:32:00",
@@ -13300,5 +13273,23 @@
     "event_time": "2026-04-03T03:18:00",
     "seen_at": "2026-04-03T01:19:39.878Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "44694",
+    "event_time": "2026-04-03T02:43:00",
+    "seen_at": "2026-04-03T01:26:06.138Z",
+    "raw": "Br. Vlaka 44694 formiran     03.04.26. 02:43, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "89402",
+    "event_time": "2026-04-02T14:28:00",
+    "seen_at": "2026-04-03T01:29:14.971Z",
+    "raw": "Br. Vlaka 89402 formiran     02.04.26. 14:28, kolodvor 71020"
   }
 ]
