@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82510",
-    "event_time": "2026-03-31T11:57:00",
-    "seen_at": "2026-03-31T09:57:56.760Z",
-    "raw": "Br. Vlaka 82510 dolazak      31.03.26. 11:57, kolodvor POŽEGA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82513",
-    "event_time": "2026-03-31T11:59:00",
-    "seen_at": "2026-03-31T10:00:16.094Z",
-    "raw": "Br. Vlaka 82513 dolazak      31.03.26. 11:59, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82513",
-    "event_time": "2026-03-31T11:59:00",
-    "seen_at": "2026-03-31T10:00:16.094Z",
-    "raw": "Br. Vlaka 82513 dolazak      31.03.26. 11:59, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69327",
-    "event_time": "2026-03-31T11:59:00",
-    "seen_at": "2026-03-31T10:01:02.580Z",
-    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:59, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -13111,5 +13075,86 @@
     "event_time": "2026-04-03T11:51:00",
     "seen_at": "2026-04-03T09:52:57.608Z",
     "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:51, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-03T11:54:00",
+    "seen_at": "2026-04-03T09:55:08.189Z",
+    "raw": "Br. Vlaka 45104 formiran     03.04.26. 11:54, kolodvor 71308"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89921",
+    "event_time": "2026-04-03T11:53:00",
+    "seen_at": "2026-04-03T09:55:08.190Z",
+    "raw": "Br. Vlaka 89921 dolazak      03.04.26. 11:53, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89921",
+    "event_time": "2026-04-03T11:54:00",
+    "seen_at": "2026-04-03T09:55:31.811Z",
+    "raw": "Br. Vlaka 89921 odlazak      03.04.26. 11:54, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "83829",
+    "event_time": "2026-04-03T11:55:00",
+    "seen_at": "2026-04-03T09:55:55.564Z",
+    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 11:55, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89711",
+    "event_time": "2026-04-03T11:55:00",
+    "seen_at": "2026-04-03T09:55:55.565Z",
+    "raw": "Br. Vlaka 89711 odlazak      03.04.26. 11:55, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "46657",
+    "event_time": "2026-04-03T11:58:00",
+    "seen_at": "2026-04-03T10:00:37.737Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "46657",
+    "event_time": "2026-04-03T11:58:00",
+    "seen_at": "2026-04-03T10:00:37.737Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-03T11:08:00",
+    "seen_at": "2026-04-03T10:01:24.529Z",
+    "raw": "Br. Vlaka 45104 odlazak      03.04.26. 11:08, kolodvor 71308"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-03T11:17:00",
+    "seen_at": "2026-04-03T10:01:48.461Z",
+    "raw": "Br. Vlaka 45104 dolazak      03.04.26. 11:17, kolodvor DRENOVCI"
   }
 ]
