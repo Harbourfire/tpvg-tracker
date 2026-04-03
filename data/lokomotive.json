@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987895155610",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "79965",
-    "event_time": "2026-03-31T10:28:00",
-    "seen_at": "2026-03-31T08:29:06.371Z",
-    "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:28, kolodvor LUKA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "JALŽABET",
-    "train_number": null,
-    "event_time": "2026-03-31T10:34:00",
-    "seen_at": "2026-03-31T08:34:43.690Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73806 JALŽABET"
-  },
-  {
-    "uic": "987895155610",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "79965",
-    "event_time": "2026-03-31T10:35:00",
-    "seen_at": "2026-03-31T08:35:30.106Z",
-    "raw": "Br. Vlaka 79965 odlazak      31.03.26. 10:35, kolodvor NOVI DVORI"
-  },
-  {
     "uic": "927820620197",
     "type": "Formiran",
     "station": "JALŽABET",
@@ -13174,5 +13147,23 @@
     "event_time": "2026-04-03T10:17:00",
     "seen_at": "2026-04-03T08:18:13.470Z",
     "raw": "Br. Vlaka 81987 odlazak      03.04.26. 10:17, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "89405",
+    "event_time": "2026-04-03T10:29:00",
+    "seen_at": "2026-04-03T08:29:52.292Z",
+    "raw": "Br. Vlaka 89405 odlazak      03.04.26. 10:29, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81987",
+    "event_time": "2026-04-03T10:33:00",
+    "seen_at": "2026-04-03T08:33:45.307Z",
+    "raw": "Br. Vlaka 81987 odlazak      03.04.26. 10:33, kolodvor PLAŠKI"
   }
 ]
