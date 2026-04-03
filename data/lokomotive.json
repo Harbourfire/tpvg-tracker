@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "81233",
-    "event_time": "2026-03-31T23:57:00",
-    "seen_at": "2026-03-31T21:59:26.262Z",
-    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 23:57, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T23:59:00",
-    "seen_at": "2026-03-31T22:00:35.593Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 23:59, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T23:59:00",
-    "seen_at": "2026-03-31T22:00:35.593Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 23:59, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82510",
-    "event_time": "2026-04-01T00:02:00",
-    "seen_at": "2026-03-31T22:02:56.953Z",
-    "raw": "Br. Vlaka 82510 odlazak      01.04.26. 00:02, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -12886,5 +12850,68 @@
     "event_time": "2026-04-03T23:52:00",
     "seen_at": "2026-04-03T21:53:51.414Z",
     "raw": "Br. Vlaka 47998 odlazak      03.04.26. 23:52, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-03T23:53:00",
+    "seen_at": "2026-04-03T21:54:54.271Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:53, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-03T23:53:00",
+    "seen_at": "2026-04-03T21:54:54.271Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:53, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47563",
+    "event_time": "2026-04-03T23:58:00",
+    "seen_at": "2026-04-03T22:01:10.542Z",
+    "raw": "Br. Vlaka 47563 odlazak      03.04.26. 23:58, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-04-04T00:01:00",
+    "seen_at": "2026-04-03T22:01:33.802Z",
+    "raw": "Br. Vlaka 61004 odlazak      04.04.26. 00:01, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-04-04T00:02:00",
+    "seen_at": "2026-04-03T22:02:43.638Z",
+    "raw": "Br. Vlaka 47563 dolazak      04.04.26. 00:02, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KLOŠTAR",
+    "train_number": "47998",
+    "event_time": "2026-04-04T00:00:00",
+    "seen_at": "2026-04-03T22:03:06.916Z",
+    "raw": "Br. Vlaka 47998 odlazak      04.04.26. 00:00, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-04-04T00:02:00",
+    "seen_at": "2026-04-03T22:03:53.209Z",
+    "raw": "Br. Vlaka 47563 promjena sas 04.04.26. 00:02, kolodvor SAVSKI MAROF"
   }
 ]
