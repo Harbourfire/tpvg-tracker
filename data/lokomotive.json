@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:23:00",
-    "seen_at": "2026-03-31T13:24:15.668Z",
-    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:23, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81268",
-    "event_time": "2026-03-31T15:23:00",
-    "seen_at": "2026-03-31T13:24:15.668Z",
-    "raw": "Br. Vlaka 81268 odlazak      31.03.26. 15:23, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "BELI MANASTIR",
@@ -13111,5 +13093,23 @@
     "event_time": "2026-04-03T14:27:00",
     "seen_at": "2026-04-03T13:08:32.599Z",
     "raw": "Br. Vlaka 63310 promjena sas 03.04.26. 14:27, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "83829",
+    "event_time": "2026-04-03T15:18:00",
+    "seen_at": "2026-04-03T13:19:20.835Z",
+    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 15:18, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-03T15:23:00",
+    "seen_at": "2026-04-03T13:24:24.367Z",
+    "raw": "Br. Vlaka 63310 odlazak      03.04.26. 15:23, kolodvor RUDOPOLJE"
   }
 ]
