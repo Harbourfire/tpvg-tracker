@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "89163",
-    "event_time": "2026-03-31T04:11:00",
-    "seen_at": "2026-03-31T02:12:08.537Z",
-    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 04:11, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "81233",
-    "event_time": "2026-03-31T04:12:00",
-    "seen_at": "2026-03-31T02:15:37.594Z",
-    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 04:12, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -13192,5 +13174,14 @@
     "event_time": "2026-04-03T04:05:00",
     "seen_at": "2026-04-03T02:06:21.423Z",
     "raw": "Br. Vlaka 89402 odlazak      03.04.26. 04:05, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "89402",
+    "event_time": "2026-04-03T04:14:00",
+    "seen_at": "2026-04-03T02:15:31.425Z",
+    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 04:14, kolodvor ĐELETOVCI"
   }
 ]
