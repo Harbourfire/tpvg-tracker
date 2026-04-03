@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-01T00:05:00",
-    "seen_at": "2026-03-31T22:07:05.874Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.04.26. 00:05, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-01T00:05:00",
-    "seen_at": "2026-03-31T22:07:05.874Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.04.26. 00:05, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-01T00:07:00",
-    "seen_at": "2026-03-31T22:07:52.284Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "82510",
-    "event_time": "2026-04-01T00:10:00",
-    "seen_at": "2026-03-31T22:10:57.010Z",
-    "raw": "Br. Vlaka 82510 odlazak      01.04.26. 00:10, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "KOPRIVNICA GR    A",
@@ -12913,5 +12877,23 @@
     "event_time": "2026-04-04T00:02:00",
     "seen_at": "2026-04-03T22:03:53.209Z",
     "raw": "Br. Vlaka 47563 promjena sas 04.04.26. 00:02, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-04T00:07:00",
+    "seen_at": "2026-04-03T22:09:06.972Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:07, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-04T00:07:00",
+    "seen_at": "2026-04-03T22:09:06.972Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:07, kolodvor RUDOPOLJE"
   }
 ]
