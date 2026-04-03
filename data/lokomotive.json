@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "POPOVAČA",
-    "train_number": "89163",
-    "event_time": "2026-03-31T05:23:00",
-    "seen_at": "2026-03-31T03:24:17.308Z",
-    "raw": "Br. Vlaka 89163 dolazak      31.03.26. 05:23, kolodvor POPOVAČA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-31T05:23:00",
-    "seen_at": "2026-03-31T03:24:40.623Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-03-31T05:23:00",
-    "seen_at": "2026-03-31T03:24:40.623Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-31T04:22:00",
-    "seen_at": "2026-03-31T03:27:11.110Z",
-    "raw": "Br. Vlaka 69005 formiran     31.03.26. 04:22, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-03-31T04:22:00",
-    "seen_at": "2026-03-31T03:27:34.370Z",
-    "raw": "Br. Vlaka 69005 formiran     31.03.26. 04:22, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440240",
     "type": "Odlazak",
     "station": "POPOVAČA",
     "train_number": "89163",
@@ -13084,5 +13039,14 @@
     "event_time": "2026-04-03T05:04:00",
     "seen_at": "2026-04-03T03:05:27.801Z",
     "raw": "Br. Vlaka 44694 odlazak      03.04.26. 05:04, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "44694",
+    "event_time": "2026-04-03T05:20:00",
+    "seen_at": "2026-04-03T03:21:46.754Z",
+    "raw": "Br. Vlaka 44694 dolazak      03.04.26. 05:20, kolodvor GENERALSKI STOL"
   }
 ]
