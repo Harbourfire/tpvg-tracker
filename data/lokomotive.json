@@ -12985,5 +12985,50 @@
     "event_time": "2026-04-03T13:28:00",
     "seen_at": "2026-04-03T18:01:03.017Z",
     "raw": "Br. Vlaka 89420 formiran     03.04.26. 13:28, kolodvor 71020"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "89402",
+    "event_time": "2026-04-03T19:45:00",
+    "seen_at": "2026-04-03T18:06:01.564Z",
+    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 19:45, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-04-03T19:45:00",
+    "seen_at": "2026-04-03T18:07:11.802Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-04-03T20:08:00",
+    "seen_at": "2026-04-03T18:09:09.009Z",
+    "raw": "Br. Vlaka 61004 formiran     03.04.26. 20:08, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "46657",
+    "event_time": "2026-04-03T20:09:00",
+    "seen_at": "2026-04-03T18:10:19.386Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:09, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "46657",
+    "event_time": "2026-04-03T20:09:00",
+    "seen_at": "2026-04-03T18:10:19.386Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:09, kolodvor ZVEČAJ"
   }
 ]
