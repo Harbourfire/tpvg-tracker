@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620387",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-03-19T15:10:00",
-    "seen_at": "2026-03-31T14:13:44.940Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "89021",
-    "event_time": "2026-03-31T16:16:00",
-    "seen_at": "2026-03-31T14:16:21.161Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 16:16, kolodvor NOVSKA"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "KRIŽEVCI",
@@ -13111,5 +13093,41 @@
     "event_time": "2026-04-03T16:12:00",
     "seen_at": "2026-04-03T14:12:35.165Z",
     "raw": "Br. Vlaka 45596 odlazak      03.04.26. 16:12, kolodvor ROČ"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-03-19T15:10:00",
+    "seen_at": "2026-04-03T14:14:29.765Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-03T16:02:00",
+    "seen_at": "2026-04-03T14:17:38.859Z",
+    "raw": "Br. Vlaka 63310 dolazak      03.04.26. 16:02, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "45596",
+    "event_time": "2026-04-03T16:21:00",
+    "seen_at": "2026-04-03T14:21:35.992Z",
+    "raw": "Br. Vlaka 45596 dolazak      03.04.26. 16:21, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "45596",
+    "event_time": "2026-04-03T16:21:00",
+    "seen_at": "2026-04-03T14:21:35.992Z",
+    "raw": "Br. Vlaka 45596 dolazak      03.04.26. 16:21, kolodvor BUZET"
   }
 ]
