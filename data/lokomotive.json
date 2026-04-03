@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "45983",
-    "event_time": "2026-03-31T15:30:00",
-    "seen_at": "2026-03-31T14:10:38.064Z",
-    "raw": "Br. Vlaka 45983 promjena sas 31.03.26. 15:30, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820620387",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -13102,5 +13093,23 @@
     "event_time": "2026-04-03T16:00:00",
     "seen_at": "2026-04-03T14:03:35.771Z",
     "raw": "Br. Vlaka 45596 odlazak      03.04.26. 16:00, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45596",
+    "event_time": "2026-04-03T16:12:00",
+    "seen_at": "2026-04-03T14:12:35.165Z",
+    "raw": "Br. Vlaka 45596 odlazak      03.04.26. 16:12, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45596",
+    "event_time": "2026-04-03T16:12:00",
+    "seen_at": "2026-04-03T14:12:35.165Z",
+    "raw": "Br. Vlaka 45596 odlazak      03.04.26. 16:12, kolodvor ROČ"
   }
 ]
