@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "VALPOVO",
-    "train_number": null,
-    "event_time": "2026-03-31T21:06:00",
-    "seen_at": "2026-03-31T19:40:58.163Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71992 VALPOVO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "VALPOVO",
-    "train_number": "89713",
-    "event_time": "2026-03-31T19:16:00",
-    "seen_at": "2026-03-31T19:42:30.409Z",
-    "raw": "Br. Vlaka 89713 formiran     31.03.26. 19:16, kolodvor VALPOVO"
-  },
-  {
     "uic": "987890033630",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
@@ -13102,5 +13084,23 @@
     "event_time": "2026-04-03T21:35:00",
     "seen_at": "2026-04-03T19:35:41.830Z",
     "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:35, kolodvor 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89258",
+    "event_time": "2026-04-03T21:41:00",
+    "seen_at": "2026-04-03T19:42:52.084Z",
+    "raw": "Br. Vlaka 89258 dolazak      03.04.26. 21:41, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89258",
+    "event_time": "2026-04-03T21:46:00",
+    "seen_at": "2026-04-03T19:47:55.030Z",
+    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:46, kolodvor ZAGREB KLARA"
   }
 ]
