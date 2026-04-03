@@ -2,51 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82510",
-    "event_time": "2026-03-31T13:01:00",
-    "seen_at": "2026-03-31T11:03:13.417Z",
-    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 13:01, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "81233",
-    "event_time": "2026-03-31T13:02:00",
-    "seen_at": "2026-03-31T11:04:25.623Z",
-    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 13:02, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45981",
-    "event_time": "2026-03-31T13:05:00",
-    "seen_at": "2026-03-31T11:06:57.509Z",
-    "raw": "Br. Vlaka 45981 odlazak      31.03.26. 13:05, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81268",
-    "event_time": "2026-03-31T13:07:00",
-    "seen_at": "2026-03-31T11:08:07.495Z",
-    "raw": "Br. Vlaka 81268 formiran     31.03.26. 13:07, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81268",
-    "event_time": "2026-03-31T13:07:00",
-    "seen_at": "2026-03-31T11:08:07.495Z",
-    "raw": "Br. Vlaka 81268 formiran     31.03.26. 13:07, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "PLETERNICA",
     "train_number": "82510",
     "event_time": "2026-03-31T13:12:00",
@@ -13282,5 +13237,23 @@
     "event_time": "2026-04-03T12:58:00",
     "seen_at": "2026-04-03T10:58:55.978Z",
     "raw": "Br. Vlaka 63310 formiran     03.04.26. 12:58, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-03T13:00:00",
+    "seen_at": "2026-04-03T11:01:52.771Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "83829",
+    "event_time": "2026-04-03T13:00:00",
+    "seen_at": "2026-04-03T11:02:16.090Z",
+    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 13:00, kolodvor SISAK"
   }
 ]
