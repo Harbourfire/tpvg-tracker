@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89873",
-    "event_time": "2026-03-31T22:35:00",
-    "seen_at": "2026-03-31T20:38:06.611Z",
-    "raw": "Br. Vlaka 89873 dolazak      31.03.26. 22:35, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89711",
-    "event_time": "2026-03-31T22:39:00",
-    "seen_at": "2026-03-31T20:40:36.038Z",
-    "raw": "Br. Vlaka 89711 odlazak      31.03.26. 22:39, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T22:40:00",
-    "seen_at": "2026-03-31T20:40:59.188Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 22:40, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-03-31T22:40:00",
-    "seen_at": "2026-03-31T20:40:59.188Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 22:40, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-31T22:45:00",
-    "seen_at": "2026-03-31T20:46:46.311Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 22:45, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-03-31T22:45:00",
-    "seen_at": "2026-03-31T20:46:46.311Z",
-    "raw": "Br. Vlaka 63305 odlazak      31.03.26. 22:45, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -13093,5 +13039,14 @@
     "event_time": "2026-04-02T20:00:00",
     "seen_at": "2026-04-03T20:35:29.797Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47563",
+    "event_time": "2026-04-03T10:13:00",
+    "seen_at": "2026-04-03T20:38:25.979Z",
+    "raw": "Br. Vlaka 47563 formiran     03.04.26. 10:13, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
