@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "82326",
-    "event_time": "2026-03-31T09:28:00",
-    "seen_at": "2026-03-31T07:50:02.737Z",
-    "raw": "Br. Vlaka 82326 dolazak      31.03.26. 09:28, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-03-31T09:28:00",
-    "seen_at": "2026-03-31T07:50:26.097Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-31T09:50:00",
-    "seen_at": "2026-03-31T07:51:36.887Z",
-    "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:50, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-03-31T09:50:00",
-    "seen_at": "2026-03-31T07:51:36.887Z",
-    "raw": "Br. Vlaka 69175 odlazak      31.03.26. 09:50, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987895155610",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-03-31T09:41:00",
-    "seen_at": "2026-03-31T07:52:47.894Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89021",
-    "event_time": "2026-03-31T09:53:00",
-    "seen_at": "2026-03-31T07:53:49.124Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 09:53, kolodvor HORVATI"
-  },
-  {
-    "uic": "987895155610",
-    "type": "Formiran",
-    "station": "ZABOK",
-    "train_number": "79965",
-    "event_time": "2026-03-31T09:53:00",
-    "seen_at": "2026-03-31T07:54:13.331Z",
-    "raw": "Br. Vlaka 79965 formiran     31.03.26. 09:53, kolodvor ZABOK"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -13246,5 +13183,50 @@
     "event_time": "2026-04-03T04:57:00",
     "seen_at": "2026-04-03T07:49:25.369Z",
     "raw": "Br. Vlaka 83829 promjena sas 03.04.26. 04:57, kolodvor 72303"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-03T09:37:00",
+    "seen_at": "2026-04-03T07:51:09.236Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "44694",
+    "event_time": "2026-04-03T09:50:00",
+    "seen_at": "2026-04-03T07:51:09.238Z",
+    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 09:50, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-03T09:32:00",
+    "seen_at": "2026-04-03T07:51:55.706Z",
+    "raw": "Br. Vlaka 89541 promjena sas 03.04.26. 09:32, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44996",
+    "event_time": "2026-04-03T09:51:00",
+    "seen_at": "2026-04-03T07:54:39.502Z",
+    "raw": "Br. Vlaka 44996 odlazak      03.04.26. 09:51, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89405",
+    "event_time": "2026-04-03T09:55:00",
+    "seen_at": "2026-04-03T07:57:48.063Z",
+    "raw": "Br. Vlaka 89405 odlazak      03.04.26. 09:55, kolodvor VINKOVCI"
   }
 ]
