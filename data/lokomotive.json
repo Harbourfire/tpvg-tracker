@@ -1,86 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "SOLIN",
-    "train_number": "78000",
-    "event_time": "2026-04-01T01:00:00",
-    "seen_at": "2026-03-31T23:01:19.551Z",
-    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 01:00, kolodvor SOLIN"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SUHOPOLJE",
-    "train_number": "89761",
-    "event_time": "2026-04-01T01:02:00",
-    "seen_at": "2026-03-31T23:02:30.499Z",
-    "raw": "Br. Vlaka 89761 odlazak      01.04.26. 01:02, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-01T01:01:00",
-    "seen_at": "2026-03-31T23:03:50.850Z",
-    "raw": "Br. Vlaka 45105 formiran     01.04.26. 01:01, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "KAŠTEL SUĆURAC",
-    "train_number": "78000",
-    "event_time": "2026-04-01T01:04:00",
-    "seen_at": "2026-03-31T23:06:11.347Z",
-    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 01:04, kolodvor KAŠTEL SUĆURAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "PČELIĆ",
-    "train_number": "89761",
-    "event_time": "2026-04-01T01:06:00",
-    "seen_at": "2026-03-31T23:06:58.104Z",
-    "raw": "Br. Vlaka 89761 odlazak      01.04.26. 01:06, kolodvor PČELIĆ"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47945",
-    "event_time": "2026-04-01T01:05:00",
-    "seen_at": "2026-03-31T23:08:08.052Z",
-    "raw": "Br. Vlaka 47945 dolazak      01.04.26. 01:05, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47945",
-    "event_time": "2026-04-01T01:05:00",
-    "seen_at": "2026-03-31T23:08:08.052Z",
-    "raw": "Br. Vlaka 47945 dolazak      01.04.26. 01:05, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47945",
-    "event_time": "2026-04-01T01:07:00",
-    "seen_at": "2026-03-31T23:08:31.309Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 01:07, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "47945",
-    "event_time": "2026-04-01T01:07:00",
-    "seen_at": "2026-03-31T23:08:31.310Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 01:07, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -12787,5 +12706,77 @@
     "event_time": "2026-04-04T00:59:00",
     "seen_at": "2026-04-03T23:00:01.636Z",
     "raw": "Br. Vlaka 63306 formiran     04.04.26. 00:59, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47563",
+    "event_time": "2026-04-04T01:02:00",
+    "seen_at": "2026-04-03T23:02:55.783Z",
+    "raw": "Br. Vlaka 47563 odlazak      04.04.26. 01:02, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TOVARNIK granica",
+    "train_number": "89420",
+    "event_time": "2026-04-04T00:59:00",
+    "seen_at": "2026-04-03T23:03:19.224Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 00:59, kolodvor 71020"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "89420",
+    "event_time": "2026-04-04T01:01:00",
+    "seen_at": "2026-04-03T23:03:42.575Z",
+    "raw": "Br. Vlaka 89420 dolazak      04.04.26. 01:01, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "45581",
+    "event_time": "2026-04-04T01:06:00",
+    "seen_at": "2026-04-03T23:07:14.002Z",
+    "raw": "Br. Vlaka 45581 formiran     04.04.26. 01:06, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "45581",
+    "event_time": "2026-04-04T01:06:00",
+    "seen_at": "2026-04-03T23:07:37.355Z",
+    "raw": "Br. Vlaka 45581 formiran     04.04.26. 01:06, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-04-03T23:00:00",
+    "seen_at": "2026-04-03T23:08:00.834Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47563",
+    "event_time": "2026-04-04T01:07:00",
+    "seen_at": "2026-04-03T23:08:00.834Z",
+    "raw": "Br. Vlaka 47563 odlazak      04.04.26. 01:07, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "89420",
+    "event_time": "2026-04-04T01:10:00",
+    "seen_at": "2026-04-03T23:10:45.787Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 01:10, kolodvor TOVARNIK"
   }
 ]
