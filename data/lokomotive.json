@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89542",
-    "event_time": "2026-03-31T14:20:00",
-    "seen_at": "2026-03-31T13:31:35.920Z",
-    "raw": "Br. Vlaka 89542 dolazak      31.03.26. 14:20, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-03-31T12:00:00",
-    "seen_at": "2026-03-31T13:31:59.001Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
     "uic": "927820622029",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -13111,5 +13093,14 @@
     "event_time": "2026-04-03T15:23:00",
     "seen_at": "2026-04-03T13:24:24.367Z",
     "raw": "Br. Vlaka 63310 odlazak      03.04.26. 15:23, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "89402",
+    "event_time": "2026-04-03T15:29:00",
+    "seen_at": "2026-04-03T13:31:36.162Z",
+    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 15:29, kolodvor ĐURĐENOVAC"
   }
 ]
