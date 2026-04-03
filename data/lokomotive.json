@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "81227",
-    "event_time": "2026-03-31T19:47:00",
-    "seen_at": "2026-03-31T17:49:47.500Z",
-    "raw": "Br. Vlaka 81227 odlazak      31.03.26. 19:47, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "SUHOPOLJE",
-    "train_number": "48587",
-    "event_time": "2026-03-31T19:48:00",
-    "seen_at": "2026-03-31T17:52:29.599Z",
-    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 19:48, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "927820622029",
     "type": "Dolazak",
     "station": "BIZOVAC",
     "train_number": "81227",
@@ -12949,5 +12931,32 @@
     "event_time": "2026-04-03T19:43:00",
     "seen_at": "2026-04-03T17:43:12.775Z",
     "raw": "Br. Vlaka 46657 odlazak      03.04.26. 19:43, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-04-03T19:39:00",
+    "seen_at": "2026-04-03T17:45:44.209Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "46657",
+    "event_time": "2026-04-03T19:51:00",
+    "seen_at": "2026-04-03T17:52:04.597Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 19:51, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "46657",
+    "event_time": "2026-04-03T19:51:00",
+    "seen_at": "2026-04-03T17:52:04.597Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 19:51, kolodvor MRZLO POLJE"
   }
 ]
