@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "89021",
-    "event_time": "2026-03-31T16:56:00",
-    "seen_at": "2026-03-31T14:56:33.038Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 16:56, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "DARDA",
@@ -13111,5 +13102,14 @@
     "event_time": "2026-04-03T16:47:00",
     "seen_at": "2026-04-03T14:48:10.963Z",
     "raw": "Br. Vlaka 63310 odlazak      03.04.26. 16:47, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-03T16:55:00",
+    "seen_at": "2026-04-03T14:57:22.463Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
