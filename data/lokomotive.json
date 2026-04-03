@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81233",
-    "event_time": "2026-03-31T04:25:00",
-    "seen_at": "2026-03-31T02:25:28.207Z",
-    "raw": "Br. Vlaka 81233 odlazak      31.03.26. 04:25, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "48587",
-    "event_time": "2026-03-31T04:19:00",
-    "seen_at": "2026-03-31T02:26:15.040Z",
-    "raw": "Br. Vlaka 48587 dolazak      31.03.26. 04:19, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "81233",
-    "event_time": "2026-03-31T04:30:00",
-    "seen_at": "2026-03-31T02:30:43.126Z",
-    "raw": "Br. Vlaka 81233 dolazak      31.03.26. 04:30, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89163",
-    "event_time": "2026-03-31T04:25:00",
-    "seen_at": "2026-03-31T02:30:43.127Z",
-    "raw": "Br. Vlaka 89163 odlazak      31.03.26. 04:25, kolodvor DUGO SELO"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "PREČEC stajalište",
@@ -13183,5 +13147,41 @@
     "event_time": "2026-04-03T04:14:00",
     "seen_at": "2026-04-03T02:15:31.425Z",
     "raw": "Br. Vlaka 89402 odlazak      03.04.26. 04:14, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "89402",
+    "event_time": "2026-04-03T04:21:00",
+    "seen_at": "2026-04-03T02:22:30.829Z",
+    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 04:21, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-03T04:24:00",
+    "seen_at": "2026-04-03T02:25:16.466Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "77033",
+    "event_time": "2026-04-03T04:25:00",
+    "seen_at": "2026-04-03T02:27:14.004Z",
+    "raw": "Br. Vlaka 77033 odlazak      03.04.26. 04:25, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89402",
+    "event_time": "2026-04-03T04:30:00",
+    "seen_at": "2026-04-03T02:30:23.474Z",
+    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 04:30, kolodvor VINKOVCI"
   }
 ]
