@@ -2,51 +2,6 @@
   {
     "uic": "987821323118",
     "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69327",
-    "event_time": "2026-03-31T11:36:00",
-    "seen_at": "2026-03-31T09:38:59.317Z",
-    "raw": "Br. Vlaka 69327 odlazak      31.03.26. 11:36, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "89021",
-    "event_time": "2026-03-31T11:38:00",
-    "seen_at": "2026-03-31T09:38:59.319Z",
-    "raw": "Br. Vlaka 89021 odlazak      31.03.26. 11:38, kolodvor SISAK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82513",
-    "event_time": "2026-03-31T11:40:00",
-    "seen_at": "2026-03-31T09:41:43.027Z",
-    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:40, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82513",
-    "event_time": "2026-03-31T11:40:00",
-    "seen_at": "2026-03-31T09:41:43.027Z",
-    "raw": "Br. Vlaka 82513 odlazak      31.03.26. 11:40, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "82510",
-    "event_time": "2026-03-31T11:37:00",
-    "seen_at": "2026-03-31T09:43:38.306Z",
-    "raw": "Br. Vlaka 82510 odlazak      31.03.26. 11:37, kolodvor VELIKA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "69327",
     "event_time": "2026-03-31T11:45:00",
@@ -13048,5 +13003,77 @@
     "event_time": "2026-04-03T11:31:00",
     "seen_at": "2026-04-03T09:32:17.551Z",
     "raw": "Br. Vlaka 89711 formiran     03.04.26. 11:31, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81987",
+    "event_time": "2026-04-03T11:34:00",
+    "seen_at": "2026-04-03T09:35:33.590Z",
+    "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:34, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "46657",
+    "event_time": "2026-04-03T11:35:00",
+    "seen_at": "2026-04-03T09:36:20.157Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:35, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "46657",
+    "event_time": "2026-04-03T11:35:00",
+    "seen_at": "2026-04-03T09:36:20.157Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:35, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "89541",
+    "event_time": "2026-04-03T11:37:00",
+    "seen_at": "2026-04-03T09:40:15.864Z",
+    "raw": "Br. Vlaka 89541 dolazak      03.04.26. 11:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89921",
+    "event_time": "2026-04-03T11:38:00",
+    "seen_at": "2026-04-03T09:40:15.866Z",
+    "raw": "Br. Vlaka 89921 odlazak      03.04.26. 11:38, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "46657",
+    "event_time": "2026-04-03T11:39:00",
+    "seen_at": "2026-04-03T09:40:15.866Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:39, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "46657",
+    "event_time": "2026-04-03T11:39:00",
+    "seen_at": "2026-04-03T09:40:15.866Z",
+    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:39, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89541",
+    "event_time": "2026-04-03T11:39:00",
+    "seen_at": "2026-04-03T09:40:39.407Z",
+    "raw": "Br. Vlaka 89541 odlazak      03.04.26. 11:39, kolodvor OSIJEK"
   }
 ]
