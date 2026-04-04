@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "89137",
-    "event_time": "2026-04-01T06:31:00",
-    "seen_at": "2026-04-01T04:31:59.226Z",
-    "raw": "Br. Vlaka 89137 formiran     01.04.26. 06:31, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "LEPAVINA",
@@ -12310,5 +12301,23 @@
     "event_time": "2026-04-04T06:20:00",
     "seen_at": "2026-04-04T04:21:01.613Z",
     "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:20, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89420",
+    "event_time": "2026-04-04T06:24:00",
+    "seen_at": "2026-04-04T04:26:41.337Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 06:24, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "VELIKA GORICA",
+    "train_number": null,
+    "event_time": "2026-04-04T06:00:00",
+    "seen_at": "2026-04-04T04:27:52.616Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72908 VELIKA GORICA"
   }
 ]
