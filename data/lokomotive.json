@@ -1,77 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "74301",
-    "event_time": "2026-04-01T07:50:00",
-    "seen_at": "2026-04-01T05:56:52.314Z",
-    "raw": "Br. Vlaka 74301 dolazak      01.04.26. 07:50, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "PLETERNICA",
-    "train_number": null,
-    "event_time": "2026-04-01T07:50:00",
-    "seen_at": "2026-04-01T05:57:16.858Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "PLETERNICA",
-    "train_number": "74303",
-    "event_time": "2026-04-01T07:57:00",
-    "seen_at": "2026-04-01T05:58:27.837Z",
-    "raw": "Br. Vlaka 74303 formiran     01.04.26. 07:57, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-04-01T07:58:00",
-    "seen_at": "2026-04-01T06:00:02.310Z",
-    "raw": "Br. Vlaka 45105 odlazak      01.04.26. 07:58, kolodvor SPAČVA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "74303",
-    "event_time": "2026-04-01T07:54:00",
-    "seen_at": "2026-04-01T06:00:02.311Z",
-    "raw": "Br. Vlaka 74303 odlazak      01.04.26. 07:54, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "46654",
-    "event_time": "2026-04-01T07:58:00",
-    "seen_at": "2026-04-01T06:00:49.806Z",
-    "raw": "Br. Vlaka 46654 dolazak      01.04.26. 07:58, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-04-01T08:01:00",
-    "seen_at": "2026-04-01T06:01:36.997Z",
-    "raw": "Br. Vlaka 81230 formiran     01.04.26. 08:01, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-04-01T08:01:00",
-    "seen_at": "2026-04-01T06:01:36.997Z",
-    "raw": "Br. Vlaka 81230 formiran     01.04.26. 08:01, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -12373,5 +12301,14 @@
     "event_time": "2026-04-04T07:45:00",
     "seen_at": "2026-04-04T05:46:28.203Z",
     "raw": "Br. Vlaka 89120 odlazak      04.04.26. 07:45, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "89120",
+    "event_time": "2026-04-04T07:56:00",
+    "seen_at": "2026-04-04T05:57:03.802Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 07:56, kolodvor GORNJE DUBRAVE"
   }
 ]
