@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "48588",
-    "event_time": "2026-04-01T05:52:00",
-    "seen_at": "2026-04-01T03:52:31.920Z",
-    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 05:52, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "48588",
-    "event_time": "2026-04-01T05:52:00",
-    "seen_at": "2026-04-01T03:52:31.920Z",
-    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 05:52, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89717",
-    "event_time": "2026-04-01T05:53:00",
-    "seen_at": "2026-04-01T03:54:04.764Z",
-    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:53, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89717",
-    "event_time": "2026-04-01T05:53:00",
-    "seen_at": "2026-04-01T03:54:04.764Z",
-    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:53, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "987893113470",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -12382,5 +12346,14 @@
     "event_time": "2026-04-04T05:35:00",
     "seen_at": "2026-04-04T03:37:06.743Z",
     "raw": "Br. Vlaka 89120 dolazak      04.04.26. 05:35, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89420",
+    "event_time": "2026-04-04T05:55:00",
+    "seen_at": "2026-04-04T03:57:08.364Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 05:55, kolodvor HRVATSKA DUBICA"
   }
 ]
