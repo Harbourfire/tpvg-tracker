@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81211",
-    "event_time": "2026-04-01T02:30:00",
-    "seen_at": "2026-04-01T00:31:13.997Z",
-    "raw": "Br. Vlaka 81211 dolazak      01.04.26. 02:30, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "48588",
-    "event_time": "2026-04-01T02:31:00",
-    "seen_at": "2026-04-01T00:32:00.945Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 02:31, kolodvor SLATINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "48588",
-    "event_time": "2026-04-01T02:31:00",
-    "seen_at": "2026-04-01T00:32:00.945Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 02:31, kolodvor SLATINA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47945",
-    "event_time": "2026-04-01T02:20:00",
-    "seen_at": "2026-04-01T00:32:47.913Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:20, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47945",
-    "event_time": "2026-04-01T02:20:00",
-    "seen_at": "2026-04-01T00:32:47.913Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:20, kolodvor VRBOVEC"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "VIROVITICA",
@@ -12670,5 +12625,68 @@
     "event_time": "2026-04-04T02:25:00",
     "seen_at": "2026-04-04T00:26:37.913Z",
     "raw": "Br. Vlaka 45581 odlazak      04.04.26. 02:25, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "45581",
+    "event_time": "2026-04-04T02:29:00",
+    "seen_at": "2026-04-04T00:29:36.670Z",
+    "raw": "Br. Vlaka 45581 odlazak      04.04.26. 02:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "45581",
+    "event_time": "2026-04-04T02:29:00",
+    "seen_at": "2026-04-04T00:29:36.671Z",
+    "raw": "Br. Vlaka 45581 odlazak      04.04.26. 02:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-04T02:29:00",
+    "seen_at": "2026-04-04T00:30:47.144Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 02:29, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-04T02:29:00",
+    "seen_at": "2026-04-04T00:30:47.144Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 02:29, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "45581",
+    "event_time": "2026-04-04T02:33:00",
+    "seen_at": "2026-04-04T00:33:31.111Z",
+    "raw": "Br. Vlaka 45581 odlazak      04.04.26. 02:33, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "45581",
+    "event_time": "2026-04-04T02:33:00",
+    "seen_at": "2026-04-04T00:33:31.111Z",
+    "raw": "Br. Vlaka 45581 odlazak      04.04.26. 02:33, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89420",
+    "event_time": "2026-04-04T02:35:00",
+    "seen_at": "2026-04-04T00:35:51.782Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 02:35, kolodvor SIBINJ"
   }
 ]
