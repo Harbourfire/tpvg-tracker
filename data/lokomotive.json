@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-01T20:40:00",
-    "seen_at": "2026-04-01T18:41:17.823Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:40, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-01T20:40:00",
-    "seen_at": "2026-04-01T18:41:17.824Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:40, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63310",
     "event_time": "2026-04-01T20:50:00",
@@ -10141,5 +10123,14 @@
     "event_time": "2026-04-04T17:45:00",
     "seen_at": "2026-04-04T18:25:40.946Z",
     "raw": "Br. Vlaka 45130 promjena sas 04.04.26. 17:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-04-04T20:42:00",
+    "seen_at": "2026-04-04T18:42:37.739Z",
+    "raw": "Br. Vlaka 45130 odlazak      04.04.26. 20:42, kolodvor VINKOVCI"
   }
 ]
