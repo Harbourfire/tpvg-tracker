@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48588",
-    "event_time": "2026-04-01T15:18:00",
-    "seen_at": "2026-04-01T13:20:41.529Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:18, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "48588",
-    "event_time": "2026-04-01T15:18:00",
-    "seen_at": "2026-04-01T13:20:41.529Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:18, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "48588",
-    "event_time": "2026-04-01T15:23:00",
-    "seen_at": "2026-04-01T13:23:25.814Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:23, kolodvor 72302"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "48588",
-    "event_time": "2026-04-01T15:23:00",
-    "seen_at": "2026-04-01T13:23:25.814Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 15:23, kolodvor 72302"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "SPAČVA",
-    "train_number": "76512",
-    "event_time": "2026-04-01T15:25:00",
-    "seen_at": "2026-04-01T13:28:44.012Z",
-    "raw": "Br. Vlaka 76512 dolazak      01.04.26. 15:25, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "48588",
@@ -10879,5 +10834,23 @@
     "event_time": "2026-04-04T15:08:00",
     "seen_at": "2026-04-04T13:09:29.558Z",
     "raw": "Br. Vlaka 63310 odlazak      04.04.26. 15:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-04T15:24:00",
+    "seen_at": "2026-04-04T13:26:18.670Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 15:24, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-04T15:24:00",
+    "seen_at": "2026-04-04T13:26:18.670Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 15:24, kolodvor LIČKA JESENICA"
   }
 ]
