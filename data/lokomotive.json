@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "83818",
-    "event_time": "2026-04-01T23:08:00",
-    "seen_at": "2026-04-01T21:08:11.830Z",
-    "raw": "Br. Vlaka 83818 dolazak      01.04.26. 23:08, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44994",
-    "event_time": "2026-04-01T23:16:00",
-    "seen_at": "2026-04-01T21:16:37.669Z",
-    "raw": "Br. Vlaka 44994 dolazak      01.04.26. 23:16, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "928012230050",
     "type": "Formiran",
     "station": "OGULIN",
@@ -10096,5 +10078,23 @@
     "event_time": "2026-04-04T23:04:00",
     "seen_at": "2026-04-04T21:06:23.360Z",
     "raw": "Br. Vlaka 63305 odlazak      04.04.26. 23:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45994",
+    "event_time": "2026-04-04T23:10:00",
+    "seen_at": "2026-04-04T21:10:32.563Z",
+    "raw": "Br. Vlaka 45994 odlazak      04.04.26. 23:10, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45994",
+    "event_time": "2026-04-04T23:10:00",
+    "seen_at": "2026-04-04T21:10:32.564Z",
+    "raw": "Br. Vlaka 45994 odlazak      04.04.26. 23:10, kolodvor KRIŽEVCI"
   }
 ]
