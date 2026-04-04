@@ -1,33 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89021",
-    "event_time": "2026-04-01T05:01:00",
-    "seen_at": "2026-04-01T03:02:10.738Z",
-    "raw": "Br. Vlaka 89021 odlazak      01.04.26. 05:01, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "89717",
-    "event_time": "2026-04-01T02:37:00",
-    "seen_at": "2026-04-01T03:03:31.070Z",
-    "raw": "Br. Vlaka 89717 formiran     01.04.26. 02:37, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "89717",
-    "event_time": "2026-04-01T02:37:00",
-    "seen_at": "2026-04-01T03:04:18.626Z",
-    "raw": "Br. Vlaka 89717 formiran     01.04.26. 02:37, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "987895225611",
     "type": "Dolazak",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": "89021",
@@ -12373,5 +12346,23 @@
     "event_time": "2026-04-04T04:50:00",
     "seen_at": "2026-04-04T02:54:38.216Z",
     "raw": "Br. Vlaka 69006 formiran     04.04.26. 04:50, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89120",
+    "event_time": "2026-04-04T05:01:00",
+    "seen_at": "2026-04-04T03:01:51.868Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 05:01, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-04T05:08:00",
+    "seen_at": "2026-04-04T03:08:58.128Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
