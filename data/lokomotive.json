@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44994",
-    "event_time": "2026-04-02T01:49:00",
-    "seen_at": "2026-04-01T23:50:36.853Z",
-    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 01:49, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-02T01:50:00",
-    "seen_at": "2026-04-01T23:50:59.864Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-02T01:53:00",
-    "seen_at": "2026-04-01T23:56:36.722Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 01:53, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-02T01:53:00",
-    "seen_at": "2026-04-01T23:56:36.722Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 01:53, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620197",
     "type": "Dolazak",
     "station": "VARAŽDIN",
     "train_number": "44994",
@@ -9673,5 +9637,14 @@
     "event_time": "2026-04-05T00:08:00",
     "seen_at": "2026-04-04T22:10:57.984Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-05T01:56:00",
+    "seen_at": "2026-04-04T23:56:51.729Z",
+    "raw": "Br. Vlaka 63306 formiran     05.04.26. 01:56, kolodvor GOSPIĆ"
   }
 ]
