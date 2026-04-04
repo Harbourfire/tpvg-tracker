@@ -2,24 +2,6 @@
   {
     "uic": "987895225611",
     "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89021",
-    "event_time": "2026-04-01T04:44:00",
-    "seen_at": "2026-04-01T02:45:53.059Z",
-    "raw": "Br. Vlaka 89021 odlazak      01.04.26. 04:44, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "45690",
-    "event_time": "2026-04-01T04:45:00",
-    "seen_at": "2026-04-01T02:48:38.127Z",
-    "raw": "Br. Vlaka 45690 odlazak      01.04.26. 04:45, kolodvor SV. IVAN ŽABNO"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
     "station": "GARČIN",
     "train_number": "89021",
     "event_time": "2026-04-01T04:55:00",
@@ -12418,5 +12400,14 @@
     "event_time": "2026-04-04T04:30:00",
     "seen_at": "2026-04-04T02:30:58.551Z",
     "raw": "Br. Vlaka 89120 odlazak      04.04.26. 04:30, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89120",
+    "event_time": "2026-04-04T04:38:00",
+    "seen_at": "2026-04-04T02:41:09.416Z",
+    "raw": "Br. Vlaka 89120 dolazak      04.04.26. 04:38, kolodvor 72304"
   }
 ]
