@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89021",
-    "event_time": "2026-04-01T06:41:00",
-    "seen_at": "2026-04-01T04:45:23.483Z",
-    "raw": "Br. Vlaka 89021 odlazak      01.04.26. 06:41, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -12310,5 +12301,23 @@
     "event_time": "2026-04-04T06:36:00",
     "seen_at": "2026-04-04T04:36:20.377Z",
     "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:36, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "89420",
+    "event_time": "2026-04-04T06:43:00",
+    "seen_at": "2026-04-04T04:46:45.464Z",
+    "raw": "Br. Vlaka 89420 dolazak      04.04.26. 06:43, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "89120",
+    "event_time": "2026-04-04T06:49:00",
+    "seen_at": "2026-04-04T04:49:28.310Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:49, kolodvor KARLOVAC"
   }
 ]
