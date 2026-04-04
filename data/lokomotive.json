@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "45788",
-    "event_time": "2026-04-01T13:24:00",
-    "seen_at": "2026-04-01T11:24:33.910Z",
-    "raw": "Br. Vlaka 45788 formiran     01.04.26. 13:24, kolodvor ŽUPANJA"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -10996,5 +10987,23 @@
     "event_time": "2026-04-04T12:46:00",
     "seen_at": "2026-04-04T10:57:07.050Z",
     "raw": "Br. Vlaka 45994 promjena sas 04.04.26. 12:46, kolodvor 72303"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-04T13:08:00",
+    "seen_at": "2026-04-04T11:16:13.380Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-04T13:08:00",
+    "seen_at": "2026-04-04T11:16:13.380Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
