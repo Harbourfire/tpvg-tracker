@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89723",
-    "event_time": "2026-04-01T16:18:00",
-    "seen_at": "2026-04-01T14:19:21.116Z",
-    "raw": "Br. Vlaka 89723 dolazak      01.04.26. 16:18, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89723",
-    "event_time": "2026-04-01T16:18:00",
-    "seen_at": "2026-04-01T14:19:21.116Z",
-    "raw": "Br. Vlaka 89723 dolazak      01.04.26. 16:18, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-01T16:18:00",
-    "seen_at": "2026-04-01T14:19:44.848Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-01T16:18:00",
-    "seen_at": "2026-04-01T14:19:44.849Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "76512",
-    "event_time": "2026-04-01T16:14:00",
-    "seen_at": "2026-04-01T14:22:26.846Z",
-    "raw": "Br. Vlaka 76512 dolazak      01.04.26. 16:14, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-01T16:14:00",
-    "seen_at": "2026-04-01T14:22:50.389Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81231",
-    "event_time": "2026-04-01T16:21:00",
-    "seen_at": "2026-04-01T14:23:36.829Z",
-    "raw": "Br. Vlaka 81231 odlazak      01.04.26. 16:21, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81231",
-    "event_time": "2026-04-01T16:21:00",
-    "seen_at": "2026-04-01T14:23:36.830Z",
-    "raw": "Br. Vlaka 81231 odlazak      01.04.26. 16:21, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "928012230050",
     "type": "Dolazak",
     "station": "PLAŠKI",
@@ -10717,5 +10645,41 @@
     "event_time": "2026-03-26T14:53:00",
     "seen_at": "2026-04-04T13:59:18.258Z",
     "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-01T16:18:00",
+    "seen_at": "2026-04-04T14:20:25.505Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-01T16:18:00",
+    "seen_at": "2026-04-04T14:20:25.506Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-04T16:20:00",
+    "seen_at": "2026-04-04T14:21:58.600Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 16:20, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-04T16:20:00",
+    "seen_at": "2026-04-04T14:21:58.600Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 16:20, kolodvor PLAŠKI"
   }
 ]
