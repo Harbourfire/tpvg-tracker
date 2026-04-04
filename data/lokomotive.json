@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-01T07:44:00",
-    "seen_at": "2026-04-01T05:45:18.299Z",
-    "raw": "Br. Vlaka 45105 odlazak      01.04.26. 07:44, kolodvor OTOK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "46654",
-    "event_time": "2026-04-01T07:47:00",
-    "seen_at": "2026-04-01T05:48:45.344Z",
-    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 07:47, kolodvor ZVEČAJ"
-  },
-  {
     "uic": "987893113470",
     "type": "Dolazak",
     "station": "PLETERNICA",
@@ -12364,5 +12346,32 @@
     "event_time": "2026-04-04T07:35:00",
     "seen_at": "2026-04-04T05:36:29.278Z",
     "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:35, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VELIKA GORICA",
+    "train_number": "89420",
+    "event_time": "2026-04-04T07:43:00",
+    "seen_at": "2026-04-04T05:43:46.405Z",
+    "raw": "Br. Vlaka 89420 dolazak      04.04.26. 07:43, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "89165",
+    "train_number": null,
+    "event_time": "2026-04-04T05:46:04.982Z",
+    "seen_at": "2026-04-04T05:46:04.982Z",
+    "raw": "Trenutna pozicija je u kolodvoru 89165 89165"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "89120",
+    "event_time": "2026-04-04T07:45:00",
+    "seen_at": "2026-04-04T05:46:28.203Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 07:45, kolodvor GENERALSKI STOL"
   }
 ]
