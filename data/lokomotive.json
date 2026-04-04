@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "69851",
-    "event_time": "2026-04-01T10:57:00",
-    "seen_at": "2026-04-01T08:57:55.952Z",
-    "raw": "Br. Vlaka 69851 odlazak      01.04.26. 10:57, kolodvor ERDUT"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "46654",
-    "event_time": "2026-04-01T10:57:00",
-    "seen_at": "2026-04-01T08:58:19.609Z",
-    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 10:57, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "45690",
-    "event_time": "2026-04-01T10:59:00",
-    "seen_at": "2026-04-01T08:59:48.135Z",
-    "raw": "Br. Vlaka 45690 odlazak      01.04.26. 10:59, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "81223",
-    "event_time": "2026-04-01T10:58:00",
-    "seen_at": "2026-04-01T09:00:59.950Z",
-    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 10:58, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-01T11:01:00",
-    "seen_at": "2026-04-01T09:01:23.924Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -11473,5 +11428,23 @@
     "event_time": "2026-04-04T10:46:00",
     "seen_at": "2026-04-04T08:47:20.335Z",
     "raw": "Br. Vlaka 82531 odlazak      04.04.26. 10:46, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82531",
+    "event_time": "2026-04-04T11:02:00",
+    "seen_at": "2026-04-04T09:02:45.996Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:02, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82531",
+    "event_time": "2026-04-04T11:02:00",
+    "seen_at": "2026-04-04T09:02:45.996Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:02, kolodvor PLAŠKI"
   }
 ]
