@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "46654",
-    "event_time": "2026-04-01T06:53:00",
-    "seen_at": "2026-04-01T04:54:55.702Z",
-    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 06:53, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "46654",
-    "event_time": "2026-04-01T07:00:00",
-    "seen_at": "2026-04-01T05:02:10.581Z",
-    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 07:00, kolodvor KUKAČA"
-  },
-  {
     "uic": "927820440026",
     "type": "Dolazak",
     "station": "KRIŽEVCI",
@@ -12319,5 +12301,32 @@
     "event_time": "2026-04-04T06:49:00",
     "seen_at": "2026-04-04T04:49:28.310Z",
     "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:49, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "89420",
+    "event_time": "2026-04-04T06:55:00",
+    "seen_at": "2026-04-04T04:57:21.312Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 06:55, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "89120",
+    "event_time": "2026-04-04T06:58:00",
+    "seen_at": "2026-04-04T04:59:16.915Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:58, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89420",
+    "event_time": "2026-04-04T07:02:00",
+    "seen_at": "2026-04-04T05:03:31.704Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:02, kolodvor SISAK"
   }
 ]
