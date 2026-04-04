@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-01T21:05:00",
-    "seen_at": "2026-04-01T19:23:45.157Z",
-    "raw": "Br. Vlaka 63310 promjena sas 01.04.26. 21:05, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-01T21:05:00",
-    "seen_at": "2026-04-01T19:23:45.157Z",
-    "raw": "Br. Vlaka 63310 promjena sas 01.04.26. 21:05, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "83818",
-    "event_time": "2026-04-01T21:24:00",
-    "seen_at": "2026-04-01T19:24:31.114Z",
-    "raw": "Br. Vlaka 83818 formiran     01.04.26. 21:24, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -10105,5 +10078,14 @@
     "event_time": "2026-04-04T20:39:00",
     "seen_at": "2026-04-04T19:07:26.572Z",
     "raw": "Br. Vlaka 69175 formiran     04.04.26. 20:39, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-04T21:30:00",
+    "seen_at": "2026-04-04T19:31:16.250Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
