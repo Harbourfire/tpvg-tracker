@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "45690",
-    "event_time": "2026-04-01T03:08:00",
-    "seen_at": "2026-04-01T01:09:30.407Z",
-    "raw": "Br. Vlaka 45690 odlazak      01.04.26. 03:08, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "ŽITNIĆ",
-    "train_number": "78000",
-    "event_time": "2026-04-01T03:12:00",
-    "seen_at": "2026-04-01T01:13:51.950Z",
-    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 03:12, kolodvor ŽITNIĆ"
-  },
-  {
     "uic": "927820440232",
     "type": "Pretrasiran",
     "station": "ZAGREB ZAPADNI",
@@ -12652,5 +12634,32 @@
     "event_time": "2026-04-04T02:59:00",
     "seen_at": "2026-04-04T01:04:36.111Z",
     "raw": "Br. Vlaka 45581 dolazak      04.04.26. 02:59, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89420",
+    "event_time": "2026-04-04T03:10:00",
+    "seen_at": "2026-04-04T01:11:09.515Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 03:10, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-04T03:10:00",
+    "seen_at": "2026-04-04T01:11:33.886Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 03:10, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-04T03:10:00",
+    "seen_at": "2026-04-04T01:11:33.887Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 03:10, kolodvor RUDOPOLJE"
   }
 ]
