@@ -1,51 +1,6 @@
 [
   {
     "uic": "997894215711",
-    "type": "Formiran",
-    "station": "ŠAPJANE",
-    "train_number": "77251",
-    "event_time": "2026-04-01T13:57:00",
-    "seen_at": "2026-04-01T12:13:36.391Z",
-    "raw": "Br. Vlaka 77251 formiran     01.04.26. 13:57, kolodvor ŠAPJANE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81231",
-    "event_time": "2026-04-01T13:27:00",
-    "seen_at": "2026-04-01T12:16:42.911Z",
-    "raw": "Br. Vlaka 81231 formiran     01.04.26. 13:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81231",
-    "event_time": "2026-04-01T13:27:00",
-    "seen_at": "2026-04-01T12:17:30.009Z",
-    "raw": "Br. Vlaka 81231 formiran     01.04.26. 13:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48588",
-    "event_time": "2026-04-01T14:18:00",
-    "seen_at": "2026-04-01T12:19:27.306Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 14:18, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48588",
-    "event_time": "2026-04-01T14:18:00",
-    "seen_at": "2026-04-01T12:19:27.306Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 14:18, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "997894215711",
     "type": "Odlazak",
     "station": "ŠAPJANE",
     "train_number": "77251",
@@ -10960,5 +10915,23 @@
     "event_time": "2026-04-01T01:04:00",
     "seen_at": "2026-04-04T11:38:35.883Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-04T14:16:00",
+    "seen_at": "2026-04-04T12:17:13.545Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:16, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-04T14:16:00",
+    "seen_at": "2026-04-04T12:17:13.545Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:16, kolodvor GOSPIĆ"
   }
 ]
