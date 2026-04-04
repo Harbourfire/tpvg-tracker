@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45131",
-    "event_time": "2026-04-01T23:33:00",
-    "seen_at": "2026-04-01T21:34:12.837Z",
-    "raw": "Br. Vlaka 45131 formiran     01.04.26. 23:33, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44994",
-    "event_time": "2026-04-01T23:34:00",
-    "seen_at": "2026-04-01T21:34:36.376Z",
-    "raw": "Br. Vlaka 44994 odlazak      01.04.26. 23:34, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -10087,5 +10069,32 @@
     "event_time": "2026-04-04T23:21:00",
     "seen_at": "2026-04-04T21:21:54.260Z",
     "raw": "Br. Vlaka 63305 odlazak      04.04.26. 23:21, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-04T23:28:00",
+    "seen_at": "2026-04-04T21:29:02.471Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 23:28, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "45994",
+    "event_time": "2026-04-04T23:34:00",
+    "seen_at": "2026-04-04T21:34:50.498Z",
+    "raw": "Br. Vlaka 45994 dolazak      04.04.26. 23:34, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "45994",
+    "event_time": "2026-04-04T23:34:00",
+    "seen_at": "2026-04-04T21:34:50.499Z",
+    "raw": "Br. Vlaka 45994 dolazak      04.04.26. 23:34, kolodvor LEPAVINA"
   }
 ]
