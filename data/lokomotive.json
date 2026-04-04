@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "46654",
-    "event_time": "2026-04-01T07:38:00",
-    "seen_at": "2026-04-01T05:39:26.958Z",
-    "raw": "Br. Vlaka 46654 odlazak      01.04.26. 07:38, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OTOK",
@@ -12355,5 +12346,23 @@
     "event_time": "2026-04-04T07:28:00",
     "seen_at": "2026-04-04T05:29:31.415Z",
     "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:28, kolodvor LEKENIK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "89120",
+    "event_time": "2026-04-04T07:35:00",
+    "seen_at": "2026-04-04T05:36:05.848Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 07:35, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "89420",
+    "event_time": "2026-04-04T07:35:00",
+    "seen_at": "2026-04-04T05:36:29.278Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:35, kolodvor TUROPOLJE"
   }
 ]
