@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47945",
-    "event_time": "2026-04-01T02:11:00",
-    "seen_at": "2026-04-01T00:12:21.091Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:11, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47945",
-    "event_time": "2026-04-01T02:11:00",
-    "seen_at": "2026-04-01T00:12:21.091Z",
-    "raw": "Br. Vlaka 47945 odlazak      01.04.26. 02:11, kolodvor GRADEC"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -12634,5 +12616,32 @@
     "event_time": "2026-04-04T02:06:00",
     "seen_at": "2026-04-04T00:06:25.457Z",
     "raw": "Br. Vlaka 89420 odlazak      04.04.26. 02:06, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89420",
+    "event_time": "2026-04-04T02:12:00",
+    "seen_at": "2026-04-04T00:12:48.647Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 02:12, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-04T02:14:00",
+    "seen_at": "2026-04-04T00:15:07.336Z",
+    "raw": "Br. Vlaka 63306 dolazak      04.04.26. 02:14, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-04T02:14:00",
+    "seen_at": "2026-04-04T00:15:07.336Z",
+    "raw": "Br. Vlaka 63306 dolazak      04.04.26. 02:14, kolodvor PERUŠIĆ"
   }
 ]
