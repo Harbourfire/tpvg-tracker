@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "83818",
-    "event_time": "2026-04-01T22:49:00",
-    "seen_at": "2026-04-01T20:50:34.390Z",
-    "raw": "Br. Vlaka 83818 odlazak      01.04.26. 22:49, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "83818",
-    "event_time": "2026-04-01T22:56:00",
-    "seen_at": "2026-04-01T20:57:21.744Z",
-    "raw": "Br. Vlaka 83818 odlazak      01.04.26. 22:56, kolodvor GARČIN"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -10141,5 +10123,23 @@
     "event_time": "2026-04-04T22:47:00",
     "seen_at": "2026-04-04T20:47:30.758Z",
     "raw": "Br. Vlaka 45994 odlazak      04.04.26. 22:47, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45994",
+    "event_time": "2026-04-04T22:55:00",
+    "seen_at": "2026-04-04T20:57:02.716Z",
+    "raw": "Br. Vlaka 45994 dolazak      04.04.26. 22:55, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45994",
+    "event_time": "2026-04-04T22:55:00",
+    "seen_at": "2026-04-04T20:57:02.717Z",
+    "raw": "Br. Vlaka 45994 dolazak      04.04.26. 22:55, kolodvor KRIŽEVCI"
   }
 ]
