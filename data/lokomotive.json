@@ -12310,5 +12310,41 @@
     "event_time": "2026-04-04T07:56:00",
     "seen_at": "2026-04-04T05:57:03.802Z",
     "raw": "Br. Vlaka 89120 odlazak      04.04.26. 07:56, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-04T08:01:00",
+    "seen_at": "2026-04-04T06:02:45.053Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "KUKAČA",
+    "train_number": "89120",
+    "event_time": "2026-04-04T08:01:00",
+    "seen_at": "2026-04-04T06:06:15.754Z",
+    "raw": "Br. Vlaka 89120 dolazak      04.04.26. 08:01, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "89120",
+    "event_time": "2026-04-04T08:05:00",
+    "seen_at": "2026-04-04T06:06:38.630Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 08:05, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-04T08:10:00",
+    "seen_at": "2026-04-04T06:11:16.122Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
