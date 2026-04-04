@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69851",
-    "event_time": "2026-04-01T11:07:00",
-    "seen_at": "2026-04-01T09:12:18.176Z",
-    "raw": "Br. Vlaka 69851 odlazak      01.04.26. 11:07, kolodvor DALJ"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "TOVARNIK",
-    "train_number": "71200",
-    "event_time": "2026-04-01T09:41:00",
-    "seen_at": "2026-04-01T09:12:46.228Z",
-    "raw": "Br. Vlaka 71200 formiran     01.04.26. 09:41, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "71200",
-    "event_time": "2026-04-01T11:11:00",
-    "seen_at": "2026-04-01T09:13:09.720Z",
-    "raw": "Br. Vlaka 71200 odlazak      01.04.26. 11:11, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "43781",
-    "event_time": "2026-04-01T11:13:00",
-    "seen_at": "2026-04-01T09:13:33.210Z",
-    "raw": "Br. Vlaka 43781 odlazak      01.04.26. 11:13, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "43781",
-    "event_time": "2026-04-01T11:16:00",
-    "seen_at": "2026-04-01T09:16:41.962Z",
-    "raw": "Br. Vlaka 43781 odlazak      01.04.26. 11:16, kolodvor 72302"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "45690",
-    "event_time": "2026-04-01T11:15:00",
-    "seen_at": "2026-04-01T09:17:29.198Z",
-    "raw": "Br. Vlaka 45690 odlazak      01.04.26. 11:15, kolodvor SESVETE"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "ĐELETOVCI",
@@ -11401,5 +11347,23 @@
     "event_time": "2026-04-04T11:02:00",
     "seen_at": "2026-04-04T09:02:45.996Z",
     "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:02, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82531",
+    "event_time": "2026-04-04T11:12:00",
+    "seen_at": "2026-04-04T09:14:22.480Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:12, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82531",
+    "event_time": "2026-04-04T11:12:00",
+    "seen_at": "2026-04-04T09:14:22.481Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:12, kolodvor BLATA"
   }
 ]
