@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "ŠAPJANE",
-    "train_number": "77251",
-    "event_time": "2026-04-01T14:21:00",
-    "seen_at": "2026-04-01T12:22:47.415Z",
-    "raw": "Br. Vlaka 77251 odlazak      01.04.26. 14:21, kolodvor ŠAPJANE"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "VINKOVCI",
@@ -10933,5 +10924,23 @@
     "event_time": "2026-04-04T14:16:00",
     "seen_at": "2026-04-04T12:17:13.545Z",
     "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:16, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-04T14:28:00",
+    "seen_at": "2026-04-04T12:29:09.177Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:28, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-04T14:28:00",
+    "seen_at": "2026-04-04T12:29:09.177Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:28, kolodvor PERUŠIĆ"
   }
 ]
