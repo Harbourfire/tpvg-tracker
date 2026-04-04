@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45690",
-    "event_time": "2026-04-01T11:33:00",
-    "seen_at": "2026-04-01T09:35:04.101Z",
-    "raw": "Br. Vlaka 45690 dolazak      01.04.26. 11:33, kolodvor 72303"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69851",
-    "event_time": "2026-04-01T11:35:00",
-    "seen_at": "2026-04-01T09:37:03.826Z",
-    "raw": "Br. Vlaka 69851 odlazak      01.04.26. 11:35, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-01T11:37:00",
-    "seen_at": "2026-04-01T09:40:02.420Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "DRENOVCI",
-    "train_number": "76512",
-    "event_time": "2026-04-01T11:06:00",
-    "seen_at": "2026-04-01T09:40:25.802Z",
-    "raw": "Br. Vlaka 76512 formiran     01.04.26. 11:06, kolodvor DRENOVCI"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "SAVSKI MAROF granica",
@@ -11302,5 +11266,23 @@
     "event_time": "2026-04-04T11:21:00",
     "seen_at": "2026-04-04T09:28:46.699Z",
     "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:21, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82531",
+    "event_time": "2026-04-04T11:37:00",
+    "seen_at": "2026-04-04T09:37:25.701Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:37, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82531",
+    "event_time": "2026-04-04T11:37:00",
+    "seen_at": "2026-04-04T09:37:25.701Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:37, kolodvor RUDOPOLJE"
   }
 ]
