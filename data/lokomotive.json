@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Dolazak",
-    "station": "OPATIJA-MATULJI",
-    "train_number": "77251",
-    "event_time": "2026-04-01T14:45:00",
-    "seen_at": "2026-04-01T12:45:51.906Z",
-    "raw": "Br. Vlaka 77251 dolazak      01.04.26. 14:45, kolodvor OPATIJA-MATULJI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "48588",
-    "event_time": "2026-04-01T14:46:00",
-    "seen_at": "2026-04-01T12:46:14.979Z",
-    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 14:46, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "48588",
-    "event_time": "2026-04-01T14:46:00",
-    "seen_at": "2026-04-01T12:46:14.979Z",
-    "raw": "Br. Vlaka 48588 dolazak      01.04.26. 14:46, kolodvor DUGO SELO"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "DUGO SELO",
@@ -10915,5 +10888,23 @@
     "event_time": "2026-04-04T14:28:00",
     "seen_at": "2026-04-04T12:29:09.177Z",
     "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:28, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-04T14:46:00",
+    "seen_at": "2026-04-04T12:47:19.502Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:46, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-04T14:46:00",
+    "seen_at": "2026-04-04T12:47:19.502Z",
+    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:46, kolodvor LIČKO LEŠĆE"
   }
 ]
