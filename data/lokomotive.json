@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81230",
-    "event_time": "2026-04-01T13:25:00",
-    "seen_at": "2026-04-01T11:28:01.677Z",
-    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 13:25, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81230",
-    "event_time": "2026-04-01T13:25:00",
-    "seen_at": "2026-04-01T11:28:01.677Z",
-    "raw": "Br. Vlaka 81230 odlazak      01.04.26. 13:25, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-01T13:31:00",
-    "seen_at": "2026-04-01T11:32:16.273Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-01T13:31:00",
-    "seen_at": "2026-04-01T11:32:16.273Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "ŽUPANJA",
@@ -11005,5 +10969,23 @@
     "event_time": "2026-04-04T13:08:00",
     "seen_at": "2026-04-04T11:16:13.380Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-04T13:27:00",
+    "seen_at": "2026-04-04T11:27:45.231Z",
+    "raw": "Br. Vlaka 63310 formiran     04.04.26. 13:27, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-04T13:27:00",
+    "seen_at": "2026-04-04T11:27:45.231Z",
+    "raw": "Br. Vlaka 63310 formiran     04.04.26. 13:27, kolodvor GOSPIĆ"
   }
 ]
