@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-01T20:30:00",
-    "seen_at": "2026-04-01T18:32:25.960Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:30, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-01T20:30:00",
-    "seen_at": "2026-04-01T18:32:25.960Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 20:30, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "63310",
     "event_time": "2026-04-01T20:40:00",
@@ -10150,5 +10132,14 @@
     "event_time": "2026-03-20T16:23:00",
     "seen_at": "2026-04-04T15:26:30.948Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-04-04T17:45:00",
+    "seen_at": "2026-04-04T18:25:40.946Z",
+    "raw": "Br. Vlaka 45130 promjena sas 04.04.26. 17:45, kolodvor VINKOVCI"
   }
 ]
