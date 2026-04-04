@@ -1,68 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "KOSOVO",
-    "train_number": "78000",
-    "event_time": "2026-04-01T03:33:00",
-    "seen_at": "2026-04-01T01:33:57.414Z",
-    "raw": "Br. Vlaka 78000 odlazak      01.04.26. 03:33, kolodvor KOSOVO"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "43781",
-    "event_time": "2026-04-01T03:35:00",
-    "seen_at": "2026-04-01T01:36:18.670Z",
-    "raw": "Br. Vlaka 43781 odlazak      01.04.26. 03:35, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "48588",
-    "event_time": "2026-04-01T03:37:00",
-    "seen_at": "2026-04-01T01:38:29.414Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 03:37, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "48588",
-    "event_time": "2026-04-01T03:37:00",
-    "seen_at": "2026-04-01T01:38:29.414Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 03:37, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-01T03:36:00",
-    "seen_at": "2026-04-01T01:39:39.404Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-01T03:36:00",
-    "seen_at": "2026-04-01T01:39:39.404Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-03-31T16:40:00",
-    "seen_at": "2026-04-01T01:42:49.512Z",
-    "raw": "Br. Vlaka 47563 formiran     31.03.26. 16:40, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820440265",
     "type": "Formiran",
     "station": "SAVSKI MAROF granica",
@@ -12517,5 +12454,32 @@
     "event_time": "2026-04-04T03:28:00",
     "seen_at": "2026-04-04T01:29:45.330Z",
     "raw": "Br. Vlaka 63306 odlazak      04.04.26. 03:28, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-04T03:37:00",
+    "seen_at": "2026-04-04T01:38:28.362Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 03:37, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-04T03:37:00",
+    "seen_at": "2026-04-04T01:38:28.362Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 03:37, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "89420",
+    "event_time": "2026-04-04T03:40:00",
+    "seen_at": "2026-04-04T01:40:24.644Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 03:40, kolodvor OKUČANI"
   }
 ]
