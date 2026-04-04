@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-01T07:19:00",
-    "seen_at": "2026-04-01T05:22:11.839Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-01T07:20:00",
-    "seen_at": "2026-04-01T05:23:21.709Z",
-    "raw": "Br. Vlaka 45105 odlazak      01.04.26. 07:20, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "GORNJE DUBRAVE",
@@ -12328,5 +12310,41 @@
     "event_time": "2026-04-04T07:12:00",
     "seen_at": "2026-04-04T05:13:09.728Z",
     "raw": "Br. Vlaka 89420 dolazak      04.04.26. 07:12, kolodvor GREDA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-04T07:17:00",
+    "seen_at": "2026-04-04T05:17:41.964Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-04T07:17:00",
+    "seen_at": "2026-04-04T05:17:41.965Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-04T07:17:00",
+    "seen_at": "2026-04-04T05:17:41.965Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "DUGA RESA",
+    "train_number": "89120",
+    "event_time": "2026-04-04T07:05:00",
+    "seen_at": "2026-04-04T05:19:37.236Z",
+    "raw": "Br. Vlaka 89120 dolazak      04.04.26. 07:05, kolodvor DUGA RESA"
   }
 ]
