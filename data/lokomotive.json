@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "83818",
-    "event_time": "2026-04-01T22:32:00",
-    "seen_at": "2026-04-01T20:32:47.541Z",
-    "raw": "Br. Vlaka 83818 odlazak      01.04.26. 22:32, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-01T22:28:00",
-    "seen_at": "2026-04-01T20:33:10.815Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 22:28, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-01T22:28:00",
-    "seen_at": "2026-04-01T20:33:10.816Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.04.26. 22:28, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-04-01T22:37:00",
-    "seen_at": "2026-04-01T20:38:49.747Z",
-    "raw": "Br. Vlaka 63310 dolazak      01.04.26. 22:37, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-04-01T22:37:00",
-    "seen_at": "2026-04-01T20:38:49.747Z",
-    "raw": "Br. Vlaka 63310 dolazak      01.04.26. 22:37, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230050",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -10186,5 +10141,14 @@
     "event_time": "2026-04-04T22:21:00",
     "seen_at": "2026-04-04T20:22:00.774Z",
     "raw": "Br. Vlaka 45994 odlazak      04.04.26. 22:21, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-04T22:31:00",
+    "seen_at": "2026-04-04T20:32:39.785Z",
+    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 22:31, kolodvor BLATA"
   }
 ]
