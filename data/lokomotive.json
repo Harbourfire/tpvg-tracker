@@ -2,33 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89717",
-    "event_time": "2026-04-01T05:24:00",
-    "seen_at": "2026-04-01T03:24:36.940Z",
-    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:24, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89717",
-    "event_time": "2026-04-01T05:24:00",
-    "seen_at": "2026-04-01T03:24:36.940Z",
-    "raw": "Br. Vlaka 89717 odlazak      01.04.26. 05:24, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "45690",
-    "event_time": "2026-04-01T05:05:00",
-    "seen_at": "2026-04-01T03:25:00.127Z",
-    "raw": "Br. Vlaka 45690 dolazak      01.04.26. 05:05, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "89717",
     "event_time": "2026-04-01T05:29:00",
@@ -12409,5 +12382,86 @@
     "event_time": "2026-04-04T05:15:00",
     "seen_at": "2026-04-04T03:16:33.735Z",
     "raw": "Br. Vlaka 69006 odlazak      04.04.26. 05:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "89120",
+    "event_time": "2026-04-04T05:18:00",
+    "seen_at": "2026-04-04T03:19:30.448Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 05:18, kolodvor HORVATI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-04T05:21:00",
+    "seen_at": "2026-04-04T03:22:17.779Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-04T05:21:00",
+    "seen_at": "2026-04-04T03:22:17.779Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-04T05:21:00",
+    "seen_at": "2026-04-04T03:22:17.779Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-04T04:51:00",
+    "seen_at": "2026-04-04T03:26:36.357Z",
+    "raw": "Br. Vlaka 69005 formiran     04.04.26. 04:51, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-04T04:51:00",
+    "seen_at": "2026-04-04T03:26:36.357Z",
+    "raw": "Br. Vlaka 69005 formiran     04.04.26. 04:51, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "89120",
+    "event_time": "2026-04-04T05:26:00",
+    "seen_at": "2026-04-04T03:26:59.939Z",
+    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 05:26, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-04T04:51:00",
+    "seen_at": "2026-04-04T03:26:59.939Z",
+    "raw": "Br. Vlaka 69005 formiran     04.04.26. 04:51, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "89420",
+    "event_time": "2026-04-04T05:26:00",
+    "seen_at": "2026-04-04T03:28:10.636Z",
+    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 05:26, kolodvor NOVSKA"
   }
 ]
