@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215612",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-26T09:31:00",
-    "seen_at": "2026-04-01T08:35:33.584Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "46654",
-    "event_time": "2026-04-01T10:22:00",
-    "seen_at": "2026-04-01T08:38:19.397Z",
-    "raw": "Br. Vlaka 46654 dolazak      01.04.26. 10:22, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "81223",
-    "event_time": "2026-04-01T10:37:00",
-    "seen_at": "2026-04-01T08:39:06.407Z",
-    "raw": "Br. Vlaka 81223 odlazak      01.04.26. 10:37, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48588",
-    "event_time": "2026-04-01T10:41:00",
-    "seen_at": "2026-04-01T08:42:25.217Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 10:41, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48588",
-    "event_time": "2026-04-01T10:41:00",
-    "seen_at": "2026-04-01T08:42:25.217Z",
-    "raw": "Br. Vlaka 48588 odlazak      01.04.26. 10:41, kolodvor GRADEC"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -11518,5 +11473,32 @@
     "event_time": "2026-04-01T10:10:00",
     "seen_at": "2026-04-04T08:21:06.027Z",
     "raw": "Trenutna pozicija je u kolodvoru 76106 PERUŠIĆ"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-26T09:31:00",
+    "seen_at": "2026-04-04T08:36:12.236Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82531",
+    "event_time": "2026-04-04T10:40:00",
+    "seen_at": "2026-04-04T08:40:55.428Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 10:40, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82531",
+    "event_time": "2026-04-04T10:40:00",
+    "seen_at": "2026-04-04T08:40:55.428Z",
+    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 10:40, kolodvor OŠTARIJE"
   }
 ]
