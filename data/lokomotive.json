@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622011",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89751",
-    "event_time": "2026-04-02T13:31:00",
-    "seen_at": "2026-04-02T11:36:52.768Z",
-    "raw": "Br. Vlaka 89751 dolazak      02.04.26. 13:31, kolodvor 72303"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-02T13:31:00",
-    "seen_at": "2026-04-02T11:37:16.178Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "76600",
-    "event_time": "2026-04-02T13:36:00",
-    "seen_at": "2026-04-02T11:37:16.180Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 13:36, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47593",
-    "event_time": "2026-04-02T13:37:00",
-    "seen_at": "2026-04-02T11:37:39.720Z",
-    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 13:37, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "SUŠAK PEĆINE",
-    "train_number": "77263",
-    "event_time": "2026-04-02T13:41:00",
-    "seen_at": "2026-04-02T11:42:58.028Z",
-    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 13:41, kolodvor SUŠAK PEĆINE"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -8404,5 +8359,14 @@
     "event_time": "2026-04-05T13:00:00",
     "seen_at": "2026-04-05T11:21:25.404Z",
     "raw": "Br. Vlaka 47428 dolazak      05.04.26. 13:00, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-02T13:31:00",
+    "seen_at": "2026-04-05T11:37:46.208Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
