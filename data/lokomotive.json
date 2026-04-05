@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "81278",
-    "event_time": "2026-04-02T10:13:00",
-    "seen_at": "2026-04-02T08:13:25.573Z",
-    "raw": "Br. Vlaka 81278 formiran     02.04.26. 10:13, kolodvor VELIKA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82253",
-    "event_time": "2026-04-02T08:53:00",
-    "seen_at": "2026-04-02T08:18:42.194Z",
-    "raw": "Br. Vlaka 82253 formiran     02.04.26. 08:53, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82253",
-    "event_time": "2026-04-02T08:53:00",
-    "seen_at": "2026-04-02T08:18:42.194Z",
-    "raw": "Br. Vlaka 82253 formiran     02.04.26. 08:53, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Dolazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "75023",
-    "event_time": "2026-04-02T10:15:00",
-    "seen_at": "2026-04-02T08:19:53.016Z",
-    "raw": "Br. Vlaka 75023 dolazak      02.04.26. 10:15, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44994",
-    "event_time": "2026-04-02T10:18:00",
-    "seen_at": "2026-04-02T08:21:03.336Z",
-    "raw": "Br. Vlaka 44994 dolazak      02.04.26. 10:18, kolodvor KOTORIBA"
-  },
-  {
     "uic": "997894215687",
     "type": "Rasformiran",
     "station": "IVANIĆ GRAD",
@@ -9052,5 +9007,23 @@
     "event_time": "2026-04-05T10:11:00",
     "seen_at": "2026-04-05T08:11:14.952Z",
     "raw": "Br. Vlaka 44795 dolazak      05.04.26. 10:11, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-04-05T10:18:00",
+    "seen_at": "2026-04-05T08:19:13.852Z",
+    "raw": "Br. Vlaka 47428 dolazak      05.04.26. 10:18, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-04-05T10:18:00",
+    "seen_at": "2026-04-05T08:19:13.852Z",
+    "raw": "Br. Vlaka 47428 dolazak      05.04.26. 10:18, kolodvor GENERALSKI STOL"
   }
 ]
