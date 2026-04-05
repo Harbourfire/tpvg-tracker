@@ -1,51 +1,6 @@
 [
   {
     "uic": "997894215711",
-    "type": "Formiran",
-    "station": "RIJEKA",
-    "train_number": "77263",
-    "event_time": "2026-04-02T13:12:00",
-    "seen_at": "2026-04-02T11:15:16.152Z",
-    "raw": "Br. Vlaka 77263 formiran     02.04.26. 13:12, kolodvor RIJEKA"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "76600",
-    "event_time": "2026-04-02T13:19:00",
-    "seen_at": "2026-04-02T11:19:55.495Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 13:19, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89751",
-    "event_time": "2026-04-02T13:19:00",
-    "seen_at": "2026-04-02T11:20:18.603Z",
-    "raw": "Br. Vlaka 89751 odlazak      02.04.26. 13:19, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "81278",
-    "event_time": "2026-04-02T13:18:00",
-    "seen_at": "2026-04-02T11:20:18.604Z",
-    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 13:18, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "RIJEKA",
-    "train_number": "77263",
-    "event_time": "2026-04-02T13:20:00",
-    "seen_at": "2026-04-02T11:20:53.711Z",
-    "raw": "Br. Vlaka 77263 odlazak      02.04.26. 13:20, kolodvor RIJEKA"
-  },
-  {
-    "uic": "997894215711",
     "type": "Dolazak",
     "station": "SUŠAK PEĆINE",
     "train_number": "77263",
@@ -8476,5 +8431,23 @@
     "event_time": "2026-04-05T12:52:00",
     "seen_at": "2026-04-05T10:54:24.574Z",
     "raw": "Br. Vlaka 47428 odlazak      05.04.26. 12:52, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-04-05T13:00:00",
+    "seen_at": "2026-04-05T11:21:25.404Z",
+    "raw": "Br. Vlaka 47428 dolazak      05.04.26. 13:00, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-04-05T13:00:00",
+    "seen_at": "2026-04-05T11:21:25.404Z",
+    "raw": "Br. Vlaka 47428 dolazak      05.04.26. 13:00, kolodvor SAVSKI MAROF"
   }
 ]
