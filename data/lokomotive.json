@@ -2,33 +2,6 @@
   {
     "uic": "927820621195",
     "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89760",
-    "event_time": "2026-04-02T21:10:00",
-    "seen_at": "2026-04-02T19:11:05.657Z",
-    "raw": "Br. Vlaka 89760 odlazak      02.04.26. 21:10, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "47593",
-    "event_time": "2026-04-02T21:16:00",
-    "seen_at": "2026-04-02T19:16:59.371Z",
-    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 21:16, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89760",
-    "event_time": "2026-04-02T21:15:00",
-    "seen_at": "2026-04-02T19:18:09.853Z",
-    "raw": "Br. Vlaka 89760 dolazak      02.04.26. 21:15, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
     "station": "VELIKO TRGOVIŠĆE",
     "train_number": "89760",
     "event_time": "2026-04-02T21:22:00",
@@ -7225,5 +7198,23 @@
     "event_time": "2026-04-02T21:00:00",
     "seen_at": "2026-04-05T17:40:19.539Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-05T21:15:00",
+    "seen_at": "2026-04-05T19:16:29.370Z",
+    "raw": "Br. Vlaka 69175 formiran     05.04.26. 21:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-05T21:15:00",
+    "seen_at": "2026-04-05T19:16:53.292Z",
+    "raw": "Br. Vlaka 69175 formiran     05.04.26. 21:15, kolodvor OŠTARIJE"
   }
 ]
