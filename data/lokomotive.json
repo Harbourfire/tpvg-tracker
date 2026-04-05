@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-04-02T03:10:00",
-    "seen_at": "2026-04-02T01:14:58.841Z",
-    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 03:10, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-04-02T03:10:00",
-    "seen_at": "2026-04-02T01:14:58.841Z",
-    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 03:10, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-04-02T03:14:00",
-    "seen_at": "2026-04-02T01:15:21.826Z",
-    "raw": "Br. Vlaka 47563 dolazak      02.04.26. 03:14, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-04-02T03:14:00",
-    "seen_at": "2026-04-02T01:15:21.826Z",
-    "raw": "Br. Vlaka 47563 dolazak      02.04.26. 03:14, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440232",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF",
     "train_number": null,
@@ -9592,5 +9556,14 @@
     "event_time": "2026-04-05T03:04:00",
     "seen_at": "2026-04-05T01:06:15.074Z",
     "raw": "Br. Vlaka 45994 dolazak      05.04.26. 03:04, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-05T03:08:00",
+    "seen_at": "2026-04-05T01:09:09.704Z",
+    "raw": "Br. Vlaka 63306 odlazak      05.04.26. 03:08, kolodvor PERUŠIĆ"
   }
 ]
