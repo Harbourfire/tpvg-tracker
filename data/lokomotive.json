@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "89690",
-    "event_time": "2026-04-02T12:37:00",
-    "seen_at": "2026-04-02T10:38:10.740Z",
-    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:37, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "89690",
-    "event_time": "2026-04-02T12:37:00",
-    "seen_at": "2026-04-02T10:38:10.740Z",
-    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:37, kolodvor BUZET"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76600",
-    "event_time": "2026-04-02T12:38:00",
-    "seen_at": "2026-04-02T10:38:57.314Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 12:38, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82253",
-    "event_time": "2026-04-02T12:38:00",
-    "seen_at": "2026-04-02T10:39:43.949Z",
-    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 12:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82253",
-    "event_time": "2026-04-02T12:38:00",
-    "seen_at": "2026-04-02T10:39:43.949Z",
-    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 12:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230076",
     "type": "Dolazak",
     "station": "BUZET",
     "train_number": "89690",
@@ -8620,5 +8575,23 @@
     "event_time": "2026-04-02T12:29:00",
     "seen_at": "2026-04-05T10:31:39.613Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47428",
+    "event_time": "2026-04-05T12:37:00",
+    "seen_at": "2026-04-05T10:38:08.653Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 12:37, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47428",
+    "event_time": "2026-04-05T12:37:00",
+    "seen_at": "2026-04-05T10:38:08.653Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 12:37, kolodvor ZAGREB ZAP. KOL."
   }
 ]
