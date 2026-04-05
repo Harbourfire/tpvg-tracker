@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894853412",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-03-24T07:36:00",
-    "seen_at": "2026-04-02T06:40:57.027Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "75023",
-    "event_time": "2026-04-02T08:37:00",
-    "seen_at": "2026-04-02T06:47:47.013Z",
-    "raw": "Br. Vlaka 75023 dolazak      02.04.26. 08:37, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "75023",
-    "event_time": "2026-04-02T08:46:00",
-    "seen_at": "2026-04-02T06:48:11.043Z",
-    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:46, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "DRENOVCI",
@@ -9241,5 +9214,14 @@
     "event_time": "2026-04-05T07:57:00",
     "seen_at": "2026-04-05T05:58:26.596Z",
     "raw": "Br. Vlaka 44795 dolazak      05.04.26. 07:57, kolodvor 73164"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-03-24T07:36:00",
+    "seen_at": "2026-04-05T06:41:30.897Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
   }
 ]
