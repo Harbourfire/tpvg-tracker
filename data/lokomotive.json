@@ -2,51 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "89690",
-    "event_time": "2026-04-02T12:28:00",
-    "seen_at": "2026-04-02T10:29:24.230Z",
-    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:28, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "89690",
-    "event_time": "2026-04-02T12:28:00",
-    "seen_at": "2026-04-02T10:29:24.230Z",
-    "raw": "Br. Vlaka 89690 odlazak      02.04.26. 12:28, kolodvor ROČ"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76600",
-    "event_time": "2026-04-02T12:29:00",
-    "seen_at": "2026-04-02T10:29:47.947Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 12:29, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-02T12:29:00",
-    "seen_at": "2026-04-02T10:30:58.271Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "77027",
-    "event_time": "2026-04-02T12:32:00",
-    "seen_at": "2026-04-02T10:33:07.181Z",
-    "raw": "Br. Vlaka 77027 odlazak      02.04.26. 12:32, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "BUZET",
     "train_number": "89690",
     "event_time": "2026-04-02T12:37:00",
@@ -8656,5 +8611,14 @@
     "event_time": "2026-04-05T12:24:00",
     "seen_at": "2026-04-05T10:25:13.186Z",
     "raw": "Br. Vlaka 47428 odlazak      05.04.26. 12:24, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-02T12:29:00",
+    "seen_at": "2026-04-05T10:31:39.613Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
