@@ -2,24 +2,6 @@
   {
     "uic": "928012230050",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-02T23:28:00",
-    "seen_at": "2026-04-02T21:29:33.296Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 23:28, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-02T23:28:00",
-    "seen_at": "2026-04-02T21:29:33.296Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 23:28, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "63305",
     "event_time": "2026-04-02T23:35:00",
@@ -6964,5 +6946,14 @@
     "event_time": "2026-04-05T23:10:00",
     "seen_at": "2026-04-05T21:12:30.152Z",
     "raw": "Br. Vlaka 47996 odlazak      05.04.26. 23:10, kolodvor 73164"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "47996",
+    "event_time": "2026-04-05T23:20:00",
+    "seen_at": "2026-04-05T21:34:41.700Z",
+    "raw": "Br. Vlaka 47996 dolazak      05.04.26. 23:20, kolodvor KOPRIVNICA GR    A"
   }
 ]
