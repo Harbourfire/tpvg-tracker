@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "MOSLAVAČKA GRAČENICA",
-    "train_number": "76600",
-    "event_time": "2026-04-02T13:53:00",
-    "seen_at": "2026-04-02T11:53:40.304Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 13:53, kolodvor MOSLAVAČKA GRAČENICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47593",
-    "event_time": "2026-04-02T13:53:00",
-    "seen_at": "2026-04-02T11:55:12.858Z",
-    "raw": "Br. Vlaka 47593 dolazak      02.04.26. 13:53, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47593",
-    "event_time": "2026-04-02T13:55:00",
-    "seen_at": "2026-04-02T11:55:39.750Z",
-    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 13:55, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997894215711",
-    "type": "Dolazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "77263",
-    "event_time": "2026-04-02T13:56:00",
-    "seen_at": "2026-04-02T11:56:26.233Z",
-    "raw": "Br. Vlaka 77263 dolazak      02.04.26. 13:56, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "POPOVAČA",
-    "train_number": "76600",
-    "event_time": "2026-04-02T14:00:00",
-    "seen_at": "2026-04-02T12:00:33.197Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 14:00, kolodvor POPOVAČA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -8350,5 +8305,14 @@
     "event_time": "2026-04-05T01:04:00",
     "seen_at": "2026-04-05T11:52:04.186Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Promjena sastava",
+    "station": "NOVO DRNJE",
+    "train_number": "47996",
+    "event_time": "2026-04-05T12:48:00",
+    "seen_at": "2026-04-05T11:58:28.925Z",
+    "raw": "Br. Vlaka 47996 promjena sas 05.04.26. 12:48, kolodvor 73164"
   }
 ]
