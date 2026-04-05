@@ -1,60 +1,6 @@
 [
   {
     "uic": "997894215703",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-02T11:06:00",
-    "seen_at": "2026-04-02T09:11:05.046Z",
-    "raw": "Br. Vlaka 76600 formiran     02.04.26. 11:06, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-02T10:08:00",
-    "seen_at": "2026-04-02T09:13:01.830Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 10:08, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-02T11:06:00",
-    "seen_at": "2026-04-02T09:13:25.587Z",
-    "raw": "Br. Vlaka 76600 formiran     02.04.26. 11:06, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-02T11:08:00",
-    "seen_at": "2026-04-02T09:13:48.843Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:08, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82253",
-    "event_time": "2026-04-02T11:17:00",
-    "seen_at": "2026-04-02T09:18:43.208Z",
-    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:17, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82253",
-    "event_time": "2026-04-02T11:17:00",
-    "seen_at": "2026-04-02T09:18:43.208Z",
-    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:17, kolodvor BLATA"
-  },
-  {
-    "uic": "997894215703",
     "type": "Odlazak",
     "station": "IVANKOVO",
     "train_number": "76600",
@@ -8980,5 +8926,23 @@
     "event_time": "2026-03-30T11:04:00",
     "seen_at": "2026-04-05T09:06:10.966Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "47428",
+    "event_time": "2026-04-05T11:12:00",
+    "seen_at": "2026-04-05T09:14:59.595Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:12, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "47428",
+    "event_time": "2026-04-05T11:12:00",
+    "seen_at": "2026-04-05T09:14:59.595Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:12, kolodvor MRZLO POLJE"
   }
 ]
