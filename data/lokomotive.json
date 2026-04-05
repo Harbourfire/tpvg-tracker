@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-04-02T03:43:00",
-    "seen_at": "2026-04-02T01:47:55.310Z",
-    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 03:43, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47563",
-    "event_time": "2026-04-02T03:50:00",
-    "seen_at": "2026-04-02T01:51:18.611Z",
-    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 03:50, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
     "type": "Dolazak",
     "station": "PODSUSED tvornica",
     "train_number": "47563",
@@ -9520,5 +9502,14 @@
     "event_time": "2026-04-05T03:40:00",
     "seen_at": "2026-04-05T01:41:36.244Z",
     "raw": "Br. Vlaka 63306 odlazak      05.04.26. 03:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-05T03:53:00",
+    "seen_at": "2026-04-05T01:54:00.738Z",
+    "raw": "Br. Vlaka 63306 odlazak      05.04.26. 03:53, kolodvor RUDOPOLJE"
   }
 ]
