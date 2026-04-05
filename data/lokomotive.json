@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Dolazak",
-    "station": "ČAČINCI",
-    "train_number": "77027",
-    "event_time": "2026-04-02T10:17:00",
-    "seen_at": "2026-04-02T08:31:08.894Z",
-    "raw": "Br. Vlaka 77027 dolazak      02.04.26. 10:17, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "72003",
-    "event_time": "2026-04-02T10:34:00",
-    "seen_at": "2026-04-02T08:34:38.317Z",
-    "raw": "Br. Vlaka 72003 odlazak      02.04.26. 10:34, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-03-30T10:36:00",
-    "seen_at": "2026-04-02T08:36:58.386Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "72003",
-    "event_time": "2026-04-02T10:38:00",
-    "seen_at": "2026-04-02T08:38:49.961Z",
-    "raw": "Br. Vlaka 72003 odlazak      02.04.26. 10:38, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "45597",
-    "event_time": "2026-04-02T10:37:00",
-    "seen_at": "2026-04-02T08:39:37.167Z",
-    "raw": "Br. Vlaka 45597 odlazak      02.04.26. 10:37, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "45597",
-    "event_time": "2026-04-02T10:37:00",
-    "seen_at": "2026-04-02T08:39:37.167Z",
-    "raw": "Br. Vlaka 45597 odlazak      02.04.26. 10:37, kolodvor BUZET"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -9025,5 +8971,50 @@
     "event_time": "2026-04-05T10:21:00",
     "seen_at": "2026-04-05T08:27:37.634Z",
     "raw": "Br. Vlaka 44795 odlazak      05.04.26. 10:21, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-03-30T10:36:00",
+    "seen_at": "2026-04-05T08:37:38.670Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "44795",
+    "event_time": "2026-04-05T10:39:00",
+    "seen_at": "2026-04-05T08:39:13.153Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 10:39, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "44795",
+    "event_time": "2026-04-05T10:39:00",
+    "seen_at": "2026-04-05T08:39:13.154Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 10:39, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-04-05T10:38:00",
+    "seen_at": "2026-04-05T08:40:00.174Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 10:38, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-04-05T10:38:00",
+    "seen_at": "2026-04-05T08:40:00.174Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 10:38, kolodvor GENERALSKI STOL"
   }
 ]
