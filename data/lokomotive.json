@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215687",
-    "type": "Rasformiran",
-    "station": "IVANIĆ GRAD",
-    "train_number": null,
-    "event_time": "2026-04-02T10:15:00",
-    "seen_at": "2026-04-02T08:22:14.193Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-02T10:15:00",
-    "seen_at": "2026-04-02T08:23:02.493Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "72003",
-    "event_time": "2026-04-02T10:22:00",
-    "seen_at": "2026-04-02T08:25:46.650Z",
-    "raw": "Br. Vlaka 72003 formiran     02.04.26. 10:22, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "987891113167",
     "type": "Dolazak",
     "station": "ČAČINCI",
@@ -9025,5 +8998,32 @@
     "event_time": "2026-04-05T10:18:00",
     "seen_at": "2026-04-05T08:19:13.852Z",
     "raw": "Br. Vlaka 47428 dolazak      05.04.26. 10:18, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-05T08:22:56.534Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "44795",
+    "event_time": "2026-04-05T10:21:00",
+    "seen_at": "2026-04-05T08:27:37.633Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 10:21, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "44795",
+    "event_time": "2026-04-05T10:21:00",
+    "seen_at": "2026-04-05T08:27:37.634Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 10:21, kolodvor DUGO SELO"
   }
 ]
