@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44994",
-    "event_time": "2026-04-02T10:03:00",
-    "seen_at": "2026-04-02T08:09:08.446Z",
-    "raw": "Br. Vlaka 44994 odlazak      02.04.26. 10:03, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "72002",
-    "event_time": "2026-04-02T10:10:00",
-    "seen_at": "2026-04-02T08:11:52.940Z",
-    "raw": "Br. Vlaka 72002 odlazak      02.04.26. 10:10, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "VELIKA",
@@ -9034,5 +9016,41 @@
     "event_time": "2026-04-05T09:58:00",
     "seen_at": "2026-04-05T07:58:18.136Z",
     "raw": "Br. Vlaka 47428 odlazak      05.04.26. 09:58, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "47428",
+    "event_time": "2026-04-05T10:05:00",
+    "seen_at": "2026-04-05T08:06:36.702Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 10:05, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "47428",
+    "event_time": "2026-04-05T10:05:00",
+    "seen_at": "2026-04-05T08:06:36.702Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 10:05, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "44795",
+    "event_time": "2026-04-05T10:11:00",
+    "seen_at": "2026-04-05T08:11:14.951Z",
+    "raw": "Br. Vlaka 44795 dolazak      05.04.26. 10:11, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "44795",
+    "event_time": "2026-04-05T10:11:00",
+    "seen_at": "2026-04-05T08:11:14.952Z",
+    "raw": "Br. Vlaka 44795 dolazak      05.04.26. 10:11, kolodvor DUGO SELO"
   }
 ]
