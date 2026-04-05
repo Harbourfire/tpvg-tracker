@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81278",
-    "event_time": "2026-04-02T14:34:00",
-    "seen_at": "2026-04-02T12:34:51.426Z",
-    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 14:34, kolodvor SIBINJ"
-  },
-  {
     "uic": "997894215711",
     "type": "Odlazak",
     "station": "PLASE",
@@ -8197,5 +8188,23 @@
     "event_time": "2026-04-05T12:48:00",
     "seen_at": "2026-04-05T11:58:28.925Z",
     "raw": "Br. Vlaka 47996 promjena sas 05.04.26. 12:48, kolodvor 73164"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-04-05T13:00:00",
+    "seen_at": "2026-04-05T12:37:23.034Z",
+    "raw": "Br. Vlaka 47428 promjena sas 05.04.26. 13:00, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-04-05T13:00:00",
+    "seen_at": "2026-04-05T12:37:23.034Z",
+    "raw": "Br. Vlaka 47428 promjena sas 05.04.26. 13:00, kolodvor SAVSKI MAROF"
   }
 ]
