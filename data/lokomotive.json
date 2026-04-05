@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-02T07:39:00",
-    "seen_at": "2026-04-02T05:45:33.395Z",
-    "raw": "Br. Vlaka 45105 odlazak      02.04.26. 07:39, kolodvor OTOK"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "75023",
-    "event_time": "2026-04-02T07:45:00",
-    "seen_at": "2026-04-02T05:45:57.131Z",
-    "raw": "Br. Vlaka 75023 formiran     02.04.26. 07:45, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82270",
-    "event_time": "2026-04-02T07:44:00",
-    "seen_at": "2026-04-02T05:46:20.544Z",
-    "raw": "Br. Vlaka 82270 dolazak      02.04.26. 07:44, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-02T07:44:00",
-    "seen_at": "2026-04-02T05:46:43.899Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "77022",
-    "event_time": "2026-04-02T07:45:00",
-    "seen_at": "2026-04-02T05:47:07.148Z",
-    "raw": "Br. Vlaka 77022 odlazak      02.04.26. 07:45, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -9421,5 +9376,23 @@
     "event_time": "2026-04-05T05:35:00",
     "seen_at": "2026-04-05T05:05:30.688Z",
     "raw": "Br. Vlaka 47428 formiran     05.04.26. 05:35, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "44795",
+    "event_time": "2026-04-05T07:45:00",
+    "seen_at": "2026-04-05T05:49:53.645Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 07:45, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "44795",
+    "event_time": "2026-04-05T07:45:00",
+    "seen_at": "2026-04-05T05:49:53.646Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 07:45, kolodvor KOPRIVNICA GR    A"
   }
 ]
