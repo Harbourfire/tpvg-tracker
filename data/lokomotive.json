@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47563",
-    "event_time": "2026-04-02T04:28:00",
-    "seen_at": "2026-04-02T02:28:48.472Z",
-    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 04:28, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -9502,5 +9493,14 @@
     "event_time": "2026-04-05T04:17:00",
     "seen_at": "2026-04-05T02:18:58.686Z",
     "raw": "Br. Vlaka 63306 odlazak      05.04.26. 04:17, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-05T04:28:00",
+    "seen_at": "2026-04-05T02:30:02.763Z",
+    "raw": "Br. Vlaka 63306 odlazak      05.04.26. 04:28, kolodvor PLAŠKI"
   }
 ]
