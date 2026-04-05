@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89540",
-    "event_time": "2026-04-02T09:12:00",
-    "seen_at": "2026-04-02T07:29:23.791Z",
-    "raw": "Br. Vlaka 89540 odlazak      02.04.26. 09:12, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-30T09:28:00",
-    "seen_at": "2026-04-02T07:30:11.078Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89540",
-    "event_time": "2026-04-02T09:24:00",
-    "seen_at": "2026-04-02T07:31:10.104Z",
-    "raw": "Br. Vlaka 89540 odlazak      02.04.26. 09:24, kolodvor DARDA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "TOVARNIK",
-    "train_number": null,
-    "event_time": "2026-04-02T09:33:00",
-    "seen_at": "2026-04-02T07:36:40.653Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71001 TOVARNIK"
-  },
-  {
     "uic": "997894215687",
     "type": "Odlazak",
     "station": "DUGO SELO",
@@ -9124,5 +9088,32 @@
     "event_time": "2026-04-05T09:22:00",
     "seen_at": "2026-04-05T07:22:26.335Z",
     "raw": "Br. Vlaka 44795 odlazak      05.04.26. 09:22, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-30T09:28:00",
+    "seen_at": "2026-04-05T07:30:54.047Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "44795",
+    "event_time": "2026-04-05T09:35:00",
+    "seen_at": "2026-04-05T07:35:37.374Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 09:35, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "44795",
+    "event_time": "2026-04-05T09:35:00",
+    "seen_at": "2026-04-05T07:35:37.375Z",
+    "raw": "Br. Vlaka 44795 odlazak      05.04.26. 09:35, kolodvor KRIŽEVCI"
   }
 ]
