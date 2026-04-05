@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "TOVARNIK granica",
-    "train_number": "47593",
-    "event_time": "2026-04-03T01:48:00",
-    "seen_at": "2026-04-02T23:49:59.905Z",
-    "raw": "Br. Vlaka 47593 dolazak      03.04.26. 01:48, kolodvor 71020"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-04-03T01:48:00",
-    "seen_at": "2026-04-02T23:50:23.404Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-03T01:54:00",
-    "seen_at": "2026-04-02T23:55:06.722Z",
-    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 01:54, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-03T01:54:00",
-    "seen_at": "2026-04-02T23:55:06.723Z",
-    "raw": "Br. Vlaka 63306 odlazak      03.04.26. 01:54, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "VALPOVO",
@@ -7090,5 +7054,14 @@
     "event_time": "2026-04-06T01:40:00",
     "seen_at": "2026-04-05T23:40:40.695Z",
     "raw": "Br. Vlaka 47427 odlazak      06.04.26. 01:40, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47427",
+    "event_time": "2026-04-06T01:52:00",
+    "seen_at": "2026-04-05T23:52:31.131Z",
+    "raw": "Br. Vlaka 47427 odlazak      06.04.26. 01:52, kolodvor KARLOVAC"
   }
 ]
