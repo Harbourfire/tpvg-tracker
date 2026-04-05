@@ -1,68 +1,5 @@
 [
   {
-    "uic": "987821323035",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-02T16:00:00",
-    "seen_at": "2026-04-02T21:50:01.322Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820623019",
-    "type": "Rasformiran",
-    "station": "KNIN",
-    "train_number": null,
-    "event_time": "2026-02-10T17:10:00",
-    "seen_at": "2026-04-02T21:50:01.322Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
-  },
-  {
-    "uic": "927820623027",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-02-27T12:25:00",
-    "seen_at": "2026-04-02T21:50:01.322Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "997894100012",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2025-10-24T12:35:00",
-    "seen_at": "2026-04-02T21:50:01.322Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "997896853188",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-02-06T04:50:00",
-    "seen_at": "2026-04-02T21:50:01.322Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-02T23:50:00",
-    "seen_at": "2026-04-02T21:50:48.621Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 23:50, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-02T23:50:00",
-    "seen_at": "2026-04-02T21:50:48.622Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 23:50, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -6973,5 +6910,77 @@
     "event_time": "2026-04-05T23:36:00",
     "seen_at": "2026-04-05T21:36:53.258Z",
     "raw": "Br. Vlaka 63305 odlazak      05.04.26. 23:36, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-05T23:45:00",
+    "seen_at": "2026-04-05T21:47:13.901Z",
+    "raw": "Br. Vlaka 63305 odlazak      05.04.26. 23:45, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-05T23:45:00",
+    "seen_at": "2026-04-05T21:47:13.901Z",
+    "raw": "Br. Vlaka 63305 odlazak      05.04.26. 23:45, kolodvor BLATA"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-02T16:00:00",
+    "seen_at": "2026-04-05T21:50:42.469Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "KNIN",
+    "train_number": null,
+    "event_time": "2026-02-10T17:10:00",
+    "seen_at": "2026-04-05T21:50:42.470Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-05T21:50:42.470Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2025-10-24T12:35:00",
+    "seen_at": "2026-04-05T21:50:42.470Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-02-06T04:50:00",
+    "seen_at": "2026-04-05T21:50:42.470Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89874",
+    "event_time": "2026-04-05T14:08:00",
+    "seen_at": "2026-04-05T21:53:48.337Z",
+    "raw": "Br. Vlaka 89874 formiran     05.04.26. 14:08, kolodvor KOPRIVNICA GR    A"
   }
 ]
