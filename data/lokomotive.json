@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "BIZOVAC",
-    "train_number": "82516",
-    "event_time": "2026-04-02T23:48:00",
-    "seen_at": "2026-04-02T22:16:58.601Z",
-    "raw": "Br. Vlaka 82516 dolazak      02.04.26. 23:48, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "82516",
-    "event_time": "2026-04-03T00:10:00",
-    "seen_at": "2026-04-02T22:17:46.319Z",
-    "raw": "Br. Vlaka 82516 odlazak      03.04.26. 00:10, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-03T00:19:00",
-    "seen_at": "2026-04-02T22:20:55.036Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-03T00:19:00",
-    "seen_at": "2026-04-02T22:20:55.036Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -6991,5 +6955,32 @@
     "event_time": "2026-04-06T00:09:00",
     "seen_at": "2026-04-05T22:09:37.732Z",
     "raw": "Br. Vlaka 63305 odlazak      06.04.26. 00:09, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-06T00:16:00",
+    "seen_at": "2026-04-05T22:17:17.083Z",
+    "raw": "Br. Vlaka 63305 odlazak      06.04.26. 00:16, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-06T00:16:00",
+    "seen_at": "2026-04-05T22:17:17.083Z",
+    "raw": "Br. Vlaka 63305 odlazak      06.04.26. 00:16, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89874",
+    "event_time": "2026-04-06T00:20:00",
+    "seen_at": "2026-04-05T22:22:00.694Z",
+    "raw": "Br. Vlaka 89874 odlazak      06.04.26. 00:20, kolodvor KOPRIVNICA GR    A"
   }
 ]
