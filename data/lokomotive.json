@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-02T22:05:00",
-    "seen_at": "2026-04-02T20:07:42.817Z",
-    "raw": "Br. Vlaka 44996 odlazak      02.04.26. 22:05, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "47593",
-    "event_time": "2026-04-02T22:05:00",
-    "seen_at": "2026-04-02T20:08:06.653Z",
-    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 22:05, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "ZAGREB RESNIK",
@@ -7126,5 +7108,23 @@
     "event_time": "2026-04-05T21:15:00",
     "seen_at": "2026-04-05T19:16:53.292Z",
     "raw": "Br. Vlaka 69175 formiran     05.04.26. 21:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-05T22:06:00",
+    "seen_at": "2026-04-05T20:07:39.392Z",
+    "raw": "Br. Vlaka 69175 odlazak      05.04.26. 22:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-05T22:06:00",
+    "seen_at": "2026-04-05T20:07:39.393Z",
+    "raw": "Br. Vlaka 69175 odlazak      05.04.26. 22:06, kolodvor OŠTARIJE"
   }
 ]
