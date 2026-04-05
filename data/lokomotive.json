@@ -1,69 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89195",
-    "event_time": "2026-04-02T06:07:00",
-    "seen_at": "2026-04-02T05:53:22.338Z",
-    "raw": "Br. Vlaka 89195 formiran     02.04.26. 06:07, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891113167",
-    "type": "Dolazak",
-    "station": "ČAČINCI",
-    "train_number": "77022",
-    "event_time": "2026-04-02T07:53:00",
-    "seen_at": "2026-04-02T05:55:34.926Z",
-    "raw": "Br. Vlaka 77022 dolazak      02.04.26. 07:53, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "75023",
-    "event_time": "2026-04-02T07:55:00",
-    "seen_at": "2026-04-02T05:55:34.927Z",
-    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 07:55, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89195",
-    "event_time": "2026-04-02T07:56:00",
-    "seen_at": "2026-04-02T05:56:45.201Z",
-    "raw": "Br. Vlaka 89195 odlazak      02.04.26. 07:56, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-04-02T07:55:00",
-    "seen_at": "2026-04-02T05:59:29.331Z",
-    "raw": "Br. Vlaka 45105 odlazak      02.04.26. 07:55, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "83818",
-    "event_time": "2026-04-02T07:59:00",
-    "seen_at": "2026-04-02T06:02:16.837Z",
-    "raw": "Br. Vlaka 83818 dolazak      02.04.26. 07:59, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "997894215687",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "75023",
-    "event_time": "2026-04-02T08:01:00",
-    "seen_at": "2026-04-02T06:02:16.838Z",
-    "raw": "Br. Vlaka 75023 odlazak      02.04.26. 08:01, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620189",
     "type": "Odlazak",
     "station": "STARI MIKANOVCI",
     "train_number": "89195",
@@ -9394,5 +9331,23 @@
     "event_time": "2026-04-05T07:45:00",
     "seen_at": "2026-04-05T05:49:53.646Z",
     "raw": "Br. Vlaka 44795 odlazak      05.04.26. 07:45, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "44795",
+    "event_time": "2026-04-05T07:57:00",
+    "seen_at": "2026-04-05T05:58:26.595Z",
+    "raw": "Br. Vlaka 44795 dolazak      05.04.26. 07:57, kolodvor 73164"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "44795",
+    "event_time": "2026-04-05T07:57:00",
+    "seen_at": "2026-04-05T05:58:26.596Z",
+    "raw": "Br. Vlaka 44795 dolazak      05.04.26. 07:57, kolodvor 73164"
   }
 ]
