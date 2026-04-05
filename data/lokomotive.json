@@ -1,95 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "76600",
-    "event_time": "2026-04-02T11:18:00",
-    "seen_at": "2026-04-02T09:19:53.457Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:18, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-02T11:08:00",
-    "seen_at": "2026-04-02T09:21:54.967Z",
-    "raw": "Br. Vlaka 45104 odlazak      02.04.26. 11:08, kolodvor 71308"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-02T11:17:00",
-    "seen_at": "2026-04-02T09:22:18.407Z",
-    "raw": "Br. Vlaka 45104 dolazak      02.04.26. 11:17, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "TOVARNIK",
-    "train_number": "71200",
-    "event_time": "2026-04-02T11:21:00",
-    "seen_at": "2026-04-02T09:22:18.408Z",
-    "raw": "Br. Vlaka 71200 formiran     02.04.26. 11:21, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "71200",
-    "event_time": "2026-04-02T11:13:00",
-    "seen_at": "2026-04-02T09:22:41.861Z",
-    "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:13, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "71200",
-    "event_time": "2026-04-02T11:22:00",
-    "seen_at": "2026-04-02T09:26:24.532Z",
-    "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:22, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "81278",
-    "event_time": "2026-04-02T11:22:00",
-    "seen_at": "2026-04-02T09:26:47.920Z",
-    "raw": "Br. Vlaka 81278 odlazak      02.04.26. 11:22, kolodvor VELIKA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82253",
-    "event_time": "2026-04-02T11:26:00",
-    "seen_at": "2026-04-02T09:27:11.388Z",
-    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:26, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82253",
-    "event_time": "2026-04-02T11:26:00",
-    "seen_at": "2026-04-02T09:27:11.389Z",
-    "raw": "Br. Vlaka 82253 odlazak      02.04.26. 11:26, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-02T11:27:00",
-    "seen_at": "2026-04-02T09:28:22.055Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:27, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DRENOVCI",
@@ -8944,5 +8854,23 @@
     "event_time": "2026-04-05T11:12:00",
     "seen_at": "2026-04-05T09:14:59.595Z",
     "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:12, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-05T11:22:00",
+    "seen_at": "2026-04-05T09:23:50.745Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:22, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-05T11:22:00",
+    "seen_at": "2026-04-05T09:23:50.745Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:22, kolodvor KARLOVAC"
   }
 ]
