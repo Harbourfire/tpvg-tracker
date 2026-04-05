@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-02T22:26:00",
-    "seen_at": "2026-04-02T20:30:08.466Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 22:26, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-02T22:26:00",
-    "seen_at": "2026-04-02T20:30:08.466Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.04.26. 22:26, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "47593",
-    "event_time": "2026-04-02T22:27:00",
-    "seen_at": "2026-04-02T20:32:03.753Z",
-    "raw": "Br. Vlaka 47593 odlazak      02.04.26. 22:27, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44996",
-    "event_time": "2026-04-02T22:32:00",
-    "seen_at": "2026-04-02T20:32:49.916Z",
-    "raw": "Br. Vlaka 44996 odlazak      02.04.26. 22:32, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "JANKOVCI",
@@ -7072,5 +7036,41 @@
     "event_time": "2026-04-05T22:12:00",
     "seen_at": "2026-04-05T20:16:57.227Z",
     "raw": "Br. Vlaka 69175 odlazak      05.04.26. 22:12, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-04-05T22:26:00",
+    "seen_at": "2026-04-05T20:28:57.213Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-04-05T22:26:00",
+    "seen_at": "2026-04-05T20:28:57.213Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-05T21:48:00",
+    "seen_at": "2026-04-05T20:30:52.825Z",
+    "raw": "Br. Vlaka 63305 formiran     05.04.26. 21:48, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-05T21:48:00",
+    "seen_at": "2026-04-05T20:30:52.825Z",
+    "raw": "Br. Vlaka 63305 formiran     05.04.26. 21:48, kolodvor PLAŠKI"
   }
 ]
