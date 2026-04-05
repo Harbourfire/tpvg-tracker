@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-02T11:30:00",
-    "seen_at": "2026-04-02T09:30:41.958Z",
-    "raw": "Br. Vlaka 45104 odlazak      02.04.26. 11:30, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "71200",
-    "event_time": "2026-04-02T11:31:00",
-    "seen_at": "2026-04-02T09:31:28.241Z",
-    "raw": "Br. Vlaka 71200 odlazak      02.04.26. 11:31, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76600",
-    "event_time": "2026-04-02T11:35:00",
-    "seen_at": "2026-04-02T09:36:20.527Z",
-    "raw": "Br. Vlaka 76600 odlazak      02.04.26. 11:35, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "POŽEGA",
@@ -8872,5 +8845,23 @@
     "event_time": "2026-04-05T11:22:00",
     "seen_at": "2026-04-05T09:23:50.745Z",
     "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:22, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-04-05T11:36:00",
+    "seen_at": "2026-04-05T09:37:27.435Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:36, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-04-05T11:36:00",
+    "seen_at": "2026-04-05T09:37:27.435Z",
+    "raw": "Br. Vlaka 47428 odlazak      05.04.26. 11:36, kolodvor DRAGANIĆI"
   }
 ]
