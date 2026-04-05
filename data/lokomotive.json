@@ -2,24 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47563",
-    "event_time": "2026-04-02T04:10:00",
-    "seen_at": "2026-04-02T02:13:13.671Z",
-    "raw": "Br. Vlaka 47563 odlazak      02.04.26. 04:10, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47563",
-    "event_time": "2026-04-02T04:16:00",
-    "seen_at": "2026-04-02T02:17:04.626Z",
-    "raw": "Br. Vlaka 47563 dolazak      02.04.26. 04:16, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "47563",
     "event_time": "2026-04-02T04:28:00",
@@ -9511,5 +9493,14 @@
     "event_time": "2026-04-05T04:09:00",
     "seen_at": "2026-04-05T02:11:22.466Z",
     "raw": "Br. Vlaka 63306 odlazak      05.04.26. 04:09, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-05T04:17:00",
+    "seen_at": "2026-04-05T02:18:58.686Z",
+    "raw": "Br. Vlaka 63306 odlazak      05.04.26. 04:17, kolodvor BLATA"
   }
 ]
