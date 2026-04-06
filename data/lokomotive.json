@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Formiran",
-    "station": "NAŠICE",
-    "train_number": "77033",
-    "event_time": "2026-04-03T02:03:00",
-    "seen_at": "2026-04-03T00:34:37.462Z",
-    "raw": "Br. Vlaka 77033 formiran     03.04.26. 02:03, kolodvor NAŠICE"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -7072,5 +7063,14 @@
     "event_time": "2026-04-06T02:23:00",
     "seen_at": "2026-04-06T00:24:35.875Z",
     "raw": "Br. Vlaka 63310 odlazak      06.04.26. 02:23, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47427",
+    "event_time": "2026-04-06T02:31:00",
+    "seen_at": "2026-04-06T00:34:52.902Z",
+    "raw": "Br. Vlaka 47427 odlazak      06.04.26. 02:31, kolodvor GENERALSKI STOL"
   }
 ]
