@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47563",
-    "event_time": "2026-04-04T01:02:00",
-    "seen_at": "2026-04-03T23:02:55.783Z",
-    "raw": "Br. Vlaka 47563 odlazak      04.04.26. 01:02, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TOVARNIK granica",
-    "train_number": "89420",
-    "event_time": "2026-04-04T00:59:00",
-    "seen_at": "2026-04-03T23:03:19.224Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 00:59, kolodvor 71020"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "89420",
-    "event_time": "2026-04-04T01:01:00",
-    "seen_at": "2026-04-03T23:03:42.575Z",
-    "raw": "Br. Vlaka 89420 dolazak      04.04.26. 01:01, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "45581",
-    "event_time": "2026-04-04T01:06:00",
-    "seen_at": "2026-04-03T23:07:14.002Z",
-    "raw": "Br. Vlaka 45581 formiran     04.04.26. 01:06, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "45581",
-    "event_time": "2026-04-04T01:06:00",
-    "seen_at": "2026-04-03T23:07:37.355Z",
-    "raw": "Br. Vlaka 45581 formiran     04.04.26. 01:06, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-04-03T23:00:00",
-    "seen_at": "2026-04-03T23:08:00.834Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "47563",
-    "event_time": "2026-04-04T01:07:00",
-    "seen_at": "2026-04-03T23:08:00.834Z",
-    "raw": "Br. Vlaka 47563 odlazak      04.04.26. 01:07, kolodvor 72304"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "TOVARNIK",
@@ -5641,5 +5578,50 @@
     "event_time": "2026-04-07T00:56:00",
     "seen_at": "2026-04-06T22:58:35.415Z",
     "raw": "Br. Vlaka 89182 odlazak      07.04.26. 00:56, kolodvor 72304"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81971",
+    "event_time": "2026-04-07T00:59:00",
+    "seen_at": "2026-04-06T23:01:33.215Z",
+    "raw": "Br. Vlaka 81971 dolazak      07.04.26. 00:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89182",
+    "event_time": "2026-04-07T01:03:00",
+    "seen_at": "2026-04-06T23:03:58.192Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 01:03, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89182",
+    "event_time": "2026-04-07T01:03:00",
+    "seen_at": "2026-04-06T23:03:58.192Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 01:03, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-07T01:03:00",
+    "seen_at": "2026-04-06T23:04:21.778Z",
+    "raw": "Br. Vlaka 63305 odlazak      07.04.26. 01:03, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-07T01:03:00",
+    "seen_at": "2026-04-06T23:04:21.778Z",
+    "raw": "Br. Vlaka 63305 odlazak      07.04.26. 01:03, kolodvor RUDOPOLJE"
   }
 ]
