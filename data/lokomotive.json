@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81295",
-    "event_time": "2026-04-03T15:02:00",
-    "seen_at": "2026-04-03T13:03:09.405Z",
-    "raw": "Br. Vlaka 81295 dolazak      03.04.26. 15:02, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63312",
-    "event_time": "2026-04-03T15:03:00",
-    "seen_at": "2026-04-03T13:03:09.406Z",
-    "raw": "Br. Vlaka 63312 dolazak      03.04.26. 15:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "89402",
-    "event_time": "2026-04-03T15:02:00",
-    "seen_at": "2026-04-03T13:03:33.513Z",
-    "raw": "Br. Vlaka 89402 dolazak      03.04.26. 15:02, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-03T15:03:00",
-    "seen_at": "2026-04-03T13:03:33.514Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-03T14:27:00",
-    "seen_at": "2026-04-03T13:08:32.599Z",
-    "raw": "Br. Vlaka 63310 promjena sas 03.04.26. 14:27, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -5884,5 +5839,32 @@
     "event_time": "2026-04-06T14:35:00",
     "seen_at": "2026-04-06T12:37:46.587Z",
     "raw": "Br. Vlaka 81971 odlazak      06.04.26. 14:35, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-06T15:02:00",
+    "seen_at": "2026-04-06T13:02:24.411Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:02, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-06T15:02:00",
+    "seen_at": "2026-04-06T13:02:24.411Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:02, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81971",
+    "event_time": "2026-04-06T15:07:00",
+    "seen_at": "2026-04-06T13:08:36.743Z",
+    "raw": "Br. Vlaka 81971 dolazak      06.04.26. 15:07, kolodvor NOVSKA"
   }
 ]
