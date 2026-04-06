@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PITOMAČA",
-    "train_number": "47998",
-    "event_time": "2026-04-03T23:52:00",
-    "seen_at": "2026-04-03T21:53:51.414Z",
-    "raw": "Br. Vlaka 47998 odlazak      03.04.26. 23:52, kolodvor PITOMAČA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-03T23:53:00",
-    "seen_at": "2026-04-03T21:54:54.271Z",
-    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:53, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-03T23:53:00",
-    "seen_at": "2026-04-03T21:54:54.271Z",
-    "raw": "Br. Vlaka 63305 odlazak      03.04.26. 23:53, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-04-03T23:58:00",
-    "seen_at": "2026-04-03T22:01:10.542Z",
-    "raw": "Br. Vlaka 47563 odlazak      03.04.26. 23:58, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-04T00:01:00",
-    "seen_at": "2026-04-03T22:01:33.802Z",
-    "raw": "Br. Vlaka 61004 odlazak      04.04.26. 00:01, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "SAVSKI MAROF",
@@ -5785,5 +5740,23 @@
     "event_time": "2026-04-06T23:08:00",
     "seen_at": "2026-04-06T21:08:33.832Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-06T23:59:00",
+    "seen_at": "2026-04-06T22:00:30.154Z",
+    "raw": "Br. Vlaka 63305 odlazak      06.04.26. 23:59, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-06T23:59:00",
+    "seen_at": "2026-04-06T22:00:30.154Z",
+    "raw": "Br. Vlaka 63305 odlazak      06.04.26. 23:59, kolodvor OŠTARIJE"
   }
 ]
