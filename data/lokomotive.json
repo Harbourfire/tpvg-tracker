@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-03T08:37:00",
-    "seen_at": "2026-04-03T06:39:19.433Z",
-    "raw": "Br. Vlaka 45105 dolazak      03.04.26. 08:37, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44694",
-    "event_time": "2026-04-03T08:41:00",
-    "seen_at": "2026-04-03T06:43:10.305Z",
-    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 08:41, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": null,
-    "event_time": "2026-04-03T08:43:00",
-    "seen_at": "2026-04-03T06:45:56.947Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71204 VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44694",
-    "event_time": "2026-04-03T08:46:00",
-    "seen_at": "2026-04-03T06:46:20.692Z",
-    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 08:46, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "987895225611",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -6505,5 +6469,41 @@
     "event_time": "2026-04-06T08:09:00",
     "seen_at": "2026-04-06T06:20:13.634Z",
     "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-03T08:38:00",
+    "seen_at": "2026-04-06T06:39:27.095Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "77777",
+    "train_number": null,
+    "event_time": "2026-04-06T08:39:00",
+    "seen_at": "2026-04-06T06:39:50.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77777 77777"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81971",
+    "event_time": "2026-04-06T08:31:00",
+    "seen_at": "2026-04-06T06:41:25.850Z",
+    "raw": "Br. Vlaka 81971 promjena sas 06.04.26. 08:31, kolodvor 72303"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": null,
+    "event_time": "2026-04-03T08:43:00",
+    "seen_at": "2026-04-06T06:46:31.761Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71204 VUKOVAR-BOROVO NAS."
   }
 ]
