@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81987",
-    "event_time": "2026-04-03T11:51:00",
-    "seen_at": "2026-04-03T09:52:57.608Z",
-    "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:51, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-03T11:54:00",
-    "seen_at": "2026-04-03T09:55:08.189Z",
-    "raw": "Br. Vlaka 45104 formiran     03.04.26. 11:54, kolodvor 71308"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-03T11:53:00",
-    "seen_at": "2026-04-03T09:55:08.190Z",
-    "raw": "Br. Vlaka 89921 dolazak      03.04.26. 11:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-03T11:54:00",
-    "seen_at": "2026-04-03T09:55:31.811Z",
-    "raw": "Br. Vlaka 89921 odlazak      03.04.26. 11:54, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "83829",
-    "event_time": "2026-04-03T11:55:00",
-    "seen_at": "2026-04-03T09:55:55.564Z",
-    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 11:55, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89711",
-    "event_time": "2026-04-03T11:55:00",
-    "seen_at": "2026-04-03T09:55:55.565Z",
-    "raw": "Br. Vlaka 89711 odlazak      03.04.26. 11:55, kolodvor IVANKOVO"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -6037,5 +5983,23 @@
     "event_time": "2026-04-06T11:41:00",
     "seen_at": "2026-04-06T09:42:18.483Z",
     "raw": "Br. Vlaka 89102 odlazak      06.04.26. 11:41, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81971",
+    "event_time": "2026-04-06T11:50:00",
+    "seen_at": "2026-04-06T09:52:20.710Z",
+    "raw": "Br. Vlaka 81971 dolazak      06.04.26. 11:50, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89102",
+    "event_time": "2026-04-06T11:57:00",
+    "seen_at": "2026-04-06T09:58:18.271Z",
+    "raw": "Br. Vlaka 89102 odlazak      06.04.26. 11:57, kolodvor SIBINJ"
   }
 ]
