@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-03T07:51:00",
-    "seen_at": "2026-04-03T05:51:38.487Z",
-    "raw": "Br. Vlaka 71202 formiran     03.04.26. 07:51, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-03T07:45:00",
-    "seen_at": "2026-04-03T05:52:25.319Z",
-    "raw": "Br. Vlaka 45105 odlazak      03.04.26. 07:45, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "ZDENČINA",
-    "train_number": "44694",
-    "event_time": "2026-04-03T07:53:00",
-    "seen_at": "2026-04-03T05:54:35.321Z",
-    "raw": "Br. Vlaka 44694 dolazak      03.04.26. 07:53, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-03T07:57:00",
-    "seen_at": "2026-04-03T05:58:32.991Z",
-    "raw": "Br. Vlaka 71202 odlazak      03.04.26. 07:57, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "PLETERNICA",
-    "train_number": null,
-    "event_time": "2026-04-03T07:55:00",
-    "seen_at": "2026-04-03T05:58:57.016Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "ZDENČINA",
@@ -6667,5 +6622,14 @@
     "event_time": "2026-04-06T07:35:00",
     "seen_at": "2026-04-06T05:35:59.957Z",
     "raw": "Br. Vlaka 66853 formiran     06.04.26. 07:35, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "PLETERNICA",
+    "train_number": null,
+    "event_time": "2026-04-03T07:55:00",
+    "seen_at": "2026-04-06T05:59:27.112Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
   }
 ]
