@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89258",
-    "event_time": "2026-04-03T22:05:00",
-    "seen_at": "2026-04-03T20:06:29.131Z",
-    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 22:05, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-03T21:37:00",
-    "seen_at": "2026-04-03T20:08:04.362Z",
-    "raw": "Br. Vlaka 63305 formiran     03.04.26. 21:37, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-03T21:37:00",
-    "seen_at": "2026-04-03T20:08:04.362Z",
-    "raw": "Br. Vlaka 63305 formiran     03.04.26. 21:37, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89258",
-    "event_time": "2026-04-03T22:13:00",
-    "seen_at": "2026-04-03T20:13:26.380Z",
-    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 22:13, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
     "type": "Dolazak",
     "station": "SAVSKI MAROF granica",
     "train_number": "89258",
@@ -5875,5 +5839,14 @@
     "event_time": "2026-04-06T22:04:00",
     "seen_at": "2026-04-06T20:04:35.287Z",
     "raw": "Br. Vlaka 81971 odlazak      06.04.26. 22:04, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81971",
+    "event_time": "2026-04-06T22:14:00",
+    "seen_at": "2026-04-06T20:14:11.969Z",
+    "raw": "Br. Vlaka 81971 dolazak      06.04.26. 22:14, kolodvor VINKOVCI"
   }
 ]
