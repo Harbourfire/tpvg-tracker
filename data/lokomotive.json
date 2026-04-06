@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "44694",
-    "event_time": "2026-04-03T02:43:00",
-    "seen_at": "2026-04-03T01:26:06.138Z",
-    "raw": "Br. Vlaka 44694 formiran     03.04.26. 02:43, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "TOVARNIK granica",
-    "train_number": "89402",
-    "event_time": "2026-04-02T14:28:00",
-    "seen_at": "2026-04-03T01:29:14.971Z",
-    "raw": "Br. Vlaka 89402 formiran     02.04.26. 14:28, kolodvor 71020"
-  },
-  {
     "uic": "987891113167",
     "type": "Dolazak",
     "station": "BIZOVAC",
@@ -7027,5 +7009,23 @@
     "event_time": "2026-04-06T03:20:00",
     "seen_at": "2026-04-06T01:22:50.585Z",
     "raw": "Br. Vlaka 63310 odlazak      06.04.26. 03:20, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-06T03:28:00",
+    "seen_at": "2026-04-06T01:30:00.986Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 03:28, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-06T03:28:00",
+    "seen_at": "2026-04-06T01:30:00.986Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 03:28, kolodvor BLATA"
   }
 ]
