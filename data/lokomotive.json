@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-31T12:08:00",
-    "seen_at": "2026-04-03T10:11:03.833Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "83829",
-    "event_time": "2026-04-03T12:11:00",
-    "seen_at": "2026-04-03T10:11:27.456Z",
-    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 12:11, kolodvor LEKENIK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "46657",
-    "event_time": "2026-04-03T12:12:00",
-    "seen_at": "2026-04-03T10:14:45.870Z",
-    "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:12, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "46657",
-    "event_time": "2026-04-03T12:12:00",
-    "seen_at": "2026-04-03T10:14:45.870Z",
-    "raw": "Br. Vlaka 46657 dolazak      03.04.26. 12:12, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-03T12:05:00",
-    "seen_at": "2026-04-03T10:17:06.572Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81295",
-    "event_time": "2026-04-03T05:08:00",
-    "seen_at": "2026-04-03T10:18:16.467Z",
-    "raw": "Br. Vlaka 81295 promjena sas 03.04.26. 05:08, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "GREDA",
@@ -5956,5 +5902,41 @@
     "event_time": "2026-04-03T12:05:00",
     "seen_at": "2026-04-06T10:07:31.678Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "IVANKOVO",
+    "train_number": "81286",
+    "event_time": "2026-04-06T12:11:00",
+    "seen_at": "2026-04-06T10:11:40.313Z",
+    "raw": "Br. Vlaka 81286 formiran     06.04.26. 12:11, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-06T12:10:00",
+    "seen_at": "2026-04-06T10:12:03.613Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "81286",
+    "event_time": "2026-04-06T12:15:00",
+    "seen_at": "2026-04-06T10:17:05.183Z",
+    "raw": "Br. Vlaka 81286 odlazak      06.04.26. 12:15, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-03T12:05:00",
+    "seen_at": "2026-04-06T10:17:51.746Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
