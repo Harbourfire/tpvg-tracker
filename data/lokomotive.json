@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-04-04T00:02:00",
-    "seen_at": "2026-04-03T22:02:43.638Z",
-    "raw": "Br. Vlaka 47563 dolazak      04.04.26. 00:02, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "KLOŠTAR",
-    "train_number": "47998",
-    "event_time": "2026-04-04T00:00:00",
-    "seen_at": "2026-04-03T22:03:06.916Z",
-    "raw": "Br. Vlaka 47998 odlazak      04.04.26. 00:00, kolodvor KLOŠTAR"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF",
-    "train_number": "47563",
-    "event_time": "2026-04-04T00:02:00",
-    "seen_at": "2026-04-03T22:03:53.209Z",
-    "raw": "Br. Vlaka 47563 promjena sas 04.04.26. 00:02, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-04T00:07:00",
-    "seen_at": "2026-04-03T22:09:06.972Z",
-    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:07, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-04T00:07:00",
-    "seen_at": "2026-04-03T22:09:06.972Z",
-    "raw": "Br. Vlaka 63305 odlazak      04.04.26. 00:07, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ĐURĐEVAC",
@@ -5758,5 +5713,32 @@
     "event_time": "2026-04-06T23:59:00",
     "seen_at": "2026-04-06T22:00:30.154Z",
     "raw": "Br. Vlaka 63305 odlazak      06.04.26. 23:59, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-07T00:07:00",
+    "seen_at": "2026-04-06T22:09:36.061Z",
+    "raw": "Br. Vlaka 63305 odlazak      07.04.26. 00:07, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-07T00:07:00",
+    "seen_at": "2026-04-06T22:09:36.061Z",
+    "raw": "Br. Vlaka 63305 odlazak      07.04.26. 00:07, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81971",
+    "event_time": "2026-04-07T00:09:00",
+    "seen_at": "2026-04-06T22:11:12.614Z",
+    "raw": "Br. Vlaka 81971 odlazak      07.04.26. 00:09, kolodvor VINKOVCI"
   }
 ]
