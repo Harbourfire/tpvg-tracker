@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "46657",
-    "event_time": "2026-04-03T20:09:00",
-    "seen_at": "2026-04-03T18:10:19.386Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:09, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "46657",
-    "event_time": "2026-04-03T20:09:00",
-    "seen_at": "2026-04-03T18:10:19.386Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:09, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "46657",
-    "event_time": "2026-04-03T20:17:00",
-    "seen_at": "2026-04-03T18:20:01.442Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:17, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "46657",
-    "event_time": "2026-04-03T20:17:00",
-    "seen_at": "2026-04-03T18:20:01.442Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:17, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "VIROVITICA",
-    "train_number": "47998",
-    "event_time": "2026-04-03T12:02:00",
-    "seen_at": "2026-04-03T18:22:48.612Z",
-    "raw": "Br. Vlaka 47998 formiran     03.04.26. 12:02, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-04-03T20:25:00",
-    "seen_at": "2026-04-03T18:26:07.699Z",
-    "raw": "Br. Vlaka 61004 odlazak      03.04.26. 20:25, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -5920,5 +5866,32 @@
     "event_time": "2026-04-06T20:01:00",
     "seen_at": "2026-04-06T18:01:50.043Z",
     "raw": "Br. Vlaka 81971 odlazak      06.04.26. 20:01, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69352",
+    "event_time": "2026-04-06T19:53:00",
+    "seen_at": "2026-04-06T18:20:07.117Z",
+    "raw": "Br. Vlaka 69352 formiran     06.04.26. 19:53, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "89176",
+    "event_time": "2026-04-06T20:16:00",
+    "seen_at": "2026-04-06T18:20:07.117Z",
+    "raw": "Br. Vlaka 89176 odlazak      06.04.26. 20:16, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "81971",
+    "event_time": "2026-04-06T20:20:00",
+    "seen_at": "2026-04-06T18:23:20.846Z",
+    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 20:20, kolodvor SIBINJ"
   }
 ]
