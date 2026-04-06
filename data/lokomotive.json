@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89402",
-    "event_time": "2026-04-03T05:58:00",
-    "seen_at": "2026-04-03T03:59:16.451Z",
-    "raw": "Br. Vlaka 89402 odlazak      03.04.26. 05:58, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
@@ -6910,5 +6901,14 @@
     "event_time": "2026-04-06T04:00:00",
     "seen_at": "2026-04-06T02:01:38.255Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-03T05:54:00",
+    "seen_at": "2026-04-06T03:56:46.416Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
