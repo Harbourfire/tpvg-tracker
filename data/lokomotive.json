@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-03T08:20:00",
-    "seen_at": "2026-04-03T06:21:22.031Z",
-    "raw": "Br. Vlaka 69750 odlazak      03.04.26. 08:20, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "IVANKOVO",
-    "train_number": "71203",
-    "event_time": "2026-04-03T07:59:00",
-    "seen_at": "2026-04-03T06:21:45.666Z",
-    "raw": "Br. Vlaka 71203 formiran     03.04.26. 07:59, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-04-03T08:21:00",
-    "seen_at": "2026-04-03T06:24:00.526Z",
-    "raw": "Br. Vlaka 45105 odlazak      03.04.26. 08:21, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44996",
-    "event_time": "2026-04-03T07:50:00",
-    "seen_at": "2026-04-03T06:28:20.764Z",
-    "raw": "Br. Vlaka 44996 dolazak      03.04.26. 07:50, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "74150",
-    "event_time": "2026-04-03T08:28:00",
-    "seen_at": "2026-04-03T06:29:08.054Z",
-    "raw": "Br. Vlaka 74150 odlazak      03.04.26. 08:28, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -6577,5 +6532,14 @@
     "event_time": "2026-04-06T08:00:00",
     "seen_at": "2026-04-06T06:03:16.781Z",
     "raw": "Br. Vlaka 66853 odlazak      06.04.26. 08:00, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-06T08:09:00",
+    "seen_at": "2026-04-06T06:20:13.634Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
