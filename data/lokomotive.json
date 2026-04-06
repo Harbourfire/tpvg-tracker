@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "46657",
-    "event_time": "2026-04-03T20:43:00",
-    "seen_at": "2026-04-03T18:45:28.541Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:43, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "46657",
-    "event_time": "2026-04-03T20:43:00",
-    "seen_at": "2026-04-03T18:45:28.542Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 20:43, kolodvor KUKAČA"
-  },
-  {
     "uic": "927820440125",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -5884,5 +5866,32 @@
     "event_time": "2026-04-06T20:32:00",
     "seen_at": "2026-04-06T18:33:03.210Z",
     "raw": "Br. Vlaka 81971 odlazak      06.04.26. 20:32, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69352",
+    "event_time": "2026-04-06T20:40:00",
+    "seen_at": "2026-04-06T18:41:18.002Z",
+    "raw": "Br. Vlaka 69352 odlazak      06.04.26. 20:40, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81971",
+    "event_time": "2026-04-06T20:42:00",
+    "seen_at": "2026-04-06T18:42:30.382Z",
+    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 20:42, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69352",
+    "event_time": "2026-04-06T20:48:00",
+    "seen_at": "2026-04-06T18:48:27.575Z",
+    "raw": "Br. Vlaka 69352 odlazak      06.04.26. 20:48, kolodvor IVANKOVO"
   }
 ]
