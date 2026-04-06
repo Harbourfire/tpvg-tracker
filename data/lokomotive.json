@@ -2,24 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89258",
-    "event_time": "2026-04-03T21:55:00",
-    "seen_at": "2026-04-03T19:57:09.983Z",
-    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 21:55, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89258",
-    "event_time": "2026-04-03T22:00:00",
-    "seen_at": "2026-04-03T20:00:31.931Z",
-    "raw": "Br. Vlaka 89258 odlazak      03.04.26. 22:00, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "89258",
     "event_time": "2026-04-03T22:05:00",
@@ -5875,5 +5857,23 @@
     "event_time": "2026-03-25T20:47:00",
     "seen_at": "2026-04-06T19:50:41.638Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "81971",
+    "event_time": "2026-04-06T21:56:00",
+    "seen_at": "2026-04-06T19:57:08.330Z",
+    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 21:56, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "81971",
+    "event_time": "2026-04-06T22:04:00",
+    "seen_at": "2026-04-06T20:04:35.287Z",
+    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 22:04, kolodvor IVANKOVO"
   }
 ]
