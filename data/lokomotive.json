@@ -2,24 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "44694",
-    "event_time": "2026-04-03T07:59:00",
-    "seen_at": "2026-04-03T06:01:44.670Z",
-    "raw": "Br. Vlaka 44694 odlazak      03.04.26. 07:59, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-03T08:08:00",
-    "seen_at": "2026-04-03T06:09:13.313Z",
-    "raw": "Br. Vlaka 45105 odlazak      03.04.26. 08:08, kolodvor OTOK"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "HORVATI",
     "train_number": "44694",
     "event_time": "2026-04-03T08:08:00",
@@ -6631,5 +6613,14 @@
     "event_time": "2026-04-03T07:55:00",
     "seen_at": "2026-04-06T05:59:27.112Z",
     "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-06T08:00:00",
+    "seen_at": "2026-04-06T06:03:16.781Z",
+    "raw": "Br. Vlaka 66853 odlazak      06.04.26. 08:00, kolodvor OSIJEK"
   }
 ]
