@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81987",
-    "event_time": "2026-04-03T11:20:00",
-    "seen_at": "2026-04-03T09:21:58.531Z",
-    "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:20, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-04-03T11:01:00",
-    "seen_at": "2026-04-03T09:25:37.599Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89541",
-    "event_time": "2026-04-03T11:25:00",
-    "seen_at": "2026-04-03T09:29:09.936Z",
-    "raw": "Br. Vlaka 89541 odlazak      03.04.26. 11:25, kolodvor DARDA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -6217,5 +6190,23 @@
     "event_time": "2026-04-06T11:20:00",
     "seen_at": "2026-04-06T09:21:00.613Z",
     "raw": "Br. Vlaka 81971 odlazak      06.04.26. 11:20, kolodvor GREDA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-04-03T11:01:00",
+    "seen_at": "2026-04-06T09:26:17.660Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69350",
+    "event_time": "2026-04-06T11:25:00",
+    "seen_at": "2026-04-06T09:26:41.249Z",
+    "raw": "Br. Vlaka 69350 odlazak      06.04.26. 11:25, kolodvor VINKOVCI"
   }
 ]
