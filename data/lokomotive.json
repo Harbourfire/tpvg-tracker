@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "47563",
-    "train_number": null,
-    "event_time": "2026-04-03T14:03:35.769Z",
-    "seen_at": "2026-04-03T14:03:35.769Z",
-    "raw": "Trenutna pozicija je u kolodvoru 47563 47563"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "45596",
-    "event_time": "2026-04-03T16:00:00",
-    "seen_at": "2026-04-03T14:03:35.771Z",
-    "raw": "Br. Vlaka 45596 odlazak      03.04.26. 16:00, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "45596",
-    "event_time": "2026-04-03T16:00:00",
-    "seen_at": "2026-04-03T14:03:35.771Z",
-    "raw": "Br. Vlaka 45596 odlazak      03.04.26. 16:00, kolodvor LUPOGLAV"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "ROČ",
@@ -5866,5 +5839,32 @@
     "event_time": "2026-04-06T15:49:00",
     "seen_at": "2026-04-06T13:50:53.992Z",
     "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:49, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "81971",
+    "event_time": "2026-04-06T15:59:00",
+    "seen_at": "2026-04-06T14:00:12.141Z",
+    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 15:59, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-06T16:00:00",
+    "seen_at": "2026-04-06T14:00:59.068Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 16:00, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-06T16:00:00",
+    "seen_at": "2026-04-06T14:00:59.068Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 16:00, kolodvor RUDOPOLJE"
   }
 ]
