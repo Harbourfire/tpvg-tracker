@@ -1,122 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89921",
-    "event_time": "2026-04-03T11:20:00",
-    "seen_at": "2026-04-03T09:30:42.863Z",
-    "raw": "Br. Vlaka 89921 odlazak      03.04.26. 11:20, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "IVANKOVO",
-    "train_number": null,
-    "event_time": "2026-04-03T11:16:00",
-    "seen_at": "2026-04-03T09:31:06.057Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89921",
-    "event_time": "2026-04-03T11:25:00",
-    "seen_at": "2026-04-03T09:31:06.057Z",
-    "raw": "Br. Vlaka 89921 odlazak      03.04.26. 11:25, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "46657",
-    "event_time": "2026-04-03T11:16:00",
-    "seen_at": "2026-04-03T09:31:06.058Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:16, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "46657",
-    "event_time": "2026-04-03T11:16:00",
-    "seen_at": "2026-04-03T09:31:06.058Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:16, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "46657",
-    "event_time": "2026-04-03T10:06:00",
-    "seen_at": "2026-04-03T09:31:30.201Z",
-    "raw": "Br. Vlaka 46657 formiran     03.04.26. 10:06, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "46657",
-    "event_time": "2026-04-03T10:06:00",
-    "seen_at": "2026-04-03T09:31:30.202Z",
-    "raw": "Br. Vlaka 46657 formiran     03.04.26. 10:06, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "46657",
-    "event_time": "2026-04-03T11:30:00",
-    "seen_at": "2026-04-03T09:31:53.377Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:30, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "46657",
-    "event_time": "2026-04-03T11:30:00",
-    "seen_at": "2026-04-03T09:31:53.377Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:30, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "IVANKOVO",
-    "train_number": "89711",
-    "event_time": "2026-04-03T11:31:00",
-    "seen_at": "2026-04-03T09:32:17.551Z",
-    "raw": "Br. Vlaka 89711 formiran     03.04.26. 11:31, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81987",
-    "event_time": "2026-04-03T11:34:00",
-    "seen_at": "2026-04-03T09:35:33.590Z",
-    "raw": "Br. Vlaka 81987 odlazak      03.04.26. 11:34, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "46657",
-    "event_time": "2026-04-03T11:35:00",
-    "seen_at": "2026-04-03T09:36:20.157Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:35, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "46657",
-    "event_time": "2026-04-03T11:35:00",
-    "seen_at": "2026-04-03T09:36:20.157Z",
-    "raw": "Br. Vlaka 46657 odlazak      03.04.26. 11:35, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -6208,5 +6091,32 @@
     "event_time": "2026-04-06T11:25:00",
     "seen_at": "2026-04-06T09:26:41.249Z",
     "raw": "Br. Vlaka 69350 odlazak      06.04.26. 11:25, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89102",
+    "event_time": "2026-04-06T11:30:00",
+    "seen_at": "2026-04-06T09:31:56.688Z",
+    "raw": "Br. Vlaka 89102 odlazak      06.04.26. 11:30, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "IVANKOVO",
+    "train_number": "69350",
+    "event_time": "2026-04-06T11:36:00",
+    "seen_at": "2026-04-06T09:36:13.624Z",
+    "raw": "Br. Vlaka 69350 dolazak      06.04.26. 11:36, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "IVANKOVO",
+    "train_number": null,
+    "event_time": "2026-04-06T11:36:00",
+    "seen_at": "2026-04-06T09:36:36.833Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
   }
 ]
