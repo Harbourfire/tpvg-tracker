@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-04-03T07:28:00",
-    "seen_at": "2026-04-03T05:31:36.360Z",
-    "raw": "Br. Vlaka 74301 odlazak      03.04.26. 07:28, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-03T07:32:00",
-    "seen_at": "2026-04-03T05:33:08.944Z",
-    "raw": "Br. Vlaka 44996 odlazak      03.04.26. 07:32, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Dolazak",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-04-03T07:30:00",
-    "seen_at": "2026-04-03T05:38:09.752Z",
-    "raw": "Br. Vlaka 74101 dolazak      03.04.26. 07:30, kolodvor OTOK"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Rasformiran",
-    "station": "OTOK",
-    "train_number": null,
-    "event_time": "2026-04-03T07:30:00",
-    "seen_at": "2026-04-03T05:38:33.539Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71303 OTOK"
-  },
-  {
     "uic": "987891113472",
     "type": "Formiran",
     "station": "OTOK",
@@ -6712,5 +6676,14 @@
     "event_time": "2026-03-31T06:42:00",
     "seen_at": "2026-04-06T04:49:14.276Z",
     "raw": "Trenutna pozicija je u kolodvoru 75104 ZVEČAJ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-06T07:35:00",
+    "seen_at": "2026-04-06T05:35:59.957Z",
+    "raw": "Br. Vlaka 66853 formiran     06.04.26. 07:35, kolodvor OSIJEK"
   }
 ]
