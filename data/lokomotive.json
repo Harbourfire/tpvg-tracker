@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "83829",
-    "event_time": "2026-04-03T15:18:00",
-    "seen_at": "2026-04-03T13:19:20.835Z",
-    "raw": "Br. Vlaka 83829 odlazak      03.04.26. 15:18, kolodvor HRVATSKA DUBICA"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -5866,5 +5857,32 @@
     "event_time": "2026-04-06T15:07:00",
     "seen_at": "2026-04-06T13:08:36.743Z",
     "raw": "Br. Vlaka 81971 dolazak      06.04.26. 15:07, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-06T15:18:00",
+    "seen_at": "2026-04-06T13:19:25.621Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:18, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-06T15:18:00",
+    "seen_at": "2026-04-06T13:19:25.621Z",
+    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:18, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81971",
+    "event_time": "2026-04-06T15:18:00",
+    "seen_at": "2026-04-06T13:20:12.882Z",
+    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 15:18, kolodvor NOVSKA"
   }
 ]
