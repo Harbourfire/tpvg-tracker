@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "89420",
-    "event_time": "2026-04-04T07:28:00",
-    "seen_at": "2026-04-04T05:29:31.415Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:28, kolodvor LEKENIK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "89120",
-    "event_time": "2026-04-04T07:35:00",
-    "seen_at": "2026-04-04T05:36:05.848Z",
-    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 07:35, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "89420",
-    "event_time": "2026-04-04T07:35:00",
-    "seen_at": "2026-04-04T05:36:29.278Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:35, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "VELIKA GORICA",
     "train_number": "89420",
@@ -5983,5 +5956,41 @@
     "event_time": "2026-04-07T07:25:00",
     "seen_at": "2026-04-07T05:28:17.593Z",
     "raw": "Br. Vlaka 70065 odlazak      07.04.26. 07:25, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "89301",
+    "event_time": "2026-04-07T07:30:00",
+    "seen_at": "2026-04-07T05:31:16.085Z",
+    "raw": "Br. Vlaka 89301 odlazak      07.04.26. 07:30, kolodvor OTOK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71201",
+    "event_time": "2026-04-07T07:31:00",
+    "seen_at": "2026-04-07T05:32:28.552Z",
+    "raw": "Br. Vlaka 71201 odlazak      07.04.26. 07:31, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "74303",
+    "event_time": "2026-04-07T07:33:00",
+    "seen_at": "2026-04-07T05:33:15.327Z",
+    "raw": "Br. Vlaka 74303 odlazak      07.04.26. 07:33, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "47428",
+    "event_time": "2026-04-07T07:32:00",
+    "seen_at": "2026-04-07T05:34:02.776Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 07:32, kolodvor OŠTARIJE"
   }
 ]
