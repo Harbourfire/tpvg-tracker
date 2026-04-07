@@ -16,6 +16,7 @@ const STATION_CODES = {
   "77424": "BUZET granica",
   "71020": "TOVARNIK granica",
   "KOPRIVNICA GR A": "KOPRIVNICA granica",
+  "73204": "KOPRIVNICA granica",
   "SAVSKI MAROF GRANICA": "SAVSKI MAROF granica",
   "72480": "ZAGREB GLAVNI",
   "75603": "ŠOIĆI",
