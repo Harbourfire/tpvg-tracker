@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89420",
-    "event_time": "2026-04-04T06:43:00",
-    "seen_at": "2026-04-04T04:46:45.464Z",
-    "raw": "Br. Vlaka 89420 dolazak      04.04.26. 06:43, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "89120",
-    "event_time": "2026-04-04T06:49:00",
-    "seen_at": "2026-04-04T04:49:28.310Z",
-    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:49, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
     "train_number": "89420",
@@ -5938,5 +5920,50 @@
     "event_time": "2026-04-07T06:38:00",
     "seen_at": "2026-04-07T04:39:38.391Z",
     "raw": "Br. Vlaka 70065 odlazak      07.04.26. 06:38, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "89176",
+    "event_time": "2026-04-07T06:38:00",
+    "seen_at": "2026-04-07T04:40:34.998Z",
+    "raw": "Br. Vlaka 89176 odlazak      07.04.26. 06:38, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71201",
+    "event_time": "2026-04-07T06:40:00",
+    "seen_at": "2026-04-07T04:40:58.760Z",
+    "raw": "Br. Vlaka 71201 formiran     07.04.26. 06:40, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89125",
+    "event_time": "2026-04-07T06:42:00",
+    "seen_at": "2026-04-07T04:42:57.241Z",
+    "raw": "Br. Vlaka 89125 odlazak      07.04.26. 06:42, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2026-04-07T06:45:00",
+    "seen_at": "2026-04-07T04:45:42.668Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "70065",
+    "event_time": "2026-04-07T06:46:00",
+    "seen_at": "2026-04-07T04:47:17.283Z",
+    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 06:46, kolodvor KARLOVAC"
   }
 ]
