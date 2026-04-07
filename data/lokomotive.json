@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89120",
-    "event_time": "2026-04-04T05:35:00",
-    "seen_at": "2026-04-04T03:37:06.743Z",
-    "raw": "Br. Vlaka 89120 dolazak      04.04.26. 05:35, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -5668,5 +5659,41 @@
     "event_time": "2026-04-07T05:28:00",
     "seen_at": "2026-04-07T03:30:54.465Z",
     "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:28, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "70065",
+    "event_time": "2026-04-07T05:31:00",
+    "seen_at": "2026-04-07T03:32:45.154Z",
+    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 05:31, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "70065",
+    "event_time": "2026-04-07T05:37:00",
+    "seen_at": "2026-04-07T03:38:38.142Z",
+    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 05:37, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-07T05:38:00",
+    "seen_at": "2026-04-07T03:39:48.613Z",
+    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:38, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-07T05:38:00",
+    "seen_at": "2026-04-07T03:39:48.613Z",
+    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:38, kolodvor BLATA"
   }
 ]
