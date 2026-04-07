@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-04T05:08:00",
-    "seen_at": "2026-04-04T03:08:58.128Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -5686,5 +5677,59 @@
     "event_time": "2026-04-07T05:00:00",
     "seen_at": "2026-04-07T03:00:35.747Z",
     "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:00, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "89182",
+    "event_time": "2026-04-07T05:06:00",
+    "seen_at": "2026-04-07T03:06:23.617Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 05:06, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "89182",
+    "event_time": "2026-04-07T05:06:00",
+    "seen_at": "2026-04-07T03:06:23.618Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 05:06, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-04T05:08:00",
+    "seen_at": "2026-04-07T03:09:31.366Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-07T05:10:00",
+    "seen_at": "2026-04-07T03:11:28.684Z",
+    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:10, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-07T05:10:00",
+    "seen_at": "2026-04-07T03:11:28.684Z",
+    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:10, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89125",
+    "event_time": "2026-04-07T05:10:00",
+    "seen_at": "2026-04-07T03:11:52.198Z",
+    "raw": "Br. Vlaka 89125 formiran     07.04.26. 05:10, kolodvor 72303"
   }
 ]
