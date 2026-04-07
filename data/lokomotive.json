@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-04T07:11:00",
-    "seen_at": "2026-04-04T05:11:35.447Z",
-    "raw": "Br. Vlaka 69005 odlazak      04.04.26. 07:11, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-04T07:11:00",
-    "seen_at": "2026-04-04T05:11:35.447Z",
-    "raw": "Br. Vlaka 69005 odlazak      04.04.26. 07:11, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-04T07:11:00",
-    "seen_at": "2026-04-04T05:11:35.447Z",
-    "raw": "Br. Vlaka 69005 odlazak      04.04.26. 07:11, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "GREDA",
-    "train_number": "89420",
-    "event_time": "2026-04-04T07:12:00",
-    "seen_at": "2026-04-04T05:13:09.728Z",
-    "raw": "Br. Vlaka 89420 dolazak      04.04.26. 07:12, kolodvor GREDA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-04T07:17:00",
-    "seen_at": "2026-04-04T05:17:41.964Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-04T07:17:00",
-    "seen_at": "2026-04-04T05:17:41.965Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-04T07:17:00",
-    "seen_at": "2026-04-04T05:17:41.965Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "DUGA RESA",
@@ -6001,5 +5938,41 @@
     "event_time": "2026-04-07T07:08:00",
     "seen_at": "2026-04-07T05:08:31.832Z",
     "raw": "Br. Vlaka 66853 formiran     07.04.26. 07:08, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89301",
+    "event_time": "2026-04-07T07:09:00",
+    "seen_at": "2026-04-07T05:09:29.490Z",
+    "raw": "Br. Vlaka 89301 odlazak      07.04.26. 07:09, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76510",
+    "event_time": "2026-04-07T07:08:00",
+    "seen_at": "2026-04-07T05:11:05.172Z",
+    "raw": "Br. Vlaka 76510 odlazak      07.04.26. 07:08, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-07T07:13:00",
+    "seen_at": "2026-04-07T05:13:51.742Z",
+    "raw": "Br. Vlaka 66853 odlazak      07.04.26. 07:13, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-07T06:50:00",
+    "seen_at": "2026-04-07T05:15:49.519Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
   }
 ]
