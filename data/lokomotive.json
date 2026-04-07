@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:12:00",
-    "seen_at": "2026-04-04T09:14:22.480Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:12, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:12:00",
-    "seen_at": "2026-04-04T09:14:22.481Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:12, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "82531",
     "event_time": "2026-04-04T11:21:00",
@@ -6631,5 +6613,68 @@
     "event_time": "2026-04-07T11:09:00",
     "seen_at": "2026-04-07T09:09:31.417Z",
     "raw": "Br. Vlaka 83810 formiran     07.04.26. 11:09, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:13:00",
+    "seen_at": "2026-04-07T09:13:45.467Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:13, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:13:00",
+    "seen_at": "2026-04-07T09:13:45.467Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:13, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-07T11:13:00",
+    "seen_at": "2026-04-07T09:14:09.425Z",
+    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 11:13, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81975",
+    "event_time": "2026-04-07T11:15:00",
+    "seen_at": "2026-04-07T09:15:44.738Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81975",
+    "event_time": "2026-04-07T11:15:00",
+    "seen_at": "2026-04-07T09:15:44.738Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89753",
+    "event_time": "2026-04-07T11:18:00",
+    "seen_at": "2026-04-07T09:18:31.735Z",
+    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 11:18, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "81976",
+    "event_time": "2026-04-07T09:01:00",
+    "seen_at": "2026-04-07T09:20:31.548Z",
+    "raw": "Br. Vlaka 81976 promjena sas 07.04.26. 09:01, kolodvor OSIJEK"
   }
 ]
