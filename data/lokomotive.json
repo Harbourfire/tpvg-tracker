@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:37:00",
-    "seen_at": "2026-04-04T09:37:25.701Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:37, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:37:00",
-    "seen_at": "2026-04-04T09:37:25.701Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:37, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "82531",
     "event_time": "2026-04-04T11:44:00",
@@ -6712,5 +6694,59 @@
     "event_time": "2026-04-07T11:30:00",
     "seen_at": "2026-04-07T09:30:56.226Z",
     "raw": "Br. Vlaka 69751 odlazak      07.04.26. 11:30, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "83810",
+    "event_time": "2026-04-07T11:30:00",
+    "seen_at": "2026-04-07T09:33:28.655Z",
+    "raw": "Br. Vlaka 83810 odlazak      07.04.26. 11:30, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PLASE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:34:00",
+    "seen_at": "2026-04-07T09:34:39.689Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:34, kolodvor PLASE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "PLASE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:34:00",
+    "seen_at": "2026-04-07T09:34:39.690Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:34, kolodvor PLASE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81975",
+    "event_time": "2026-04-07T11:34:00",
+    "seen_at": "2026-04-07T09:35:50.252Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:34, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81975",
+    "event_time": "2026-04-07T11:34:00",
+    "seen_at": "2026-04-07T09:35:50.252Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:34, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-07T11:38:00",
+    "seen_at": "2026-04-07T09:40:09.246Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
