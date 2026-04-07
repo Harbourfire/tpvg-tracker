@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-04T08:10:00",
-    "seen_at": "2026-04-04T06:11:16.122Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -6037,5 +6028,41 @@
     "event_time": "2026-04-07T08:00:00",
     "seen_at": "2026-04-07T06:03:51.980Z",
     "raw": "Br. Vlaka 47428 dolazak      07.04.26. 08:00, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "70065",
+    "event_time": "2026-04-07T08:10:00",
+    "seen_at": "2026-04-07T06:12:43.413Z",
+    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 08:10, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "ČAGLIN",
+    "train_number": "74303",
+    "event_time": "2026-04-07T07:52:00",
+    "seen_at": "2026-04-07T06:14:19.150Z",
+    "raw": "Br. Vlaka 74303 dolazak      07.04.26. 07:52, kolodvor ČAGLIN"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "ČAGLIN",
+    "train_number": null,
+    "event_time": "2026-04-07T07:52:00",
+    "seen_at": "2026-04-07T06:14:42.946Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73405 ČAGLIN"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "ČAGLIN",
+    "train_number": "76512",
+    "event_time": "2026-04-07T08:14:00",
+    "seen_at": "2026-04-07T06:15:31.219Z",
+    "raw": "Br. Vlaka 76512 formiran     07.04.26. 08:14, kolodvor ČAGLIN"
   }
 ]
