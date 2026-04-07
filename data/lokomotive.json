@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-04T04:51:00",
-    "seen_at": "2026-04-04T03:26:36.357Z",
-    "raw": "Br. Vlaka 69005 formiran     04.04.26. 04:51, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-04T04:51:00",
-    "seen_at": "2026-04-04T03:26:36.357Z",
-    "raw": "Br. Vlaka 69005 formiran     04.04.26. 04:51, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "89120",
-    "event_time": "2026-04-04T05:26:00",
-    "seen_at": "2026-04-04T03:26:59.939Z",
-    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 05:26, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-04T04:51:00",
-    "seen_at": "2026-04-04T03:26:59.939Z",
-    "raw": "Br. Vlaka 69005 formiran     04.04.26. 04:51, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "89420",
-    "event_time": "2026-04-04T05:26:00",
-    "seen_at": "2026-04-04T03:28:10.636Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 05:26, kolodvor NOVSKA"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "JASTREBARSKO",
@@ -5641,5 +5596,77 @@
     "event_time": "2026-04-07T05:10:00",
     "seen_at": "2026-04-07T03:11:52.198Z",
     "raw": "Br. Vlaka 89125 formiran     07.04.26. 05:10, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PLASE",
+    "train_number": "89182",
+    "event_time": "2026-04-07T05:20:00",
+    "seen_at": "2026-04-07T03:23:46.059Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 05:20, kolodvor PLASE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "PLASE",
+    "train_number": "89182",
+    "event_time": "2026-04-07T05:20:00",
+    "seen_at": "2026-04-07T03:23:46.060Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 05:20, kolodvor PLASE"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "70065",
+    "event_time": "2026-04-07T05:24:00",
+    "seen_at": "2026-04-07T03:27:43.154Z",
+    "raw": "Br. Vlaka 70065 formiran     07.04.26. 05:24, kolodvor OGULIN"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "70065",
+    "event_time": "2026-04-07T05:26:00",
+    "seen_at": "2026-04-07T03:28:31.073Z",
+    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 05:26, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "MEJA",
+    "train_number": "89182",
+    "event_time": "2026-04-07T05:29:00",
+    "seen_at": "2026-04-07T03:30:30.571Z",
+    "raw": "Br. Vlaka 89182 dolazak      07.04.26. 05:29, kolodvor MEJA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "MEJA",
+    "train_number": "89182",
+    "event_time": "2026-04-07T05:29:00",
+    "seen_at": "2026-04-07T03:30:30.571Z",
+    "raw": "Br. Vlaka 89182 dolazak      07.04.26. 05:29, kolodvor MEJA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-04-07T05:28:00",
+    "seen_at": "2026-04-07T03:30:54.465Z",
+    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:28, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-04-07T05:28:00",
+    "seen_at": "2026-04-07T03:30:54.465Z",
+    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:28, kolodvor LIČKA JESENICA"
   }
 ]
