@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T08:45:00",
-    "seen_at": "2026-04-04T06:51:14.238Z",
-    "raw": "Br. Vlaka 82531 formiran     04.04.26. 08:45, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T08:45:00",
-    "seen_at": "2026-04-04T06:51:37.263Z",
-    "raw": "Br. Vlaka 82531 formiran     04.04.26. 08:45, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "997894245619",
     "type": "Rasformiran",
     "station": "PERUŠIĆ",
@@ -6172,5 +6154,41 @@
     "event_time": "2026-04-07T08:44:00",
     "seen_at": "2026-04-07T06:44:35.786Z",
     "raw": "Br. Vlaka 81976 formiran     07.04.26. 08:44, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "81286",
+    "event_time": "2026-04-07T08:48:00",
+    "seen_at": "2026-04-07T06:48:48.095Z",
+    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 08:48, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "47428",
+    "event_time": "2026-04-07T08:51:00",
+    "seen_at": "2026-04-07T06:52:02.981Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 08:51, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81976",
+    "event_time": "2026-04-07T08:55:00",
+    "seen_at": "2026-04-07T06:55:20.142Z",
+    "raw": "Br. Vlaka 81976 odlazak      07.04.26. 08:55, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "76512",
+    "event_time": "2026-04-07T08:51:00",
+    "seen_at": "2026-04-07T06:55:20.142Z",
+    "raw": "Br. Vlaka 76512 dolazak      07.04.26. 08:51, kolodvor PLETERNICA"
   }
 ]
