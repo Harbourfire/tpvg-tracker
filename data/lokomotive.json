@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-04T13:08:00",
-    "seen_at": "2026-04-04T11:16:13.380Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-04T13:08:00",
-    "seen_at": "2026-04-04T11:16:13.380Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
     "type": "Formiran",
     "station": "GOSPIĆ",
     "train_number": "63310",
@@ -7036,5 +7018,68 @@
     "event_time": "2026-04-07T13:02:00",
     "seen_at": "2026-04-07T11:06:02.527Z",
     "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:02, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GOMIRJE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:09:00",
+    "seen_at": "2026-04-07T11:09:45.114Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:09, kolodvor GOMIRJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GOMIRJE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:09:00",
+    "seen_at": "2026-04-07T11:09:45.115Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:09, kolodvor GOMIRJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81976",
+    "event_time": "2026-04-07T13:11:00",
+    "seen_at": "2026-04-07T11:12:56.781Z",
+    "raw": "Br. Vlaka 81976 dolazak      07.04.26. 13:11, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "83810",
+    "event_time": "2026-04-07T13:14:00",
+    "seen_at": "2026-04-07T11:16:07.573Z",
+    "raw": "Br. Vlaka 83810 odlazak      07.04.26. 13:14, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89753",
+    "event_time": "2026-04-07T13:11:00",
+    "seen_at": "2026-04-07T11:16:07.574Z",
+    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:11, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:17:00",
+    "seen_at": "2026-04-07T11:17:41.468Z",
+    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 13:17, kolodvor OGULINSKI HRELJIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:17:00",
+    "seen_at": "2026-04-07T11:18:04.946Z",
+    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 13:17, kolodvor OGULINSKI HRELJIN"
   }
 ]
