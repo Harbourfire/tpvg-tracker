@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "89120",
-    "event_time": "2026-04-04T06:58:00",
-    "seen_at": "2026-04-04T04:59:16.915Z",
-    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:58, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "89420",
-    "event_time": "2026-04-04T07:02:00",
-    "seen_at": "2026-04-04T05:03:31.704Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 07:02, kolodvor SISAK"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -5983,5 +5965,41 @@
     "event_time": "2026-04-07T06:58:00",
     "seen_at": "2026-04-07T04:58:53.115Z",
     "raw": "Br. Vlaka 70065 dolazak      07.04.26. 06:58, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81286",
+    "event_time": "2026-04-07T07:00:00",
+    "seen_at": "2026-04-07T05:00:13.853Z",
+    "raw": "Br. Vlaka 81286 dolazak      07.04.26. 07:00, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "PLETERNICA",
+    "train_number": "74303",
+    "event_time": "2026-04-07T07:00:00",
+    "seen_at": "2026-04-07T05:01:01.884Z",
+    "raw": "Br. Vlaka 74303 formiran     07.04.26. 07:00, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-05T22:30:00",
+    "seen_at": "2026-04-07T05:06:09.477Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-07T07:08:00",
+    "seen_at": "2026-04-07T05:08:31.832Z",
+    "raw": "Br. Vlaka 66853 formiran     07.04.26. 07:08, kolodvor OSIJEK"
   }
 ]
