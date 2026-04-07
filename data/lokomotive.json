@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89420",
-    "event_time": "2026-04-04T06:55:00",
-    "seen_at": "2026-04-04T04:57:21.312Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 06:55, kolodvor SISAK CAPRAG"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "MRZLO POLJE",
@@ -5965,5 +5956,32 @@
     "event_time": "2026-04-07T06:46:00",
     "seen_at": "2026-04-07T04:47:17.283Z",
     "raw": "Br. Vlaka 70065 odlazak      07.04.26. 06:46, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "81286",
+    "event_time": "2026-04-07T06:49:00",
+    "seen_at": "2026-04-07T04:50:37.444Z",
+    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 06:49, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76510",
+    "event_time": "2026-04-07T06:56:00",
+    "seen_at": "2026-04-07T04:57:19.084Z",
+    "raw": "Br. Vlaka 76510 odlazak      07.04.26. 06:56, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "70065",
+    "event_time": "2026-04-07T06:58:00",
+    "seen_at": "2026-04-07T04:58:53.115Z",
+    "raw": "Br. Vlaka 70065 dolazak      07.04.26. 06:58, kolodvor DRAGANIĆI"
   }
 ]
