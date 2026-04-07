@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:44:00",
-    "seen_at": "2026-04-04T09:45:02.488Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:44, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:44:00",
-    "seen_at": "2026-04-04T09:45:02.488Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 11:44, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "82531",
@@ -6748,5 +6730,32 @@
     "event_time": "2026-04-07T11:38:00",
     "seen_at": "2026-04-07T09:40:09.246Z",
     "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:47:00",
+    "seen_at": "2026-04-07T09:47:46.429Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:47, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:47:00",
+    "seen_at": "2026-04-07T09:47:46.430Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:47, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "83810",
+    "event_time": "2026-04-07T11:46:00",
+    "seen_at": "2026-04-07T09:48:09.671Z",
+    "raw": "Br. Vlaka 83810 dolazak      07.04.26. 11:46, kolodvor POŽEGA"
   }
 ]
