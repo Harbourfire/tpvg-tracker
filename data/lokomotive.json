@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-23T09:57:00",
-    "seen_at": "2026-04-04T10:07:28.613Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -6784,5 +6775,59 @@
     "event_time": "2026-04-07T11:55:00",
     "seen_at": "2026-04-07T09:56:13.123Z",
     "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:55, kolodvor FUŽINE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "LOKVE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:04:00",
+    "seen_at": "2026-04-07T10:05:15.531Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:04, kolodvor LOKVE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LOKVE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:04:00",
+    "seen_at": "2026-04-07T10:05:39.034Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:04, kolodvor LOKVE"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-23T09:57:00",
+    "seen_at": "2026-04-07T10:08:00.745Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "89753",
+    "event_time": "2026-04-07T11:42:00",
+    "seen_at": "2026-04-07T10:09:11.337Z",
+    "raw": "Br. Vlaka 89753 dolazak      07.04.26. 11:42, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89753",
+    "event_time": "2026-04-07T12:07:00",
+    "seen_at": "2026-04-07T10:09:34.746Z",
+    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 12:07, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47428",
+    "event_time": "2026-04-07T12:06:00",
+    "seen_at": "2026-04-07T10:09:34.746Z",
+    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 12:06, kolodvor ZAGREB ZAP. KOL."
   }
 ]
