@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T12:38:00",
-    "seen_at": "2026-04-04T10:40:27.239Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 12:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T12:38:00",
-    "seen_at": "2026-04-04T10:40:27.239Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 12:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820440141",
     "type": "Promjena sastava",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -6982,5 +6964,50 @@
     "event_time": "2026-04-07T12:37:00",
     "seen_at": "2026-04-07T10:37:37.438Z",
     "raw": "Br. Vlaka 89753 odlazak      07.04.26. 12:37, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SKRAD",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:39:00",
+    "seen_at": "2026-04-07T10:39:49.277Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:39, kolodvor SKRAD"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SKRAD",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:39:00",
+    "seen_at": "2026-04-07T10:39:49.278Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:39, kolodvor SKRAD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89753",
+    "event_time": "2026-04-07T12:44:00",
+    "seen_at": "2026-04-07T10:45:23.213Z",
+    "raw": "Br. Vlaka 89753 dolazak      07.04.26. 12:44, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:48:00",
+    "seen_at": "2026-04-07T10:48:31.931Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:48, kolodvor BROD MORAVICE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:48:00",
+    "seen_at": "2026-04-07T10:48:31.931Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:48, kolodvor BROD MORAVICE"
   }
 ]
