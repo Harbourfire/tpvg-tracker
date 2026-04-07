@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45994",
-    "event_time": "2026-04-04T12:46:00",
-    "seen_at": "2026-04-04T10:56:32.992Z",
-    "raw": "Br. Vlaka 45994 promjena sas 04.04.26. 12:46, kolodvor 72303"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82531",
-    "event_time": "2026-04-04T12:55:00",
-    "seen_at": "2026-04-04T10:56:32.993Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 12:55, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82531",
-    "event_time": "2026-04-04T12:55:00",
-    "seen_at": "2026-04-04T10:56:32.993Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 12:55, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "45994",
-    "event_time": "2026-04-04T12:46:00",
-    "seen_at": "2026-04-04T10:57:07.050Z",
-    "raw": "Br. Vlaka 45994 promjena sas 04.04.26. 12:46, kolodvor 72303"
-  },
-  {
     "uic": "928012230035",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -7009,5 +6973,32 @@
     "event_time": "2026-04-07T12:48:00",
     "seen_at": "2026-04-07T10:48:31.931Z",
     "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:48, kolodvor BROD MORAVICE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "83810",
+    "event_time": "2026-04-07T12:52:00",
+    "seen_at": "2026-04-07T10:53:55.388Z",
+    "raw": "Br. Vlaka 83810 odlazak      07.04.26. 12:52, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MORAVICE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:54:00",
+    "seen_at": "2026-04-07T10:54:42.836Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:54, kolodvor MORAVICE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "MORAVICE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T12:54:00",
+    "seen_at": "2026-04-07T10:54:42.837Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:54, kolodvor MORAVICE"
   }
 ]
