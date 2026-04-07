@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-04T08:01:00",
-    "seen_at": "2026-04-04T06:02:45.053Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "KUKAČA",
-    "train_number": "89120",
-    "event_time": "2026-04-04T08:01:00",
-    "seen_at": "2026-04-04T06:06:15.754Z",
-    "raw": "Br. Vlaka 89120 dolazak      04.04.26. 08:01, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "89120",
-    "event_time": "2026-04-04T08:05:00",
-    "seen_at": "2026-04-04T06:06:38.630Z",
-    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 08:05, kolodvor KUKAČA"
-  },
-  {
     "uic": "928012230100",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -6037,5 +6010,32 @@
     "event_time": "2026-04-07T07:56:00",
     "seen_at": "2026-04-07T05:57:20.999Z",
     "raw": "Br. Vlaka 70065 odlazak      07.04.26. 07:56, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-07T07:56:00",
+    "seen_at": "2026-04-07T05:58:18.486Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "81286",
+    "event_time": "2026-04-07T07:58:00",
+    "seen_at": "2026-04-07T06:00:19.933Z",
+    "raw": "Br. Vlaka 81286 dolazak      07.04.26. 07:58, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "47428",
+    "event_time": "2026-04-07T08:00:00",
+    "seen_at": "2026-04-07T06:03:51.980Z",
+    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 08:00, kolodvor GENERALSKI STOL"
   }
 ]
