@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "PERUŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-01T10:10:00",
-    "seen_at": "2026-04-04T08:21:06.027Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76106 PERUŠIĆ"
-  },
-  {
     "uic": "997894215612",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -6460,5 +6451,68 @@
     "event_time": "2026-04-07T10:10:00",
     "seen_at": "2026-04-07T08:12:48.485Z",
     "raw": "Br. Vlaka 76506 odlazak      07.04.26. 10:10, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81975",
+    "event_time": "2026-04-07T10:15:00",
+    "seen_at": "2026-04-07T08:18:10.274Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81975",
+    "event_time": "2026-04-07T10:15:00",
+    "seen_at": "2026-04-07T08:18:10.274Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-04-07T10:21:00",
+    "seen_at": "2026-04-07T08:21:21.079Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 10:21, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81975",
+    "event_time": "2026-04-07T10:20:00",
+    "seen_at": "2026-04-07T08:21:44.812Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81975",
+    "event_time": "2026-04-07T10:20:00",
+    "seen_at": "2026-04-07T08:21:44.812Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:20, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76506",
+    "event_time": "2026-04-07T10:20:00",
+    "seen_at": "2026-04-07T08:21:44.812Z",
+    "raw": "Br. Vlaka 76506 odlazak      07.04.26. 10:20, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "PERUŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-01T10:10:00",
+    "seen_at": "2026-04-07T08:21:44.812Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76106 PERUŠIĆ"
   }
 ]
