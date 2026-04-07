@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "VELIKA GORICA",
-    "train_number": "89165",
-    "event_time": "2026-04-04T03:57:00",
-    "seen_at": "2026-04-04T02:06:06.800Z",
-    "raw": "Br. Vlaka 89165 formiran     04.04.26. 03:57, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-04T04:06:00",
-    "seen_at": "2026-04-04T02:09:12.709Z",
-    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 04:06, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-04T04:06:00",
-    "seen_at": "2026-04-04T02:09:12.710Z",
-    "raw": "Br. Vlaka 63306 odlazak      04.04.26. 04:06, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "928012230035",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -5596,5 +5569,41 @@
     "event_time": "2026-04-07T03:55:00",
     "seen_at": "2026-04-07T01:55:51.997Z",
     "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:55, kolodvor MORAVICE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:04:00",
+    "seen_at": "2026-04-07T02:05:19.526Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:04, kolodvor BROD MORAVICE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:04:00",
+    "seen_at": "2026-04-07T02:05:19.526Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:04, kolodvor BROD MORAVICE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SKRAD",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:13:00",
+    "seen_at": "2026-04-07T02:14:30.157Z",
+    "raw": "Br. Vlaka 89182 dolazak      07.04.26. 04:13, kolodvor SKRAD"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SKRAD",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:13:00",
+    "seen_at": "2026-04-07T02:14:30.157Z",
+    "raw": "Br. Vlaka 89182 dolazak      07.04.26. 04:13, kolodvor SKRAD"
   }
 ]
