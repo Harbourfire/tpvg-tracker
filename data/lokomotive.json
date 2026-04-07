@@ -2,33 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89120",
-    "event_time": "2026-04-04T06:20:00",
-    "seen_at": "2026-04-04T04:21:01.613Z",
-    "raw": "Br. Vlaka 89120 odlazak      04.04.26. 06:20, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "89420",
-    "event_time": "2026-04-04T06:24:00",
-    "seen_at": "2026-04-04T04:26:41.337Z",
-    "raw": "Br. Vlaka 89420 odlazak      04.04.26. 06:24, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "VELIKA GORICA",
-    "train_number": null,
-    "event_time": "2026-04-04T06:00:00",
-    "seen_at": "2026-04-04T04:27:52.616Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72908 VELIKA GORICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "DRAGANIĆI",
     "train_number": "89120",
     "event_time": "2026-04-04T06:36:00",
@@ -5884,5 +5857,14 @@
     "event_time": "2026-04-07T06:16:00",
     "seen_at": "2026-04-07T04:18:46.342Z",
     "raw": "Trenutna pozicija je u kolodvoru 75562 75562"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81286",
+    "event_time": "2026-04-07T06:22:00",
+    "seen_at": "2026-04-07T04:22:30.458Z",
+    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 06:22, kolodvor SLAVONSKI BROD"
   }
 ]
