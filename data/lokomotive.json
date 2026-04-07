@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-04T14:16:00",
-    "seen_at": "2026-04-04T12:17:13.545Z",
-    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-04T14:16:00",
-    "seen_at": "2026-04-04T12:17:13.545Z",
-    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "PERUŠIĆ",
     "train_number": "63310",
     "event_time": "2026-04-04T14:28:00",
@@ -7153,5 +7135,32 @@
     "event_time": "2026-04-07T13:43:00",
     "seen_at": "2026-04-07T11:46:54.349Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47428",
+    "event_time": "2026-04-07T14:18:00",
+    "seen_at": "2026-04-07T12:18:33.392Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 14:18, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44786",
+    "event_time": "2026-04-07T13:38:00",
+    "seen_at": "2026-04-07T12:21:24.183Z",
+    "raw": "Br. Vlaka 44786 promjena sas 07.04.26. 13:38, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Formiran",
+    "station": "SESVETE",
+    "train_number": "89204",
+    "event_time": "2026-04-07T14:24:00",
+    "seen_at": "2026-04-07T12:25:44.754Z",
+    "raw": "Br. Vlaka 89204 formiran     07.04.26. 14:24, kolodvor SESVETE"
   }
 ]
