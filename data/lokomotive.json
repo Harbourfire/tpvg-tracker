@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-04T14:28:00",
-    "seen_at": "2026-04-04T12:29:09.177Z",
-    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:28, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-04T14:28:00",
-    "seen_at": "2026-04-04T12:29:09.177Z",
-    "raw": "Br. Vlaka 63310 odlazak      04.04.26. 14:28, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "63310",
     "event_time": "2026-04-04T14:46:00",
@@ -7162,5 +7144,23 @@
     "event_time": "2026-04-07T14:24:00",
     "seen_at": "2026-04-07T12:25:44.754Z",
     "raw": "Br. Vlaka 89204 formiran     07.04.26. 14:24, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-04-07T14:26:00",
+    "seen_at": "2026-04-07T12:27:12.438Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 14:26, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-07T14:30:00",
+    "seen_at": "2026-04-07T12:30:22.173Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
