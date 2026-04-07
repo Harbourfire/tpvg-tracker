@@ -6307,5 +6307,32 @@
     "event_time": "2026-04-07T09:31:00",
     "seen_at": "2026-04-07T07:31:59.002Z",
     "raw": "Br. Vlaka 81973 dolazak      07.04.26. 09:31, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "TOVARNIK",
+    "train_number": "71200",
+    "event_time": "2026-04-07T09:34:00",
+    "seen_at": "2026-04-07T07:34:54.701Z",
+    "raw": "Br. Vlaka 71200 formiran     07.04.26. 09:34, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "81286",
+    "event_time": "2026-04-07T09:26:00",
+    "seen_at": "2026-04-07T07:41:37.578Z",
+    "raw": "Br. Vlaka 81286 dolazak      07.04.26. 09:26, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-07T09:26:00",
+    "seen_at": "2026-04-07T07:42:02.213Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
   }
 ]
