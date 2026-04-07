@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:58:00",
-    "seen_at": "2026-04-04T09:59:30.728Z",
-    "raw": "Br. Vlaka 82531 dolazak      04.04.26. 11:58, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T11:58:00",
-    "seen_at": "2026-04-04T09:59:30.728Z",
-    "raw": "Br. Vlaka 82531 dolazak      04.04.26. 11:58, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "997894853461",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -6757,5 +6739,50 @@
     "event_time": "2026-04-07T11:46:00",
     "seen_at": "2026-04-07T09:48:09.671Z",
     "raw": "Br. Vlaka 83810 dolazak      07.04.26. 11:46, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-07T11:50:00",
+    "seen_at": "2026-04-07T09:51:28.977Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 11:50, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81975",
+    "event_time": "2026-04-07T11:53:00",
+    "seen_at": "2026-04-07T09:53:51.118Z",
+    "raw": "Br. Vlaka 81975 dolazak      07.04.26. 11:53, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81975",
+    "event_time": "2026-04-07T11:53:00",
+    "seen_at": "2026-04-07T09:53:51.118Z",
+    "raw": "Br. Vlaka 81975 dolazak      07.04.26. 11:53, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "FUŽINE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:55:00",
+    "seen_at": "2026-04-07T09:55:49.399Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:55, kolodvor FUŽINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "FUŽINE",
+    "train_number": "81973",
+    "event_time": "2026-04-07T11:55:00",
+    "seen_at": "2026-04-07T09:56:13.123Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:55, kolodvor FUŽINE"
   }
 ]
