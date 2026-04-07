@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89120",
-    "event_time": "2026-04-04T04:38:00",
-    "seen_at": "2026-04-04T02:41:09.416Z",
-    "raw": "Br. Vlaka 89120 dolazak      04.04.26. 04:38, kolodvor 72304"
-  },
-  {
-    "uic": "928012230100",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "89120",
@@ -5632,5 +5623,41 @@
     "event_time": "2026-04-07T04:28:00",
     "seen_at": "2026-04-07T02:29:59.914Z",
     "raw": "Br. Vlaka 63306 odlazak      07.04.26. 04:28, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZALESINA",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:33:00",
+    "seen_at": "2026-04-07T02:35:41.827Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:33, kolodvor ZALESINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZALESINA",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:33:00",
+    "seen_at": "2026-04-07T02:35:41.828Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:33, kolodvor ZALESINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DELNICE",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:40:00",
+    "seen_at": "2026-04-07T02:40:28.379Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:40, kolodvor DELNICE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "DELNICE",
+    "train_number": "89182",
+    "event_time": "2026-04-07T04:40:00",
+    "seen_at": "2026-04-07T02:40:28.380Z",
+    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:40, kolodvor DELNICE"
   }
 ]
