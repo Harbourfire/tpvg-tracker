@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-04T13:27:00",
-    "seen_at": "2026-04-04T11:27:45.231Z",
-    "raw": "Br. Vlaka 63310 formiran     04.04.26. 13:27, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-04T13:27:00",
-    "seen_at": "2026-04-04T11:27:45.231Z",
-    "raw": "Br. Vlaka 63310 formiran     04.04.26. 13:27, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -7108,5 +7090,68 @@
     "event_time": "2026-04-07T13:26:00",
     "seen_at": "2026-04-07T11:26:53.367Z",
     "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:26, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:25:00",
+    "seen_at": "2026-04-07T11:28:13.755Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:25, kolodvor OGULINSKI HRELJIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:25:00",
+    "seen_at": "2026-04-07T11:28:13.756Z",
+    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:25, kolodvor OGULINSKI HRELJIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-07T09:00:00",
+    "seen_at": "2026-04-07T11:29:00.146Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89753",
+    "event_time": "2026-04-07T13:32:00",
+    "seen_at": "2026-04-07T11:32:58.862Z",
+    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:32, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "OGULIN",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:34:00",
+    "seen_at": "2026-04-07T11:34:56.255Z",
+    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 13:34, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "OGULIN",
+    "train_number": "81973",
+    "event_time": "2026-04-07T13:34:00",
+    "seen_at": "2026-04-07T11:34:56.256Z",
+    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 13:34, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-07T13:36:00",
+    "seen_at": "2026-04-07T11:36:54.926Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
   }
 ]
