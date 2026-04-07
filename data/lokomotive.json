@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215612",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-03-26T09:31:00",
-    "seen_at": "2026-04-04T08:36:12.236Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T10:40:00",
-    "seen_at": "2026-04-04T08:40:55.428Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 10:40, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "82531",
-    "event_time": "2026-04-04T10:40:00",
-    "seen_at": "2026-04-04T08:40:55.428Z",
-    "raw": "Br. Vlaka 82531 odlazak      04.04.26. 10:40, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -6532,5 +6505,59 @@
     "event_time": "2026-04-07T10:31:00",
     "seen_at": "2026-04-07T08:32:37.290Z",
     "raw": "Br. Vlaka 76506 odlazak      07.04.26. 10:31, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-03-26T09:31:00",
+    "seen_at": "2026-04-07T08:36:51.296Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81975",
+    "event_time": "2026-04-07T10:36:00",
+    "seen_at": "2026-04-07T08:37:38.880Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:36, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81975",
+    "event_time": "2026-04-07T10:36:00",
+    "seen_at": "2026-04-07T08:37:38.880Z",
+    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:36, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "47428",
+    "event_time": "2026-04-07T10:37:00",
+    "seen_at": "2026-04-07T08:39:14.114Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 10:37, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-04-07T10:21:00",
+    "seen_at": "2026-04-07T08:39:38.185Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 10:21, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "47428",
+    "event_time": "2026-04-07T10:38:00",
+    "seen_at": "2026-04-07T08:40:02.394Z",
+    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 10:38, kolodvor JASTREBARSKO"
   }
 ]
