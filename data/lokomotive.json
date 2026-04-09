@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-03T12:05:00",
-    "seen_at": "2026-04-06T10:17:51.746Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82259",
-    "event_time": "2026-04-06T12:19:00",
-    "seen_at": "2026-04-06T10:21:37.180Z",
-    "raw": "Br. Vlaka 82259 dolazak      06.04.26. 12:19, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82259",
-    "event_time": "2026-04-06T12:19:00",
-    "seen_at": "2026-04-06T10:21:37.180Z",
-    "raw": "Br. Vlaka 82259 dolazak      06.04.26. 12:19, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "82259",
-    "event_time": "2026-04-06T12:19:00",
-    "seen_at": "2026-04-06T10:23:10.230Z",
-    "raw": "Br. Vlaka 82259 promjena sas 06.04.26. 12:19, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "82259",
-    "event_time": "2026-04-06T12:19:00",
-    "seen_at": "2026-04-06T10:23:10.230Z",
-    "raw": "Br. Vlaka 82259 promjena sas 06.04.26. 12:19, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "81286",
-    "event_time": "2026-04-06T12:24:00",
-    "seen_at": "2026-04-06T10:26:16.993Z",
-    "raw": "Br. Vlaka 81286 odlazak      06.04.26. 12:24, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -7198,5 +7144,14 @@
     "event_time": "2026-04-09T12:15:00",
     "seen_at": "2026-04-09T10:15:50.039Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 12:15, kolodvor GOMIRJE"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "79911",
+    "event_time": "2026-04-09T12:22:00",
+    "seen_at": "2026-04-09T10:23:10.806Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 12:22, kolodvor OGULINSKI HRELJIN"
   }
 ]
