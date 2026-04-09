@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-06T17:10:00",
-    "seen_at": "2026-04-06T15:23:50.416Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-06T17:10:00",
-    "seen_at": "2026-04-06T15:23:50.416Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
     "type": "Formiran",
     "station": "OŠTARIJE",
     "train_number": "69006",
@@ -7342,5 +7324,41 @@
     "event_time": "2026-04-09T17:19:00",
     "seen_at": "2026-04-09T15:19:38.445Z",
     "raw": "Br. Vlaka 44786 odlazak      09.04.26. 17:19, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-09T17:04:00",
+    "seen_at": "2026-04-09T15:24:02.541Z",
+    "raw": "Br. Vlaka 45104 odlazak      09.04.26. 17:04, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-09T17:22:00",
+    "seen_at": "2026-04-09T15:25:14.824Z",
+    "raw": "Br. Vlaka 45104 odlazak      09.04.26. 17:22, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44786",
+    "event_time": "2026-04-09T17:26:00",
+    "seen_at": "2026-04-09T15:26:51.182Z",
+    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 17:26, kolodvor LUKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-09T17:30:00",
+    "seen_at": "2026-04-09T15:30:52.499Z",
+    "raw": "Br. Vlaka 63310 odlazak      09.04.26. 17:30, kolodvor RUDOPOLJE"
   }
 ]
