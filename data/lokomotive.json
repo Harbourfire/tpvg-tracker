@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-06T15:02:00",
-    "seen_at": "2026-04-06T13:02:24.411Z",
-    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:02, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-06T15:02:00",
-    "seen_at": "2026-04-06T13:02:24.411Z",
-    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 15:02, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "NOVSKA",
@@ -7216,5 +7198,50 @@
     "event_time": "2026-04-09T14:46:00",
     "seen_at": "2026-04-09T12:48:47.893Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:46, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-04-09T14:29:00",
+    "seen_at": "2026-04-09T12:55:18.946Z",
+    "raw": "Br. Vlaka 49827 odlazak      09.04.26. 14:29, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "89154",
+    "event_time": "2026-04-09T14:37:00",
+    "seen_at": "2026-04-09T12:56:06.744Z",
+    "raw": "Br. Vlaka 89154 promjena sas 09.04.26. 14:37, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89154",
+    "event_time": "2026-04-09T14:55:00",
+    "seen_at": "2026-04-09T12:56:30.571Z",
+    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 14:55, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "49827",
+    "event_time": "2026-04-09T14:39:00",
+    "seen_at": "2026-04-09T12:57:17.589Z",
+    "raw": "Br. Vlaka 49827 odlazak      09.04.26. 14:39, kolodvor DALJ"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "79911",
+    "event_time": "2026-04-09T14:57:00",
+    "seen_at": "2026-04-09T12:58:05.184Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:57, kolodvor KARLOVAC"
   }
 ]
