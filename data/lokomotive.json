@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-06T17:13:00",
-    "seen_at": "2026-04-06T16:23:43.960Z",
-    "raw": "Br. Vlaka 69005 formiran     06.04.26. 17:13, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-06T17:13:00",
-    "seen_at": "2026-04-06T16:24:17.838Z",
-    "raw": "Br. Vlaka 69005 formiran     06.04.26. 17:13, kolodvor OGULIN"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -7423,5 +7405,50 @@
     "event_time": "2026-04-09T18:04:00",
     "seen_at": "2026-04-09T16:15:30.797Z",
     "raw": "Br. Vlaka 63310 promjena sas 09.04.26. 18:04, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48586",
+    "event_time": "2026-04-09T18:18:00",
+    "seen_at": "2026-04-09T16:20:26.365Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 18:18, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48586",
+    "event_time": "2026-04-09T18:18:00",
+    "seen_at": "2026-04-09T16:20:26.365Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 18:18, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44786",
+    "event_time": "2026-04-09T18:20:00",
+    "seen_at": "2026-04-09T16:21:37.548Z",
+    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 18:20, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48586",
+    "event_time": "2026-04-09T18:24:00",
+    "seen_at": "2026-04-09T16:26:44.405Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 18:24, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48586",
+    "event_time": "2026-04-09T18:24:00",
+    "seen_at": "2026-04-09T16:26:44.405Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 18:24, kolodvor PODSUSED tvornica"
   }
 ]
