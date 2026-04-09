@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89182",
-    "event_time": "2026-04-07T01:18:00",
-    "seen_at": "2026-04-06T23:19:14.355Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 01:18, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89182",
-    "event_time": "2026-04-07T01:18:00",
-    "seen_at": "2026-04-06T23:19:14.355Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 01:18, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZDENČINA",
     "train_number": "89182",
     "event_time": "2026-04-07T01:25:00",
@@ -8260,5 +8242,41 @@
     "event_time": "2026-04-10T01:09:00",
     "seen_at": "2026-04-09T23:10:38.915Z",
     "raw": "Br. Vlaka 82277 odlazak      10.04.26. 01:09, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-10T01:14:00",
+    "seen_at": "2026-04-09T23:16:43.764Z",
+    "raw": "Br. Vlaka 43995 dolazak      10.04.26. 01:14, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81249",
+    "event_time": "2026-04-10T01:17:00",
+    "seen_at": "2026-04-09T23:19:05.020Z",
+    "raw": "Br. Vlaka 81249 odlazak      10.04.26. 01:17, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-04-10T01:22:00",
+    "seen_at": "2026-04-09T23:23:47.243Z",
+    "raw": "Br. Vlaka 61004 odlazak      10.04.26. 01:22, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-04-10T01:22:00",
+    "seen_at": "2026-04-09T23:23:47.244Z",
+    "raw": "Br. Vlaka 61004 odlazak      10.04.26. 01:22, kolodvor OSIJEK"
   }
 ]
