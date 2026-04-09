@@ -7684,5 +7684,68 @@
     "event_time": "2026-04-09T19:55:00",
     "seen_at": "2026-04-09T18:00:29.029Z",
     "raw": "Br. Vlaka 63310 odlazak      09.04.26. 19:55, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63310",
+    "event_time": "2026-04-09T20:02:00",
+    "seen_at": "2026-04-09T18:08:09.456Z",
+    "raw": "Br. Vlaka 63310 dolazak      09.04.26. 20:02, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-09T20:02:00",
+    "seen_at": "2026-04-09T18:08:33.019Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-04-09T20:10:00",
+    "seen_at": "2026-04-09T18:10:31.917Z",
+    "raw": "Br. Vlaka 61004 formiran     09.04.26. 20:10, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVI DVORI",
+    "train_number": "44994",
+    "event_time": "2026-04-09T20:04:00",
+    "seen_at": "2026-04-09T18:10:55.330Z",
+    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 20:04, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "NOVI DVORI",
+    "train_number": "44994",
+    "event_time": "2026-04-09T20:04:00",
+    "seen_at": "2026-04-09T18:10:55.331Z",
+    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 20:04, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89154",
+    "event_time": "2026-04-09T20:13:00",
+    "seen_at": "2026-04-09T18:13:39.884Z",
+    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 20:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89101",
+    "event_time": "2026-04-09T20:11:00",
+    "seen_at": "2026-04-09T18:13:39.884Z",
+    "raw": "Br. Vlaka 89101 odlazak      09.04.26. 20:11, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
