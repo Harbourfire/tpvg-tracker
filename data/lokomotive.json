@@ -7369,5 +7369,41 @@
     "event_time": "2026-04-09T17:35:00",
     "seen_at": "2026-04-09T15:36:41.139Z",
     "raw": "Br. Vlaka 89753 odlazak      09.04.26. 17:35, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89753",
+    "event_time": "2026-04-09T17:41:00",
+    "seen_at": "2026-04-09T15:41:21.269Z",
+    "raw": "Br. Vlaka 89753 odlazak      09.04.26. 17:41, kolodvor 72302"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-09T17:42:00",
+    "seen_at": "2026-04-09T15:46:07.013Z",
+    "raw": "Br. Vlaka 63310 odlazak      09.04.26. 17:42, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-09T17:45:00",
+    "seen_at": "2026-04-09T15:46:31.201Z",
+    "raw": "Br. Vlaka 45104 dolazak      09.04.26. 17:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-09T17:45:00",
+    "seen_at": "2026-04-09T15:46:54.706Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
