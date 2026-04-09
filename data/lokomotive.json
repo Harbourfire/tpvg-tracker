@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-06T17:03:00",
-    "seen_at": "2026-04-06T15:05:12.089Z",
-    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 17:03, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-06T17:03:00",
-    "seen_at": "2026-04-06T15:05:12.089Z",
-    "raw": "Br. Vlaka 63310 odlazak      06.04.26. 17:03, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230035",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
     "train_number": null,
@@ -7324,5 +7306,14 @@
     "event_time": "2026-04-09T16:45:00",
     "seen_at": "2026-04-09T14:49:24.756Z",
     "raw": "Br. Vlaka 45104 odlazak      09.04.26. 16:45, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-09T16:59:00",
+    "seen_at": "2026-04-09T15:01:43.149Z",
+    "raw": "Br. Vlaka 63310 dolazak      09.04.26. 16:59, kolodvor VRHOVINE"
   }
 ]
