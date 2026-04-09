@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-03-25T10:12:00",
-    "seen_at": "2026-04-06T09:20:13.957Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "81971",
-    "event_time": "2026-04-06T11:20:00",
-    "seen_at": "2026-04-06T09:21:00.613Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 11:20, kolodvor GREDA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-04-03T11:01:00",
-    "seen_at": "2026-04-06T09:26:17.660Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69350",
-    "event_time": "2026-04-06T11:25:00",
-    "seen_at": "2026-04-06T09:26:41.249Z",
-    "raw": "Br. Vlaka 69350 odlazak      06.04.26. 11:25, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -7153,5 +7117,32 @@
     "event_time": "2026-04-09T11:10:00",
     "seen_at": "2026-04-09T09:14:58.561Z",
     "raw": "Br. Vlaka 89157 odlazak      09.04.26. 11:10, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82507",
+    "event_time": "2026-04-09T11:19:00",
+    "seen_at": "2026-04-09T09:20:21.520Z",
+    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:19, kolodvor BLATA"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "LOKVE",
+    "train_number": "79911",
+    "event_time": "2026-04-09T11:17:00",
+    "seen_at": "2026-04-09T09:21:57.050Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:17, kolodvor LOKVE"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "DELNICE",
+    "train_number": "79911",
+    "event_time": "2026-04-09T11:24:00",
+    "seen_at": "2026-04-09T09:25:05.826Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:24, kolodvor DELNICE"
   }
 ]
