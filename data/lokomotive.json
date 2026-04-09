@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81971",
-    "event_time": "2026-04-06T10:59:00",
-    "seen_at": "2026-04-06T09:02:36.511Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 10:59, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-06T11:05:00",
-    "seen_at": "2026-04-06T09:06:53.531Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "81971",
-    "event_time": "2026-04-06T11:06:00",
-    "seen_at": "2026-04-06T09:07:39.992Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 11:06, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89102",
-    "event_time": "2026-04-06T09:45:00",
-    "seen_at": "2026-04-06T09:07:39.992Z",
-    "raw": "Br. Vlaka 89102 formiran     06.04.26. 09:45, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "987821323118",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -7207,5 +7171,32 @@
     "event_time": "2026-04-09T10:48:00",
     "seen_at": "2026-04-09T08:50:18.549Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:48, kolodvor PLASE"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "79911",
+    "event_time": "2026-04-09T10:59:00",
+    "seen_at": "2026-04-09T09:00:23.399Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:59, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82507",
+    "event_time": "2026-04-09T11:07:00",
+    "seen_at": "2026-04-09T09:08:24.167Z",
+    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:07, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "FUŽINE",
+    "train_number": "79911",
+    "event_time": "2026-04-09T11:08:00",
+    "seen_at": "2026-04-09T09:08:48.053Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:08, kolodvor FUŽINE"
   }
 ]
