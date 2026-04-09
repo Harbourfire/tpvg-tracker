@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894215729",
-    "type": "Rasformiran",
-    "station": "ZVEČAJ",
-    "train_number": null,
-    "event_time": "2026-03-31T06:42:00",
-    "seen_at": "2026-04-06T04:49:14.276Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75104 ZVEČAJ"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -6388,5 +6379,41 @@
     "event_time": "2026-04-09T06:29:00",
     "seen_at": "2026-04-09T04:30:02.680Z",
     "raw": "Br. Vlaka 82515 dolazak      09.04.26. 06:29, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "89150",
+    "event_time": "2026-04-09T06:40:00",
+    "seen_at": "2026-04-09T04:49:39.193Z",
+    "raw": "Br. Vlaka 89150 odlazak      09.04.26. 06:40, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89150",
+    "event_time": "2026-04-09T06:50:00",
+    "seen_at": "2026-04-09T04:50:27.590Z",
+    "raw": "Br. Vlaka 89150 odlazak      09.04.26. 06:50, kolodvor SESVETE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71201",
+    "event_time": "2026-04-09T06:52:00",
+    "seen_at": "2026-04-09T04:52:50.826Z",
+    "raw": "Br. Vlaka 71201 formiran     09.04.26. 06:52, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82515",
+    "event_time": "2026-04-09T06:29:00",
+    "seen_at": "2026-04-09T04:53:14.519Z",
+    "raw": "Br. Vlaka 82515 promjena sas 09.04.26. 06:29, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
