@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-06T07:35:00",
-    "seen_at": "2026-04-06T05:35:59.957Z",
-    "raw": "Br. Vlaka 66853 formiran     06.04.26. 07:35, kolodvor OSIJEK"
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "PLETERNICA",
@@ -6613,5 +6604,32 @@
     "event_time": "2026-04-09T07:30:00",
     "seen_at": "2026-04-09T05:32:17.591Z",
     "raw": "Br. Vlaka 81154 dolazak      09.04.26. 07:30, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81154",
+    "event_time": "2026-04-09T07:33:00",
+    "seen_at": "2026-04-09T05:36:03.863Z",
+    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 07:33, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "48586",
+    "event_time": "2026-04-09T07:38:00",
+    "seen_at": "2026-04-09T05:38:51.079Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:38, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "48586",
+    "event_time": "2026-04-09T07:38:00",
+    "seen_at": "2026-04-09T05:38:51.079Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:38, kolodvor DUGA RESA"
   }
 ]
