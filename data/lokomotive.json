@@ -6199,5 +6199,32 @@
     "event_time": "2026-04-09T05:07:00",
     "seen_at": "2026-04-09T03:08:35.912Z",
     "raw": "Br. Vlaka 89788 odlazak      09.04.26. 05:07, kolodvor 72302"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "PREČEC stajalište",
+    "train_number": null,
+    "event_time": "2026-04-09T04:53:00",
+    "seen_at": "2026-04-09T03:11:35.189Z",
+    "raw": "Trenutna pozicija je u kolodvoru 92515 92515"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89788",
+    "event_time": "2026-04-09T05:14:00",
+    "seen_at": "2026-04-09T03:17:30.163Z",
+    "raw": "Br. Vlaka 89788 dolazak      09.04.26. 05:14, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-09T05:14:00",
+    "seen_at": "2026-04-09T03:17:53.616Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
   }
 ]
