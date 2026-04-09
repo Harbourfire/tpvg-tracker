@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47427",
-    "event_time": "2026-04-06T02:45:00",
-    "seen_at": "2026-04-06T00:46:58.164Z",
-    "raw": "Br. Vlaka 47427 odlazak      06.04.26. 02:45, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "928012230050",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -5956,5 +5947,23 @@
     "event_time": "2026-04-09T02:37:00",
     "seen_at": "2026-04-09T00:39:03.762Z",
     "raw": "Br. Vlaka 81154 odlazak      09.04.26. 02:37, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-09T02:47:00",
+    "seen_at": "2026-04-09T00:52:01.785Z",
+    "raw": "Br. Vlaka 49999 dolazak      09.04.26. 02:47, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-09T02:47:00",
+    "seen_at": "2026-04-09T00:52:01.785Z",
+    "raw": "Br. Vlaka 49999 dolazak      09.04.26. 02:47, kolodvor ZABOK"
   }
 ]
