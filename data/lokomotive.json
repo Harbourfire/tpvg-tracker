@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113167",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-03T05:54:00",
-    "seen_at": "2026-04-06T03:56:46.416Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820440240",
     "type": "Rasformiran",
     "station": "BANOVA JARUGA",
@@ -6289,5 +6280,50 @@
     "event_time": "2026-04-09T05:44:00",
     "seen_at": "2026-04-09T03:45:15.815Z",
     "raw": "Br. Vlaka 82538 odlazak      09.04.26. 05:44, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Formiran",
+    "station": "DUGO SELO",
+    "train_number": "89150",
+    "event_time": "2026-04-09T05:52:00",
+    "seen_at": "2026-04-09T03:52:59.770Z",
+    "raw": "Br. Vlaka 89150 formiran     09.04.26. 05:52, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-09T05:52:00",
+    "seen_at": "2026-04-09T03:53:23.196Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-09T05:52:00",
+    "seen_at": "2026-04-09T03:53:23.196Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "48586",
+    "event_time": "2026-04-09T05:37:00",
+    "seen_at": "2026-04-09T03:55:20.446Z",
+    "raw": "Br. Vlaka 48586 formiran     09.04.26. 05:37, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "48586",
+    "event_time": "2026-04-09T05:37:00",
+    "seen_at": "2026-04-09T03:55:20.446Z",
+    "raw": "Br. Vlaka 48586 formiran     09.04.26. 05:37, kolodvor OŠTARIJE"
   }
 ]
