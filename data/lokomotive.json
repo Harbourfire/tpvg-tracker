@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-06T21:01:00",
-    "seen_at": "2026-04-06T19:06:21.164Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621104",
     "type": "Formiran",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": "82501",
@@ -7819,5 +7810,23 @@
     "event_time": "2026-04-09T21:00:00",
     "seen_at": "2026-04-09T19:00:27.322Z",
     "raw": "Br. Vlaka 44994 odlazak      09.04.26. 21:00, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44994",
+    "event_time": "2026-04-09T21:09:00",
+    "seen_at": "2026-04-09T19:11:21.518Z",
+    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 21:09, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44994",
+    "event_time": "2026-04-09T21:09:00",
+    "seen_at": "2026-04-09T19:11:21.518Z",
+    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 21:09, kolodvor BUDINŠĆINA"
   }
 ]
