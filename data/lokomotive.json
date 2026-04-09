@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81286",
-    "event_time": "2026-04-06T13:00:00",
-    "seen_at": "2026-04-06T11:14:47.736Z",
-    "raw": "Br. Vlaka 81286 promjena sas 06.04.26. 13:00, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -7117,5 +7108,32 @@
     "event_time": "2026-04-09T12:58:00",
     "seen_at": "2026-04-09T10:59:44.765Z",
     "raw": "Br. Vlaka 89300 odlazak      09.04.26. 12:58, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82502",
+    "event_time": "2026-04-09T13:06:00",
+    "seen_at": "2026-04-09T11:09:53.215Z",
+    "raw": "Br. Vlaka 82502 odlazak      09.04.26. 13:06, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-09T13:10:00",
+    "seen_at": "2026-04-09T11:11:51.269Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "47980",
+    "event_time": "2026-04-09T03:13:00",
+    "seen_at": "2026-04-09T11:15:00.710Z",
+    "raw": "Br. Vlaka 47980 promjena sas 09.04.26. 03:13, kolodvor OSIJEK"
   }
 ]
