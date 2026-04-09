@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "NOVSKA",
-    "train_number": "81971",
-    "event_time": "2026-04-06T15:07:00",
-    "seen_at": "2026-04-06T13:08:36.743Z",
-    "raw": "Br. Vlaka 81971 dolazak      06.04.26. 15:07, kolodvor NOVSKA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -7243,5 +7234,68 @@
     "event_time": "2026-04-09T14:57:00",
     "seen_at": "2026-04-09T12:58:05.184Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:57, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89154",
+    "event_time": "2026-04-09T15:05:00",
+    "seen_at": "2026-04-09T13:05:55.924Z",
+    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 15:05, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-04-09T15:05:00",
+    "seen_at": "2026-04-09T13:07:07.267Z",
+    "raw": "Br. Vlaka 49827 odlazak      09.04.26. 15:05, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "47980",
+    "event_time": "2026-04-09T14:22:00",
+    "seen_at": "2026-04-09T13:08:18.402Z",
+    "raw": "Br. Vlaka 47980 promjena sas 09.04.26. 14:22, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "BELI MANASTIR",
+    "train_number": "89161",
+    "event_time": "2026-04-09T06:03:00",
+    "seen_at": "2026-04-09T13:08:42.138Z",
+    "raw": "Br. Vlaka 89161 formiran     09.04.26. 06:03, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89161",
+    "event_time": "2026-04-09T15:09:00",
+    "seen_at": "2026-04-09T13:10:41.439Z",
+    "raw": "Br. Vlaka 89161 odlazak      09.04.26. 15:09, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "79911",
+    "event_time": "2026-04-09T15:08:00",
+    "seen_at": "2026-04-09T13:11:28.970Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 15:08, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89154",
+    "event_time": "2026-04-09T15:12:00",
+    "seen_at": "2026-04-09T13:13:05.429Z",
+    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 15:12, kolodvor ZLATAR-BISTRICA"
   }
 ]
