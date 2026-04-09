@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113472",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-03T10:00:00",
-    "seen_at": "2026-04-06T08:01:45.387Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -7144,5 +7135,41 @@
     "event_time": "2026-04-09T09:58:00",
     "seen_at": "2026-04-09T07:59:36.881Z",
     "raw": "Br. Vlaka 89154 odlazak      09.04.26. 09:58, kolodvor 72303"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "71200",
+    "event_time": "2026-04-09T10:01:00",
+    "seen_at": "2026-04-09T08:03:28.462Z",
+    "raw": "Br. Vlaka 71200 odlazak      09.04.26. 10:01, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89154",
+    "event_time": "2026-04-09T10:04:00",
+    "seen_at": "2026-04-09T08:07:55.683Z",
+    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 10:04, kolodvor 72304"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-09T10:07:00",
+    "seen_at": "2026-04-09T08:08:19.746Z",
+    "raw": "Br. Vlaka 69175 odlazak      09.04.26. 10:07, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "RIJEKA",
+    "train_number": "79911",
+    "event_time": "2026-04-09T10:10:00",
+    "seen_at": "2026-04-09T08:10:19.640Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:10, kolodvor RIJEKA"
   }
 ]
