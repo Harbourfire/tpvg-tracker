@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89180",
-    "event_time": "2026-04-06T16:11:00",
-    "seen_at": "2026-04-06T14:11:47.015Z",
-    "raw": "Br. Vlaka 89180 formiran     06.04.26. 16:11, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "81971",
-    "event_time": "2026-04-06T16:12:00",
-    "seen_at": "2026-04-06T14:12:33.314Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 16:12, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89182",
-    "event_time": "2026-04-06T16:11:00",
-    "seen_at": "2026-04-06T14:12:33.314Z",
-    "raw": "Br. Vlaka 89182 formiran     06.04.26. 16:11, kolodvor 72303"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -7342,5 +7315,23 @@
     "event_time": "2026-04-09T16:02:00",
     "seen_at": "2026-04-09T14:02:51.506Z",
     "raw": "Br. Vlaka 79911 dolazak      09.04.26. 16:02, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-09T16:02:00",
+    "seen_at": "2026-04-09T14:11:01.402Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-09T16:11:00",
+    "seen_at": "2026-04-09T14:11:48.903Z",
+    "raw": "Br. Vlaka 63310 odlazak      09.04.26. 16:11, kolodvor GOSPIĆ"
   }
 ]
