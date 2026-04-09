@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "82501",
-    "event_time": "2026-04-06T22:51:00",
-    "seen_at": "2026-04-06T20:52:43.887Z",
-    "raw": "Br. Vlaka 82501 odlazak      06.04.26. 22:51, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "82501",
-    "event_time": "2026-04-06T22:59:00",
-    "seen_at": "2026-04-06T21:00:06.688Z",
-    "raw": "Br. Vlaka 82501 odlazak      06.04.26. 22:59, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820621104",
     "type": "Rasformiran",
     "station": "VINKOVCI",
     "train_number": null,
@@ -7999,5 +7981,32 @@
     "event_time": "2026-04-09T22:47:00",
     "seen_at": "2026-04-09T20:47:44.530Z",
     "raw": "Br. Vlaka 44994 odlazak      09.04.26. 22:47, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "82294",
+    "event_time": "2026-04-09T22:52:00",
+    "seen_at": "2026-04-09T20:52:45.437Z",
+    "raw": "Br. Vlaka 82294 odlazak      09.04.26. 22:52, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89250",
+    "event_time": "2026-04-09T22:54:00",
+    "seen_at": "2026-04-09T20:55:55.999Z",
+    "raw": "Br. Vlaka 89250 dolazak      09.04.26. 22:54, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81149",
+    "event_time": "2026-04-09T15:54:00",
+    "seen_at": "2026-04-09T20:55:55.999Z",
+    "raw": "Br. Vlaka 81149 promjena sas 09.04.26. 15:54, kolodvor VINKOVCI"
   }
 ]
