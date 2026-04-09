@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "PLETERNICA",
-    "train_number": null,
-    "event_time": "2026-04-03T07:55:00",
-    "seen_at": "2026-04-06T05:59:27.112Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-06T08:00:00",
-    "seen_at": "2026-04-06T06:03:16.781Z",
-    "raw": "Br. Vlaka 66853 odlazak      06.04.26. 08:00, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "OSIJEK DONJI GRAD",
@@ -6703,5 +6685,41 @@
     "event_time": "2026-04-09T07:52:00",
     "seen_at": "2026-04-09T05:52:35.431Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "82515",
+    "event_time": "2026-04-09T07:55:00",
+    "seen_at": "2026-04-09T05:57:12.337Z",
+    "raw": "Br. Vlaka 82515 dolazak      09.04.26. 07:55, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "48586",
+    "event_time": "2026-04-09T07:56:00",
+    "seen_at": "2026-04-09T05:58:00.235Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:56, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "48586",
+    "event_time": "2026-04-09T07:56:00",
+    "seen_at": "2026-04-09T05:58:00.235Z",
+    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:56, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-09T08:01:00",
+    "seen_at": "2026-04-09T06:03:37.263Z",
+    "raw": "Br. Vlaka 45105 dolazak      09.04.26. 08:01, kolodvor DRENOVCI"
   }
 ]
