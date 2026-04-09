@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-04-06T04:00:00",
-    "seen_at": "2026-04-06T02:01:15.268Z",
-    "raw": "Br. Vlaka 63310 dolazak      06.04.26. 04:00, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-04-06T04:00:00",
-    "seen_at": "2026-04-06T02:01:15.269Z",
-    "raw": "Br. Vlaka 63310 dolazak      06.04.26. 04:00, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-06T04:00:00",
-    "seen_at": "2026-04-06T02:01:38.255Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-06T04:00:00",
-    "seen_at": "2026-04-06T02:01:38.255Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "987891113167",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -6064,5 +6028,32 @@
     "event_time": "2026-04-09T03:59:00",
     "seen_at": "2026-04-09T02:00:19.282Z",
     "raw": "Br. Vlaka 82538 dolazak      09.04.26. 03:59, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "POPOVAČA",
+    "train_number": "81148",
+    "event_time": "2026-04-09T04:02:00",
+    "seen_at": "2026-04-09T02:04:29.082Z",
+    "raw": "Br. Vlaka 81148 odlazak      09.04.26. 04:02, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81154",
+    "event_time": "2026-04-09T04:05:00",
+    "seen_at": "2026-04-09T02:05:40.042Z",
+    "raw": "Br. Vlaka 81154 dolazak      09.04.26. 04:05, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "LUDINA",
+    "train_number": "81148",
+    "event_time": "2026-04-09T04:10:00",
+    "seen_at": "2026-04-09T02:10:47.362Z",
+    "raw": "Br. Vlaka 81148 odlazak      09.04.26. 04:10, kolodvor LUDINA"
   }
 ]
