@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "81971",
-    "event_time": "2026-04-06T11:39:00",
-    "seen_at": "2026-04-06T09:40:43.319Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 11:39, kolodvor SISAK"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89102",
-    "event_time": "2026-04-06T11:41:00",
-    "seen_at": "2026-04-06T09:42:18.483Z",
-    "raw": "Br. Vlaka 89102 odlazak      06.04.26. 11:41, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "SISAK CAPRAG",
     "train_number": "81971",
@@ -7144,5 +7126,50 @@
     "event_time": "2026-04-09T11:30:00",
     "seen_at": "2026-04-09T09:30:48.624Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:30, kolodvor ZALESINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "82502",
+    "event_time": "2026-04-09T11:30:00",
+    "seen_at": "2026-04-09T09:39:38.338Z",
+    "raw": "Br. Vlaka 82502 odlazak      09.04.26. 11:30, kolodvor VELIKA"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "SKRAD",
+    "train_number": "79911",
+    "event_time": "2026-04-09T11:39:00",
+    "seen_at": "2026-04-09T09:39:38.340Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:39, kolodvor SKRAD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "89157",
+    "event_time": "2026-04-09T11:40:00",
+    "seen_at": "2026-04-09T09:41:13.389Z",
+    "raw": "Br. Vlaka 89157 dolazak      09.04.26. 11:40, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89157",
+    "event_time": "2026-04-09T11:42:00",
+    "seen_at": "2026-04-09T09:42:48.244Z",
+    "raw": "Br. Vlaka 89157 odlazak      09.04.26. 11:42, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82507",
+    "event_time": "2026-04-09T11:45:00",
+    "seen_at": "2026-04-09T09:47:08.829Z",
+    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:45, kolodvor RUDOPOLJE"
   }
 ]
