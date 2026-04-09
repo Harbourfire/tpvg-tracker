@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "89180",
-    "event_time": "2026-04-06T19:18:00",
-    "seen_at": "2026-04-06T17:19:53.624Z",
-    "raw": "Br. Vlaka 89180 odlazak      06.04.26. 19:18, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820440026",
     "type": "Rasformiran",
     "station": "ZAGREB GL. KOL.",
     "train_number": null,
@@ -7585,5 +7576,23 @@
     "event_time": "2026-04-09T19:09:00",
     "seen_at": "2026-04-09T17:13:23.186Z",
     "raw": "Br. Vlaka 44786 odlazak      09.04.26. 19:09, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "44994",
+    "event_time": "2026-04-09T19:25:00",
+    "seen_at": "2026-04-09T17:27:08.271Z",
+    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:25, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "44994",
+    "event_time": "2026-04-09T19:25:00",
+    "seen_at": "2026-04-09T17:27:08.272Z",
+    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:25, kolodvor ZAGREB KLARA"
   }
 ]
