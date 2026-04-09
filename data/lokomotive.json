@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81971",
-    "event_time": "2026-04-06T11:50:00",
-    "seen_at": "2026-04-06T09:52:20.710Z",
-    "raw": "Br. Vlaka 81971 dolazak      06.04.26. 11:50, kolodvor SISAK CAPRAG"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -7171,5 +7162,50 @@
     "event_time": "2026-04-09T11:45:00",
     "seen_at": "2026-04-09T09:47:08.829Z",
     "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:45, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-09T11:50:00",
+    "seen_at": "2026-04-09T09:52:29.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "82502",
+    "event_time": "2026-04-09T11:52:00",
+    "seen_at": "2026-04-09T09:52:52.997Z",
+    "raw": "Br. Vlaka 82502 dolazak      09.04.26. 11:52, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "89156",
+    "event_time": "2026-04-09T06:04:00",
+    "seen_at": "2026-04-09T09:53:16.386Z",
+    "raw": "Br. Vlaka 89156 formiran     09.04.26. 06:04, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82507",
+    "event_time": "2026-04-09T11:53:00",
+    "seen_at": "2026-04-09T09:54:03.848Z",
+    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:53, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "79911",
+    "event_time": "2026-04-09T11:54:00",
+    "seen_at": "2026-04-09T09:57:46.509Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:54, kolodvor BROD MORAVICE"
   }
 ]
