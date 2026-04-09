@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89103",
-    "event_time": "2026-04-06T10:28:00",
-    "seen_at": "2026-04-06T08:28:44.973Z",
-    "raw": "Br. Vlaka 89103 odlazak      06.04.26. 10:28, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -7225,5 +7216,32 @@
     "event_time": "2026-04-09T10:16:00",
     "seen_at": "2026-04-09T08:16:26.837Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:16, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89154",
+    "event_time": "2026-04-09T10:23:00",
+    "seen_at": "2026-04-09T08:25:46.461Z",
+    "raw": "Br. Vlaka 89154 dolazak      09.04.26. 10:23, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "82502",
+    "event_time": "2026-04-09T10:29:00",
+    "seen_at": "2026-04-09T08:29:22.474Z",
+    "raw": "Br. Vlaka 82502 formiran     09.04.26. 10:29, kolodvor VELIKA"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Dolazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "79911",
+    "event_time": "2026-04-09T10:25:00",
+    "seen_at": "2026-04-09T08:30:11.776Z",
+    "raw": "Br. Vlaka 79911 dolazak      09.04.26. 10:25, kolodvor ŠKRLJEVO"
   }
 ]
