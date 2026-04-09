@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66854",
-    "event_time": "2026-04-06T14:05:00",
-    "seen_at": "2026-04-06T12:05:34.229Z",
-    "raw": "Br. Vlaka 66854 odlazak      06.04.26. 14:05, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-06T14:06:00",
-    "seen_at": "2026-04-06T12:06:44.947Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-06T14:06:00",
-    "seen_at": "2026-04-06T12:06:44.947Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-06T14:08:00",
-    "seen_at": "2026-04-06T12:08:19.311Z",
-    "raw": "Br. Vlaka 63310 formiran     06.04.26. 14:08, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-06T14:08:00",
-    "seen_at": "2026-04-06T12:08:19.311Z",
-    "raw": "Br. Vlaka 63310 formiran     06.04.26. 14:08, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620189",
     "type": "Rasformiran",
     "station": "OSIJEK",
     "train_number": null,
@@ -7171,5 +7126,23 @@
     "event_time": "2026-04-09T14:04:00",
     "seen_at": "2026-04-09T12:05:23.337Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:04, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "47980",
+    "event_time": "2026-04-09T14:03:00",
+    "seen_at": "2026-04-09T12:06:03.456Z",
+    "raw": "Br. Vlaka 47980 odlazak      09.04.26. 14:03, kolodvor DARDA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89154",
+    "event_time": "2026-04-09T14:08:00",
+    "seen_at": "2026-04-09T12:08:25.728Z",
+    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 14:08, kolodvor PODSUSED tvornica"
   }
 ]
