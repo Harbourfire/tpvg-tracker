@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89182",
-    "event_time": "2026-04-07T00:56:00",
-    "seen_at": "2026-04-06T22:58:35.415Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 00:56, kolodvor 72304"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89182",
-    "event_time": "2026-04-07T00:56:00",
-    "seen_at": "2026-04-06T22:58:35.415Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 00:56, kolodvor 72304"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81971",
-    "event_time": "2026-04-07T00:59:00",
-    "seen_at": "2026-04-06T23:01:33.215Z",
-    "raw": "Br. Vlaka 81971 dolazak      07.04.26. 00:59, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89182",
-    "event_time": "2026-04-07T01:03:00",
-    "seen_at": "2026-04-06T23:03:58.192Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 01:03, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89182",
-    "event_time": "2026-04-07T01:03:00",
-    "seen_at": "2026-04-06T23:03:58.192Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 01:03, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-07T01:03:00",
-    "seen_at": "2026-04-06T23:04:21.778Z",
-    "raw": "Br. Vlaka 63305 odlazak      07.04.26. 01:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-07T01:03:00",
-    "seen_at": "2026-04-06T23:04:21.778Z",
-    "raw": "Br. Vlaka 63305 odlazak      07.04.26. 01:03, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -8296,5 +8233,50 @@
     "event_time": "2026-04-10T00:51:00",
     "seen_at": "2026-04-09T22:54:15.034Z",
     "raw": "Br. Vlaka 89763 dolazak      10.04.26. 00:51, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-08T22:30:00",
+    "seen_at": "2026-04-09T22:59:37.204Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-04-09T20:24:00",
+    "seen_at": "2026-04-09T22:59:37.204Z",
+    "raw": "Br. Vlaka 61004 promjena sas 09.04.26. 20:24, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81249",
+    "event_time": "2026-04-10T00:59:00",
+    "seen_at": "2026-04-09T23:00:01.600Z",
+    "raw": "Br. Vlaka 81249 odlazak      10.04.26. 00:59, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "43995",
+    "event_time": "2026-04-10T00:57:00",
+    "seen_at": "2026-04-09T23:00:25.416Z",
+    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 00:57, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-04-09T20:24:00",
+    "seen_at": "2026-04-09T23:00:49.940Z",
+    "raw": "Br. Vlaka 61004 promjena sas 09.04.26. 20:24, kolodvor OSIJEK"
   }
 ]
