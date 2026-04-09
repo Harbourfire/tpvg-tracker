@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "81971",
-    "event_time": "2026-04-06T22:04:00",
-    "seen_at": "2026-04-06T20:04:35.287Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 22:04, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "VINKOVCI",
     "train_number": "81971",
@@ -7882,5 +7873,32 @@
     "event_time": "2026-04-09T22:00:00",
     "seen_at": "2026-04-09T20:00:22.033Z",
     "raw": "Br. Vlaka 44786 odlazak      09.04.26. 22:00, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "LUKA",
+    "train_number": "82294",
+    "event_time": "2026-04-09T22:03:00",
+    "seen_at": "2026-04-09T20:04:09.742Z",
+    "raw": "Br. Vlaka 82294 formiran     09.04.26. 22:03, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44786",
+    "event_time": "2026-04-09T22:08:00",
+    "seen_at": "2026-04-09T20:09:38.996Z",
+    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 22:08, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89250",
+    "event_time": "2026-04-09T22:05:00",
+    "seen_at": "2026-04-09T20:10:49.746Z",
+    "raw": "Br. Vlaka 89250 odlazak      09.04.26. 22:05, kolodvor VARAŽDIN"
   }
 ]
