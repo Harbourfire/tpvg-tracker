@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89102",
-    "event_time": "2026-04-06T11:30:00",
-    "seen_at": "2026-04-06T09:31:56.688Z",
-    "raw": "Br. Vlaka 89102 odlazak      06.04.26. 11:30, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "IVANKOVO",
-    "train_number": "69350",
-    "event_time": "2026-04-06T11:36:00",
-    "seen_at": "2026-04-06T09:36:13.624Z",
-    "raw": "Br. Vlaka 69350 dolazak      06.04.26. 11:36, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "IVANKOVO",
-    "train_number": null,
-    "event_time": "2026-04-06T11:36:00",
-    "seen_at": "2026-04-06T09:36:36.833Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71101 IVANKOVO"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "SISAK",
@@ -7144,5 +7117,32 @@
     "event_time": "2026-04-09T11:24:00",
     "seen_at": "2026-04-09T09:25:05.826Z",
     "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:24, kolodvor DELNICE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "89157",
+    "event_time": "2026-04-09T11:27:00",
+    "seen_at": "2026-04-09T09:29:11.677Z",
+    "raw": "Br. Vlaka 89157 odlazak      09.04.26. 11:27, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82507",
+    "event_time": "2026-04-09T11:28:00",
+    "seen_at": "2026-04-09T09:29:11.677Z",
+    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:28, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Odlazak",
+    "station": "ZALESINA",
+    "train_number": "79911",
+    "event_time": "2026-04-09T11:30:00",
+    "seen_at": "2026-04-09T09:30:48.624Z",
+    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:30, kolodvor ZALESINA"
   }
 ]
