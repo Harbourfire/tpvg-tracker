@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89176",
-    "event_time": "2026-04-06T19:57:00",
-    "seen_at": "2026-04-06T17:58:28.181Z",
-    "raw": "Br. Vlaka 89176 odlazak      06.04.26. 19:57, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "81971",
-    "event_time": "2026-04-06T20:01:00",
-    "seen_at": "2026-04-06T18:01:50.043Z",
-    "raw": "Br. Vlaka 81971 odlazak      06.04.26. 20:01, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -7639,5 +7621,68 @@
     "event_time": "2026-04-09T19:51:00",
     "seen_at": "2026-04-09T17:52:04.369Z",
     "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:51, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-08T21:59:00",
+    "seen_at": "2026-04-09T17:58:08.210Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44786",
+    "event_time": "2026-04-09T19:58:00",
+    "seen_at": "2026-04-09T17:58:31.499Z",
+    "raw": "Br. Vlaka 44786 dolazak      09.04.26. 19:58, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44994",
+    "event_time": "2026-04-09T19:58:00",
+    "seen_at": "2026-04-09T17:58:54.888Z",
+    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:58, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44994",
+    "event_time": "2026-04-09T19:58:00",
+    "seen_at": "2026-04-09T17:58:54.889Z",
+    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:58, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ZABOK",
+    "train_number": "89101",
+    "event_time": "2026-04-09T19:42:00",
+    "seen_at": "2026-04-09T17:58:54.889Z",
+    "raw": "Br. Vlaka 89101 formiran     09.04.26. 19:42, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89101",
+    "event_time": "2026-04-09T19:57:00",
+    "seen_at": "2026-04-09T17:59:18.291Z",
+    "raw": "Br. Vlaka 89101 odlazak      09.04.26. 19:57, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-04-09T19:55:00",
+    "seen_at": "2026-04-09T18:00:29.029Z",
+    "raw": "Br. Vlaka 63310 odlazak      09.04.26. 19:55, kolodvor JOSIPDOL"
   }
 ]
