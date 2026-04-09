@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891003319",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2025-09-24T12:21:00",
-    "seen_at": "2026-04-06T20:23:54.252Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894856753",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2025-07-08T20:16:00",
-    "seen_at": "2026-04-06T20:23:54.252Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -7918,5 +7900,23 @@
     "event_time": "2026-04-09T22:16:00",
     "seen_at": "2026-04-09T20:17:23.596Z",
     "raw": "Br. Vlaka 82294 odlazak      09.04.26. 22:16, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "82294",
+    "event_time": "2026-04-09T22:23:00",
+    "seen_at": "2026-04-09T20:23:53.132Z",
+    "raw": "Br. Vlaka 82294 odlazak      09.04.26. 22:23, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44786",
+    "event_time": "2026-04-09T22:28:00",
+    "seen_at": "2026-04-09T20:29:03.706Z",
+    "raw": "Br. Vlaka 44786 dolazak      09.04.26. 22:28, kolodvor KOTORIBA"
   }
 ]
