@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:26:00",
-    "seen_at": "2026-04-07T01:29:34.845Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:26, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:26:00",
-    "seen_at": "2026-04-07T01:29:34.846Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:26, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "OGULINSKI HRELJIN",
     "train_number": "89182",
     "event_time": "2026-04-07T03:33:00",
@@ -8332,5 +8314,41 @@
     "event_time": "2026-04-10T03:05:00",
     "seen_at": "2026-04-10T01:07:07.059Z",
     "raw": "Br. Vlaka 89762 odlazak      10.04.26. 03:05, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-04-10T03:22:00",
+    "seen_at": "2026-04-10T01:22:50.172Z",
+    "raw": "Br. Vlaka 47563 odlazak      10.04.26. 03:22, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89762",
+    "event_time": "2026-04-10T03:22:00",
+    "seen_at": "2026-04-10T01:24:23.860Z",
+    "raw": "Br. Vlaka 89762 odlazak      10.04.26. 03:22, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47563",
+    "event_time": "2026-04-10T03:27:00",
+    "seen_at": "2026-04-10T01:28:18.124Z",
+    "raw": "Br. Vlaka 47563 odlazak      10.04.26. 03:27, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89762",
+    "event_time": "2026-04-10T03:28:00",
+    "seen_at": "2026-04-10T01:29:04.937Z",
+    "raw": "Br. Vlaka 89762 dolazak      10.04.26. 03:28, kolodvor VARAŽDIN"
   }
 ]
