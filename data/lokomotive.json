@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47428",
-    "event_time": "2026-04-07T14:18:00",
-    "seen_at": "2026-04-07T12:18:33.392Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 14:18, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44786",
-    "event_time": "2026-04-07T13:38:00",
-    "seen_at": "2026-04-07T12:21:24.183Z",
-    "raw": "Br. Vlaka 44786 promjena sas 07.04.26. 13:38, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620387",
     "type": "Formiran",
     "station": "SESVETE",
@@ -7450,5 +7432,41 @@
     "event_time": "2026-04-10T14:12:00",
     "seen_at": "2026-04-10T12:15:41.733Z",
     "raw": "Br. Vlaka 44997 odlazak      10.04.26. 14:12, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-10T14:15:00",
+    "seen_at": "2026-04-10T12:16:15.715Z",
+    "raw": "Br. Vlaka 76600 odlazak      10.04.26. 14:15, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81157",
+    "event_time": "2026-04-10T14:16:00",
+    "seen_at": "2026-04-10T12:17:28.746Z",
+    "raw": "Br. Vlaka 81157 odlazak      10.04.26. 14:16, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "74861",
+    "train_number": "89944",
+    "event_time": "2026-04-10T14:23:00",
+    "seen_at": "2026-04-10T12:23:28.678Z",
+    "raw": "Br. Vlaka 89944 formiran     10.04.26. 14:23, kolodvor 74861"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "81157",
+    "event_time": "2026-04-10T14:24:00",
+    "seen_at": "2026-04-10T12:24:39.788Z",
+    "raw": "Br. Vlaka 81157 odlazak      10.04.26. 14:24, kolodvor ZLATAR-BISTRICA"
   }
 ]
