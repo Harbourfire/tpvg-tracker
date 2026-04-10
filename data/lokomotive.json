@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76510",
-    "event_time": "2026-04-07T06:56:00",
-    "seen_at": "2026-04-07T04:57:19.084Z",
-    "raw": "Br. Vlaka 76510 odlazak      07.04.26. 06:56, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "70065",
-    "event_time": "2026-04-07T06:58:00",
-    "seen_at": "2026-04-07T04:58:53.115Z",
-    "raw": "Br. Vlaka 70065 dolazak      07.04.26. 06:58, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81286",
-    "event_time": "2026-04-07T07:00:00",
-    "seen_at": "2026-04-07T05:00:13.853Z",
-    "raw": "Br. Vlaka 81286 dolazak      07.04.26. 07:00, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "PLETERNICA",
-    "train_number": "74303",
-    "event_time": "2026-04-07T07:00:00",
-    "seen_at": "2026-04-07T05:01:01.884Z",
-    "raw": "Br. Vlaka 74303 formiran     07.04.26. 07:00, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -7738,5 +7702,23 @@
     "event_time": "2026-04-10T06:38:00",
     "seen_at": "2026-04-10T04:39:56.575Z",
     "raw": "Br. Vlaka 89772 odlazak      10.04.26. 06:38, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "48786",
+    "event_time": "2026-04-10T06:28:00",
+    "seen_at": "2026-04-10T04:56:59.914Z",
+    "raw": "Br. Vlaka 48786 promjena sas 10.04.26. 06:28, kolodvor ZABOK"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-04-10T07:01:00",
+    "seen_at": "2026-04-10T05:02:27.254Z",
+    "raw": "Br. Vlaka 74301 formiran     10.04.26. 07:01, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
