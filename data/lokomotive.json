@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LOKVE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:04:00",
-    "seen_at": "2026-04-07T10:05:15.531Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:04, kolodvor LOKVE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LOKVE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:04:00",
-    "seen_at": "2026-04-07T10:05:39.034Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:04, kolodvor LOKVE"
-  },
-  {
-    "uic": "997894853461",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-03-23T09:57:00",
-    "seen_at": "2026-04-07T10:08:00.745Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "NOVI MAROF",
@@ -7468,5 +7441,32 @@
     "event_time": "2026-04-10T08:13:00",
     "seen_at": "2026-04-10T09:56:54.775Z",
     "raw": "Br. Vlaka 81218 formiran     10.04.26. 08:13, kolodvor BANOVA JARUGA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44783",
+    "event_time": "2026-04-10T11:54:00",
+    "seen_at": "2026-04-10T09:59:05.536Z",
+    "raw": "Br. Vlaka 44783 dolazak      10.04.26. 11:54, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82107",
+    "event_time": "2026-04-10T12:05:00",
+    "seen_at": "2026-04-10T10:05:31.636Z",
+    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:05, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82329",
+    "event_time": "2026-04-10T12:06:00",
+    "seen_at": "2026-04-10T10:07:07.201Z",
+    "raw": "Br. Vlaka 82329 formiran     10.04.26. 12:06, kolodvor STARO PETROVO SELO"
   }
 ]
