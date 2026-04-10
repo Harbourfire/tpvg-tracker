@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "81286",
-    "event_time": "2026-04-07T09:26:00",
-    "seen_at": "2026-04-07T07:41:37.578Z",
-    "raw": "Br. Vlaka 81286 dolazak      07.04.26. 09:26, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-04-07T09:26:00",
-    "seen_at": "2026-04-07T07:42:02.213Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "71200",
-    "event_time": "2026-04-07T09:44:00",
-    "seen_at": "2026-04-07T07:44:39.114Z",
-    "raw": "Br. Vlaka 71200 odlazak      07.04.26. 09:44, kolodvor TOVARNIK"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "KARLOVAC",
@@ -7585,5 +7558,41 @@
     "event_time": "2026-04-10T09:36:00",
     "seen_at": "2026-04-10T07:37:53.376Z",
     "raw": "Br. Vlaka 89942 odlazak      10.04.26. 09:36, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89942",
+    "event_time": "2026-04-10T09:43:00",
+    "seen_at": "2026-04-10T07:44:03.998Z",
+    "raw": "Br. Vlaka 89942 odlazak      10.04.26. 09:43, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "48786",
+    "event_time": "2026-04-10T09:44:00",
+    "seen_at": "2026-04-10T07:45:38.278Z",
+    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 09:44, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "43995",
+    "event_time": "2026-04-10T09:43:00",
+    "seen_at": "2026-04-10T07:48:00.685Z",
+    "raw": "Br. Vlaka 43995 dolazak      10.04.26. 09:43, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "45988",
+    "event_time": "2026-04-10T09:49:00",
+    "seen_at": "2026-04-10T07:50:46.245Z",
+    "raw": "Br. Vlaka 45988 odlazak      10.04.26. 09:49, kolodvor DARDA"
   }
 ]
