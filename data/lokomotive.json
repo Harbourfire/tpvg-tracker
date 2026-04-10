@@ -2,51 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "MEJA",
-    "train_number": "89182",
-    "event_time": "2026-04-07T05:47:00",
-    "seen_at": "2026-04-07T03:49:14.248Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 05:47, kolodvor MEJA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MEJA",
-    "train_number": "89182",
-    "event_time": "2026-04-07T05:47:00",
-    "seen_at": "2026-04-07T03:49:14.249Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 05:47, kolodvor MEJA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-07T05:48:00",
-    "seen_at": "2026-04-07T03:51:38.506Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:48, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-07T05:48:00",
-    "seen_at": "2026-04-07T03:51:38.506Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:48, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "70065",
-    "event_time": "2026-04-07T05:53:00",
-    "seen_at": "2026-04-07T03:53:23.864Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 05:53, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ŠKRLJEVO",
     "train_number": "89182",
     "event_time": "2026-04-07T05:58:00",
@@ -8026,5 +7981,23 @@
     "event_time": "2026-04-10T05:39:00",
     "seen_at": "2026-04-10T03:41:54.941Z",
     "raw": "Br. Vlaka 89772 odlazak      10.04.26. 05:39, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89772",
+    "event_time": "2026-04-10T05:51:00",
+    "seen_at": "2026-04-10T03:51:52.378Z",
+    "raw": "Br. Vlaka 89772 odlazak      10.04.26. 05:51, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-10T01:14:00",
+    "seen_at": "2026-04-10T03:52:39.610Z",
+    "raw": "Br. Vlaka 43995 promjena sas 10.04.26. 01:14, kolodvor VARAŽDIN"
   }
 ]
