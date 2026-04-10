@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "MORAVICE",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:55:00",
-    "seen_at": "2026-04-07T01:55:51.997Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:55, kolodvor MORAVICE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MORAVICE",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:55:00",
-    "seen_at": "2026-04-07T01:55:51.997Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:55, kolodvor MORAVICE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "BROD MORAVICE",
     "train_number": "89182",
     "event_time": "2026-04-07T04:04:00",
@@ -8314,5 +8296,41 @@
     "event_time": "2026-04-10T03:40:00",
     "seen_at": "2026-04-10T01:41:05.469Z",
     "raw": "Br. Vlaka 45988 dolazak      10.04.26. 03:40, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89762",
+    "event_time": "2026-04-10T03:51:00",
+    "seen_at": "2026-04-10T01:51:35.596Z",
+    "raw": "Br. Vlaka 89762 dolazak      10.04.26. 03:51, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-10T03:51:00",
+    "seen_at": "2026-04-10T01:51:58.802Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-10T03:00:00",
+    "seen_at": "2026-04-10T01:57:03.089Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47563",
+    "event_time": "2026-04-10T03:58:00",
+    "seen_at": "2026-04-10T01:59:23.639Z",
+    "raw": "Br. Vlaka 47563 odlazak      10.04.26. 03:58, kolodvor PODSUSED tvornica"
   }
 ]
