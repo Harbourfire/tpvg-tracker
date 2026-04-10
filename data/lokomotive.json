@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "89182",
-    "event_time": "2026-04-07T02:15:00",
-    "seen_at": "2026-04-07T00:17:16.520Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 02:15, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "89182",
-    "event_time": "2026-04-07T02:15:00",
-    "seen_at": "2026-04-07T00:17:16.521Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 02:15, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "DUGA RESA",
     "train_number": "89182",
     "event_time": "2026-04-07T02:25:00",
@@ -8359,5 +8341,59 @@
     "event_time": "2026-04-09T17:12:00",
     "seen_at": "2026-04-10T00:13:38.050Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45988",
+    "event_time": "2026-04-09T18:15:00",
+    "seen_at": "2026-04-10T00:15:30.613Z",
+    "raw": "Br. Vlaka 45988 formiran     09.04.26. 18:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "82277",
+    "event_time": "2026-04-10T02:14:00",
+    "seen_at": "2026-04-10T00:15:54.207Z",
+    "raw": "Br. Vlaka 82277 odlazak      10.04.26. 02:14, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89762",
+    "event_time": "2026-04-10T02:15:00",
+    "seen_at": "2026-04-10T00:16:17.657Z",
+    "raw": "Br. Vlaka 89762 odlazak      10.04.26. 02:15, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "LUKA",
+    "train_number": "82277",
+    "event_time": "2026-04-10T02:19:00",
+    "seen_at": "2026-04-10T00:19:49.376Z",
+    "raw": "Br. Vlaka 82277 dolazak      10.04.26. 02:19, kolodvor LUKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "LUKA",
+    "train_number": null,
+    "event_time": "2026-04-10T02:19:00",
+    "seen_at": "2026-04-10T00:21:47.157Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89763",
+    "event_time": "2026-04-10T02:21:00",
+    "seen_at": "2026-04-10T00:22:57.446Z",
+    "raw": "Br. Vlaka 89763 odlazak      10.04.26. 02:21, kolodvor NOVI MAROF"
   }
 ]
