@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "81286",
-    "event_time": "2026-04-07T09:10:00",
-    "seen_at": "2026-04-07T07:13:24.204Z",
-    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 09:10, kolodvor POŽEGA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "47428",
-    "event_time": "2026-04-07T09:06:00",
-    "seen_at": "2026-04-07T07:15:37.137Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 09:06, kolodvor MRZLO POLJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "RIJEKA BRAJDICA",
@@ -7540,5 +7522,50 @@
     "event_time": "2026-04-10T09:09:00",
     "seen_at": "2026-04-10T07:10:07.042Z",
     "raw": "Br. Vlaka 43995 odlazak      10.04.26. 09:09, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "76501",
+    "event_time": "2026-04-10T09:06:00",
+    "seen_at": "2026-04-10T07:15:57.670Z",
+    "raw": "Br. Vlaka 76501 dolazak      10.04.26. 09:06, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "43995",
+    "event_time": "2026-04-10T09:15:00",
+    "seen_at": "2026-04-10T07:17:09.286Z",
+    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 09:15, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "76503",
+    "event_time": "2026-04-10T09:17:00",
+    "seen_at": "2026-04-10T07:18:21.092Z",
+    "raw": "Br. Vlaka 76503 odlazak      10.04.26. 09:17, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-10T09:02:00",
+    "seen_at": "2026-04-10T07:19:09.710Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-10T09:06:00",
+    "seen_at": "2026-04-10T07:21:09.575Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
   }
 ]
