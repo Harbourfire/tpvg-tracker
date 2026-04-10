@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-04T05:08:00",
-    "seen_at": "2026-04-07T03:09:31.366Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-07T05:10:00",
-    "seen_at": "2026-04-07T03:11:28.684Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:10, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-07T05:10:00",
-    "seen_at": "2026-04-07T03:11:28.684Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:10, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89125",
-    "event_time": "2026-04-07T05:10:00",
-    "seen_at": "2026-04-07T03:11:52.198Z",
-    "raw": "Br. Vlaka 89125 formiran     07.04.26. 05:10, kolodvor 72303"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PLASE",
@@ -8152,5 +8116,14 @@
     "event_time": "2026-04-10T04:48:00",
     "seen_at": "2026-04-10T02:49:42.715Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89772",
+    "event_time": "2026-04-09T15:43:00",
+    "seen_at": "2026-04-10T03:08:58.509Z",
+    "raw": "Br. Vlaka 89772 formiran     09.04.26. 15:43, kolodvor 72303"
   }
 ]
