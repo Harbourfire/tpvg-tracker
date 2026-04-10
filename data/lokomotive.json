@@ -7180,5 +7180,32 @@
     "event_time": "2026-04-10T17:11:00",
     "seen_at": "2026-04-10T15:12:06.304Z",
     "raw": "Br. Vlaka 89920 odlazak      10.04.26. 17:11, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89920",
+    "event_time": "2026-04-10T17:17:00",
+    "seen_at": "2026-04-10T15:23:38.973Z",
+    "raw": "Br. Vlaka 89920 dolazak      10.04.26. 17:17, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "74861",
+    "train_number": "89944",
+    "event_time": "2026-04-10T17:13:00",
+    "seen_at": "2026-04-10T15:29:45.949Z",
+    "raw": "Br. Vlaka 89944 odlazak      10.04.26. 17:13, kolodvor 74861"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-10T17:27:00",
+    "seen_at": "2026-04-10T15:30:10.437Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
   }
 ]
