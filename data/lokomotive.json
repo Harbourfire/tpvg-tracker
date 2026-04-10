@@ -8323,5 +8323,68 @@
     "event_time": "2026-04-11T01:40:00",
     "seen_at": "2026-04-10T23:44:46.218Z",
     "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:40, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "44999",
+    "event_time": "2026-04-11T01:48:00",
+    "seen_at": "2026-04-10T23:49:25.756Z",
+    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:48, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44997",
+    "event_time": "2026-04-11T01:48:00",
+    "seen_at": "2026-04-10T23:51:01.223Z",
+    "raw": "Br. Vlaka 44997 dolazak      11.04.26. 01:48, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44997",
+    "event_time": "2026-04-11T01:48:00",
+    "seen_at": "2026-04-10T23:51:26.530Z",
+    "raw": "Br. Vlaka 44997 dolazak      11.04.26. 01:48, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-10T12:27:00",
+    "seen_at": "2026-04-10T23:51:50.627Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "48784",
+    "event_time": "2026-04-10T23:32:00",
+    "seen_at": "2026-04-10T23:51:50.627Z",
+    "raw": "Br. Vlaka 48784 promjena sas 10.04.26. 23:32, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "81218",
+    "event_time": "2026-04-11T01:50:00",
+    "seen_at": "2026-04-10T23:52:14.180Z",
+    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:50, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "44999",
+    "event_time": "2026-04-11T01:53:00",
+    "seen_at": "2026-04-10T23:55:22.861Z",
+    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:53, kolodvor 72302"
   }
 ]
