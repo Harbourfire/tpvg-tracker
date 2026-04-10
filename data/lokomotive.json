@@ -7576,5 +7576,41 @@
     "event_time": "2026-04-10T21:05:00",
     "seen_at": "2026-04-10T19:06:19.183Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-10T20:09:00",
+    "seen_at": "2026-04-10T19:07:18.325Z",
+    "raw": "Br. Vlaka 63305 formiran     10.04.26. 20:09, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89920",
+    "event_time": "2026-04-10T21:04:00",
+    "seen_at": "2026-04-10T19:08:06.021Z",
+    "raw": "Br. Vlaka 89920 dolazak      10.04.26. 21:04, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-10T13:00:00",
+    "seen_at": "2026-04-10T19:14:48.769Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "44999",
+    "event_time": "2026-04-10T15:54:00",
+    "seen_at": "2026-04-10T19:15:12.156Z",
+    "raw": "Br. Vlaka 44999 promjena sas 10.04.26. 15:54, kolodvor ČAKOVEC"
   }
 ]
