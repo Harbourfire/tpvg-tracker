@@ -1,78 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "89176",
-    "event_time": "2026-04-07T06:33:00",
-    "seen_at": "2026-04-07T04:33:42.754Z",
-    "raw": "Br. Vlaka 89176 odlazak      07.04.26. 06:33, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "70065",
-    "event_time": "2026-04-07T06:33:00",
-    "seen_at": "2026-04-07T04:33:42.755Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 06:33, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81286",
-    "event_time": "2026-04-07T06:34:00",
-    "seen_at": "2026-04-07T04:36:03.879Z",
-    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 06:34, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89125",
-    "event_time": "2026-04-07T06:36:00",
-    "seen_at": "2026-04-07T04:36:51.898Z",
-    "raw": "Br. Vlaka 89125 odlazak      07.04.26. 06:36, kolodvor 72302"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "70065",
-    "event_time": "2026-04-07T06:38:00",
-    "seen_at": "2026-04-07T04:39:38.391Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 06:38, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "89176",
-    "event_time": "2026-04-07T06:38:00",
-    "seen_at": "2026-04-07T04:40:34.998Z",
-    "raw": "Br. Vlaka 89176 odlazak      07.04.26. 06:38, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71201",
-    "event_time": "2026-04-07T06:40:00",
-    "seen_at": "2026-04-07T04:40:58.760Z",
-    "raw": "Br. Vlaka 71201 formiran     07.04.26. 06:40, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89125",
-    "event_time": "2026-04-07T06:42:00",
-    "seen_at": "2026-04-07T04:42:57.241Z",
-    "raw": "Br. Vlaka 89125 odlazak      07.04.26. 06:42, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440026",
     "type": "Rasformiran",
     "station": "KOPRIVNICA",
     "train_number": null,
@@ -7828,5 +7756,14 @@
     "event_time": "2026-04-10T05:59:00",
     "seen_at": "2026-04-10T04:03:22.372Z",
     "raw": "Br. Vlaka 89772 dolazak      10.04.26. 05:59, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89772",
+    "event_time": "2026-04-10T06:38:00",
+    "seen_at": "2026-04-10T04:39:56.575Z",
+    "raw": "Br. Vlaka 89772 odlazak      10.04.26. 06:38, kolodvor ZAGREB ZAP. KOL."
   }
 ]
