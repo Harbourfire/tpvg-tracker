@@ -1,60 +1,6 @@
 [
   {
     "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "70065",
-    "event_time": "2026-04-07T08:10:00",
-    "seen_at": "2026-04-07T06:12:43.413Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 08:10, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "ČAGLIN",
-    "train_number": "74303",
-    "event_time": "2026-04-07T07:52:00",
-    "seen_at": "2026-04-07T06:14:19.150Z",
-    "raw": "Br. Vlaka 74303 dolazak      07.04.26. 07:52, kolodvor ČAGLIN"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "ČAGLIN",
-    "train_number": null,
-    "event_time": "2026-04-07T07:52:00",
-    "seen_at": "2026-04-07T06:14:42.946Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73405 ČAGLIN"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "ČAGLIN",
-    "train_number": "76512",
-    "event_time": "2026-04-07T08:14:00",
-    "seen_at": "2026-04-07T06:15:31.219Z",
-    "raw": "Br. Vlaka 76512 formiran     07.04.26. 08:14, kolodvor ČAGLIN"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "70065",
-    "event_time": "2026-04-07T08:17:00",
-    "seen_at": "2026-04-07T06:17:40.876Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 08:17, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Formiran",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "74151",
-    "event_time": "2026-04-07T08:17:00",
-    "seen_at": "2026-04-07T06:18:54.601Z",
-    "raw": "Br. Vlaka 74151 formiran     07.04.26. 08:17, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "997894215711",
     "type": "Dolazak",
     "station": "ZAPREŠIĆ",
     "train_number": "70065",
@@ -7612,5 +7558,23 @@
     "event_time": "2026-04-10T08:02:00",
     "seen_at": "2026-04-10T06:03:11.184Z",
     "raw": "Br. Vlaka 74300 formiran     10.04.26. 08:02, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "76501",
+    "event_time": "2026-04-10T08:08:00",
+    "seen_at": "2026-04-10T06:11:02.528Z",
+    "raw": "Br. Vlaka 76501 odlazak      10.04.26. 08:08, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "89300",
+    "event_time": "2026-04-10T08:15:00",
+    "seen_at": "2026-04-10T06:16:28.376Z",
+    "raw": "Br. Vlaka 89300 dolazak      10.04.26. 08:15, kolodvor SPAČVA"
   }
 ]
