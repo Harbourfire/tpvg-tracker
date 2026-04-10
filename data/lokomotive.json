@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-07T11:30:00",
-    "seen_at": "2026-04-07T09:30:56.226Z",
-    "raw": "Br. Vlaka 69751 odlazak      07.04.26. 11:30, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "83810",
-    "event_time": "2026-04-07T11:30:00",
-    "seen_at": "2026-04-07T09:33:28.655Z",
-    "raw": "Br. Vlaka 83810 odlazak      07.04.26. 11:30, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PLASE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T11:34:00",
-    "seen_at": "2026-04-07T09:34:39.689Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:34, kolodvor PLASE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PLASE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T11:34:00",
-    "seen_at": "2026-04-07T09:34:39.690Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:34, kolodvor PLASE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81975",
-    "event_time": "2026-04-07T11:34:00",
-    "seen_at": "2026-04-07T09:35:50.252Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:34, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81975",
-    "event_time": "2026-04-07T11:34:00",
-    "seen_at": "2026-04-07T09:35:50.252Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:34, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620254",
     "type": "Rasformiran",
     "station": "OSIJEK DONJI GRAD",
     "train_number": null,
@@ -7531,5 +7477,32 @@
     "event_time": "2026-04-10T11:27:00",
     "seen_at": "2026-04-10T09:29:03.713Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82107",
+    "event_time": "2026-04-10T11:20:00",
+    "seen_at": "2026-04-10T09:29:41.694Z",
+    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 11:20, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82107",
+    "event_time": "2026-04-10T11:26:00",
+    "seen_at": "2026-04-10T09:30:29.327Z",
+    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 11:26, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "48786",
+    "event_time": "2026-04-10T11:29:00",
+    "seen_at": "2026-04-10T09:32:52.112Z",
+    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 11:29, kolodvor VARAŽDIN"
   }
 ]
