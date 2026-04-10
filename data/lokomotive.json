@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-07T10:52:00",
-    "seen_at": "2026-04-07T08:52:29.328Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "76506",
-    "event_time": "2026-04-07T10:54:00",
-    "seen_at": "2026-04-07T08:55:02.879Z",
-    "raw": "Br. Vlaka 76506 odlazak      07.04.26. 10:54, kolodvor GARČIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81975",
-    "event_time": "2026-04-07T10:55:00",
-    "seen_at": "2026-04-07T08:57:24.712Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81975",
-    "event_time": "2026-04-07T10:55:00",
-    "seen_at": "2026-04-07T08:57:24.712Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "47428",
-    "event_time": "2026-04-07T10:58:00",
-    "seen_at": "2026-04-07T08:58:58.436Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 10:58, kolodvor ZDENČINA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "HORVATI",
@@ -7612,5 +7567,32 @@
     "event_time": "2026-04-10T10:38:00",
     "seen_at": "2026-04-10T08:49:31.948Z",
     "raw": "Br. Vlaka 81157 dolazak      10.04.26. 10:38, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89510",
+    "event_time": "2026-04-10T10:57:00",
+    "seen_at": "2026-04-10T08:57:39.520Z",
+    "raw": "Br. Vlaka 89510 formiran     10.04.26. 10:57, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76502",
+    "event_time": "2026-04-10T10:57:00",
+    "seen_at": "2026-04-10T08:58:27.363Z",
+    "raw": "Br. Vlaka 76502 dolazak      10.04.26. 10:57, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76502",
+    "event_time": "2026-04-10T10:58:00",
+    "seen_at": "2026-04-10T08:58:50.980Z",
+    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 10:58, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
