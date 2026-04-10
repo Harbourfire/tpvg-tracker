@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-07T13:36:00",
-    "seen_at": "2026-04-07T11:36:54.926Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -7369,5 +7360,23 @@
     "event_time": "2026-04-10T13:33:00",
     "seen_at": "2026-04-10T11:34:21.082Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "48756",
+    "event_time": "2026-04-10T13:37:00",
+    "seen_at": "2026-04-10T11:37:46.489Z",
+    "raw": "Br. Vlaka 48756 dolazak      10.04.26. 13:37, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "81157",
+    "event_time": "2026-04-10T13:41:00",
+    "seen_at": "2026-04-10T11:44:28.948Z",
+    "raw": "Br. Vlaka 81157 odlazak      10.04.26. 13:41, kolodvor NOVI MAROF"
   }
 ]
