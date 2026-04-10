@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-07T08:39:00",
-    "seen_at": "2026-04-07T06:40:13.688Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "47428",
-    "event_time": "2026-04-07T08:43:00",
-    "seen_at": "2026-04-07T06:43:23.985Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 08:43, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "ČAGLIN",
-    "train_number": "76512",
-    "event_time": "2026-04-07T08:30:00",
-    "seen_at": "2026-04-07T06:44:11.808Z",
-    "raw": "Br. Vlaka 76512 odlazak      07.04.26. 08:30, kolodvor ČAGLIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "81976",
-    "event_time": "2026-04-07T08:44:00",
-    "seen_at": "2026-04-07T06:44:35.786Z",
-    "raw": "Br. Vlaka 81976 formiran     07.04.26. 08:44, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "81286",
-    "event_time": "2026-04-07T08:48:00",
-    "seen_at": "2026-04-07T06:48:48.095Z",
-    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 08:48, kolodvor PLETERNICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "DUGA RESA",
@@ -7531,5 +7486,23 @@
     "event_time": "2026-04-10T08:20:00",
     "seen_at": "2026-04-10T06:21:09.196Z",
     "raw": "Br. Vlaka 69750 formiran     10.04.26. 08:20, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "76501",
+    "event_time": "2026-04-10T08:35:00",
+    "seen_at": "2026-04-10T06:41:03.687Z",
+    "raw": "Br. Vlaka 76501 odlazak      10.04.26. 08:35, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "43995",
+    "event_time": "2026-04-10T08:40:00",
+    "seen_at": "2026-04-10T06:44:40.937Z",
+    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 08:40, kolodvor NOVI MAROF"
   }
 ]
