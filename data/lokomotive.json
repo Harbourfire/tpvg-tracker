@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "70065",
-    "event_time": "2026-04-07T05:37:00",
-    "seen_at": "2026-04-07T03:38:38.142Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 05:37, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-07T05:38:00",
-    "seen_at": "2026-04-07T03:39:48.613Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:38, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-07T05:38:00",
-    "seen_at": "2026-04-07T03:39:48.613Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 05:38, kolodvor BLATA"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76510",
-    "event_time": "2026-04-07T05:42:00",
-    "seen_at": "2026-04-07T03:42:49.420Z",
-    "raw": "Br. Vlaka 76510 formiran     07.04.26. 05:42, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "70065",
-    "event_time": "2026-04-07T05:43:00",
-    "seen_at": "2026-04-07T03:43:37.907Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 05:43, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "MEJA",
@@ -8044,5 +7999,32 @@
     "event_time": "2026-04-09T15:43:00",
     "seen_at": "2026-04-10T03:08:58.509Z",
     "raw": "Br. Vlaka 89772 formiran     09.04.26. 15:43, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89772",
+    "event_time": "2026-04-10T05:34:00",
+    "seen_at": "2026-04-10T03:36:23.239Z",
+    "raw": "Br. Vlaka 89772 odlazak      10.04.26. 05:34, kolodvor 72303"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76503",
+    "event_time": "2026-04-10T05:36:00",
+    "seen_at": "2026-04-10T03:36:23.241Z",
+    "raw": "Br. Vlaka 76503 formiran     10.04.26. 05:36, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89772",
+    "event_time": "2026-04-10T05:39:00",
+    "seen_at": "2026-04-10T03:41:54.941Z",
+    "raw": "Br. Vlaka 89772 odlazak      10.04.26. 05:39, kolodvor 72304"
   }
 ]
