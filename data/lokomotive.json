@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "81976",
-    "event_time": "2026-04-07T09:01:00",
-    "seen_at": "2026-04-07T09:20:31.548Z",
-    "raw": "Br. Vlaka 81976 promjena sas 07.04.26. 09:01, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81975",
-    "event_time": "2026-04-07T11:21:00",
-    "seen_at": "2026-04-07T09:22:18.527Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:21, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81975",
-    "event_time": "2026-04-07T11:21:00",
-    "seen_at": "2026-04-07T09:22:18.527Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 11:21, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89753",
-    "event_time": "2026-04-07T11:24:00",
-    "seen_at": "2026-04-07T09:25:27.006Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 11:24, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "MEJA",
-    "train_number": "81973",
-    "event_time": "2026-04-07T11:25:00",
-    "seen_at": "2026-04-07T09:25:50.684Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:25, kolodvor MEJA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MEJA",
-    "train_number": "81973",
-    "event_time": "2026-04-07T11:25:00",
-    "seen_at": "2026-04-07T09:25:50.685Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 11:25, kolodvor MEJA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -7558,5 +7504,32 @@
     "event_time": "2026-04-10T11:14:00",
     "seen_at": "2026-04-10T09:14:29.673Z",
     "raw": "Br. Vlaka 76502 odlazak      10.04.26. 11:14, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "48786",
+    "event_time": "2026-04-10T11:23:00",
+    "seen_at": "2026-04-10T09:24:18.931Z",
+    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 11:23, kolodvor TURČIN"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76502",
+    "event_time": "2026-04-10T11:27:00",
+    "seen_at": "2026-04-10T09:27:52.264Z",
+    "raw": "Br. Vlaka 76502 dolazak      10.04.26. 11:27, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-10T11:27:00",
+    "seen_at": "2026-04-10T09:29:03.713Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
