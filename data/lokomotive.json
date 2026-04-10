@@ -2,51 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "GOMIRJE",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:40:00",
-    "seen_at": "2026-04-07T01:41:09.725Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:40, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GOMIRJE",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:40:00",
-    "seen_at": "2026-04-07T01:41:09.726Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:40, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "47428",
-    "event_time": "2026-04-07T03:40:00",
-    "seen_at": "2026-04-07T01:41:09.726Z",
-    "raw": "Br. Vlaka 47428 formiran     07.04.26. 03:40, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVSKO",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:46:00",
-    "seen_at": "2026-04-07T01:46:54.990Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:46, kolodvor VRBOVSKO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRBOVSKO",
-    "train_number": "89182",
-    "event_time": "2026-04-07T03:46:00",
-    "seen_at": "2026-04-07T01:46:54.990Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 03:46, kolodvor VRBOVSKO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "MORAVICE",
     "train_number": "89182",
     "event_time": "2026-04-07T03:55:00",
@@ -8350,5 +8305,14 @@
     "event_time": "2026-04-10T03:37:00",
     "seen_at": "2026-04-10T01:38:11.605Z",
     "raw": "Br. Vlaka 89762 odlazak      10.04.26. 03:37, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45988",
+    "event_time": "2026-04-10T03:40:00",
+    "seen_at": "2026-04-10T01:41:05.469Z",
+    "raw": "Br. Vlaka 45988 dolazak      10.04.26. 03:40, kolodvor OSIJEK"
   }
 ]
