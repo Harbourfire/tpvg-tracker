@@ -2,42 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "89182",
-    "event_time": "2026-04-07T02:53:00",
-    "seen_at": "2026-04-07T00:54:54.182Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 02:53, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "89182",
-    "event_time": "2026-04-07T02:53:00",
-    "seen_at": "2026-04-07T00:54:54.182Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 02:53, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-07T03:00:00",
-    "seen_at": "2026-04-07T01:01:05.853Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-07T03:00:00",
-    "seen_at": "2026-04-07T01:01:05.853Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "GORNJE DUBRAVE",
     "train_number": "89182",
     "event_time": "2026-04-07T03:06:00",
@@ -8404,5 +8368,32 @@
     "event_time": "2026-04-10T02:50:00",
     "seen_at": "2026-04-10T00:51:21.438Z",
     "raw": "Br. Vlaka 45988 odlazak      10.04.26. 02:50, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "89763",
+    "event_time": "2026-04-10T02:50:00",
+    "seen_at": "2026-04-10T00:54:42.509Z",
+    "raw": "Br. Vlaka 89763 dolazak      10.04.26. 02:50, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-10T02:51:00",
+    "seen_at": "2026-04-10T00:54:42.509Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-10T02:50:00",
+    "seen_at": "2026-04-10T00:55:06.061Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
   }
 ]
