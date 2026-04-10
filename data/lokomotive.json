@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "RIJEKA BRAJDICA",
-    "train_number": "81973",
-    "event_time": "2026-04-07T09:24:00",
-    "seen_at": "2026-04-07T07:25:16.141Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 09:24, kolodvor 75562"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "RIJEKA BRAJDICA",
-    "train_number": "81973",
-    "event_time": "2026-04-07T09:24:00",
-    "seen_at": "2026-04-07T07:25:16.142Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 09:24, kolodvor 75562"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "47428",
-    "event_time": "2026-04-07T09:23:00",
-    "seen_at": "2026-04-07T07:25:16.142Z",
-    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 09:23, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-07T08:52:00",
-    "seen_at": "2026-04-07T07:27:37.769Z",
-    "raw": "Br. Vlaka 69751 formiran     07.04.26. 08:52, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81975",
-    "event_time": "2026-04-07T08:34:00",
-    "seen_at": "2026-04-07T07:31:11.312Z",
-    "raw": "Br. Vlaka 81975 formiran     07.04.26. 08:34, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81975",
-    "event_time": "2026-04-07T08:34:00",
-    "seen_at": "2026-04-07T07:31:35.247Z",
-    "raw": "Br. Vlaka 81975 formiran     07.04.26. 08:34, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "SUŠAK PEĆINE",
     "train_number": "81973",
@@ -7567,5 +7513,32 @@
     "event_time": "2026-04-10T09:06:00",
     "seen_at": "2026-04-10T07:21:09.575Z",
     "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "48786",
+    "event_time": "2026-04-10T09:20:00",
+    "seen_at": "2026-04-10T07:22:57.871Z",
+    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 09:20, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76503",
+    "event_time": "2026-04-10T09:24:00",
+    "seen_at": "2026-04-10T07:24:10.491Z",
+    "raw": "Br. Vlaka 76503 odlazak      10.04.26. 09:24, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "89300",
+    "event_time": "2026-04-10T09:22:00",
+    "seen_at": "2026-04-10T07:25:22.083Z",
+    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 09:22, kolodvor OTOK"
   }
 ]
