@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89753",
-    "event_time": "2026-04-07T12:28:00",
-    "seen_at": "2026-04-07T10:30:03.429Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 12:28, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZALESINA",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:33:00",
-    "seen_at": "2026-04-07T10:34:25.093Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:33, kolodvor ZALESINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZALESINA",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:33:00",
-    "seen_at": "2026-04-07T10:34:25.094Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:33, kolodvor ZALESINA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81975",
-    "event_time": "2026-04-07T12:22:00",
-    "seen_at": "2026-04-07T10:36:01.041Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 12:22, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81975",
-    "event_time": "2026-04-07T12:22:00",
-    "seen_at": "2026-04-07T10:36:01.042Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 12:22, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-07T12:34:00",
-    "seen_at": "2026-04-07T10:36:26.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-07T12:34:00",
-    "seen_at": "2026-04-07T10:36:26.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89753",
-    "event_time": "2026-04-07T12:37:00",
-    "seen_at": "2026-04-07T10:37:37.438Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 12:37, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SKRAD",
@@ -7423,5 +7351,23 @@
     "event_time": "2026-04-10T12:25:00",
     "seen_at": "2026-04-10T10:26:19.935Z",
     "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:25, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "48786",
+    "event_time": "2026-04-10T12:29:00",
+    "seen_at": "2026-04-10T10:30:38.570Z",
+    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 12:29, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "82107",
+    "event_time": "2026-04-10T12:33:00",
+    "seen_at": "2026-04-10T10:37:51.984Z",
+    "raw": "Br. Vlaka 82107 dolazak      10.04.26. 12:33, kolodvor VRHOVINE"
   }
 ]
