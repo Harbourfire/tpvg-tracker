@@ -8026,5 +8026,41 @@
     "event_time": "2026-04-11T00:36:00",
     "seen_at": "2026-04-10T22:38:29.837Z",
     "raw": "Br. Vlaka 44997 odlazak      11.04.26. 00:36, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-11T00:42:00",
+    "seen_at": "2026-04-10T22:43:27.777Z",
+    "raw": "Br. Vlaka 63305 odlazak      11.04.26. 00:42, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "61004",
+    "event_time": "2026-04-11T00:45:00",
+    "seen_at": "2026-04-10T22:46:39.148Z",
+    "raw": "Br. Vlaka 61004 dolazak      11.04.26. 00:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "46896",
+    "event_time": "2026-04-10T23:42:00",
+    "seen_at": "2026-04-10T22:47:27.206Z",
+    "raw": "Br. Vlaka 46896 promjena sas 10.04.26. 23:42, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44999",
+    "event_time": "2026-04-11T00:45:00",
+    "seen_at": "2026-04-10T22:47:51.190Z",
+    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 00:45, kolodvor BEDEKOVČINA"
   }
 ]
