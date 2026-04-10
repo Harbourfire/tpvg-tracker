@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620387",
-    "type": "Formiran",
-    "station": "SESVETE",
-    "train_number": "89204",
-    "event_time": "2026-04-07T14:24:00",
-    "seen_at": "2026-04-07T12:25:44.754Z",
-    "raw": "Br. Vlaka 89204 formiran     07.04.26. 14:24, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47428",
-    "event_time": "2026-04-07T14:26:00",
-    "seen_at": "2026-04-07T12:27:12.438Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 14:26, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-07T14:30:00",
-    "seen_at": "2026-04-07T12:30:22.173Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -7468,5 +7441,41 @@
     "event_time": "2026-04-10T14:24:00",
     "seen_at": "2026-04-10T12:24:39.788Z",
     "raw": "Br. Vlaka 81157 odlazak      10.04.26. 14:24, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44997",
+    "event_time": "2026-04-10T14:25:00",
+    "seen_at": "2026-04-10T12:26:55.296Z",
+    "raw": "Br. Vlaka 44997 odlazak      10.04.26. 14:25, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "76600",
+    "event_time": "2026-04-10T14:30:00",
+    "seen_at": "2026-04-10T12:31:46.427Z",
+    "raw": "Br. Vlaka 76600 odlazak      10.04.26. 14:30, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "48756",
+    "event_time": "2026-04-10T14:31:00",
+    "seen_at": "2026-04-10T12:32:10.814Z",
+    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 14:31, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44997",
+    "event_time": "2026-04-10T14:33:00",
+    "seen_at": "2026-04-10T12:35:00.984Z",
+    "raw": "Br. Vlaka 44997 odlazak      10.04.26. 14:33, kolodvor MALA SUBOTICA"
   }
 ]
