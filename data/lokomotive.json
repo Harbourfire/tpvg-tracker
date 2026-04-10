@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "89753",
-    "event_time": "2026-04-07T11:42:00",
-    "seen_at": "2026-04-07T10:09:11.337Z",
-    "raw": "Br. Vlaka 89753 dolazak      07.04.26. 11:42, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89753",
-    "event_time": "2026-04-07T12:07:00",
-    "seen_at": "2026-04-07T10:09:34.746Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 12:07, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47428",
-    "event_time": "2026-04-07T12:06:00",
-    "seen_at": "2026-04-07T10:09:34.746Z",
-    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 12:06, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47428",
-    "event_time": "2026-04-07T12:11:00",
-    "seen_at": "2026-04-07T10:12:37.178Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 12:11, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DELNICE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:13:00",
-    "seen_at": "2026-04-07T10:14:11.900Z",
-    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 12:13, kolodvor DELNICE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "DELNICE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:13:00",
-    "seen_at": "2026-04-07T10:14:35.642Z",
-    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 12:13, kolodvor DELNICE"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89507",
-    "event_time": "2026-04-07T12:17:00",
-    "seen_at": "2026-04-07T10:17:22.209Z",
-    "raw": "Br. Vlaka 89507 formiran     07.04.26. 12:17, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -7468,5 +7405,32 @@
     "event_time": "2026-04-10T12:06:00",
     "seen_at": "2026-04-10T10:07:07.201Z",
     "raw": "Br. Vlaka 82329 formiran     10.04.26. 12:06, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "48786",
+    "event_time": "2026-04-10T12:01:00",
+    "seen_at": "2026-04-10T10:10:53.369Z",
+    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 12:01, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "48786",
+    "event_time": "2026-04-10T12:08:00",
+    "seen_at": "2026-04-10T10:11:17.171Z",
+    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 12:08, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "44996",
+    "train_number": null,
+    "event_time": "2026-04-10T10:12:04.592Z",
+    "seen_at": "2026-04-10T10:12:04.592Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44996 44996"
   }
 ]
