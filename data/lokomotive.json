@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-07T04:28:00",
-    "seen_at": "2026-04-07T02:29:59.914Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 04:28, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-07T04:28:00",
-    "seen_at": "2026-04-07T02:29:59.914Z",
-    "raw": "Br. Vlaka 63306 odlazak      07.04.26. 04:28, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZALESINA",
-    "train_number": "89182",
-    "event_time": "2026-04-07T04:33:00",
-    "seen_at": "2026-04-07T02:35:41.827Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:33, kolodvor ZALESINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZALESINA",
-    "train_number": "89182",
-    "event_time": "2026-04-07T04:33:00",
-    "seen_at": "2026-04-07T02:35:41.828Z",
-    "raw": "Br. Vlaka 89182 odlazak      07.04.26. 04:33, kolodvor ZALESINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "DELNICE",
@@ -8278,5 +8242,14 @@
     "event_time": "2026-04-10T02:12:03.383Z",
     "seen_at": "2026-04-10T02:12:03.383Z",
     "raw": "Trenutna pozicija je u kolodvoru 82103 82103"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-09T17:12:00",
+    "seen_at": "2026-04-10T02:36:42.653Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
