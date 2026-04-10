@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRBOVSKO",
-    "train_number": "81973",
-    "event_time": "2026-04-07T13:03:00",
-    "seen_at": "2026-04-07T11:03:40.672Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:03, kolodvor VRBOVSKO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVSKO",
-    "train_number": "81973",
-    "event_time": "2026-04-07T13:03:00",
-    "seen_at": "2026-04-07T11:04:04.172Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:03, kolodvor VRBOVSKO"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "83810",
-    "event_time": "2026-04-07T13:03:00",
-    "seen_at": "2026-04-07T11:04:51.354Z",
-    "raw": "Br. Vlaka 83810 odlazak      07.04.26. 13:03, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89753",
-    "event_time": "2026-04-07T13:02:00",
-    "seen_at": "2026-04-07T11:06:02.527Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:02, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "GOMIRJE",
@@ -7378,5 +7342,50 @@
     "event_time": "2026-04-10T12:52:00",
     "seen_at": "2026-04-10T10:56:07.319Z",
     "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:52, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "44996",
+    "train_number": null,
+    "event_time": "2026-04-10T10:57:52.925Z",
+    "seen_at": "2026-04-10T10:57:52.925Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44996 44996"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44783",
+    "event_time": "2026-04-10T12:57:00",
+    "seen_at": "2026-04-10T10:59:30.348Z",
+    "raw": "Br. Vlaka 44783 odlazak      10.04.26. 12:57, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "69771",
+    "event_time": "2026-04-10T12:41:00",
+    "seen_at": "2026-04-10T11:05:57.908Z",
+    "raw": "Br. Vlaka 69771 odlazak      10.04.26. 12:41, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82107",
+    "event_time": "2026-04-10T13:05:00",
+    "seen_at": "2026-04-10T11:05:57.908Z",
+    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 13:05, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69771",
+    "event_time": "2026-04-10T12:58:00",
+    "seen_at": "2026-04-10T11:06:45.490Z",
+    "raw": "Br. Vlaka 69771 odlazak      10.04.26. 12:58, kolodvor DARDA"
   }
 ]
