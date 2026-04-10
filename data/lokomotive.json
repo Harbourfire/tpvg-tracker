@@ -7450,5 +7450,32 @@
     "event_time": "2026-04-10T18:53:00",
     "seen_at": "2026-04-10T17:42:51.829Z",
     "raw": "Trenutna pozicija je u kolodvoru 74861 74861"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-10T19:53:00",
+    "seen_at": "2026-04-10T17:53:43.549Z",
+    "raw": "Br. Vlaka 63310 odlazak      10.04.26. 19:53, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-04-10T19:55:00",
+    "seen_at": "2026-04-10T17:55:42.601Z",
+    "raw": "Br. Vlaka 61004 formiran     10.04.26. 19:55, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-10T19:54:00",
+    "seen_at": "2026-04-10T17:57:17.213Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
   }
 ]
