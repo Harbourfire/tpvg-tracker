@@ -7513,5 +7513,41 @@
     "event_time": "2026-04-10T14:42:00",
     "seen_at": "2026-04-10T12:43:56.677Z",
     "raw": "Br. Vlaka 44997 dolazak      10.04.26. 14:42, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "PODSUSED tvornica",
+    "train_number": "89769",
+    "event_time": "2026-04-10T14:47:00",
+    "seen_at": "2026-04-10T12:48:05.956Z",
+    "raw": "Br. Vlaka 89769 formiran     10.04.26. 14:47, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "81157",
+    "event_time": "2026-04-10T14:47:00",
+    "seen_at": "2026-04-10T12:50:28.293Z",
+    "raw": "Br. Vlaka 81157 dolazak      10.04.26. 14:47, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-10T13:00:00",
+    "seen_at": "2026-04-10T12:52:30.535Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "89920",
+    "event_time": "2026-04-10T10:02:00",
+    "seen_at": "2026-04-10T12:52:54.323Z",
+    "raw": "Br. Vlaka 89920 promjena sas 10.04.26. 10:02, kolodvor ZABOK"
   }
 ]
