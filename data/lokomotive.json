@@ -8062,5 +8062,50 @@
     "event_time": "2026-04-11T00:45:00",
     "seen_at": "2026-04-10T22:47:51.190Z",
     "raw": "Br. Vlaka 44999 odlazak      11.04.26. 00:45, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44997",
+    "event_time": "2026-04-11T00:54:00",
+    "seen_at": "2026-04-10T22:55:15.393Z",
+    "raw": "Br. Vlaka 44997 dolazak      11.04.26. 00:54, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44997",
+    "event_time": "2026-04-11T00:54:00",
+    "seen_at": "2026-04-10T22:55:15.393Z",
+    "raw": "Br. Vlaka 44997 dolazak      11.04.26. 00:54, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44997",
+    "event_time": "2026-04-11T00:54:00",
+    "seen_at": "2026-04-10T22:55:39.305Z",
+    "raw": "Br. Vlaka 44997 promjena sas 11.04.26. 00:54, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44997",
+    "event_time": "2026-04-11T00:54:00",
+    "seen_at": "2026-04-10T22:55:39.305Z",
+    "raw": "Br. Vlaka 44997 promjena sas 11.04.26. 00:54, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81218",
+    "event_time": "2026-04-11T00:58:00",
+    "seen_at": "2026-04-10T22:59:15.193Z",
+    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 00:58, kolodvor SISAK CAPRAG"
   }
 ]
