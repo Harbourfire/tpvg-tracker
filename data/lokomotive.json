@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76506",
-    "event_time": "2026-04-07T10:44:00",
-    "seen_at": "2026-04-07T08:46:35.915Z",
-    "raw": "Br. Vlaka 76506 odlazak      07.04.26. 10:44, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "ZDENČINA",
-    "train_number": "47428",
-    "event_time": "2026-04-07T10:46:00",
-    "seen_at": "2026-04-07T08:47:22.925Z",
-    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 10:46, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81975",
-    "event_time": "2026-04-07T10:47:00",
-    "seen_at": "2026-04-07T08:48:34.250Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:47, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81975",
-    "event_time": "2026-04-07T10:47:00",
-    "seen_at": "2026-04-07T08:48:34.250Z",
-    "raw": "Br. Vlaka 81975 odlazak      07.04.26. 10:47, kolodvor BLATA"
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -7558,5 +7522,95 @@
     "event_time": "2026-04-10T03:00:00",
     "seen_at": "2026-04-10T08:39:44.059Z",
     "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69751",
+    "event_time": "2026-04-10T09:35:00",
+    "seen_at": "2026-04-10T08:40:43.593Z",
+    "raw": "Br. Vlaka 69751 formiran     10.04.26. 09:35, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69751",
+    "event_time": "2026-04-10T10:10:00",
+    "seen_at": "2026-04-10T08:41:07.838Z",
+    "raw": "Br. Vlaka 69751 odlazak      10.04.26. 10:10, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "48786",
+    "event_time": "2026-04-10T10:40:00",
+    "seen_at": "2026-04-10T08:41:07.838Z",
+    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 10:40, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69751",
+    "event_time": "2026-04-10T09:35:00",
+    "seen_at": "2026-04-10T08:41:31.951Z",
+    "raw": "Br. Vlaka 69751 formiran     10.04.26. 09:35, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "BELI MANASTIR",
+    "train_number": "69771",
+    "event_time": "2026-04-10T09:34:00",
+    "seen_at": "2026-04-10T08:41:55.804Z",
+    "raw": "Br. Vlaka 69771 formiran     10.04.26. 09:34, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89312",
+    "event_time": "2026-04-10T10:44:00",
+    "seen_at": "2026-04-10T08:44:19.763Z",
+    "raw": "Br. Vlaka 89312 formiran     10.04.26. 10:44, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89300",
+    "event_time": "2026-04-10T10:46:00",
+    "seen_at": "2026-04-10T08:46:44.185Z",
+    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:46, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "76502",
+    "event_time": "2026-04-10T10:46:00",
+    "seen_at": "2026-04-10T08:47:08.551Z",
+    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 10:46, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-10T10:48:00",
+    "seen_at": "2026-04-10T08:48:44.229Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81157",
+    "event_time": "2026-04-10T10:38:00",
+    "seen_at": "2026-04-10T08:49:31.948Z",
+    "raw": "Br. Vlaka 81157 dolazak      10.04.26. 10:38, kolodvor VARAŽDIN"
   }
 ]
