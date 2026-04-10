@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "SKRAD",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:39:00",
-    "seen_at": "2026-04-07T10:39:49.277Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:39, kolodvor SKRAD"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SKRAD",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:39:00",
-    "seen_at": "2026-04-07T10:39:49.278Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:39, kolodvor SKRAD"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89753",
-    "event_time": "2026-04-07T12:44:00",
-    "seen_at": "2026-04-07T10:45:23.213Z",
-    "raw": "Br. Vlaka 89753 dolazak      07.04.26. 12:44, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "BROD MORAVICE",
     "train_number": "81973",
     "event_time": "2026-04-07T12:48:00",
@@ -7369,5 +7342,50 @@
     "event_time": "2026-04-10T12:33:00",
     "seen_at": "2026-04-10T10:37:51.984Z",
     "raw": "Br. Vlaka 82107 dolazak      10.04.26. 12:33, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "49999",
+    "train_number": null,
+    "event_time": "2026-04-08T21:59:00",
+    "seen_at": "2026-04-10T10:38:26.092Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49999 49999"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44783",
+    "event_time": "2026-04-10T12:31:00",
+    "seen_at": "2026-04-10T10:38:50.512Z",
+    "raw": "Br. Vlaka 44783 odlazak      10.04.26. 12:31, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "48786",
+    "event_time": "2026-04-10T12:36:00",
+    "seen_at": "2026-04-10T10:40:26.507Z",
+    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 12:36, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82329",
+    "event_time": "2026-04-10T12:34:00",
+    "seen_at": "2026-04-10T10:44:24.191Z",
+    "raw": "Br. Vlaka 82329 dolazak      10.04.26. 12:34, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-10T12:34:00",
+    "seen_at": "2026-04-10T10:45:12.410Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
