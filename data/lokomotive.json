@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47428",
-    "event_time": "2026-04-07T12:19:00",
-    "seen_at": "2026-04-07T10:20:21.581Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 12:19, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81976",
-    "event_time": "2026-04-07T12:21:00",
-    "seen_at": "2026-04-07T10:23:56.232Z",
-    "raw": "Br. Vlaka 81976 odlazak      07.04.26. 12:21, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DELNICE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:24:00",
-    "seen_at": "2026-04-07T10:25:07.940Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:24, kolodvor DELNICE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DELNICE",
-    "train_number": "81973",
-    "event_time": "2026-04-07T12:24:00",
-    "seen_at": "2026-04-07T10:25:07.940Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 12:24, kolodvor DELNICE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47428",
-    "event_time": "2026-04-07T12:25:00",
-    "seen_at": "2026-04-07T10:27:06.254Z",
-    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 12:25, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -7432,5 +7387,41 @@
     "event_time": "2026-04-10T10:12:04.592Z",
     "seen_at": "2026-04-10T10:12:04.592Z",
     "raw": "Trenutna pozicija je u kolodvoru 44996 44996"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "48786",
+    "event_time": "2026-04-10T12:16:00",
+    "seen_at": "2026-04-10T10:19:04.007Z",
+    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 12:16, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48756",
+    "event_time": "2026-04-10T12:19:00",
+    "seen_at": "2026-04-10T10:22:41.044Z",
+    "raw": "Br. Vlaka 48756 promjena sas 10.04.26. 12:19, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82329",
+    "event_time": "2026-04-10T12:23:00",
+    "seen_at": "2026-04-10T10:24:18.299Z",
+    "raw": "Br. Vlaka 82329 odlazak      10.04.26. 12:23, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82107",
+    "event_time": "2026-04-10T12:25:00",
+    "seen_at": "2026-04-10T10:26:19.935Z",
+    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:25, kolodvor RUDOPOLJE"
   }
 ]
