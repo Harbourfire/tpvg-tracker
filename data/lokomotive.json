@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "47428",
-    "event_time": "2026-04-07T08:00:00",
-    "seen_at": "2026-04-07T06:03:51.980Z",
-    "raw": "Br. Vlaka 47428 dolazak      07.04.26. 08:00, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "997894215711",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -7594,5 +7585,32 @@
     "event_time": "2026-04-10T08:00:00",
     "seen_at": "2026-04-10T06:00:34.301Z",
     "raw": "Br. Vlaka 89300 odlazak      10.04.26. 08:00, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "PLETERNICA",
+    "train_number": "74300",
+    "event_time": "2026-04-10T07:59:00",
+    "seen_at": "2026-04-10T06:01:12.261Z",
+    "raw": "Br. Vlaka 74300 formiran     10.04.26. 07:59, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "PLETERNICA",
+    "train_number": null,
+    "event_time": "2026-04-10T07:59:00",
+    "seen_at": "2026-04-10T06:02:23.871Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "PLETERNICA",
+    "train_number": "74300",
+    "event_time": "2026-04-10T08:02:00",
+    "seen_at": "2026-04-10T06:03:11.184Z",
+    "raw": "Br. Vlaka 74300 formiran     10.04.26. 08:02, kolodvor PLETERNICA"
   }
 ]
