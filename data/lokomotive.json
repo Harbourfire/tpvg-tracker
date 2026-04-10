@@ -1,69 +1,6 @@
 [
   {
     "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89753",
-    "event_time": "2026-04-07T13:26:00",
-    "seen_at": "2026-04-07T11:26:53.367Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:26, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OGULINSKI HRELJIN",
-    "train_number": "81973",
-    "event_time": "2026-04-07T13:25:00",
-    "seen_at": "2026-04-07T11:28:13.755Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:25, kolodvor OGULINSKI HRELJIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "OGULINSKI HRELJIN",
-    "train_number": "81973",
-    "event_time": "2026-04-07T13:25:00",
-    "seen_at": "2026-04-07T11:28:13.756Z",
-    "raw": "Br. Vlaka 81973 odlazak      07.04.26. 13:25, kolodvor OGULINSKI HRELJIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-07T09:00:00",
-    "seen_at": "2026-04-07T11:29:00.146Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89753",
-    "event_time": "2026-04-07T13:32:00",
-    "seen_at": "2026-04-07T11:32:58.862Z",
-    "raw": "Br. Vlaka 89753 odlazak      07.04.26. 13:32, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "81973",
-    "event_time": "2026-04-07T13:34:00",
-    "seen_at": "2026-04-07T11:34:56.255Z",
-    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 13:34, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "81973",
-    "event_time": "2026-04-07T13:34:00",
-    "seen_at": "2026-04-07T11:34:56.256Z",
-    "raw": "Br. Vlaka 81973 dolazak      07.04.26. 13:34, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820621195",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
     "train_number": null,
@@ -7414,5 +7351,23 @@
     "event_time": "2026-04-10T13:22:00",
     "seen_at": "2026-04-10T11:25:45.103Z",
     "raw": "Br. Vlaka 81157 odlazak      10.04.26. 13:22, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "48756",
+    "event_time": "2026-04-10T13:27:00",
+    "seen_at": "2026-04-10T11:27:31.862Z",
+    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 13:27, kolodvor 72304"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-10T13:33:00",
+    "seen_at": "2026-04-10T11:34:21.082Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
