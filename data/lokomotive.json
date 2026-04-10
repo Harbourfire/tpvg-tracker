@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81286",
-    "event_time": "2026-04-07T07:25:00",
-    "seen_at": "2026-04-07T05:25:30.832Z",
-    "raw": "Br. Vlaka 81286 odlazak      07.04.26. 07:25, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "ORIOVAC",
-    "train_number": null,
-    "event_time": "2026-04-07T07:25:00",
-    "seen_at": "2026-04-07T05:25:30.834Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "70065",
-    "event_time": "2026-04-07T07:25:00",
-    "seen_at": "2026-04-07T05:28:17.593Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 07:25, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "89301",
-    "event_time": "2026-04-07T07:30:00",
-    "seen_at": "2026-04-07T05:31:16.085Z",
-    "raw": "Br. Vlaka 89301 odlazak      07.04.26. 07:30, kolodvor OTOK"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -7675,5 +7639,14 @@
     "event_time": "2026-04-10T00:59:00",
     "seen_at": "2026-04-10T05:16:29.740Z",
     "raw": "Br. Vlaka 81149 promjena sas 10.04.26. 00:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-04-10T07:30:00",
+    "seen_at": "2026-04-10T05:31:26.752Z",
+    "raw": "Br. Vlaka 74301 odlazak      10.04.26. 07:30, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
