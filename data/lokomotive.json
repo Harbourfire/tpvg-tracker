@@ -8170,5 +8170,50 @@
     "event_time": "2026-04-11T01:08:00",
     "seen_at": "2026-04-10T23:08:57.807Z",
     "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:08, kolodvor LUKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44999",
+    "event_time": "2026-04-11T01:13:00",
+    "seen_at": "2026-04-10T23:13:58.000Z",
+    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:13, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-11T01:13:00",
+    "seen_at": "2026-04-10T23:14:45.413Z",
+    "raw": "Br. Vlaka 63305 dolazak      11.04.26. 01:13, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-11T01:13:00",
+    "seen_at": "2026-04-10T23:15:09.042Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "81218",
+    "event_time": "2026-04-11T01:16:00",
+    "seen_at": "2026-04-10T23:18:44.376Z",
+    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:16, kolodvor SISAK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44999",
+    "event_time": "2026-04-11T01:18:00",
+    "seen_at": "2026-04-10T23:19:08.022Z",
+    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:18, kolodvor ZAPREŠIĆ"
   }
 ]
