@@ -1,77 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "89301",
-    "event_time": "2026-04-07T07:41:00",
-    "seen_at": "2026-04-07T05:41:42.577Z",
-    "raw": "Br. Vlaka 89301 odlazak      07.04.26. 07:41, kolodvor SPAČVA"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "70065",
-    "event_time": "2026-04-07T07:44:00",
-    "seen_at": "2026-04-07T05:45:16.133Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 07:44, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47428",
-    "event_time": "2026-04-07T07:46:00",
-    "seen_at": "2026-04-07T05:46:27.344Z",
-    "raw": "Br. Vlaka 47428 odlazak      07.04.26. 07:46, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "71201",
-    "event_time": "2026-04-07T07:47:00",
-    "seen_at": "2026-04-07T05:49:21.165Z",
-    "raw": "Br. Vlaka 71201 odlazak      07.04.26. 07:47, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "70065",
-    "event_time": "2026-04-07T07:51:00",
-    "seen_at": "2026-04-07T05:51:28.221Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 07:51, kolodvor HORVATI"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "70065",
-    "event_time": "2026-04-07T07:56:00",
-    "seen_at": "2026-04-07T05:57:20.999Z",
-    "raw": "Br. Vlaka 70065 odlazak      07.04.26. 07:56, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-04-07T07:56:00",
-    "seen_at": "2026-04-07T05:58:18.486Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "81286",
-    "event_time": "2026-04-07T07:58:00",
-    "seen_at": "2026-04-07T06:00:19.933Z",
-    "raw": "Br. Vlaka 81286 dolazak      07.04.26. 07:58, kolodvor PLETERNICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "GENERALSKI STOL",
@@ -7612,5 +7540,59 @@
     "event_time": "2026-04-10T07:34:00",
     "seen_at": "2026-04-10T05:39:10.673Z",
     "raw": "Br. Vlaka 43995 odlazak      10.04.26. 07:34, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "43995",
+    "event_time": "2026-04-10T07:41:00",
+    "seen_at": "2026-04-10T05:51:31.370Z",
+    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 07:41, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-10T07:42:00",
+    "seen_at": "2026-04-10T05:51:31.370Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "DRENOVCI",
+    "train_number": "89300",
+    "event_time": "2026-04-10T07:50:00",
+    "seen_at": "2026-04-10T05:51:31.372Z",
+    "raw": "Br. Vlaka 89300 formiran     10.04.26. 07:50, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "74861",
+    "train_number": "89942",
+    "event_time": "2026-04-10T07:51:00",
+    "seen_at": "2026-04-10T05:53:30.414Z",
+    "raw": "Br. Vlaka 89942 formiran     10.04.26. 07:51, kolodvor 74861"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "PLETERNICA",
+    "train_number": null,
+    "event_time": "2026-04-10T07:56:00",
+    "seen_at": "2026-04-10T05:57:26.210Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "89300",
+    "event_time": "2026-04-10T08:00:00",
+    "seen_at": "2026-04-10T06:00:34.301Z",
+    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 08:00, kolodvor DRENOVCI"
   }
 ]
