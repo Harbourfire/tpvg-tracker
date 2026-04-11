@@ -8386,5 +8386,68 @@
     "event_time": "2026-04-11T01:53:00",
     "seen_at": "2026-04-10T23:55:22.861Z",
     "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:53, kolodvor 72302"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "40826",
+    "event_time": "2026-04-11T01:58:00",
+    "seen_at": "2026-04-10T23:59:09.340Z",
+    "raw": "Br. Vlaka 40826 odlazak      11.04.26. 01:58, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "81218",
+    "event_time": "2026-04-11T01:59:00",
+    "seen_at": "2026-04-11T00:00:20.269Z",
+    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:59, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44999",
+    "event_time": "2026-04-11T02:00:00",
+    "seen_at": "2026-04-11T00:02:18.395Z",
+    "raw": "Br. Vlaka 44999 dolazak      11.04.26. 02:00, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "46896",
+    "event_time": "2026-04-11T02:01:00",
+    "seen_at": "2026-04-11T00:02:18.395Z",
+    "raw": "Br. Vlaka 46896 dolazak      11.04.26. 02:01, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T20:03:00",
+    "seen_at": "2026-04-11T00:03:29.942Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-11T02:04:00",
+    "seen_at": "2026-04-11T00:04:41.449Z",
+    "raw": "Br. Vlaka 49999 formiran     11.04.26. 02:04, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81218",
+    "event_time": "2026-04-11T02:06:00",
+    "seen_at": "2026-04-11T00:06:39.390Z",
+    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 02:06, kolodvor ZAGREB KLARA"
   }
 ]
