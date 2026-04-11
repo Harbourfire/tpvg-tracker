@@ -12760,5 +12760,32 @@
     "event_time": "2026-04-12T00:05:00",
     "seen_at": "2026-04-11T22:12:30.234Z",
     "raw": "Br. Vlaka 49997 dolazak      12.04.26. 00:05, kolodvor KNIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "KNIN",
+    "train_number": null,
+    "event_time": "2026-04-11T05:04:00",
+    "seen_at": "2026-04-11T22:21:35.192Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "89190",
+    "event_time": "2026-04-11T17:36:00",
+    "seen_at": "2026-04-11T22:22:23.483Z",
+    "raw": "Br. Vlaka 89190 formiran     11.04.26. 17:36, kolodvor KNIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KNIN",
+    "train_number": "89190",
+    "event_time": "2026-04-12T00:19:00",
+    "seen_at": "2026-04-11T22:23:59.925Z",
+    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 00:19, kolodvor KNIN"
   }
 ]
