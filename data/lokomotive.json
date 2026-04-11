@@ -8782,5 +8782,59 @@
     "event_time": "2026-04-11T05:55:00",
     "seen_at": "2026-04-11T03:57:42.917Z",
     "raw": "Br. Vlaka 44998 odlazak      11.04.26. 05:55, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-11T06:04:00",
+    "seen_at": "2026-04-11T04:03:50.741Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69173",
+    "event_time": "2026-04-11T03:17:00",
+    "seen_at": "2026-04-11T04:04:14.192Z",
+    "raw": "Br. Vlaka 69173 formiran     11.04.26. 03:17, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44998",
+    "event_time": "2026-04-11T06:03:00",
+    "seen_at": "2026-04-11T04:05:02.049Z",
+    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 06:03, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69173",
+    "event_time": "2026-04-11T06:02:00",
+    "seen_at": "2026-04-11T04:05:02.050Z",
+    "raw": "Br. Vlaka 69173 odlazak      11.04.26. 06:02, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "69173",
+    "event_time": "2026-04-11T06:09:00",
+    "seen_at": "2026-04-11T04:09:47.717Z",
+    "raw": "Br. Vlaka 69173 dolazak      11.04.26. 06:09, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63308",
+    "event_time": "2026-04-11T03:17:00",
+    "seen_at": "2026-04-11T04:10:11.473Z",
+    "raw": "Br. Vlaka 63308 formiran     11.04.26. 03:17, kolodvor VRHOVINE"
   }
 ]
