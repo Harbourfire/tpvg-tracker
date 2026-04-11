@@ -8863,5 +8863,68 @@
     "event_time": "2026-04-11T06:17:00",
     "seen_at": "2026-04-11T04:21:59.349Z",
     "raw": "Br. Vlaka 44998 dolazak      11.04.26. 06:17, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44998",
+    "event_time": "2026-04-11T06:32:00",
+    "seen_at": "2026-04-11T04:32:43.000Z",
+    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 06:32, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-11T06:33:00",
+    "seen_at": "2026-04-11T04:33:53.600Z",
+    "raw": "Br. Vlaka 45105 formiran     11.04.26. 06:33, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89253",
+    "event_time": "2026-04-11T06:34:00",
+    "seen_at": "2026-04-11T04:37:03.084Z",
+    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 06:34, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63308",
+    "event_time": "2026-04-11T06:30:00",
+    "seen_at": "2026-04-11T04:37:03.085Z",
+    "raw": "Br. Vlaka 63308 dolazak      11.04.26. 06:30, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-11T06:30:00",
+    "seen_at": "2026-04-11T04:37:26.644Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89253",
+    "event_time": "2026-04-11T06:37:00",
+    "seen_at": "2026-04-11T04:37:50.142Z",
+    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 06:37, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-11T05:50:00",
+    "seen_at": "2026-04-11T04:38:13.661Z",
+    "raw": "Br. Vlaka 63306 promjena sas 11.04.26. 05:50, kolodvor RUDOPOLJE"
   }
 ]
