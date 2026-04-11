@@ -12787,5 +12787,77 @@
     "event_time": "2026-04-12T00:19:00",
     "seen_at": "2026-04-11T22:23:59.925Z",
     "raw": "Br. Vlaka 89190 odlazak      12.04.26. 00:19, kolodvor KNIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-12T00:36:00",
+    "seen_at": "2026-04-11T22:37:59.358Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 00:36, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-12T00:36:00",
+    "seen_at": "2026-04-11T22:37:59.358Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 00:36, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PAĐENE",
+    "train_number": "89190",
+    "event_time": "2026-04-12T00:40:00",
+    "seen_at": "2026-04-11T22:41:38.088Z",
+    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 00:40, kolodvor PAĐENE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81236",
+    "event_time": "2026-04-12T00:38:00",
+    "seen_at": "2026-04-11T22:42:02.121Z",
+    "raw": "Br. Vlaka 81236 odlazak      12.04.26. 00:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-10T23:55:00",
+    "seen_at": "2026-04-11T22:42:02.122Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-10T23:55:00",
+    "seen_at": "2026-04-11T22:42:02.123Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89195",
+    "event_time": "2026-04-12T00:04:00",
+    "seen_at": "2026-04-11T22:42:26.415Z",
+    "raw": "Br. Vlaka 89195 formiran     12.04.26. 00:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89195",
+    "event_time": "2026-04-12T00:45:00",
+    "seen_at": "2026-04-11T22:46:50.028Z",
+    "raw": "Br. Vlaka 89195 odlazak      12.04.26. 00:45, kolodvor VARAŽDIN"
   }
 ]
