@@ -9736,5 +9736,41 @@
     "event_time": "2026-04-11T10:01:00",
     "seen_at": "2026-04-11T08:01:33.211Z",
     "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "89253",
+    "event_time": "2026-04-11T09:57:00",
+    "seen_at": "2026-04-11T08:02:54.398Z",
+    "raw": "Br. Vlaka 89253 dolazak      11.04.26. 09:57, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-11T10:03:00",
+    "seen_at": "2026-04-11T08:04:29.760Z",
+    "raw": "Br. Vlaka 69005 odlazak      11.04.26. 10:03, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "69005",
+    "event_time": "2026-04-11T10:08:00",
+    "seen_at": "2026-04-11T08:09:37.435Z",
+    "raw": "Br. Vlaka 69005 dolazak      11.04.26. 10:08, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-11T10:08:00",
+    "seen_at": "2026-04-11T08:10:01.220Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
