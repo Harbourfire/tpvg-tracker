@@ -10609,5 +10609,77 @@
     "event_time": "2026-04-11T12:50:00",
     "seen_at": "2026-04-11T10:57:13.613Z",
     "raw": "Br. Vlaka 48597 odlazak      11.04.26. 12:50, kolodvor BUZET"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43997",
+    "event_time": "2026-04-11T13:07:00",
+    "seen_at": "2026-04-11T11:07:54.691Z",
+    "raw": "Br. Vlaka 43997 odlazak      11.04.26. 13:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43997",
+    "event_time": "2026-04-11T13:07:00",
+    "seen_at": "2026-04-11T11:07:54.692Z",
+    "raw": "Br. Vlaka 43997 odlazak      11.04.26. 13:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-04-11T13:07:00",
+    "seen_at": "2026-04-11T11:07:54.692Z",
+    "raw": "Br. Vlaka 69175 R            11.04.26. 13:07, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-04-11T13:07:00",
+    "seen_at": "2026-04-11T11:07:54.692Z",
+    "raw": "Br. Vlaka 69175 dolazak      11.04.26. 13:07, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "LIČKO LEŠĆE",
+    "train_number": null,
+    "event_time": "2026-04-11T13:07:00",
+    "seen_at": "2026-04-11T11:08:18.510Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76103 LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "LIČKO LEŠĆE",
+    "train_number": null,
+    "event_time": "2026-04-11T13:07:00",
+    "seen_at": "2026-04-11T11:08:18.510Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76103 LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "43997",
+    "event_time": "2026-04-11T13:14:00",
+    "seen_at": "2026-04-11T11:16:40.055Z",
+    "raw": "Br. Vlaka 43997 odlazak      11.04.26. 13:14, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "43997",
+    "event_time": "2026-04-11T13:14:00",
+    "seen_at": "2026-04-11T11:16:40.056Z",
+    "raw": "Br. Vlaka 43997 odlazak      11.04.26. 13:14, kolodvor TURČIN"
   }
 ]
