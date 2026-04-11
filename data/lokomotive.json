@@ -8683,5 +8683,32 @@
     "event_time": "2026-04-11T04:41:00",
     "seen_at": "2026-04-11T02:42:14.962Z",
     "raw": "Br. Vlaka 44998 dolazak      11.04.26. 04:41, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "48784",
+    "event_time": "2026-04-11T04:47:00",
+    "seen_at": "2026-04-11T02:47:31.965Z",
+    "raw": "Br. Vlaka 48784 dolazak      11.04.26. 04:47, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-10T21:00:00",
+    "seen_at": "2026-04-11T02:47:31.966Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44998",
+    "event_time": "2026-04-11T04:41:00",
+    "seen_at": "2026-04-11T02:47:55.348Z",
+    "raw": "Br. Vlaka 44998 promjena sas 11.04.26. 04:41, kolodvor ZAGREB ZAP. KOL."
   }
 ]
