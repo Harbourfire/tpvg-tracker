@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44786",
-    "event_time": "2026-04-09T17:35:00",
-    "seen_at": "2026-04-09T15:36:17.249Z",
-    "raw": "Br. Vlaka 44786 dolazak      09.04.26. 17:35, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89753",
-    "event_time": "2026-04-09T17:35:00",
-    "seen_at": "2026-04-09T15:36:41.139Z",
-    "raw": "Br. Vlaka 89753 odlazak      09.04.26. 17:35, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89753",
-    "event_time": "2026-04-09T17:41:00",
-    "seen_at": "2026-04-09T15:41:21.269Z",
-    "raw": "Br. Vlaka 89753 odlazak      09.04.26. 17:41, kolodvor 72302"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -13327,5 +13300,32 @@
     "event_time": "2026-04-12T17:27:00",
     "seen_at": "2026-04-12T15:29:16.027Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 17:27, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-12T17:36:00",
+    "seen_at": "2026-04-12T15:38:13.503Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 17:36, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-12T17:36:00",
+    "seen_at": "2026-04-12T15:38:13.504Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 17:36, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44788",
+    "event_time": "2026-04-12T17:39:00",
+    "seen_at": "2026-04-12T15:42:10.120Z",
+    "raw": "Br. Vlaka 44788 odlazak      12.04.26. 17:39, kolodvor TURČIN"
   }
 ]
