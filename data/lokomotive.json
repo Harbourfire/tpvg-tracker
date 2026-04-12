@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89250",
-    "event_time": "2026-04-09T23:37:00",
-    "seen_at": "2026-04-09T21:40:20.922Z",
-    "raw": "Br. Vlaka 89250 odlazak      09.04.26. 23:37, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82294",
-    "event_time": "2026-04-09T23:39:00",
-    "seen_at": "2026-04-09T21:41:08.585Z",
-    "raw": "Br. Vlaka 82294 odlazak      09.04.26. 23:39, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89250",
-    "event_time": "2026-04-09T23:41:00",
-    "seen_at": "2026-04-09T21:42:19.373Z",
-    "raw": "Br. Vlaka 89250 odlazak      09.04.26. 23:41, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "LUKA",
     "train_number": "89250",
     "event_time": "2026-04-09T23:44:00",
@@ -13156,5 +13129,50 @@
     "event_time": "2026-04-12T23:29:00",
     "seen_at": "2026-04-12T21:31:24.209Z",
     "raw": "Br. Vlaka 69327 odlazak      12.04.26. 23:29, kolodvor SIBINJ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-04-12T23:32:00",
+    "seen_at": "2026-04-12T21:34:42.470Z",
+    "raw": "Br. Vlaka 69175 odlazak      12.04.26. 23:32, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "69175",
+    "event_time": "2026-04-12T23:32:00",
+    "seen_at": "2026-04-12T21:34:42.470Z",
+    "raw": "Br. Vlaka 69175 odlazak      12.04.26. 23:32, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "49997",
+    "event_time": "2026-04-12T23:36:00",
+    "seen_at": "2026-04-12T21:38:39.083Z",
+    "raw": "Br. Vlaka 49997 odlazak      12.04.26. 23:36, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69327",
+    "event_time": "2026-04-12T23:39:00",
+    "seen_at": "2026-04-12T21:39:26.429Z",
+    "raw": "Br. Vlaka 69327 dolazak      12.04.26. 23:39, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-12T23:39:00",
+    "seen_at": "2026-04-12T21:40:13.727Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
