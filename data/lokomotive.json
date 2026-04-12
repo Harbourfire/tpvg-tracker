@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82515",
-    "event_time": "2026-04-09T09:11:00",
-    "seen_at": "2026-04-09T07:12:58.636Z",
-    "raw": "Br. Vlaka 82515 odlazak      09.04.26. 09:11, kolodvor POŽEGA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "48586",
-    "event_time": "2026-04-09T09:13:00",
-    "seen_at": "2026-04-09T07:15:21.240Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 09:13, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "48586",
-    "event_time": "2026-04-09T09:13:00",
-    "seen_at": "2026-04-09T07:15:21.240Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 09:13, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -13075,5 +13048,32 @@
     "event_time": "2026-04-12T09:10:00",
     "seen_at": "2026-04-12T07:10:27.801Z",
     "raw": "Br. Vlaka 47980 odlazak      12.04.26. 09:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-12T08:54:00",
+    "seen_at": "2026-04-12T07:17:53.670Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-12T09:12:00",
+    "seen_at": "2026-04-12T07:21:05.174Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:12, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-12T09:12:00",
+    "seen_at": "2026-04-12T07:21:05.175Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:12, kolodvor ZABOK"
   }
 ]
