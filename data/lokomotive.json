@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "LUKA",
-    "train_number": null,
-    "event_time": "2026-04-09T20:17:00",
-    "seen_at": "2026-04-09T18:19:21.450Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:21:00",
-    "seen_at": "2026-04-09T18:21:42.160Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:21, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:21:00",
-    "seen_at": "2026-04-09T18:21:42.161Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:21, kolodvor LUKA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-09T20:24:00",
-    "seen_at": "2026-04-09T18:24:50.640Z",
-    "raw": "Br. Vlaka 61004 dolazak      09.04.26. 20:24, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:25:00",
-    "seen_at": "2026-04-09T18:25:50.967Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:25, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:25:00",
-    "seen_at": "2026-04-09T18:26:14.467Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:25, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-09T20:27:00",
-    "seen_at": "2026-04-09T18:27:48.907Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
     "uic": "927820622037",
     "type": "Promjena sastava",
     "station": "ČAKOVEC",
@@ -13201,5 +13138,41 @@
     "event_time": "2026-04-12T20:17:00",
     "seen_at": "2026-04-12T18:18:36.189Z",
     "raw": "Br. Vlaka 42786 dolazak      12.04.26. 20:17, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-12T20:17:00",
+    "seen_at": "2026-04-12T18:19:59.896Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-12T20:22:00",
+    "seen_at": "2026-04-12T18:22:45.471Z",
+    "raw": "Br. Vlaka 69326 odlazak      12.04.26. 20:22, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-12T20:26:00",
+    "seen_at": "2026-04-12T18:26:40.610Z",
+    "raw": "Br. Vlaka 81230 formiran     12.04.26. 20:26, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-12T20:26:00",
+    "seen_at": "2026-04-12T18:26:40.610Z",
+    "raw": "Br. Vlaka 81230 formiran     12.04.26. 20:26, kolodvor GOSPIĆ"
   }
 ]
