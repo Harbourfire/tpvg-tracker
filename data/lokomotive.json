@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-10T01:22:00",
-    "seen_at": "2026-04-09T23:23:47.243Z",
-    "raw": "Br. Vlaka 61004 odlazak      10.04.26. 01:22, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-10T01:22:00",
-    "seen_at": "2026-04-09T23:23:47.244Z",
-    "raw": "Br. Vlaka 61004 odlazak      10.04.26. 01:22, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "ZABOK",
@@ -13084,5 +13066,41 @@
     "event_time": "2026-04-13T01:16:00",
     "seen_at": "2026-04-12T23:17:25.592Z",
     "raw": "Br. Vlaka 63306 odlazak      13.04.26. 01:16, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-13T01:24:00",
+    "seen_at": "2026-04-12T23:24:46.706Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-13T01:24:00",
+    "seen_at": "2026-04-12T23:24:46.706Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "81230",
+    "event_time": "2026-04-12T22:58:00",
+    "seen_at": "2026-04-12T23:25:34.162Z",
+    "raw": "Br. Vlaka 81230 promjena sas 12.04.26. 22:58, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "81230",
+    "event_time": "2026-04-12T22:58:00",
+    "seen_at": "2026-04-12T23:25:34.162Z",
+    "raw": "Br. Vlaka 81230 promjena sas 12.04.26. 22:58, kolodvor RUDOPOLJE"
   }
 ]
