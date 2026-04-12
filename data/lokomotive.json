@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-04-09T20:10:00",
-    "seen_at": "2026-04-09T18:10:31.917Z",
-    "raw": "Br. Vlaka 61004 formiran     09.04.26. 20:10, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVI DVORI",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:04:00",
-    "seen_at": "2026-04-09T18:10:55.330Z",
-    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 20:04, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "NOVI DVORI",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:04:00",
-    "seen_at": "2026-04-09T18:10:55.331Z",
-    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 20:04, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89154",
-    "event_time": "2026-04-09T20:13:00",
-    "seen_at": "2026-04-09T18:13:39.884Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 20:13, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89101",
-    "event_time": "2026-04-09T20:11:00",
-    "seen_at": "2026-04-09T18:13:39.884Z",
-    "raw": "Br. Vlaka 89101 odlazak      09.04.26. 20:11, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-04-09T20:15:00",
-    "seen_at": "2026-04-09T18:16:35.644Z",
-    "raw": "Br. Vlaka 61004 odlazak      09.04.26. 20:15, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:14:00",
-    "seen_at": "2026-04-09T18:17:46.514Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:14, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:14:00",
-    "seen_at": "2026-04-09T18:17:46.515Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:14, kolodvor NOVI DVORI"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "LUKA",
@@ -13237,5 +13165,41 @@
     "event_time": "2026-04-12T19:49:00",
     "seen_at": "2026-04-12T17:51:57.809Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-12T19:50:00",
+    "seen_at": "2026-04-12T18:11:05.506Z",
+    "raw": "Br. Vlaka 69326 formiran     12.04.26. 19:50, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "48588",
+    "event_time": "2026-04-12T20:11:00",
+    "seen_at": "2026-04-12T18:16:37.008Z",
+    "raw": "Br. Vlaka 48588 dolazak      12.04.26. 20:11, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "42786",
+    "event_time": "2026-04-12T20:12:00",
+    "seen_at": "2026-04-12T18:17:24.229Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 20:12, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "42786",
+    "event_time": "2026-04-12T20:17:00",
+    "seen_at": "2026-04-12T18:18:36.189Z",
+    "raw": "Br. Vlaka 42786 dolazak      12.04.26. 20:17, kolodvor KOTORIBA-GR"
   }
 ]
