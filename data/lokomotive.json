@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69852",
-    "event_time": "2026-04-09T08:15:00",
-    "seen_at": "2026-04-09T06:15:51.321Z",
-    "raw": "Br. Vlaka 69852 odlazak      09.04.26. 08:15, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "69852",
-    "event_time": "2026-04-09T05:59:00",
-    "seen_at": "2026-04-09T06:17:02.821Z",
-    "raw": "Br. Vlaka 69852 formiran     09.04.26. 05:59, kolodvor VINKOVCI"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -13084,5 +13066,41 @@
     "event_time": "2026-04-12T08:07:00",
     "seen_at": "2026-04-12T06:08:03.047Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:07, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "81161",
+    "event_time": "2026-04-12T08:10:00",
+    "seen_at": "2026-04-12T06:14:16.445Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 08:10, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "47980",
+    "event_time": "2026-04-12T06:27:00",
+    "seen_at": "2026-04-12T06:17:06.082Z",
+    "raw": "Br. Vlaka 47980 promjena sas 12.04.26. 06:27, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:17:00",
+    "seen_at": "2026-04-12T06:17:54.279Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:17, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:17:00",
+    "seen_at": "2026-04-12T06:17:54.280Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:17, kolodvor TUROPOLJE"
   }
 ]
