@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "44994",
-    "event_time": "2026-04-09T19:00:00",
-    "seen_at": "2026-04-09T17:05:43.564Z",
-    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 19:00, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "44994",
-    "event_time": "2026-04-09T19:00:00",
-    "seen_at": "2026-04-09T17:05:43.565Z",
-    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 19:00, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -13327,5 +13309,59 @@
     "event_time": "2026-04-12T18:54:00",
     "seen_at": "2026-04-12T16:55:02.545Z",
     "raw": "Br. Vlaka 42786 dolazak      12.04.26. 18:54, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "89142",
+    "event_time": "2026-04-12T19:01:00",
+    "seen_at": "2026-04-12T17:02:04.675Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 19:01, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-12T19:03:00",
+    "seen_at": "2026-04-12T17:03:16.252Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:03, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-12T19:03:00",
+    "seen_at": "2026-04-12T17:03:16.252Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:03, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-12T19:09:00",
+    "seen_at": "2026-04-12T17:10:03.570Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:09, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-12T19:09:00",
+    "seen_at": "2026-04-12T17:10:03.570Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:09, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "48588",
+    "event_time": "2026-04-12T19:09:00",
+    "seen_at": "2026-04-12T17:10:27.468Z",
+    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 19:09, kolodvor NOVI MAROF"
   }
 ]
