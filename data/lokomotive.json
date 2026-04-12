@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89154",
-    "event_time": "2026-04-09T10:23:00",
-    "seen_at": "2026-04-09T08:25:46.461Z",
-    "raw": "Br. Vlaka 89154 dolazak      09.04.26. 10:23, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "82502",
-    "event_time": "2026-04-09T10:29:00",
-    "seen_at": "2026-04-09T08:29:22.474Z",
-    "raw": "Br. Vlaka 82502 formiran     09.04.26. 10:29, kolodvor VELIKA"
-  },
-  {
     "uic": "997890210013",
     "type": "Dolazak",
     "station": "ŠKRLJEVO",
@@ -12958,5 +12940,14 @@
     "event_time": "2026-04-12T10:17:00",
     "seen_at": "2026-04-12T08:19:40.623Z",
     "raw": "Br. Vlaka 49998 odlazak      12.04.26. 10:17, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "47980",
+    "event_time": "2026-04-12T10:26:00",
+    "seen_at": "2026-04-12T08:27:22.537Z",
+    "raw": "Br. Vlaka 47980 odlazak      12.04.26. 10:26, kolodvor OSIJEK"
   }
 ]
