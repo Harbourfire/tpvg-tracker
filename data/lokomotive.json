@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997890210013",
-    "type": "Dolazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "79911",
-    "event_time": "2026-04-09T10:25:00",
-    "seen_at": "2026-04-09T08:30:11.776Z",
-    "raw": "Br. Vlaka 79911 dolazak      09.04.26. 10:25, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "79911",
-    "event_time": "2026-04-09T10:30:00",
-    "seen_at": "2026-04-09T08:30:48.817Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:30, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-04-09T10:32:00",
-    "seen_at": "2026-04-09T08:34:22.742Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "PLAŠKI",
@@ -12949,5 +12922,32 @@
     "event_time": "2026-04-12T10:26:00",
     "seen_at": "2026-04-12T08:27:22.537Z",
     "raw": "Br. Vlaka 47980 odlazak      12.04.26. 10:26, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:35:00",
+    "seen_at": "2026-04-12T08:37:27.828Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 10:35, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:35:00",
+    "seen_at": "2026-04-12T08:37:27.829Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 10:35, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44997",
+    "event_time": "2026-04-12T10:37:00",
+    "seen_at": "2026-04-12T08:38:15.465Z",
+    "raw": "Br. Vlaka 44997 formiran     12.04.26. 10:37, kolodvor KOTORIBA-GR"
   }
 ]
