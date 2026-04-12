@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-09T08:25:00",
-    "seen_at": "2026-04-09T06:33:57.392Z",
-    "raw": "Br. Vlaka 45105 odlazak      09.04.26. 08:25, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "81154",
-    "event_time": "2026-04-09T08:33:00",
-    "seen_at": "2026-04-09T06:35:32.152Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 08:33, kolodvor SISAK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-04-09T08:34:00",
-    "seen_at": "2026-04-09T06:36:42.911Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "48586",
-    "event_time": "2026-04-09T08:40:00",
-    "seen_at": "2026-04-09T06:41:25.288Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 08:40, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "48586",
-    "event_time": "2026-04-09T08:40:00",
-    "seen_at": "2026-04-09T06:41:25.288Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 08:40, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "PLETERNICA",
@@ -13120,5 +13075,32 @@
     "event_time": "2026-04-12T08:29:00",
     "seen_at": "2026-04-12T06:30:05.172Z",
     "raw": "Br. Vlaka 81161 odlazak      12.04.26. 08:29, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:33:00",
+    "seen_at": "2026-04-12T06:34:14.358Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:33, kolodvor GREDA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:33:00",
+    "seen_at": "2026-04-12T06:34:14.359Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:33, kolodvor GREDA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "81161",
+    "event_time": "2026-04-12T08:36:00",
+    "seen_at": "2026-04-12T06:38:38.824Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 08:36, kolodvor ZAGREB BORONGAJ"
   }
 ]
