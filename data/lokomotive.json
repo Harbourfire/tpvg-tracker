@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "79911",
-    "event_time": "2026-04-09T15:44:00",
-    "seen_at": "2026-04-09T13:45:57.651Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 15:44, kolodvor HORVATI"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "79911",
-    "event_time": "2026-04-09T15:50:00",
-    "seen_at": "2026-04-09T13:50:44.948Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 15:50, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-09T15:52:00",
-    "seen_at": "2026-04-09T13:52:44.251Z",
-    "raw": "Br. Vlaka 63310 formiran     09.04.26. 15:52, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -13345,5 +13318,77 @@
     "event_time": "2026-04-12T14:49:00",
     "seen_at": "2026-04-12T13:45:46.381Z",
     "raw": "Br. Vlaka 63305 formiran     12.04.26. 14:49, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "42786",
+    "event_time": "2026-04-12T15:37:00",
+    "seen_at": "2026-04-12T13:46:22.358Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:37, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-12T14:49:00",
+    "seen_at": "2026-04-12T13:46:22.359Z",
+    "raw": "Br. Vlaka 63305 formiran     12.04.26. 14:49, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81171",
+    "event_time": "2026-04-12T15:35:00",
+    "seen_at": "2026-04-12T13:46:46.222Z",
+    "raw": "Br. Vlaka 81171 dolazak      12.04.26. 15:35, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81171",
+    "event_time": "2026-04-12T15:39:00",
+    "seen_at": "2026-04-12T13:47:09.910Z",
+    "raw": "Br. Vlaka 81171 odlazak      12.04.26. 15:39, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "81171",
+    "event_time": "2026-04-12T15:48:00",
+    "seen_at": "2026-04-12T13:51:09.032Z",
+    "raw": "Br. Vlaka 81171 dolazak      12.04.26. 15:48, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ĐAKOVO",
+    "train_number": null,
+    "event_time": "2026-04-11T21:54:00",
+    "seen_at": "2026-04-12T13:51:32.843Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71808 ĐAKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "ĐAKOVO",
+    "train_number": "89142",
+    "event_time": "2026-04-12T15:03:00",
+    "seen_at": "2026-04-12T13:51:56.457Z",
+    "raw": "Br. Vlaka 89142 promjena sas 12.04.26. 15:03, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-12T15:48:00",
+    "seen_at": "2026-04-12T13:52:20.069Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
   }
 ]
