@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "89150",
-    "event_time": "2026-04-09T06:40:00",
-    "seen_at": "2026-04-09T04:49:39.193Z",
-    "raw": "Br. Vlaka 89150 odlazak      09.04.26. 06:40, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "89150",
-    "event_time": "2026-04-09T06:50:00",
-    "seen_at": "2026-04-09T04:50:27.590Z",
-    "raw": "Br. Vlaka 89150 odlazak      09.04.26. 06:50, kolodvor SESVETE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71201",
-    "event_time": "2026-04-09T06:52:00",
-    "seen_at": "2026-04-09T04:52:50.826Z",
-    "raw": "Br. Vlaka 71201 formiran     09.04.26. 06:52, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82515",
-    "event_time": "2026-04-09T06:29:00",
-    "seen_at": "2026-04-09T04:53:14.519Z",
-    "raw": "Br. Vlaka 82515 promjena sas 09.04.26. 06:29, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -13291,5 +13255,41 @@
     "event_time": "2026-04-12T06:42:00",
     "seen_at": "2026-04-12T04:42:34.660Z",
     "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:42, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "81161",
+    "event_time": "2026-04-12T06:47:00",
+    "seen_at": "2026-04-12T04:47:53.506Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:47, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89157",
+    "event_time": "2026-04-12T06:48:00",
+    "seen_at": "2026-04-12T04:48:40.665Z",
+    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 06:48, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89142",
+    "event_time": "2026-04-11T17:38:00",
+    "seen_at": "2026-04-12T04:52:35.681Z",
+    "raw": "Br. Vlaka 89142 formiran     11.04.26. 17:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "81161",
+    "event_time": "2026-04-12T06:53:00",
+    "seen_at": "2026-04-12T04:53:46.280Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:53, kolodvor KARLOVAC"
   }
 ]
