@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Promjena sastava",
-    "station": "ČAKOVEC",
-    "train_number": "81249",
-    "event_time": "2026-04-09T20:07:00",
-    "seen_at": "2026-04-09T18:30:08.979Z",
-    "raw": "Br. Vlaka 81249 promjena sas 09.04.26. 20:07, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:31:00",
-    "seen_at": "2026-04-09T18:31:19.233Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:31, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44994",
-    "event_time": "2026-04-09T20:31:00",
-    "seen_at": "2026-04-09T18:31:19.233Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 20:31, kolodvor ZABOK"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -13174,5 +13147,14 @@
     "event_time": "2026-04-12T20:26:00",
     "seen_at": "2026-04-12T18:26:40.610Z",
     "raw": "Br. Vlaka 81230 formiran     12.04.26. 20:26, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "69326",
+    "event_time": "2026-04-12T20:34:00",
+    "seen_at": "2026-04-12T18:35:08.271Z",
+    "raw": "Br. Vlaka 69326 odlazak      12.04.26. 20:34, kolodvor SIBINJ"
   }
 ]
