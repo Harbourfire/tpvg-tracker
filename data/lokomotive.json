@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-09T17:54:00",
-    "seen_at": "2026-04-09T15:54:40.301Z",
-    "raw": "Br. Vlaka 63310 odlazak      09.04.26. 17:54, kolodvor BLATA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -13327,5 +13318,59 @@
     "event_time": "2026-04-12T17:45:00",
     "seen_at": "2026-04-12T15:49:35.429Z",
     "raw": "Br. Vlaka 42786 odlazak      12.04.26. 17:45, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-12T17:51:00",
+    "seen_at": "2026-04-12T15:53:50.918Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 17:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-12T17:51:00",
+    "seen_at": "2026-04-12T15:53:50.918Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 17:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44788",
+    "event_time": "2026-04-12T17:48:00",
+    "seen_at": "2026-04-12T15:54:40.398Z",
+    "raw": "Br. Vlaka 44788 dolazak      12.04.26. 17:48, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "69820",
+    "event_time": "2026-04-12T17:58:00",
+    "seen_at": "2026-04-12T15:59:25.902Z",
+    "raw": "Br. Vlaka 69820 dolazak      12.04.26. 17:58, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-12T17:58:00",
+    "seen_at": "2026-04-12T15:59:49.457Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T17:59:00",
+    "seen_at": "2026-04-12T16:01:24.033Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 17:59, kolodvor KOŠKA"
   }
 ]
