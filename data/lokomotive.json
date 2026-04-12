@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "DRIVENIK",
-    "train_number": "79911",
-    "event_time": "2026-04-09T10:59:00",
-    "seen_at": "2026-04-09T09:00:23.399Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:59, kolodvor DRIVENIK"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82507",
-    "event_time": "2026-04-09T11:07:00",
-    "seen_at": "2026-04-09T09:08:24.167Z",
-    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:07, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "FUŽINE",
-    "train_number": "79911",
-    "event_time": "2026-04-09T11:08:00",
-    "seen_at": "2026-04-09T09:08:48.053Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:08, kolodvor FUŽINE"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "BELI MANASTIR",
@@ -12994,5 +12967,41 @@
     "event_time": "2026-04-12T08:39:00",
     "seen_at": "2026-04-12T08:56:24.948Z",
     "raw": "Br. Vlaka 45691 promjena sas 12.04.26. 08:39, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "44697",
+    "event_time": "2026-04-12T10:58:00",
+    "seen_at": "2026-04-12T09:00:56.417Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 10:58, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "44697",
+    "event_time": "2026-04-12T10:58:00",
+    "seen_at": "2026-04-12T09:00:56.417Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 10:58, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44997",
+    "event_time": "2026-04-12T11:00:00",
+    "seen_at": "2026-04-12T09:08:49.932Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:00, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T11:07:00",
+    "seen_at": "2026-04-12T09:09:13.838Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:07, kolodvor KOTORIBA"
   }
 ]
