@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SISAK",
-    "train_number": "81154",
-    "event_time": "2026-04-09T07:43:00",
-    "seen_at": "2026-04-09T05:46:39.755Z",
-    "raw": "Br. Vlaka 81154 dolazak      09.04.26. 07:43, kolodvor SISAK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-09T07:45:00",
-    "seen_at": "2026-04-09T05:46:39.755Z",
-    "raw": "Br. Vlaka 69750 odlazak      09.04.26. 07:45, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-04-09T07:45:00",
-    "seen_at": "2026-04-09T05:47:50.895Z",
-    "raw": "Br. Vlaka 45105 odlazak      09.04.26. 07:45, kolodvor SPAČVA"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89508",
-    "event_time": "2026-04-09T07:35:00",
-    "seen_at": "2026-04-09T05:47:50.896Z",
-    "raw": "Br. Vlaka 89508 odlazak      09.04.26. 07:35, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "71201",
-    "event_time": "2026-04-09T07:45:00",
-    "seen_at": "2026-04-09T05:48:38.057Z",
-    "raw": "Br. Vlaka 71201 odlazak      09.04.26. 07:45, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "MRZLO POLJE",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:48:00",
-    "seen_at": "2026-04-09T05:50:36.978Z",
-    "raw": "Br. Vlaka 48586 dolazak      09.04.26. 07:48, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "MRZLO POLJE",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:48:00",
-    "seen_at": "2026-04-09T05:50:36.978Z",
-    "raw": "Br. Vlaka 48586 dolazak      09.04.26. 07:48, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-09T07:52:00",
-    "seen_at": "2026-04-09T05:52:35.431Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "PLETERNICA",
@@ -13174,5 +13102,14 @@
     "event_time": "2026-04-12T07:38:00",
     "seen_at": "2026-04-12T05:39:54.301Z",
     "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "81161",
+    "event_time": "2026-04-12T07:47:00",
+    "seen_at": "2026-04-12T05:47:42.111Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 07:47, kolodvor JASTREBARSKO"
   }
 ]
