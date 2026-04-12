@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997890210013",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-09T16:02:00",
-    "seen_at": "2026-04-09T14:11:01.402Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-09T16:11:00",
-    "seen_at": "2026-04-09T14:11:48.903Z",
-    "raw": "Br. Vlaka 63310 odlazak      09.04.26. 16:11, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "BRČKO - izvan HŽ",
@@ -13372,5 +13354,23 @@
     "event_time": "2026-04-12T15:58:00",
     "seen_at": "2026-04-12T13:59:37.225Z",
     "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:58, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89142",
+    "event_time": "2026-04-12T16:06:00",
+    "seen_at": "2026-04-12T14:07:20.781Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 16:06, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-09T16:02:00",
+    "seen_at": "2026-04-12T14:11:45.641Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
   }
 ]
