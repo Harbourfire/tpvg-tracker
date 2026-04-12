@@ -1,41 +1,5 @@
 [
   {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "79911",
-    "event_time": "2026-04-09T14:46:00",
-    "seen_at": "2026-04-09T12:48:47.893Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:46, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-04-09T14:29:00",
-    "seen_at": "2026-04-09T12:55:18.946Z",
-    "raw": "Br. Vlaka 49827 odlazak      09.04.26. 14:29, kolodvor ERDUT"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "89154",
-    "event_time": "2026-04-09T14:37:00",
-    "seen_at": "2026-04-09T12:56:06.744Z",
-    "raw": "Br. Vlaka 89154 promjena sas 09.04.26. 14:37, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89154",
-    "event_time": "2026-04-09T14:55:00",
-    "seen_at": "2026-04-09T12:56:30.571Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 14:55, kolodvor ZABOK"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DALJ",
@@ -13336,5 +13300,32 @@
     "event_time": "2026-04-12T14:45:00",
     "seen_at": "2026-04-12T12:45:47.095Z",
     "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:45, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81171",
+    "event_time": "2026-04-12T14:52:00",
+    "seen_at": "2026-04-12T12:54:00.702Z",
+    "raw": "Br. Vlaka 81171 odlazak      12.04.26. 14:52, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89142",
+    "event_time": "2026-04-12T14:55:00",
+    "seen_at": "2026-04-12T12:56:26.549Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:55, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89142",
+    "event_time": "2026-04-12T14:55:00",
+    "seen_at": "2026-04-12T12:56:26.550Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:55, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
