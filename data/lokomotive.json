@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89250",
-    "event_time": "2026-04-09T22:54:00",
-    "seen_at": "2026-04-09T20:55:55.999Z",
-    "raw": "Br. Vlaka 89250 dolazak      09.04.26. 22:54, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81149",
-    "event_time": "2026-04-09T15:54:00",
-    "seen_at": "2026-04-09T20:55:55.999Z",
-    "raw": "Br. Vlaka 81149 promjena sas 09.04.26. 15:54, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44994",
-    "event_time": "2026-04-09T23:01:00",
-    "seen_at": "2026-04-09T21:02:05.102Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 23:01, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
     "train_number": "89250",
@@ -13156,5 +13129,41 @@
     "event_time": "2026-04-12T22:53:00",
     "seen_at": "2026-04-12T20:53:50.878Z",
     "raw": "Br. Vlaka 49997 formiran     12.04.26. 22:53, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81230",
+    "event_time": "2026-04-12T22:58:00",
+    "seen_at": "2026-04-12T20:59:10.168Z",
+    "raw": "Br. Vlaka 81230 dolazak      12.04.26. 22:58, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81230",
+    "event_time": "2026-04-12T22:58:00",
+    "seen_at": "2026-04-12T20:59:10.168Z",
+    "raw": "Br. Vlaka 81230 dolazak      12.04.26. 22:58, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69175",
+    "event_time": "2026-04-12T21:26:00",
+    "seen_at": "2026-04-12T20:59:57.322Z",
+    "raw": "Br. Vlaka 69175 formiran     12.04.26. 21:26, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69175",
+    "event_time": "2026-04-12T21:26:00",
+    "seen_at": "2026-04-12T20:59:57.323Z",
+    "raw": "Br. Vlaka 69175 formiran     12.04.26. 21:26, kolodvor RUDOPOLJE"
   }
 ]
