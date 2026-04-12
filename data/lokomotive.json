@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81154",
-    "event_time": "2026-04-09T05:57:00",
-    "seen_at": "2026-04-09T03:59:04.071Z",
-    "raw": "Br. Vlaka 81154 dolazak      09.04.26. 05:57, kolodvor SUNJA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -13183,5 +13174,50 @@
     "event_time": "2026-04-12T04:20:00",
     "seen_at": "2026-04-12T03:56:05.316Z",
     "raw": "Br. Vlaka 89157 formiran     12.04.26. 04:20, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89922",
+    "event_time": "2026-04-12T05:57:00",
+    "seen_at": "2026-04-12T03:58:13.827Z",
+    "raw": "Br. Vlaka 89922 formiran     12.04.26. 05:57, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "81161",
+    "event_time": "2026-04-12T05:58:00",
+    "seen_at": "2026-04-12T04:03:23.874Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 05:58, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81161",
+    "event_time": "2026-04-12T06:03:00",
+    "seen_at": "2026-04-12T04:03:47.847Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:03, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81163",
+    "event_time": "2026-04-12T05:56:00",
+    "seen_at": "2026-04-12T04:04:59.507Z",
+    "raw": "Br. Vlaka 81163 promjena sas 12.04.26. 05:56, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-12T04:15:00",
+    "seen_at": "2026-04-12T04:06:59.360Z",
+    "raw": "Br. Vlaka 69005 formiran     12.04.26. 04:15, kolodvor OGULIN"
   }
 ]
