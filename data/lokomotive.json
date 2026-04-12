@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82538",
-    "event_time": "2026-04-09T04:41:00",
-    "seen_at": "2026-04-09T02:42:18.615Z",
-    "raw": "Br. Vlaka 82538 odlazak      09.04.26. 04:41, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82538",
-    "event_time": "2026-04-09T04:41:00",
-    "seen_at": "2026-04-09T02:42:18.615Z",
-    "raw": "Br. Vlaka 82538 odlazak      09.04.26. 04:41, kolodvor BLATA"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "81148",
-    "event_time": "2026-04-09T04:33:00",
-    "seen_at": "2026-04-09T02:45:54.672Z",
-    "raw": "Br. Vlaka 81148 dolazak      09.04.26. 04:33, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "81148",
-    "event_time": "2026-04-09T04:37:00",
-    "seen_at": "2026-04-09T02:46:18.184Z",
-    "raw": "Br. Vlaka 81148 odlazak      09.04.26. 04:37, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "PLAŠKI",
     "train_number": "82538",
@@ -13192,5 +13156,68 @@
     "event_time": "2026-04-12T04:37:00",
     "seen_at": "2026-04-12T02:40:00.387Z",
     "raw": "Br. Vlaka 44789 odlazak      12.04.26. 04:37, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44789",
+    "event_time": "2026-04-12T04:41:00",
+    "seen_at": "2026-04-12T02:41:45.488Z",
+    "raw": "Br. Vlaka 44789 dolazak      12.04.26. 04:41, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-12T04:42:00",
+    "seen_at": "2026-04-12T02:46:33.401Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-12T04:42:00",
+    "seen_at": "2026-04-12T02:46:33.401Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-12T04:15:00",
+    "seen_at": "2026-04-12T02:47:45.240Z",
+    "raw": "Br. Vlaka 69006 formiran     12.04.26. 04:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-12T04:15:00",
+    "seen_at": "2026-04-12T02:48:08.987Z",
+    "raw": "Br. Vlaka 69006 formiran     12.04.26. 04:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-11T22:57:00",
+    "seen_at": "2026-04-12T02:48:56.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-11T22:57:00",
+    "seen_at": "2026-04-12T02:48:56.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
