@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-09T10:09:00",
-    "seen_at": "2026-04-09T08:14:05.276Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-09T11:00:00",
-    "seen_at": "2026-04-09T08:14:28.651Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89154",
-    "event_time": "2026-04-09T10:14:00",
-    "seen_at": "2026-04-09T08:14:52.127Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 10:14, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "89157",
-    "event_time": "2026-04-09T10:14:00",
-    "seen_at": "2026-04-09T08:14:52.127Z",
-    "raw": "Br. Vlaka 89157 formiran     09.04.26. 10:14, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "69175",
-    "event_time": "2026-04-09T10:14:00",
-    "seen_at": "2026-04-09T08:16:03.126Z",
-    "raw": "Br. Vlaka 69175 odlazak      09.04.26. 10:14, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "SUŠAK PEĆINE",
-    "train_number": "79911",
-    "event_time": "2026-04-09T10:16:00",
-    "seen_at": "2026-04-09T08:16:26.837Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:16, kolodvor SUŠAK PEĆINE"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
@@ -12985,5 +12931,32 @@
     "event_time": "2026-04-12T10:02:00",
     "seen_at": "2026-04-12T08:03:13.248Z",
     "raw": "Br. Vlaka 89117 odlazak      12.04.26. 10:02, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-09T10:09:00",
+    "seen_at": "2026-04-12T08:14:33.564Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:17:00",
+    "seen_at": "2026-04-12T08:19:16.820Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 10:17, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:17:00",
+    "seen_at": "2026-04-12T08:19:40.623Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 10:17, kolodvor NOVI MAROF"
   }
 ]
