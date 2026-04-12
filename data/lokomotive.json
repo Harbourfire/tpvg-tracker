@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82507",
-    "event_time": "2026-04-09T12:58:00",
-    "seen_at": "2026-04-09T10:59:44.765Z",
-    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 12:58, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "89300",
-    "event_time": "2026-04-09T12:58:00",
-    "seen_at": "2026-04-09T10:59:44.765Z",
-    "raw": "Br. Vlaka 89300 odlazak      09.04.26. 12:58, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -13156,5 +13138,41 @@
     "event_time": "2026-04-12T12:53:00",
     "seen_at": "2026-04-12T10:54:25.396Z",
     "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:53, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T11:12:00",
+    "seen_at": "2026-04-12T11:06:50.036Z",
+    "raw": "Br. Vlaka 89541 dolazak      12.04.26. 11:12, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T12:45:00",
+    "seen_at": "2026-04-12T11:07:37.301Z",
+    "raw": "Br. Vlaka 89541 odlazak      12.04.26. 12:45, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T13:07:00",
+    "seen_at": "2026-04-12T11:07:37.301Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:07, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T13:07:00",
+    "seen_at": "2026-04-12T11:08:00.899Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:07, kolodvor NOVA GRADIŠKA"
   }
 ]
