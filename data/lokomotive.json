@@ -2,33 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44786",
-    "event_time": "2026-04-09T22:08:00",
-    "seen_at": "2026-04-09T20:09:38.996Z",
-    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 22:08, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89250",
-    "event_time": "2026-04-09T22:05:00",
-    "seen_at": "2026-04-09T20:10:49.746Z",
-    "raw": "Br. Vlaka 89250 odlazak      09.04.26. 22:05, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44994",
-    "event_time": "2026-04-09T22:11:00",
-    "seen_at": "2026-04-09T20:15:03.220Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 22:11, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
     "train_number": "44786",
     "event_time": "2026-04-09T22:15:00",
@@ -13174,5 +13147,41 @@
     "event_time": "2026-04-12T20:00:00",
     "seen_at": "2026-04-12T19:54:13.407Z",
     "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-12T22:05:00",
+    "seen_at": "2026-04-12T20:06:08.564Z",
+    "raw": "Br. Vlaka 81230 odlazak      12.04.26. 22:05, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81230",
+    "event_time": "2026-04-12T22:05:00",
+    "seen_at": "2026-04-12T20:06:08.564Z",
+    "raw": "Br. Vlaka 81230 odlazak      12.04.26. 22:05, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "OKUČANI",
+    "train_number": "69327",
+    "event_time": "2026-04-12T21:50:00",
+    "seen_at": "2026-04-12T20:06:32.738Z",
+    "raw": "Br. Vlaka 69327 formiran     12.04.26. 21:50, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "44996",
+    "train_number": null,
+    "event_time": "2026-04-12T20:12:57.878Z",
+    "seen_at": "2026-04-12T20:12:57.878Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44996 44996"
   }
 ]
