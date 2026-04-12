@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-09T11:50:00",
-    "seen_at": "2026-04-09T09:52:29.655Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82502",
-    "event_time": "2026-04-09T11:52:00",
-    "seen_at": "2026-04-09T09:52:52.997Z",
-    "raw": "Br. Vlaka 82502 dolazak      09.04.26. 11:52, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "89156",
-    "event_time": "2026-04-09T06:04:00",
-    "seen_at": "2026-04-09T09:53:16.386Z",
-    "raw": "Br. Vlaka 89156 formiran     09.04.26. 06:04, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82507",
-    "event_time": "2026-04-09T11:53:00",
-    "seen_at": "2026-04-09T09:54:03.848Z",
-    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:53, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "BROD MORAVICE",
-    "train_number": "79911",
-    "event_time": "2026-04-09T11:54:00",
-    "seen_at": "2026-04-09T09:57:46.509Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 11:54, kolodvor BROD MORAVICE"
-  },
-  {
     "uic": "927820440125",
     "type": "Formiran",
     "station": "ZAGREB RESNIK",
@@ -13030,5 +12985,59 @@
     "event_time": "2026-04-12T11:49:00",
     "seen_at": "2026-04-12T09:49:47.865Z",
     "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:49, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T11:49:00",
+    "seen_at": "2026-04-12T09:51:57.727Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 11:49, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T11:49:00",
+    "seen_at": "2026-04-12T09:51:57.728Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 11:49, kolodvor SUNJA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "44697",
+    "event_time": "2026-04-12T11:52:00",
+    "seen_at": "2026-04-12T09:53:09.276Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:52, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "44697",
+    "event_time": "2026-04-12T11:52:00",
+    "seen_at": "2026-04-12T09:53:09.276Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:52, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "44697",
+    "event_time": "2026-04-12T11:59:00",
+    "seen_at": "2026-04-12T10:00:39.622Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:59, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "44697",
+    "event_time": "2026-04-12T11:59:00",
+    "seen_at": "2026-04-12T10:00:39.622Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:59, kolodvor VRHOVINE"
   }
 ]
