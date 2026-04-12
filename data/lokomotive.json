@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-09T21:38:00",
-    "seen_at": "2026-04-09T19:39:52.254Z",
-    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 21:38, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -13210,5 +13201,14 @@
     "event_time": "2026-04-12T21:30:00",
     "seen_at": "2026-04-12T19:33:21.333Z",
     "raw": "Br. Vlaka 48588 odlazak      12.04.26. 21:30, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-12T21:42:00",
+    "seen_at": "2026-04-12T19:42:38.291Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
   }
 ]
