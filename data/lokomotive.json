@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Formiran",
-    "station": "DUGO SELO",
-    "train_number": "89150",
-    "event_time": "2026-04-09T05:52:00",
-    "seen_at": "2026-04-09T03:52:59.770Z",
-    "raw": "Br. Vlaka 89150 formiran     09.04.26. 05:52, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-09T05:52:00",
-    "seen_at": "2026-04-09T03:53:23.196Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-09T05:52:00",
-    "seen_at": "2026-04-09T03:53:23.196Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "48586",
-    "event_time": "2026-04-09T05:37:00",
-    "seen_at": "2026-04-09T03:55:20.446Z",
-    "raw": "Br. Vlaka 48586 formiran     09.04.26. 05:37, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "48586",
-    "event_time": "2026-04-09T05:37:00",
-    "seen_at": "2026-04-09T03:55:20.446Z",
-    "raw": "Br. Vlaka 48586 formiran     09.04.26. 05:37, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "SUNJA",
@@ -13210,5 +13165,23 @@
     "event_time": "2026-04-12T05:41:00",
     "seen_at": "2026-04-12T03:42:37.798Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-12T04:00:00",
+    "seen_at": "2026-04-12T03:55:41.915Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89157",
+    "event_time": "2026-04-12T04:20:00",
+    "seen_at": "2026-04-12T03:56:05.316Z",
+    "raw": "Br. Vlaka 89157 formiran     12.04.26. 04:20, kolodvor VARAŽDIN"
   }
 ]
