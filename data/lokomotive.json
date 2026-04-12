@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89157",
-    "event_time": "2026-04-09T11:42:00",
-    "seen_at": "2026-04-09T09:42:48.244Z",
-    "raw": "Br. Vlaka 89157 odlazak      09.04.26. 11:42, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82507",
-    "event_time": "2026-04-09T11:45:00",
-    "seen_at": "2026-04-09T09:47:08.829Z",
-    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 11:45, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820621104",
     "type": "Rasformiran",
     "station": "OSIJEK DONJI GRAD",
     "train_number": null,
@@ -13039,5 +13021,14 @@
     "event_time": "2026-04-12T11:34:00",
     "seen_at": "2026-04-12T09:38:47.354Z",
     "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:34, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44997",
+    "event_time": "2026-04-12T11:49:00",
+    "seen_at": "2026-04-12T09:49:47.865Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:49, kolodvor ČAKOVEC"
   }
 ]
