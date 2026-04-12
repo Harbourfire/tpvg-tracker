@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44994",
-    "event_time": "2026-04-09T19:44:00",
-    "seen_at": "2026-04-09T17:45:07.808Z",
-    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 19:44, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "49999",
-    "event_time": "2026-04-09T02:47:00",
-    "seen_at": "2026-04-09T17:45:07.809Z",
-    "raw": "Br. Vlaka 49999 promjena sas 09.04.26. 02:47, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44994",
-    "event_time": "2026-04-09T19:44:00",
-    "seen_at": "2026-04-09T17:45:07.809Z",
-    "raw": "Br. Vlaka 44994 dolazak      09.04.26. 19:44, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "49999",
-    "event_time": "2026-04-09T02:47:00",
-    "seen_at": "2026-04-09T17:45:07.809Z",
-    "raw": "Br. Vlaka 49999 promjena sas 09.04.26. 02:47, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "44994",
@@ -13336,5 +13300,14 @@
     "event_time": "2026-04-12T19:38:00",
     "seen_at": "2026-04-12T17:40:04.659Z",
     "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:38, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SLATINA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T19:42:00",
+    "seen_at": "2026-04-12T17:44:38.407Z",
+    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 19:42, kolodvor SLATINA"
   }
 ]
