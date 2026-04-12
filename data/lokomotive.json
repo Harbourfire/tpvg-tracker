@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44786",
-    "event_time": "2026-04-09T18:08:00",
-    "seen_at": "2026-04-09T16:10:48.440Z",
-    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 18:08, kolodvor ZABOK"
-  },
-  {
     "uic": "927820440141",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13372,5 +13363,41 @@
     "event_time": "2026-04-12T17:59:00",
     "seen_at": "2026-04-12T16:01:24.033Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 17:59, kolodvor KOŠKA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "42786",
+    "event_time": "2026-04-12T18:02:00",
+    "seen_at": "2026-04-12T16:03:08.926Z",
+    "raw": "Br. Vlaka 42786 dolazak      12.04.26. 18:02, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-12T18:02:00",
+    "seen_at": "2026-04-12T16:03:57.402Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 18:02, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-12T18:02:00",
+    "seen_at": "2026-04-12T16:03:57.402Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 18:02, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "42786",
+    "event_time": "2026-04-12T18:05:00",
+    "seen_at": "2026-04-12T16:07:09.603Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 18:05, kolodvor ČAKOVEC"
   }
 ]
