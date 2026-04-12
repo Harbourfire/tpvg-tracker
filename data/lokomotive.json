@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81154",
-    "event_time": "2026-04-09T07:33:00",
-    "seen_at": "2026-04-09T05:36:03.863Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 07:33, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:38:00",
-    "seen_at": "2026-04-09T05:38:51.079Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:38, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:38:00",
-    "seen_at": "2026-04-09T05:38:51.079Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:38, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "SISAK",
     "train_number": "81154",
@@ -13183,5 +13156,23 @@
     "event_time": "2026-04-12T07:32:00",
     "seen_at": "2026-04-12T05:32:54.455Z",
     "raw": "Br. Vlaka 81161 odlazak      12.04.26. 07:32, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "49996",
+    "train_number": null,
+    "event_time": "2026-04-12T05:35:55.248Z",
+    "seen_at": "2026-04-12T05:35:55.248Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-12T07:38:00",
+    "seen_at": "2026-04-12T05:39:54.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
   }
 ]
