@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82277",
-    "event_time": "2026-04-10T00:43:00",
-    "seen_at": "2026-04-09T22:44:12.181Z",
-    "raw": "Br. Vlaka 82277 odlazak      10.04.26. 00:43, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -13057,5 +13048,59 @@
     "event_time": "2026-04-13T00:34:00",
     "seen_at": "2026-04-12T22:36:11.329Z",
     "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:34, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "89101",
+    "event_time": "2026-04-13T00:43:00",
+    "seen_at": "2026-04-12T22:43:37.138Z",
+    "raw": "Br. Vlaka 89101 formiran     13.04.26. 00:43, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89101",
+    "event_time": "2026-04-13T00:35:00",
+    "seen_at": "2026-04-12T22:44:25.074Z",
+    "raw": "Br. Vlaka 89101 odlazak      13.04.26. 00:35, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "89401",
+    "event_time": "2026-04-13T00:45:00",
+    "seen_at": "2026-04-12T22:46:24.794Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:45, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-13T00:46:00",
+    "seen_at": "2026-04-12T22:47:12.875Z",
+    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 00:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-13T00:46:00",
+    "seen_at": "2026-04-12T22:47:12.875Z",
+    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 00:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-13T00:46:00",
+    "seen_at": "2026-04-12T22:48:49.433Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
