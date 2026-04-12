@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82515",
-    "event_time": "2026-04-09T06:20:00",
-    "seen_at": "2026-04-09T04:20:41.698Z",
-    "raw": "Br. Vlaka 82515 odlazak      09.04.26. 06:20, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -13255,5 +13246,23 @@
     "event_time": "2026-04-12T06:11:00",
     "seen_at": "2026-04-12T04:11:41.170Z",
     "raw": "Br. Vlaka 81163 odlazak      12.04.26. 06:11, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "81161",
+    "event_time": "2026-04-12T06:15:00",
+    "seen_at": "2026-04-12T04:25:28.701Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:15, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "81161",
+    "event_time": "2026-04-12T06:25:00",
+    "seen_at": "2026-04-12T04:25:52.579Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:25, kolodvor GENERALSKI STOL"
   }
 ]
