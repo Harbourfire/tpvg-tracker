@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Rasformiran",
-    "station": "PREČEC stajalište",
-    "train_number": null,
-    "event_time": "2026-04-09T04:53:00",
-    "seen_at": "2026-04-09T03:11:35.189Z",
-    "raw": "Trenutna pozicija je u kolodvoru 92515 92515"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89788",
-    "event_time": "2026-04-09T05:14:00",
-    "seen_at": "2026-04-09T03:17:30.163Z",
-    "raw": "Br. Vlaka 89788 dolazak      09.04.26. 05:14, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-09T05:14:00",
-    "seen_at": "2026-04-09T03:17:53.616Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -13201,5 +13174,59 @@
     "event_time": "2026-04-12T05:04:00",
     "seen_at": "2026-04-12T03:05:26.475Z",
     "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:04, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "82323",
+    "event_time": "2026-04-12T05:11:00",
+    "seen_at": "2026-04-12T03:11:52.408Z",
+    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:11, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-12T05:07:00",
+    "seen_at": "2026-04-12T03:15:00.253Z",
+    "raw": "Br. Vlaka 69006 odlazak      12.04.26. 05:07, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-12T05:07:00",
+    "seen_at": "2026-04-12T03:15:00.253Z",
+    "raw": "Br. Vlaka 69006 odlazak      12.04.26. 05:07, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-12T05:13:00",
+    "seen_at": "2026-04-12T03:15:23.671Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-12T05:13:00",
+    "seen_at": "2026-04-12T03:15:23.671Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "82323",
+    "event_time": "2026-04-12T05:17:00",
+    "seen_at": "2026-04-12T03:17:20.777Z",
+    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:17, kolodvor ZAGREB GL. KOL."
   }
 ]
