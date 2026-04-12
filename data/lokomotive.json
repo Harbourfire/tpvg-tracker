@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89753",
-    "event_time": "2026-04-09T12:00:00",
-    "seen_at": "2026-04-09T10:01:37.467Z",
-    "raw": "Br. Vlaka 89753 formiran     09.04.26. 12:00, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "MORAVICE",
-    "train_number": "79911",
-    "event_time": "2026-04-09T12:02:00",
-    "seen_at": "2026-04-09T10:02:25.275Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 12:02, kolodvor MORAVICE"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "DRENOVCI",
-    "train_number": "89300",
-    "event_time": "2026-04-09T12:01:00",
-    "seen_at": "2026-04-09T10:02:49.373Z",
-    "raw": "Br. Vlaka 89300 formiran     09.04.26. 12:01, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82507",
-    "event_time": "2026-04-09T12:08:00",
-    "seen_at": "2026-04-09T10:09:29.311Z",
-    "raw": "Br. Vlaka 82507 dolazak      09.04.26. 12:08, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "VRBOVSKO",
-    "train_number": "79911",
-    "event_time": "2026-04-09T12:10:00",
-    "seen_at": "2026-04-09T10:10:40.181Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 12:10, kolodvor VRBOVSKO"
-  },
-  {
     "uic": "997890210013",
     "type": "Odlazak",
     "station": "GOMIRJE",
@@ -13039,5 +12994,32 @@
     "event_time": "2026-04-12T11:59:00",
     "seen_at": "2026-04-12T10:00:39.622Z",
     "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:59, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-12T12:04:00",
+    "seen_at": "2026-04-12T10:06:53.242Z",
+    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 12:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-12T12:04:00",
+    "seen_at": "2026-04-12T10:08:53.581Z",
+    "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 12:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-12T12:04:00",
+    "seen_at": "2026-04-12T10:08:53.581Z",
+    "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 12:04, kolodvor VARAŽDIN"
   }
 ]
