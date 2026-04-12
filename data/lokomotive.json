@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81154",
-    "event_time": "2026-04-09T02:23:00",
-    "seen_at": "2026-04-09T00:24:06.768Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 02:23, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "47980",
-    "event_time": "2026-04-09T02:25:00",
-    "seen_at": "2026-04-09T00:25:54.581Z",
-    "raw": "Br. Vlaka 47980 odlazak      09.04.26. 02:25, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -12958,5 +12940,50 @@
     "event_time": "2026-04-01T10:10:00",
     "seen_at": "2026-04-12T00:20:57.083Z",
     "raw": "Trenutna pozicija je u kolodvoru 76106 PERUŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89151",
+    "event_time": "2026-04-12T02:24:00",
+    "seen_at": "2026-04-12T00:28:44.157Z",
+    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:24, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89151",
+    "event_time": "2026-04-12T02:27:00",
+    "seen_at": "2026-04-12T00:29:07.873Z",
+    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:27, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "89190",
+    "event_time": "2026-04-12T02:27:00",
+    "seen_at": "2026-04-12T00:29:07.873Z",
+    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 02:27, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "49996",
+    "train_number": null,
+    "event_time": "2026-04-12T00:29:55.186Z",
+    "seen_at": "2026-04-12T00:29:55.186Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89151",
+    "event_time": "2026-04-12T02:32:00",
+    "seen_at": "2026-04-12T00:33:05.190Z",
+    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:32, kolodvor ZAGREB ZAP. KOL."
   }
 ]
