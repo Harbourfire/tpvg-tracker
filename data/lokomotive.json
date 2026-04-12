@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-09T16:59:00",
-    "seen_at": "2026-04-09T15:01:43.149Z",
-    "raw": "Br. Vlaka 63310 dolazak      09.04.26. 16:59, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -13345,5 +13336,32 @@
     "event_time": "2026-04-12T16:49:00",
     "seen_at": "2026-04-12T14:50:12.720Z",
     "raw": "Br. Vlaka 63305 dolazak      12.04.26. 16:49, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-12T16:49:00",
+    "seen_at": "2026-04-12T14:54:23.202Z",
+    "raw": "Br. Vlaka 63305 promjena sas 12.04.26. 16:49, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-12T16:49:00",
+    "seen_at": "2026-04-12T14:54:23.202Z",
+    "raw": "Br. Vlaka 63305 promjena sas 12.04.26. 16:49, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "JOSIPOVAC",
+    "train_number": "89142",
+    "event_time": "2026-04-12T16:50:00",
+    "seen_at": "2026-04-12T14:56:22.417Z",
+    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 16:50, kolodvor JOSIPOVAC"
   }
 ]
