@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-09T20:24:00",
-    "seen_at": "2026-04-09T23:00:49.940Z",
-    "raw": "Br. Vlaka 61004 promjena sas 09.04.26. 20:24, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81249",
-    "event_time": "2026-04-10T01:08:00",
-    "seen_at": "2026-04-09T23:09:05.032Z",
-    "raw": "Br. Vlaka 81249 odlazak      10.04.26. 01:08, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -13066,5 +13048,32 @@
     "event_time": "2026-04-13T00:57:00",
     "seen_at": "2026-04-12T22:58:12.025Z",
     "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:57, kolodvor NAŠICE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-04-13T01:03:00",
+    "seen_at": "2026-04-12T23:04:14.882Z",
+    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 01:03, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-04-13T01:03:00",
+    "seen_at": "2026-04-12T23:04:14.882Z",
+    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 01:03, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89119",
+    "event_time": "2026-04-13T01:06:00",
+    "seen_at": "2026-04-12T23:06:59.421Z",
+    "raw": "Br. Vlaka 89119 odlazak      13.04.26. 01:06, kolodvor VARAŽDIN"
   }
 ]
