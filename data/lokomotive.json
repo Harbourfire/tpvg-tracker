@@ -2,42 +2,6 @@
   {
     "uic": "927820620189",
     "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82502",
-    "event_time": "2026-04-09T13:06:00",
-    "seen_at": "2026-04-09T11:09:53.215Z",
-    "raw": "Br. Vlaka 82502 odlazak      09.04.26. 13:06, kolodvor POŽEGA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-09T13:10:00",
-    "seen_at": "2026-04-09T11:11:51.269Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "47980",
-    "event_time": "2026-04-09T03:13:00",
-    "seen_at": "2026-04-09T11:15:00.710Z",
-    "raw": "Br. Vlaka 47980 promjena sas 09.04.26. 03:13, kolodvor OSIJEK"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "89300",
-    "event_time": "2026-04-09T13:12:00",
-    "seen_at": "2026-04-09T11:16:54.790Z",
-    "raw": "Br. Vlaka 89300 odlazak      09.04.26. 13:12, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
     "train_number": "82502",
     "event_time": "2026-04-09T13:18:00",
@@ -13174,5 +13138,23 @@
     "event_time": "2026-04-12T13:07:00",
     "seen_at": "2026-04-12T11:08:00.899Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:07, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81234",
+    "event_time": "2026-04-12T13:09:00",
+    "seen_at": "2026-04-12T11:10:06.928Z",
+    "raw": "Br. Vlaka 81234 formiran     12.04.26. 13:09, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81234",
+    "event_time": "2026-04-12T13:09:00",
+    "seen_at": "2026-04-12T11:10:06.929Z",
+    "raw": "Br. Vlaka 81234 formiran     12.04.26. 13:09, kolodvor GOSPIĆ"
   }
 ]
