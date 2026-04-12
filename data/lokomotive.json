@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82294",
-    "event_time": "2026-04-09T23:22:00",
-    "seen_at": "2026-04-09T21:24:18.588Z",
-    "raw": "Br. Vlaka 82294 odlazak      09.04.26. 23:22, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89250",
-    "event_time": "2026-04-09T23:26:00",
-    "seen_at": "2026-04-09T21:27:27.960Z",
-    "raw": "Br. Vlaka 89250 odlazak      09.04.26. 23:26, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -13147,5 +13129,32 @@
     "event_time": "2026-04-12T23:18:00",
     "seen_at": "2026-04-12T21:19:01.318Z",
     "raw": "Br. Vlaka 69175 odlazak      12.04.26. 23:18, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "49997",
+    "event_time": "2026-04-12T23:22:00",
+    "seen_at": "2026-04-12T21:27:04.897Z",
+    "raw": "Br. Vlaka 49997 dolazak      12.04.26. 23:22, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "49997",
+    "event_time": "2026-04-12T23:23:00",
+    "seen_at": "2026-04-12T21:28:15.432Z",
+    "raw": "Br. Vlaka 49997 odlazak      12.04.26. 23:23, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "69327",
+    "event_time": "2026-04-12T23:29:00",
+    "seen_at": "2026-04-12T21:31:24.209Z",
+    "raw": "Br. Vlaka 69327 odlazak      12.04.26. 23:29, kolodvor SIBINJ"
   }
 ]
