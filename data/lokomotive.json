@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "89508",
-    "event_time": "2026-04-09T08:25:00",
-    "seen_at": "2026-04-09T06:26:41.028Z",
-    "raw": "Br. Vlaka 89508 odlazak      09.04.26. 08:25, kolodvor SPAČVA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "48586",
-    "event_time": "2026-04-09T08:26:00",
-    "seen_at": "2026-04-09T06:27:28.116Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 08:26, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "48586",
-    "event_time": "2026-04-09T08:26:00",
-    "seen_at": "2026-04-09T06:27:28.116Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 08:26, kolodvor KARLOVAC"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "DRENOVCI",
@@ -13102,5 +13075,50 @@
     "event_time": "2026-04-12T08:17:00",
     "seen_at": "2026-04-12T06:17:54.280Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:17, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:26:00",
+    "seen_at": "2026-04-12T06:26:30.032Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:26, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:26:00",
+    "seen_at": "2026-04-12T06:26:30.033Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:26, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-12T08:19:00",
+    "seen_at": "2026-04-12T06:27:17.568Z",
+    "raw": "Br. Vlaka 49998 promjena sas 12.04.26. 08:19, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-12T08:19:00",
+    "seen_at": "2026-04-12T06:27:42.381Z",
+    "raw": "Br. Vlaka 49998 promjena sas 12.04.26. 08:19, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "81161",
+    "event_time": "2026-04-12T08:29:00",
+    "seen_at": "2026-04-12T06:30:05.172Z",
+    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 08:29, kolodvor ZAGREB GL. KOL."
   }
 ]
