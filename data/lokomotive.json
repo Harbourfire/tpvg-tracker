@@ -1,42 +1,6 @@
 [
   {
     "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "71200",
-    "event_time": "2026-04-09T10:01:00",
-    "seen_at": "2026-04-09T08:03:28.462Z",
-    "raw": "Br. Vlaka 71200 odlazak      09.04.26. 10:01, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89154",
-    "event_time": "2026-04-09T10:04:00",
-    "seen_at": "2026-04-09T08:07:55.683Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 10:04, kolodvor 72304"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-09T10:07:00",
-    "seen_at": "2026-04-09T08:08:19.746Z",
-    "raw": "Br. Vlaka 69175 odlazak      09.04.26. 10:07, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "RIJEKA",
-    "train_number": "79911",
-    "event_time": "2026-04-09T10:10:00",
-    "seen_at": "2026-04-09T08:10:19.640Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 10:10, kolodvor RIJEKA"
-  },
-  {
-    "uic": "987891162040",
     "type": "Rasformiran",
     "station": "VINKOVCI",
     "train_number": null,
@@ -13003,5 +12967,23 @@
     "event_time": "2026-04-12T09:57:00",
     "seen_at": "2026-04-12T08:00:11.809Z",
     "raw": "Br. Vlaka 89142 dolazak      12.04.26. 09:57, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "47980",
+    "event_time": "2026-04-12T09:59:00",
+    "seen_at": "2026-04-12T08:01:36.520Z",
+    "raw": "Br. Vlaka 47980 dolazak      12.04.26. 09:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89117",
+    "event_time": "2026-04-12T10:02:00",
+    "seen_at": "2026-04-12T08:03:13.248Z",
+    "raw": "Br. Vlaka 89117 odlazak      12.04.26. 10:02, kolodvor OSIJEK"
   }
 ]
