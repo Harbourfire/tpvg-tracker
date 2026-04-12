@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82502",
-    "event_time": "2026-04-09T13:28:00",
-    "seen_at": "2026-04-09T11:29:36.104Z",
-    "raw": "Br. Vlaka 82502 odlazak      09.04.26. 13:28, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "44994",
-    "event_time": "2026-04-09T12:02:00",
-    "seen_at": "2026-04-09T11:31:59.088Z",
-    "raw": "Br. Vlaka 44994 formiran     09.04.26. 12:02, kolodvor 72303"
-  },
-  {
     "uic": "997890210013",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -13165,5 +13147,86 @@
     "event_time": "2026-04-12T13:19:00",
     "seen_at": "2026-04-12T11:20:37.961Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:19, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T13:30:00",
+    "seen_at": "2026-04-12T11:30:33.514Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:30, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T13:30:00",
+    "seen_at": "2026-04-12T11:30:33.515Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:30, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T13:21:00",
+    "seen_at": "2026-04-12T11:32:09.202Z",
+    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 13:21, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T13:21:00",
+    "seen_at": "2026-04-12T11:32:09.203Z",
+    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 13:21, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "BUDINŠĆINA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T13:21:00",
+    "seen_at": "2026-04-12T11:32:33.146Z",
+    "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 13:21, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "BUDINŠĆINA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T13:21:00",
+    "seen_at": "2026-04-12T11:32:33.146Z",
+    "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 13:21, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "BUDINŠĆINA",
+    "train_number": null,
+    "event_time": "2026-04-12T13:14:00",
+    "seen_at": "2026-04-12T11:34:33.046Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74409 BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T13:26:00",
+    "seen_at": "2026-04-12T11:36:32.535Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 13:26, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "BUDINŠĆINA",
+    "train_number": "89110",
+    "event_time": "2026-04-12T11:51:00",
+    "seen_at": "2026-04-12T11:36:56.249Z",
+    "raw": "Br. Vlaka 89110 formiran     12.04.26. 11:51, kolodvor BUDINŠĆINA"
   }
 ]
