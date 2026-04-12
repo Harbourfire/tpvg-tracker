@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81154",
-    "event_time": "2026-04-09T03:02:00",
-    "seen_at": "2026-04-09T01:03:23.181Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 03:02, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82538",
-    "event_time": "2026-04-09T03:00:00",
-    "seen_at": "2026-04-09T01:03:23.182Z",
-    "raw": "Br. Vlaka 82538 odlazak      09.04.26. 03:00, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82538",
-    "event_time": "2026-04-09T03:00:00",
-    "seen_at": "2026-04-09T01:03:23.182Z",
-    "raw": "Br. Vlaka 82538 odlazak      09.04.26. 03:00, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-08T23:30:00",
-    "seen_at": "2026-04-09T01:07:21.460Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -13093,5 +13057,50 @@
     "event_time": "2026-04-11T03:14:00",
     "seen_at": "2026-04-12T01:01:59.980Z",
     "raw": "Br. Vlaka 49999 promjena sas 11.04.26. 03:14, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "89190",
+    "event_time": "2026-04-12T03:02:00",
+    "seen_at": "2026-04-12T01:03:50.410Z",
+    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 03:02, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-12T03:07:00",
+    "seen_at": "2026-04-12T01:12:09.052Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-12T03:11:00",
+    "seen_at": "2026-04-12T01:12:09.052Z",
+    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 03:11, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-12T03:11:00",
+    "seen_at": "2026-04-12T01:12:09.052Z",
+    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 03:11, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "89190",
+    "event_time": "2026-04-12T03:11:00",
+    "seen_at": "2026-04-12T01:12:32.630Z",
+    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 03:11, kolodvor RUDOPOLJE"
   }
 ]
