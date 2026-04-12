@@ -1,105 +1,6 @@
 [
   {
     "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69852",
-    "event_time": "2026-04-09T08:38:00",
-    "seen_at": "2026-04-09T07:23:06.448Z",
-    "raw": "Br. Vlaka 69852 odlazak      09.04.26. 08:38, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "48586",
-    "event_time": "2026-04-09T09:21:00",
-    "seen_at": "2026-04-09T07:23:06.448Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 09:21, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "48586",
-    "event_time": "2026-04-09T09:21:00",
-    "seen_at": "2026-04-09T07:23:06.448Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 09:21, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "47982",
-    "event_time": "2026-04-09T09:25:00",
-    "seen_at": "2026-04-09T07:26:40.984Z",
-    "raw": "Br. Vlaka 47982 dolazak      09.04.26. 09:25, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-08T20:40:00",
-    "seen_at": "2026-04-09T07:27:27.970Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89154",
-    "event_time": "2026-04-09T07:20:00",
-    "seen_at": "2026-04-09T07:28:15.459Z",
-    "raw": "Br. Vlaka 89154 formiran     09.04.26. 07:20, kolodvor 72303"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-09T12:00:00",
-    "seen_at": "2026-04-09T07:30:14.288Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-09T09:30:00",
-    "seen_at": "2026-04-09T07:30:38.186Z",
-    "raw": "Br. Vlaka 69175 formiran     09.04.26. 09:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Formiran",
-    "station": "RIJEKA",
-    "train_number": "79911",
-    "event_time": "2026-04-09T09:27:00",
-    "seen_at": "2026-04-09T07:30:38.186Z",
-    "raw": "Br. Vlaka 79911 formiran     09.04.26. 09:27, kolodvor RIJEKA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69852",
-    "event_time": "2026-04-09T08:57:00",
-    "seen_at": "2026-04-09T07:31:01.918Z",
-    "raw": "Br. Vlaka 69852 odlazak      09.04.26. 08:57, kolodvor DALJ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "89157",
-    "event_time": "2026-04-09T08:56:00",
-    "seen_at": "2026-04-09T07:31:01.918Z",
-    "raw": "Br. Vlaka 89157 formiran     09.04.26. 08:56, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
     "type": "Dolazak",
     "station": "ERDUT",
     "train_number": "69852",
@@ -13075,5 +12976,23 @@
     "event_time": "2026-04-12T09:12:00",
     "seen_at": "2026-04-12T07:21:05.175Z",
     "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:12, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "49998",
+    "event_time": "2026-04-12T09:24:00",
+    "seen_at": "2026-04-12T07:26:54.660Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:24, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "49998",
+    "event_time": "2026-04-12T09:24:00",
+    "seen_at": "2026-04-12T07:26:54.661Z",
+    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:24, kolodvor BEDEKOVČINA"
   }
 ]
