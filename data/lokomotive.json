@@ -1,15 +1,6 @@
 [
   {
     "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "79911",
-    "event_time": "2026-04-09T13:41:00",
-    "seen_at": "2026-04-09T11:42:52.558Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 13:41, kolodvor OGULIN"
-  },
-  {
-    "uic": "997890210013",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "79911",
@@ -13228,5 +13219,41 @@
     "event_time": "2026-04-12T11:51:00",
     "seen_at": "2026-04-12T11:36:56.249Z",
     "raw": "Br. Vlaka 89110 formiran     12.04.26. 11:51, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89142",
+    "event_time": "2026-04-12T13:38:00",
+    "seen_at": "2026-04-12T11:39:07.714Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:38, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89142",
+    "event_time": "2026-04-12T13:38:00",
+    "seen_at": "2026-04-12T11:39:07.715Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:38, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89110",
+    "event_time": "2026-04-12T13:29:00",
+    "seen_at": "2026-04-12T11:39:32.413Z",
+    "raw": "Br. Vlaka 89110 odlazak      12.04.26. 13:29, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44997",
+    "event_time": "2026-04-12T13:45:00",
+    "seen_at": "2026-04-12T11:46:22.884Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 13:45, kolodvor KONJŠČINA"
   }
 ]
