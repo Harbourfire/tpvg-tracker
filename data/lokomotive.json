@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "89300",
-    "event_time": "2026-04-09T12:40:00",
-    "seen_at": "2026-04-09T10:41:53.588Z",
-    "raw": "Br. Vlaka 89300 odlazak      09.04.26. 12:40, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82507",
-    "event_time": "2026-04-09T12:38:00",
-    "seen_at": "2026-04-09T10:45:05.220Z",
-    "raw": "Br. Vlaka 82507 odlazak      09.04.26. 12:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
@@ -13111,5 +13093,50 @@
     "event_time": "2026-04-12T12:37:00",
     "seen_at": "2026-04-12T10:38:18.028Z",
     "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:37, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "44697",
+    "event_time": "2026-04-12T12:41:00",
+    "seen_at": "2026-04-12T10:42:27.285Z",
+    "raw": "Br. Vlaka 44697 dolazak      12.04.26. 12:41, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "44697",
+    "event_time": "2026-04-12T12:41:00",
+    "seen_at": "2026-04-12T10:42:27.285Z",
+    "raw": "Br. Vlaka 44697 dolazak      12.04.26. 12:41, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-12T12:41:00",
+    "seen_at": "2026-04-12T10:42:51.066Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-12T12:41:00",
+    "seen_at": "2026-04-12T10:42:51.066Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T12:45:00",
+    "seen_at": "2026-04-12T10:47:34.218Z",
+    "raw": "Br. Vlaka 89541 odlazak      12.04.26. 12:45, kolodvor BELI MANASTIR"
   }
 ]
