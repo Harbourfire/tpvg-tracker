@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "PLAŠKI",
-    "train_number": "82507",
-    "event_time": "2026-04-09T09:31:00",
-    "seen_at": "2026-04-09T08:39:54.598Z",
-    "raw": "Br. Vlaka 82507 formiran     09.04.26. 09:31, kolodvor PLAŠKI"
-  },
-  {
     "uic": "997890210013",
     "type": "Odlazak",
     "station": "PLASE",
@@ -12949,5 +12940,41 @@
     "event_time": "2026-04-12T10:37:00",
     "seen_at": "2026-04-12T08:38:15.465Z",
     "raw": "Br. Vlaka 44997 formiran     12.04.26. 10:37, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "47980",
+    "event_time": "2026-04-12T10:42:00",
+    "seen_at": "2026-04-12T08:44:17.227Z",
+    "raw": "Br. Vlaka 47980 dolazak      12.04.26. 10:42, kolodvor DARDA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:44:00",
+    "seen_at": "2026-04-12T08:44:41.781Z",
+    "raw": "Br. Vlaka 49998 dolazak      12.04.26. 10:44, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:44:00",
+    "seen_at": "2026-04-12T08:44:41.782Z",
+    "raw": "Br. Vlaka 49998 dolazak      12.04.26. 10:44, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-12T10:45:00",
+    "seen_at": "2026-04-12T08:45:29.709Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
