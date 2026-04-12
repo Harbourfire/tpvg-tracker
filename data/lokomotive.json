@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "81154",
-    "event_time": "2026-04-09T07:10:00",
-    "seen_at": "2026-04-09T05:19:04.717Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 07:10, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:18:00",
-    "seen_at": "2026-04-09T05:20:38.563Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:18, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:18:00",
-    "seen_at": "2026-04-09T05:20:38.563Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:18, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -13219,5 +13192,32 @@
     "event_time": "2026-04-12T07:02:00",
     "seen_at": "2026-04-12T05:11:33.923Z",
     "raw": "Br. Vlaka 81161 dolazak      12.04.26. 07:02, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89157",
+    "event_time": "2026-04-12T07:15:00",
+    "seen_at": "2026-04-12T05:16:08.073Z",
+    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 07:15, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89157",
+    "event_time": "2026-04-12T07:22:00",
+    "seen_at": "2026-04-12T05:23:17.562Z",
+    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 07:22, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-12T02:22:00",
+    "seen_at": "2026-04-12T05:24:29.980Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
   }
 ]
