@@ -2,15 +2,6 @@
   {
     "uic": "997890210013",
     "type": "Odlazak",
-    "station": "GOMIRJE",
-    "train_number": "79911",
-    "event_time": "2026-04-09T12:15:00",
-    "seen_at": "2026-04-09T10:15:50.039Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 12:15, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
     "station": "OGULINSKI HRELJIN",
     "train_number": "79911",
     "event_time": "2026-04-09T12:22:00",
@@ -13021,5 +13012,68 @@
     "event_time": "2026-04-12T12:04:00",
     "seen_at": "2026-04-12T10:08:53.581Z",
     "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 12:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "44697",
+    "event_time": "2026-04-12T12:13:00",
+    "seen_at": "2026-04-12T10:13:56.311Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 12:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "44697",
+    "event_time": "2026-04-12T12:13:00",
+    "seen_at": "2026-04-12T10:13:56.311Z",
+    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 12:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T12:14:00",
+    "seen_at": "2026-04-12T10:15:08.462Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:14, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89142",
+    "event_time": "2026-04-12T12:14:00",
+    "seen_at": "2026-04-12T10:15:08.463Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:14, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-12T12:17:00",
+    "seen_at": "2026-04-12T10:19:07.193Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:17, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-12T12:17:00",
+    "seen_at": "2026-04-12T10:19:07.193Z",
+    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:17, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T11:12:00",
+    "seen_at": "2026-04-12T10:20:42.729Z",
+    "raw": "Br. Vlaka 89541 promjena sas 12.04.26. 11:12, kolodvor BELI MANASTIR"
   }
 ]
