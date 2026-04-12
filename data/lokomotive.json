@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "89161",
-    "event_time": "2026-04-09T15:55:00",
-    "seen_at": "2026-04-09T13:55:44.953Z",
-    "raw": "Br. Vlaka 89161 dolazak      09.04.26. 15:55, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89154",
-    "event_time": "2026-04-09T15:58:00",
-    "seen_at": "2026-04-09T13:59:41.032Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 15:58, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "79911",
-    "event_time": "2026-04-09T16:02:00",
-    "seen_at": "2026-04-09T14:02:51.506Z",
-    "raw": "Br. Vlaka 79911 dolazak      09.04.26. 16:02, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "997890210013",
     "type": "Rasformiran",
     "station": "ZAGREB ZAPADNI",
@@ -13390,5 +13363,14 @@
     "event_time": "2026-04-12T15:48:00",
     "seen_at": "2026-04-12T13:52:20.069Z",
     "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "42786",
+    "event_time": "2026-04-12T15:58:00",
+    "seen_at": "2026-04-12T13:59:37.225Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:58, kolodvor NOVI MAROF"
   }
 ]
