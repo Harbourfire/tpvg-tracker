@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "49827",
-    "event_time": "2026-04-09T15:05:00",
-    "seen_at": "2026-04-09T13:07:07.267Z",
-    "raw": "Br. Vlaka 49827 odlazak      09.04.26. 15:05, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "47980",
-    "event_time": "2026-04-09T14:22:00",
-    "seen_at": "2026-04-09T13:08:18.402Z",
-    "raw": "Br. Vlaka 47980 promjena sas 09.04.26. 14:22, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "89161",
-    "event_time": "2026-04-09T06:03:00",
-    "seen_at": "2026-04-09T13:08:42.138Z",
-    "raw": "Br. Vlaka 89161 formiran     09.04.26. 06:03, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89161",
-    "event_time": "2026-04-09T15:09:00",
-    "seen_at": "2026-04-09T13:10:41.439Z",
-    "raw": "Br. Vlaka 89161 odlazak      09.04.26. 15:09, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "79911",
-    "event_time": "2026-04-09T15:08:00",
-    "seen_at": "2026-04-09T13:11:28.970Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 15:08, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89154",
-    "event_time": "2026-04-09T15:12:00",
-    "seen_at": "2026-04-09T13:13:05.429Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 15:12, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "997894215612",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -13345,5 +13291,50 @@
     "event_time": "2026-04-12T15:03:00",
     "seen_at": "2026-04-12T13:05:20.852Z",
     "raw": "Br. Vlaka 89142 dolazak      12.04.26. 15:03, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "42786",
+    "event_time": "2026-04-12T15:08:00",
+    "seen_at": "2026-04-12T13:09:34.308Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:08, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-04-12T15:06:00",
+    "seen_at": "2026-04-12T13:11:34.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81234",
+    "event_time": "2026-04-12T15:11:00",
+    "seen_at": "2026-04-12T13:11:34.304Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:11, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81234",
+    "event_time": "2026-04-12T15:11:00",
+    "seen_at": "2026-04-12T13:11:34.304Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:11, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "81171",
+    "event_time": "2026-04-12T15:13:00",
+    "seen_at": "2026-04-12T13:15:12.001Z",
+    "raw": "Br. Vlaka 81171 odlazak      12.04.26. 15:13, kolodvor NOVI MAROF"
   }
 ]
