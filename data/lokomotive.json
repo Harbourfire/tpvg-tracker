@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "47982",
-    "event_time": "2026-04-09T08:52:00",
-    "seen_at": "2026-04-09T06:53:06.490Z",
-    "raw": "Br. Vlaka 47982 odlazak      09.04.26. 08:52, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "81154",
-    "event_time": "2026-04-09T08:52:00",
-    "seen_at": "2026-04-09T06:53:55.170Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 08:52, kolodvor LEKENIK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "48586",
-    "event_time": "2026-04-09T08:56:00",
-    "seen_at": "2026-04-09T06:57:08.104Z",
-    "raw": "Br. Vlaka 48586 dolazak      09.04.26. 08:56, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "48586",
-    "event_time": "2026-04-09T08:56:00",
-    "seen_at": "2026-04-09T06:57:08.104Z",
-    "raw": "Br. Vlaka 48586 dolazak      09.04.26. 08:56, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "81154",
-    "event_time": "2026-04-09T09:00:00",
-    "seen_at": "2026-04-09T07:00:19.830Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 09:00, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82515",
-    "event_time": "2026-04-09T09:00:00",
-    "seen_at": "2026-04-09T07:01:09.520Z",
-    "raw": "Br. Vlaka 82515 odlazak      09.04.26. 09:00, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
     "uic": "997894853487",
     "type": "Rasformiran",
     "station": "DRENOVCI",
@@ -13102,5 +13048,41 @@
     "event_time": "2026-04-12T08:46:00",
     "seen_at": "2026-04-12T06:48:49.135Z",
     "raw": "Br. Vlaka 81161 odlazak      12.04.26. 08:46, kolodvor 72302"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-12T08:52:00",
+    "seen_at": "2026-04-12T06:54:09.676Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:55:00",
+    "seen_at": "2026-04-12T06:55:20.241Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:55, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89142",
+    "event_time": "2026-04-12T08:55:00",
+    "seen_at": "2026-04-12T06:55:20.242Z",
+    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:55, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81161",
+    "event_time": "2026-04-12T08:54:00",
+    "seen_at": "2026-04-12T06:56:07.308Z",
+    "raw": "Br. Vlaka 81161 dolazak      12.04.26. 08:54, kolodvor 72303"
   }
 ]
