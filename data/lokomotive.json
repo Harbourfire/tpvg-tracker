@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "DEANOVEC",
-    "train_number": "81148",
-    "event_time": "2026-04-09T04:25:00",
-    "seen_at": "2026-04-09T02:26:33.260Z",
-    "raw": "Br. Vlaka 81148 odlazak      09.04.26. 04:25, kolodvor DEANOVEC"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -13102,5 +13093,86 @@
     "event_time": "2026-04-12T04:18:00",
     "seen_at": "2026-04-12T02:19:35.490Z",
     "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "81171",
+    "event_time": "2026-04-12T04:21:00",
+    "seen_at": "2026-04-12T02:21:45.456Z",
+    "raw": "Br. Vlaka 81171 formiran     12.04.26. 04:21, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-12T04:21:00",
+    "seen_at": "2026-04-12T02:22:57.251Z",
+    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 04:21, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-12T04:21:00",
+    "seen_at": "2026-04-12T02:22:57.251Z",
+    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 04:21, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "81171",
+    "event_time": "2026-04-12T03:32:00",
+    "seen_at": "2026-04-12T02:23:44.666Z",
+    "raw": "Br. Vlaka 81171 odlazak      12.04.26. 03:32, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44789",
+    "event_time": "2026-04-12T04:15:00",
+    "seen_at": "2026-04-12T02:24:31.982Z",
+    "raw": "Br. Vlaka 44789 promjena sas 12.04.26. 04:15, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-11T14:04:00",
+    "seen_at": "2026-04-12T02:24:31.982Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44789",
+    "event_time": "2026-04-12T04:22:00",
+    "seen_at": "2026-04-12T02:24:55.384Z",
+    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 04:22, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44789",
+    "event_time": "2026-04-12T04:27:00",
+    "seen_at": "2026-04-12T02:27:40.077Z",
+    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 04:27, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81171",
+    "event_time": "2026-04-12T03:49:00",
+    "seen_at": "2026-04-12T02:30:48.806Z",
+    "raw": "Br. Vlaka 81171 dolazak      12.04.26. 03:49, kolodvor VARAŽDIN"
   }
 ]
