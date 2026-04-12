@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894215612",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-09T15:15:00",
-    "seen_at": "2026-04-09T13:22:00.449Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "79911",
-    "event_time": "2026-04-09T15:24:00",
-    "seen_at": "2026-04-09T13:26:13.360Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 15:24, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -13336,5 +13318,59 @@
     "event_time": "2026-04-12T15:13:00",
     "seen_at": "2026-04-12T13:15:12.001Z",
     "raw": "Br. Vlaka 81171 odlazak      12.04.26. 15:13, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "42786",
+    "event_time": "2026-04-12T15:17:00",
+    "seen_at": "2026-04-12T13:18:34.892Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:17, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81234",
+    "event_time": "2026-04-12T15:20:00",
+    "seen_at": "2026-04-12T13:22:08.116Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:20, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81234",
+    "event_time": "2026-04-12T15:20:00",
+    "seen_at": "2026-04-12T13:22:08.116Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:20, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-09T15:15:00",
+    "seen_at": "2026-04-12T13:22:31.657Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "42786",
+    "event_time": "2026-04-12T15:24:00",
+    "seen_at": "2026-04-12T13:25:40.530Z",
+    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:24, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "ŽUPANJA",
+    "train_number": "69820",
+    "event_time": "2026-04-12T14:21:00",
+    "seen_at": "2026-04-12T13:26:04.344Z",
+    "raw": "Br. Vlaka 69820 formiran     12.04.26. 14:21, kolodvor ŽUPANJA"
   }
 ]
