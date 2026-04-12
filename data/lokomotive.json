@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "81148",
-    "event_time": "2026-04-09T02:53:00",
-    "seen_at": "2026-04-09T00:53:47.868Z",
-    "raw": "Br. Vlaka 81148 odlazak      09.04.26. 02:53, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "81154",
-    "event_time": "2026-04-09T02:52:00",
-    "seen_at": "2026-04-09T00:53:47.868Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 02:52, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89788",
-    "event_time": "2026-04-08T21:42:00",
-    "seen_at": "2026-04-09T01:02:01.724Z",
-    "raw": "Br. Vlaka 89788 formiran     08.04.26. 21:42, kolodvor 72303"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -13003,5 +12976,122 @@
     "event_time": "2026-04-12T02:49:00",
     "seen_at": "2026-04-12T00:50:54.965Z",
     "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:49, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89151",
+    "event_time": "2026-04-12T02:55:00",
+    "seen_at": "2026-04-12T00:55:58.627Z",
+    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:55, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-12T02:04:00",
+    "seen_at": "2026-04-12T00:56:46.587Z",
+    "raw": "Br. Vlaka 44789 dolazak      12.04.26. 02:04, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "TURČIN",
+    "train_number": "89195",
+    "event_time": "2026-04-12T00:52:00",
+    "seen_at": "2026-04-12T00:57:10.728Z",
+    "raw": "Br. Vlaka 89195 promjena sas 12.04.26. 00:52, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-12T02:04:00",
+    "seen_at": "2026-04-12T00:57:34.674Z",
+    "raw": "Br. Vlaka 44789 promjena sas 12.04.26. 02:04, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "TURČIN",
+    "train_number": null,
+    "event_time": "2026-04-12T04:00:00",
+    "seen_at": "2026-04-12T00:57:34.674Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74414 TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-12T02:04:00",
+    "seen_at": "2026-04-12T00:57:58.671Z",
+    "raw": "Br. Vlaka 44789 promjena sas 12.04.26. 02:04, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-12T02:50:00",
+    "seen_at": "2026-04-12T00:58:22.642Z",
+    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 02:50, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-12T02:50:00",
+    "seen_at": "2026-04-12T00:58:22.642Z",
+    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 02:50, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89151",
+    "event_time": "2026-04-12T02:59:00",
+    "seen_at": "2026-04-12T01:00:47.748Z",
+    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:59, kolodvor 72302"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-10T23:55:00",
+    "seen_at": "2026-04-12T01:01:35.976Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-12T03:00:00",
+    "seen_at": "2026-04-12T01:01:35.977Z",
+    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 03:00, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-12T03:00:00",
+    "seen_at": "2026-04-12T01:01:35.977Z",
+    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 03:00, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "49999",
+    "event_time": "2026-04-11T03:14:00",
+    "seen_at": "2026-04-12T01:01:59.980Z",
+    "raw": "Br. Vlaka 49999 promjena sas 11.04.26. 03:14, kolodvor ČAKOVEC"
   }
 ]
