@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49999",
-    "event_time": "2026-04-09T02:35:00",
-    "seen_at": "2026-04-09T00:37:27.021Z",
-    "raw": "Br. Vlaka 49999 odlazak      09.04.26. 02:35, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49999",
-    "event_time": "2026-04-09T02:35:00",
-    "seen_at": "2026-04-09T00:37:27.022Z",
-    "raw": "Br. Vlaka 49999 odlazak      09.04.26. 02:35, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81154",
-    "event_time": "2026-04-09T02:37:00",
-    "seen_at": "2026-04-09T00:39:03.762Z",
-    "raw": "Br. Vlaka 81154 odlazak      09.04.26. 02:37, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620247",
     "type": "Dolazak",
     "station": "ZABOK",
     "train_number": "49999",
@@ -12985,5 +12958,14 @@
     "event_time": "2026-04-12T02:32:00",
     "seen_at": "2026-04-12T00:33:05.190Z",
     "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:32, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89151",
+    "event_time": "2026-04-12T02:35:00",
+    "seen_at": "2026-04-12T00:39:35.314Z",
+    "raw": "Br. Vlaka 89151 dolazak      12.04.26. 02:35, kolodvor ZAGREB GL. KOL."
   }
 ]
