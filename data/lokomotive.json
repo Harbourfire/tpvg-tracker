@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-09T19:00:00",
-    "seen_at": "2026-04-09T17:34:07.989Z",
-    "raw": "Br. Vlaka 63310 dolazak      09.04.26. 19:00, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44786",
-    "event_time": "2026-04-09T19:32:00",
-    "seen_at": "2026-04-09T17:34:31.754Z",
-    "raw": "Br. Vlaka 44786 odlazak      09.04.26. 19:32, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-09T19:34:00",
-    "seen_at": "2026-04-09T17:35:19.228Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-09T19:00:00",
-    "seen_at": "2026-04-09T17:36:30.634Z",
-    "raw": "Br. Vlaka 63310 promjena sas 09.04.26. 19:00, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44994",
-    "event_time": "2026-04-09T19:35:00",
-    "seen_at": "2026-04-09T17:37:31.850Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:35, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44994",
-    "event_time": "2026-04-09T19:35:00",
-    "seen_at": "2026-04-09T17:37:31.851Z",
-    "raw": "Br. Vlaka 44994 odlazak      09.04.26. 19:35, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "PODSUSED tvornica",
@@ -13363,5 +13309,32 @@
     "event_time": "2026-04-12T19:21:00",
     "seen_at": "2026-04-12T17:22:46.583Z",
     "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:21, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48588",
+    "event_time": "2026-04-12T19:30:00",
+    "seen_at": "2026-04-12T17:32:34.026Z",
+    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 19:30, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-12T19:38:00",
+    "seen_at": "2026-04-12T17:40:04.659Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:38, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-12T19:38:00",
+    "seen_at": "2026-04-12T17:40:04.659Z",
+    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:38, kolodvor PERUŠIĆ"
   }
 ]
