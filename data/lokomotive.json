@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-09T22:28:00",
-    "seen_at": "2026-04-09T20:29:03.706Z",
-    "raw": "Br. Vlaka 44786 dolazak      09.04.26. 22:28, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89250",
-    "event_time": "2026-04-09T22:31:00",
-    "seen_at": "2026-04-09T20:32:49.733Z",
-    "raw": "Br. Vlaka 89250 odlazak      09.04.26. 22:31, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -13174,5 +13156,23 @@
     "event_time": "2026-04-12T22:21:00",
     "seen_at": "2026-04-12T20:21:57.628Z",
     "raw": "Br. Vlaka 69327 odlazak      12.04.26. 22:21, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "89401",
+    "event_time": "2026-04-12T22:23:00",
+    "seen_at": "2026-04-12T20:26:57.916Z",
+    "raw": "Br. Vlaka 89401 odlazak      12.04.26. 22:23, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PČELIĆ",
+    "train_number": "89401",
+    "event_time": "2026-04-12T22:27:00",
+    "seen_at": "2026-04-12T20:27:45.989Z",
+    "raw": "Br. Vlaka 89401 odlazak      12.04.26. 22:27, kolodvor PČELIĆ"
   }
 ]
