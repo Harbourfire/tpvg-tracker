@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81249",
-    "event_time": "2026-04-10T00:26:00",
-    "seen_at": "2026-04-09T22:28:23.773Z",
-    "raw": "Br. Vlaka 81249 odlazak      10.04.26. 00:26, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47563",
-    "event_time": "2026-04-09T13:30:00",
-    "seen_at": "2026-04-09T22:29:34.212Z",
-    "raw": "Br. Vlaka 47563 formiran     09.04.26. 13:30, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "43995",
-    "event_time": "2026-04-10T00:27:00",
-    "seen_at": "2026-04-09T22:29:34.212Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 00:27, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Formiran",
     "station": "VARAŽDIN",
@@ -13075,5 +13048,14 @@
     "event_time": "2026-04-13T00:09:00",
     "seen_at": "2026-04-12T22:09:37.998Z",
     "raw": "Br. Vlaka 63306 formiran     13.04.26. 00:09, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89401",
+    "event_time": "2026-04-13T00:27:00",
+    "seen_at": "2026-04-12T22:29:39.002Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:27, kolodvor ČAČINCI"
   }
 ]
