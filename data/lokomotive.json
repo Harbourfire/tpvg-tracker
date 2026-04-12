@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "81249",
-    "event_time": "2026-04-10T00:50:00",
-    "seen_at": "2026-04-09T22:51:28.382Z",
-    "raw": "Br. Vlaka 81249 odlazak      10.04.26. 00:50, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82277",
-    "event_time": "2026-04-10T00:51:00",
-    "seen_at": "2026-04-09T22:52:39.357Z",
-    "raw": "Br. Vlaka 82277 odlazak      10.04.26. 00:51, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89763",
-    "event_time": "2026-04-10T00:51:00",
-    "seen_at": "2026-04-09T22:54:15.034Z",
-    "raw": "Br. Vlaka 89763 dolazak      10.04.26. 00:51, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-08T22:30:00",
-    "seen_at": "2026-04-09T22:59:37.204Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-09T20:24:00",
-    "seen_at": "2026-04-09T22:59:37.204Z",
-    "raw": "Br. Vlaka 61004 promjena sas 09.04.26. 20:24, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81249",
-    "event_time": "2026-04-10T00:59:00",
-    "seen_at": "2026-04-09T23:00:01.600Z",
-    "raw": "Br. Vlaka 81249 odlazak      10.04.26. 00:59, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "43995",
-    "event_time": "2026-04-10T00:57:00",
-    "seen_at": "2026-04-09T23:00:25.416Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 00:57, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -13102,5 +13039,32 @@
     "event_time": "2026-04-13T00:46:00",
     "seen_at": "2026-04-12T22:48:49.433Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89119",
+    "event_time": "2026-04-13T00:43:00",
+    "seen_at": "2026-04-12T22:51:26.771Z",
+    "raw": "Br. Vlaka 89119 formiran     13.04.26. 00:43, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49998",
+    "event_time": "2026-04-12T10:44:00",
+    "seen_at": "2026-04-12T22:52:14.297Z",
+    "raw": "Br. Vlaka 49998 promjena sas 12.04.26. 10:44, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "89401",
+    "event_time": "2026-04-13T00:57:00",
+    "seen_at": "2026-04-12T22:58:12.025Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:57, kolodvor NAŠICE"
   }
 ]
