@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89150",
-    "event_time": "2026-04-09T07:07:00",
-    "seen_at": "2026-04-09T05:07:26.677Z",
-    "raw": "Br. Vlaka 89150 dolazak      09.04.26. 07:07, kolodvor 72303"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-09T07:07:00",
-    "seen_at": "2026-04-09T05:07:50.320Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:07:00",
-    "seen_at": "2026-04-09T05:09:48.527Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:07, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "48586",
-    "event_time": "2026-04-09T07:07:00",
-    "seen_at": "2026-04-09T05:09:48.527Z",
-    "raw": "Br. Vlaka 48586 odlazak      09.04.26. 07:07, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-09T07:10:00",
-    "seen_at": "2026-04-09T05:11:22.958Z",
-    "raw": "Br. Vlaka 45105 odlazak      09.04.26. 07:10, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-09T07:11:00",
-    "seen_at": "2026-04-09T05:11:46.963Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "SUNJA",
@@ -13237,5 +13183,41 @@
     "event_time": "2026-04-12T07:02:00",
     "seen_at": "2026-04-12T05:04:14.936Z",
     "raw": "Br. Vlaka 81163 dolazak      12.04.26. 07:02, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-09T07:07:00",
+    "seen_at": "2026-04-12T05:08:25.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89157",
+    "event_time": "2026-04-12T07:08:00",
+    "seen_at": "2026-04-12T05:09:12.938Z",
+    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 07:08, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89920",
+    "event_time": "2026-04-12T07:10:00",
+    "seen_at": "2026-04-12T05:10:46.879Z",
+    "raw": "Br. Vlaka 89920 odlazak      12.04.26. 07:10, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "81161",
+    "event_time": "2026-04-12T07:02:00",
+    "seen_at": "2026-04-12T05:11:33.923Z",
+    "raw": "Br. Vlaka 81161 dolazak      12.04.26. 07:02, kolodvor DRAGANIĆI"
   }
 ]
