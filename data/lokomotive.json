@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89154",
-    "event_time": "2026-04-09T14:29:00",
-    "seen_at": "2026-04-09T12:29:42.797Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 14:29, kolodvor LUKA"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "79911",
-    "event_time": "2026-04-09T14:27:00",
-    "seen_at": "2026-04-09T12:29:42.797Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:27, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89154",
-    "event_time": "2026-04-09T14:33:00",
-    "seen_at": "2026-04-09T12:33:39.515Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 14:33, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "ZABOK",
     "train_number": "89154",
@@ -13336,5 +13309,23 @@
     "event_time": "2026-04-12T03:49:00",
     "seen_at": "2026-04-12T12:27:28.161Z",
     "raw": "Br. Vlaka 81171 promjena sas 12.04.26. 03:49, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81234",
+    "event_time": "2026-04-12T14:34:00",
+    "seen_at": "2026-04-12T12:35:17.459Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:34, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81234",
+    "event_time": "2026-04-12T14:34:00",
+    "seen_at": "2026-04-12T12:35:17.459Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:34, kolodvor VRHOVINE"
   }
 ]
