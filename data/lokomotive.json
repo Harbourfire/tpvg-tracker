@@ -2,33 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89154",
-    "event_time": "2026-04-09T14:19:00",
-    "seen_at": "2026-04-09T12:19:14.315Z",
-    "raw": "Br. Vlaka 89154 odlazak      09.04.26. 14:19, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "79911",
-    "event_time": "2026-04-09T14:16:00",
-    "seen_at": "2026-04-09T12:20:24.711Z",
-    "raw": "Br. Vlaka 79911 odlazak      09.04.26. 14:16, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "47980",
-    "event_time": "2026-04-09T14:22:00",
-    "seen_at": "2026-04-09T12:23:57.243Z",
-    "raw": "Br. Vlaka 47980 dolazak      09.04.26. 14:22, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "LUKA",
     "train_number": "89154",
     "event_time": "2026-04-09T14:29:00",
@@ -13291,5 +13264,77 @@
     "event_time": "2026-04-12T14:15:00",
     "seen_at": "2026-04-12T12:17:56.082Z",
     "raw": "Br. Vlaka 45691 odlazak      12.04.26. 14:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81234",
+    "event_time": "2026-04-12T14:20:00",
+    "seen_at": "2026-04-12T12:21:49.706Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:20, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81234",
+    "event_time": "2026-04-12T14:20:00",
+    "seen_at": "2026-04-12T12:21:49.706Z",
+    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:20, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89142",
+    "event_time": "2026-04-12T14:24:00",
+    "seen_at": "2026-04-12T12:25:51.452Z",
+    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 14:24, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89142",
+    "event_time": "2026-04-12T14:24:00",
+    "seen_at": "2026-04-12T12:25:51.453Z",
+    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 14:24, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44997",
+    "event_time": "2026-04-12T14:26:00",
+    "seen_at": "2026-04-12T12:26:15.512Z",
+    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 14:26, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-12T13:14:00",
+    "seen_at": "2026-04-12T12:26:39.723Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "42786",
+    "event_time": "2026-04-11T23:40:00",
+    "seen_at": "2026-04-12T12:27:04.238Z",
+    "raw": "Br. Vlaka 42786 promjena sas 11.04.26. 23:40, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81171",
+    "event_time": "2026-04-12T03:49:00",
+    "seen_at": "2026-04-12T12:27:28.161Z",
+    "raw": "Br. Vlaka 81171 promjena sas 12.04.26. 03:49, kolodvor VARAŽDIN"
   }
 ]
