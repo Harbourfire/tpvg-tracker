@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "LUKA",
-    "train_number": "82277",
-    "event_time": "2026-04-10T02:19:00",
-    "seen_at": "2026-04-10T00:19:49.376Z",
-    "raw": "Br. Vlaka 82277 dolazak      10.04.26. 02:19, kolodvor LUKA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "LUKA",
-    "train_number": null,
-    "event_time": "2026-04-10T02:19:00",
-    "seen_at": "2026-04-10T00:21:47.157Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89763",
-    "event_time": "2026-04-10T02:21:00",
-    "seen_at": "2026-04-10T00:22:57.446Z",
-    "raw": "Br. Vlaka 89763 odlazak      10.04.26. 02:21, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89762",
-    "event_time": "2026-04-10T02:25:00",
-    "seen_at": "2026-04-10T00:27:05.255Z",
-    "raw": "Br. Vlaka 89762 dolazak      10.04.26. 02:25, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -13057,5 +13021,23 @@
     "event_time": "2026-04-13T02:16:00",
     "seen_at": "2026-04-13T00:17:34.532Z",
     "raw": "Br. Vlaka 89119 odlazak      13.04.26. 02:16, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "89401",
+    "event_time": "2026-04-13T02:24:00",
+    "seen_at": "2026-04-13T00:25:47.698Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 02:24, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "49998",
+    "event_time": "2026-04-13T02:23:00",
+    "seen_at": "2026-04-13T00:25:47.698Z",
+    "raw": "Br. Vlaka 49998 dolazak      13.04.26. 02:23, kolodvor KOTORIBA"
   }
 ]
