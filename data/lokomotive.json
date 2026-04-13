@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89772",
-    "event_time": "2026-04-09T15:43:00",
-    "seen_at": "2026-04-10T03:08:58.509Z",
-    "raw": "Br. Vlaka 89772 formiran     09.04.26. 15:43, kolodvor 72303"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "89772",
@@ -13345,5 +13336,32 @@
     "event_time": "2026-04-13T05:03:00",
     "seen_at": "2026-04-13T03:03:20.226Z",
     "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89148",
+    "event_time": "2026-04-13T05:04:00",
+    "seen_at": "2026-04-13T03:05:06.128Z",
+    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 05:04, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "47562",
+    "event_time": "2026-04-12T08:52:00",
+    "seen_at": "2026-04-13T03:07:54.665Z",
+    "raw": "Br. Vlaka 47562 formiran     12.04.26. 08:52, kolodvor 71020"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "47562",
+    "event_time": "2026-04-12T08:52:00",
+    "seen_at": "2026-04-13T03:08:18.302Z",
+    "raw": "Br. Vlaka 47562 formiran     12.04.26. 08:52, kolodvor 71020"
   }
 ]
