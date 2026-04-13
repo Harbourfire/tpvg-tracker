@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622011",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48756",
-    "event_time": "2026-04-10T13:37:00",
-    "seen_at": "2026-04-10T11:37:46.489Z",
-    "raw": "Br. Vlaka 48756 dolazak      10.04.26. 13:37, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81157",
-    "event_time": "2026-04-10T13:41:00",
-    "seen_at": "2026-04-10T11:44:28.948Z",
-    "raw": "Br. Vlaka 81157 odlazak      10.04.26. 13:41, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "LIPOVLJANI",
@@ -14155,5 +14137,86 @@
     "event_time": "2026-04-13T13:34:00",
     "seen_at": "2026-04-13T11:35:40.884Z",
     "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:34, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44788",
+    "event_time": "2026-04-13T13:35:00",
+    "seen_at": "2026-04-13T11:36:17.233Z",
+    "raw": "Br. Vlaka 44788 odlazak      13.04.26. 13:35, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-04-13T13:31:00",
+    "seen_at": "2026-04-13T11:37:56.736Z",
+    "raw": "Br. Vlaka 69750 odlazak      13.04.26. 13:31, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-13T13:36:00",
+    "seen_at": "2026-04-13T11:39:57.935Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45940",
+    "event_time": "2026-04-13T13:40:00",
+    "seen_at": "2026-04-13T11:40:22.080Z",
+    "raw": "Br. Vlaka 45940 formiran     13.04.26. 13:40, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "47562",
+    "event_time": "2026-04-13T13:39:00",
+    "seen_at": "2026-04-13T11:40:47.040Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:39, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "47562",
+    "event_time": "2026-04-13T13:39:00",
+    "seen_at": "2026-04-13T11:40:47.041Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:39, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "89064",
+    "event_time": "2026-04-13T13:41:00",
+    "seen_at": "2026-04-13T11:41:59.618Z",
+    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:41, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-13T13:43:00",
+    "seen_at": "2026-04-13T11:44:24.945Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 13:43, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-13T13:43:00",
+    "seen_at": "2026-04-13T11:44:24.945Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 13:43, kolodvor GOSPIĆ"
   }
 ]
