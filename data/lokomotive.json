@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44997",
-    "event_time": "2026-04-10T15:00:00",
-    "seen_at": "2026-04-10T13:00:46.175Z",
-    "raw": "Br. Vlaka 44997 odlazak      10.04.26. 15:00, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -14335,5 +14326,41 @@
     "event_time": "2026-04-13T14:49:00",
     "seen_at": "2026-04-13T12:52:05.545Z",
     "raw": "Br. Vlaka 49999 odlazak      13.04.26. 14:49, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Formiran",
+    "station": "KARLOVAC",
+    "train_number": "89012",
+    "event_time": "2026-04-13T14:55:00",
+    "seen_at": "2026-04-13T12:55:52.561Z",
+    "raw": "Br. Vlaka 89012 formiran     13.04.26. 14:55, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-13T14:55:00",
+    "seen_at": "2026-04-13T12:56:16.502Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 14:55, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-13T14:55:00",
+    "seen_at": "2026-04-13T12:56:16.502Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 14:55, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-13T15:01:00",
+    "seen_at": "2026-04-13T13:03:32.299Z",
+    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 15:01, kolodvor BEDEKOVČINA"
   }
 ]
