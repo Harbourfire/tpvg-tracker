@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89769",
-    "event_time": "2026-04-10T15:15:00",
-    "seen_at": "2026-04-10T13:19:01.505Z",
-    "raw": "Br. Vlaka 89769 odlazak      10.04.26. 15:15, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -14389,5 +14380,68 @@
     "event_time": "2026-04-13T15:05:00",
     "seen_at": "2026-04-13T13:08:06.727Z",
     "raw": "Br. Vlaka 69851 odlazak      13.04.26. 15:05, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-13T15:15:00",
+    "seen_at": "2026-04-13T13:16:21.049Z",
+    "raw": "Br. Vlaka 49999 dolazak      13.04.26. 15:15, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-13T15:15:00",
+    "seen_at": "2026-04-13T13:22:02.414Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 15:15, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-13T15:15:00",
+    "seen_at": "2026-04-13T13:22:02.414Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 15:15, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "69851",
+    "event_time": "2026-04-13T15:22:00",
+    "seen_at": "2026-04-13T13:22:50.849Z",
+    "raw": "Br. Vlaka 69851 dolazak      13.04.26. 15:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "69851",
+    "event_time": "2026-04-13T15:22:00",
+    "seen_at": "2026-04-13T13:22:50.850Z",
+    "raw": "Br. Vlaka 69851 dolazak      13.04.26. 15:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-13T15:22:00",
+    "seen_at": "2026-04-13T13:23:15.106Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-13T15:22:00",
+    "seen_at": "2026-04-13T13:23:15.108Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
