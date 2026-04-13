@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "82107",
-    "event_time": "2026-04-10T12:33:00",
-    "seen_at": "2026-04-10T10:37:51.984Z",
-    "raw": "Br. Vlaka 82107 dolazak      10.04.26. 12:33, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "49999",
-    "train_number": null,
-    "event_time": "2026-04-08T21:59:00",
-    "seen_at": "2026-04-10T10:38:26.092Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49999 49999"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44783",
-    "event_time": "2026-04-10T12:31:00",
-    "seen_at": "2026-04-10T10:38:50.512Z",
-    "raw": "Br. Vlaka 44783 odlazak      10.04.26. 12:31, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T12:36:00",
-    "seen_at": "2026-04-10T10:40:26.507Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 12:36, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82329",
-    "event_time": "2026-04-10T12:34:00",
-    "seen_at": "2026-04-10T10:44:24.191Z",
-    "raw": "Br. Vlaka 82329 dolazak      10.04.26. 12:34, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-10T12:34:00",
-    "seen_at": "2026-04-10T10:45:12.410Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "KOTORIBA-GR",
@@ -14164,5 +14110,59 @@
     "event_time": "2026-04-13T12:33:00",
     "seen_at": "2026-04-13T10:35:25.337Z",
     "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81991",
+    "event_time": "2026-04-13T12:21:00",
+    "seen_at": "2026-04-13T10:37:13.059Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 12:21, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81991",
+    "event_time": "2026-04-13T12:21:00",
+    "seen_at": "2026-04-13T10:37:13.059Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 12:21, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-13T12:36:00",
+    "seen_at": "2026-04-13T10:37:37.276Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-13T12:36:00",
+    "seen_at": "2026-04-13T10:37:37.276Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "OTOK",
+    "train_number": null,
+    "event_time": "2026-04-13T12:38:00",
+    "seen_at": "2026-04-13T10:38:49.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71303 OTOK"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-13T13:11:00",
+    "seen_at": "2026-04-13T10:42:26.884Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
