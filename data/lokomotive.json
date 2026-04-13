@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "76501",
-    "event_time": "2026-04-10T08:35:00",
-    "seen_at": "2026-04-10T06:41:03.687Z",
-    "raw": "Br. Vlaka 76501 odlazak      10.04.26. 08:35, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43995",
-    "event_time": "2026-04-10T08:40:00",
-    "seen_at": "2026-04-10T06:44:40.937Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 08:40, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -13777,5 +13759,113 @@
     "event_time": "2026-04-13T08:28:00",
     "seen_at": "2026-04-13T06:33:54.734Z",
     "raw": "Br. Vlaka 81991 formiran     13.04.26. 08:28, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44786",
+    "event_time": "2026-04-13T08:37:00",
+    "seen_at": "2026-04-13T06:40:30.902Z",
+    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 08:37, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "82322",
+    "event_time": "2026-04-13T08:37:00",
+    "seen_at": "2026-04-13T06:40:30.902Z",
+    "raw": "Br. Vlaka 82322 odlazak      13.04.26. 08:37, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89701",
+    "event_time": "2026-04-13T08:12:00",
+    "seen_at": "2026-04-13T06:43:19.216Z",
+    "raw": "Br. Vlaka 89701 formiran     13.04.26. 08:12, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "74101",
+    "event_time": "2026-04-13T08:39:00",
+    "seen_at": "2026-04-13T06:43:43.358Z",
+    "raw": "Br. Vlaka 74101 dolazak      13.04.26. 08:39, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-04-13T08:32:00",
+    "seen_at": "2026-04-13T06:44:06.988Z",
+    "raw": "Br. Vlaka 89690 dolazak      13.04.26. 08:32, kolodvor BUZET"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-13T08:39:00",
+    "seen_at": "2026-04-13T06:44:06.988Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "89690",
+    "event_time": "2026-04-13T08:37:00",
+    "seen_at": "2026-04-13T06:44:30.879Z",
+    "raw": "Br. Vlaka 89690 odlazak      13.04.26. 08:37, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "BUZET granica",
+    "train_number": null,
+    "event_time": "2026-04-13T08:44:00",
+    "seen_at": "2026-04-13T06:44:54.637Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TOVARNIK granica",
+    "train_number": "47562",
+    "event_time": "2026-04-13T08:44:00",
+    "seen_at": "2026-04-13T06:48:05.478Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 08:44, kolodvor 71020"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TOVARNIK granica",
+    "train_number": "47562",
+    "event_time": "2026-04-13T08:44:00",
+    "seen_at": "2026-04-13T06:48:05.479Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 08:44, kolodvor 71020"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "47562",
+    "event_time": "2026-04-13T08:47:00",
+    "seen_at": "2026-04-13T06:48:29.083Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 08:47, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "47562",
+    "event_time": "2026-04-13T08:47:00",
+    "seen_at": "2026-04-13T06:48:29.083Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 08:47, kolodvor TOVARNIK"
   }
 ]
