@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622011",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "48756",
-    "event_time": "2026-04-10T13:27:00",
-    "seen_at": "2026-04-10T11:27:31.862Z",
-    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 13:27, kolodvor 72304"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-10T13:33:00",
-    "seen_at": "2026-04-10T11:34:21.082Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820622011",
     "type": "Dolazak",
     "station": "ZAGREB KLARA",
     "train_number": "48756",
@@ -14137,5 +14119,41 @@
     "event_time": "2026-04-13T13:24:00",
     "seen_at": "2026-04-13T11:25:21.433Z",
     "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:24, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89751",
+    "event_time": "2026-04-13T13:25:00",
+    "seen_at": "2026-04-13T11:27:08.879Z",
+    "raw": "Br. Vlaka 89751 formiran     13.04.26. 13:25, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "89064",
+    "event_time": "2026-04-13T13:26:00",
+    "seen_at": "2026-04-13T11:28:20.913Z",
+    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:26, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": null,
+    "event_time": "2026-04-13T13:30:00",
+    "seen_at": "2026-04-13T11:34:52.178Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71204 VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "89064",
+    "event_time": "2026-04-13T13:34:00",
+    "seen_at": "2026-04-13T11:35:40.884Z",
+    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:34, kolodvor HORVATI"
   }
 ]
