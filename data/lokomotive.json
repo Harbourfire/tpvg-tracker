@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89942",
-    "event_time": "2026-04-10T09:43:00",
-    "seen_at": "2026-04-10T07:44:03.998Z",
-    "raw": "Br. Vlaka 89942 odlazak      10.04.26. 09:43, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T09:44:00",
-    "seen_at": "2026-04-10T07:45:38.278Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 09:44, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43995",
-    "event_time": "2026-04-10T09:43:00",
-    "seen_at": "2026-04-10T07:48:00.685Z",
-    "raw": "Br. Vlaka 43995 dolazak      10.04.26. 09:43, kolodvor ZABOK"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "DARDA",
@@ -13885,5 +13858,23 @@
     "event_time": "2026-04-13T09:30:00",
     "seen_at": "2026-04-13T07:37:22.256Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89929",
+    "event_time": "2026-04-13T09:44:00",
+    "seen_at": "2026-04-13T07:45:10.997Z",
+    "raw": "Br. Vlaka 89929 formiran     13.04.26. 09:44, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "SIBINJ",
+    "train_number": "76512",
+    "event_time": "2026-04-13T09:40:00",
+    "seen_at": "2026-04-13T07:48:22.288Z",
+    "raw": "Br. Vlaka 76512 dolazak      13.04.26. 09:40, kolodvor SIBINJ"
   }
 ]
