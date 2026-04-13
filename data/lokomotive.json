@@ -2,33 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-10T19:38:00",
-    "seen_at": "2026-04-10T17:39:17.095Z",
-    "raw": "Br. Vlaka 63310 odlazak      10.04.26. 19:38, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "74861",
-    "train_number": null,
-    "event_time": "2026-04-10T18:53:00",
-    "seen_at": "2026-04-10T17:42:51.829Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74861 74861"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "74861",
-    "train_number": null,
-    "event_time": "2026-04-10T18:53:00",
-    "seen_at": "2026-04-10T17:42:51.829Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74861 74861"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "63310",
     "event_time": "2026-04-10T19:53:00",
@@ -14479,5 +14452,77 @@
     "event_time": "2026-04-13T19:34:00",
     "seen_at": "2026-04-13T17:35:51.542Z",
     "raw": "Br. Vlaka 89751 odlazak      13.04.26. 19:34, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Pretrasiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:36:00",
+    "seen_at": "2026-04-13T17:40:27.082Z",
+    "raw": "Br. Vlaka 47562 pretrasiran  13.04.26. 19:36, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Pretrasiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:36:00",
+    "seen_at": "2026-04-13T17:40:27.083Z",
+    "raw": "Br. Vlaka 47562 pretrasiran  13.04.26. 19:36, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:37:00",
+    "seen_at": "2026-04-13T17:41:38.784Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 19:37, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:37:00",
+    "seen_at": "2026-04-13T17:41:38.785Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 19:37, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89751",
+    "event_time": "2026-04-13T19:43:00",
+    "seen_at": "2026-04-13T17:44:02.482Z",
+    "raw": "Br. Vlaka 89751 odlazak      13.04.26. 19:43, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:45:00",
+    "seen_at": "2026-04-13T17:46:25.740Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 19:45, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:45:00",
+    "seen_at": "2026-04-13T17:46:25.741Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 19:45, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89754",
+    "event_time": "2026-04-13T19:47:00",
+    "seen_at": "2026-04-13T17:48:01.878Z",
+    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 19:47, kolodvor ORIOVAC"
   }
 ]
