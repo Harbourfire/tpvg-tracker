@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T12:29:00",
-    "seen_at": "2026-04-10T10:30:38.570Z",
-    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 12:29, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "VRHOVINE",
@@ -14101,5 +14092,77 @@
     "event_time": "2026-04-13T12:21:00",
     "seen_at": "2026-04-13T10:24:32.225Z",
     "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:21, kolodvor ROČ"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74100",
+    "event_time": "2026-04-13T12:26:00",
+    "seen_at": "2026-04-13T10:27:10.876Z",
+    "raw": "Br. Vlaka 74100 odlazak      13.04.26. 12:26, kolodvor SPAČVA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89064",
+    "event_time": "2026-04-13T12:31:00",
+    "seen_at": "2026-04-13T10:31:41.473Z",
+    "raw": "Br. Vlaka 89064 formiran     13.04.26. 12:31, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-13T11:46:00",
+    "seen_at": "2026-04-13T10:32:09.014Z",
+    "raw": "Br. Vlaka 45104 promjena sas 13.04.26. 11:46, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81989",
+    "event_time": "2026-04-13T12:30:00",
+    "seen_at": "2026-04-13T10:34:10.958Z",
+    "raw": "Br. Vlaka 81989 dolazak      13.04.26. 12:30, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "47562",
+    "event_time": "2026-04-13T12:34:00",
+    "seen_at": "2026-04-13T10:34:59.698Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 12:34, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "47562",
+    "event_time": "2026-04-13T12:34:00",
+    "seen_at": "2026-04-13T10:34:59.699Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 12:34, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-13T12:33:00",
+    "seen_at": "2026-04-13T10:35:25.337Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-13T12:33:00",
+    "seen_at": "2026-04-13T10:35:25.337Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
   }
 ]
