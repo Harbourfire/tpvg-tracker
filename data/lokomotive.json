@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T10:18:00",
-    "seen_at": "2026-04-10T08:19:23.331Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 10:18, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89300",
-    "event_time": "2026-04-10T10:19:00",
-    "seen_at": "2026-04-10T08:19:23.332Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:19, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "76503",
-    "event_time": "2026-04-10T10:21:00",
-    "seen_at": "2026-04-10T08:21:11.609Z",
-    "raw": "Br. Vlaka 76503 dolazak      10.04.26. 10:21, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": null,
-    "event_time": "2026-04-10T10:21:00",
-    "seen_at": "2026-04-10T08:21:36.145Z",
-    "raw": "Trenutna pozicija je u kolodvoru 78803 SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "76502",
-    "event_time": "2026-04-10T10:21:00",
-    "seen_at": "2026-04-10T08:22:25.535Z",
-    "raw": "Br. Vlaka 76502 formiran     10.04.26. 10:21, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "74300",
-    "event_time": "2026-04-10T10:23:00",
-    "seen_at": "2026-04-10T08:24:25.274Z",
-    "raw": "Br. Vlaka 74300 odlazak      10.04.26. 10:23, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89922",
-    "event_time": "2026-04-10T10:19:00",
-    "seen_at": "2026-04-10T08:25:12.966Z",
-    "raw": "Br. Vlaka 89922 odlazak      10.04.26. 10:19, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "81157",
-    "event_time": "2026-04-10T10:25:00",
-    "seen_at": "2026-04-10T08:25:36.733Z",
-    "raw": "Br. Vlaka 81157 odlazak      10.04.26. 10:25, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -13903,5 +13831,14 @@
     "event_time": "2026-04-13T10:17:00",
     "seen_at": "2026-04-13T08:18:30.086Z",
     "raw": "Br. Vlaka 89701 odlazak      13.04.26. 10:17, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "ORIOVAC",
+    "train_number": "89701",
+    "event_time": "2026-04-13T10:26:00",
+    "seen_at": "2026-04-13T08:27:49.630Z",
+    "raw": "Br. Vlaka 89701 dolazak      13.04.26. 10:26, kolodvor ORIOVAC"
   }
 ]
