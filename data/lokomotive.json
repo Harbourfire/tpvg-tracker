@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89772",
-    "event_time": "2026-04-10T05:59:00",
-    "seen_at": "2026-04-10T04:03:22.372Z",
-    "raw": "Br. Vlaka 89772 dolazak      10.04.26. 05:59, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89772",
@@ -13426,5 +13417,14 @@
     "event_time": "2026-04-13T05:39:00",
     "seen_at": "2026-04-13T03:39:40.375Z",
     "raw": "Br. Vlaka 76520 formiran     13.04.26. 05:39, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89148",
+    "event_time": "2026-04-13T06:09:00",
+    "seen_at": "2026-04-13T04:10:53.356Z",
+    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 06:09, kolodvor BUDINŠĆINA"
   }
 ]
