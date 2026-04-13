@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-04-10T07:01:00",
-    "seen_at": "2026-04-10T05:02:27.254Z",
-    "raw": "Br. Vlaka 74301 formiran     10.04.26. 07:01, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "76501",
-    "event_time": "2026-04-10T07:09:00",
-    "seen_at": "2026-04-10T05:10:03.923Z",
-    "raw": "Br. Vlaka 76501 formiran     10.04.26. 07:09, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820621104",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -13525,5 +13507,32 @@
     "event_time": "2026-04-13T06:59:00",
     "seen_at": "2026-04-13T05:01:25.221Z",
     "raw": "Br. Vlaka 89148 odlazak      13.04.26. 06:59, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "49826",
+    "event_time": "2026-04-13T07:03:00",
+    "seen_at": "2026-04-13T05:04:24.754Z",
+    "raw": "Br. Vlaka 49826 formiran     13.04.26. 07:03, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "69302",
+    "event_time": "2026-04-13T07:05:00",
+    "seen_at": "2026-04-13T05:05:37.645Z",
+    "raw": "Br. Vlaka 69302 odlazak      13.04.26. 07:05, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-13T07:05:00",
+    "seen_at": "2026-04-13T05:07:15.745Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
