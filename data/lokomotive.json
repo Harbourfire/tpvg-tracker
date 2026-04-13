@@ -2,15 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-10T20:33:00",
-    "seen_at": "2026-04-10T18:34:19.470Z",
-    "raw": "Br. Vlaka 63310 odlazak      10.04.26. 20:33, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63310",
     "event_time": "2026-04-10T20:43:00",
@@ -14596,5 +14587,50 @@
     "event_time": "2026-04-13T20:23:00",
     "seen_at": "2026-04-13T18:23:40.426Z",
     "raw": "Br. Vlaka 89754 odlazak      13.04.26. 20:23, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47565",
+    "event_time": "2026-04-13T09:21:00",
+    "seen_at": "2026-04-13T18:29:54.104Z",
+    "raw": "Br. Vlaka 47565 formiran     13.04.26. 09:21, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-13T15:04:00",
+    "seen_at": "2026-04-13T18:30:18.109Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "69771",
+    "event_time": "2026-04-13T20:27:00",
+    "seen_at": "2026-04-13T18:30:18.109Z",
+    "raw": "Br. Vlaka 69771 odlazak      13.04.26. 20:27, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47565",
+    "event_time": "2026-04-13T09:21:00",
+    "seen_at": "2026-04-13T18:30:18.110Z",
+    "raw": "Br. Vlaka 47565 formiran     13.04.26. 09:21, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "45780",
+    "event_time": "2026-04-13T20:26:00",
+    "seen_at": "2026-04-13T18:30:41.836Z",
+    "raw": "Br. Vlaka 45780 formiran     13.04.26. 20:26, kolodvor ČAKOVEC"
   }
 ]
