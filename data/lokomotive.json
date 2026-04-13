@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "76503",
-    "event_time": "2026-04-10T10:09:00",
-    "seen_at": "2026-04-10T08:10:05.817Z",
-    "raw": "Br. Vlaka 76503 odlazak      10.04.26. 10:09, kolodvor KOPANICA-BERAVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T10:07:00",
-    "seen_at": "2026-04-10T08:10:54.090Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 10:07, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -13885,5 +13867,41 @@
     "event_time": "2026-04-13T10:06:00",
     "seen_at": "2026-04-13T08:07:13.162Z",
     "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:12:00",
+    "seen_at": "2026-04-13T08:14:55.696Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:12, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:12:00",
+    "seen_at": "2026-04-13T08:14:55.696Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:12, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-13T10:14:00",
+    "seen_at": "2026-04-13T08:15:43.893Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89701",
+    "event_time": "2026-04-13T10:17:00",
+    "seen_at": "2026-04-13T08:18:30.086Z",
+    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 10:17, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
