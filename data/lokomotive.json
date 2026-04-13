@@ -2,51 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44999",
-    "event_time": "2026-04-11T01:04:00",
-    "seen_at": "2026-04-10T23:06:58.887Z",
-    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:04, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SISAK",
-    "train_number": "81218",
-    "event_time": "2026-04-11T01:07:00",
-    "seen_at": "2026-04-10T23:07:23.041Z",
-    "raw": "Br. Vlaka 81218 dolazak      11.04.26. 01:07, kolodvor SISAK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44997",
-    "event_time": "2026-04-11T01:08:00",
-    "seen_at": "2026-04-10T23:08:34.188Z",
-    "raw": "Br. Vlaka 44997 odlazak      11.04.26. 01:08, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44997",
-    "event_time": "2026-04-11T01:08:00",
-    "seen_at": "2026-04-10T23:08:34.188Z",
-    "raw": "Br. Vlaka 44997 odlazak      11.04.26. 01:08, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "44999",
-    "event_time": "2026-04-11T01:08:00",
-    "seen_at": "2026-04-10T23:08:57.807Z",
-    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:08, kolodvor LUKA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "NOVI DVORI",
     "train_number": "44999",
     "event_time": "2026-04-11T01:13:00",
@@ -14776,5 +14731,14 @@
     "event_time": "2026-04-13T21:10:00",
     "seen_at": "2026-04-13T23:01:03.813Z",
     "raw": "Br. Vlaka 45780 promjena sas 13.04.26. 21:10, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-14T01:05:00",
+    "seen_at": "2026-04-13T23:09:12.505Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
