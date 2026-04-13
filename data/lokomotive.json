@@ -13561,5 +13561,59 @@
     "event_time": "2026-04-13T07:20:00",
     "seen_at": "2026-04-13T05:21:03.414Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T11:12:00",
+    "seen_at": "2026-04-13T05:26:27.673Z",
+    "raw": "Br. Vlaka 89541 dolazak      12.04.26. 11:12, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T12:45:00",
+    "seen_at": "2026-04-13T05:27:15.740Z",
+    "raw": "Br. Vlaka 89541 odlazak      12.04.26. 12:45, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89541",
+    "event_time": "2026-04-12T11:12:00",
+    "seen_at": "2026-04-13T05:27:39.652Z",
+    "raw": "Br. Vlaka 89541 dolazak      12.04.26. 11:12, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-12T11:12:00",
+    "seen_at": "2026-04-13T05:28:27.587Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-13T07:22:00",
+    "seen_at": "2026-04-13T05:29:15.506Z",
+    "raw": "Br. Vlaka 66853 formiran     13.04.26. 07:22, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89161",
+    "event_time": "2026-04-13T07:25:00",
+    "seen_at": "2026-04-13T05:31:15.557Z",
+    "raw": "Br. Vlaka 89161 odlazak      13.04.26. 07:25, kolodvor DONJI KRALJEVEC"
   }
 ]
