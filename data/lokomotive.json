@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "48786",
-    "event_time": "2026-04-10T06:28:00",
-    "seen_at": "2026-04-10T04:56:59.914Z",
-    "raw": "Br. Vlaka 48786 promjena sas 10.04.26. 06:28, kolodvor ZABOK"
-  },
-  {
     "uic": "987893113470",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -13489,5 +13480,50 @@
     "event_time": "2026-04-13T06:49:00",
     "seen_at": "2026-04-13T04:49:32.964Z",
     "raw": "Br. Vlaka 69302 odlazak      13.04.26. 06:49, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "69711",
+    "event_time": "2026-04-13T06:52:00",
+    "seen_at": "2026-04-13T04:52:36.938Z",
+    "raw": "Br. Vlaka 69711 dolazak      13.04.26. 06:52, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-13T06:52:00",
+    "seen_at": "2026-04-13T04:53:49.178Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "69302",
+    "event_time": "2026-04-13T06:58:00",
+    "seen_at": "2026-04-13T04:59:01.383Z",
+    "raw": "Br. Vlaka 69302 odlazak      13.04.26. 06:58, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89148",
+    "event_time": "2026-04-13T06:45:00",
+    "seen_at": "2026-04-13T05:01:01.402Z",
+    "raw": "Br. Vlaka 89148 dolazak      13.04.26. 06:45, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89148",
+    "event_time": "2026-04-13T06:59:00",
+    "seen_at": "2026-04-13T05:01:25.221Z",
+    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 06:59, kolodvor TURČIN"
   }
 ]
