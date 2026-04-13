@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-10T19:53:00",
-    "seen_at": "2026-04-10T17:53:43.549Z",
-    "raw": "Br. Vlaka 63310 odlazak      10.04.26. 19:53, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-04-10T19:55:00",
-    "seen_at": "2026-04-10T17:55:42.601Z",
-    "raw": "Br. Vlaka 61004 formiran     10.04.26. 19:55, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-10T19:54:00",
-    "seen_at": "2026-04-10T17:57:17.213Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
@@ -14524,5 +14497,59 @@
     "event_time": "2026-04-13T19:47:00",
     "seen_at": "2026-04-13T17:48:01.878Z",
     "raw": "Br. Vlaka 89754 odlazak      13.04.26. 19:47, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:50:00",
+    "seen_at": "2026-04-13T17:50:44.095Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 19:50, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:50:00",
+    "seen_at": "2026-04-13T17:50:44.096Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 19:50, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:56:00",
+    "seen_at": "2026-04-13T17:56:42.432Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 19:56, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47562",
+    "event_time": "2026-04-13T19:56:00",
+    "seen_at": "2026-04-13T17:56:42.433Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 19:56, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-13T19:55:00",
+    "seen_at": "2026-04-13T17:57:33.966Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89754",
+    "event_time": "2026-04-13T19:58:00",
+    "seen_at": "2026-04-13T17:58:21.260Z",
+    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 19:58, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
