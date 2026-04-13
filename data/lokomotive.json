@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-10T23:18:00",
-    "seen_at": "2026-04-10T21:19:52.764Z",
-    "raw": "Br. Vlaka 63305 odlazak      10.04.26. 23:18, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44999",
-    "event_time": "2026-04-10T23:20:00",
-    "seen_at": "2026-04-10T21:21:04.029Z",
-    "raw": "Br. Vlaka 44999 odlazak      10.04.26. 23:20, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -14911,5 +14893,41 @@
     "event_time": "2026-04-13T23:10:00",
     "seen_at": "2026-04-13T21:15:16.913Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "69175",
+    "event_time": "2026-04-13T23:22:00",
+    "seen_at": "2026-04-13T21:24:47.897Z",
+    "raw": "Br. Vlaka 69175 dolazak      13.04.26. 23:22, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "69175",
+    "event_time": "2026-04-13T23:22:00",
+    "seen_at": "2026-04-13T21:24:47.897Z",
+    "raw": "Br. Vlaka 69175 dolazak      13.04.26. 23:22, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-13T23:22:00",
+    "seen_at": "2026-04-13T21:25:11.787Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-13T23:22:00",
+    "seen_at": "2026-04-13T21:25:11.787Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
