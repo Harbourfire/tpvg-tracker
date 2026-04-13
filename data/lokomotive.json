@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-10T04:48:00",
-    "seen_at": "2026-04-10T02:49:42.715Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440141",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "89772",
@@ -13219,5 +13210,68 @@
     "event_time": "2026-04-13T04:42:00",
     "seen_at": "2026-04-13T02:43:08.123Z",
     "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-13T03:45:00",
+    "seen_at": "2026-04-13T02:44:54.646Z",
+    "raw": "Br. Vlaka 69005 formiran     13.04.26. 03:45, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-13T03:45:00",
+    "seen_at": "2026-04-13T02:44:54.646Z",
+    "raw": "Br. Vlaka 69005 formiran     13.04.26. 03:45, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "89401",
+    "event_time": "2026-04-13T04:37:00",
+    "seen_at": "2026-04-13T02:45:42.624Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 04:37, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "89401",
+    "event_time": "2026-04-13T04:37:00",
+    "seen_at": "2026-04-13T02:45:42.625Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 04:37, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "89401",
+    "event_time": "2026-04-13T04:44:00",
+    "seen_at": "2026-04-13T02:46:30.103Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 04:44, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "89401",
+    "event_time": "2026-04-13T04:44:00",
+    "seen_at": "2026-04-13T02:46:30.105Z",
+    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 04:44, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89148",
+    "event_time": "2026-04-13T04:45:00",
+    "seen_at": "2026-04-13T02:49:41.294Z",
+    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 04:45, kolodvor ZABOK"
   }
 ]
