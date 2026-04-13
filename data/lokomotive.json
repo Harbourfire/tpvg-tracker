@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-10T09:09:00",
-    "seen_at": "2026-04-10T07:10:07.042Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 09:09, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "76501",
-    "event_time": "2026-04-10T09:06:00",
-    "seen_at": "2026-04-10T07:15:57.670Z",
-    "raw": "Br. Vlaka 76501 dolazak      10.04.26. 09:06, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "43995",
-    "event_time": "2026-04-10T09:15:00",
-    "seen_at": "2026-04-10T07:17:09.286Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 09:15, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "76503",
-    "event_time": "2026-04-10T09:17:00",
-    "seen_at": "2026-04-10T07:18:21.092Z",
-    "raw": "Br. Vlaka 76503 odlazak      10.04.26. 09:17, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-10T09:02:00",
-    "seen_at": "2026-04-10T07:19:09.710Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "DRENOVCI",
@@ -13930,5 +13885,50 @@
     "event_time": "2026-04-13T09:08:00",
     "seen_at": "2026-04-13T07:08:23.089Z",
     "raw": "Br. Vlaka 44786 odlazak      13.04.26. 09:08, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45105",
+    "event_time": "2026-04-13T09:04:00",
+    "seen_at": "2026-04-13T07:12:14.380Z",
+    "raw": "Br. Vlaka 45105 dolazak      13.04.26. 09:04, kolodvor 71308"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-04-13T09:04:00",
+    "seen_at": "2026-04-13T07:13:03.272Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "82322",
+    "event_time": "2026-04-13T09:06:00",
+    "seen_at": "2026-04-13T07:14:15.392Z",
+    "raw": "Br. Vlaka 82322 dolazak      13.04.26. 09:06, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-13T09:06:00",
+    "seen_at": "2026-04-13T07:14:39.551Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-13T09:17:00",
+    "seen_at": "2026-04-13T07:17:53.082Z",
+    "raw": "Br. Vlaka 69851 formiran     13.04.26. 09:17, kolodvor ERDUT"
   }
 ]
