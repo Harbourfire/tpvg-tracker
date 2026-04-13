@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "81237",
-    "event_time": "2026-04-10T19:36:00",
-    "seen_at": "2026-04-10T17:37:55.796Z",
-    "raw": "Br. Vlaka 81237 odlazak      10.04.26. 19:36, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -14452,5 +14443,41 @@
     "event_time": "2026-04-13T19:26:00",
     "seen_at": "2026-04-13T17:26:31.458Z",
     "raw": "Br. Vlaka 89751 odlazak      13.04.26. 19:26, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89754",
+    "event_time": "2026-04-13T19:29:00",
+    "seen_at": "2026-04-13T17:30:42.583Z",
+    "raw": "Br. Vlaka 89754 formiran     13.04.26. 19:29, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89754",
+    "event_time": "2026-04-13T19:22:00",
+    "seen_at": "2026-04-13T17:31:06.296Z",
+    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 19:22, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89754",
+    "event_time": "2026-04-13T19:33:00",
+    "seen_at": "2026-04-13T17:34:39.813Z",
+    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 19:33, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89751",
+    "event_time": "2026-04-13T19:34:00",
+    "seen_at": "2026-04-13T17:35:51.542Z",
+    "raw": "Br. Vlaka 89751 odlazak      13.04.26. 19:34, kolodvor STARI MIKANOVCI"
   }
 ]
