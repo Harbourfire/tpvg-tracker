@@ -2,51 +2,6 @@
   {
     "uic": "987891113316",
     "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76503",
-    "event_time": "2026-04-10T10:00:00",
-    "seen_at": "2026-04-10T08:00:34.457Z",
-    "raw": "Br. Vlaka 76503 odlazak      10.04.26. 10:00, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "KOTORIBA",
-    "train_number": null,
-    "event_time": "2026-04-10T10:02:00",
-    "seen_at": "2026-04-10T08:01:37.569Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "KOTORIBA",
-    "train_number": "89922",
-    "event_time": "2026-04-10T09:30:00",
-    "seen_at": "2026-04-10T08:02:02.370Z",
-    "raw": "Br. Vlaka 89922 formiran     10.04.26. 09:30, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89300",
-    "event_time": "2026-04-10T10:02:00",
-    "seen_at": "2026-04-10T08:03:15.108Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:02, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89300",
-    "event_time": "2026-04-10T10:08:00",
-    "seen_at": "2026-04-10T08:08:29.036Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:08, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
     "station": "KOPANICA-BERAVCI",
     "train_number": "76503",
     "event_time": "2026-04-10T10:09:00",
@@ -13867,5 +13822,68 @@
     "event_time": "2026-04-13T09:55:00",
     "seen_at": "2026-04-13T07:55:46.185Z",
     "raw": "Br. Vlaka 82850 odlazak      13.04.26. 09:55, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-13T09:59:00",
+    "seen_at": "2026-04-13T07:59:59.432Z",
+    "raw": "Br. Vlaka 45597 formiran     13.04.26. 09:59, kolodvor 77424"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-13T09:59:00",
+    "seen_at": "2026-04-13T08:00:23.163Z",
+    "raw": "Br. Vlaka 45597 formiran     13.04.26. 09:59, kolodvor 77424"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "ŠOIĆI",
+    "train_number": "82850",
+    "event_time": "2026-04-13T10:03:00",
+    "seen_at": "2026-04-13T08:04:01.460Z",
+    "raw": "Br. Vlaka 82850 dolazak      13.04.26. 10:03, kolodvor 75603"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "ŠOIĆI",
+    "train_number": null,
+    "event_time": "2026-04-13T10:03:00",
+    "seen_at": "2026-04-13T08:05:37.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75603 75603"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76512",
+    "event_time": "2026-04-13T10:06:00",
+    "seen_at": "2026-04-13T08:06:49.262Z",
+    "raw": "Br. Vlaka 76512 odlazak      13.04.26. 10:06, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:06:00",
+    "seen_at": "2026-04-13T08:07:13.162Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:06:00",
+    "seen_at": "2026-04-13T08:07:13.162Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:06, kolodvor OŠTARIJE"
   }
 ]
