@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-09T15:04:00",
-    "seen_at": "2026-04-10T09:47:30.618Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-10T11:50:00",
-    "seen_at": "2026-04-10T09:51:18.353Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 11:50, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82107",
-    "event_time": "2026-04-10T11:54:00",
-    "seen_at": "2026-04-10T09:55:42.701Z",
-    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 11:54, kolodvor BLATA"
-  },
-  {
     "uic": "927820440240",
     "type": "Formiran",
     "station": "BANOVA JARUGA",
@@ -14047,5 +14020,68 @@
     "event_time": "2026-04-13T11:30:00",
     "seen_at": "2026-04-13T09:45:16.235Z",
     "raw": "Br. Vlaka 45104 odlazak      13.04.26. 11:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-13T11:46:00",
+    "seen_at": "2026-04-13T09:49:05.280Z",
+    "raw": "Br. Vlaka 45104 dolazak      13.04.26. 11:46, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "47562",
+    "event_time": "2026-04-13T11:51:00",
+    "seen_at": "2026-04-13T09:51:52.784Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:51, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89701",
+    "event_time": "2026-04-13T11:51:00",
+    "seen_at": "2026-04-13T09:51:52.784Z",
+    "raw": "Br. Vlaka 89701 dolazak      13.04.26. 11:51, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "47562",
+    "event_time": "2026-04-13T11:51:00",
+    "seen_at": "2026-04-13T09:51:52.785Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:51, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81991",
+    "event_time": "2026-04-13T11:53:00",
+    "seen_at": "2026-04-13T09:54:15.966Z",
+    "raw": "Br. Vlaka 81991 dolazak      13.04.26. 11:53, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81991",
+    "event_time": "2026-04-13T11:53:00",
+    "seen_at": "2026-04-13T09:54:15.966Z",
+    "raw": "Br. Vlaka 81991 dolazak      13.04.26. 11:53, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-13T11:51:00",
+    "seen_at": "2026-04-13T09:55:04.163Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
