@@ -1,51 +1,6 @@
 [
   {
     "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76502",
-    "event_time": "2026-04-10T10:57:00",
-    "seen_at": "2026-04-10T08:58:27.363Z",
-    "raw": "Br. Vlaka 76502 dolazak      10.04.26. 10:57, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76502",
-    "event_time": "2026-04-10T10:58:00",
-    "seen_at": "2026-04-10T08:58:50.980Z",
-    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 10:58, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "SIBINJ",
-    "train_number": null,
-    "event_time": "2026-04-10T10:59:00",
-    "seen_at": "2026-04-10T09:01:02.491Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44783",
-    "event_time": "2026-04-10T11:01:00",
-    "seen_at": "2026-04-10T09:01:50.589Z",
-    "raw": "Br. Vlaka 44783 formiran     10.04.26. 11:01, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "48786",
-    "event_time": "2026-04-10T11:03:00",
-    "seen_at": "2026-04-10T09:05:25.486Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 11:03, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "987891113316",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
     "train_number": "76502",
@@ -13876,5 +13831,41 @@
     "event_time": "2026-04-13T10:57:00",
     "seen_at": "2026-04-13T08:57:17.676Z",
     "raw": "Br. Vlaka 89701 odlazak      13.04.26. 10:57, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "SIBINJ",
+    "train_number": null,
+    "event_time": "2026-04-10T10:59:00",
+    "seen_at": "2026-04-13T09:01:30.120Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69851",
+    "event_time": "2026-04-13T10:53:00",
+    "seen_at": "2026-04-13T09:01:54.200Z",
+    "raw": "Br. Vlaka 69851 odlazak      13.04.26. 10:53, kolodvor DALJ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T11:01:00",
+    "seen_at": "2026-04-13T09:01:54.201Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 11:01, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T11:01:00",
+    "seen_at": "2026-04-13T09:01:54.202Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 11:01, kolodvor VINKOVCI"
   }
 ]
