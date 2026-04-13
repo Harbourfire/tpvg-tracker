@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622011",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48756",
-    "event_time": "2026-04-10T13:55:00",
-    "seen_at": "2026-04-10T11:55:49.677Z",
-    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 13:55, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "DRENOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-10T13:51:00",
-    "seen_at": "2026-04-10T12:02:51.227Z",
-    "raw": "Br. Vlaka 76600 formiran     10.04.26. 13:51, kolodvor DRENOVCI"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "NOVSKA",
@@ -14227,5 +14209,59 @@
     "event_time": "2026-04-13T13:52:00",
     "seen_at": "2026-04-13T11:53:51.981Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44788",
+    "event_time": "2026-04-13T13:55:00",
+    "seen_at": "2026-04-13T11:56:27.500Z",
+    "raw": "Br. Vlaka 44788 odlazak      13.04.26. 13:55, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T13:56:00",
+    "seen_at": "2026-04-13T11:57:15.216Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:56, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T13:56:00",
+    "seen_at": "2026-04-13T11:57:15.217Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:56, kolodvor OKUČANI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Dolazak",
+    "station": "JASTREBARSKO",
+    "train_number": "89064",
+    "event_time": "2026-04-13T13:54:00",
+    "seen_at": "2026-04-13T11:58:03.651Z",
+    "raw": "Br. Vlaka 89064 dolazak      13.04.26. 13:54, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-13T13:57:00",
+    "seen_at": "2026-04-13T11:58:51.253Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 13:57, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-13T13:57:00",
+    "seen_at": "2026-04-13T11:58:51.253Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 13:57, kolodvor PERUŠIĆ"
   }
 ]
