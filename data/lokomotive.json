@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-10T03:00:00",
-    "seen_at": "2026-04-10T08:39:44.059Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-10T09:35:00",
-    "seen_at": "2026-04-10T08:40:43.593Z",
-    "raw": "Br. Vlaka 69751 formiran     10.04.26. 09:35, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-10T10:10:00",
-    "seen_at": "2026-04-10T08:41:07.838Z",
-    "raw": "Br. Vlaka 69751 odlazak      10.04.26. 10:10, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "48786",
-    "event_time": "2026-04-10T10:40:00",
-    "seen_at": "2026-04-10T08:41:07.838Z",
-    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 10:40, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-10T09:35:00",
-    "seen_at": "2026-04-10T08:41:31.951Z",
-    "raw": "Br. Vlaka 69751 formiran     10.04.26. 09:35, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "69771",
-    "event_time": "2026-04-10T09:34:00",
-    "seen_at": "2026-04-10T08:41:55.804Z",
-    "raw": "Br. Vlaka 69771 formiran     10.04.26. 09:34, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "89312",
-    "event_time": "2026-04-10T10:44:00",
-    "seen_at": "2026-04-10T08:44:19.763Z",
-    "raw": "Br. Vlaka 89312 formiran     10.04.26. 10:44, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89300",
-    "event_time": "2026-04-10T10:46:00",
-    "seen_at": "2026-04-10T08:46:44.185Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:46, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-10T10:46:00",
-    "seen_at": "2026-04-10T08:47:08.551Z",
-    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 10:46, kolodvor KOPANICA-BERAVCI"
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -13849,5 +13768,68 @@
     "event_time": "2026-04-13T10:34:00",
     "seen_at": "2026-04-13T08:36:56.273Z",
     "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:34, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89929",
+    "event_time": "2026-04-13T10:40:00",
+    "seen_at": "2026-04-13T08:40:49.135Z",
+    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 10:40, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-04-13T10:41:00",
+    "seen_at": "2026-04-13T08:42:24.267Z",
+    "raw": "Br. Vlaka 69750 formiran     13.04.26. 10:41, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-13T10:43:00",
+    "seen_at": "2026-04-13T08:43:59.466Z",
+    "raw": "Br. Vlaka 69851 odlazak      13.04.26. 10:43, kolodvor ERDUT"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:43:00",
+    "seen_at": "2026-04-13T08:44:23.116Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:43, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:43:00",
+    "seen_at": "2026-04-13T08:44:23.116Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:43, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T10:44:00",
+    "seen_at": "2026-04-13T08:45:34.416Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:44, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T10:44:00",
+    "seen_at": "2026-04-13T08:45:34.417Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:44, kolodvor ĐELETOVCI"
   }
 ]
