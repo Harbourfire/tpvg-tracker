@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "81218",
-    "event_time": "2026-04-10T21:32:00",
-    "seen_at": "2026-04-10T19:34:37.037Z",
-    "raw": "Br. Vlaka 81218 dolazak      10.04.26. 21:32, kolodvor SUNJA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -14668,5 +14659,41 @@
     "event_time": "2026-04-13T21:10:00",
     "seen_at": "2026-04-13T19:25:29.437Z",
     "raw": "Br. Vlaka 45780 promjena sas 13.04.26. 21:10, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82101",
+    "event_time": "2026-04-13T21:27:00",
+    "seen_at": "2026-04-13T19:28:38.428Z",
+    "raw": "Br. Vlaka 82101 formiran     13.04.26. 21:27, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82101",
+    "event_time": "2026-04-13T21:34:00",
+    "seen_at": "2026-04-13T19:35:48.861Z",
+    "raw": "Br. Vlaka 82101 odlazak      13.04.26. 21:34, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-13T21:36:00",
+    "seen_at": "2026-04-13T19:36:37.009Z",
+    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 21:36, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-13T21:36:00",
+    "seen_at": "2026-04-13T19:36:37.009Z",
+    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 21:36, kolodvor OŠTARIJE"
   }
 ]
