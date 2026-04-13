@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-04-10T20:43:00",
-    "seen_at": "2026-04-10T18:44:27.348Z",
-    "raw": "Br. Vlaka 63310 odlazak      10.04.26. 20:43, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -14632,5 +14623,23 @@
     "event_time": "2026-04-13T20:26:00",
     "seen_at": "2026-04-13T18:30:41.836Z",
     "raw": "Br. Vlaka 45780 formiran     13.04.26. 20:26, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-13T20:40:00",
+    "seen_at": "2026-04-13T18:40:31.566Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69771",
+    "event_time": "2026-04-13T20:45:00",
+    "seen_at": "2026-04-13T18:46:31.361Z",
+    "raw": "Br. Vlaka 69771 odlazak      13.04.26. 20:45, kolodvor DARDA"
   }
 ]
