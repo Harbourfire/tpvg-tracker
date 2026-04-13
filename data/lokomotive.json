@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81236",
-    "event_time": "2026-04-10T21:21:00",
-    "seen_at": "2026-04-10T19:21:44.727Z",
-    "raw": "Br. Vlaka 81236 odlazak      10.04.26. 21:21, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "SUNJA",
@@ -14632,5 +14623,50 @@
     "event_time": "2026-04-13T21:09:00",
     "seen_at": "2026-04-13T19:15:34.324Z",
     "raw": "Br. Vlaka 89753 formiran     13.04.26. 21:09, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69751",
+    "event_time": "2026-04-13T21:02:00",
+    "seen_at": "2026-04-13T19:18:12.684Z",
+    "raw": "Br. Vlaka 69751 odlazak      13.04.26. 21:02, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69751",
+    "event_time": "2026-04-13T21:10:00",
+    "seen_at": "2026-04-13T19:22:15.932Z",
+    "raw": "Br. Vlaka 69751 dolazak      13.04.26. 21:10, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-13T21:10:00",
+    "seen_at": "2026-04-13T19:22:40.012Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "89753",
+    "event_time": "2026-04-13T21:22:00",
+    "seen_at": "2026-04-13T19:23:52.584Z",
+    "raw": "Br. Vlaka 89753 odlazak      13.04.26. 21:22, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "45780",
+    "event_time": "2026-04-13T21:10:00",
+    "seen_at": "2026-04-13T19:25:29.437Z",
+    "raw": "Br. Vlaka 45780 promjena sas 13.04.26. 21:10, kolodvor VARAŽDIN"
   }
 ]
