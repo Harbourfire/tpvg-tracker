@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-04-10T07:30:00",
-    "seen_at": "2026-04-10T05:31:26.752Z",
-    "raw": "Br. Vlaka 74301 odlazak      10.04.26. 07:30, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81149",
-    "event_time": "2026-04-10T07:33:00",
-    "seen_at": "2026-04-10T05:35:59.978Z",
-    "raw": "Br. Vlaka 81149 odlazak      10.04.26. 07:33, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-10T07:34:00",
-    "seen_at": "2026-04-10T05:39:10.673Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 07:34, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -13615,5 +13588,68 @@
     "event_time": "2026-04-13T07:25:00",
     "seen_at": "2026-04-13T05:31:15.557Z",
     "raw": "Br. Vlaka 89161 odlazak      13.04.26. 07:25, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76511",
+    "event_time": "2026-04-13T07:34:00",
+    "seen_at": "2026-04-13T05:34:59.880Z",
+    "raw": "Br. Vlaka 76511 odlazak      13.04.26. 07:34, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89161",
+    "event_time": "2026-04-13T07:32:00",
+    "seen_at": "2026-04-13T05:35:47.603Z",
+    "raw": "Br. Vlaka 89161 odlazak      13.04.26. 07:32, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76520",
+    "event_time": "2026-04-13T07:35:00",
+    "seen_at": "2026-04-13T05:36:11.272Z",
+    "raw": "Br. Vlaka 76520 odlazak      13.04.26. 07:35, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76520",
+    "event_time": "2026-04-13T05:39:00",
+    "seen_at": "2026-04-13T05:36:35.050Z",
+    "raw": "Br. Vlaka 76520 formiran     13.04.26. 05:39, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76520",
+    "event_time": "2026-04-13T07:35:00",
+    "seen_at": "2026-04-13T05:36:58.751Z",
+    "raw": "Br. Vlaka 76520 odlazak      13.04.26. 07:35, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-13T07:21:00",
+    "seen_at": "2026-04-13T05:37:22.675Z",
+    "raw": "Br. Vlaka 66853 odlazak      13.04.26. 07:21, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-13T07:30:00",
+    "seen_at": "2026-04-13T05:39:45.563Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
