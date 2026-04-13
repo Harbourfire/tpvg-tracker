@@ -2,69 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44999",
-    "event_time": "2026-04-11T01:13:00",
-    "seen_at": "2026-04-10T23:13:58.000Z",
-    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:13, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-11T01:13:00",
-    "seen_at": "2026-04-10T23:14:45.413Z",
-    "raw": "Br. Vlaka 63305 dolazak      11.04.26. 01:13, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-11T01:13:00",
-    "seen_at": "2026-04-10T23:15:09.042Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "81218",
-    "event_time": "2026-04-11T01:16:00",
-    "seen_at": "2026-04-10T23:18:44.376Z",
-    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:16, kolodvor SISAK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44999",
-    "event_time": "2026-04-11T01:18:00",
-    "seen_at": "2026-04-10T23:19:08.022Z",
-    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:18, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44997",
-    "event_time": "2026-04-11T01:20:00",
-    "seen_at": "2026-04-10T23:21:49.519Z",
-    "raw": "Br. Vlaka 44997 odlazak      11.04.26. 01:20, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44997",
-    "event_time": "2026-04-11T01:20:00",
-    "seen_at": "2026-04-10T23:21:49.519Z",
-    "raw": "Br. Vlaka 44997 odlazak      11.04.26. 01:20, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "44999",
     "event_time": "2026-04-11T01:24:00",
@@ -14740,5 +14677,68 @@
     "event_time": "2026-04-14T01:05:00",
     "seen_at": "2026-04-13T23:09:12.505Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82108",
+    "event_time": "2026-04-14T01:05:00",
+    "seen_at": "2026-04-13T23:13:20.390Z",
+    "raw": "Br. Vlaka 82108 dolazak      14.04.26. 01:05, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82108",
+    "event_time": "2026-04-14T01:05:00",
+    "seen_at": "2026-04-13T23:13:20.390Z",
+    "raw": "Br. Vlaka 82108 dolazak      14.04.26. 01:05, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82108",
+    "event_time": "2026-04-14T01:09:00",
+    "seen_at": "2026-04-13T23:13:44.309Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:09, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82108",
+    "event_time": "2026-04-14T01:09:00",
+    "seen_at": "2026-04-13T23:13:44.309Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:09, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "61004",
+    "event_time": "2026-04-14T01:07:00",
+    "seen_at": "2026-04-13T23:14:55.446Z",
+    "raw": "Br. Vlaka 61004 odlazak      14.04.26. 01:07, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81165",
+    "event_time": "2026-04-14T01:04:00",
+    "seen_at": "2026-04-13T23:15:19.330Z",
+    "raw": "Br. Vlaka 81165 dolazak      14.04.26. 01:04, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-13T23:16:31.320Z",
+    "seen_at": "2026-04-13T23:16:31.320Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
   }
 ]
