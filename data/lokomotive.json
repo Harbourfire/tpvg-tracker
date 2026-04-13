@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89772",
-    "event_time": "2026-04-10T05:34:00",
-    "seen_at": "2026-04-10T03:36:23.239Z",
-    "raw": "Br. Vlaka 89772 odlazak      10.04.26. 05:34, kolodvor 72303"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76503",
-    "event_time": "2026-04-10T05:36:00",
-    "seen_at": "2026-04-10T03:36:23.241Z",
-    "raw": "Br. Vlaka 76503 formiran     10.04.26. 05:36, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89772",
-    "event_time": "2026-04-10T05:39:00",
-    "seen_at": "2026-04-10T03:41:54.941Z",
-    "raw": "Br. Vlaka 89772 odlazak      10.04.26. 05:39, kolodvor 72304"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB KLARA",
     "train_number": "89772",
     "event_time": "2026-04-10T05:51:00",
@@ -13444,5 +13417,32 @@
     "event_time": "2026-04-13T05:30:00",
     "seen_at": "2026-04-13T03:31:32.831Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76512",
+    "event_time": "2026-04-13T05:36:00",
+    "seen_at": "2026-04-13T03:37:17.349Z",
+    "raw": "Br. Vlaka 76512 formiran     13.04.26. 05:36, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89148",
+    "event_time": "2026-04-13T05:36:00",
+    "seen_at": "2026-04-13T03:37:40.989Z",
+    "raw": "Br. Vlaka 89148 dolazak      13.04.26. 05:36, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76520",
+    "event_time": "2026-04-13T05:39:00",
+    "seen_at": "2026-04-13T03:39:40.375Z",
+    "raw": "Br. Vlaka 76520 formiran     13.04.26. 05:39, kolodvor SLAVONSKI BROD"
   }
 ]
