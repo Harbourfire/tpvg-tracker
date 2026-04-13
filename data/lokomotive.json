@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89300",
-    "event_time": "2026-04-10T10:28:00",
-    "seen_at": "2026-04-10T08:28:25.474Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:28, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89922",
-    "event_time": "2026-04-10T10:21:00",
-    "seen_at": "2026-04-10T08:29:13.138Z",
-    "raw": "Br. Vlaka 89922 dolazak      10.04.26. 10:21, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-10T10:21:00",
-    "seen_at": "2026-04-10T08:29:36.969Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45988",
-    "event_time": "2026-04-10T10:12:00",
-    "seen_at": "2026-04-10T08:30:00.717Z",
-    "raw": "Br. Vlaka 45988 dolazak      10.04.26. 10:12, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "76502",
-    "event_time": "2026-04-10T10:34:00",
-    "seen_at": "2026-04-10T08:34:32.473Z",
-    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 10:34, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89300",
-    "event_time": "2026-04-10T10:35:00",
-    "seen_at": "2026-04-10T08:35:20.227Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 10:35, kolodvor GARČIN"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "BELI MANASTIR",
@@ -13840,5 +13786,68 @@
     "event_time": "2026-04-13T10:26:00",
     "seen_at": "2026-04-13T08:27:49.630Z",
     "raw": "Br. Vlaka 89701 dolazak      13.04.26. 10:26, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89929",
+    "event_time": "2026-04-13T10:23:00",
+    "seen_at": "2026-04-13T08:30:04.287Z",
+    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 10:23, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "89929",
+    "event_time": "2026-04-13T10:28:00",
+    "seen_at": "2026-04-13T08:30:29.155Z",
+    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 10:28, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:31:00",
+    "seen_at": "2026-04-13T08:34:31.411Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:31, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81991",
+    "event_time": "2026-04-13T10:31:00",
+    "seen_at": "2026-04-13T08:34:31.411Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:31, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89701",
+    "event_time": "2026-04-13T10:34:00",
+    "seen_at": "2026-04-13T08:35:43.735Z",
+    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 10:34, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "47562",
+    "event_time": "2026-04-13T10:34:00",
+    "seen_at": "2026-04-13T08:36:56.272Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:34, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "47562",
+    "event_time": "2026-04-13T10:34:00",
+    "seen_at": "2026-04-13T08:36:56.273Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:34, kolodvor TOVARNIK"
   }
 ]
