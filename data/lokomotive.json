@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "BANOVA JARUGA",
-    "train_number": "81218",
-    "event_time": "2026-04-10T08:13:00",
-    "seen_at": "2026-04-10T09:56:54.775Z",
-    "raw": "Br. Vlaka 81218 formiran     10.04.26. 08:13, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44783",
-    "event_time": "2026-04-10T11:54:00",
-    "seen_at": "2026-04-10T09:59:05.536Z",
-    "raw": "Br. Vlaka 44783 dolazak      10.04.26. 11:54, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82107",
-    "event_time": "2026-04-10T12:05:00",
-    "seen_at": "2026-04-10T10:05:31.636Z",
-    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:05, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "STARO PETROVO SELO",
@@ -14083,5 +14056,14 @@
     "event_time": "2026-04-13T11:51:00",
     "seen_at": "2026-04-13T09:55:04.163Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "81989",
+    "event_time": "2026-04-13T12:00:00",
+    "seen_at": "2026-04-13T10:00:33.823Z",
+    "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:00, kolodvor SESVETE"
   }
 ]
