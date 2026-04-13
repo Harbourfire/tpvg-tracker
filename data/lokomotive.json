@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820621195",
-    "type": "Formiran",
-    "station": "LUKA",
-    "train_number": "89118",
-    "event_time": "2026-04-10T02:39:00",
-    "seen_at": "2026-04-10T00:40:08.510Z",
-    "raw": "Br. Vlaka 89118 formiran     10.04.26. 02:39, kolodvor LUKA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89118",
-    "event_time": "2026-04-10T02:43:00",
-    "seen_at": "2026-04-10T00:43:27.135Z",
-    "raw": "Br. Vlaka 89118 odlazak      10.04.26. 02:43, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89763",
-    "event_time": "2026-04-10T02:41:00",
-    "seen_at": "2026-04-10T00:44:38.237Z",
-    "raw": "Br. Vlaka 89763 odlazak      10.04.26. 02:41, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89762",
-    "event_time": "2026-04-10T02:42:00",
-    "seen_at": "2026-04-10T00:45:25.658Z",
-    "raw": "Br. Vlaka 89762 odlazak      10.04.26. 02:42, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
     "type": "Odlazak",
     "station": "VELIKO TRGOVIŠĆE",
     "train_number": "89118",
@@ -13075,5 +13039,41 @@
     "event_time": "2026-04-13T02:35:00",
     "seen_at": "2026-04-13T00:35:40.435Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81230",
+    "event_time": "2026-04-13T02:38:00",
+    "seen_at": "2026-04-13T00:39:05.588Z",
+    "raw": "Br. Vlaka 81230 dolazak      13.04.26. 02:38, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81230",
+    "event_time": "2026-04-13T02:38:00",
+    "seen_at": "2026-04-13T00:39:05.588Z",
+    "raw": "Br. Vlaka 81230 dolazak      13.04.26. 02:38, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-13T02:38:00",
+    "seen_at": "2026-04-13T00:39:29.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-13T02:38:00",
+    "seen_at": "2026-04-13T00:39:29.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
