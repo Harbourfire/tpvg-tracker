@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "TOVARNIK granica",
-    "train_number": "40826",
-    "event_time": "2026-04-11T00:22:00",
-    "seen_at": "2026-04-10T22:26:49.138Z",
-    "raw": "Br. Vlaka 40826 odlazak      11.04.26. 00:22, kolodvor 71020"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "40826",
-    "event_time": "2026-04-11T00:25:00",
-    "seen_at": "2026-04-10T22:27:13.436Z",
-    "raw": "Br. Vlaka 40826 dolazak      11.04.26. 00:25, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-11T00:26:00",
-    "seen_at": "2026-04-10T22:28:01.292Z",
-    "raw": "Br. Vlaka 63305 odlazak      11.04.26. 00:26, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44999",
-    "event_time": "2026-04-11T00:30:00",
-    "seen_at": "2026-04-10T22:30:49.631Z",
-    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 00:30, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-11T00:15:00",
-    "seen_at": "2026-04-10T22:32:11.127Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -14875,5 +14830,14 @@
     "event_time": "2026-04-14T00:10:00",
     "seen_at": "2026-04-13T22:11:36.681Z",
     "raw": "Br. Vlaka 81165 odlazak      14.04.26. 00:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82104",
+    "event_time": "2026-04-14T00:26:00",
+    "seen_at": "2026-04-13T22:29:13.316Z",
+    "raw": "Br. Vlaka 82104 odlazak      14.04.26. 00:26, kolodvor NOVI MAROF"
   }
 ]
