@@ -14542,5 +14542,59 @@
     "event_time": "2026-04-13T20:05:00",
     "seen_at": "2026-04-13T18:06:24.372Z",
     "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:05, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89754",
+    "event_time": "2026-04-13T20:09:00",
+    "seen_at": "2026-04-13T18:10:16.369Z",
+    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 20:09, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81165",
+    "event_time": "2026-04-13T02:37:00",
+    "seen_at": "2026-04-13T18:14:15.417Z",
+    "raw": "Br. Vlaka 81165 promjena sas 13.04.26. 02:37, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47562",
+    "event_time": "2026-04-13T20:12:00",
+    "seen_at": "2026-04-13T18:17:03.049Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:12, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47562",
+    "event_time": "2026-04-13T20:12:00",
+    "seen_at": "2026-04-13T18:17:03.050Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:12, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-13T20:16:00",
+    "seen_at": "2026-04-13T18:17:26.750Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-13T20:16:00",
+    "seen_at": "2026-04-13T18:17:26.751Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
