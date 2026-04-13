@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44997",
-    "event_time": "2026-04-10T14:33:00",
-    "seen_at": "2026-04-10T12:35:00.984Z",
-    "raw": "Br. Vlaka 44997 odlazak      10.04.26. 14:33, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81157",
-    "event_time": "2026-04-10T14:35:00",
-    "seen_at": "2026-04-10T12:38:47.323Z",
-    "raw": "Br. Vlaka 81157 odlazak      10.04.26. 14:35, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Dolazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48756",
-    "event_time": "2026-04-10T14:41:00",
-    "seen_at": "2026-04-10T12:41:57.254Z",
-    "raw": "Br. Vlaka 48756 dolazak      10.04.26. 14:41, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "76600",
-    "event_time": "2026-04-10T14:43:00",
-    "seen_at": "2026-04-10T12:43:56.676Z",
-    "raw": "Br. Vlaka 76600 odlazak      10.04.26. 14:43, kolodvor OTOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44997",
-    "event_time": "2026-04-10T14:42:00",
-    "seen_at": "2026-04-10T12:43:56.677Z",
-    "raw": "Br. Vlaka 44997 dolazak      10.04.26. 14:42, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "PODSUSED tvornica",
@@ -14326,5 +14281,41 @@
     "event_time": "2026-04-13T14:29:00",
     "seen_at": "2026-04-13T12:34:41.420Z",
     "raw": "Br. Vlaka 44788 dolazak      13.04.26. 14:29, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-13T14:29:00",
+    "seen_at": "2026-04-13T12:35:23.733Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-13T14:38:00",
+    "seen_at": "2026-04-13T12:39:25.765Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 14:38, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-13T14:38:00",
+    "seen_at": "2026-04-13T12:39:25.765Z",
+    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 14:38, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-13T14:36:00",
+    "seen_at": "2026-04-13T12:40:38.375Z",
+    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 14:36, kolodvor KONJŠČINA"
   }
 ]
