@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-10T20:59:00",
-    "seen_at": "2026-04-10T18:59:53.821Z",
-    "raw": "Br. Vlaka 63310 odlazak      10.04.26. 20:59, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81218",
-    "event_time": "2026-04-10T21:02:00",
-    "seen_at": "2026-04-10T19:05:54.503Z",
-    "raw": "Br. Vlaka 81218 odlazak      10.04.26. 21:02, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-10T21:05:00",
-    "seen_at": "2026-04-10T19:06:19.183Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-10T20:09:00",
-    "seen_at": "2026-04-10T19:07:18.325Z",
-    "raw": "Br. Vlaka 63305 formiran     10.04.26. 20:09, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -14632,5 +14596,41 @@
     "event_time": "2026-04-13T20:51:00",
     "seen_at": "2026-04-13T18:52:42.772Z",
     "raw": "Br. Vlaka 45780 odlazak      13.04.26. 20:51, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "69771",
+    "event_time": "2026-04-13T20:59:00",
+    "seen_at": "2026-04-13T18:59:42.941Z",
+    "raw": "Br. Vlaka 69771 dolazak      13.04.26. 20:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-13T20:59:00",
+    "seen_at": "2026-04-13T19:00:07.419Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-13T20:53:00",
+    "seen_at": "2026-04-13T19:05:47.382Z",
+    "raw": "Br. Vlaka 69175 formiran     13.04.26. 20:53, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-13T20:53:00",
+    "seen_at": "2026-04-13T19:05:47.382Z",
+    "raw": "Br. Vlaka 69175 formiran     13.04.26. 20:53, kolodvor OŠTARIJE"
   }
 ]
