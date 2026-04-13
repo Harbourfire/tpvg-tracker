@@ -2,24 +2,6 @@
   {
     "uic": "927820622011",
     "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48756",
-    "event_time": "2026-04-10T16:35:00",
-    "seen_at": "2026-04-10T14:35:38.368Z",
-    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 16:35, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48756",
-    "event_time": "2026-04-10T16:41:00",
-    "seen_at": "2026-04-10T14:41:34.447Z",
-    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 16:41, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Odlazak",
     "station": "SAVSKI MAROF",
     "train_number": "48756",
     "event_time": "2026-04-10T16:46:00",
@@ -14524,5 +14506,23 @@
     "event_time": "2026-04-13T16:31:00",
     "seen_at": "2026-04-13T14:31:32.219Z",
     "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:31, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89708",
+    "event_time": "2026-04-13T15:34:00",
+    "seen_at": "2026-04-13T14:36:34.208Z",
+    "raw": "Br. Vlaka 89708 formiran     13.04.26. 15:34, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "69352",
+    "event_time": "2026-04-13T16:37:00",
+    "seen_at": "2026-04-13T14:37:21.699Z",
+    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:37, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
