@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622011",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-10T16:51:00",
-    "seen_at": "2026-04-10T14:53:27.570Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89920",
-    "event_time": "2026-04-10T16:53:00",
-    "seen_at": "2026-04-10T14:53:27.570Z",
-    "raw": "Br. Vlaka 89920 odlazak      10.04.26. 16:53, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "69613",
-    "event_time": "2026-04-10T16:49:00",
-    "seen_at": "2026-04-10T14:54:14.668Z",
-    "raw": "Br. Vlaka 69613 formiran     10.04.26. 16:49, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -14533,5 +14506,32 @@
     "event_time": "2026-04-13T16:50:00",
     "seen_at": "2026-04-13T14:50:30.014Z",
     "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:50, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89708",
+    "event_time": "2026-04-13T16:52:00",
+    "seen_at": "2026-04-13T14:55:07.337Z",
+    "raw": "Br. Vlaka 89708 odlazak      13.04.26. 16:52, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89708",
+    "event_time": "2026-04-13T16:56:00",
+    "seen_at": "2026-04-13T14:56:18.113Z",
+    "raw": "Br. Vlaka 89708 odlazak      13.04.26. 16:56, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "KOTORIBA",
+    "train_number": "49997",
+    "event_time": "2026-04-13T16:13:00",
+    "seen_at": "2026-04-13T15:00:39.583Z",
+    "raw": "Br. Vlaka 49997 promjena sas 13.04.26. 16:13, kolodvor KOTORIBA"
   }
 ]
