@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81218",
-    "event_time": "2026-04-10T18:23:00",
-    "seen_at": "2026-04-10T17:00:14.297Z",
-    "raw": "Br. Vlaka 81218 dolazak      10.04.26. 18:23, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81237",
-    "event_time": "2026-04-10T19:08:00",
-    "seen_at": "2026-04-10T17:09:23.004Z",
-    "raw": "Br. Vlaka 81237 odlazak      10.04.26. 19:08, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -14452,5 +14434,14 @@
     "event_time": "2026-04-10T18:52:00",
     "seen_at": "2026-04-13T16:55:03.950Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89751",
+    "event_time": "2026-04-13T18:57:00",
+    "seen_at": "2026-04-13T17:02:01.146Z",
+    "raw": "Br. Vlaka 89751 odlazak      13.04.26. 18:57, kolodvor SLAVONSKI BROD"
   }
 ]
