@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-10T02:28:00",
-    "seen_at": "2026-04-10T00:29:02.028Z",
-    "raw": "Br. Vlaka 69005 odlazak      10.04.26. 02:28, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-10T02:35:00",
-    "seen_at": "2026-04-10T00:35:49.373Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820621195",
     "type": "Formiran",
     "station": "LUKA",
@@ -13039,5 +13021,59 @@
     "event_time": "2026-04-13T02:23:00",
     "seen_at": "2026-04-13T00:25:47.698Z",
     "raw": "Br. Vlaka 49998 dolazak      13.04.26. 02:23, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-13T02:27:00",
+    "seen_at": "2026-04-13T00:28:30.517Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81230",
+    "event_time": "2026-04-13T02:32:00",
+    "seen_at": "2026-04-13T00:32:53.313Z",
+    "raw": "Br. Vlaka 81230 odlazak      13.04.26. 02:32, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81230",
+    "event_time": "2026-04-13T02:32:00",
+    "seen_at": "2026-04-13T00:32:53.313Z",
+    "raw": "Br. Vlaka 81230 odlazak      13.04.26. 02:32, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "49998",
+    "event_time": "2026-04-13T02:35:00",
+    "seen_at": "2026-04-13T00:35:16.677Z",
+    "raw": "Br. Vlaka 49998 dolazak      13.04.26. 02:35, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "89401",
+    "event_time": "2026-04-13T02:34:00",
+    "seen_at": "2026-04-13T00:35:40.435Z",
+    "raw": "Br. Vlaka 89401 dolazak      13.04.26. 02:34, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-13T02:35:00",
+    "seen_at": "2026-04-13T00:35:40.435Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
   }
 ]
