@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-10T11:07:00",
-    "seen_at": "2026-04-10T09:07:50.790Z",
-    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 11:07, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "76502",
-    "event_time": "2026-04-10T11:14:00",
-    "seen_at": "2026-04-10T09:14:29.673Z",
-    "raw": "Br. Vlaka 76502 odlazak      10.04.26. 11:14, kolodvor GARČIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -13867,5 +13849,59 @@
     "event_time": "2026-04-13T11:01:00",
     "seen_at": "2026-04-13T09:01:54.202Z",
     "raw": "Br. Vlaka 47562 dolazak      13.04.26. 11:01, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T11:07:00",
+    "seen_at": "2026-04-13T09:09:43.378Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:07, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "47562",
+    "event_time": "2026-04-13T11:07:00",
+    "seen_at": "2026-04-13T09:09:43.379Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:07, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89701",
+    "event_time": "2026-04-13T11:10:00",
+    "seen_at": "2026-04-13T09:10:31.869Z",
+    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 11:10, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81991",
+    "event_time": "2026-04-13T11:13:00",
+    "seen_at": "2026-04-13T09:14:54.906Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 11:13, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81991",
+    "event_time": "2026-04-13T11:13:00",
+    "seen_at": "2026-04-13T09:14:54.906Z",
+    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 11:13, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89929",
+    "event_time": "2026-04-13T11:11:00",
+    "seen_at": "2026-04-13T09:15:18.717Z",
+    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 11:11, kolodvor ČAKOVEC"
   }
 ]
