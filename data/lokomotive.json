@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622011",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48756",
-    "event_time": "2026-04-10T16:46:00",
-    "seen_at": "2026-04-10T14:46:28.383Z",
-    "raw": "Br. Vlaka 48756 odlazak      10.04.26. 16:46, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820622011",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF granica",
     "train_number": null,
@@ -14524,5 +14515,23 @@
     "event_time": "2026-04-13T16:37:00",
     "seen_at": "2026-04-13T14:37:21.699Z",
     "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:37, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "69352",
+    "event_time": "2026-04-13T16:44:00",
+    "seen_at": "2026-04-13T14:45:38.074Z",
+    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:44, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "69352",
+    "event_time": "2026-04-13T16:50:00",
+    "seen_at": "2026-04-13T14:50:30.014Z",
+    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:50, kolodvor GARČIN"
   }
 ]
