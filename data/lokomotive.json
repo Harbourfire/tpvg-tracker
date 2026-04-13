@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44999",
-    "event_time": "2026-04-10T22:36:00",
-    "seen_at": "2026-04-10T20:38:07.300Z",
-    "raw": "Br. Vlaka 44999 dolazak      10.04.26. 22:36, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44999",
-    "event_time": "2026-04-10T22:37:00",
-    "seen_at": "2026-04-10T20:38:31.091Z",
-    "raw": "Br. Vlaka 44999 odlazak      10.04.26. 22:37, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "PLAŠKI",
@@ -14821,5 +14803,50 @@
     "event_time": "2026-04-13T22:35:00",
     "seen_at": "2026-04-13T20:36:12.841Z",
     "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "82111",
+    "train_number": null,
+    "event_time": "2026-04-13T20:38:22.322Z",
+    "seen_at": "2026-04-13T20:38:22.322Z",
+    "raw": "Trenutna pozicija je u kolodvoru 82111 82111"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "82111",
+    "train_number": null,
+    "event_time": "2026-04-13T20:38:22.323Z",
+    "seen_at": "2026-04-13T20:38:22.323Z",
+    "raw": "Trenutna pozicija je u kolodvoru 82111 82111"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "69175",
+    "event_time": "2026-04-13T22:40:00",
+    "seen_at": "2026-04-13T20:41:56.236Z",
+    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 22:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "69175",
+    "event_time": "2026-04-13T22:40:00",
+    "seen_at": "2026-04-13T20:41:56.237Z",
+    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 22:40, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89753",
+    "event_time": "2026-04-13T22:45:00",
+    "seen_at": "2026-04-13T20:45:29.866Z",
+    "raw": "Br. Vlaka 89753 odlazak      13.04.26. 22:45, kolodvor ORIOVAC"
   }
 ]
