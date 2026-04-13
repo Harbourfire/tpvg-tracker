@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44997",
-    "event_time": "2026-04-11T00:07:00",
-    "seen_at": "2026-04-10T22:07:44.471Z",
-    "raw": "Br. Vlaka 44997 odlazak      11.04.26. 00:07, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44997",
-    "event_time": "2026-04-11T00:07:00",
-    "seen_at": "2026-04-10T22:07:44.472Z",
-    "raw": "Br. Vlaka 44997 odlazak      11.04.26. 00:07, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-11T00:07:00",
-    "seen_at": "2026-04-10T22:08:32.935Z",
-    "raw": "Br. Vlaka 63305 dolazak      11.04.26. 00:07, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89252",
-    "event_time": "2026-04-11T00:08:00",
-    "seen_at": "2026-04-10T22:09:20.722Z",
-    "raw": "Br. Vlaka 89252 formiran     11.04.26. 00:08, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -14911,5 +14875,23 @@
     "event_time": "2026-04-13T23:59:00",
     "seen_at": "2026-04-13T22:03:21.592Z",
     "raw": "Br. Vlaka 89126 odlazak      13.04.26. 23:59, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-14T00:07:00",
+    "seen_at": "2026-04-13T22:08:00.113Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81165",
+    "event_time": "2026-04-14T00:10:00",
+    "seen_at": "2026-04-13T22:11:36.681Z",
+    "raw": "Br. Vlaka 81165 odlazak      14.04.26. 00:10, kolodvor VINKOVCI"
   }
 ]
