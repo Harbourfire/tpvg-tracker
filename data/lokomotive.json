@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "45988",
-    "event_time": "2026-04-10T03:40:00",
-    "seen_at": "2026-04-10T07:33:56.217Z",
-    "raw": "Br. Vlaka 45988 promjena sas 10.04.26. 03:40, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45988",
-    "event_time": "2026-04-10T09:33:00",
-    "seen_at": "2026-04-10T07:34:19.985Z",
-    "raw": "Br. Vlaka 45988 odlazak      10.04.26. 09:33, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T09:33:00",
-    "seen_at": "2026-04-10T07:34:43.707Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 09:33, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89942",
-    "event_time": "2026-04-10T09:15:00",
-    "seen_at": "2026-04-10T07:35:07.455Z",
-    "raw": "Br. Vlaka 89942 dolazak      10.04.26. 09:15, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-10T09:30:00",
-    "seen_at": "2026-04-10T07:35:31.137Z",
-    "raw": "Br. Vlaka 43995 odlazak      10.04.26. 09:30, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89942",
-    "event_time": "2026-04-10T09:29:00",
-    "seen_at": "2026-04-10T07:35:31.138Z",
-    "raw": "Br. Vlaka 89942 odlazak      10.04.26. 09:29, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76503",
-    "event_time": "2026-04-10T09:35:00",
-    "seen_at": "2026-04-10T07:35:31.138Z",
-    "raw": "Br. Vlaka 76503 dolazak      10.04.26. 09:35, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89942",
-    "event_time": "2026-04-10T09:36:00",
-    "seen_at": "2026-04-10T07:37:53.376Z",
-    "raw": "Br. Vlaka 89942 odlazak      10.04.26. 09:36, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -13930,5 +13858,32 @@
     "event_time": "2026-04-13T09:27:00",
     "seen_at": "2026-04-13T07:28:38.227Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76512",
+    "event_time": "2026-04-13T09:31:00",
+    "seen_at": "2026-04-13T07:34:08.753Z",
+    "raw": "Br. Vlaka 76512 odlazak      13.04.26. 09:31, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44786",
+    "event_time": "2026-04-13T09:30:00",
+    "seen_at": "2026-04-13T07:36:57.959Z",
+    "raw": "Br. Vlaka 44786 dolazak      13.04.26. 09:30, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-13T09:30:00",
+    "seen_at": "2026-04-13T07:37:22.256Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
   }
 ]
