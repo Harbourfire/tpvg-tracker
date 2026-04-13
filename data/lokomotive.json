@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-10T12:16:00",
-    "seen_at": "2026-04-10T10:19:04.007Z",
-    "raw": "Br. Vlaka 48786 odlazak      10.04.26. 12:16, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48756",
-    "event_time": "2026-04-10T12:19:00",
-    "seen_at": "2026-04-10T10:22:41.044Z",
-    "raw": "Br. Vlaka 48756 promjena sas 10.04.26. 12:19, kolodvor 72303"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "82329",
-    "event_time": "2026-04-10T12:23:00",
-    "seen_at": "2026-04-10T10:24:18.299Z",
-    "raw": "Br. Vlaka 82329 odlazak      10.04.26. 12:23, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82107",
-    "event_time": "2026-04-10T12:25:00",
-    "seen_at": "2026-04-10T10:26:19.935Z",
-    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:25, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820621195",
     "type": "Dolazak",
     "station": "KOTORIBA",
     "train_number": "48786",
@@ -14029,5 +13993,113 @@
     "event_time": "2026-04-13T12:00:00",
     "seen_at": "2026-04-13T10:00:33.823Z",
     "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:00, kolodvor SESVETE"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Formiran",
+    "station": "DRENOVCI",
+    "train_number": "74100",
+    "event_time": "2026-04-13T12:15:00",
+    "seen_at": "2026-04-13T10:18:05.745Z",
+    "raw": "Br. Vlaka 74100 formiran     13.04.26. 12:15, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "81989",
+    "event_time": "2026-04-13T12:15:00",
+    "seen_at": "2026-04-13T10:18:53.919Z",
+    "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:15, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "74100",
+    "event_time": "2026-04-13T12:10:00",
+    "seen_at": "2026-04-13T10:18:53.921Z",
+    "raw": "Br. Vlaka 74100 odlazak      13.04.26. 12:10, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-13T12:03:00",
+    "seen_at": "2026-04-13T10:19:41.870Z",
+    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:03, kolodvor 77424"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "45597",
+    "event_time": "2026-04-13T12:03:00",
+    "seen_at": "2026-04-13T10:19:41.870Z",
+    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:03, kolodvor 77424"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "45597",
+    "event_time": "2026-04-13T12:12:00",
+    "seen_at": "2026-04-13T10:20:07.567Z",
+    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:12, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "45597",
+    "event_time": "2026-04-13T12:12:00",
+    "seen_at": "2026-04-13T10:20:07.567Z",
+    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:12, kolodvor BUZET"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "47562",
+    "event_time": "2026-04-13T12:05:00",
+    "seen_at": "2026-04-13T10:21:19.571Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 12:05, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "47562",
+    "event_time": "2026-04-13T12:05:00",
+    "seen_at": "2026-04-13T10:21:19.572Z",
+    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 12:05, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "81989",
+    "event_time": "2026-04-13T12:23:00",
+    "seen_at": "2026-04-13T10:23:19.765Z",
+    "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:23, kolodvor 72302"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45597",
+    "event_time": "2026-04-13T12:21:00",
+    "seen_at": "2026-04-13T10:24:32.225Z",
+    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:21, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "45597",
+    "event_time": "2026-04-13T12:21:00",
+    "seen_at": "2026-04-13T10:24:32.225Z",
+    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:21, kolodvor ROČ"
   }
 ]
