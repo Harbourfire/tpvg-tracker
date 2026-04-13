@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "69771",
-    "event_time": "2026-04-10T12:58:00",
-    "seen_at": "2026-04-10T11:06:45.490Z",
-    "raw": "Br. Vlaka 69771 odlazak      10.04.26. 12:58, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44783",
-    "event_time": "2026-04-10T13:06:00",
-    "seen_at": "2026-04-10T11:07:43.619Z",
-    "raw": "Br. Vlaka 44783 dolazak      10.04.26. 13:06, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-10T13:05:00",
-    "seen_at": "2026-04-10T11:14:27.880Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-10T09:35:00",
-    "seen_at": "2026-04-10T11:15:15.137Z",
-    "raw": "Br. Vlaka 69751 formiran     10.04.26. 09:35, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69751",
-    "event_time": "2026-04-10T13:14:00",
-    "seen_at": "2026-04-10T11:15:38.687Z",
-    "raw": "Br. Vlaka 69751 dolazak      10.04.26. 13:14, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820621104",
     "type": "Rasformiran",
     "station": "OSIJEK DONJI GRAD",
     "train_number": null,
@@ -14182,5 +14137,50 @@
     "event_time": "2026-04-13T13:05:00",
     "seen_at": "2026-04-13T11:06:04.356Z",
     "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:05, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-13T13:04:00",
+    "seen_at": "2026-04-13T11:09:54.001Z",
+    "raw": "Br. Vlaka 45104 odlazak      13.04.26. 13:04, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "47562",
+    "event_time": "2026-04-13T13:11:00",
+    "seen_at": "2026-04-13T11:12:20.237Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:11, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "47562",
+    "event_time": "2026-04-13T13:11:00",
+    "seen_at": "2026-04-13T11:12:20.238Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:11, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49999",
+    "event_time": "2026-04-13T13:12:00",
+    "seen_at": "2026-04-13T11:13:08.581Z",
+    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 13:12, kolodvor TURČIN"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69852",
+    "event_time": "2026-04-13T13:10:00",
+    "seen_at": "2026-04-13T11:13:08.582Z",
+    "raw": "Br. Vlaka 69852 odlazak      13.04.26. 13:10, kolodvor VINKOVCI"
   }
 ]
