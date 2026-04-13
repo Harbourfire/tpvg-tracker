@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-04-10T09:06:00",
-    "seen_at": "2026-04-10T07:21:09.575Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48786",
-    "event_time": "2026-04-10T09:20:00",
-    "seen_at": "2026-04-10T07:22:57.871Z",
-    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 09:20, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76503",
-    "event_time": "2026-04-10T09:24:00",
-    "seen_at": "2026-04-10T07:24:10.491Z",
-    "raw": "Br. Vlaka 76503 odlazak      10.04.26. 09:24, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "89300",
-    "event_time": "2026-04-10T09:22:00",
-    "seen_at": "2026-04-10T07:25:22.083Z",
-    "raw": "Br. Vlaka 89300 odlazak      10.04.26. 09:22, kolodvor OTOK"
-  },
-  {
     "uic": "927820621104",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -13930,5 +13894,41 @@
     "event_time": "2026-04-13T09:17:00",
     "seen_at": "2026-04-13T07:17:53.082Z",
     "raw": "Br. Vlaka 69851 formiran     13.04.26. 09:17, kolodvor ERDUT"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76521",
+    "event_time": "2026-04-13T09:18:00",
+    "seen_at": "2026-04-13T07:20:10.696Z",
+    "raw": "Br. Vlaka 76521 odlazak      13.04.26. 09:18, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44786",
+    "event_time": "2026-04-13T09:25:00",
+    "seen_at": "2026-04-13T07:27:25.926Z",
+    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 09:25, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76521",
+    "event_time": "2026-04-13T09:27:00",
+    "seen_at": "2026-04-13T07:28:13.959Z",
+    "raw": "Br. Vlaka 76521 dolazak      13.04.26. 09:27, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-13T09:27:00",
+    "seen_at": "2026-04-13T07:28:38.227Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
