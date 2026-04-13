@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "48786",
-    "event_time": "2026-04-10T12:42:00",
-    "seen_at": "2026-04-10T10:50:35.784Z",
-    "raw": "Br. Vlaka 48786 dolazak      10.04.26. 12:42, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-10T12:42:00",
-    "seen_at": "2026-04-10T10:50:59.747Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44783",
-    "event_time": "2026-04-10T12:49:00",
-    "seen_at": "2026-04-10T10:51:23.307Z",
-    "raw": "Br. Vlaka 44783 odlazak      10.04.26. 12:49, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82107",
-    "event_time": "2026-04-10T12:52:00",
-    "seen_at": "2026-04-10T10:56:07.319Z",
-    "raw": "Br. Vlaka 82107 odlazak      10.04.26. 12:52, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "44996",
@@ -14164,5 +14128,32 @@
     "event_time": "2026-04-13T13:11:00",
     "seen_at": "2026-04-13T10:42:26.884Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "47562",
+    "event_time": "2026-04-13T12:47:00",
+    "seen_at": "2026-04-13T10:48:58.619Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 12:47, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "47562",
+    "event_time": "2026-04-13T12:47:00",
+    "seen_at": "2026-04-13T10:48:58.620Z",
+    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 12:47, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89064",
+    "event_time": "2026-04-13T12:53:00",
+    "seen_at": "2026-04-13T10:53:46.517Z",
+    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 12:53, kolodvor ZAPREŠIĆ"
   }
 ]
