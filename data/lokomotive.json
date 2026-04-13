@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "61004",
-    "event_time": "2026-04-10T02:08:00",
-    "seen_at": "2026-04-10T00:09:39.934Z",
-    "raw": "Br. Vlaka 61004 dolazak      10.04.26. 02:08, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "61004",
-    "event_time": "2026-04-10T02:08:00",
-    "seen_at": "2026-04-10T00:09:39.934Z",
-    "raw": "Br. Vlaka 61004 dolazak      10.04.26. 02:08, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89762",
-    "event_time": "2026-04-10T02:09:00",
-    "seen_at": "2026-04-10T00:10:03.682Z",
-    "raw": "Br. Vlaka 89762 odlazak      10.04.26. 02:09, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "82277",
-    "event_time": "2026-04-10T02:09:00",
-    "seen_at": "2026-04-10T00:11:14.671Z",
-    "raw": "Br. Vlaka 82277 odlazak      10.04.26. 02:09, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-09T17:12:00",
-    "seen_at": "2026-04-10T00:13:38.050Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45988",
-    "event_time": "2026-04-09T18:15:00",
-    "seen_at": "2026-04-10T00:15:30.613Z",
-    "raw": "Br. Vlaka 45988 formiran     09.04.26. 18:15, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "82277",
-    "event_time": "2026-04-10T02:14:00",
-    "seen_at": "2026-04-10T00:15:54.207Z",
-    "raw": "Br. Vlaka 82277 odlazak      10.04.26. 02:14, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89762",
-    "event_time": "2026-04-10T02:15:00",
-    "seen_at": "2026-04-10T00:16:17.657Z",
-    "raw": "Br. Vlaka 89762 odlazak      10.04.26. 02:15, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "LUKA",
@@ -13084,5 +13012,50 @@
     "event_time": "2026-04-13T02:06:00",
     "seen_at": "2026-04-13T00:08:13.463Z",
     "raw": "Br. Vlaka 89401 odlazak      13.04.26. 02:06, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89119",
+    "event_time": "2026-04-13T02:08:00",
+    "seen_at": "2026-04-13T00:09:36.231Z",
+    "raw": "Br. Vlaka 89119 odlazak      13.04.26. 02:08, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "49998",
+    "event_time": "2026-04-13T02:10:00",
+    "seen_at": "2026-04-13T00:10:23.744Z",
+    "raw": "Br. Vlaka 49998 odlazak      13.04.26. 02:10, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81230",
+    "event_time": "2026-04-13T02:14:00",
+    "seen_at": "2026-04-13T00:15:58.156Z",
+    "raw": "Br. Vlaka 81230 odlazak      13.04.26. 02:14, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81230",
+    "event_time": "2026-04-13T02:14:00",
+    "seen_at": "2026-04-13T00:15:58.156Z",
+    "raw": "Br. Vlaka 81230 odlazak      13.04.26. 02:14, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89119",
+    "event_time": "2026-04-13T02:16:00",
+    "seen_at": "2026-04-13T00:17:34.532Z",
+    "raw": "Br. Vlaka 89119 odlazak      13.04.26. 02:16, kolodvor BEDEKOVČINA"
   }
 ]
