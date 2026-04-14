@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-11T22:12:00",
-    "seen_at": "2026-04-11T20:13:48.656Z",
-    "raw": "Br. Vlaka 44789 dolazak      11.04.26. 22:12, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "49997",
-    "event_time": "2026-04-11T22:15:00",
-    "seen_at": "2026-04-11T20:15:46.561Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 22:15, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "61037",
-    "event_time": "2026-04-11T22:13:00",
-    "seen_at": "2026-04-11T20:16:09.973Z",
-    "raw": "Br. Vlaka 61037 dolazak      11.04.26. 22:13, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -13867,5 +13840,50 @@
     "event_time": "2026-04-14T22:07:00",
     "seen_at": "2026-04-14T20:08:04.579Z",
     "raw": "Br. Vlaka 89920 odlazak      14.04.26. 22:07, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44994",
+    "event_time": "2026-04-14T22:10:00",
+    "seen_at": "2026-04-14T20:11:54.250Z",
+    "raw": "Br. Vlaka 44994 odlazak      14.04.26. 22:10, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82323",
+    "event_time": "2026-04-14T22:12:00",
+    "seen_at": "2026-04-14T20:13:30.969Z",
+    "raw": "Br. Vlaka 82323 odlazak      14.04.26. 22:12, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "OKUČANI",
+    "train_number": "89103",
+    "event_time": "2026-04-14T19:17:00",
+    "seen_at": "2026-04-14T20:13:55.032Z",
+    "raw": "Br. Vlaka 89103 formiran     14.04.26. 19:17, kolodvor OKUČANI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "89103",
+    "event_time": "2026-04-14T22:12:00",
+    "seen_at": "2026-04-14T20:14:19.094Z",
+    "raw": "Br. Vlaka 89103 odlazak      14.04.26. 22:12, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89920",
+    "event_time": "2026-04-14T22:17:00",
+    "seen_at": "2026-04-14T20:17:35.793Z",
+    "raw": "Br. Vlaka 89920 dolazak      14.04.26. 22:17, kolodvor ZAGREB KLARA"
   }
 ]
