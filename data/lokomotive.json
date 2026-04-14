@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-11T15:20:00",
-    "seen_at": "2026-04-11T13:20:16.248Z",
-    "raw": "Br. Vlaka 43995 dolazak      11.04.26. 15:20, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-11T15:21:00",
-    "seen_at": "2026-04-11T13:21:27.594Z",
-    "raw": "Br. Vlaka 45597 formiran     11.04.26. 15:21, kolodvor 77424"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -14137,5 +14119,50 @@
     "event_time": "2026-04-14T15:07:00",
     "seen_at": "2026-04-14T13:08:02.815Z",
     "raw": "Br. Vlaka 63312 odlazak      14.04.26. 15:07, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49997",
+    "event_time": "2026-04-14T15:15:00",
+    "seen_at": "2026-04-14T13:17:09.759Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:15, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49997",
+    "event_time": "2026-04-14T15:15:00",
+    "seen_at": "2026-04-14T13:17:09.760Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:15, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63312",
+    "event_time": "2026-04-14T15:18:00",
+    "seen_at": "2026-04-14T13:18:22.051Z",
+    "raw": "Br. Vlaka 63312 dolazak      14.04.26. 15:18, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-14T15:18:00",
+    "seen_at": "2026-04-14T13:18:46.235Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-14T14:46:00",
+    "seen_at": "2026-04-14T13:19:10.334Z",
+    "raw": "Br. Vlaka 63310 promjena sas 14.04.26. 14:46, kolodvor RUDOPOLJE"
   }
 ]
