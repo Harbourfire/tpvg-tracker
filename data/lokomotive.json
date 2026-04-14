@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "49997",
-    "event_time": "2026-04-11T21:20:00",
-    "seen_at": "2026-04-11T19:21:38.519Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 21:20, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "61037",
-    "event_time": "2026-04-11T14:44:00",
-    "seen_at": "2026-04-11T19:23:24.767Z",
-    "raw": "Br. Vlaka 61037 promjena sas 11.04.26. 14:44, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "61037",
-    "event_time": "2026-04-11T21:21:00",
-    "seen_at": "2026-04-11T19:23:49.006Z",
-    "raw": "Br. Vlaka 61037 odlazak      11.04.26. 21:21, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44994",
-    "event_time": "2026-04-11T21:25:00",
-    "seen_at": "2026-04-11T19:26:11.926Z",
-    "raw": "Br. Vlaka 44994 odlazak      11.04.26. 21:25, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "49997",
-    "event_time": "2026-04-11T21:28:00",
-    "seen_at": "2026-04-11T19:30:10.159Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 21:28, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -13921,5 +13876,23 @@
     "event_time": "2026-04-14T21:14:00",
     "seen_at": "2026-04-14T19:14:47.110Z",
     "raw": "Br. Vlaka 89762 odlazak      14.04.26. 21:14, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82323",
+    "event_time": "2026-04-14T21:22:00",
+    "seen_at": "2026-04-14T19:24:02.059Z",
+    "raw": "Br. Vlaka 82323 odlazak      14.04.26. 21:22, kolodvor TURČIN"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89762",
+    "event_time": "2026-04-14T21:27:00",
+    "seen_at": "2026-04-14T19:27:17.965Z",
+    "raw": "Br. Vlaka 89762 odlazak      14.04.26. 21:27, kolodvor NOVA GRADIŠKA"
   }
 ]
