@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "RUDOPOLJE",
-    "train_number": "89135",
-    "event_time": "2026-04-11T14:09:00",
-    "seen_at": "2026-04-11T13:56:23.344Z",
-    "raw": "Br. Vlaka 89135 formiran     11.04.26. 14:09, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T15:47:00",
-    "seen_at": "2026-04-11T13:58:47.319Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 15:47, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T15:56:00",
-    "seen_at": "2026-04-11T13:59:11.312Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 15:56, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -14164,5 +14137,23 @@
     "event_time": "2026-04-14T15:51:00",
     "seen_at": "2026-04-14T13:51:43.473Z",
     "raw": "Br. Vlaka 89755 odlazak      14.04.26. 15:51, kolodvor 72302"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44788",
+    "event_time": "2026-04-14T15:58:00",
+    "seen_at": "2026-04-14T13:59:32.740Z",
+    "raw": "Br. Vlaka 44788 dolazak      14.04.26. 15:58, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-14T15:58:00",
+    "seen_at": "2026-04-14T14:02:24.255Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
