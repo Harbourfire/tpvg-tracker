@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-04-11T12:25:00",
-    "seen_at": "2026-04-11T10:28:33.830Z",
-    "raw": "Br. Vlaka 45104 odlazak      11.04.26. 12:25, kolodvor OTOK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49997",
-    "event_time": "2026-04-11T12:34:00",
-    "seen_at": "2026-04-11T10:35:27.043Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 12:34, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "69771",
-    "event_time": "2026-04-11T12:36:00",
-    "seen_at": "2026-04-11T10:37:25.335Z",
-    "raw": "Br. Vlaka 69771 odlazak      11.04.26. 12:36, kolodvor DARDA"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "BUZET granica",
@@ -14407,5 +14380,32 @@
     "event_time": "2026-04-14T12:27:00",
     "seen_at": "2026-04-14T10:27:57.802Z",
     "raw": "Br. Vlaka 69851 odlazak      14.04.26. 12:27, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81231",
+    "event_time": "2026-04-14T12:26:00",
+    "seen_at": "2026-04-14T10:30:11.351Z",
+    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 12:26, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:30:00",
+    "seen_at": "2026-04-14T10:32:34.846Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:30, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:30:00",
+    "seen_at": "2026-04-14T10:32:34.847Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:30, kolodvor DONJI KRALJEVEC"
   }
 ]
