@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T15:33:00",
-    "seen_at": "2026-04-11T13:38:00.518Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 15:33, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T15:34:00",
-    "seen_at": "2026-04-11T13:38:48.504Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 15:34, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-11T15:41:00",
-    "seen_at": "2026-04-11T13:43:25.689Z",
-    "raw": "Br. Vlaka 63310 odlazak      11.04.26. 15:41, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-11T15:41:00",
-    "seen_at": "2026-04-11T13:43:25.689Z",
-    "raw": "Br. Vlaka 63310 odlazak      11.04.26. 15:41, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14164,5 +14128,50 @@
     "event_time": "2026-04-14T15:31:00",
     "seen_at": "2026-04-14T13:32:09.716Z",
     "raw": "Br. Vlaka 44788 odlazak      14.04.26. 15:31, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47428",
+    "event_time": "2026-04-14T15:35:00",
+    "seen_at": "2026-04-14T13:37:58.770Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 15:35, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49997",
+    "event_time": "2026-04-14T15:34:00",
+    "seen_at": "2026-04-14T13:38:46.704Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:34, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49997",
+    "event_time": "2026-04-14T15:34:00",
+    "seen_at": "2026-04-14T13:38:46.706Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:34, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-14T15:40:00",
+    "seen_at": "2026-04-14T13:41:32.394Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44788",
+    "event_time": "2026-04-14T15:39:00",
+    "seen_at": "2026-04-14T13:41:55.973Z",
+    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 15:39, kolodvor MALA SUBOTICA"
   }
 ]
