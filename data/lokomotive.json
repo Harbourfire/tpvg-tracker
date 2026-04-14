@@ -2,33 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48784",
-    "event_time": "2026-04-11T02:50:00",
-    "seen_at": "2026-04-11T00:52:02.178Z",
-    "raw": "Br. Vlaka 48784 odlazak      11.04.26. 02:50, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49999",
-    "event_time": "2026-04-11T02:56:00",
-    "seen_at": "2026-04-11T00:56:46.567Z",
-    "raw": "Br. Vlaka 49999 odlazak      11.04.26. 02:56, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-10T17:08:00",
-    "seen_at": "2026-04-11T00:57:44.689Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
     "train_number": "48784",
     "event_time": "2026-04-11T03:01:00",
@@ -14686,5 +14659,50 @@
     "event_time": "2026-04-14T02:42:00",
     "seen_at": "2026-04-14T00:44:05.532Z",
     "raw": "Br. Vlaka 45780 promjena sas 14.04.26. 02:42, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "45780",
+    "event_time": "2026-04-14T02:51:00",
+    "seen_at": "2026-04-14T00:51:49.880Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 02:51, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "45780",
+    "event_time": "2026-04-14T02:51:00",
+    "seen_at": "2026-04-14T00:51:49.882Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 02:51, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82108",
+    "event_time": "2026-04-14T02:50:00",
+    "seen_at": "2026-04-14T00:53:02.295Z",
+    "raw": "Br. Vlaka 82108 dolazak      14.04.26. 02:50, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82108",
+    "event_time": "2026-04-14T02:50:00",
+    "seen_at": "2026-04-14T00:53:02.295Z",
+    "raw": "Br. Vlaka 82108 dolazak      14.04.26. 02:50, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "69784",
+    "event_time": "2026-04-14T02:58:00",
+    "seen_at": "2026-04-14T00:59:26.896Z",
+    "raw": "Br. Vlaka 69784 dolazak      14.04.26. 02:58, kolodvor OSIJEK"
   }
 ]
