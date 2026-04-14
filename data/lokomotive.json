@@ -2,51 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44994",
-    "event_time": "2026-04-11T19:32:00",
-    "seen_at": "2026-04-11T17:33:26.104Z",
-    "raw": "Br. Vlaka 44994 odlazak      11.04.26. 19:32, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "49997",
-    "event_time": "2026-04-11T19:34:00",
-    "seen_at": "2026-04-11T17:34:13.337Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 19:34, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44994",
-    "event_time": "2026-04-11T19:38:00",
-    "seen_at": "2026-04-11T17:38:23.498Z",
-    "raw": "Br. Vlaka 44994 odlazak      11.04.26. 19:38, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81232",
-    "event_time": "2026-04-11T19:37:00",
-    "seen_at": "2026-04-11T17:38:23.498Z",
-    "raw": "Br. Vlaka 81232 odlazak      11.04.26. 19:37, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81232",
-    "event_time": "2026-04-11T19:37:00",
-    "seen_at": "2026-04-11T17:38:23.498Z",
-    "raw": "Br. Vlaka 81232 odlazak      11.04.26. 19:37, kolodvor BLATA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "44994",
     "event_time": "2026-04-11T19:43:00",
@@ -14047,5 +14002,23 @@
     "event_time": "2026-04-14T19:31:00",
     "seen_at": "2026-04-14T17:31:47.434Z",
     "raw": "Br. Vlaka 45581 odlazak      14.04.26. 19:31, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-14T19:32:00",
+    "seen_at": "2026-04-14T17:34:28.893Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "45581",
+    "event_time": "2026-04-14T19:41:00",
+    "seen_at": "2026-04-14T17:42:09.718Z",
+    "raw": "Br. Vlaka 45581 dolazak      14.04.26. 19:41, kolodvor GENERALSKI STOL"
   }
 ]
