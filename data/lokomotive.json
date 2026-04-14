@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "40826",
-    "event_time": "2026-04-11T02:17:00",
-    "seen_at": "2026-04-11T00:18:03.961Z",
-    "raw": "Br. Vlaka 40826 odlazak      11.04.26. 02:17, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820440240",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -14614,5 +14605,59 @@
     "event_time": "2026-04-14T02:03:00",
     "seen_at": "2026-04-14T00:04:52.634Z",
     "raw": "Br. Vlaka 61004 dolazak      14.04.26. 02:03, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "45780",
+    "event_time": "2026-04-14T02:11:00",
+    "seen_at": "2026-04-14T00:12:11.766Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 02:11, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "45780",
+    "event_time": "2026-04-14T02:11:00",
+    "seen_at": "2026-04-14T00:12:11.767Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 02:11, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69784",
+    "event_time": "2026-04-14T01:29:00",
+    "seen_at": "2026-04-14T00:13:46.335Z",
+    "raw": "Br. Vlaka 69784 formiran     14.04.26. 01:29, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82108",
+    "event_time": "2026-04-14T02:14:00",
+    "seen_at": "2026-04-14T00:16:08.369Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 02:14, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82108",
+    "event_time": "2026-04-14T02:14:00",
+    "seen_at": "2026-04-14T00:16:08.369Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 02:14, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69784",
+    "event_time": "2026-04-14T02:13:00",
+    "seen_at": "2026-04-14T00:16:32.035Z",
+    "raw": "Br. Vlaka 69784 odlazak      14.04.26. 02:13, kolodvor VINKOVCI"
   }
 ]
