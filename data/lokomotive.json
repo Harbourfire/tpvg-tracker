@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-11T17:12:00",
-    "seen_at": "2026-04-11T15:13:52.551Z",
-    "raw": "Br. Vlaka 43995 odlazak      11.04.26. 17:12, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "49997",
-    "event_time": "2026-04-11T17:20:00",
-    "seen_at": "2026-04-11T15:20:50.535Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 17:20, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "43995",
-    "event_time": "2026-04-11T17:21:00",
-    "seen_at": "2026-04-11T15:23:14.171Z",
-    "raw": "Br. Vlaka 43995 odlazak      11.04.26. 17:21, kolodvor TURČIN"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "HORVATI",
@@ -14218,5 +14191,32 @@
     "event_time": "2026-04-14T17:05:00",
     "seen_at": "2026-04-14T15:09:54.633Z",
     "raw": "Br. Vlaka 45581 odlazak      14.04.26. 17:05, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63310",
+    "event_time": "2026-04-14T17:13:00",
+    "seen_at": "2026-04-14T15:14:33.531Z",
+    "raw": "Br. Vlaka 63310 dolazak      14.04.26. 17:13, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-14T17:13:00",
+    "seen_at": "2026-04-14T15:14:58.585Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "89925",
+    "event_time": "2026-04-14T17:17:00",
+    "seen_at": "2026-04-14T15:18:16.581Z",
+    "raw": "Br. Vlaka 89925 odlazak      14.04.26. 17:17, kolodvor KOTORIBA"
   }
 ]
