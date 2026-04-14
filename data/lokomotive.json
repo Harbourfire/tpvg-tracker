@@ -1,104 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "49997",
-    "event_time": "2026-04-11T12:51:00",
-    "seen_at": "2026-04-11T10:52:26.571Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 12:51, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "KOTORIBA",
-    "train_number": "43995",
-    "event_time": "2026-04-11T12:38:00",
-    "seen_at": "2026-04-11T10:53:14.573Z",
-    "raw": "Br. Vlaka 43995 promjena sas 11.04.26. 12:38, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:31:00",
-    "seen_at": "2026-04-11T10:54:26.636Z",
-    "raw": "Br. Vlaka 69175 dolazak      11.04.26. 12:31, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:31:00",
-    "seen_at": "2026-04-11T10:54:26.636Z",
-    "raw": "Br. Vlaka 69175 dolazak      11.04.26. 12:31, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-11T12:54:00",
-    "seen_at": "2026-04-11T10:54:50.639Z",
-    "raw": "Br. Vlaka 45104 dolazak      11.04.26. 12:54, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:52:00",
-    "seen_at": "2026-04-11T10:54:50.641Z",
-    "raw": "Br. Vlaka 69175 odlazak      11.04.26. 12:52, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:52:00",
-    "seen_at": "2026-04-11T10:54:50.641Z",
-    "raw": "Br. Vlaka 69175 odlazak      11.04.26. 12:52, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-11T12:54:00",
-    "seen_at": "2026-04-11T10:55:14.501Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "48597",
-    "event_time": "2026-04-11T12:39:00",
-    "seen_at": "2026-04-11T10:55:14.503Z",
-    "raw": "Br. Vlaka 48597 odlazak      11.04.26. 12:39, kolodvor 77424"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "48597",
-    "event_time": "2026-04-11T12:47:00",
-    "seen_at": "2026-04-11T10:55:38.240Z",
-    "raw": "Br. Vlaka 48597 dolazak      11.04.26. 12:47, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "48597",
-    "event_time": "2026-04-11T12:50:00",
-    "seen_at": "2026-04-11T10:57:13.613Z",
-    "raw": "Br. Vlaka 48597 odlazak      11.04.26. 12:50, kolodvor BUZET"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -14434,5 +14335,41 @@
     "event_time": "2026-04-14T12:40:00",
     "seen_at": "2026-04-14T10:44:52.930Z",
     "raw": "Br. Vlaka 78000 odlazak      14.04.26. 12:40, kolodvor LOVINAC"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "MEDAK",
+    "train_number": "78000",
+    "event_time": "2026-04-14T12:52:00",
+    "seen_at": "2026-04-14T10:53:27.255Z",
+    "raw": "Br. Vlaka 78000 odlazak      14.04.26. 12:52, kolodvor MEDAK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82300",
+    "event_time": "2026-04-14T12:54:00",
+    "seen_at": "2026-04-14T10:56:37.497Z",
+    "raw": "Br. Vlaka 82300 odlazak      14.04.26. 12:54, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:50:00",
+    "seen_at": "2026-04-14T10:57:01.185Z",
+    "raw": "Br. Vlaka 44787 dolazak      14.04.26. 12:50, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:50:00",
+    "seen_at": "2026-04-14T10:57:01.186Z",
+    "raw": "Br. Vlaka 44787 dolazak      14.04.26. 12:50, kolodvor ČAKOVEC"
   }
 ]
