@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63308",
-    "event_time": "2026-04-11T06:20:00",
-    "seen_at": "2026-04-11T04:21:11.813Z",
-    "raw": "Br. Vlaka 63308 odlazak      11.04.26. 06:20, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "NOVI DVORI",
-    "train_number": "44998",
-    "event_time": "2026-04-11T06:17:00",
-    "seen_at": "2026-04-11T04:21:59.349Z",
-    "raw": "Br. Vlaka 44998 dolazak      11.04.26. 06:17, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44998",
-    "event_time": "2026-04-11T06:32:00",
-    "seen_at": "2026-04-11T04:32:43.000Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 06:32, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-11T06:33:00",
-    "seen_at": "2026-04-11T04:33:53.600Z",
-    "raw": "Br. Vlaka 45105 formiran     11.04.26. 06:33, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "SAVSKI MAROF granica",
@@ -14767,5 +14731,32 @@
     "event_time": "2026-04-14T06:10:00",
     "seen_at": "2026-04-14T04:12:07.121Z",
     "raw": "Br. Vlaka 44996 odlazak      14.04.26. 06:10, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-14T06:17:00",
+    "seen_at": "2026-04-14T04:24:55.381Z",
+    "raw": "Br. Vlaka 44996 dolazak      14.04.26. 06:17, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-14T06:27:00",
+    "seen_at": "2026-04-14T04:27:18.373Z",
+    "raw": "Br. Vlaka 45105 formiran     14.04.26. 06:27, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-14T06:32:00",
+    "seen_at": "2026-04-14T04:34:03.270Z",
+    "raw": "Br. Vlaka 69326 odlazak      14.04.26. 06:32, kolodvor SLAVONSKI BROD"
   }
 ]
