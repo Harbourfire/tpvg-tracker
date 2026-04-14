@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-11T16:51:00",
-    "seen_at": "2026-04-11T14:55:35.138Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-11T16:51:00",
-    "seen_at": "2026-04-11T14:55:35.138Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "49997",
-    "event_time": "2026-04-11T16:56:00",
-    "seen_at": "2026-04-11T14:57:11.016Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 16:56, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81232",
-    "event_time": "2026-04-11T16:56:00",
-    "seen_at": "2026-04-11T14:57:11.016Z",
-    "raw": "Br. Vlaka 81232 formiran     11.04.26. 16:56, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81232",
-    "event_time": "2026-04-11T16:56:00",
-    "seen_at": "2026-04-11T14:57:11.016Z",
-    "raw": "Br. Vlaka 81232 formiran     11.04.26. 16:56, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -14227,5 +14182,32 @@
     "event_time": "2026-04-14T16:50:00",
     "seen_at": "2026-04-14T14:51:04.392Z",
     "raw": "Br. Vlaka 63310 odlazak      14.04.26. 16:50, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "45581",
+    "event_time": "2026-04-14T16:55:00",
+    "seen_at": "2026-04-14T14:55:16.692Z",
+    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 16:55, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49997",
+    "event_time": "2026-04-14T17:00:00",
+    "seen_at": "2026-04-14T15:03:15.200Z",
+    "raw": "Br. Vlaka 49997 dolazak      14.04.26. 17:00, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49997",
+    "event_time": "2026-04-14T17:00:00",
+    "seen_at": "2026-04-14T15:03:15.201Z",
+    "raw": "Br. Vlaka 49997 dolazak      14.04.26. 17:00, kolodvor ZABOK"
   }
 ]
