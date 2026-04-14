@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89151",
-    "event_time": "2026-04-12T01:48:00",
-    "seen_at": "2026-04-11T23:49:07.778Z",
-    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 01:48, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "LOVINAC",
-    "train_number": "89190",
-    "event_time": "2026-04-12T01:43:00",
-    "seen_at": "2026-04-11T23:52:40.581Z",
-    "raw": "Br. Vlaka 89190 dolazak      12.04.26. 01:43, kolodvor LOVINAC"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "89190",
-    "event_time": "2026-04-12T01:50:00",
-    "seen_at": "2026-04-11T23:53:05.664Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 01:50, kolodvor LOVINAC"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -13957,5 +13930,32 @@
     "event_time": "2026-04-15T01:29:00",
     "seen_at": "2026-04-14T23:34:30.742Z",
     "raw": "Br. Vlaka 44994 dolazak      15.04.26. 01:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89920",
+    "event_time": "2026-04-15T01:46:00",
+    "seen_at": "2026-04-14T23:46:55.980Z",
+    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 01:46, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "61037",
+    "event_time": "2026-04-15T01:50:00",
+    "seen_at": "2026-04-14T23:52:08.607Z",
+    "raw": "Br. Vlaka 61037 dolazak      15.04.26. 01:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "VALPOVO",
+    "train_number": "82501",
+    "event_time": "2026-04-15T01:08:00",
+    "seen_at": "2026-04-14T23:52:08.608Z",
+    "raw": "Br. Vlaka 82501 formiran     15.04.26. 01:08, kolodvor VALPOVO"
   }
 ]
