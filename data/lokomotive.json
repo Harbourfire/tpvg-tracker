@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-11T15:27:00",
-    "seen_at": "2026-04-11T13:28:32.432Z",
-    "raw": "Br. Vlaka 63310 odlazak      11.04.26. 15:27, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-11T15:27:00",
-    "seen_at": "2026-04-11T13:28:32.432Z",
-    "raw": "Br. Vlaka 63310 odlazak      11.04.26. 15:27, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "BUDINŠĆINA",
@@ -14164,5 +14146,23 @@
     "event_time": "2026-04-14T14:46:00",
     "seen_at": "2026-04-14T13:19:10.334Z",
     "raw": "Br. Vlaka 63310 promjena sas 14.04.26. 14:46, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47428",
+    "event_time": "2026-04-14T15:25:00",
+    "seen_at": "2026-04-14T13:27:49.416Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 15:25, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44788",
+    "event_time": "2026-04-14T15:31:00",
+    "seen_at": "2026-04-14T13:32:09.716Z",
+    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 15:31, kolodvor ČAKOVEC"
   }
 ]
