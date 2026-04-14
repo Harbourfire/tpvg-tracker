@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89252",
-    "event_time": "2026-04-11T07:14:00",
-    "seen_at": "2026-04-11T05:14:35.219Z",
-    "raw": "Br. Vlaka 89252 odlazak      11.04.26. 07:14, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89252",
-    "event_time": "2026-04-11T07:17:00",
-    "seen_at": "2026-04-11T05:17:43.178Z",
-    "raw": "Br. Vlaka 89252 odlazak      11.04.26. 07:17, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "89253",
-    "event_time": "2026-04-11T07:16:00",
-    "seen_at": "2026-04-11T05:17:43.179Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 07:16, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-04-11T07:20:00",
-    "seen_at": "2026-04-11T05:23:06.598Z",
-    "raw": "Br. Vlaka 63306 odlazak      11.04.26. 07:20, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "HORVATI",
@@ -14740,5 +14704,32 @@
     "event_time": "2026-04-14T07:07:00",
     "seen_at": "2026-04-14T05:10:21.990Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-14T07:15:00",
+    "seen_at": "2026-04-14T05:15:24.889Z",
+    "raw": "Br. Vlaka 66853 odlazak      14.04.26. 07:15, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-14T07:15:00",
+    "seen_at": "2026-04-14T05:19:26.899Z",
+    "raw": "Br. Vlaka 45105 odlazak      14.04.26. 07:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "74101",
+    "event_time": "2026-04-14T07:19:00",
+    "seen_at": "2026-04-14T05:20:14.919Z",
+    "raw": "Br. Vlaka 74101 dolazak      14.04.26. 07:19, kolodvor DRENOVCI"
   }
 ]
