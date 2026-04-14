@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89253",
-    "event_time": "2026-04-11T06:45:00",
-    "seen_at": "2026-04-11T04:45:55.203Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 06:45, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -14704,5 +14695,23 @@
     "event_time": "2026-04-14T06:42:00",
     "seen_at": "2026-04-14T04:43:09.049Z",
     "raw": "Br. Vlaka 69326 odlazak      14.04.26. 06:42, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-14T06:51:00",
+    "seen_at": "2026-04-14T04:52:19.736Z",
+    "raw": "Br. Vlaka 66853 formiran     14.04.26. 06:51, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "74101",
+    "event_time": "2026-04-14T06:50:00",
+    "seen_at": "2026-04-14T04:53:56.700Z",
+    "raw": "Br. Vlaka 74101 odlazak      14.04.26. 06:50, kolodvor OTOK"
   }
 ]
