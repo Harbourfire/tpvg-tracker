@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "48597",
-    "event_time": "2026-04-11T12:39:00",
-    "seen_at": "2026-04-11T10:40:20.352Z",
-    "raw": "Br. Vlaka 48597 formiran     11.04.26. 12:39, kolodvor 77424"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "43995",
-    "event_time": "2026-04-11T12:34:00",
-    "seen_at": "2026-04-11T10:42:19.639Z",
-    "raw": "Br. Vlaka 43995 odlazak      11.04.26. 12:34, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "43995",
-    "event_time": "2026-04-11T12:38:00",
-    "seen_at": "2026-04-11T10:42:43.088Z",
-    "raw": "Br. Vlaka 43995 dolazak      11.04.26. 12:38, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T12:41:00",
-    "seen_at": "2026-04-11T10:43:06.568Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 12:41, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-11T12:45:00",
-    "seen_at": "2026-04-11T10:45:28.015Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -14407,5 +14362,77 @@
     "event_time": "2026-04-14T12:30:00",
     "seen_at": "2026-04-14T10:32:34.847Z",
     "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:30, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-14T12:38:00",
+    "seen_at": "2026-04-14T10:38:50.026Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "44788",
+    "event_time": "2026-04-14T11:55:00",
+    "seen_at": "2026-04-14T10:40:27.520Z",
+    "raw": "Br. Vlaka 44788 promjena sas 14.04.26. 11:55, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-14T12:40:00",
+    "seen_at": "2026-04-14T10:41:16.118Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:40:00",
+    "seen_at": "2026-04-14T10:41:40.246Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:40, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:40:00",
+    "seen_at": "2026-04-14T10:41:40.247Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:40, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-14T11:42:00",
+    "seen_at": "2026-04-14T10:41:40.247Z",
+    "raw": "Br. Vlaka 63310 formiran     14.04.26. 11:42, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "LOVINAC",
+    "train_number": "78000",
+    "event_time": "2026-04-14T12:42:00",
+    "seen_at": "2026-04-14T10:44:04.544Z",
+    "raw": "Br. Vlaka 78000 formiran     14.04.26. 12:42, kolodvor LOVINAC"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "LOVINAC",
+    "train_number": "78000",
+    "event_time": "2026-04-14T12:40:00",
+    "seen_at": "2026-04-14T10:44:52.930Z",
+    "raw": "Br. Vlaka 78000 odlazak      14.04.26. 12:40, kolodvor LOVINAC"
   }
 ]
