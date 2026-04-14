@@ -2,51 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "89190",
-    "event_time": "2026-04-12T01:13:00",
-    "seen_at": "2026-04-11T23:16:20.678Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 01:13, kolodvor MALOVAN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T01:16:00",
-    "seen_at": "2026-04-11T23:17:45.770Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 01:16, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T01:16:00",
-    "seen_at": "2026-04-11T23:17:45.770Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 01:16, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T01:24:00",
-    "seen_at": "2026-04-11T23:25:22.449Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 01:24, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T01:24:00",
-    "seen_at": "2026-04-11T23:25:22.449Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 01:24, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "GRAČAC",
     "train_number": "89190",
     "event_time": "2026-04-12T01:29:00",
@@ -14038,5 +13993,32 @@
     "event_time": "2026-04-14T13:51:00",
     "seen_at": "2026-04-14T23:12:12.841Z",
     "raw": "Br. Vlaka 44787 promjena sas 14.04.26. 13:51, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44994",
+    "event_time": "2026-04-15T01:20:00",
+    "seen_at": "2026-04-14T23:21:14.248Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 01:20, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69785",
+    "event_time": "2026-04-15T00:54:00",
+    "seen_at": "2026-04-14T23:22:28.194Z",
+    "raw": "Br. Vlaka 69785 formiran     15.04.26. 00:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VALPOVO",
+    "train_number": null,
+    "event_time": "2026-04-15T00:35:00",
+    "seen_at": "2026-04-14T23:22:28.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71992 VALPOVO"
   }
 ]
