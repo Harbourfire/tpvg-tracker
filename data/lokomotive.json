@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "48784",
-    "event_time": "2026-04-11T03:53:00",
-    "seen_at": "2026-04-11T01:59:50.126Z",
-    "raw": "Br. Vlaka 48784 odlazak      11.04.26. 03:53, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -14803,5 +14794,41 @@
     "event_time": "2026-04-13T22:45:00",
     "seen_at": "2026-04-14T01:57:57.677Z",
     "raw": "Br. Vlaka 44996 promjena sas 13.04.26. 22:45, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-14T02:00:00",
+    "seen_at": "2026-04-14T01:59:45.585Z",
+    "raw": "Br. Vlaka 69006 formiran     14.04.26. 02:00, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-14T02:00:00",
+    "seen_at": "2026-04-14T02:00:09.664Z",
+    "raw": "Br. Vlaka 69006 formiran     14.04.26. 02:00, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-14T04:00:00",
+    "seen_at": "2026-04-14T02:02:32.136Z",
+    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 04:00, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-12T10:00:00",
+    "seen_at": "2026-04-14T02:04:31.082Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
