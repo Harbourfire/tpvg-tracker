@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "KNIN",
-    "train_number": null,
-    "event_time": "2026-04-11T05:04:00",
-    "seen_at": "2026-04-11T22:21:35.192Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "KNIN",
-    "train_number": "89190",
-    "event_time": "2026-04-11T17:36:00",
-    "seen_at": "2026-04-11T22:22:23.483Z",
-    "raw": "Br. Vlaka 89190 formiran     11.04.26. 17:36, kolodvor KNIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "KNIN",
-    "train_number": "89190",
-    "event_time": "2026-04-12T00:19:00",
-    "seen_at": "2026-04-11T22:23:59.925Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 00:19, kolodvor KNIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -14047,5 +14020,41 @@
     "event_time": "2026-04-15T00:15:00",
     "seen_at": "2026-04-14T22:16:43.013Z",
     "raw": "Br. Vlaka 63305 odlazak      15.04.26. 00:15, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44786",
+    "event_time": "2026-04-15T00:16:00",
+    "seen_at": "2026-04-14T22:19:23.013Z",
+    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 00:16, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44994",
+    "event_time": "2026-04-15T00:18:00",
+    "seen_at": "2026-04-14T22:20:11.506Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:18, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89920",
+    "event_time": "2026-04-15T00:18:00",
+    "seen_at": "2026-04-14T22:20:35.755Z",
+    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 00:18, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44994",
+    "event_time": "2026-04-15T00:25:00",
+    "seen_at": "2026-04-14T22:27:03.177Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:25, kolodvor ZLATAR-BISTRICA"
   }
 ]
