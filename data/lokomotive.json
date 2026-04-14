@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "89253",
-    "event_time": "2026-04-11T10:37:00",
-    "seen_at": "2026-04-11T08:42:12.233Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 10:37, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "44998",
-    "event_time": "2026-04-11T10:31:00",
-    "seen_at": "2026-04-11T08:49:18.242Z",
-    "raw": "Br. Vlaka 44998 dolazak      11.04.26. 10:31, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "44998",
-    "event_time": "2026-04-11T10:31:00",
-    "seen_at": "2026-04-11T08:49:18.242Z",
-    "raw": "Br. Vlaka 44998 dolazak      11.04.26. 10:31, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44998",
-    "event_time": "2026-04-11T10:43:00",
-    "seen_at": "2026-04-11T08:49:41.872Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 10:43, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44998",
-    "event_time": "2026-04-11T10:43:00",
-    "seen_at": "2026-04-11T08:49:41.872Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 10:43, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "89253",
-    "event_time": "2026-04-11T10:50:00",
-    "seen_at": "2026-04-11T08:50:29.227Z",
-    "raw": "Br. Vlaka 89253 dolazak      11.04.26. 10:50, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -14587,5 +14533,41 @@
     "event_time": "2026-04-14T10:36:00",
     "seen_at": "2026-04-14T08:39:10.519Z",
     "raw": "Br. Vlaka 44996 odlazak      14.04.26. 10:36, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81231",
+    "event_time": "2026-04-14T10:43:00",
+    "seen_at": "2026-04-14T08:43:54.101Z",
+    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:43, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "47428",
+    "event_time": "2026-04-14T10:47:00",
+    "seen_at": "2026-04-14T08:47:55.651Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 10:47, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44996",
+    "event_time": "2026-04-14T10:42:00",
+    "seen_at": "2026-04-14T08:50:19.693Z",
+    "raw": "Br. Vlaka 44996 dolazak      14.04.26. 10:42, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-14T10:42:00",
+    "seen_at": "2026-04-14T08:50:43.572Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
   }
 ]
