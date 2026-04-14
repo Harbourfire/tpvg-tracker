@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "40826",
-    "event_time": "2026-04-11T02:32:00",
-    "seen_at": "2026-04-11T00:32:21.891Z",
-    "raw": "Br. Vlaka 40826 dolazak      11.04.26. 02:32, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -14650,5 +14641,41 @@
     "event_time": "2026-04-14T02:23:00",
     "seen_at": "2026-04-14T00:25:24.935Z",
     "raw": "Br. Vlaka 82108 odlazak      14.04.26. 02:23, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "45780",
+    "event_time": "2026-04-14T02:33:00",
+    "seen_at": "2026-04-14T00:34:20.280Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 02:33, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "45780",
+    "event_time": "2026-04-14T02:33:00",
+    "seen_at": "2026-04-14T00:34:20.281Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 02:33, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82108",
+    "event_time": "2026-04-14T02:34:00",
+    "seen_at": "2026-04-14T00:35:09.384Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 02:34, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82108",
+    "event_time": "2026-04-14T02:34:00",
+    "seen_at": "2026-04-14T00:35:09.384Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 02:34, kolodvor PLAŠKI"
   }
 ]
