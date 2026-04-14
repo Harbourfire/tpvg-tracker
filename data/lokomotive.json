@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43997",
-    "event_time": "2026-04-11T14:34:00",
-    "seen_at": "2026-04-11T12:37:19.835Z",
-    "raw": "Br. Vlaka 43997 dolazak      11.04.26. 14:34, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43997",
-    "event_time": "2026-04-11T14:34:00",
-    "seen_at": "2026-04-11T12:37:19.836Z",
-    "raw": "Br. Vlaka 43997 dolazak      11.04.26. 14:34, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-10T23:49:00",
-    "seen_at": "2026-04-11T12:42:26.694Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-10T23:49:00",
-    "seen_at": "2026-04-11T12:42:26.695Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "49996",
@@ -14155,5 +14119,23 @@
     "event_time": "2026-04-14T14:29:00",
     "seen_at": "2026-04-14T12:35:08.364Z",
     "raw": "Br. Vlaka 49997 dolazak      14.04.26. 14:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-14T14:34:00",
+    "seen_at": "2026-04-14T12:36:34.859Z",
+    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 14:34, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89755",
+    "event_time": "2026-04-14T14:40:00",
+    "seen_at": "2026-04-14T12:41:19.709Z",
+    "raw": "Br. Vlaka 89755 formiran     14.04.26. 14:40, kolodvor ZAGREB RESNIK"
   }
 ]
