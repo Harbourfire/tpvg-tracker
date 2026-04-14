@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "48786",
-    "event_time": "2026-04-11T08:55:00",
-    "seen_at": "2026-04-11T06:56:44.302Z",
-    "raw": "Br. Vlaka 48786 odlazak      11.04.26. 08:55, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "46896",
-    "event_time": "2026-04-11T09:00:00",
-    "seen_at": "2026-04-11T07:01:04.655Z",
-    "raw": "Br. Vlaka 46896 odlazak      11.04.26. 09:00, kolodvor DARDA"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "BUZET granica",
@@ -14659,5 +14641,41 @@
     "event_time": "2026-04-14T08:49:00",
     "seen_at": "2026-04-14T06:50:17.958Z",
     "raw": "Br. Vlaka 82331 odlazak      14.04.26. 08:49, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "47428",
+    "event_time": "2026-04-14T08:56:00",
+    "seen_at": "2026-04-14T06:58:04.402Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 08:56, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Formiran",
+    "station": "DRENOVCI",
+    "train_number": "74100",
+    "event_time": "2026-04-14T08:54:00",
+    "seen_at": "2026-04-14T06:58:51.822Z",
+    "raw": "Br. Vlaka 74100 formiran     14.04.26. 08:54, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "ERDUT",
+    "train_number": "49826",
+    "event_time": "2026-04-14T09:01:00",
+    "seen_at": "2026-04-14T07:01:41.565Z",
+    "raw": "Br. Vlaka 49826 dolazak      14.04.26. 09:01, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82331",
+    "event_time": "2026-04-14T09:00:00",
+    "seen_at": "2026-04-14T07:01:41.566Z",
+    "raw": "Br. Vlaka 82331 odlazak      14.04.26. 09:00, kolodvor BLACKO JAKŠIĆ"
   }
 ]
