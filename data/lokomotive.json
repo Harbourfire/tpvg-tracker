@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44998",
-    "event_time": "2026-04-11T10:14:00",
-    "seen_at": "2026-04-11T08:14:36.000Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 10:14, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44998",
-    "event_time": "2026-04-11T10:14:00",
-    "seen_at": "2026-04-11T08:14:36.000Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 10:14, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -14560,5 +14542,50 @@
     "event_time": "2026-04-14T10:10:00",
     "seen_at": "2026-04-14T08:11:01.770Z",
     "raw": "Br. Vlaka 82300 formiran     14.04.26. 10:10, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "BELI MANASTIR",
+    "train_number": "45941",
+    "event_time": "2026-04-14T08:41:00",
+    "seen_at": "2026-04-14T08:12:52.673Z",
+    "raw": "Br. Vlaka 45941 formiran     14.04.26. 08:41, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44996",
+    "event_time": "2026-04-14T10:12:00",
+    "seen_at": "2026-04-14T08:13:41.456Z",
+    "raw": "Br. Vlaka 44996 dolazak      14.04.26. 10:12, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81231",
+    "event_time": "2026-04-14T10:11:00",
+    "seen_at": "2026-04-14T08:15:43.165Z",
+    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:11, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44788",
+    "event_time": "2026-04-14T10:15:00",
+    "seen_at": "2026-04-14T08:17:20.685Z",
+    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 10:15, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-14T08:54:00",
+    "seen_at": "2026-04-14T08:19:22.268Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
   }
 ]
