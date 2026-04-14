@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "43997",
-    "event_time": "2026-04-11T10:35:00",
-    "seen_at": "2026-04-11T08:36:27.329Z",
-    "raw": "Br. Vlaka 43997 dolazak      11.04.26. 10:35, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
@@ -14560,5 +14551,41 @@
     "event_time": "2026-04-14T10:24:00",
     "seen_at": "2026-04-14T08:25:19.016Z",
     "raw": "Br. Vlaka 44788 odlazak      14.04.26. 10:24, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81231",
+    "event_time": "2026-04-14T10:30:00",
+    "seen_at": "2026-04-14T08:31:53.325Z",
+    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:30, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "47428",
+    "event_time": "2026-04-14T10:26:00",
+    "seen_at": "2026-04-14T08:34:43.416Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 10:26, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44788",
+    "event_time": "2026-04-14T10:34:00",
+    "seen_at": "2026-04-14T08:35:07.530Z",
+    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 10:34, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44996",
+    "event_time": "2026-04-14T10:36:00",
+    "seen_at": "2026-04-14T08:39:10.519Z",
+    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 10:36, kolodvor KOTORIBA"
   }
 ]
