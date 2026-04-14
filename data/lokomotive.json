@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-11T08:01:00",
-    "seen_at": "2026-04-11T07:03:26.786Z",
-    "raw": "Br. Vlaka 45597 odlazak      11.04.26. 08:01, kolodvor 77424"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "45597",
-    "event_time": "2026-04-11T08:08:00",
-    "seen_at": "2026-04-11T07:03:50.431Z",
-    "raw": "Br. Vlaka 45597 dolazak      11.04.26. 08:08, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "45597",
-    "event_time": "2026-04-11T08:57:00",
-    "seen_at": "2026-04-11T07:04:13.999Z",
-    "raw": "Br. Vlaka 45597 odlazak      11.04.26. 08:57, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89253",
-    "event_time": "2026-04-11T09:05:00",
-    "seen_at": "2026-04-11T07:07:11.188Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 09:05, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-11T09:06:00",
-    "seen_at": "2026-04-11T07:08:44.877Z",
-    "raw": "Br. Vlaka 69006 formiran     11.04.26. 09:06, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "45597",
-    "event_time": "2026-04-11T09:05:00",
-    "seen_at": "2026-04-11T07:10:18.710Z",
-    "raw": "Br. Vlaka 45597 odlazak      11.04.26. 09:05, kolodvor ROČ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "48786",
-    "event_time": "2026-04-11T09:09:00",
-    "seen_at": "2026-04-11T07:10:42.169Z",
-    "raw": "Br. Vlaka 48786 odlazak      11.04.26. 09:09, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -14677,5 +14614,23 @@
     "event_time": "2026-04-14T09:00:00",
     "seen_at": "2026-04-14T07:01:41.566Z",
     "raw": "Br. Vlaka 82331 odlazak      14.04.26. 09:00, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "47428",
+    "event_time": "2026-04-14T09:05:00",
+    "seen_at": "2026-04-14T07:06:41.100Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 09:05, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-04-14T09:10:00",
+    "seen_at": "2026-04-14T07:11:05.914Z",
+    "raw": "Br. Vlaka 69750 odlazak      14.04.26. 09:10, kolodvor OSIJEK DONJI GRAD"
   }
 ]
