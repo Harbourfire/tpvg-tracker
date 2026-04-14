@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "48786",
-    "event_time": "2026-04-11T08:11:00",
-    "seen_at": "2026-04-11T06:13:00.033Z",
-    "raw": "Br. Vlaka 48786 odlazak      11.04.26. 08:11, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-04-11T08:10:00",
-    "seen_at": "2026-04-11T06:14:34.195Z",
-    "raw": "Br. Vlaka 47944 odlazak      11.04.26. 08:10, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47944",
-    "event_time": "2026-04-11T08:14:00",
-    "seen_at": "2026-04-11T06:15:45.044Z",
-    "raw": "Br. Vlaka 47944 odlazak      11.04.26. 08:14, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47944",
-    "event_time": "2026-04-11T08:19:00",
-    "seen_at": "2026-04-11T06:19:54.856Z",
-    "raw": "Br. Vlaka 47944 odlazak      11.04.26. 08:19, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47944",
-    "event_time": "2026-04-11T08:22:00",
-    "seen_at": "2026-04-11T06:22:40.551Z",
-    "raw": "Br. Vlaka 47944 odlazak      11.04.26. 08:22, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -14686,5 +14641,23 @@
     "event_time": "2026-04-14T08:10:00",
     "seen_at": "2026-04-14T06:10:53.838Z",
     "raw": "Br. Vlaka 49826 odlazak      14.04.26. 08:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-14T08:14:00",
+    "seen_at": "2026-04-14T06:14:28.607Z",
+    "raw": "Br. Vlaka 45105 dolazak      14.04.26. 08:14, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-14T07:19:00",
+    "seen_at": "2026-04-14T06:14:52.426Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
   }
 ]
