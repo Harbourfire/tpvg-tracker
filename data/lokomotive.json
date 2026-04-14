@@ -2,24 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "48784",
-    "event_time": "2026-04-11T03:01:00",
-    "seen_at": "2026-04-11T01:02:04.363Z",
-    "raw": "Br. Vlaka 48784 odlazak      11.04.26. 03:01, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49999",
-    "event_time": "2026-04-11T03:04:00",
-    "seen_at": "2026-04-11T01:05:57.432Z",
-    "raw": "Br. Vlaka 49999 odlazak      11.04.26. 03:04, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "48784",
     "event_time": "2026-04-11T03:12:00",
@@ -14704,5 +14686,32 @@
     "event_time": "2026-04-14T02:58:00",
     "seen_at": "2026-04-14T00:59:26.896Z",
     "raw": "Br. Vlaka 69784 dolazak      14.04.26. 02:58, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-14T02:58:00",
+    "seen_at": "2026-04-14T01:00:25.160Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "45780",
+    "event_time": "2026-04-14T03:01:00",
+    "seen_at": "2026-04-14T01:02:24.120Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 03:01, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "45780",
+    "event_time": "2026-04-14T03:01:00",
+    "seen_at": "2026-04-14T01:02:24.121Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 03:01, kolodvor ZLATAR-BISTRICA"
   }
 ]
