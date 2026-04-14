@@ -2,51 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T16:11:00",
-    "seen_at": "2026-04-11T14:16:43.744Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 16:11, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "89135",
-    "event_time": "2026-04-11T16:25:00",
-    "seen_at": "2026-04-11T14:25:38.091Z",
-    "raw": "Br. Vlaka 89135 odlazak      11.04.26. 16:25, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "89135",
-    "event_time": "2026-04-11T16:25:00",
-    "seen_at": "2026-04-11T14:25:38.092Z",
-    "raw": "Br. Vlaka 89135 odlazak      11.04.26. 16:25, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "49997",
-    "event_time": "2026-04-11T16:25:00",
-    "seen_at": "2026-04-11T14:26:01.589Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 16:25, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "49997",
-    "event_time": "2026-04-11T16:30:00",
-    "seen_at": "2026-04-11T14:31:07.960Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 16:30, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "LUKA",
     "train_number": "49997",
     "event_time": "2026-04-11T16:34:00",
@@ -14173,5 +14128,86 @@
     "event_time": "2026-04-14T15:33:00",
     "seen_at": "2026-04-14T14:13:29.548Z",
     "raw": "Br. Vlaka 89925 formiran     14.04.26. 15:33, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49997",
+    "event_time": "2026-04-14T16:17:00",
+    "seen_at": "2026-04-14T14:25:05.251Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 16:17, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49997",
+    "event_time": "2026-04-14T16:17:00",
+    "seen_at": "2026-04-14T14:25:05.252Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 16:17, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-14T16:18:00",
+    "seen_at": "2026-04-14T14:25:05.252Z",
+    "raw": "Br. Vlaka 63310 dolazak      14.04.26. 16:18, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49997",
+    "event_time": "2026-04-14T16:25:00",
+    "seen_at": "2026-04-14T14:25:54.860Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 16:25, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49997",
+    "event_time": "2026-04-14T16:25:00",
+    "seen_at": "2026-04-14T14:25:54.861Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 16:25, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44994",
+    "event_time": "2026-04-14T12:18:00",
+    "seen_at": "2026-04-14T14:27:31.236Z",
+    "raw": "Br. Vlaka 44994 promjena sas 14.04.26. 12:18, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89754",
+    "event_time": "2026-04-14T16:28:00",
+    "seen_at": "2026-04-14T14:28:43.450Z",
+    "raw": "Br. Vlaka 89754 formiran     14.04.26. 16:28, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89920",
+    "event_time": "2026-04-14T16:30:00",
+    "seen_at": "2026-04-14T14:31:33.126Z",
+    "raw": "Br. Vlaka 89920 formiran     14.04.26. 16:30, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "89925",
+    "event_time": "2026-04-14T16:31:00",
+    "seen_at": "2026-04-14T14:33:33.469Z",
+    "raw": "Br. Vlaka 89925 dolazak      14.04.26. 16:31, kolodvor KOTORIBA"
   }
 ]
