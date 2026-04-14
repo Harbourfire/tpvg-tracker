@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "43997",
-    "event_time": "2026-04-11T11:01:00",
-    "seen_at": "2026-04-11T09:02:34.957Z",
-    "raw": "Br. Vlaka 43997 dolazak      11.04.26. 11:01, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "89253",
-    "event_time": "2026-04-11T10:58:00",
-    "seen_at": "2026-04-11T09:04:57.303Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 10:58, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "89253",
-    "event_time": "2026-04-11T11:06:00",
-    "seen_at": "2026-04-11T09:06:56.226Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 11:06, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-11T11:08:00",
-    "seen_at": "2026-04-11T09:09:41.362Z",
-    "raw": "Br. Vlaka 44998 dolazak      11.04.26. 11:08, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-11T11:08:00",
-    "seen_at": "2026-04-11T09:09:41.362Z",
-    "raw": "Br. Vlaka 44998 dolazak      11.04.26. 11:08, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-11T11:09:00",
-    "seen_at": "2026-04-11T09:10:05.093Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 11:09, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-11T11:09:00",
-    "seen_at": "2026-04-11T09:10:05.093Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 11:09, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820440141",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14560,5 +14497,41 @@
     "event_time": "2026-04-14T10:53:00",
     "seen_at": "2026-04-14T08:54:33.592Z",
     "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:53, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "47428",
+    "event_time": "2026-04-14T10:55:00",
+    "seen_at": "2026-04-14T09:01:05.915Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 10:55, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "47428",
+    "event_time": "2026-04-14T11:02:00",
+    "seen_at": "2026-04-14T09:03:29.939Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 11:02, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "44788",
+    "event_time": "2026-04-14T10:56:00",
+    "seen_at": "2026-04-14T09:08:16.571Z",
+    "raw": "Br. Vlaka 44788 dolazak      14.04.26. 10:56, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44788",
+    "event_time": "2026-04-14T11:05:00",
+    "seen_at": "2026-04-14T09:10:15.606Z",
+    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 11:05, kolodvor NOVI MAROF"
   }
 ]
