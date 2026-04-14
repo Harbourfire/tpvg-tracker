@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "69771",
-    "event_time": "2026-04-11T12:20:00",
-    "seen_at": "2026-04-11T10:22:09.834Z",
-    "raw": "Br. Vlaka 69771 odlazak      11.04.26. 12:20, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "49997",
-    "event_time": "2026-04-11T12:15:00",
-    "seen_at": "2026-04-11T10:22:33.734Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 12:15, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T12:20:00",
-    "seen_at": "2026-04-11T10:22:57.584Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 12:20, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:24:00",
-    "seen_at": "2026-04-11T10:24:57.455Z",
-    "raw": "Br. Vlaka 69175 odlazak      11.04.26. 12:24, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:24:00",
-    "seen_at": "2026-04-11T10:24:57.455Z",
-    "raw": "Br. Vlaka 69175 odlazak      11.04.26. 12:24, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "OTOK",
@@ -14425,5 +14380,32 @@
     "event_time": "2026-04-14T12:17:00",
     "seen_at": "2026-04-14T10:18:03.573Z",
     "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:17, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-14T12:22:00",
+    "seen_at": "2026-04-14T10:23:07.760Z",
+    "raw": "Br. Vlaka 45104 dolazak      14.04.26. 12:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-14T12:22:00",
+    "seen_at": "2026-04-14T10:25:57.104Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69851",
+    "event_time": "2026-04-14T12:27:00",
+    "seen_at": "2026-04-14T10:27:57.802Z",
+    "raw": "Br. Vlaka 69851 odlazak      14.04.26. 12:27, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
