@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-11T09:00:00",
-    "seen_at": "2026-04-11T09:12:40.033Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-11T11:11:00",
-    "seen_at": "2026-04-11T09:13:28.139Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "48786",
-    "event_time": "2026-04-11T11:15:00",
-    "seen_at": "2026-04-11T09:17:52.001Z",
-    "raw": "Br. Vlaka 48786 odlazak      11.04.26. 11:15, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44998",
-    "event_time": "2026-04-11T11:18:00",
-    "seen_at": "2026-04-11T09:18:39.962Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 11:18, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44998",
-    "event_time": "2026-04-11T11:18:00",
-    "seen_at": "2026-04-11T09:18:39.963Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 11:18, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -14533,5 +14488,32 @@
     "event_time": "2026-04-14T11:05:00",
     "seen_at": "2026-04-14T09:10:15.606Z",
     "raw": "Br. Vlaka 44788 odlazak      14.04.26. 11:05, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-14T11:09:00",
+    "seen_at": "2026-04-14T09:11:37.250Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 11:09, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81231",
+    "event_time": "2026-04-14T11:10:00",
+    "seen_at": "2026-04-14T09:12:01.288Z",
+    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 11:10, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45941",
+    "event_time": "2026-04-14T11:10:00",
+    "seen_at": "2026-04-14T09:15:58.800Z",
+    "raw": "Br. Vlaka 45941 odlazak      14.04.26. 11:10, kolodvor BELI MANASTIR"
   }
 ]
