@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-12T00:57:00",
-    "seen_at": "2026-04-11T22:59:01.673Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 00:57, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-12T00:57:00",
-    "seen_at": "2026-04-11T22:59:01.673Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 00:57, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZRMANJA",
-    "train_number": "89190",
-    "event_time": "2026-04-12T01:03:00",
-    "seen_at": "2026-04-11T23:05:01.508Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 01:03, kolodvor ZRMANJA"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "TURČIN",
@@ -14020,5 +13993,32 @@
     "event_time": "2026-04-15T00:53:00",
     "seen_at": "2026-04-14T22:54:30.485Z",
     "raw": "Br. Vlaka 44786 odlazak      15.04.26. 00:53, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "61037",
+    "event_time": "2026-04-15T00:56:00",
+    "seen_at": "2026-04-14T23:03:07.870Z",
+    "raw": "Br. Vlaka 61037 odlazak      15.04.26. 00:56, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44994",
+    "event_time": "2026-04-15T01:03:00",
+    "seen_at": "2026-04-14T23:05:32.273Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 01:03, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44786",
+    "event_time": "2026-04-15T01:01:00",
+    "seen_at": "2026-04-14T23:05:32.273Z",
+    "raw": "Br. Vlaka 44786 dolazak      15.04.26. 01:01, kolodvor VARAŽDIN"
   }
 ]
