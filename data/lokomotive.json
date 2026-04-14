@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89253",
-    "event_time": "2026-04-11T07:53:00",
-    "seen_at": "2026-04-11T05:56:19.877Z",
-    "raw": "Br. Vlaka 89253 dolazak      11.04.26. 07:53, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44998",
-    "event_time": "2026-04-11T07:53:00",
-    "seen_at": "2026-04-11T05:56:43.266Z",
-    "raw": "Br. Vlaka 44998 dolazak      11.04.26. 07:53, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-11T07:57:00",
-    "seen_at": "2026-04-11T05:57:42.991Z",
-    "raw": "Br. Vlaka 45105 dolazak      11.04.26. 07:57, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-11T07:58:00",
-    "seen_at": "2026-04-11T05:59:17.147Z",
-    "raw": "Br. Vlaka 63306 odlazak      11.04.26. 07:58, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "48784",
-    "event_time": "2026-04-11T07:59:00",
-    "seen_at": "2026-04-11T06:00:04.426Z",
-    "raw": "Br. Vlaka 48784 dolazak      11.04.26. 07:59, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -14677,5 +14632,41 @@
     "event_time": "2026-04-14T07:48:00",
     "seen_at": "2026-04-14T05:50:43.185Z",
     "raw": "Br. Vlaka 47428 odlazak      14.04.26. 07:48, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "75010",
+    "event_time": "2026-04-14T07:55:00",
+    "seen_at": "2026-04-14T05:55:45.832Z",
+    "raw": "Br. Vlaka 75010 odlazak      14.04.26. 07:55, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-04-14T07:58:00",
+    "seen_at": "2026-04-14T05:59:04.136Z",
+    "raw": "Br. Vlaka 45105 odlazak      14.04.26. 07:58, kolodvor SPAČVA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "75010",
+    "event_time": "2026-04-14T08:00:00",
+    "seen_at": "2026-04-14T06:00:42.304Z",
+    "raw": "Br. Vlaka 75010 dolazak      14.04.26. 08:00, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-14T08:00:00",
+    "seen_at": "2026-04-14T06:01:06.573Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
   }
 ]
