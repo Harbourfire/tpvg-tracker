@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-11T22:39:00",
-    "seen_at": "2026-04-11T21:25:13.528Z",
-    "raw": "Br. Vlaka 63305 formiran     11.04.26. 22:39, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-11T22:39:00",
-    "seen_at": "2026-04-11T21:25:13.528Z",
-    "raw": "Br. Vlaka 63305 formiran     11.04.26. 22:39, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZRMANJA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T23:26:00",
-    "seen_at": "2026-04-11T21:28:01.193Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 23:26, kolodvor ZRMANJA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -13885,5 +13858,59 @@
     "event_time": "2026-04-14T23:16:00",
     "seen_at": "2026-04-14T21:18:16.645Z",
     "raw": "Br. Vlaka 89103 odlazak      14.04.26. 23:16, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44786",
+    "event_time": "2026-04-14T18:29:00",
+    "seen_at": "2026-04-14T21:19:18.211Z",
+    "raw": "Br. Vlaka 44786 promjena sas 14.04.26. 18:29, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89920",
+    "event_time": "2026-04-14T23:19:00",
+    "seen_at": "2026-04-14T21:19:18.211Z",
+    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:19, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44994",
+    "event_time": "2026-04-14T23:20:00",
+    "seen_at": "2026-04-14T21:21:18.089Z",
+    "raw": "Br. Vlaka 44994 odlazak      14.04.26. 23:20, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89920",
+    "event_time": "2026-04-14T23:23:00",
+    "seen_at": "2026-04-14T21:26:03.702Z",
+    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:23, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89103",
+    "event_time": "2026-04-14T23:26:00",
+    "seen_at": "2026-04-14T21:26:27.500Z",
+    "raw": "Br. Vlaka 89103 dolazak      14.04.26. 23:26, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "89754",
+    "event_time": "2026-04-14T23:25:00",
+    "seen_at": "2026-04-14T21:27:15.237Z",
+    "raw": "Br. Vlaka 89754 odlazak      14.04.26. 23:25, kolodvor JOSIPOVAC"
   }
 ]
