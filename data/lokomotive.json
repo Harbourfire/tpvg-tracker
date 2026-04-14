@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "43995",
-    "event_time": "2026-04-11T14:25:00",
-    "seen_at": "2026-04-11T12:26:57.200Z",
-    "raw": "Br. Vlaka 43995 odlazak      11.04.26. 14:25, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "43995",
-    "event_time": "2026-04-11T14:32:00",
-    "seen_at": "2026-04-11T12:34:57.881Z",
-    "raw": "Br. Vlaka 43995 odlazak      11.04.26. 14:32, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "ZABOK",
@@ -14155,5 +14137,23 @@
     "event_time": "2026-04-14T14:16:00",
     "seen_at": "2026-04-14T12:19:27.444Z",
     "raw": "Br. Vlaka 49997 odlazak      14.04.26. 14:16, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-14T14:26:00",
+    "seen_at": "2026-04-14T12:27:59.890Z",
+    "raw": "Br. Vlaka 63310 promjena sas 14.04.26. 14:26, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49997",
+    "event_time": "2026-04-14T14:29:00",
+    "seen_at": "2026-04-14T12:35:08.364Z",
+    "raw": "Br. Vlaka 49997 dolazak      14.04.26. 14:29, kolodvor VARAŽDIN"
   }
 ]
