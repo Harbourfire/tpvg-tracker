@@ -2,15 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "49997",
-    "event_time": "2026-04-11T23:43:00",
-    "seen_at": "2026-04-11T21:44:29.283Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 23:43, kolodvor PLAVNO"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "PAĐENE",
     "train_number": "49997",
     "event_time": "2026-04-11T23:50:00",
@@ -13939,5 +13930,50 @@
     "event_time": "2026-04-14T23:36:00",
     "seen_at": "2026-04-14T21:37:22.639Z",
     "raw": "Br. Vlaka 44994 odlazak      14.04.26. 23:36, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44786",
+    "event_time": "2026-04-14T23:35:00",
+    "seen_at": "2026-04-14T21:39:10.239Z",
+    "raw": "Br. Vlaka 44786 odlazak      14.04.26. 23:35, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "89920",
+    "event_time": "2026-04-14T23:40:00",
+    "seen_at": "2026-04-14T21:41:56.950Z",
+    "raw": "Br. Vlaka 89920 dolazak      14.04.26. 23:40, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44994",
+    "event_time": "2026-04-14T23:41:00",
+    "seen_at": "2026-04-14T21:42:20.546Z",
+    "raw": "Br. Vlaka 44994 odlazak      14.04.26. 23:41, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-14T23:43:00",
+    "seen_at": "2026-04-14T21:43:55.816Z",
+    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:43, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-14T23:43:00",
+    "seen_at": "2026-04-14T21:43:55.816Z",
+    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:43, kolodvor VRHOVINE"
   }
 ]
