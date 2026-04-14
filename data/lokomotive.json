@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "49997",
-    "event_time": "2026-04-11T18:45:00",
-    "seen_at": "2026-04-11T16:45:13.002Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 18:45, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81232",
-    "event_time": "2026-04-11T18:45:00",
-    "seen_at": "2026-04-11T16:45:36.568Z",
-    "raw": "Br. Vlaka 81232 dolazak      11.04.26. 18:45, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81232",
-    "event_time": "2026-04-11T18:45:00",
-    "seen_at": "2026-04-11T16:45:36.569Z",
-    "raw": "Br. Vlaka 81232 dolazak      11.04.26. 18:45, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "81232",
-    "event_time": "2026-04-11T18:45:00",
-    "seen_at": "2026-04-11T16:51:20.150Z",
-    "raw": "Br. Vlaka 81232 promjena sas 11.04.26. 18:45, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "81232",
-    "event_time": "2026-04-11T18:45:00",
-    "seen_at": "2026-04-11T16:51:20.150Z",
-    "raw": "Br. Vlaka 81232 promjena sas 11.04.26. 18:45, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43995",
-    "event_time": "2026-04-11T18:52:00",
-    "seen_at": "2026-04-11T16:52:32.856Z",
-    "raw": "Br. Vlaka 43995 dolazak      11.04.26. 18:52, kolodvor ZABOK"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14119,5 +14065,14 @@
     "event_time": "2026-04-14T18:41:00",
     "seen_at": "2026-04-14T16:42:29.707Z",
     "raw": "Br. Vlaka 89925 odlazak      14.04.26. 18:41, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "45581",
+    "event_time": "2026-04-14T18:49:00",
+    "seen_at": "2026-04-14T16:52:40.635Z",
+    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 18:49, kolodvor KARLOVAC"
   }
 ]
