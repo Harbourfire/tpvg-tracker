@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-11T08:04:00",
-    "seen_at": "2026-04-11T17:13:16.707Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "44994",
-    "event_time": "2026-04-11T19:13:00",
-    "seen_at": "2026-04-11T17:13:16.707Z",
-    "raw": "Br. Vlaka 44994 dolazak      11.04.26. 19:13, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T19:15:00",
-    "seen_at": "2026-04-11T17:17:23.523Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 19:15, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T19:15:00",
-    "seen_at": "2026-04-11T17:17:47.614Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 19:15, kolodvor DUGA RESA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB KLARA",
@@ -14056,5 +14020,32 @@
     "event_time": "2026-04-14T19:11:00",
     "seen_at": "2026-04-14T17:12:37.449Z",
     "raw": "Br. Vlaka 45581 odlazak      14.04.26. 19:11, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-04-14T19:15:00",
+    "seen_at": "2026-04-14T17:15:38.785Z",
+    "raw": "Br. Vlaka 61004 formiran     14.04.26. 19:15, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89754",
+    "event_time": "2026-04-14T19:14:00",
+    "seen_at": "2026-04-14T17:15:38.786Z",
+    "raw": "Br. Vlaka 89754 odlazak      14.04.26. 19:14, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89762",
+    "event_time": "2026-04-14T19:17:00",
+    "seen_at": "2026-04-14T17:18:03.523Z",
+    "raw": "Br. Vlaka 89762 formiran     14.04.26. 19:17, kolodvor SLAVONSKI BROD"
   }
 ]
