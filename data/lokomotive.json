@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81236",
-    "event_time": "2026-04-11T23:30:00",
-    "seen_at": "2026-04-11T21:31:48.157Z",
-    "raw": "Br. Vlaka 81236 odlazak      11.04.26. 23:30, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "89151",
-    "event_time": "2026-04-11T23:34:00",
-    "seen_at": "2026-04-11T21:35:47.519Z",
-    "raw": "Br. Vlaka 89151 dolazak      11.04.26. 23:34, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-11T23:32:00",
-    "seen_at": "2026-04-11T21:35:47.520Z",
-    "raw": "Br. Vlaka 63305 odlazak      11.04.26. 23:32, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-11T23:32:00",
-    "seen_at": "2026-04-11T21:35:47.520Z",
-    "raw": "Br. Vlaka 63305 odlazak      11.04.26. 23:32, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "PLAVNO",
@@ -13912,5 +13876,68 @@
     "event_time": "2026-04-14T23:25:00",
     "seen_at": "2026-04-14T21:27:15.237Z",
     "raw": "Br. Vlaka 89754 odlazak      14.04.26. 23:25, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "89920",
+    "event_time": "2026-04-14T23:29:00",
+    "seen_at": "2026-04-14T21:29:51.121Z",
+    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:29, kolodvor LUKA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-14T23:26:00",
+    "seen_at": "2026-04-14T21:29:51.121Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89920",
+    "event_time": "2026-04-14T23:34:00",
+    "seen_at": "2026-04-14T21:34:59.911Z",
+    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:34, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44994",
+    "event_time": "2026-04-14T23:29:00",
+    "seen_at": "2026-04-14T21:35:47.123Z",
+    "raw": "Br. Vlaka 44994 odlazak      14.04.26. 23:29, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-14T23:35:00",
+    "seen_at": "2026-04-14T21:36:34.806Z",
+    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:35, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-14T23:35:00",
+    "seen_at": "2026-04-14T21:36:34.806Z",
+    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:35, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44994",
+    "event_time": "2026-04-14T23:36:00",
+    "seen_at": "2026-04-14T21:37:22.639Z",
+    "raw": "Br. Vlaka 44994 odlazak      14.04.26. 23:36, kolodvor ZAPREŠIĆ"
   }
 ]
