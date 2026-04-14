@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44997",
-    "event_time": "2026-04-11T01:48:00",
-    "seen_at": "2026-04-10T23:51:26.530Z",
-    "raw": "Br. Vlaka 44997 dolazak      11.04.26. 01:48, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-10T12:27:00",
-    "seen_at": "2026-04-10T23:51:50.627Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "48784",
-    "event_time": "2026-04-10T23:32:00",
-    "seen_at": "2026-04-10T23:51:50.627Z",
-    "raw": "Br. Vlaka 48784 promjena sas 10.04.26. 23:32, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "81218",
-    "event_time": "2026-04-11T01:50:00",
-    "seen_at": "2026-04-10T23:52:14.180Z",
-    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:50, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "44999",
-    "event_time": "2026-04-11T01:53:00",
-    "seen_at": "2026-04-10T23:55:22.861Z",
-    "raw": "Br. Vlaka 44999 odlazak      11.04.26. 01:53, kolodvor 72302"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "40826",
-    "event_time": "2026-04-11T01:58:00",
-    "seen_at": "2026-04-10T23:59:09.340Z",
-    "raw": "Br. Vlaka 40826 odlazak      11.04.26. 01:58, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81218",
-    "event_time": "2026-04-11T01:59:00",
-    "seen_at": "2026-04-11T00:00:20.269Z",
-    "raw": "Br. Vlaka 81218 odlazak      11.04.26. 01:59, kolodvor VELIKA GORICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14686,5 +14623,41 @@
     "event_time": "2026-04-14T01:44:00",
     "seen_at": "2026-04-13T23:45:28.220Z",
     "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:44, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "45780",
+    "event_time": "2026-04-14T01:50:00",
+    "seen_at": "2026-04-13T23:53:10.436Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 01:50, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "45780",
+    "event_time": "2026-04-14T01:50:00",
+    "seen_at": "2026-04-13T23:53:10.437Z",
+    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 01:50, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82108",
+    "event_time": "2026-04-14T01:55:00",
+    "seen_at": "2026-04-13T23:55:56.520Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:55, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82108",
+    "event_time": "2026-04-14T01:55:00",
+    "seen_at": "2026-04-13T23:55:56.520Z",
+    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:55, kolodvor RUDOPOLJE"
   }
 ]
