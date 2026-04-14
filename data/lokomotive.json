@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "48784",
-    "event_time": "2026-04-11T04:47:00",
-    "seen_at": "2026-04-11T02:47:31.965Z",
-    "raw": "Br. Vlaka 48784 dolazak      11.04.26. 04:47, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-10T21:00:00",
-    "seen_at": "2026-04-11T02:47:31.966Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44998",
-    "event_time": "2026-04-11T04:41:00",
-    "seen_at": "2026-04-11T02:47:55.348Z",
-    "raw": "Br. Vlaka 44998 promjena sas 11.04.26. 04:41, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89253",
-    "event_time": "2026-04-11T04:53:00",
-    "seen_at": "2026-04-11T02:53:59.505Z",
-    "raw": "Br. Vlaka 89253 formiran     11.04.26. 04:53, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "LIČKO LEŠĆE",
@@ -14794,5 +14758,14 @@
     "event_time": "2026-04-14T04:29:00",
     "seen_at": "2026-04-14T02:45:08.606Z",
     "raw": "Br. Vlaka 44788 promjena sas 14.04.26. 04:29, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44996",
+    "event_time": "2026-04-14T04:50:00",
+    "seen_at": "2026-04-14T02:51:19.350Z",
+    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 04:50, kolodvor ZLATAR-BISTRICA"
   }
 ]
