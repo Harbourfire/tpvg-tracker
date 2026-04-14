@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-11T14:55:00",
-    "seen_at": "2026-04-11T12:57:04.555Z",
-    "raw": "Br. Vlaka 63310 odlazak      11.04.26. 14:55, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-11T14:55:00",
-    "seen_at": "2026-04-11T12:57:04.555Z",
-    "raw": "Br. Vlaka 63310 odlazak      11.04.26. 14:55, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -14128,5 +14110,50 @@
     "event_time": "2026-04-14T14:53:00",
     "seen_at": "2026-04-14T12:54:01.000Z",
     "raw": "Br. Vlaka 69177 odlazak      14.04.26. 14:53, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-14T03:04:00",
+    "seen_at": "2026-04-14T12:57:28.043Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49997",
+    "event_time": "2026-04-14T14:29:00",
+    "seen_at": "2026-04-14T12:57:51.826Z",
+    "raw": "Br. Vlaka 49997 promjena sas 14.04.26. 14:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49997",
+    "event_time": "2026-04-14T14:29:00",
+    "seen_at": "2026-04-14T12:57:51.827Z",
+    "raw": "Br. Vlaka 49997 promjena sas 14.04.26. 14:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "VRHOVINE",
+    "train_number": null,
+    "event_time": "2026-04-14T14:59:00",
+    "seen_at": "2026-04-14T13:01:50.323Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-14T11:42:00",
+    "seen_at": "2026-04-14T13:02:13.993Z",
+    "raw": "Br. Vlaka 63312 formiran     14.04.26. 11:42, kolodvor VRHOVINE"
   }
 ]
