@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "49997",
-    "event_time": "2026-04-11T17:26:00",
-    "seen_at": "2026-04-11T15:26:46.992Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 17:26, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "ZDENČINA",
-    "train_number": "49997",
-    "event_time": "2026-04-11T17:32:00",
-    "seen_at": "2026-04-11T15:33:37.786Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 17:32, kolodvor ZDENČINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14218,5 +14200,68 @@
     "event_time": "2026-04-14T17:17:00",
     "seen_at": "2026-04-14T15:18:16.581Z",
     "raw": "Br. Vlaka 89925 odlazak      14.04.26. 17:17, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "45581",
+    "event_time": "2026-04-14T17:21:00",
+    "seen_at": "2026-04-14T15:24:35.483Z",
+    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 17:21, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-13T15:04:00",
+    "seen_at": "2026-04-14T15:27:23.796Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-13T15:04:00",
+    "seen_at": "2026-04-14T15:27:23.797Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "44998",
+    "train_number": null,
+    "event_time": "2026-04-14T15:30:38.787Z",
+    "seen_at": "2026-04-14T15:30:38.787Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44998 44998"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "44998",
+    "train_number": null,
+    "event_time": "2026-04-14T15:31:03.509Z",
+    "seen_at": "2026-04-14T15:31:03.509Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44998 44998"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89925",
+    "event_time": "2026-04-14T17:29:00",
+    "seen_at": "2026-04-14T15:31:28.517Z",
+    "raw": "Br. Vlaka 89925 odlazak      14.04.26. 17:29, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "45581",
+    "event_time": "2026-04-14T17:30:00",
+    "seen_at": "2026-04-14T15:33:06.051Z",
+    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 17:30, kolodvor HORVATI"
   }
 ]
