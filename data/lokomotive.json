@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-10T16:23:00",
-    "seen_at": "2026-04-11T07:24:11.470Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44998",
-    "event_time": "2026-04-11T09:23:00",
-    "seen_at": "2026-04-11T07:24:11.470Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 09:23, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-11T09:25:00",
-    "seen_at": "2026-04-11T07:25:45.944Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-11T09:05:00",
-    "seen_at": "2026-04-11T07:26:56.679Z",
-    "raw": "Br. Vlaka 69005 formiran     11.04.26. 09:05, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-11T09:26:00",
-    "seen_at": "2026-04-11T07:27:20.193Z",
-    "raw": "Br. Vlaka 48786 odlazak      11.04.26. 09:26, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "89253",
-    "event_time": "2026-04-11T09:28:00",
-    "seen_at": "2026-04-11T07:29:41.622Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 09:28, kolodvor MRZLO POLJE"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -14623,5 +14569,50 @@
     "event_time": "2026-04-14T09:15:00",
     "seen_at": "2026-04-14T07:17:45.819Z",
     "raw": "Br. Vlaka 47428 dolazak      14.04.26. 09:15, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-14T09:21:00",
+    "seen_at": "2026-04-14T07:23:13.525Z",
+    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 09:21, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-14T09:24:00",
+    "seen_at": "2026-04-14T07:25:38.990Z",
+    "raw": "Br. Vlaka 45104 formiran     14.04.26. 09:24, kolodvor 71308"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81231",
+    "event_time": "2026-04-14T08:59:00",
+    "seen_at": "2026-04-14T07:26:03.506Z",
+    "raw": "Br. Vlaka 81231 formiran     14.04.26. 08:59, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-04-14T06:08:00",
+    "seen_at": "2026-04-14T07:26:51.889Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-14T09:26:00",
+    "seen_at": "2026-04-14T07:27:16.070Z",
+    "raw": "Br. Vlaka 69851 formiran     14.04.26. 09:26, kolodvor ERDUT"
   }
 ]
