@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "KNIN",
-    "train_number": "49997",
-    "event_time": "2026-04-12T00:05:00",
-    "seen_at": "2026-04-11T22:12:30.234Z",
-    "raw": "Br. Vlaka 49997 dolazak      12.04.26. 00:05, kolodvor KNIN"
-  },
-  {
-    "uic": "927820440125",
     "type": "Rasformiran",
     "station": "KNIN",
     "train_number": null,
@@ -14020,5 +14011,41 @@
     "event_time": "2026-04-15T00:06:00",
     "seen_at": "2026-04-14T22:06:30.096Z",
     "raw": "Br. Vlaka 44786 odlazak      15.04.26. 00:06, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44994",
+    "event_time": "2026-04-15T00:05:00",
+    "seen_at": "2026-04-14T22:07:52.328Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:05, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89920",
+    "event_time": "2026-04-15T00:09:00",
+    "seen_at": "2026-04-14T22:09:30.046Z",
+    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 00:09, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-15T00:15:00",
+    "seen_at": "2026-04-14T22:16:43.012Z",
+    "raw": "Br. Vlaka 63305 odlazak      15.04.26. 00:15, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-15T00:15:00",
+    "seen_at": "2026-04-14T22:16:43.013Z",
+    "raw": "Br. Vlaka 63305 odlazak      15.04.26. 00:15, kolodvor PERUŠIĆ"
   }
 ]
