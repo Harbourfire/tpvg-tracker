@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "48786",
-    "event_time": "2026-04-11T05:36:00",
-    "seen_at": "2026-04-11T03:52:09.063Z",
-    "raw": "Br. Vlaka 48786 promjena sas 11.04.26. 05:36, kolodvor ZABOK"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -14758,5 +14749,14 @@
     "event_time": "2026-04-14T05:43:00",
     "seen_at": "2026-04-14T03:43:54.076Z",
     "raw": "Br. Vlaka 44787 formiran     14.04.26. 05:43, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44996",
+    "event_time": "2026-04-14T05:49:00",
+    "seen_at": "2026-04-14T03:54:10.557Z",
+    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 05:49, kolodvor NOVI MAROF"
   }
 ]
