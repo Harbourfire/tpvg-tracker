@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "48784",
-    "event_time": "2026-04-11T08:20:00",
-    "seen_at": "2026-04-11T06:23:04.226Z",
-    "raw": "Br. Vlaka 48784 odlazak      11.04.26. 08:20, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-11T08:03:00",
-    "seen_at": "2026-04-11T06:25:02.287Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "48784",
-    "event_time": "2026-04-11T08:25:00",
-    "seen_at": "2026-04-11T06:27:57.597Z",
-    "raw": "Br. Vlaka 48784 dolazak      11.04.26. 08:25, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-11T08:27:00",
-    "seen_at": "2026-04-11T06:27:57.598Z",
-    "raw": "Br. Vlaka 45597 formiran     11.04.26. 08:27, kolodvor 77424"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-11T08:25:00",
-    "seen_at": "2026-04-11T06:28:44.656Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-04-11T08:30:00",
-    "seen_at": "2026-04-11T06:30:41.793Z",
-    "raw": "Br. Vlaka 47944 dolazak      11.04.26. 08:30, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -14659,5 +14605,23 @@
     "event_time": "2026-04-14T07:19:00",
     "seen_at": "2026-04-14T06:14:52.426Z",
     "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49826",
+    "event_time": "2026-04-14T08:25:00",
+    "seen_at": "2026-04-14T06:26:16.986Z",
+    "raw": "Br. Vlaka 49826 odlazak      14.04.26. 08:25, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-14T06:17:00",
+    "seen_at": "2026-04-14T06:28:39.612Z",
+    "raw": "Br. Vlaka 44996 promjena sas 14.04.26. 06:17, kolodvor VARAŽDIN"
   }
 ]
