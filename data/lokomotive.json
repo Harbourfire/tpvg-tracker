@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "48784",
-    "event_time": "2026-04-11T06:53:00",
-    "seen_at": "2026-04-11T04:56:04.350Z",
-    "raw": "Br. Vlaka 48784 dolazak      11.04.26. 06:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-11T07:00:00",
-    "seen_at": "2026-04-11T05:01:00.569Z",
-    "raw": "Br. Vlaka 63306 odlazak      11.04.26. 07:00, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
@@ -14713,5 +14695,23 @@
     "event_time": "2026-04-14T06:50:00",
     "seen_at": "2026-04-14T04:53:56.700Z",
     "raw": "Br. Vlaka 74101 odlazak      14.04.26. 06:50, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-14T06:55:00",
+    "seen_at": "2026-04-14T04:55:20.024Z",
+    "raw": "Br. Vlaka 69005 odlazak      14.04.26. 06:55, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-14T06:55:00",
+    "seen_at": "2026-04-14T04:55:20.024Z",
+    "raw": "Br. Vlaka 69005 odlazak      14.04.26. 06:55, kolodvor OGULIN"
   }
 ]
