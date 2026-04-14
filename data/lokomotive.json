@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49997",
-    "event_time": "2026-04-11T13:50:00",
-    "seen_at": "2026-04-11T11:52:17.221Z",
-    "raw": "Br. Vlaka 49997 dolazak      11.04.26. 13:50, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -14290,5 +14281,23 @@
     "event_time": "2026-04-14T13:43:00",
     "seen_at": "2026-04-14T11:44:42.678Z",
     "raw": "Br. Vlaka 82300 odlazak      14.04.26. 13:43, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-14T13:46:00",
+    "seen_at": "2026-04-14T11:47:43.321Z",
+    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 13:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-14T13:51:00",
+    "seen_at": "2026-04-14T11:52:29.671Z",
+    "raw": "Br. Vlaka 44787 dolazak      14.04.26. 13:51, kolodvor VARAŽDIN"
   }
 ]
