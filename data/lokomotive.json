@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "49997",
-    "event_time": "2026-04-11T16:45:00",
-    "seen_at": "2026-04-11T14:45:26.698Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 16:45, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "49997",
-    "event_time": "2026-04-11T16:50:00",
-    "seen_at": "2026-04-11T14:50:59.238Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 16:50, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "928012230100",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -14200,5 +14182,50 @@
     "event_time": "2026-04-14T16:37:00",
     "seen_at": "2026-04-14T14:39:01.434Z",
     "raw": "Br. Vlaka 63310 odlazak      14.04.26. 16:37, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "49997",
+    "event_time": "2026-04-14T16:46:00",
+    "seen_at": "2026-04-14T14:48:15.679Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 16:46, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "49997",
+    "event_time": "2026-04-14T16:46:00",
+    "seen_at": "2026-04-14T14:48:15.680Z",
+    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 16:46, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "45581",
+    "event_time": "2026-04-14T16:44:00",
+    "seen_at": "2026-04-14T14:49:04.427Z",
+    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 16:44, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "45581",
+    "event_time": "2026-04-14T16:50:00",
+    "seen_at": "2026-04-14T14:50:39.905Z",
+    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 16:50, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-14T16:50:00",
+    "seen_at": "2026-04-14T14:51:04.392Z",
+    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 16:50, kolodvor PLAŠKI"
   }
 ]
