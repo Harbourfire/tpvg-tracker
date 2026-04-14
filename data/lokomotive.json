@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:07:00",
-    "seen_at": "2026-04-11T10:08:52.841Z",
-    "raw": "Br. Vlaka 69175 odlazak      11.04.26. 12:07, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "69175",
-    "event_time": "2026-04-11T12:07:00",
-    "seen_at": "2026-04-11T10:08:52.841Z",
-    "raw": "Br. Vlaka 69175 odlazak      11.04.26. 12:07, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43997",
-    "event_time": "2026-04-11T12:07:00",
-    "seen_at": "2026-04-11T10:09:54.833Z",
-    "raw": "Br. Vlaka 43997 dolazak      11.04.26. 12:07, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43997",
-    "event_time": "2026-04-11T12:07:00",
-    "seen_at": "2026-04-11T10:09:54.834Z",
-    "raw": "Br. Vlaka 43997 dolazak      11.04.26. 12:07, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "43995",
-    "event_time": "2026-04-11T12:11:00",
-    "seen_at": "2026-04-11T10:11:31.160Z",
-    "raw": "Br. Vlaka 43995 formiran     11.04.26. 12:11, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-11T12:11:00",
-    "seen_at": "2026-04-11T10:13:55.208Z",
-    "raw": "Br. Vlaka 45104 odlazak      11.04.26. 12:11, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "BELI MANASTIR",
@@ -14416,5 +14362,68 @@
     "event_time": "2026-04-14T12:03:00",
     "seen_at": "2026-04-14T10:06:20.071Z",
     "raw": "Br. Vlaka 45104 odlazak      14.04.26. 12:03, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:04:00",
+    "seen_at": "2026-04-14T10:10:54.639Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:04, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:04:00",
+    "seen_at": "2026-04-14T10:10:54.640Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:04, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:08:00",
+    "seen_at": "2026-04-14T10:11:18.256Z",
+    "raw": "Br. Vlaka 44787 dolazak      14.04.26. 12:08, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:08:00",
+    "seen_at": "2026-04-14T10:11:18.256Z",
+    "raw": "Br. Vlaka 44787 dolazak      14.04.26. 12:08, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69851",
+    "event_time": "2026-04-14T12:15:00",
+    "seen_at": "2026-04-14T10:15:40.402Z",
+    "raw": "Br. Vlaka 69851 dolazak      14.04.26. 12:15, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:17:00",
+    "seen_at": "2026-04-14T10:18:03.572Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:17, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44787",
+    "event_time": "2026-04-14T12:17:00",
+    "seen_at": "2026-04-14T10:18:03.573Z",
+    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:17, kolodvor KOTORIBA"
   }
 ]
