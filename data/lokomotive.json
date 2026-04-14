@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "49997",
-    "event_time": "2026-04-11T22:03:00",
-    "seen_at": "2026-04-11T20:04:04.147Z",
-    "raw": "Br. Vlaka 49997 odlazak      11.04.26. 22:03, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44789",
-    "event_time": "2026-04-11T22:03:00",
-    "seen_at": "2026-04-11T20:06:04.308Z",
-    "raw": "Br. Vlaka 44789 odlazak      11.04.26. 22:03, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -13867,5 +13849,23 @@
     "event_time": "2026-04-14T21:46:00",
     "seen_at": "2026-04-14T19:47:06.679Z",
     "raw": "Br. Vlaka 82323 odlazak      14.04.26. 21:46, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89920",
+    "event_time": "2026-04-14T22:02:00",
+    "seen_at": "2026-04-14T20:04:04.226Z",
+    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 22:02, kolodvor 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89920",
+    "event_time": "2026-04-14T22:07:00",
+    "seen_at": "2026-04-14T20:08:04.579Z",
+    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 22:07, kolodvor 72304"
   }
 ]
