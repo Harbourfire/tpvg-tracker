@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44998",
-    "event_time": "2026-04-11T09:13:00",
-    "seen_at": "2026-04-11T07:15:17.201Z",
-    "raw": "Br. Vlaka 44998 odlazak      11.04.26. 09:13, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "89253",
-    "event_time": "2026-04-11T09:17:00",
-    "seen_at": "2026-04-11T07:18:26.838Z",
-    "raw": "Br. Vlaka 89253 odlazak      11.04.26. 09:17, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-11T09:20:00",
-    "seen_at": "2026-04-11T07:20:25.319Z",
-    "raw": "Br. Vlaka 69006 odlazak      11.04.26. 09:20, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "BELI MANASTIR",
@@ -14632,5 +14605,23 @@
     "event_time": "2026-04-14T09:10:00",
     "seen_at": "2026-04-14T07:11:05.914Z",
     "raw": "Br. Vlaka 69750 odlazak      14.04.26. 09:10, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82331",
+    "event_time": "2026-04-14T09:11:00",
+    "seen_at": "2026-04-14T07:12:29.730Z",
+    "raw": "Br. Vlaka 82331 odlazak      14.04.26. 09:11, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "KARLOVAC",
+    "train_number": "47428",
+    "event_time": "2026-04-14T09:15:00",
+    "seen_at": "2026-04-14T07:17:45.819Z",
+    "raw": "Br. Vlaka 47428 dolazak      14.04.26. 09:15, kolodvor KARLOVAC"
   }
 ]
