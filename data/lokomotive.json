@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "42786",
-    "event_time": "2026-04-12T18:05:00",
-    "seen_at": "2026-04-12T16:07:09.603Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 18:05, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "LIČKA JESENICA",
@@ -14002,5 +13993,32 @@
     "event_time": "2026-04-15T17:29:00",
     "seen_at": "2026-04-15T15:57:53.194Z",
     "raw": "Br. Vlaka 44997 dolazak      15.04.26. 17:29, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "KOTORIBA",
+    "train_number": "44997",
+    "event_time": "2026-04-15T17:29:00",
+    "seen_at": "2026-04-15T16:11:58.410Z",
+    "raw": "Br. Vlaka 44997 promjena sas 15.04.26. 17:29, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81984",
+    "event_time": "2026-04-15T18:11:00",
+    "seen_at": "2026-04-15T16:12:46.368Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 18:11, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81984",
+    "event_time": "2026-04-15T18:11:00",
+    "seen_at": "2026-04-15T16:12:46.368Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 18:11, kolodvor LIČKA JESENICA"
   }
 ]
