@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ČAČINCI",
-    "train_number": "89401",
-    "event_time": "2026-04-13T00:27:00",
-    "seen_at": "2026-04-12T22:29:39.002Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:27, kolodvor ČAČINCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -13966,5 +13957,59 @@
     "event_time": "2026-04-16T00:20:00",
     "seen_at": "2026-04-15T22:20:32.574Z",
     "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-16T00:22:00",
+    "seen_at": "2026-04-15T22:22:51.458Z",
+    "raw": "Br. Vlaka 44787 formiran     16.04.26. 00:22, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44994",
+    "event_time": "2026-04-16T00:23:00",
+    "seen_at": "2026-04-15T22:24:32.197Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:23, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44994",
+    "event_time": "2026-04-16T00:29:00",
+    "seen_at": "2026-04-15T22:29:57.969Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:29, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T00:29:00",
+    "seen_at": "2026-04-15T22:30:23.042Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T00:29:00",
+    "seen_at": "2026-04-15T22:30:23.042Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "81953",
+    "event_time": "2026-04-16T00:31:00",
+    "seen_at": "2026-04-15T22:32:03.676Z",
+    "raw": "Br. Vlaka 81953 formiran     16.04.26. 00:31, kolodvor SAVSKI MAROF"
   }
 ]
