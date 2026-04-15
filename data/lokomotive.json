@@ -2,51 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:59:00",
-    "seen_at": "2026-04-12T10:00:39.622Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:59, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:59:00",
-    "seen_at": "2026-04-12T10:00:39.622Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:59, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:04:00",
-    "seen_at": "2026-04-12T10:06:53.242Z",
-    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 12:04, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:04:00",
-    "seen_at": "2026-04-12T10:08:53.581Z",
-    "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 12:04, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:04:00",
-    "seen_at": "2026-04-12T10:08:53.581Z",
-    "raw": "Br. Vlaka 44997 promjena sas 12.04.26. 12:04, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "44697",
     "event_time": "2026-04-12T12:13:00",
@@ -14227,5 +14182,41 @@
     "event_time": "2026-04-15T11:57:00",
     "seen_at": "2026-04-15T09:59:52.680Z",
     "raw": "Br. Vlaka 81951 dolazak      15.04.26. 11:57, kolodvor IVANEC"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76553",
+    "event_time": "2026-04-15T11:59:00",
+    "seen_at": "2026-04-15T10:00:54.789Z",
+    "raw": "Br. Vlaka 76553 odlazak      15.04.26. 11:59, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "82505",
+    "event_time": "2026-04-15T12:01:00",
+    "seen_at": "2026-04-15T10:03:22.220Z",
+    "raw": "Br. Vlaka 82505 dolazak      15.04.26. 12:01, kolodvor 72303"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "45941",
+    "event_time": "2026-04-15T11:53:00",
+    "seen_at": "2026-04-15T10:06:36.983Z",
+    "raw": "Br. Vlaka 45941 dolazak      15.04.26. 11:53, kolodvor DARDA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-14T21:45:00",
+    "seen_at": "2026-04-15T10:07:25.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
   }
 ]
