@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "47980",
-    "event_time": "2026-04-12T09:59:00",
-    "seen_at": "2026-04-12T08:01:36.520Z",
-    "raw": "Br. Vlaka 47980 dolazak      12.04.26. 09:59, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89117",
-    "event_time": "2026-04-12T10:02:00",
-    "seen_at": "2026-04-12T08:03:13.248Z",
-    "raw": "Br. Vlaka 89117 odlazak      12.04.26. 10:02, kolodvor OSIJEK"
-  },
-  {
     "uic": "987891162040",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -14065,5 +14047,23 @@
     "event_time": "2026-04-15T07:55:00",
     "seen_at": "2026-04-15T08:00:20.745Z",
     "raw": "Br. Vlaka 69005 formiran     15.04.26. 07:55, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-15T09:49:00",
+    "seen_at": "2026-04-15T08:07:06.404Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 09:49, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "49999",
+    "event_time": "2026-04-15T10:01:00",
+    "seen_at": "2026-04-15T08:09:55.397Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 10:01, kolodvor KOTORIBA"
   }
 ]
