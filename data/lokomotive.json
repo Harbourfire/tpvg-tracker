@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-12T08:54:00",
-    "seen_at": "2026-04-12T07:17:53.670Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:12:00",
-    "seen_at": "2026-04-12T07:21:05.174Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:12, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:12:00",
-    "seen_at": "2026-04-12T07:21:05.175Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:12, kolodvor ZABOK"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -14011,5 +13984,32 @@
     "event_time": "2026-04-15T06:08:00",
     "seen_at": "2026-04-15T07:07:46.187Z",
     "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "74301",
+    "event_time": "2026-04-15T09:12:00",
+    "seen_at": "2026-04-15T07:12:49.355Z",
+    "raw": "Br. Vlaka 74301 odlazak      15.04.26. 09:12, kolodvor POŽEGA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:16:00",
+    "seen_at": "2026-04-15T07:16:50.465Z",
+    "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:16, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:16:00",
+    "seen_at": "2026-04-15T07:16:50.465Z",
+    "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:16, kolodvor SPAČVA"
   }
 ]
