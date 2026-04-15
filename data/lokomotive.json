@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "48588",
-    "event_time": "2026-04-12T19:30:00",
-    "seen_at": "2026-04-12T17:32:34.026Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 19:30, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -13876,5 +13867,32 @@
     "event_time": "2026-04-15T19:00:00",
     "seen_at": "2026-04-15T17:05:17.771Z",
     "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:00, kolodvor SUNJA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "89332",
+    "event_time": "2026-04-15T19:19:00",
+    "seen_at": "2026-04-15T17:28:58.707Z",
+    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:19, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "89332",
+    "event_time": "2026-04-15T19:26:00",
+    "seen_at": "2026-04-15T17:29:22.533Z",
+    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:26, kolodvor SISAK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-14T15:15:00",
+    "seen_at": "2026-04-15T17:33:20.382Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
