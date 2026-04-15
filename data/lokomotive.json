@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T11:49:00",
-    "seen_at": "2026-04-12T09:51:57.727Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 11:49, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T11:49:00",
-    "seen_at": "2026-04-12T09:51:57.728Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 11:49, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:52:00",
-    "seen_at": "2026-04-12T09:53:09.276Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:52, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:52:00",
-    "seen_at": "2026-04-12T09:53:09.276Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:52, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -14191,5 +14155,77 @@
     "event_time": "2026-04-15T11:47:00",
     "seen_at": "2026-04-15T09:48:21.922Z",
     "raw": "Br. Vlaka 82505 odlazak      15.04.26. 11:47, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-15T11:42:00",
+    "seen_at": "2026-04-15T09:52:10.185Z",
+    "raw": "Br. Vlaka 49999 promjena sas 15.04.26. 11:42, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-15T11:42:00",
+    "seen_at": "2026-04-15T09:52:10.186Z",
+    "raw": "Br. Vlaka 49999 promjena sas 15.04.26. 11:42, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "82505",
+    "event_time": "2026-04-15T11:53:00",
+    "seen_at": "2026-04-15T09:53:47.978Z",
+    "raw": "Br. Vlaka 82505 odlazak      15.04.26. 11:53, kolodvor 72302"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:51:00",
+    "seen_at": "2026-04-15T09:54:12.084Z",
+    "raw": "Br. Vlaka 81993 dolazak      15.04.26. 11:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:51:00",
+    "seen_at": "2026-04-15T09:54:12.084Z",
+    "raw": "Br. Vlaka 81993 dolazak      15.04.26. 11:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:51:00",
+    "seen_at": "2026-04-15T09:57:02.762Z",
+    "raw": "Br. Vlaka 81993 promjena sas 15.04.26. 11:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:51:00",
+    "seen_at": "2026-04-15T09:57:02.762Z",
+    "raw": "Br. Vlaka 81993 promjena sas 15.04.26. 11:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "IVANEC",
+    "train_number": "81951",
+    "event_time": "2026-04-15T11:57:00",
+    "seen_at": "2026-04-15T09:59:52.680Z",
+    "raw": "Br. Vlaka 81951 dolazak      15.04.26. 11:57, kolodvor IVANEC"
   }
 ]
