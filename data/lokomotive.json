@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-12T05:07:00",
-    "seen_at": "2026-04-12T03:15:00.253Z",
-    "raw": "Br. Vlaka 69006 odlazak      12.04.26. 05:07, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-12T05:07:00",
-    "seen_at": "2026-04-12T03:15:00.253Z",
-    "raw": "Br. Vlaka 69006 odlazak      12.04.26. 05:07, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-12T05:13:00",
-    "seen_at": "2026-04-12T03:15:23.671Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-12T05:13:00",
-    "seen_at": "2026-04-12T03:15:23.671Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "82323",
-    "event_time": "2026-04-12T05:17:00",
-    "seen_at": "2026-04-12T03:17:20.777Z",
-    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:17, kolodvor ZAGREB GL. KOL."
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "ZAGREB BORONGAJ",
@@ -13948,5 +13903,59 @@
     "event_time": "2026-04-15T04:17:00",
     "seen_at": "2026-04-15T03:00:49.799Z",
     "raw": "Br. Vlaka 69607 formiran     15.04.26. 04:17, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "89921",
+    "event_time": "2026-04-15T05:11:00",
+    "seen_at": "2026-04-15T03:13:39.080Z",
+    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 05:11, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69607",
+    "event_time": "2026-04-15T05:13:00",
+    "seen_at": "2026-04-15T03:14:03.267Z",
+    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:13, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69607",
+    "event_time": "2026-04-15T05:13:00",
+    "seen_at": "2026-04-15T03:14:03.268Z",
+    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:13, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89921",
+    "event_time": "2026-04-15T05:17:00",
+    "seen_at": "2026-04-15T03:20:23.889Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 05:17, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "69607",
+    "event_time": "2026-04-15T05:18:00",
+    "seen_at": "2026-04-15T03:20:47.985Z",
+    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:18, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "69607",
+    "event_time": "2026-04-15T05:18:00",
+    "seen_at": "2026-04-15T03:20:47.986Z",
+    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:18, kolodvor PODSUSED tvornica"
   }
 ]
