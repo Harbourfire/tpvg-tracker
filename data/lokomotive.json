@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "47980",
-    "event_time": "2026-04-12T11:07:00",
-    "seen_at": "2026-04-12T09:11:47.189Z",
-    "raw": "Br. Vlaka 47980 odlazak      12.04.26. 11:07, kolodvor DARDA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-11T16:00:00",
-    "seen_at": "2026-04-12T09:12:11.026Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-11T16:00:00",
-    "seen_at": "2026-04-12T09:12:11.027Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:15:00",
-    "seen_at": "2026-04-12T09:16:06.470Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:15, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:15:00",
-    "seen_at": "2026-04-12T09:16:06.470Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:15, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820440125",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14146,5 +14101,32 @@
     "event_time": "2026-04-15T11:03:00",
     "seen_at": "2026-04-15T09:04:56.151Z",
     "raw": "Br. Vlaka 74300 odlazak      15.04.26. 11:03, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Formiran",
+    "station": "SESVETE",
+    "train_number": "82505",
+    "event_time": "2026-04-15T11:12:00",
+    "seen_at": "2026-04-15T09:12:52.048Z",
+    "raw": "Br. Vlaka 82505 formiran     15.04.26. 11:12, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-14T21:45:00",
+    "seen_at": "2026-04-15T09:14:29.253Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "74300",
+    "event_time": "2026-04-15T11:12:00",
+    "seen_at": "2026-04-15T09:15:17.343Z",
+    "raw": "Br. Vlaka 74300 odlazak      15.04.26. 11:12, kolodvor PLETERNICA"
   }
 ]
