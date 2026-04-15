@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "69820",
-    "event_time": "2026-04-12T17:58:00",
-    "seen_at": "2026-04-12T15:59:25.902Z",
-    "raw": "Br. Vlaka 69820 dolazak      12.04.26. 17:58, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-12T17:58:00",
-    "seen_at": "2026-04-12T15:59:49.457Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T17:59:00",
-    "seen_at": "2026-04-12T16:01:24.033Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 17:59, kolodvor KOŠKA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "42786",
-    "event_time": "2026-04-12T18:02:00",
-    "seen_at": "2026-04-12T16:03:08.926Z",
-    "raw": "Br. Vlaka 42786 dolazak      12.04.26. 18:02, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-12T18:02:00",
-    "seen_at": "2026-04-12T16:03:57.402Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 18:02, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-12T18:02:00",
-    "seen_at": "2026-04-12T16:03:57.402Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 18:02, kolodvor BLATA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -14047,5 +13993,14 @@
     "event_time": "2026-04-15T17:25:00",
     "seen_at": "2026-04-15T15:52:53.688Z",
     "raw": "Br. Vlaka 44997 odlazak      15.04.26. 17:25, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44997",
+    "event_time": "2026-04-15T17:29:00",
+    "seen_at": "2026-04-15T15:57:53.194Z",
+    "raw": "Br. Vlaka 44997 dolazak      15.04.26. 17:29, kolodvor KOTORIBA"
   }
 ]
