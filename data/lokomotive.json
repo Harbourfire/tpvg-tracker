@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81234",
-    "event_time": "2026-04-12T15:36:00",
-    "seen_at": "2026-04-12T13:38:17.375Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:36, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81234",
-    "event_time": "2026-04-12T15:36:00",
-    "seen_at": "2026-04-12T13:38:17.375Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:36, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-12T15:43:00",
-    "seen_at": "2026-04-12T13:44:35.508Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-12T15:43:00",
-    "seen_at": "2026-04-12T13:44:35.508Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T14:49:00",
-    "seen_at": "2026-04-12T13:45:46.381Z",
-    "raw": "Br. Vlaka 63305 formiran     12.04.26. 14:49, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "42786",
-    "event_time": "2026-04-12T15:37:00",
-    "seen_at": "2026-04-12T13:46:22.358Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:37, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T14:49:00",
-    "seen_at": "2026-04-12T13:46:22.359Z",
-    "raw": "Br. Vlaka 63305 formiran     12.04.26. 14:49, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "81171",
-    "event_time": "2026-04-12T15:35:00",
-    "seen_at": "2026-04-12T13:46:46.222Z",
-    "raw": "Br. Vlaka 81171 dolazak      12.04.26. 15:35, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -14137,5 +14065,32 @@
     "event_time": "2026-04-15T15:33:00",
     "seen_at": "2026-04-15T13:34:23.973Z",
     "raw": "Br. Vlaka 81984 odlazak      15.04.26. 15:33, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "89332",
+    "event_time": "2026-04-15T15:38:00",
+    "seen_at": "2026-04-15T13:39:06.931Z",
+    "raw": "Br. Vlaka 89332 dolazak      15.04.26. 15:38, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44786",
+    "event_time": "2026-04-15T15:42:00",
+    "seen_at": "2026-04-15T13:43:08.860Z",
+    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 15:42, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "81954",
+    "event_time": "2026-04-15T15:43:00",
+    "seen_at": "2026-04-15T13:43:57.469Z",
+    "raw": "Br. Vlaka 81954 formiran     15.04.26. 15:43, kolodvor VARAŽDIN"
   }
 ]
