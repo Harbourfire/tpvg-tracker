@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "42786",
-    "event_time": "2026-04-12T16:14:00",
-    "seen_at": "2026-04-12T14:18:45.206Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 16:14, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620247",
     "type": "Dolazak",
     "station": "VARAŽDIN",
     "train_number": "42786",
@@ -14137,5 +14128,23 @@
     "event_time": "2026-04-15T16:15:00",
     "seen_at": "2026-04-15T14:15:58.571Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44994",
+    "event_time": "2026-04-15T16:12:00",
+    "seen_at": "2026-04-15T14:18:39.727Z",
+    "raw": "Br. Vlaka 44994 formiran     15.04.26. 16:12, kolodvor 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49998",
+    "event_time": "2026-04-15T16:19:00",
+    "seen_at": "2026-04-15T14:20:38.592Z",
+    "raw": "Br. Vlaka 49998 odlazak      15.04.26. 16:19, kolodvor ZLATAR-BISTRICA"
   }
 ]
