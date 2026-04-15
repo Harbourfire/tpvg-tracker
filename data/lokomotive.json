@@ -2,15 +2,6 @@
   {
     "uic": "927820440240",
     "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "82323",
-    "event_time": "2026-04-12T04:57:00",
-    "seen_at": "2026-04-12T03:00:41.777Z",
-    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 04:57, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "82323",
     "event_time": "2026-04-12T05:04:00",
@@ -13903,5 +13894,77 @@
     "event_time": "2026-04-15T04:49:00",
     "seen_at": "2026-04-15T02:50:09.145Z",
     "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:49, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44787",
+    "event_time": "2026-04-15T04:53:00",
+    "seen_at": "2026-04-15T02:53:17.062Z",
+    "raw": "Br. Vlaka 44787 dolazak      15.04.26. 04:53, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44787",
+    "event_time": "2026-04-15T04:53:00",
+    "seen_at": "2026-04-15T02:53:17.063Z",
+    "raw": "Br. Vlaka 44787 dolazak      15.04.26. 04:53, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89921",
+    "event_time": "2026-04-15T04:42:00",
+    "seen_at": "2026-04-15T02:53:40.806Z",
+    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 04:42, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89921",
+    "event_time": "2026-04-15T04:53:00",
+    "seen_at": "2026-04-15T02:54:04.846Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 04:53, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-14T03:04:00",
+    "seen_at": "2026-04-15T02:57:38.513Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-14T03:04:00",
+    "seen_at": "2026-04-15T02:57:38.514Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69607",
+    "event_time": "2026-04-15T04:17:00",
+    "seen_at": "2026-04-15T03:00:25.091Z",
+    "raw": "Br. Vlaka 69607 formiran     15.04.26. 04:17, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69607",
+    "event_time": "2026-04-15T04:17:00",
+    "seen_at": "2026-04-15T03:00:49.799Z",
+    "raw": "Br. Vlaka 69607 formiran     15.04.26. 04:17, kolodvor ZAPREŠIĆ"
   }
 ]
