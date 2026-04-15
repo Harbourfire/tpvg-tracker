@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81161",
-    "event_time": "2026-04-12T07:47:00",
-    "seen_at": "2026-04-12T05:47:42.111Z",
-    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 07:47, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -13903,5 +13894,50 @@
     "event_time": "2026-04-15T07:32:00",
     "seen_at": "2026-04-15T05:32:21.596Z",
     "raw": "Br. Vlaka 49826 formiran     15.04.26. 07:32, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44995",
+    "event_time": "2026-04-15T07:40:00",
+    "seen_at": "2026-04-15T05:42:47.488Z",
+    "raw": "Br. Vlaka 44995 dolazak      15.04.26. 07:40, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-15T05:04:00",
+    "seen_at": "2026-04-15T05:45:38.166Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "81951",
+    "event_time": "2026-04-15T07:41:00",
+    "seen_at": "2026-04-15T05:46:03.023Z",
+    "raw": "Br. Vlaka 81951 formiran     15.04.26. 07:41, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "82502",
+    "event_time": "2026-04-15T07:40:00",
+    "seen_at": "2026-04-15T05:46:51.850Z",
+    "raw": "Br. Vlaka 82502 odlazak      15.04.26. 07:40, kolodvor 72303"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74101",
+    "event_time": "2026-04-15T07:45:00",
+    "seen_at": "2026-04-15T05:47:16.591Z",
+    "raw": "Br. Vlaka 74101 odlazak      15.04.26. 07:45, kolodvor SPAČVA"
   }
 ]
