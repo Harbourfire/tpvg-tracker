@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "42786",
-    "event_time": "2026-04-12T18:54:00",
-    "seen_at": "2026-04-12T16:55:02.545Z",
-    "raw": "Br. Vlaka 42786 dolazak      12.04.26. 18:54, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "89142",
-    "event_time": "2026-04-12T19:01:00",
-    "seen_at": "2026-04-12T17:02:04.675Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 19:01, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T19:03:00",
-    "seen_at": "2026-04-12T17:03:16.252Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T19:03:00",
-    "seen_at": "2026-04-12T17:03:16.252Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:03, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T19:09:00",
-    "seen_at": "2026-04-12T17:10:03.570Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:09, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-12T19:09:00",
-    "seen_at": "2026-04-12T17:10:03.570Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 19:09, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "48588",
-    "event_time": "2026-04-12T19:09:00",
-    "seen_at": "2026-04-12T17:10:27.468Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 19:09, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T19:12:00",
-    "seen_at": "2026-04-12T17:13:51.521Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 19:12, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ČAČINCI",
@@ -13948,5 +13876,32 @@
     "event_time": "2026-04-09T18:39:00",
     "seen_at": "2026-04-15T16:41:05.216Z",
     "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-04-15T18:54:00",
+    "seen_at": "2026-04-15T17:05:17.770Z",
+    "raw": "Br. Vlaka 81984 promjena sas 15.04.26. 18:54, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-04-15T18:54:00",
+    "seen_at": "2026-04-15T17:05:17.770Z",
+    "raw": "Br. Vlaka 81984 promjena sas 15.04.26. 18:54, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89332",
+    "event_time": "2026-04-15T19:00:00",
+    "seen_at": "2026-04-15T17:05:17.771Z",
+    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:00, kolodvor SUNJA"
   }
 ]
