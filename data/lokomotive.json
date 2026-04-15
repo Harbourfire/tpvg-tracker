@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69326",
-    "event_time": "2026-04-12T20:48:00",
-    "seen_at": "2026-04-12T18:49:44.924Z",
-    "raw": "Br. Vlaka 69326 odlazak      12.04.26. 20:48, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "48588",
-    "event_time": "2026-04-12T20:11:00",
-    "seen_at": "2026-04-12T18:50:32.686Z",
-    "raw": "Br. Vlaka 48588 promjena sas 12.04.26. 20:11, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "48588",
-    "event_time": "2026-04-12T20:49:00",
-    "seen_at": "2026-04-12T18:51:44.166Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 20:49, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "CABUNA",
@@ -13867,5 +13840,32 @@
     "event_time": "2026-04-15T20:37:00",
     "seen_at": "2026-04-15T18:38:48.491Z",
     "raw": "Br. Vlaka 44997 odlazak      15.04.26. 20:37, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81954",
+    "event_time": "2026-04-15T20:34:00",
+    "seen_at": "2026-04-15T18:50:11.022Z",
+    "raw": "Br. Vlaka 81954 odlazak      15.04.26. 20:34, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44997",
+    "event_time": "2026-04-15T20:45:00",
+    "seen_at": "2026-04-15T18:51:22.024Z",
+    "raw": "Br. Vlaka 44997 dolazak      15.04.26. 20:45, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44997",
+    "event_time": "2026-04-15T20:51:00",
+    "seen_at": "2026-04-15T18:51:46.371Z",
+    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 20:51, kolodvor ČAKOVEC"
   }
 ]
