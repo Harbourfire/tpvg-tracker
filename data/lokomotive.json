@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MEDAK",
-    "train_number": "89190",
-    "event_time": "2026-04-12T02:04:00",
-    "seen_at": "2026-04-12T00:05:26.572Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 02:04, kolodvor MEDAK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-12T02:05:00",
-    "seen_at": "2026-04-12T00:06:14.017Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-12T02:05:00",
-    "seen_at": "2026-04-12T00:06:14.017Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89151",
-    "event_time": "2026-04-12T02:06:00",
-    "seen_at": "2026-04-12T00:06:37.882Z",
-    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:06, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89151",
-    "event_time": "2026-04-12T02:10:00",
-    "seen_at": "2026-04-12T00:10:33.384Z",
-    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:10, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "LUKA",
@@ -14011,5 +13966,23 @@
     "event_time": "2026-04-15T02:00:00",
     "seen_at": "2026-04-15T00:03:30.329Z",
     "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:00, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44994",
+    "event_time": "2026-04-15T02:06:00",
+    "seen_at": "2026-04-15T00:08:05.081Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 02:06, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89920",
+    "event_time": "2026-04-15T02:08:00",
+    "seen_at": "2026-04-15T00:08:53.478Z",
+    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 02:08, kolodvor VARAŽDIN"
   }
 ]
