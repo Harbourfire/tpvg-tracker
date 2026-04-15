@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:00:00",
-    "seen_at": "2026-04-12T12:00:52.087Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:00, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:00:00",
-    "seen_at": "2026-04-12T12:00:52.089Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:00, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44997",
-    "event_time": "2026-04-12T14:01:00",
-    "seen_at": "2026-04-12T12:02:27.477Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 14:01, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81234",
-    "event_time": "2026-04-12T14:03:00",
-    "seen_at": "2026-04-12T12:04:50.041Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:03, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81234",
-    "event_time": "2026-04-12T14:03:00",
-    "seen_at": "2026-04-12T12:04:50.041Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:03, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -14218,5 +14173,14 @@
     "event_time": "2026-04-15T13:55:00",
     "seen_at": "2026-04-15T11:56:06.303Z",
     "raw": "Br. Vlaka 89332 formiran     15.04.26. 13:55, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-15T13:59:00",
+    "seen_at": "2026-04-15T12:00:21.818Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
