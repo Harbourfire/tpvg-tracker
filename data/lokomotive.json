@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-04-12T20:26:00",
-    "seen_at": "2026-04-12T18:26:40.610Z",
-    "raw": "Br. Vlaka 81230 formiran     12.04.26. 20:26, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-04-12T20:26:00",
-    "seen_at": "2026-04-12T18:26:40.610Z",
-    "raw": "Br. Vlaka 81230 formiran     12.04.26. 20:26, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -13876,5 +13858,23 @@
     "event_time": "2026-04-15T20:21:00",
     "seen_at": "2026-04-15T18:22:43.284Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-15T20:23:00",
+    "seen_at": "2026-04-15T18:25:08.606Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44997",
+    "event_time": "2026-04-15T20:29:00",
+    "seen_at": "2026-04-15T18:31:09.730Z",
+    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 20:29, kolodvor DONJI KRALJEVEC"
   }
 ]
