@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SUHOPOLJE",
-    "train_number": "89142",
-    "event_time": "2026-04-12T21:03:00",
-    "seen_at": "2026-04-12T19:03:29.540Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 21:03, kolodvor SUHOPOLJE"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "69326",
-    "event_time": "2026-04-12T21:10:00",
-    "seen_at": "2026-04-12T19:10:51.122Z",
-    "raw": "Br. Vlaka 69326 odlazak      12.04.26. 21:10, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48588",
-    "event_time": "2026-04-12T21:06:00",
-    "seen_at": "2026-04-12T19:12:49.076Z",
-    "raw": "Br. Vlaka 48588 dolazak      12.04.26. 21:06, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "VIROVITICA",
     "train_number": "89142",
@@ -13849,5 +13822,14 @@
     "event_time": "2026-04-15T20:59:00",
     "seen_at": "2026-04-15T19:00:02.401Z",
     "raw": "Br. Vlaka 81954 odlazak      15.04.26. 20:59, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-15T21:07:00",
+    "seen_at": "2026-04-15T19:11:00.037Z",
+    "raw": "Br. Vlaka 44997 dolazak      15.04.26. 21:07, kolodvor VARAŽDIN"
   }
 ]
