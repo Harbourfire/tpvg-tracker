@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-12T18:14:00",
-    "seen_at": "2026-04-12T16:14:59.977Z",
-    "raw": "Br. Vlaka 63305 dolazak      12.04.26. 18:14, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-12T18:14:00",
-    "seen_at": "2026-04-12T16:14:59.977Z",
-    "raw": "Br. Vlaka 63305 dolazak      12.04.26. 18:14, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "42786",
-    "event_time": "2026-04-12T18:14:00",
-    "seen_at": "2026-04-12T16:17:22.961Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 18:14, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-12T12:05:00",
-    "seen_at": "2026-04-12T16:18:59.101Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "48588",
-    "event_time": "2026-04-12T18:17:00",
-    "seen_at": "2026-04-12T16:19:22.855Z",
-    "raw": "Br. Vlaka 48588 formiran     12.04.26. 18:17, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "NAŠICE",
@@ -14020,5 +13975,32 @@
     "event_time": "2026-04-15T18:11:00",
     "seen_at": "2026-04-15T16:12:46.368Z",
     "raw": "Br. Vlaka 81984 odlazak      15.04.26. 18:11, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "89332",
+    "event_time": "2026-04-15T18:17:00",
+    "seen_at": "2026-04-15T16:18:43.195Z",
+    "raw": "Br. Vlaka 89332 dolazak      15.04.26. 18:17, kolodvor SUNJA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81984",
+    "event_time": "2026-04-15T18:22:00",
+    "seen_at": "2026-04-15T16:22:45.298Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 18:22, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81984",
+    "event_time": "2026-04-15T18:22:00",
+    "seen_at": "2026-04-15T16:22:45.298Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 18:22, kolodvor BLATA"
   }
 ]
