@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "89190",
-    "event_time": "2026-04-12T03:29:00",
-    "seen_at": "2026-04-12T01:30:09.380Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 03:29, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -13921,5 +13912,68 @@
     "event_time": "2026-04-15T03:13:00",
     "seen_at": "2026-04-15T01:18:21.337Z",
     "raw": "Br. Vlaka 89921 odlazak      15.04.26. 03:13, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89921",
+    "event_time": "2026-04-15T03:24:00",
+    "seen_at": "2026-04-15T01:24:51.146Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 03:24, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-15T03:17:00",
+    "seen_at": "2026-04-15T01:24:51.147Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81982",
+    "event_time": "2026-04-15T03:25:00",
+    "seen_at": "2026-04-15T01:26:26.536Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 03:25, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81982",
+    "event_time": "2026-04-15T03:25:00",
+    "seen_at": "2026-04-15T01:26:26.536Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 03:25, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44787",
+    "event_time": "2026-04-15T03:30:00",
+    "seen_at": "2026-04-15T01:31:35.958Z",
+    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 03:30, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44787",
+    "event_time": "2026-04-15T03:30:00",
+    "seen_at": "2026-04-15T01:31:35.959Z",
+    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 03:30, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89921",
+    "event_time": "2026-04-15T03:30:00",
+    "seen_at": "2026-04-15T01:32:00.021Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 03:30, kolodvor MALA SUBOTICA"
   }
 ]
