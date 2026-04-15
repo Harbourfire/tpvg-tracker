@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-11T22:20:00",
-    "seen_at": "2026-04-12T22:06:51.491Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "69175",
-    "event_time": "2026-04-13T00:00:00",
-    "seen_at": "2026-04-12T22:08:02.871Z",
-    "raw": "Br. Vlaka 69175 dolazak      13.04.26. 00:00, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "69175",
-    "event_time": "2026-04-13T00:00:00",
-    "seen_at": "2026-04-12T22:08:02.871Z",
-    "raw": "Br. Vlaka 69175 dolazak      13.04.26. 00:00, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-13T00:00:00",
-    "seen_at": "2026-04-12T22:08:26.778Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-13T00:00:00",
-    "seen_at": "2026-04-12T22:08:26.778Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-13T00:09:00",
-    "seen_at": "2026-04-12T22:09:37.998Z",
-    "raw": "Br. Vlaka 63306 formiran     13.04.26. 00:09, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-13T00:09:00",
-    "seen_at": "2026-04-12T22:09:37.998Z",
-    "raw": "Br. Vlaka 63306 formiran     13.04.26. 00:09, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ČAČINCI",
@@ -13930,5 +13867,59 @@
     "event_time": "2026-04-15T23:57:00",
     "seen_at": "2026-04-15T21:57:53.433Z",
     "raw": "Br. Vlaka 44994 odlazak      15.04.26. 23:57, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-16T00:02:00",
+    "seen_at": "2026-04-15T22:03:27.136Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:02, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-16T00:02:00",
+    "seen_at": "2026-04-15T22:03:27.136Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:02, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81232",
+    "event_time": "2026-04-15T23:59:00",
+    "seen_at": "2026-04-15T22:03:51.801Z",
+    "raw": "Br. Vlaka 81232 odlazak      15.04.26. 23:59, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44994",
+    "event_time": "2026-04-16T00:03:00",
+    "seen_at": "2026-04-15T22:03:51.801Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:03, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81995",
+    "event_time": "2026-04-15T23:57:00",
+    "seen_at": "2026-04-15T22:05:30.527Z",
+    "raw": "Br. Vlaka 81995 promjena sas 15.04.26. 23:57, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81956",
+    "event_time": "2026-04-16T00:08:00",
+    "seen_at": "2026-04-15T22:10:03.387Z",
+    "raw": "Br. Vlaka 81956 odlazak      16.04.26. 00:08, kolodvor ZAPREŠIĆ"
   }
 ]
