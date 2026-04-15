@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:28:00",
-    "seen_at": "2026-04-12T10:30:36.720Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:28, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:28:00",
-    "seen_at": "2026-04-12T10:30:36.720Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:28, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "44697",
-    "event_time": "2026-04-12T12:29:00",
-    "seen_at": "2026-04-12T10:30:36.721Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 12:29, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "44697",
-    "event_time": "2026-04-12T12:29:00",
-    "seen_at": "2026-04-12T10:30:36.722Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 12:29, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T12:37:00",
-    "seen_at": "2026-04-12T10:38:18.027Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:37, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T12:37:00",
-    "seen_at": "2026-04-12T10:38:18.028Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:37, kolodvor NOVSKA"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "GOSPIĆ",
@@ -14272,5 +14218,41 @@
     "event_time": "2026-04-15T12:24:00",
     "seen_at": "2026-04-15T10:25:31.450Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81993",
+    "event_time": "2026-04-15T12:29:00",
+    "seen_at": "2026-04-15T10:30:54.921Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 12:29, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81993",
+    "event_time": "2026-04-15T12:29:00",
+    "seen_at": "2026-04-15T10:30:54.922Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 12:29, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89721",
+    "event_time": "2026-04-15T12:20:00",
+    "seen_at": "2026-04-15T10:35:18.944Z",
+    "raw": "Br. Vlaka 89721 odlazak      15.04.26. 12:20, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "GOLUBOVEC",
+    "train_number": null,
+    "event_time": "2026-04-15T12:36:00",
+    "seen_at": "2026-04-15T10:36:54.682Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74708 GOLUBOVEC"
   }
 ]
