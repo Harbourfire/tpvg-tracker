@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "DARDA",
-    "train_number": "47980",
-    "event_time": "2026-04-12T10:42:00",
-    "seen_at": "2026-04-12T08:44:17.227Z",
-    "raw": "Br. Vlaka 47980 dolazak      12.04.26. 10:42, kolodvor DARDA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49998",
-    "event_time": "2026-04-12T10:44:00",
-    "seen_at": "2026-04-12T08:44:41.781Z",
-    "raw": "Br. Vlaka 49998 dolazak      12.04.26. 10:44, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49998",
-    "event_time": "2026-04-12T10:44:00",
-    "seen_at": "2026-04-12T08:44:41.782Z",
-    "raw": "Br. Vlaka 49998 dolazak      12.04.26. 10:44, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-12T10:45:00",
-    "seen_at": "2026-04-12T08:45:29.709Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -14101,5 +14065,77 @@
     "event_time": "2026-04-15T10:38:00",
     "seen_at": "2026-04-15T08:39:27.244Z",
     "raw": "Br. Vlaka 82552 odlazak      15.04.26. 10:38, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-15T10:41:00",
+    "seen_at": "2026-04-15T08:42:34.530Z",
+    "raw": "Br. Vlaka 69005 odlazak      15.04.26. 10:41, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-15T10:41:00",
+    "seen_at": "2026-04-15T08:42:34.530Z",
+    "raw": "Br. Vlaka 69005 odlazak      15.04.26. 10:41, kolodvor OGULIN"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T10:42:00",
+    "seen_at": "2026-04-15T08:47:25.218Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T10:42:00",
+    "seen_at": "2026-04-15T08:47:25.218Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "74300",
+    "event_time": "2026-04-15T10:44:00",
+    "seen_at": "2026-04-15T08:48:37.424Z",
+    "raw": "Br. Vlaka 74300 dolazak      15.04.26. 10:44, kolodvor POŽEGA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "82552",
+    "event_time": "2026-04-15T10:48:00",
+    "seen_at": "2026-04-15T08:49:01.638Z",
+    "raw": "Br. Vlaka 82552 odlazak      15.04.26. 10:48, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-15T10:47:00",
+    "seen_at": "2026-04-15T08:50:37.231Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "69005",
+    "event_time": "2026-04-15T10:47:00",
+    "seen_at": "2026-04-15T08:50:37.231Z",
+    "raw": "Br. Vlaka 69005 R            15.04.26. 10:47, kolodvor OŠTARIJE"
   }
 ]
