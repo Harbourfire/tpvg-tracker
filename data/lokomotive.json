@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-12T04:42:00",
-    "seen_at": "2026-04-12T02:46:33.401Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-12T04:42:00",
-    "seen_at": "2026-04-12T02:46:33.401Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-12T04:15:00",
-    "seen_at": "2026-04-12T02:47:45.240Z",
-    "raw": "Br. Vlaka 69006 formiran     12.04.26. 04:15, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-12T04:15:00",
-    "seen_at": "2026-04-12T02:48:08.987Z",
-    "raw": "Br. Vlaka 69006 formiran     12.04.26. 04:15, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-11T22:57:00",
-    "seen_at": "2026-04-12T02:48:56.602Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-11T22:57:00",
-    "seen_at": "2026-04-12T02:48:56.602Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-11T14:04:00",
-    "seen_at": "2026-04-12T02:50:41.355Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "82323",
-    "event_time": "2026-04-11T20:50:00",
-    "seen_at": "2026-04-12T02:51:28.962Z",
-    "raw": "Br. Vlaka 82323 formiran     11.04.26. 20:50, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -13957,5 +13885,23 @@
     "event_time": "2026-04-15T04:39:00",
     "seen_at": "2026-04-15T02:40:03.786Z",
     "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:39, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44787",
+    "event_time": "2026-04-15T04:49:00",
+    "seen_at": "2026-04-15T02:50:09.145Z",
+    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:49, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44787",
+    "event_time": "2026-04-15T04:49:00",
+    "seen_at": "2026-04-15T02:50:09.145Z",
+    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:49, kolodvor NOVI DVORI"
   }
 ]
