@@ -2,60 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:34:00",
-    "seen_at": "2026-04-12T07:35:28.935Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:34, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:34:00",
-    "seen_at": "2026-04-12T07:35:28.936Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:34, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "OŠTARIJE",
-    "train_number": "44697",
-    "event_time": "2026-04-12T08:37:00",
-    "seen_at": "2026-04-12T07:37:03.427Z",
-    "raw": "Br. Vlaka 44697 promjena sas 12.04.26. 08:37, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "OŠTARIJE",
-    "train_number": "44697",
-    "event_time": "2026-04-12T08:37:00",
-    "seen_at": "2026-04-12T07:37:26.980Z",
-    "raw": "Br. Vlaka 44697 promjena sas 12.04.26. 08:37, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89142",
-    "event_time": "2026-04-12T09:39:00",
-    "seen_at": "2026-04-12T07:39:25.523Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 09:39, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89142",
-    "event_time": "2026-04-12T09:39:00",
-    "seen_at": "2026-04-12T07:39:25.524Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 09:39, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "49998",
     "event_time": "2026-04-12T09:41:00",
@@ -14011,5 +13957,68 @@
     "event_time": "2026-04-15T09:27:00",
     "seen_at": "2026-04-15T07:28:22.425Z",
     "raw": "Br. Vlaka 74300 formiran     15.04.26. 09:27, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45940",
+    "event_time": "2026-04-15T09:26:00",
+    "seen_at": "2026-04-15T07:31:48.241Z",
+    "raw": "Br. Vlaka 45940 dolazak      15.04.26. 09:26, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "82552",
+    "event_time": "2026-04-15T09:35:00",
+    "seen_at": "2026-04-15T07:35:23.583Z",
+    "raw": "Br. Vlaka 82552 formiran     15.04.26. 09:35, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-15T09:35:00",
+    "seen_at": "2026-04-15T07:36:12.029Z",
+    "raw": "Br. Vlaka 49999 formiran     15.04.26. 09:35, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "45940",
+    "event_time": "2026-04-15T09:26:00",
+    "seen_at": "2026-04-15T07:37:00.177Z",
+    "raw": "Br. Vlaka 45940 promjena sas 15.04.26. 09:26, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-15T09:37:00",
+    "seen_at": "2026-04-15T07:37:24.159Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:37:00",
+    "seen_at": "2026-04-15T07:38:36.813Z",
+    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 09:37, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:37:00",
+    "seen_at": "2026-04-15T07:39:01.175Z",
+    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 09:37, kolodvor SPAČVA"
   }
 ]
