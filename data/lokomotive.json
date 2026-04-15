@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "89101",
-    "event_time": "2026-04-13T00:43:00",
-    "seen_at": "2026-04-12T22:43:37.138Z",
-    "raw": "Br. Vlaka 89101 formiran     13.04.26. 00:43, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89101",
-    "event_time": "2026-04-13T00:35:00",
-    "seen_at": "2026-04-12T22:44:25.074Z",
-    "raw": "Br. Vlaka 89101 odlazak      13.04.26. 00:35, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "89401",
-    "event_time": "2026-04-13T00:45:00",
-    "seen_at": "2026-04-12T22:46:24.794Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:45, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-13T00:46:00",
-    "seen_at": "2026-04-12T22:47:12.875Z",
-    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 00:46, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-13T00:46:00",
-    "seen_at": "2026-04-12T22:47:12.875Z",
-    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 00:46, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-13T00:46:00",
-    "seen_at": "2026-04-12T22:48:49.433Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89119",
-    "event_time": "2026-04-13T00:43:00",
-    "seen_at": "2026-04-12T22:51:26.771Z",
-    "raw": "Br. Vlaka 89119 formiran     13.04.26. 00:43, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "49998",
-    "event_time": "2026-04-12T10:44:00",
-    "seen_at": "2026-04-12T22:52:14.297Z",
-    "raw": "Br. Vlaka 49998 promjena sas 12.04.26. 10:44, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NAŠICE",
@@ -14011,5 +13939,32 @@
     "event_time": "2026-04-16T00:37:00",
     "seen_at": "2026-04-15T22:38:36.186Z",
     "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:37, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44994",
+    "event_time": "2026-04-16T00:46:00",
+    "seen_at": "2026-04-15T22:47:35.235Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:46, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-16T00:42:00",
+    "seen_at": "2026-04-15T22:49:41.181Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 00:42, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T00:47:00",
+    "seen_at": "2026-04-15T22:50:06.640Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 00:47, kolodvor KOTORIBA"
   }
 ]
