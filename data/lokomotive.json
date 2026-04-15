@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "42786",
-    "event_time": "2026-04-12T15:58:00",
-    "seen_at": "2026-04-12T13:59:37.225Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 15:58, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ĐAKOVO",
@@ -14074,5 +14065,32 @@
     "event_time": "2026-04-15T15:49:00",
     "seen_at": "2026-04-15T13:52:41.153Z",
     "raw": "Br. Vlaka 44786 odlazak      15.04.26. 15:49, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-15T15:58:00",
+    "seen_at": "2026-04-15T14:00:30.336Z",
+    "raw": "Br. Vlaka 49998 odlazak      15.04.26. 15:58, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81984",
+    "event_time": "2026-04-15T16:05:00",
+    "seen_at": "2026-04-15T14:05:46.947Z",
+    "raw": "Br. Vlaka 81984 dolazak      15.04.26. 16:05, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81984",
+    "event_time": "2026-04-15T16:05:00",
+    "seen_at": "2026-04-15T14:05:46.947Z",
+    "raw": "Br. Vlaka 81984 dolazak      15.04.26. 16:05, kolodvor LIČKO LEŠĆE"
   }
 ]
