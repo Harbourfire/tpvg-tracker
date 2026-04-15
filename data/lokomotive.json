@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-12T04:18:00",
-    "seen_at": "2026-04-12T02:19:35.490Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "81171",
-    "event_time": "2026-04-12T04:21:00",
-    "seen_at": "2026-04-12T02:21:45.456Z",
-    "raw": "Br. Vlaka 81171 formiran     12.04.26. 04:21, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -13948,5 +13930,41 @@
     "event_time": "2026-04-15T04:09:00",
     "seen_at": "2026-04-15T02:11:07.208Z",
     "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:09, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "48582",
+    "event_time": "2026-04-15T04:11:00",
+    "seen_at": "2026-04-15T02:12:10.089Z",
+    "raw": "Br. Vlaka 48582 formiran     15.04.26. 04:11, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81982",
+    "event_time": "2026-04-15T04:08:00",
+    "seen_at": "2026-04-15T02:14:50.498Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 04:08, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81982",
+    "event_time": "2026-04-15T04:08:00",
+    "seen_at": "2026-04-15T02:14:50.498Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 04:08, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-12T04:18:00",
+    "seen_at": "2026-04-15T02:20:15.847Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
   }
 ]
