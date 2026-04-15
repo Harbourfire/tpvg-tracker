@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89119",
-    "event_time": "2026-04-13T01:12:00",
-    "seen_at": "2026-04-12T23:14:16.739Z",
-    "raw": "Br. Vlaka 89119 odlazak      13.04.26. 01:12, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "89401",
-    "event_time": "2026-04-13T01:16:00",
-    "seen_at": "2026-04-12T23:16:38.474Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 01:16, kolodvor KOŠKA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-04-13T01:16:00",
-    "seen_at": "2026-04-12T23:17:25.592Z",
-    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 01:16, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-04-13T01:16:00",
-    "seen_at": "2026-04-12T23:17:25.592Z",
-    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 01:16, kolodvor VRHOVINE"
-  },
-  {
     "uic": "928012230100",
     "type": "Rasformiran",
     "station": "RUDOPOLJE",
@@ -14047,5 +14011,41 @@
     "event_time": "2026-04-16T01:11:00",
     "seen_at": "2026-04-15T23:13:08.093Z",
     "raw": "Br. Vlaka 44787 odlazak      16.04.26. 01:11, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89929",
+    "event_time": "2026-04-15T13:15:00",
+    "seen_at": "2026-04-15T23:18:18.651Z",
+    "raw": "Br. Vlaka 89929 formiran     15.04.26. 13:15, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-16T01:22:00",
+    "seen_at": "2026-04-15T23:22:27.519Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-16T01:22:00",
+    "seen_at": "2026-04-15T23:22:27.519Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-16T01:21:00",
+    "seen_at": "2026-04-15T23:22:52.215Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 01:21, kolodvor ČAKOVEC"
   }
 ]
