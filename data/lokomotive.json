@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89110",
-    "event_time": "2026-04-12T14:07:00",
-    "seen_at": "2026-04-12T12:09:26.278Z",
-    "raw": "Br. Vlaka 89110 odlazak      12.04.26. 14:07, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:10:00",
-    "seen_at": "2026-04-12T12:10:38.705Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:10, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:10:00",
-    "seen_at": "2026-04-12T12:10:38.706Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:10, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-12T14:13:00",
-    "seen_at": "2026-04-12T12:15:31.822Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44997",
-    "event_time": "2026-04-12T14:13:00",
-    "seen_at": "2026-04-12T12:15:55.958Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 14:13, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:16:00",
-    "seen_at": "2026-04-12T12:17:08.231Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:16, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:16:00",
-    "seen_at": "2026-04-12T12:17:08.232Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 14:16, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45691",
-    "event_time": "2026-04-12T14:15:00",
-    "seen_at": "2026-04-12T12:17:56.082Z",
-    "raw": "Br. Vlaka 45691 odlazak      12.04.26. 14:15, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -14182,5 +14110,41 @@
     "event_time": "2026-04-15T13:59:00",
     "seen_at": "2026-04-15T12:00:21.818Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49999",
+    "event_time": "2026-04-15T14:08:00",
+    "seen_at": "2026-04-15T12:09:51.173Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:08, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49999",
+    "event_time": "2026-04-15T14:08:00",
+    "seen_at": "2026-04-15T12:09:51.173Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:08, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69851",
+    "event_time": "2026-04-15T14:11:00",
+    "seen_at": "2026-04-15T12:13:02.740Z",
+    "raw": "Br. Vlaka 69851 odlazak      15.04.26. 14:11, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89332",
+    "event_time": "2026-04-15T14:15:00",
+    "seen_at": "2026-04-15T12:16:13.086Z",
+    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 14:15, kolodvor SIBINJ"
   }
 ]
