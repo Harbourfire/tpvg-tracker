@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T11:12:00",
-    "seen_at": "2026-04-12T11:06:50.036Z",
-    "raw": "Br. Vlaka 89541 dolazak      12.04.26. 11:12, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T12:45:00",
-    "seen_at": "2026-04-12T11:07:37.301Z",
-    "raw": "Br. Vlaka 89541 odlazak      12.04.26. 12:45, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T13:07:00",
-    "seen_at": "2026-04-12T11:07:37.301Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:07, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T13:07:00",
-    "seen_at": "2026-04-12T11:08:00.899Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:07, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -14227,5 +14191,50 @@
     "event_time": "2026-04-15T12:46:00",
     "seen_at": "2026-04-15T10:50:31.156Z",
     "raw": "Br. Vlaka 81952 odlazak      15.04.26. 12:46, kolodvor GOLUBOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-15T13:00:00",
+    "seen_at": "2026-04-15T11:01:37.221Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 13:00, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-15T13:00:00",
+    "seen_at": "2026-04-15T11:01:37.221Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 13:00, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LEPOGLAVA",
+    "train_number": "81952",
+    "event_time": "2026-04-15T13:01:00",
+    "seen_at": "2026-04-15T11:03:37.890Z",
+    "raw": "Br. Vlaka 81952 odlazak      15.04.26. 13:01, kolodvor LEPOGLAVA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T13:04:00",
+    "seen_at": "2026-04-15T11:04:25.919Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:04, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T13:04:00",
+    "seen_at": "2026-04-15T11:04:25.919Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:04, kolodvor RUDOPOLJE"
   }
 ]
