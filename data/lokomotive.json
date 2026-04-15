@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89148",
-    "event_time": "2026-04-12T11:20:00",
-    "seen_at": "2026-04-12T09:21:48.309Z",
-    "raw": "Br. Vlaka 89148 formiran     12.04.26. 11:20, kolodvor 72303"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44997",
-    "event_time": "2026-04-12T11:21:00",
-    "seen_at": "2026-04-12T09:22:35.582Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:21, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:25:00",
-    "seen_at": "2026-04-12T09:26:55.544Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:25, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:25:00",
-    "seen_at": "2026-04-12T09:26:55.544Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:25, kolodvor BLATA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -14128,5 +14092,41 @@
     "event_time": "2026-04-15T11:12:00",
     "seen_at": "2026-04-15T09:15:17.343Z",
     "raw": "Br. Vlaka 74300 odlazak      15.04.26. 11:12, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81951",
+    "event_time": "2026-04-15T11:18:00",
+    "seen_at": "2026-04-15T09:22:27.409Z",
+    "raw": "Br. Vlaka 81951 dolazak      15.04.26. 11:18, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81951",
+    "event_time": "2026-04-15T11:19:00",
+    "seen_at": "2026-04-15T09:22:51.746Z",
+    "raw": "Br. Vlaka 81951 odlazak      15.04.26. 11:19, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "49999",
+    "event_time": "2026-04-15T11:22:00",
+    "seen_at": "2026-04-15T09:24:04.577Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 11:22, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "76553",
+    "event_time": "2026-04-15T11:24:00",
+    "seen_at": "2026-04-15T09:24:29.095Z",
+    "raw": "Br. Vlaka 76553 odlazak      15.04.26. 11:24, kolodvor STARO PETROVO SELO"
   }
 ]
