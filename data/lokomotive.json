@@ -2,24 +2,6 @@
   {
     "uic": "927820440240",
     "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "82323",
-    "event_time": "2026-04-12T05:24:00",
-    "seen_at": "2026-04-12T03:24:58.665Z",
-    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:24, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "82323",
-    "event_time": "2026-04-12T05:30:00",
-    "seen_at": "2026-04-12T03:31:28.231Z",
-    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:30, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
     "train_number": "82323",
     "event_time": "2026-04-12T05:33:00",
@@ -13957,5 +13939,41 @@
     "event_time": "2026-04-15T05:18:00",
     "seen_at": "2026-04-15T03:20:47.986Z",
     "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:18, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "69607",
+    "event_time": "2026-04-15T05:24:00",
+    "seen_at": "2026-04-15T03:28:44.979Z",
+    "raw": "Br. Vlaka 69607 dolazak      15.04.26. 05:24, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "69607",
+    "event_time": "2026-04-15T05:24:00",
+    "seen_at": "2026-04-15T03:28:44.980Z",
+    "raw": "Br. Vlaka 69607 dolazak      15.04.26. 05:24, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44995",
+    "event_time": "2026-04-15T05:23:00",
+    "seen_at": "2026-04-15T03:29:09.230Z",
+    "raw": "Br. Vlaka 44995 odlazak      15.04.26. 05:23, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44995",
+    "event_time": "2026-04-15T05:28:00",
+    "seen_at": "2026-04-15T03:29:33.706Z",
+    "raw": "Br. Vlaka 44995 dolazak      15.04.26. 05:28, kolodvor KOTORIBA"
   }
 ]
