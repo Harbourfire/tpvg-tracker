@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-04-12T19:50:00",
-    "seen_at": "2026-04-12T18:11:05.506Z",
-    "raw": "Br. Vlaka 69326 formiran     12.04.26. 19:50, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620197",
     "type": "Dolazak",
     "station": "KONJŠČINA",
@@ -13858,5 +13849,32 @@
     "event_time": "2026-04-15T19:56:00",
     "seen_at": "2026-04-15T17:58:08.692Z",
     "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:56, kolodvor LEKENIK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "89332",
+    "event_time": "2026-04-15T20:03:00",
+    "seen_at": "2026-04-15T18:04:19.027Z",
+    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 20:03, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-04-15T20:08:00",
+    "seen_at": "2026-04-15T18:10:43.897Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 20:08, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-04-15T20:08:00",
+    "seen_at": "2026-04-15T18:10:43.897Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 20:08, kolodvor JOSIPDOL"
   }
 ]
