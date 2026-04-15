@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "44697",
-    "event_time": "2026-04-12T12:41:00",
-    "seen_at": "2026-04-12T10:42:27.285Z",
-    "raw": "Br. Vlaka 44697 dolazak      12.04.26. 12:41, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "44697",
-    "event_time": "2026-04-12T12:41:00",
-    "seen_at": "2026-04-12T10:42:27.285Z",
-    "raw": "Br. Vlaka 44697 dolazak      12.04.26. 12:41, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-12T12:41:00",
-    "seen_at": "2026-04-12T10:42:51.066Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-12T12:41:00",
-    "seen_at": "2026-04-12T10:42:51.066Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T12:45:00",
-    "seen_at": "2026-04-12T10:47:34.218Z",
-    "raw": "Br. Vlaka 89541 odlazak      12.04.26. 12:45, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "OKUČANI",
@@ -14254,5 +14209,23 @@
     "event_time": "2026-04-15T12:36:00",
     "seen_at": "2026-04-15T10:36:54.682Z",
     "raw": "Trenutna pozicija je u kolodvoru 74708 GOLUBOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-15T12:33:00",
+    "seen_at": "2026-04-15T10:40:20.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "GOLUBOVEC",
+    "train_number": "81952",
+    "event_time": "2026-04-15T11:09:00",
+    "seen_at": "2026-04-15T10:48:43.470Z",
+    "raw": "Br. Vlaka 81952 formiran     15.04.26. 11:09, kolodvor GOLUBOVEC"
   }
 ]
