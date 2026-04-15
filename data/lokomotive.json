@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-09T18:39:00",
-    "seen_at": "2026-04-12T16:40:20.942Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "48588",
-    "event_time": "2026-04-12T18:40:00",
-    "seen_at": "2026-04-12T16:41:08.330Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 18:40, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "42786",
-    "event_time": "2026-04-12T18:43:00",
-    "seen_at": "2026-04-12T16:44:08.688Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 18:43, kolodvor DONJI KRALJEVEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -14002,5 +13975,14 @@
     "event_time": "2026-04-15T18:33:00",
     "seen_at": "2026-04-15T16:34:46.496Z",
     "raw": "Br. Vlaka 81984 odlazak      15.04.26. 18:33, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-09T18:39:00",
+    "seen_at": "2026-04-15T16:41:05.216Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
