@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89142",
-    "event_time": "2026-04-11T17:38:00",
-    "seen_at": "2026-04-12T04:52:35.681Z",
-    "raw": "Br. Vlaka 89142 formiran     11.04.26. 17:38, kolodvor 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "81161",
-    "event_time": "2026-04-12T06:53:00",
-    "seen_at": "2026-04-12T04:53:46.280Z",
-    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 06:53, kolodvor KARLOVAC"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -13885,5 +13867,23 @@
     "event_time": "2026-04-15T06:47:00",
     "seen_at": "2026-04-15T04:50:40.436Z",
     "raw": "Br. Vlaka 74101 formiran     15.04.26. 06:47, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44995",
+    "event_time": "2026-04-15T06:50:00",
+    "seen_at": "2026-04-15T04:54:52.383Z",
+    "raw": "Br. Vlaka 44995 odlazak      15.04.26. 06:50, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89921",
+    "event_time": "2026-04-15T06:56:00",
+    "seen_at": "2026-04-15T04:57:42.343Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 06:56, kolodvor NOVI DVORI"
   }
 ]
