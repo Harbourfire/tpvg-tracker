@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89157",
-    "event_time": "2026-04-12T07:22:00",
-    "seen_at": "2026-04-12T05:23:17.562Z",
-    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 07:22, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-12T02:22:00",
-    "seen_at": "2026-04-12T05:24:29.980Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89157",
-    "event_time": "2026-04-12T07:29:00",
-    "seen_at": "2026-04-12T05:30:09.182Z",
-    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 07:29, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "DRAGANIĆI",
@@ -13921,5 +13894,23 @@
     "event_time": "2026-04-15T07:20:00",
     "seen_at": "2026-04-15T05:20:37.727Z",
     "raw": "Br. Vlaka 79911 formiran     15.04.26. 07:20, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44995",
+    "event_time": "2026-04-15T07:25:00",
+    "seen_at": "2026-04-15T05:26:55.150Z",
+    "raw": "Br. Vlaka 44995 odlazak      15.04.26. 07:25, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74301",
+    "event_time": "2026-04-15T07:29:00",
+    "seen_at": "2026-04-15T05:30:07.812Z",
+    "raw": "Br. Vlaka 74301 odlazak      15.04.26. 07:29, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
