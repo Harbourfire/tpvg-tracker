@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "81171",
-    "event_time": "2026-04-12T15:39:00",
-    "seen_at": "2026-04-12T13:47:09.910Z",
-    "raw": "Br. Vlaka 81171 odlazak      12.04.26. 15:39, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "81171",
-    "event_time": "2026-04-12T15:48:00",
-    "seen_at": "2026-04-12T13:51:09.032Z",
-    "raw": "Br. Vlaka 81171 dolazak      12.04.26. 15:48, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ĐAKOVO",
-    "train_number": null,
-    "event_time": "2026-04-11T21:54:00",
-    "seen_at": "2026-04-12T13:51:32.843Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71808 ĐAKOVO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "ĐAKOVO",
-    "train_number": "89142",
-    "event_time": "2026-04-12T15:03:00",
-    "seen_at": "2026-04-12T13:51:56.457Z",
-    "raw": "Br. Vlaka 89142 promjena sas 12.04.26. 15:03, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-12T15:48:00",
-    "seen_at": "2026-04-12T13:52:20.069Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -14092,5 +14047,32 @@
     "event_time": "2026-04-15T15:43:00",
     "seen_at": "2026-04-15T13:43:57.469Z",
     "raw": "Br. Vlaka 81954 formiran     15.04.26. 15:43, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81984",
+    "event_time": "2026-04-15T15:46:00",
+    "seen_at": "2026-04-15T13:47:31.415Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 15:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81984",
+    "event_time": "2026-04-15T15:46:00",
+    "seen_at": "2026-04-15T13:47:31.415Z",
+    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 15:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44786",
+    "event_time": "2026-04-15T15:49:00",
+    "seen_at": "2026-04-15T13:52:41.153Z",
+    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 15:49, kolodvor DONJI KRALJEVEC"
   }
 ]
