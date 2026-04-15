@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81234",
-    "event_time": "2026-04-12T13:09:00",
-    "seen_at": "2026-04-12T11:10:06.928Z",
-    "raw": "Br. Vlaka 81234 formiran     12.04.26. 13:09, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81234",
-    "event_time": "2026-04-12T13:09:00",
-    "seen_at": "2026-04-12T11:10:06.929Z",
-    "raw": "Br. Vlaka 81234 formiran     12.04.26. 13:09, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "STARO PETROVO SELO",
@@ -14236,5 +14218,59 @@
     "event_time": "2026-04-15T13:04:00",
     "seen_at": "2026-04-15T11:04:25.919Z",
     "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:04, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T13:10:00",
+    "seen_at": "2026-04-15T11:11:55.656Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:10, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T13:10:00",
+    "seen_at": "2026-04-15T11:11:55.656Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:10, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "IVANEC",
+    "train_number": "81952",
+    "event_time": "2026-04-15T13:12:00",
+    "seen_at": "2026-04-15T11:12:44.275Z",
+    "raw": "Br. Vlaka 81952 odlazak      15.04.26. 13:12, kolodvor IVANEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49999",
+    "event_time": "2026-04-15T13:12:00",
+    "seen_at": "2026-04-15T11:13:56.452Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 13:12, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49999",
+    "event_time": "2026-04-15T13:12:00",
+    "seen_at": "2026-04-15T11:13:56.452Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 13:12, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "48582",
+    "event_time": "2026-04-15T13:16:00",
+    "seen_at": "2026-04-15T11:17:35.255Z",
+    "raw": "Br. Vlaka 48582 dolazak      15.04.26. 13:16, kolodvor VINKOVCI"
   }
 ]
