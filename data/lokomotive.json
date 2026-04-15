@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89142",
-    "event_time": "2026-04-12T09:04:00",
-    "seen_at": "2026-04-12T07:07:18.973Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 09:04, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89142",
-    "event_time": "2026-04-12T09:04:00",
-    "seen_at": "2026-04-12T07:07:18.974Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 09:04, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "47980",
-    "event_time": "2026-04-12T09:10:00",
-    "seen_at": "2026-04-12T07:10:27.801Z",
-    "raw": "Br. Vlaka 47980 odlazak      12.04.26. 09:10, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440125",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13984,5 +13957,59 @@
     "event_time": "2026-04-15T08:58:00",
     "seen_at": "2026-04-15T06:59:51.470Z",
     "raw": "Br. Vlaka 49826 dolazak      15.04.26. 08:58, kolodvor ERDUT"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "74301",
+    "event_time": "2026-04-15T09:00:00",
+    "seen_at": "2026-04-15T07:02:06.337Z",
+    "raw": "Br. Vlaka 74301 odlazak      15.04.26. 09:00, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T08:57:00",
+    "seen_at": "2026-04-15T07:03:19.849Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:00:00",
+    "seen_at": "2026-04-15T07:06:09.282Z",
+    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 09:00, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:00:00",
+    "seen_at": "2026-04-15T07:06:09.282Z",
+    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 09:00, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "45940",
+    "event_time": "2026-04-15T09:06:00",
+    "seen_at": "2026-04-15T07:07:22.337Z",
+    "raw": "Br. Vlaka 45940 odlazak      15.04.26. 09:06, kolodvor DARDA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-04-15T06:08:00",
+    "seen_at": "2026-04-15T07:07:46.187Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
   }
 ]
