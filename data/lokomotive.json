@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81234",
-    "event_time": "2026-04-12T13:51:00",
-    "seen_at": "2026-04-12T11:51:24.597Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 13:51, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81234",
-    "event_time": "2026-04-12T13:51:00",
-    "seen_at": "2026-04-12T11:51:24.597Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 13:51, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89142",
-    "event_time": "2026-04-12T13:51:00",
-    "seen_at": "2026-04-12T11:52:13.076Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:51, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89142",
-    "event_time": "2026-04-12T13:51:00",
-    "seen_at": "2026-04-12T11:52:13.077Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:51, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89110",
-    "event_time": "2026-04-12T13:51:00",
-    "seen_at": "2026-04-12T11:53:01.133Z",
-    "raw": "Br. Vlaka 89110 odlazak      12.04.26. 13:51, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -14227,5 +14182,41 @@
     "event_time": "2026-04-15T13:16:00",
     "seen_at": "2026-04-15T11:46:56.741Z",
     "raw": "Br. Vlaka 48582 promjena sas 15.04.26. 13:16, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69851",
+    "event_time": "2026-04-15T13:51:00",
+    "seen_at": "2026-04-15T11:53:16.655Z",
+    "raw": "Br. Vlaka 69851 odlazak      15.04.26. 13:51, kolodvor DALJ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-15T13:50:00",
+    "seen_at": "2026-04-15T11:53:16.657Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-15T13:50:00",
+    "seen_at": "2026-04-15T11:53:16.657Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "SIBINJ",
+    "train_number": "89332",
+    "event_time": "2026-04-15T13:55:00",
+    "seen_at": "2026-04-15T11:56:06.303Z",
+    "raw": "Br. Vlaka 89332 formiran     15.04.26. 13:55, kolodvor SIBINJ"
   }
 ]
