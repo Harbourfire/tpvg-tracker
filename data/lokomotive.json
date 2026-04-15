@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-04-12T21:42:00",
-    "seen_at": "2026-04-12T19:42:38.291Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "48588",
-    "event_time": "2026-04-12T21:45:00",
-    "seen_at": "2026-04-12T19:46:43.069Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 21:45, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48588",
-    "event_time": "2026-04-12T21:30:00",
-    "seen_at": "2026-04-12T19:47:30.390Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 21:30, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "48588",
-    "event_time": "2026-04-12T21:45:00",
-    "seen_at": "2026-04-12T19:47:54.492Z",
-    "raw": "Br. Vlaka 48588 dolazak      12.04.26. 21:45, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-12T20:00:00",
-    "seen_at": "2026-04-12T19:54:13.407Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -13804,5 +13759,50 @@
     "event_time": "2026-04-15T21:07:00",
     "seen_at": "2026-04-15T19:33:11.118Z",
     "raw": "Br. Vlaka 44997 promjena sas 15.04.26. 21:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-15T21:40:00",
+    "seen_at": "2026-04-15T19:52:49.703Z",
+    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 21:40, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44997",
+    "event_time": "2026-04-15T21:52:00",
+    "seen_at": "2026-04-15T19:53:37.643Z",
+    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 21:52, kolodvor TURČIN"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-15T18:14:00",
+    "seen_at": "2026-04-15T19:56:48.524Z",
+    "raw": "Br. Vlaka 69326 formiran     15.04.26. 18:14, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81954",
+    "event_time": "2026-04-15T21:45:00",
+    "seen_at": "2026-04-15T19:58:47.601Z",
+    "raw": "Br. Vlaka 81954 dolazak      15.04.26. 21:45, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81954",
+    "event_time": "2026-04-15T21:55:00",
+    "seen_at": "2026-04-15T19:59:34.799Z",
+    "raw": "Br. Vlaka 81954 odlazak      15.04.26. 21:55, kolodvor BUDINŠĆINA"
   }
 ]
