@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-13T00:35:00",
-    "seen_at": "2026-04-12T22:35:23.101Z",
-    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 00:35, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-13T00:35:00",
-    "seen_at": "2026-04-12T22:35:23.101Z",
-    "raw": "Br. Vlaka 63306 odlazak      13.04.26. 00:35, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "89401",
-    "event_time": "2026-04-13T00:34:00",
-    "seen_at": "2026-04-12T22:36:11.329Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 00:34, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Formiran",
     "station": "ČAKOVEC",
@@ -14011,5 +13984,32 @@
     "event_time": "2026-04-16T00:31:00",
     "seen_at": "2026-04-15T22:32:03.676Z",
     "raw": "Br. Vlaka 81953 formiran     16.04.26. 00:31, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44994",
+    "event_time": "2026-04-16T00:34:00",
+    "seen_at": "2026-04-15T22:37:20.501Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:34, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T00:37:00",
+    "seen_at": "2026-04-15T22:38:36.186Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:37, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T00:37:00",
+    "seen_at": "2026-04-15T22:38:36.186Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:37, kolodvor VRHOVINE"
   }
 ]
