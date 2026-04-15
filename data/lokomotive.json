@@ -2,24 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44788",
-    "event_time": "2026-04-12T17:01:00",
-    "seen_at": "2026-04-12T15:05:45.012Z",
-    "raw": "Br. Vlaka 44788 odlazak      12.04.26. 17:01, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "ŽUPANJA",
-    "train_number": "69820",
-    "event_time": "2026-04-12T17:13:00",
-    "seen_at": "2026-04-12T15:13:25.616Z",
-    "raw": "Br. Vlaka 69820 odlazak      12.04.26. 17:13, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "NOVI MAROF",
     "train_number": "44788",
     "event_time": "2026-04-12T17:23:00",
@@ -14065,5 +14047,23 @@
     "event_time": "2026-04-15T16:55:00",
     "seen_at": "2026-04-15T14:55:51.892Z",
     "raw": "Br. Vlaka 49998 odlazak      15.04.26. 16:55, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44997",
+    "event_time": "2026-04-15T17:07:00",
+    "seen_at": "2026-04-15T15:07:57.310Z",
+    "raw": "Br. Vlaka 44997 formiran     15.04.26. 17:07, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49998",
+    "event_time": "2026-04-15T17:13:00",
+    "seen_at": "2026-04-15T15:14:17.407Z",
+    "raw": "Br. Vlaka 49998 odlazak      15.04.26. 17:13, kolodvor TURČIN"
   }
 ]
