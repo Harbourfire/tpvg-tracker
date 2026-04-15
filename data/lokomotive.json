@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89142",
-    "event_time": "2026-04-12T13:38:00",
-    "seen_at": "2026-04-12T11:39:07.714Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:38, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89142",
-    "event_time": "2026-04-12T13:38:00",
-    "seen_at": "2026-04-12T11:39:07.715Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 13:38, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89110",
-    "event_time": "2026-04-12T13:29:00",
-    "seen_at": "2026-04-12T11:39:32.413Z",
-    "raw": "Br. Vlaka 89110 odlazak      12.04.26. 13:29, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44997",
-    "event_time": "2026-04-12T13:45:00",
-    "seen_at": "2026-04-12T11:46:22.884Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 13:45, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -14191,5 +14155,77 @@
     "event_time": "2026-04-15T13:23:00",
     "seen_at": "2026-04-15T11:23:53.053Z",
     "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:23, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "CERJE TUŽNO",
+    "train_number": "81952",
+    "event_time": "2026-04-15T13:29:00",
+    "seen_at": "2026-04-15T11:41:42.758Z",
+    "raw": "Br. Vlaka 81952 dolazak      15.04.26. 13:29, kolodvor CERJE TUŽNO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81993",
+    "event_time": "2026-04-15T13:39:00",
+    "seen_at": "2026-04-15T11:41:42.758Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:39, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81993",
+    "event_time": "2026-04-15T13:39:00",
+    "seen_at": "2026-04-15T11:41:42.758Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:39, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "CERJE TUŽNO",
+    "train_number": "81952",
+    "event_time": "2026-04-15T13:39:00",
+    "seen_at": "2026-04-15T11:42:06.830Z",
+    "raw": "Br. Vlaka 81952 odlazak      15.04.26. 13:39, kolodvor CERJE TUŽNO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-15T13:41:00",
+    "seen_at": "2026-04-15T11:42:30.890Z",
+    "raw": "Br. Vlaka 69851 odlazak      15.04.26. 13:41, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49999",
+    "event_time": "2026-04-15T13:40:00",
+    "seen_at": "2026-04-15T11:44:55.616Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 13:40, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49999",
+    "event_time": "2026-04-15T13:40:00",
+    "seen_at": "2026-04-15T11:44:55.616Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 13:40, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "48582",
+    "event_time": "2026-04-15T13:16:00",
+    "seen_at": "2026-04-15T11:46:56.741Z",
+    "raw": "Br. Vlaka 48582 promjena sas 15.04.26. 13:16, kolodvor VINKOVCI"
   }
 ]
