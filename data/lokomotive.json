@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T11:12:00",
-    "seen_at": "2026-04-12T10:20:42.729Z",
-    "raw": "Br. Vlaka 89541 promjena sas 12.04.26. 11:12, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -14227,5 +14218,59 @@
     "event_time": "2026-04-15T12:11:00",
     "seen_at": "2026-04-15T10:13:14.760Z",
     "raw": "Br. Vlaka 45941 odlazak      15.04.26. 12:11, kolodvor DARDA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "48582",
+    "event_time": "2026-04-15T12:21:00",
+    "seen_at": "2026-04-15T10:21:29.180Z",
+    "raw": "Br. Vlaka 48582 odlazak      15.04.26. 12:21, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81993",
+    "event_time": "2026-04-15T12:21:00",
+    "seen_at": "2026-04-15T10:21:29.180Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 12:21, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81993",
+    "event_time": "2026-04-15T12:21:00",
+    "seen_at": "2026-04-15T10:21:29.180Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 12:21, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LEPOGLAVA",
+    "train_number": "81951",
+    "event_time": "2026-04-15T12:20:00",
+    "seen_at": "2026-04-15T10:22:16.601Z",
+    "raw": "Br. Vlaka 81951 odlazak      15.04.26. 12:20, kolodvor LEPOGLAVA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45941",
+    "event_time": "2026-04-15T12:24:00",
+    "seen_at": "2026-04-15T10:25:07.838Z",
+    "raw": "Br. Vlaka 45941 dolazak      15.04.26. 12:24, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-15T12:24:00",
+    "seen_at": "2026-04-15T10:25:31.450Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
