@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VIROVITICA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T21:11:00",
-    "seen_at": "2026-04-12T19:17:08.867Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 21:11, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-12T21:11:00",
-    "seen_at": "2026-04-12T19:17:41.738Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "VIROVITICA",
-    "train_number": "89401",
-    "event_time": "2026-04-12T11:04:00",
-    "seen_at": "2026-04-12T19:22:27.480Z",
-    "raw": "Br. Vlaka 89401 formiran     12.04.26. 11:04, kolodvor VIROVITICA"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -13831,5 +13804,14 @@
     "event_time": "2026-04-15T21:07:00",
     "seen_at": "2026-04-15T19:11:00.037Z",
     "raw": "Br. Vlaka 44997 dolazak      15.04.26. 21:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "81954",
+    "event_time": "2026-04-15T21:20:00",
+    "seen_at": "2026-04-15T19:21:42.511Z",
+    "raw": "Br. Vlaka 81954 odlazak      15.04.26. 21:20, kolodvor NOVI MAROF"
   }
 ]
