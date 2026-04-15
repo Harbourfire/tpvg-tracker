@@ -2,78 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81234",
-    "event_time": "2026-04-12T14:20:00",
-    "seen_at": "2026-04-12T12:21:49.706Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:20, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81234",
-    "event_time": "2026-04-12T14:20:00",
-    "seen_at": "2026-04-12T12:21:49.706Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 14:20, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:24:00",
-    "seen_at": "2026-04-12T12:25:51.452Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 14:24, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89142",
-    "event_time": "2026-04-12T14:24:00",
-    "seen_at": "2026-04-12T12:25:51.453Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 14:24, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44997",
-    "event_time": "2026-04-12T14:26:00",
-    "seen_at": "2026-04-12T12:26:15.512Z",
-    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 14:26, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-12T13:14:00",
-    "seen_at": "2026-04-12T12:26:39.723Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "42786",
-    "event_time": "2026-04-11T23:40:00",
-    "seen_at": "2026-04-12T12:27:04.238Z",
-    "raw": "Br. Vlaka 42786 promjena sas 11.04.26. 23:40, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81171",
-    "event_time": "2026-04-12T03:49:00",
-    "seen_at": "2026-04-12T12:27:28.161Z",
-    "raw": "Br. Vlaka 81171 promjena sas 12.04.26. 03:49, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "81234",
     "event_time": "2026-04-12T14:34:00",
@@ -14146,5 +14074,32 @@
     "event_time": "2026-04-15T14:15:00",
     "seen_at": "2026-04-15T12:16:13.086Z",
     "raw": "Br. Vlaka 89332 odlazak      15.04.26. 14:15, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T14:25:00",
+    "seen_at": "2026-04-15T12:25:33.669Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-15T14:22:00",
+    "seen_at": "2026-04-15T12:25:57.373Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:22, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-15T14:22:00",
+    "seen_at": "2026-04-15T12:25:57.374Z",
+    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:22, kolodvor KONJŠČINA"
   }
 ]
