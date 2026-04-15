@@ -2,51 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "42786",
-    "event_time": "2026-04-12T14:56:00",
-    "seen_at": "2026-04-12T13:00:36.366Z",
-    "raw": "Br. Vlaka 42786 odlazak      12.04.26. 14:56, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81234",
-    "event_time": "2026-04-12T15:02:00",
-    "seen_at": "2026-04-12T13:03:22.047Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:02, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81234",
-    "event_time": "2026-04-12T15:02:00",
-    "seen_at": "2026-04-12T13:03:22.047Z",
-    "raw": "Br. Vlaka 81234 odlazak      12.04.26. 15:02, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ĐAKOVO",
-    "train_number": "89142",
-    "event_time": "2026-04-12T15:03:00",
-    "seen_at": "2026-04-12T13:05:20.850Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 15:03, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ĐAKOVO",
-    "train_number": "89142",
-    "event_time": "2026-04-12T15:03:00",
-    "seen_at": "2026-04-12T13:05:20.852Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 15:03, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "BEDEKOVČINA",
     "train_number": "42786",
     "event_time": "2026-04-12T15:08:00",
@@ -14119,5 +14074,59 @@
     "event_time": "2026-04-15T14:54:00",
     "seen_at": "2026-04-15T12:56:18.850Z",
     "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:54, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "48582",
+    "event_time": "2026-04-15T15:01:00",
+    "seen_at": "2026-04-15T13:01:21.096Z",
+    "raw": "Br. Vlaka 48582 dolazak      15.04.26. 15:01, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44786",
+    "event_time": "2026-04-15T15:00:00",
+    "seen_at": "2026-04-15T13:01:45.661Z",
+    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 15:00, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-15T07:00:00",
+    "seen_at": "2026-04-15T13:02:57.898Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89332",
+    "event_time": "2026-04-15T15:03:00",
+    "seen_at": "2026-04-15T13:03:45.980Z",
+    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 15:03, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-15T15:06:00",
+    "seen_at": "2026-04-15T13:06:59.732Z",
+    "raw": "Br. Vlaka 49999 dolazak      15.04.26. 15:06, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-15T15:06:00",
+    "seen_at": "2026-04-15T13:06:59.732Z",
+    "raw": "Br. Vlaka 49999 dolazak      15.04.26. 15:06, kolodvor ZABOK"
   }
 ]
