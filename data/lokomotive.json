@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:55:00",
-    "seen_at": "2026-04-12T07:57:24.446Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:55, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:55:00",
-    "seen_at": "2026-04-12T07:57:24.447Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:55, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T09:57:00",
-    "seen_at": "2026-04-12T08:00:11.808Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 09:57, kolodvor SUNJA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SUNJA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T09:57:00",
-    "seen_at": "2026-04-12T08:00:11.809Z",
-    "raw": "Br. Vlaka 89142 dolazak      12.04.26. 09:57, kolodvor SUNJA"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -14047,5 +14011,59 @@
     "event_time": "2026-04-15T09:48:00",
     "seen_at": "2026-04-15T07:48:54.737Z",
     "raw": "Br. Vlaka 76553 formiran     15.04.26. 09:48, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Dolazak",
+    "station": "OTOK",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:51:00",
+    "seen_at": "2026-04-15T07:52:17.582Z",
+    "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:51, kolodvor OTOK"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Dolazak",
+    "station": "OTOK",
+    "train_number": "74100",
+    "event_time": "2026-04-15T09:51:00",
+    "seen_at": "2026-04-15T07:52:17.582Z",
+    "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:51, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-15T09:55:00",
+    "seen_at": "2026-04-15T07:55:30.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-15T09:55:00",
+    "seen_at": "2026-04-15T07:55:30.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-15T07:55:00",
+    "seen_at": "2026-04-15T08:00:20.745Z",
+    "raw": "Br. Vlaka 69005 formiran     15.04.26. 07:55, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-15T07:55:00",
+    "seen_at": "2026-04-15T08:00:20.745Z",
+    "raw": "Br. Vlaka 69005 formiran     15.04.26. 07:55, kolodvor OGULIN"
   }
 ]
