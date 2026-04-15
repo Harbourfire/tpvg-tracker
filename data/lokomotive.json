@@ -2,24 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:24:00",
-    "seen_at": "2026-04-12T07:26:54.660Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:24, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-12T09:24:00",
-    "seen_at": "2026-04-12T07:26:54.661Z",
-    "raw": "Br. Vlaka 49998 odlazak      12.04.26. 09:24, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
     "train_number": "49998",
     "event_time": "2026-04-12T09:34:00",
@@ -14011,5 +13993,23 @@
     "event_time": "2026-04-15T09:16:00",
     "seen_at": "2026-04-15T07:16:50.465Z",
     "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:16, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-15T09:26:00",
+    "seen_at": "2026-04-15T07:26:45.496Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "74300",
+    "event_time": "2026-04-15T09:27:00",
+    "seen_at": "2026-04-15T07:28:22.425Z",
+    "raw": "Br. Vlaka 74300 formiran     15.04.26. 09:27, kolodvor VELIKA"
   }
 ]
