@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "89142",
-    "event_time": "2026-04-12T12:51:00",
-    "seen_at": "2026-04-12T10:51:40.067Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:51, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "89142",
-    "event_time": "2026-04-12T12:51:00",
-    "seen_at": "2026-04-12T10:51:40.068Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 12:51, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:53:00",
-    "seen_at": "2026-04-12T10:54:25.396Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:53, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44997",
-    "event_time": "2026-04-12T12:53:00",
-    "seen_at": "2026-04-12T10:54:25.396Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 12:53, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "BELI MANASTIR",
@@ -14227,5 +14191,41 @@
     "event_time": "2026-04-15T11:09:00",
     "seen_at": "2026-04-15T10:48:43.470Z",
     "raw": "Br. Vlaka 81952 formiran     15.04.26. 11:09, kolodvor GOLUBOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44786",
+    "event_time": "2026-04-15T01:01:00",
+    "seen_at": "2026-04-15T10:49:42.608Z",
+    "raw": "Br. Vlaka 44786 promjena sas 15.04.26. 01:01, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T12:49:00",
+    "seen_at": "2026-04-15T10:49:42.608Z",
+    "raw": "Br. Vlaka 81993 dolazak      15.04.26. 12:49, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T12:49:00",
+    "seen_at": "2026-04-15T10:49:42.608Z",
+    "raw": "Br. Vlaka 81993 dolazak      15.04.26. 12:49, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GOLUBOVEC",
+    "train_number": "81952",
+    "event_time": "2026-04-15T12:46:00",
+    "seen_at": "2026-04-15T10:50:31.156Z",
+    "raw": "Br. Vlaka 81952 odlazak      15.04.26. 12:46, kolodvor GOLUBOVEC"
   }
 ]
