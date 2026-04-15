@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "82323",
-    "event_time": "2026-04-12T05:33:00",
-    "seen_at": "2026-04-12T03:35:46.338Z",
-    "raw": "Br. Vlaka 82323 odlazak      12.04.26. 05:33, kolodvor 72302"
-  },
-  {
-    "uic": "927820440240",
     "type": "Dolazak",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": "82323",
@@ -13975,5 +13966,50 @@
     "event_time": "2026-04-15T05:28:00",
     "seen_at": "2026-04-15T03:29:33.706Z",
     "raw": "Br. Vlaka 44995 dolazak      15.04.26. 05:28, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-15T00:50:00",
+    "seen_at": "2026-04-15T03:34:14.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "44996",
+    "train_number": null,
+    "event_time": "2026-04-15T03:34:38.456Z",
+    "seen_at": "2026-04-15T03:34:38.456Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44996 44996"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-15T00:50:00",
+    "seen_at": "2026-04-15T03:34:38.456Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "44996",
+    "train_number": null,
+    "event_time": "2026-04-15T03:35:02.216Z",
+    "seen_at": "2026-04-15T03:35:02.216Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44996 44996"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89921",
+    "event_time": "2026-04-15T05:37:00",
+    "seen_at": "2026-04-15T03:38:16.139Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 05:37, kolodvor BUDINŠĆINA"
   }
 ]
