@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89920",
-    "event_time": "2026-04-12T07:10:00",
-    "seen_at": "2026-04-12T05:10:46.879Z",
-    "raw": "Br. Vlaka 89920 odlazak      12.04.26. 07:10, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "81161",
-    "event_time": "2026-04-12T07:02:00",
-    "seen_at": "2026-04-12T05:11:33.923Z",
-    "raw": "Br. Vlaka 81161 dolazak      12.04.26. 07:02, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89157",
-    "event_time": "2026-04-12T07:15:00",
-    "seen_at": "2026-04-12T05:16:08.073Z",
-    "raw": "Br. Vlaka 89157 odlazak      12.04.26. 07:15, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -13903,5 +13876,50 @@
     "event_time": "2026-04-15T07:09:00",
     "seen_at": "2026-04-15T05:09:42.869Z",
     "raw": "Br. Vlaka 74101 odlazak      15.04.26. 07:09, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89921",
+    "event_time": "2026-04-15T07:10:00",
+    "seen_at": "2026-04-15T05:12:03.259Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 07:10, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44995",
+    "event_time": "2026-04-15T07:12:00",
+    "seen_at": "2026-04-15T05:15:19.045Z",
+    "raw": "Br. Vlaka 44995 odlazak      15.04.26. 07:12, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89921",
+    "event_time": "2026-04-15T07:17:00",
+    "seen_at": "2026-04-15T05:18:35.746Z",
+    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 07:17, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "89985",
+    "train_number": null,
+    "event_time": "2026-04-15T05:20:37.725Z",
+    "seen_at": "2026-04-15T05:20:37.725Z",
+    "raw": "Trenutna pozicija je u kolodvoru 89985 89985"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "79911",
+    "event_time": "2026-04-15T07:20:00",
+    "seen_at": "2026-04-15T05:20:37.727Z",
+    "raw": "Br. Vlaka 79911 formiran     15.04.26. 07:20, kolodvor ZAGREB ZAP. KOL."
   }
 ]
