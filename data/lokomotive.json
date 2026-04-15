@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "81161",
-    "event_time": "2026-04-12T08:10:00",
-    "seen_at": "2026-04-12T06:14:16.445Z",
-    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 08:10, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "47980",
-    "event_time": "2026-04-12T06:27:00",
-    "seen_at": "2026-04-12T06:17:06.082Z",
-    "raw": "Br. Vlaka 47980 promjena sas 12.04.26. 06:27, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "89142",
-    "event_time": "2026-04-12T08:17:00",
-    "seen_at": "2026-04-12T06:17:54.279Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:17, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "89142",
-    "event_time": "2026-04-12T08:17:00",
-    "seen_at": "2026-04-12T06:17:54.280Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 08:17, kolodvor TUROPOLJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "LEKENIK",
@@ -13966,5 +13930,41 @@
     "event_time": "2026-04-15T08:10:00",
     "seen_at": "2026-04-15T06:10:29.371Z",
     "raw": "Br. Vlaka 76552 odlazak      15.04.26. 08:10, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "82502",
+    "event_time": "2026-04-15T08:11:00",
+    "seen_at": "2026-04-15T06:11:56.399Z",
+    "raw": "Br. Vlaka 82502 odlazak      15.04.26. 08:11, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Formiran",
+    "station": "DRENOVCI",
+    "train_number": "74100",
+    "event_time": "2026-04-15T08:04:00",
+    "seen_at": "2026-04-15T06:19:02.328Z",
+    "raw": "Br. Vlaka 74100 formiran     15.04.26. 08:04, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89303",
+    "event_time": "2026-04-15T08:18:00",
+    "seen_at": "2026-04-15T06:19:28.256Z",
+    "raw": "Br. Vlaka 89303 formiran     15.04.26. 08:18, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66850",
+    "event_time": "2026-04-15T08:20:00",
+    "seen_at": "2026-04-15T06:21:08.339Z",
+    "raw": "Br. Vlaka 66850 odlazak      15.04.26. 08:20, kolodvor OSIJEK DONJI GRAD"
   }
 ]
