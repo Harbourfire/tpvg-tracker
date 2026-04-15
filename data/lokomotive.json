@@ -2,51 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44997",
-    "event_time": "2026-04-12T11:29:00",
-    "seen_at": "2026-04-12T09:30:40.499Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:29, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44997",
-    "event_time": "2026-04-12T11:38:00",
-    "seen_at": "2026-04-12T09:38:47.353Z",
-    "raw": "Br. Vlaka 44997 dolazak      12.04.26. 11:38, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-12T03:00:00",
-    "seen_at": "2026-04-12T09:38:47.353Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:34:00",
-    "seen_at": "2026-04-12T09:38:47.354Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:34, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "44697",
-    "event_time": "2026-04-12T11:34:00",
-    "seen_at": "2026-04-12T09:38:47.354Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 11:34, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "ČAKOVEC",
     "train_number": "44997",
     "event_time": "2026-04-12T11:49:00",
@@ -14128,5 +14083,68 @@
     "event_time": "2026-04-15T11:24:00",
     "seen_at": "2026-04-15T09:24:29.095Z",
     "raw": "Br. Vlaka 76553 odlazak      15.04.26. 11:24, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:30:00",
+    "seen_at": "2026-04-15T09:31:11.945Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 11:30, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:30:00",
+    "seen_at": "2026-04-15T09:31:11.945Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 11:30, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:35:00",
+    "seen_at": "2026-04-15T09:36:54.609Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 11:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81993",
+    "event_time": "2026-04-15T11:35:00",
+    "seen_at": "2026-04-15T09:36:54.609Z",
+    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 11:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76553",
+    "event_time": "2026-04-15T11:36:00",
+    "seen_at": "2026-04-15T09:36:54.609Z",
+    "raw": "Br. Vlaka 76553 odlazak      15.04.26. 11:36, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "74300",
+    "event_time": "2026-04-15T11:37:00",
+    "seen_at": "2026-04-15T09:38:08.228Z",
+    "raw": "Br. Vlaka 74300 dolazak      15.04.26. 11:37, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-15T11:37:00",
+    "seen_at": "2026-04-15T09:38:32.789Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
