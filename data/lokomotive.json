@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-04-12T22:05:00",
-    "seen_at": "2026-04-12T20:06:08.564Z",
-    "raw": "Br. Vlaka 81230 odlazak      12.04.26. 22:05, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81230",
-    "event_time": "2026-04-12T22:05:00",
-    "seen_at": "2026-04-12T20:06:08.564Z",
-    "raw": "Br. Vlaka 81230 odlazak      12.04.26. 22:05, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "OKUČANI",
-    "train_number": "69327",
-    "event_time": "2026-04-12T21:50:00",
-    "seen_at": "2026-04-12T20:06:32.738Z",
-    "raw": "Br. Vlaka 69327 formiran     12.04.26. 21:50, kolodvor OKUČANI"
-  },
-  {
     "uic": "927820620197",
     "type": "Rasformiran",
     "station": "44996",
@@ -13804,5 +13777,50 @@
     "event_time": "2026-04-15T21:55:00",
     "seen_at": "2026-04-15T19:59:34.799Z",
     "raw": "Br. Vlaka 81954 odlazak      15.04.26. 21:55, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-15T22:04:00",
+    "seen_at": "2026-04-15T20:07:00.141Z",
+    "raw": "Br. Vlaka 69175 formiran     15.04.26. 22:04, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-15T22:04:00",
+    "seen_at": "2026-04-15T20:07:00.141Z",
+    "raw": "Br. Vlaka 69175 formiran     15.04.26. 22:04, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-15T10:21:00",
+    "seen_at": "2026-04-15T20:09:49.474Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-15T10:21:00",
+    "seen_at": "2026-04-15T20:10:13.435Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44997",
+    "event_time": "2026-04-15T22:10:00",
+    "seen_at": "2026-04-15T20:11:25.939Z",
+    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 22:10, kolodvor NOVI MAROF"
   }
 ]
