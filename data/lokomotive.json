@@ -2,42 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "CABUNA",
-    "train_number": "89142",
-    "event_time": "2026-04-12T20:52:00",
-    "seen_at": "2026-04-12T18:53:20.137Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 20:52, kolodvor CABUNA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "48588",
-    "event_time": "2026-04-12T20:56:00",
-    "seen_at": "2026-04-12T18:56:31.376Z",
-    "raw": "Br. Vlaka 48588 odlazak      12.04.26. 20:56, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PČELIĆ",
-    "train_number": "89142",
-    "event_time": "2026-04-12T20:59:00",
-    "seen_at": "2026-04-12T18:59:56.199Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 20:59, kolodvor PČELIĆ"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69326",
-    "event_time": "2026-04-12T20:59:00",
-    "seen_at": "2026-04-12T18:59:56.200Z",
-    "raw": "Br. Vlaka 69326 odlazak      12.04.26. 20:59, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "SUHOPOLJE",
     "train_number": "89142",
     "event_time": "2026-04-12T21:03:00",
@@ -13867,5 +13831,23 @@
     "event_time": "2026-04-15T20:51:00",
     "seen_at": "2026-04-15T18:51:46.371Z",
     "raw": "Br. Vlaka 44997 odlazak      15.04.26. 20:51, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "81954",
+    "event_time": "2026-04-15T20:46:00",
+    "seen_at": "2026-04-15T18:55:42.765Z",
+    "raw": "Br. Vlaka 81954 dolazak      15.04.26. 20:46, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81954",
+    "event_time": "2026-04-15T20:59:00",
+    "seen_at": "2026-04-15T19:00:02.401Z",
+    "raw": "Br. Vlaka 81954 odlazak      15.04.26. 20:59, kolodvor TURČIN"
   }
 ]
