@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "89190",
-    "event_time": "2026-04-12T02:46:00",
-    "seen_at": "2026-04-12T00:46:55.558Z",
-    "raw": "Br. Vlaka 89190 odlazak      12.04.26. 02:46, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "89151",
-    "event_time": "2026-04-12T02:40:00",
-    "seen_at": "2026-04-12T00:47:19.652Z",
-    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:40, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-12T02:47:00",
-    "seen_at": "2026-04-12T00:47:43.691Z",
-    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 02:47, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-12T02:47:00",
-    "seen_at": "2026-04-12T00:47:43.691Z",
-    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 02:47, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "89195",
-    "event_time": "2026-04-12T00:52:00",
-    "seen_at": "2026-04-12T00:48:31.527Z",
-    "raw": "Br. Vlaka 89195 dolazak      12.04.26. 00:52, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "89151",
-    "event_time": "2026-04-12T02:49:00",
-    "seen_at": "2026-04-12T00:50:54.965Z",
-    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 02:49, kolodvor ZAGREB BORONGAJ"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -13993,5 +13939,50 @@
     "event_time": "2026-04-15T02:36:00",
     "seen_at": "2026-04-15T00:43:14.684Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T02:43:00",
+    "seen_at": "2026-04-15T00:46:56.660Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T02:43:00",
+    "seen_at": "2026-04-15T00:46:56.660Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81281",
+    "event_time": "2026-04-14T19:02:00",
+    "seen_at": "2026-04-15T00:49:42.760Z",
+    "raw": "Br. Vlaka 81281 promjena sas 14.04.26. 19:02, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81982",
+    "event_time": "2026-04-15T02:49:00",
+    "seen_at": "2026-04-15T00:49:42.761Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:49, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81982",
+    "event_time": "2026-04-15T02:49:00",
+    "seen_at": "2026-04-15T00:49:42.761Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:49, kolodvor VRHOVINE"
   }
 ]
