@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "44697",
-    "event_time": "2026-04-12T10:58:00",
-    "seen_at": "2026-04-12T09:00:56.417Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 10:58, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "44697",
-    "event_time": "2026-04-12T10:58:00",
-    "seen_at": "2026-04-12T09:00:56.417Z",
-    "raw": "Br. Vlaka 44697 odlazak      12.04.26. 10:58, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44997",
-    "event_time": "2026-04-12T11:00:00",
-    "seen_at": "2026-04-12T09:08:49.932Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:00, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44997",
-    "event_time": "2026-04-12T11:07:00",
-    "seen_at": "2026-04-12T09:09:13.838Z",
-    "raw": "Br. Vlaka 44997 odlazak      12.04.26. 11:07, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DARDA",
@@ -14155,5 +14119,32 @@
     "event_time": "2026-04-15T10:58:00",
     "seen_at": "2026-04-15T08:59:10.741Z",
     "raw": "Br. Vlaka 81951 odlazak      15.04.26. 10:58, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T07:58:00",
+    "seen_at": "2026-04-15T09:00:57.137Z",
+    "raw": "Br. Vlaka 81993 formiran     15.04.26. 07:58, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81993",
+    "event_time": "2026-04-15T07:58:00",
+    "seen_at": "2026-04-15T09:00:57.137Z",
+    "raw": "Br. Vlaka 81993 formiran     15.04.26. 07:58, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "74300",
+    "event_time": "2026-04-15T11:03:00",
+    "seen_at": "2026-04-15T09:04:56.151Z",
+    "raw": "Br. Vlaka 74300 odlazak      15.04.26. 11:03, kolodvor BLACKO JAKŠIĆ"
   }
 ]
