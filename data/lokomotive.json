@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-12T03:17:00",
-    "seen_at": "2026-04-12T01:18:42.906Z",
-    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 03:17, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-12T03:17:00",
-    "seen_at": "2026-04-12T01:18:42.906Z",
-    "raw": "Br. Vlaka 63306 odlazak      12.04.26. 03:17, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-12T03:20:00",
-    "seen_at": "2026-04-12T01:20:18.853Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -13921,5 +13894,32 @@
     "event_time": "2026-04-15T03:10:00",
     "seen_at": "2026-04-15T01:12:14.354Z",
     "raw": "Br. Vlaka 81281 odlazak      15.04.26. 03:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89921",
+    "event_time": "2026-04-14T13:53:00",
+    "seen_at": "2026-04-15T01:16:46.425Z",
+    "raw": "Br. Vlaka 89921 formiran     14.04.26. 13:53, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89921",
+    "event_time": "2026-04-15T03:09:00",
+    "seen_at": "2026-04-15T01:17:57.561Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 03:09, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "89921",
+    "event_time": "2026-04-15T03:13:00",
+    "seen_at": "2026-04-15T01:18:21.337Z",
+    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 03:13, kolodvor KOTORIBA"
   }
 ]
