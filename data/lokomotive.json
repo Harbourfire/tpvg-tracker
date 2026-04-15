@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-12T01:51:00",
-    "seen_at": "2026-04-11T23:55:03.946Z",
-    "raw": "Br. Vlaka 44789 odlazak      12.04.26. 01:51, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-12T01:53:00",
-    "seen_at": "2026-04-11T23:55:03.946Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 01:53, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-12T01:53:00",
-    "seen_at": "2026-04-11T23:55:03.946Z",
-    "raw": "Br. Vlaka 63305 odlazak      12.04.26. 01:53, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89151",
-    "event_time": "2026-04-12T01:56:00",
-    "seen_at": "2026-04-11T23:56:56.734Z",
-    "raw": "Br. Vlaka 89151 odlazak      12.04.26. 01:56, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "MEDAK",
@@ -13957,5 +13921,95 @@
     "event_time": "2026-04-15T01:08:00",
     "seen_at": "2026-04-14T23:52:08.608Z",
     "raw": "Br. Vlaka 82501 formiran     15.04.26. 01:08, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-04-15T01:50:00",
+    "seen_at": "2026-04-14T23:56:19.457Z",
+    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 01:50, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89920",
+    "event_time": "2026-04-15T01:53:00",
+    "seen_at": "2026-04-14T23:56:43.189Z",
+    "raw": "Br. Vlaka 89920 dolazak      15.04.26. 01:53, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-13T09:24:00",
+    "seen_at": "2026-04-14T23:58:19.652Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69785",
+    "event_time": "2026-04-15T00:54:00",
+    "seen_at": "2026-04-14T23:58:43.364Z",
+    "raw": "Br. Vlaka 69785 formiran     15.04.26. 00:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VALPOVO",
+    "train_number": "82501",
+    "event_time": "2026-04-15T01:25:00",
+    "seen_at": "2026-04-14T23:59:54.548Z",
+    "raw": "Br. Vlaka 82501 odlazak      15.04.26. 01:25, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "82501",
+    "event_time": "2026-04-15T01:57:00",
+    "seen_at": "2026-04-15T00:00:18.362Z",
+    "raw": "Br. Vlaka 82501 dolazak      15.04.26. 01:57, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69785",
+    "event_time": "2026-04-15T01:58:00",
+    "seen_at": "2026-04-15T00:00:42.205Z",
+    "raw": "Br. Vlaka 69785 odlazak      15.04.26. 01:58, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69785",
+    "event_time": "2026-04-15T01:58:00",
+    "seen_at": "2026-04-15T00:00:42.206Z",
+    "raw": "Br. Vlaka 69785 odlazak      15.04.26. 01:58, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81982",
+    "event_time": "2026-04-15T02:00:00",
+    "seen_at": "2026-04-15T00:03:30.329Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:00, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81982",
+    "event_time": "2026-04-15T02:00:00",
+    "seen_at": "2026-04-15T00:03:30.329Z",
+    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:00, kolodvor GOSPIĆ"
   }
 ]
