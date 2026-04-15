@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-11T23:10:00",
-    "seen_at": "2026-04-12T05:55:49.855Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "89117",
-    "event_time": "2026-04-12T06:13:00",
-    "seen_at": "2026-04-12T05:56:13.847Z",
-    "raw": "Br. Vlaka 89117 formiran     12.04.26. 06:13, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "81161",
-    "event_time": "2026-04-12T07:56:00",
-    "seen_at": "2026-04-12T05:56:37.676Z",
-    "raw": "Br. Vlaka 81161 odlazak      12.04.26. 07:56, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89142",
-    "event_time": "2026-04-12T07:56:00",
-    "seen_at": "2026-04-12T05:59:01.004Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 07:56, kolodvor 72303"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89142",
-    "event_time": "2026-04-12T07:56:00",
-    "seen_at": "2026-04-12T05:59:01.005Z",
-    "raw": "Br. Vlaka 89142 odlazak      12.04.26. 07:56, kolodvor 72303"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "HORVATI",
@@ -13939,5 +13894,50 @@
     "event_time": "2026-04-15T07:45:00",
     "seen_at": "2026-04-15T05:47:16.591Z",
     "raw": "Br. Vlaka 74101 odlazak      15.04.26. 07:45, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "82502",
+    "event_time": "2026-04-15T07:52:00",
+    "seen_at": "2026-04-15T05:52:28.711Z",
+    "raw": "Br. Vlaka 82502 dolazak      15.04.26. 07:52, kolodvor 72302"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76552",
+    "event_time": "2026-04-15T07:48:00",
+    "seen_at": "2026-04-15T05:52:28.713Z",
+    "raw": "Br. Vlaka 76552 formiran     15.04.26. 07:48, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "74301",
+    "event_time": "2026-04-15T07:52:00",
+    "seen_at": "2026-04-15T05:53:18.475Z",
+    "raw": "Br. Vlaka 74301 dolazak      15.04.26. 07:52, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-15T07:54:00",
+    "seen_at": "2026-04-15T05:59:55.026Z",
+    "raw": "Br. Vlaka 69006 formiran     15.04.26. 07:54, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-15T07:54:00",
+    "seen_at": "2026-04-15T05:59:55.026Z",
+    "raw": "Br. Vlaka 69006 formiran     15.04.26. 07:54, kolodvor OŠTARIJE"
   }
 ]
