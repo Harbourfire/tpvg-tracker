@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-13T01:24:00",
-    "seen_at": "2026-04-12T23:24:46.706Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-13T01:24:00",
-    "seen_at": "2026-04-12T23:24:46.706Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "81230",
-    "event_time": "2026-04-12T22:58:00",
-    "seen_at": "2026-04-12T23:25:34.162Z",
-    "raw": "Br. Vlaka 81230 promjena sas 12.04.26. 22:58, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "81230",
-    "event_time": "2026-04-12T22:58:00",
-    "seen_at": "2026-04-12T23:25:34.162Z",
-    "raw": "Br. Vlaka 81230 promjena sas 12.04.26. 22:58, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89119",
-    "event_time": "2026-04-13T01:31:00",
-    "seen_at": "2026-04-12T23:31:43.395Z",
-    "raw": "Br. Vlaka 89119 odlazak      13.04.26. 01:31, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "BIZOVAC",
@@ -14047,5 +14002,32 @@
     "event_time": "2026-04-16T01:21:00",
     "seen_at": "2026-04-15T23:22:52.215Z",
     "raw": "Br. Vlaka 44787 dolazak      16.04.26. 01:21, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44994",
+    "event_time": "2026-04-16T01:30:00",
+    "seen_at": "2026-04-15T23:31:20.670Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 01:30, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-16T01:32:00",
+    "seen_at": "2026-04-15T23:32:09.989Z",
+    "raw": "Br. Vlaka 63306 formiran     16.04.26. 01:32, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-16T01:32:00",
+    "seen_at": "2026-04-15T23:32:09.989Z",
+    "raw": "Br. Vlaka 63306 formiran     16.04.26. 01:32, kolodvor GOSPIĆ"
   }
 ]
