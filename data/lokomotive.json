@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44999",
-    "event_time": "2026-04-13T03:56:00",
-    "seen_at": "2026-04-13T01:57:00.295Z",
-    "raw": "Br. Vlaka 44999 formiran     13.04.26. 03:56, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89148",
-    "event_time": "2026-04-13T03:57:00",
-    "seen_at": "2026-04-13T01:57:48.394Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 03:57, kolodvor 72302"
-  },
-  {
     "uic": "927820440125",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -14344,5 +14326,50 @@
     "event_time": "2026-04-16T03:55:00",
     "seen_at": "2026-04-16T01:55:42.918Z",
     "raw": "Br. Vlaka 69326 odlazak      16.04.26. 03:55, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89929",
+    "event_time": "2026-04-16T03:55:00",
+    "seen_at": "2026-04-16T01:56:20.310Z",
+    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 03:55, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82511",
+    "event_time": "2026-04-16T03:55:00",
+    "seen_at": "2026-04-16T01:57:59.611Z",
+    "raw": "Br. Vlaka 82511 odlazak      16.04.26. 03:55, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-16T03:56:00",
+    "seen_at": "2026-04-16T02:00:03.402Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-16T04:04:00",
+    "seen_at": "2026-04-16T02:05:25.862Z",
+    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 04:04, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-16T04:04:00",
+    "seen_at": "2026-04-16T02:05:25.862Z",
+    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 04:04, kolodvor PLAŠKI"
   }
 ]
