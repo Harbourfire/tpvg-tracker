@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76512",
-    "event_time": "2026-04-13T09:54:00",
-    "seen_at": "2026-04-13T07:54:58.191Z",
-    "raw": "Br. Vlaka 76512 odlazak      13.04.26. 09:54, kolodvor SIBINJ"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "82850",
-    "event_time": "2026-04-13T09:55:00",
-    "seen_at": "2026-04-13T07:55:46.185Z",
-    "raw": "Br. Vlaka 82850 odlazak      13.04.26. 09:55, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-13T09:59:00",
-    "seen_at": "2026-04-13T07:59:59.432Z",
-    "raw": "Br. Vlaka 45597 formiran     13.04.26. 09:59, kolodvor 77424"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-13T09:59:00",
-    "seen_at": "2026-04-13T08:00:23.163Z",
-    "raw": "Br. Vlaka 45597 formiran     13.04.26. 09:59, kolodvor 77424"
-  },
-  {
     "uic": "997894853487",
     "type": "Dolazak",
     "station": "ŠOIĆI",
@@ -13984,5 +13948,14 @@
     "event_time": "2026-04-16T09:50:00",
     "seen_at": "2026-04-16T07:51:17.056Z",
     "raw": "Br. Vlaka 76500 odlazak      16.04.26. 09:50, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZABOK",
+    "train_number": "81962",
+    "event_time": "2026-04-16T10:03:00",
+    "seen_at": "2026-04-16T08:03:57.921Z",
+    "raw": "Br. Vlaka 81962 formiran     16.04.26. 10:03, kolodvor ZABOK"
   }
 ]
