@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81165",
-    "event_time": "2026-04-13T02:37:00",
-    "seen_at": "2026-04-13T18:14:15.417Z",
-    "raw": "Br. Vlaka 81165 promjena sas 13.04.26. 02:37, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47562",
-    "event_time": "2026-04-13T20:12:00",
-    "seen_at": "2026-04-13T18:17:03.049Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:12, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47562",
-    "event_time": "2026-04-13T20:12:00",
-    "seen_at": "2026-04-13T18:17:03.050Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:12, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-13T20:16:00",
-    "seen_at": "2026-04-13T18:17:26.750Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-13T20:16:00",
-    "seen_at": "2026-04-13T18:17:26.751Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -13921,5 +13876,50 @@
     "event_time": "2026-04-16T20:09:00",
     "seen_at": "2026-04-16T18:09:19.966Z",
     "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:09, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48581",
+    "event_time": "2026-04-16T20:13:00",
+    "seen_at": "2026-04-16T18:16:17.722Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:13, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48581",
+    "event_time": "2026-04-16T20:13:00",
+    "seen_at": "2026-04-16T18:16:17.723Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:13, kolodvor 72303"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44997",
+    "event_time": "2026-04-16T20:15:00",
+    "seen_at": "2026-04-16T18:16:41.510Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 20:15, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "89764",
+    "event_time": "2026-04-16T20:17:00",
+    "seen_at": "2026-04-16T18:18:11.927Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:17, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KUKAČA",
+    "train_number": "81951",
+    "event_time": "2026-04-16T20:15:00",
+    "seen_at": "2026-04-16T18:19:42.049Z",
+    "raw": "Br. Vlaka 81951 dolazak      16.04.26. 20:15, kolodvor KUKAČA"
   }
 ]
