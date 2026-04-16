@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T10:44:00",
-    "seen_at": "2026-04-13T08:45:34.416Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:44, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T10:44:00",
-    "seen_at": "2026-04-13T08:45:34.417Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:44, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89929",
-    "event_time": "2026-04-13T10:46:00",
-    "seen_at": "2026-04-13T08:48:30.284Z",
-    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 10:46, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89701",
-    "event_time": "2026-04-13T10:48:00",
-    "seen_at": "2026-04-13T08:49:18.034Z",
-    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 10:48, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T10:51:00",
-    "seen_at": "2026-04-13T08:51:42.648Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:51, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T10:51:00",
-    "seen_at": "2026-04-13T08:51:42.648Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 10:51, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "49999",
-    "event_time": "2026-04-13T07:49:00",
-    "seen_at": "2026-04-13T08:54:05.720Z",
-    "raw": "Br. Vlaka 49999 promjena sas 13.04.26. 07:49, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -13804,5 +13741,32 @@
     "event_time": "2026-04-16T10:25:00",
     "seen_at": "2026-04-16T08:28:23.130Z",
     "raw": "Br. Vlaka 81962 odlazak      16.04.26. 10:25, kolodvor SV. KRIŽ ZAČRETJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KRAPINA",
+    "train_number": "81962",
+    "event_time": "2026-04-16T10:43:00",
+    "seen_at": "2026-04-16T08:45:24.477Z",
+    "raw": "Br. Vlaka 81962 dolazak      16.04.26. 10:43, kolodvor KRAPINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KRAPINA",
+    "train_number": "81962",
+    "event_time": "2026-04-16T10:44:00",
+    "seen_at": "2026-04-16T08:48:17.698Z",
+    "raw": "Br. Vlaka 81962 odlazak      16.04.26. 10:44, kolodvor KRAPINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-16T08:00:00",
+    "seen_at": "2026-04-16T08:49:32.474Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
