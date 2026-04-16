@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49998",
-    "event_time": "2026-04-13T02:03:00",
-    "seen_at": "2026-04-13T00:04:35.794Z",
-    "raw": "Br. Vlaka 49998 odlazak      13.04.26. 02:03, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81230",
-    "event_time": "2026-04-13T02:03:00",
-    "seen_at": "2026-04-13T00:04:35.795Z",
-    "raw": "Br. Vlaka 81230 odlazak      13.04.26. 02:03, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81230",
-    "event_time": "2026-04-13T02:03:00",
-    "seen_at": "2026-04-13T00:04:35.795Z",
-    "raw": "Br. Vlaka 81230 odlazak      13.04.26. 02:03, kolodvor BLATA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89401",
-    "event_time": "2026-04-13T02:06:00",
-    "seen_at": "2026-04-13T00:08:13.463Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 02:06, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89119",
-    "event_time": "2026-04-13T02:08:00",
-    "seen_at": "2026-04-13T00:09:36.231Z",
-    "raw": "Br. Vlaka 89119 odlazak      13.04.26. 02:08, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49998",
-    "event_time": "2026-04-13T02:10:00",
-    "seen_at": "2026-04-13T00:10:23.744Z",
-    "raw": "Br. Vlaka 49998 odlazak      13.04.26. 02:10, kolodvor DONJI KRALJEVEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -14011,5 +13957,14 @@
     "event_time": "2026-04-16T02:03:00",
     "seen_at": "2026-04-16T00:03:30.910Z",
     "raw": "Br. Vlaka 81953 odlazak      16.04.26. 02:03, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-16T02:01:00",
+    "seen_at": "2026-04-16T00:04:30.977Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 02:01, kolodvor VARAŽDIN"
   }
 ]
