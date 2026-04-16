@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89754",
-    "event_time": "2026-04-13T20:23:00",
-    "seen_at": "2026-04-13T18:23:40.426Z",
-    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 20:23, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "SAVSKI MAROF granica",
@@ -13921,5 +13912,59 @@
     "event_time": "2026-04-16T20:15:00",
     "seen_at": "2026-04-16T18:19:42.049Z",
     "raw": "Br. Vlaka 81951 dolazak      16.04.26. 20:15, kolodvor KUKAČA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44997",
+    "event_time": "2026-04-16T20:22:00",
+    "seen_at": "2026-04-16T18:23:01.530Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 20:22, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "48581",
+    "event_time": "2026-04-16T20:23:00",
+    "seen_at": "2026-04-16T18:24:08.601Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:23, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "48581",
+    "event_time": "2026-04-16T20:23:00",
+    "seen_at": "2026-04-16T18:24:08.602Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:23, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "81951",
+    "event_time": "2026-04-16T20:25:00",
+    "seen_at": "2026-04-16T18:26:46.322Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 20:25, kolodvor KUKAČA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81106",
+    "event_time": "2026-04-16T20:25:00",
+    "seen_at": "2026-04-16T18:29:00.984Z",
+    "raw": "Br. Vlaka 81106 odlazak      16.04.26. 20:25, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89764",
+    "event_time": "2026-04-16T20:25:00",
+    "seen_at": "2026-04-16T18:29:23.392Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:25, kolodvor GARČIN"
   }
 ]
