@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-04-13T09:04:00",
-    "seen_at": "2026-04-13T07:13:03.272Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "82322",
-    "event_time": "2026-04-13T09:06:00",
-    "seen_at": "2026-04-13T07:14:15.392Z",
-    "raw": "Br. Vlaka 82322 dolazak      13.04.26. 09:06, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Rasformiran",
-    "station": "SESVETE",
-    "train_number": null,
-    "event_time": "2026-04-13T09:06:00",
-    "seen_at": "2026-04-13T07:14:39.551Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "ERDUT",
-    "train_number": "69851",
-    "event_time": "2026-04-13T09:17:00",
-    "seen_at": "2026-04-13T07:17:53.082Z",
-    "raw": "Br. Vlaka 69851 formiran     13.04.26. 09:17, kolodvor ERDUT"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76521",
-    "event_time": "2026-04-13T09:18:00",
-    "seen_at": "2026-04-13T07:20:10.696Z",
-    "raw": "Br. Vlaka 76521 odlazak      13.04.26. 09:18, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -13948,5 +13903,41 @@
     "event_time": "2026-04-16T09:11:00",
     "seen_at": "2026-04-16T07:12:11.537Z",
     "raw": "Br. Vlaka 71203 formiran     16.04.26. 09:11, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T09:13:00",
+    "seen_at": "2026-04-16T07:15:42.512Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 09:13, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T09:13:00",
+    "seen_at": "2026-04-16T07:15:42.513Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 09:13, kolodvor 72302"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76501",
+    "event_time": "2026-04-16T09:15:00",
+    "seen_at": "2026-04-16T07:17:46.545Z",
+    "raw": "Br. Vlaka 76501 odlazak      16.04.26. 09:15, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GORNJA STUBICA",
+    "train_number": "81955",
+    "event_time": "2026-04-16T09:20:00",
+    "seen_at": "2026-04-16T07:22:45.117Z",
+    "raw": "Br. Vlaka 81955 odlazak      16.04.26. 09:20, kolodvor GORNJA STUBICA"
   }
 ]
