@@ -2,42 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "45780",
-    "event_time": "2026-04-14T01:41:00",
-    "seen_at": "2026-04-13T23:43:28.947Z",
-    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 01:41, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "45780",
-    "event_time": "2026-04-14T01:41:00",
-    "seen_at": "2026-04-13T23:43:28.948Z",
-    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 01:41, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82108",
-    "event_time": "2026-04-14T01:44:00",
-    "seen_at": "2026-04-13T23:45:28.220Z",
-    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:44, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82108",
-    "event_time": "2026-04-14T01:44:00",
-    "seen_at": "2026-04-13T23:45:28.220Z",
-    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:44, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "TURČIN",
     "train_number": "45780",
     "event_time": "2026-04-14T01:50:00",
@@ -14326,5 +14290,41 @@
     "event_time": "2026-04-17T01:39:00",
     "seen_at": "2026-04-16T23:39:48.886Z",
     "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:39, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82117",
+    "event_time": "2026-04-17T01:38:00",
+    "seen_at": "2026-04-16T23:40:47.379Z",
+    "raw": "Br. Vlaka 82117 odlazak      17.04.26. 01:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PAĐENE",
+    "train_number": "81951",
+    "event_time": "2026-04-17T01:42:00",
+    "seen_at": "2026-04-16T23:46:57.952Z",
+    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 01:42, kolodvor PAĐENE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-17T01:49:00",
+    "seen_at": "2026-04-16T23:49:36.812Z",
+    "raw": "Br. Vlaka 63306 formiran     17.04.26. 01:49, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-17T01:49:00",
+    "seen_at": "2026-04-16T23:49:36.812Z",
+    "raw": "Br. Vlaka 63306 formiran     17.04.26. 01:49, kolodvor GOSPIĆ"
   }
 ]
