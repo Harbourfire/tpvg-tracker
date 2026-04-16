@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "45780",
-    "event_time": "2026-04-13T21:10:00",
-    "seen_at": "2026-04-13T19:25:29.437Z",
-    "raw": "Br. Vlaka 45780 promjena sas 13.04.26. 21:10, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "82101",
-    "event_time": "2026-04-13T21:27:00",
-    "seen_at": "2026-04-13T19:28:38.428Z",
-    "raw": "Br. Vlaka 82101 formiran     13.04.26. 21:27, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
     "type": "Odlazak",
     "station": "VARAŽDIN",
     "train_number": "82101",
@@ -14056,5 +14038,32 @@
     "event_time": "2026-04-16T21:21:00",
     "seen_at": "2026-04-16T19:22:03.711Z",
     "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:21, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "48581",
+    "event_time": "2026-04-16T21:19:00",
+    "seen_at": "2026-04-16T19:26:49.840Z",
+    "raw": "Br. Vlaka 48581 dolazak      16.04.26. 21:19, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81951",
+    "event_time": "2026-04-16T21:26:00",
+    "seen_at": "2026-04-16T19:26:49.841Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 21:26, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "48581",
+    "event_time": "2026-04-16T21:19:00",
+    "seen_at": "2026-04-16T19:26:49.841Z",
+    "raw": "Br. Vlaka 48581 dolazak      16.04.26. 21:19, kolodvor SISAK CAPRAG"
   }
 ]
