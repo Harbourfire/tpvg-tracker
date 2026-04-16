@@ -1,86 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Formiran",
-    "station": "DRENOVCI",
-    "train_number": "74100",
-    "event_time": "2026-04-13T12:15:00",
-    "seen_at": "2026-04-13T10:18:05.745Z",
-    "raw": "Br. Vlaka 74100 formiran     13.04.26. 12:15, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "81989",
-    "event_time": "2026-04-13T12:15:00",
-    "seen_at": "2026-04-13T10:18:53.919Z",
-    "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:15, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "74100",
-    "event_time": "2026-04-13T12:10:00",
-    "seen_at": "2026-04-13T10:18:53.921Z",
-    "raw": "Br. Vlaka 74100 odlazak      13.04.26. 12:10, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-13T12:03:00",
-    "seen_at": "2026-04-13T10:19:41.870Z",
-    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:03, kolodvor 77424"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET granica",
-    "train_number": "45597",
-    "event_time": "2026-04-13T12:03:00",
-    "seen_at": "2026-04-13T10:19:41.870Z",
-    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:03, kolodvor 77424"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "45597",
-    "event_time": "2026-04-13T12:12:00",
-    "seen_at": "2026-04-13T10:20:07.567Z",
-    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:12, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "45597",
-    "event_time": "2026-04-13T12:12:00",
-    "seen_at": "2026-04-13T10:20:07.567Z",
-    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:12, kolodvor BUZET"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "47562",
-    "event_time": "2026-04-13T12:05:00",
-    "seen_at": "2026-04-13T10:21:19.571Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 12:05, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "47562",
-    "event_time": "2026-04-13T12:05:00",
-    "seen_at": "2026-04-13T10:21:19.572Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 12:05, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620262",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
@@ -13579,5 +13498,41 @@
     "event_time": "2026-04-16T12:11:00",
     "seen_at": "2026-04-16T10:11:47.169Z",
     "raw": "Br. Vlaka 81957 formiran     16.04.26. 12:11, kolodvor ĐURMANEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T12:13:00",
+    "seen_at": "2026-04-16T10:14:17.563Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 12:13, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T12:13:00",
+    "seen_at": "2026-04-16T10:14:17.563Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 12:13, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "76505",
+    "event_time": "2026-04-16T12:14:00",
+    "seen_at": "2026-04-16T10:14:17.564Z",
+    "raw": "Br. Vlaka 76505 odlazak      16.04.26. 12:14, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82119",
+    "event_time": "2026-04-16T12:22:00",
+    "seen_at": "2026-04-16T10:22:35.479Z",
+    "raw": "Br. Vlaka 82119 dolazak      16.04.26. 12:22, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
