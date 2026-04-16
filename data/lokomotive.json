@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "81989",
-    "event_time": "2026-04-13T12:23:00",
-    "seen_at": "2026-04-13T10:23:19.765Z",
-    "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:23, kolodvor 72302"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "45597",
-    "event_time": "2026-04-13T12:21:00",
-    "seen_at": "2026-04-13T10:24:32.225Z",
-    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:21, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "45597",
-    "event_time": "2026-04-13T12:21:00",
-    "seen_at": "2026-04-13T10:24:32.225Z",
-    "raw": "Br. Vlaka 45597 odlazak      13.04.26. 12:21, kolodvor ROČ"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74100",
-    "event_time": "2026-04-13T12:26:00",
-    "seen_at": "2026-04-13T10:27:10.876Z",
-    "raw": "Br. Vlaka 74100 odlazak      13.04.26. 12:26, kolodvor SPAČVA"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89064",
-    "event_time": "2026-04-13T12:31:00",
-    "seen_at": "2026-04-13T10:31:41.473Z",
-    "raw": "Br. Vlaka 89064 formiran     13.04.26. 12:31, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820621104",
     "type": "Promjena sastava",
     "station": "SPAČVA",
@@ -13534,5 +13489,59 @@
     "event_time": "2026-04-16T12:22:00",
     "seen_at": "2026-04-16T10:22:35.479Z",
     "raw": "Br. Vlaka 82119 dolazak      16.04.26. 12:22, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76505",
+    "event_time": "2026-04-16T12:25:00",
+    "seen_at": "2026-04-16T10:26:13.465Z",
+    "raw": "Br. Vlaka 76505 odlazak      16.04.26. 12:25, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ĐURMANEC",
+    "train_number": "81957",
+    "event_time": "2026-04-16T12:26:00",
+    "seen_at": "2026-04-16T10:27:44.147Z",
+    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 12:26, kolodvor ĐURMANEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T12:27:00",
+    "seen_at": "2026-04-16T10:29:14.097Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 12:27, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T12:27:00",
+    "seen_at": "2026-04-16T10:29:14.098Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 12:27, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82515",
+    "event_time": "2026-04-16T12:30:00",
+    "seen_at": "2026-04-16T10:31:30.119Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 12:30, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82515",
+    "event_time": "2026-04-16T12:30:00",
+    "seen_at": "2026-04-16T10:31:30.119Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 12:30, kolodvor JOSIPDOL"
   }
 ]
