@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81991",
-    "event_time": "2026-04-13T10:54:00",
-    "seen_at": "2026-04-13T08:55:41.752Z",
-    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:54, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81991",
-    "event_time": "2026-04-13T10:54:00",
-    "seen_at": "2026-04-13T08:55:41.752Z",
-    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:54, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89701",
-    "event_time": "2026-04-13T10:57:00",
-    "seen_at": "2026-04-13T08:57:17.676Z",
-    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 10:57, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "SIBINJ",
-    "train_number": null,
-    "event_time": "2026-04-10T10:59:00",
-    "seen_at": "2026-04-13T09:01:30.120Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69851",
-    "event_time": "2026-04-13T10:53:00",
-    "seen_at": "2026-04-13T09:01:54.200Z",
-    "raw": "Br. Vlaka 69851 odlazak      13.04.26. 10:53, kolodvor DALJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T11:01:00",
-    "seen_at": "2026-04-13T09:01:54.201Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 11:01, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T11:01:00",
-    "seen_at": "2026-04-13T09:01:54.202Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 11:01, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -13768,5 +13705,32 @@
     "event_time": "2026-04-16T08:00:00",
     "seen_at": "2026-04-16T08:49:32.474Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T09:06:00",
+    "seen_at": "2026-04-16T08:57:36.308Z",
+    "raw": "Br. Vlaka 44787 promjena sas 16.04.26. 09:06, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T09:06:00",
+    "seen_at": "2026-04-16T08:58:00.873Z",
+    "raw": "Br. Vlaka 44787 promjena sas 16.04.26. 09:06, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ĐURMANEC",
+    "train_number": "81962",
+    "event_time": "2026-04-16T10:54:00",
+    "seen_at": "2026-04-16T09:04:42.577Z",
+    "raw": "Br. Vlaka 81962 dolazak      16.04.26. 10:54, kolodvor ĐURMANEC"
   }
 ]
