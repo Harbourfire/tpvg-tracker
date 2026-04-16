@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76511",
-    "event_time": "2026-04-13T06:11:00",
-    "seen_at": "2026-04-13T04:22:57.635Z",
-    "raw": "Br. Vlaka 76511 formiran     13.04.26. 06:11, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89148",
-    "event_time": "2026-04-13T06:28:00",
-    "seen_at": "2026-04-13T04:28:32.329Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 06:28, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -14038,5 +14020,32 @@
     "event_time": "2026-04-16T06:14:00",
     "seen_at": "2026-04-16T04:15:34.679Z",
     "raw": "Br. Vlaka 89929 odlazak      16.04.26. 06:14, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82506",
+    "event_time": "2026-04-16T06:11:00",
+    "seen_at": "2026-04-16T04:19:57.665Z",
+    "raw": "Br. Vlaka 82506 odlazak      16.04.26. 06:11, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-16T06:21:00",
+    "seen_at": "2026-04-16T04:23:47.467Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89181",
+    "event_time": "2026-04-16T06:27:00",
+    "seen_at": "2026-04-16T04:28:49.471Z",
+    "raw": "Br. Vlaka 89181 formiran     16.04.26. 06:27, kolodvor VINKOVCI"
   }
 ]
