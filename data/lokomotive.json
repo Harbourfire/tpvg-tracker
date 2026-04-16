@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82101",
-    "event_time": "2026-04-13T21:34:00",
-    "seen_at": "2026-04-13T19:35:48.861Z",
-    "raw": "Br. Vlaka 82101 odlazak      13.04.26. 21:34, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-13T21:36:00",
-    "seen_at": "2026-04-13T19:36:37.009Z",
-    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 21:36, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-13T21:36:00",
-    "seen_at": "2026-04-13T19:36:37.009Z",
-    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 21:36, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89753",
-    "event_time": "2026-04-13T21:41:00",
-    "seen_at": "2026-04-13T19:42:01.528Z",
-    "raw": "Br. Vlaka 89753 odlazak      13.04.26. 21:41, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82101",
-    "event_time": "2026-04-13T21:41:00",
-    "seen_at": "2026-04-13T19:43:59.409Z",
-    "raw": "Br. Vlaka 82101 odlazak      13.04.26. 21:41, kolodvor TURČIN"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "OSIJEK DONJI GRAD",
@@ -14065,5 +14020,41 @@
     "event_time": "2026-04-16T21:19:00",
     "seen_at": "2026-04-16T19:26:49.841Z",
     "raw": "Br. Vlaka 48581 dolazak      16.04.26. 21:19, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89764",
+    "event_time": "2026-04-16T21:34:00",
+    "seen_at": "2026-04-16T19:35:19.505Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:34, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45981",
+    "event_time": "2026-04-16T21:37:00",
+    "seen_at": "2026-04-16T19:37:58.873Z",
+    "raw": "Br. Vlaka 45981 odlazak      16.04.26. 21:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81951",
+    "event_time": "2026-04-16T21:36:00",
+    "seen_at": "2026-04-16T19:38:21.530Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 21:36, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44788",
+    "event_time": "2026-04-16T19:21:00",
+    "seen_at": "2026-04-16T19:42:30.123Z",
+    "raw": "Br. Vlaka 44788 promjena sas 16.04.26. 19:21, kolodvor ZAPREŠIĆ"
   }
 ]
