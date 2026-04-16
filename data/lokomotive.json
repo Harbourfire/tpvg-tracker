@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "ORIOVAC",
-    "train_number": "89701",
-    "event_time": "2026-04-13T10:26:00",
-    "seen_at": "2026-04-13T08:27:49.630Z",
-    "raw": "Br. Vlaka 89701 dolazak      13.04.26. 10:26, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89929",
-    "event_time": "2026-04-13T10:23:00",
-    "seen_at": "2026-04-13T08:30:04.287Z",
-    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 10:23, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89929",
-    "event_time": "2026-04-13T10:28:00",
-    "seen_at": "2026-04-13T08:30:29.155Z",
-    "raw": "Br. Vlaka 89929 odlazak      13.04.26. 10:28, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81991",
-    "event_time": "2026-04-13T10:31:00",
-    "seen_at": "2026-04-13T08:34:31.411Z",
-    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:31, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81991",
-    "event_time": "2026-04-13T10:31:00",
-    "seen_at": "2026-04-13T08:34:31.411Z",
-    "raw": "Br. Vlaka 81991 odlazak      13.04.26. 10:31, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620189",
     "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "89701",
@@ -13903,5 +13858,23 @@
     "event_time": "2026-04-16T10:06:00",
     "seen_at": "2026-04-16T08:07:57.776Z",
     "raw": "Br. Vlaka 81962 dolazak      16.04.26. 10:06, kolodvor SV. KRIŽ ZAČRETJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48584",
+    "event_time": "2026-04-15T22:39:00",
+    "seen_at": "2026-04-16T08:25:53.029Z",
+    "raw": "Br. Vlaka 48584 promjena sas 15.04.26. 22:39, kolodvor 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SV. KRIŽ ZAČRETJE",
+    "train_number": "81962",
+    "event_time": "2026-04-16T10:25:00",
+    "seen_at": "2026-04-16T08:28:23.130Z",
+    "raw": "Br. Vlaka 81962 odlazak      16.04.26. 10:25, kolodvor SV. KRIŽ ZAČRETJE"
   }
 ]
