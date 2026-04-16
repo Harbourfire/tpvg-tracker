@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-04-13T13:18:00",
-    "seen_at": "2026-04-13T11:24:34.111Z",
-    "raw": "Br. Vlaka 45104 odlazak      13.04.26. 13:18, kolodvor OTOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "47562",
-    "event_time": "2026-04-13T13:24:00",
-    "seen_at": "2026-04-13T11:25:21.432Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:24, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "47562",
-    "event_time": "2026-04-13T13:24:00",
-    "seen_at": "2026-04-13T11:25:21.433Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:24, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89751",
-    "event_time": "2026-04-13T13:25:00",
-    "seen_at": "2026-04-13T11:27:08.879Z",
-    "raw": "Br. Vlaka 89751 formiran     13.04.26. 13:25, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "997894215638",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -13525,5 +13489,86 @@
     "event_time": "2026-04-16T13:17:00",
     "seen_at": "2026-04-16T11:17:49.798Z",
     "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:17, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89733",
+    "event_time": "2026-04-16T13:16:00",
+    "seen_at": "2026-04-16T11:20:18.532Z",
+    "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:16, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89733",
+    "event_time": "2026-04-16T13:20:00",
+    "seen_at": "2026-04-16T11:21:08.476Z",
+    "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:20, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "82122",
+    "event_time": "2026-04-16T12:29:00",
+    "seen_at": "2026-04-16T11:22:40.170Z",
+    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 12:29, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "82122",
+    "event_time": "2026-04-16T12:36:00",
+    "seen_at": "2026-04-16T11:23:25.488Z",
+    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 12:36, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "82122",
+    "event_time": "2026-04-16T12:40:00",
+    "seen_at": "2026-04-16T11:23:48.534Z",
+    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 12:40, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "82122",
+    "event_time": "2026-04-16T12:51:00",
+    "seen_at": "2026-04-16T11:24:33.681Z",
+    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 12:51, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "82122",
+    "event_time": "2026-04-16T13:01:00",
+    "seen_at": "2026-04-16T11:25:18.997Z",
+    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 13:01, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "82122",
+    "event_time": "2026-04-16T13:05:00",
+    "seen_at": "2026-04-16T11:26:29.427Z",
+    "raw": "Br. Vlaka 82122 dolazak      16.04.26. 13:05, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "89733",
+    "event_time": "2026-04-16T13:25:00",
+    "seen_at": "2026-04-16T11:26:29.427Z",
+    "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:25, kolodvor LUKA"
   }
 ]
