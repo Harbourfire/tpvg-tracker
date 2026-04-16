@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "69175",
-    "event_time": "2026-04-13T23:22:00",
-    "seen_at": "2026-04-13T21:24:47.897Z",
-    "raw": "Br. Vlaka 69175 dolazak      13.04.26. 23:22, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "69175",
-    "event_time": "2026-04-13T23:22:00",
-    "seen_at": "2026-04-13T21:24:47.897Z",
-    "raw": "Br. Vlaka 69175 dolazak      13.04.26. 23:22, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-13T23:22:00",
-    "seen_at": "2026-04-13T21:25:11.787Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-13T23:22:00",
-    "seen_at": "2026-04-13T21:25:11.787Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-13T23:28:00",
-    "seen_at": "2026-04-13T21:28:58.028Z",
-    "raw": "Br. Vlaka 82108 formiran     13.04.26. 23:28, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-13T23:28:00",
-    "seen_at": "2026-04-13T21:28:58.028Z",
-    "raw": "Br. Vlaka 82108 formiran     13.04.26. 23:28, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -14002,5 +13948,23 @@
     "event_time": "2026-04-16T23:17:00",
     "seen_at": "2026-04-16T21:19:38.325Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81101",
+    "event_time": "2026-04-16T23:23:00",
+    "seen_at": "2026-04-16T21:24:25.369Z",
+    "raw": "Br. Vlaka 81101 dolazak      16.04.26. 23:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81951",
+    "event_time": "2026-04-16T23:23:00",
+    "seen_at": "2026-04-16T21:25:10.225Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 23:23, kolodvor GOSPIĆ"
   }
 ]
