@@ -2,42 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "49999",
-    "event_time": "2026-04-13T14:49:00",
-    "seen_at": "2026-04-13T12:52:05.545Z",
-    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 14:49, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Formiran",
-    "station": "KARLOVAC",
-    "train_number": "89012",
-    "event_time": "2026-04-13T14:55:00",
-    "seen_at": "2026-04-13T12:55:52.561Z",
-    "raw": "Br. Vlaka 89012 formiran     13.04.26. 14:55, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-13T14:55:00",
-    "seen_at": "2026-04-13T12:56:16.502Z",
-    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 14:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-13T14:55:00",
-    "seen_at": "2026-04-13T12:56:16.502Z",
-    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 14:55, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "BEDEKOVČINA",
     "train_number": "49999",
     "event_time": "2026-04-13T15:01:00",
@@ -13516,5 +13480,23 @@
     "event_time": "2026-04-16T14:48:00",
     "seen_at": "2026-04-16T12:48:41.720Z",
     "raw": "Br. Vlaka 43996 odlazak      16.04.26. 14:48, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48581",
+    "event_time": "2026-04-16T14:52:00",
+    "seen_at": "2026-04-16T12:52:40.857Z",
+    "raw": "Br. Vlaka 48581 dolazak      16.04.26. 14:52, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "43996",
+    "event_time": "2026-04-16T14:57:00",
+    "seen_at": "2026-04-16T12:58:07.604Z",
+    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 14:57, kolodvor ZLATAR-BISTRICA"
   }
 ]
