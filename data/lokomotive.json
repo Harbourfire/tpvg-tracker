@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47562",
-    "event_time": "2026-04-13T20:05:00",
-    "seen_at": "2026-04-13T18:06:24.371Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:05, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47562",
-    "event_time": "2026-04-13T20:05:00",
-    "seen_at": "2026-04-13T18:06:24.372Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 20:05, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "89754",
-    "event_time": "2026-04-13T20:09:00",
-    "seen_at": "2026-04-13T18:10:16.369Z",
-    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 20:09, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "927820622029",
     "type": "Promjena sastava",
     "station": "VINKOVCI",
@@ -13903,5 +13876,50 @@
     "event_time": "2026-04-16T19:56:00",
     "seen_at": "2026-04-16T17:56:42.222Z",
     "raw": "Br. Vlaka 81951 odlazak      16.04.26. 19:56, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89764",
+    "event_time": "2026-04-16T20:02:00",
+    "seen_at": "2026-04-16T18:02:34.995Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:02, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-16T20:07:00",
+    "seen_at": "2026-04-16T18:07:27.039Z",
+    "raw": "Br. Vlaka 49999 formiran     16.04.26. 20:07, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "81951",
+    "event_time": "2026-04-16T20:07:00",
+    "seen_at": "2026-04-16T18:07:49.757Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 20:07, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44997",
+    "event_time": "2026-04-16T20:03:00",
+    "seen_at": "2026-04-16T18:08:57.614Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 20:03, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89764",
+    "event_time": "2026-04-16T20:09:00",
+    "seen_at": "2026-04-16T18:09:19.966Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:09, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
