@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89161",
-    "event_time": "2026-04-13T07:40:00",
-    "seen_at": "2026-04-13T05:41:33.410Z",
-    "raw": "Br. Vlaka 89161 dolazak      13.04.26. 07:40, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "82322",
-    "event_time": "2026-04-13T03:24:00",
-    "seen_at": "2026-04-13T05:42:45.175Z",
-    "raw": "Br. Vlaka 82322 promjena sas 13.04.26. 03:24, kolodvor 72303"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76511",
-    "event_time": "2026-04-13T07:43:00",
-    "seen_at": "2026-04-13T05:44:20.751Z",
-    "raw": "Br. Vlaka 76511 odlazak      13.04.26. 07:43, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-13T07:46:00",
-    "seen_at": "2026-04-13T05:48:00.192Z",
-    "raw": "Br. Vlaka 45105 odlazak      13.04.26. 07:46, kolodvor OTOK"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76520",
-    "event_time": "2026-04-13T07:47:00",
-    "seen_at": "2026-04-13T05:49:35.737Z",
-    "raw": "Br. Vlaka 76520 odlazak      13.04.26. 07:47, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "74101",
-    "event_time": "2026-04-13T07:49:00",
-    "seen_at": "2026-04-13T05:50:47.769Z",
-    "raw": "Br. Vlaka 74101 odlazak      13.04.26. 07:49, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620247",
     "type": "Odlazak",
     "station": "ČAKOVEC",
     "train_number": "89161",
@@ -14074,5 +14020,59 @@
     "event_time": "2026-04-16T07:39:00",
     "seen_at": "2026-04-16T05:39:22.674Z",
     "raw": "Br. Vlaka 76506 dolazak      16.04.26. 07:39, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Promjena sastava",
+    "station": "STARO PETROVO SELO",
+    "train_number": "76506",
+    "event_time": "2026-04-16T07:39:00",
+    "seen_at": "2026-04-16T05:42:55.121Z",
+    "raw": "Br. Vlaka 76506 promjena sas 16.04.26. 07:39, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "89181",
+    "event_time": "2026-04-16T07:43:00",
+    "seen_at": "2026-04-16T05:44:09.353Z",
+    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 07:43, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44787",
+    "event_time": "2026-04-16T07:43:00",
+    "seen_at": "2026-04-16T05:49:07.749Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 07:43, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44787",
+    "event_time": "2026-04-16T07:43:00",
+    "seen_at": "2026-04-16T05:49:07.749Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 07:43, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89929",
+    "event_time": "2026-04-16T07:39:00",
+    "seen_at": "2026-04-16T05:49:57.153Z",
+    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 07:39, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89929",
+    "event_time": "2026-04-16T07:47:00",
+    "seen_at": "2026-04-16T05:50:21.903Z",
+    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 07:47, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
