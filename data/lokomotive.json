@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89148",
-    "event_time": "2026-04-13T06:09:00",
-    "seen_at": "2026-04-13T04:10:53.356Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 06:09, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69302",
-    "event_time": "2026-04-13T06:06:00",
-    "seen_at": "2026-04-13T04:15:32.489Z",
-    "raw": "Br. Vlaka 69302 promjena sas 13.04.26. 06:06, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-13T06:17:00",
-    "seen_at": "2026-04-13T04:18:43.386Z",
-    "raw": "Br. Vlaka 45105 formiran     13.04.26. 06:17, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987893113470",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -14056,5 +14029,14 @@
     "event_time": "2026-04-16T05:50:00",
     "seen_at": "2026-04-16T03:53:46.115Z",
     "raw": "Br. Vlaka 82506 odlazak      16.04.26. 05:50, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89929",
+    "event_time": "2026-04-16T06:14:00",
+    "seen_at": "2026-04-16T04:15:34.679Z",
+    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 06:14, kolodvor NOVI MAROF"
   }
 ]
