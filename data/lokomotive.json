@@ -2,24 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "82104",
-    "event_time": "2026-04-13T23:30:00",
-    "seen_at": "2026-04-13T21:30:32.722Z",
-    "raw": "Br. Vlaka 82104 odlazak      13.04.26. 23:30, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89126",
-    "event_time": "2026-04-13T19:13:00",
-    "seen_at": "2026-04-13T21:34:29.592Z",
-    "raw": "Br. Vlaka 89126 formiran     13.04.26. 19:13, kolodvor 72303"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "BUDINŠĆINA",
     "train_number": "82104",
     "event_time": "2026-04-13T23:52:00",
@@ -13966,5 +13948,95 @@
     "event_time": "2026-04-16T23:23:00",
     "seen_at": "2026-04-16T21:25:10.225Z",
     "raw": "Br. Vlaka 81951 odlazak      16.04.26. 23:23, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T23:29:00",
+    "seen_at": "2026-04-16T21:30:41.089Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 23:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T23:29:00",
+    "seen_at": "2026-04-16T21:30:41.089Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 23:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81101",
+    "event_time": "2026-04-16T23:23:00",
+    "seen_at": "2026-04-16T21:35:41.431Z",
+    "raw": "Br. Vlaka 81101 promjena sas 16.04.26. 23:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-16T12:20:00",
+    "seen_at": "2026-04-16T21:36:04.969Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82117",
+    "event_time": "2026-04-16T23:35:00",
+    "seen_at": "2026-04-16T21:36:27.989Z",
+    "raw": "Br. Vlaka 82117 formiran     16.04.26. 23:35, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44788",
+    "event_time": "2026-04-16T23:36:00",
+    "seen_at": "2026-04-16T21:36:50.706Z",
+    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 23:36, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T23:35:00",
+    "seen_at": "2026-04-16T21:37:13.724Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 23:35, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T23:35:00",
+    "seen_at": "2026-04-16T21:37:13.725Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 23:35, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "48581",
+    "event_time": "2026-04-16T23:35:00",
+    "seen_at": "2026-04-16T21:38:22.385Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 23:35, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "48581",
+    "event_time": "2026-04-16T23:35:00",
+    "seen_at": "2026-04-16T21:38:22.386Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 23:35, kolodvor HRVATSKA DUBICA"
   }
 ]
