@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82104",
-    "event_time": "2026-04-13T23:52:00",
-    "seen_at": "2026-04-13T21:54:26.877Z",
-    "raw": "Br. Vlaka 82104 odlazak      13.04.26. 23:52, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89126",
-    "event_time": "2026-04-13T23:54:00",
-    "seen_at": "2026-04-13T21:55:48.294Z",
-    "raw": "Br. Vlaka 89126 odlazak      13.04.26. 23:54, kolodvor 72303"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
@@ -14047,5 +14029,59 @@
     "event_time": "2026-04-16T23:44:00",
     "seen_at": "2026-04-16T21:45:21.633Z",
     "raw": "Br. Vlaka 81951 odlazak      16.04.26. 23:44, kolodvor MEDAK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T23:48:00",
+    "seen_at": "2026-04-16T21:49:21.778Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 23:48, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-16T23:48:00",
+    "seen_at": "2026-04-16T21:49:21.778Z",
+    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 23:48, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "81106",
+    "event_time": "2026-04-16T23:40:00",
+    "seen_at": "2026-04-16T21:56:34.979Z",
+    "raw": "Br. Vlaka 81106 odlazak      16.04.26. 23:40, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81106",
+    "event_time": "2026-04-16T23:56:00",
+    "seen_at": "2026-04-16T21:56:57.002Z",
+    "raw": "Br. Vlaka 81106 dolazak      16.04.26. 23:56, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44788",
+    "event_time": "2026-04-16T23:54:00",
+    "seen_at": "2026-04-16T21:57:19.982Z",
+    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 23:54, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-16T20:35:00",
+    "seen_at": "2026-04-16T21:58:05.267Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
