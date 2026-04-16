@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ROČ",
-    "train_number": "89690",
-    "event_time": "2026-04-13T08:22:00",
-    "seen_at": "2026-04-13T06:33:07.002Z",
-    "raw": "Br. Vlaka 89690 odlazak      13.04.26. 08:22, kolodvor ROČ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81991",
-    "event_time": "2026-04-13T08:28:00",
-    "seen_at": "2026-04-13T06:33:30.793Z",
-    "raw": "Br. Vlaka 81991 formiran     13.04.26. 08:28, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81991",
-    "event_time": "2026-04-13T08:28:00",
-    "seen_at": "2026-04-13T06:33:54.734Z",
-    "raw": "Br. Vlaka 81991 formiran     13.04.26. 08:28, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-13T08:37:00",
-    "seen_at": "2026-04-13T06:40:30.902Z",
-    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 08:37, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "82322",
-    "event_time": "2026-04-13T08:37:00",
-    "seen_at": "2026-04-13T06:40:30.902Z",
-    "raw": "Br. Vlaka 82322 odlazak      13.04.26. 08:37, kolodvor 72303"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -14083,5 +14038,32 @@
     "event_time": "2026-04-16T08:24:00",
     "seen_at": "2026-04-16T06:30:53.759Z",
     "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:24, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:28:00",
+    "seen_at": "2026-04-16T06:34:50.326Z",
+    "raw": "Br. Vlaka 89723 dolazak      16.04.26. 08:28, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:33:00",
+    "seen_at": "2026-04-16T06:35:15.280Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:33, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:40:00",
+    "seen_at": "2026-04-16T06:40:43.426Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:40, kolodvor ZAGREB BORONGAJ"
   }
 ]
