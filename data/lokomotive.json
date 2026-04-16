@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T11:25:00",
-    "seen_at": "2026-04-13T09:25:27.460Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:25, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T11:25:00",
-    "seen_at": "2026-04-13T09:25:27.461Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:25, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89701",
-    "event_time": "2026-04-13T11:25:00",
-    "seen_at": "2026-04-13T09:25:51.298Z",
-    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 11:25, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Formiran",
-    "station": "SESVETE",
-    "train_number": "81989",
-    "event_time": "2026-04-13T11:25:00",
-    "seen_at": "2026-04-13T09:25:51.299Z",
-    "raw": "Br. Vlaka 81989 formiran     13.04.26. 11:25, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "47562",
-    "event_time": "2026-04-13T11:32:00",
-    "seen_at": "2026-04-13T09:33:13.551Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:32, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "47562",
-    "event_time": "2026-04-13T11:32:00",
-    "seen_at": "2026-04-13T09:33:13.552Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 11:32, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89701",
-    "event_time": "2026-04-13T11:33:00",
-    "seen_at": "2026-04-13T09:33:37.518Z",
-    "raw": "Br. Vlaka 89701 odlazak      13.04.26. 11:33, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44788",
-    "event_time": "2026-04-12T17:48:00",
-    "seen_at": "2026-04-13T09:33:37.518Z",
-    "raw": "Br. Vlaka 44788 promjena sas 12.04.26. 17:48, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -13696,5 +13624,32 @@
     "event_time": "2026-04-16T11:23:00",
     "seen_at": "2026-04-16T09:25:25.070Z",
     "raw": "Trenutna pozicija je u kolodvoru 76002 JOSIPDOL"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "82122",
+    "event_time": "2026-04-16T11:24:00",
+    "seen_at": "2026-04-16T09:28:53.269Z",
+    "raw": "Br. Vlaka 82122 formiran     16.04.26. 11:24, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "JOSIPDOL",
+    "train_number": "82515",
+    "event_time": "2026-04-16T09:28:00",
+    "seen_at": "2026-04-16T09:30:56.969Z",
+    "raw": "Br. Vlaka 82515 formiran     16.04.26. 09:28, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "JOSIPDOL",
+    "train_number": "82515",
+    "event_time": "2026-04-16T09:28:00",
+    "seen_at": "2026-04-16T09:31:21.513Z",
+    "raw": "Br. Vlaka 82515 formiran     16.04.26. 09:28, kolodvor JOSIPDOL"
   }
 ]
