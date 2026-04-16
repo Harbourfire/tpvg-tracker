@@ -1,69 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-14T01:05:00",
-    "seen_at": "2026-04-13T23:13:20.390Z",
-    "raw": "Br. Vlaka 82108 dolazak      14.04.26. 01:05, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-14T01:05:00",
-    "seen_at": "2026-04-13T23:13:20.390Z",
-    "raw": "Br. Vlaka 82108 dolazak      14.04.26. 01:05, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-14T01:09:00",
-    "seen_at": "2026-04-13T23:13:44.309Z",
-    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:09, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-14T01:09:00",
-    "seen_at": "2026-04-13T23:13:44.309Z",
-    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 01:09, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "61004",
-    "event_time": "2026-04-14T01:07:00",
-    "seen_at": "2026-04-13T23:14:55.446Z",
-    "raw": "Br. Vlaka 61004 odlazak      14.04.26. 01:07, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81165",
-    "event_time": "2026-04-14T01:04:00",
-    "seen_at": "2026-04-13T23:15:19.330Z",
-    "raw": "Br. Vlaka 81165 dolazak      14.04.26. 01:04, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "44994",
-    "train_number": null,
-    "event_time": "2026-04-13T23:16:31.320Z",
-    "seen_at": "2026-04-13T23:16:31.320Z",
-    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
-  },
-  {
-    "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "82108",
@@ -14317,5 +14254,32 @@
     "event_time": "2026-04-17T01:03:00",
     "seen_at": "2026-04-16T23:09:24.246Z",
     "raw": "Br. Vlaka 44789 odlazak      17.04.26. 01:03, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82117",
+    "event_time": "2026-04-17T01:18:00",
+    "seen_at": "2026-04-16T23:18:18.577Z",
+    "raw": "Br. Vlaka 82117 odlazak      17.04.26. 01:18, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "48581",
+    "event_time": "2026-04-17T01:17:00",
+    "seen_at": "2026-04-16T23:18:40.936Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:17, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "48581",
+    "event_time": "2026-04-17T01:17:00",
+    "seen_at": "2026-04-16T23:18:40.936Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:17, kolodvor ORIOVAC"
   }
 ]
