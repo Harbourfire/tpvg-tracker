@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89064",
-    "event_time": "2026-04-13T14:48:00",
-    "seen_at": "2026-04-13T12:49:15.580Z",
-    "raw": "Br. Vlaka 89064 dolazak      13.04.26. 14:48, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69851",
-    "event_time": "2026-04-13T14:40:00",
-    "seen_at": "2026-04-13T12:49:39.345Z",
-    "raw": "Br. Vlaka 69851 dolazak      13.04.26. 14:40, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69851",
-    "event_time": "2026-04-13T14:40:00",
-    "seen_at": "2026-04-13T12:50:03.768Z",
-    "raw": "Br. Vlaka 69851 promjena sas 13.04.26. 14:40, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "987821320346",
-    "type": "Promjena sastava",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "69851",
-    "event_time": "2026-04-13T14:40:00",
-    "seen_at": "2026-04-13T12:50:27.520Z",
-    "raw": "Br. Vlaka 69851 promjena sas 13.04.26. 14:40, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45940",
-    "event_time": "2026-04-13T14:46:00",
-    "seen_at": "2026-04-13T12:50:51.653Z",
-    "raw": "Br. Vlaka 45940 odlazak      13.04.26. 14:46, kolodvor DARDA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -13552,5 +13507,14 @@
     "event_time": "2026-04-16T14:37:00",
     "seen_at": "2026-04-16T12:39:45.581Z",
     "raw": "Br. Vlaka 43996 odlazak      16.04.26. 14:37, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "43996",
+    "event_time": "2026-04-16T14:48:00",
+    "seen_at": "2026-04-16T12:48:41.720Z",
+    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 14:48, kolodvor BEDEKOVČINA"
   }
 ]
