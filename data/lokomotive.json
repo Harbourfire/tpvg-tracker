@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47562",
-    "event_time": "2026-04-13T19:56:00",
-    "seen_at": "2026-04-13T17:56:42.432Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 19:56, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47562",
-    "event_time": "2026-04-13T19:56:00",
-    "seen_at": "2026-04-13T17:56:42.433Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 19:56, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-13T19:55:00",
-    "seen_at": "2026-04-13T17:57:33.966Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89754",
-    "event_time": "2026-04-13T19:58:00",
-    "seen_at": "2026-04-13T17:58:21.260Z",
-    "raw": "Br. Vlaka 89754 odlazak      13.04.26. 19:58, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
     "train_number": "47562",
@@ -13903,5 +13867,41 @@
     "event_time": "2026-04-16T19:46:00",
     "seen_at": "2026-04-16T17:47:06.125Z",
     "raw": "Br. Vlaka 81951 odlazak      16.04.26. 19:46, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44997",
+    "event_time": "2026-04-16T19:51:00",
+    "seen_at": "2026-04-16T17:53:17.410Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 19:51, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89764",
+    "event_time": "2026-04-16T19:45:00",
+    "seen_at": "2026-04-16T17:55:34.040Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 19:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89764",
+    "event_time": "2026-04-16T19:54:00",
+    "seen_at": "2026-04-16T17:56:19.412Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 19:54, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "81951",
+    "event_time": "2026-04-16T19:56:00",
+    "seen_at": "2026-04-16T17:56:42.222Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 19:56, kolodvor GENERALSKI STOL"
   }
 ]
