@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "45780",
-    "event_time": "2026-04-13T21:10:00",
-    "seen_at": "2026-04-13T19:12:23.628Z",
-    "raw": "Br. Vlaka 45780 dolazak      13.04.26. 21:10, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-13T17:31:00",
-    "seen_at": "2026-04-13T19:14:22.895Z",
-    "raw": "Br. Vlaka 69751 formiran     13.04.26. 17:31, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "OKUČANI",
-    "train_number": "89753",
-    "event_time": "2026-04-13T21:09:00",
-    "seen_at": "2026-04-13T19:15:34.324Z",
-    "raw": "Br. Vlaka 89753 formiran     13.04.26. 21:09, kolodvor OKUČANI"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -14074,5 +14047,41 @@
     "event_time": "2026-04-16T21:05:00",
     "seen_at": "2026-04-16T19:06:15.105Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81951",
+    "event_time": "2026-04-16T21:10:00",
+    "seen_at": "2026-04-16T19:10:39.225Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 21:10, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89764",
+    "event_time": "2026-04-16T21:11:00",
+    "seen_at": "2026-04-16T19:11:46.350Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:11, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "48581",
+    "event_time": "2026-04-16T21:12:00",
+    "seen_at": "2026-04-16T19:14:01.049Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 21:12, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "48581",
+    "event_time": "2026-04-16T21:12:00",
+    "seen_at": "2026-04-16T19:14:01.049Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 21:12, kolodvor SISAK"
   }
 ]
