@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "69175",
-    "event_time": "2026-04-13T22:15:00",
-    "seen_at": "2026-04-13T20:17:19.297Z",
-    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 22:15, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "69175",
-    "event_time": "2026-04-13T22:15:00",
-    "seen_at": "2026-04-13T20:17:19.297Z",
-    "raw": "Br. Vlaka 69175 odlazak      13.04.26. 22:15, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47565",
-    "event_time": "2026-04-13T22:19:00",
-    "seen_at": "2026-04-13T20:20:54.231Z",
-    "raw": "Br. Vlaka 47565 odlazak      13.04.26. 22:19, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47565",
-    "event_time": "2026-04-13T22:19:00",
-    "seen_at": "2026-04-13T20:20:54.232Z",
-    "raw": "Br. Vlaka 47565 odlazak      13.04.26. 22:19, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -14002,5 +13966,59 @@
     "event_time": "2026-04-16T22:11:00",
     "seen_at": "2026-04-16T20:11:15.151Z",
     "raw": "Br. Vlaka 44786 odlazak      16.04.26. 22:11, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81951",
+    "event_time": "2026-04-16T22:14:00",
+    "seen_at": "2026-04-16T20:15:44.290Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 22:14, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44788",
+    "event_time": "2026-04-16T19:21:00",
+    "seen_at": "2026-04-16T20:16:07.309Z",
+    "raw": "Br. Vlaka 44788 dolazak      16.04.26. 19:21, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44788",
+    "event_time": "2026-04-16T22:15:00",
+    "seen_at": "2026-04-16T20:17:39.266Z",
+    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 22:15, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45981",
+    "event_time": "2026-04-16T22:17:00",
+    "seen_at": "2026-04-16T20:21:10.238Z",
+    "raw": "Br. Vlaka 45981 dolazak      16.04.26. 22:17, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44788",
+    "event_time": "2026-04-16T22:20:00",
+    "seen_at": "2026-04-16T20:21:33.309Z",
+    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 22:20, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-16T22:17:00",
+    "seen_at": "2026-04-16T20:21:33.309Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
