@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-13T09:25:00",
-    "seen_at": "2026-04-13T07:27:25.926Z",
-    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 09:25, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76521",
-    "event_time": "2026-04-13T09:27:00",
-    "seen_at": "2026-04-13T07:28:13.959Z",
-    "raw": "Br. Vlaka 76521 dolazak      13.04.26. 09:27, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-13T09:27:00",
-    "seen_at": "2026-04-13T07:28:38.227Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "987893113470",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -13939,5 +13912,59 @@
     "event_time": "2026-04-16T09:20:00",
     "seen_at": "2026-04-16T07:22:45.117Z",
     "raw": "Br. Vlaka 81955 odlazak      16.04.26. 09:20, kolodvor GORNJA STUBICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69770",
+    "event_time": "2026-04-16T06:13:00",
+    "seen_at": "2026-04-16T07:24:39.369Z",
+    "raw": "Br. Vlaka 69770 formiran     16.04.26. 06:13, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69770",
+    "event_time": "2026-04-16T09:13:00",
+    "seen_at": "2026-04-16T07:25:04.693Z",
+    "raw": "Br. Vlaka 69770 odlazak      16.04.26. 09:13, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69770",
+    "event_time": "2026-04-16T09:25:00",
+    "seen_at": "2026-04-16T07:27:09.056Z",
+    "raw": "Br. Vlaka 69770 odlazak      16.04.26. 09:25, kolodvor DARDA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-16T09:22:00",
+    "seen_at": "2026-04-16T07:27:33.520Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-16T09:22:00",
+    "seen_at": "2026-04-16T07:27:33.521Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Dolazak",
+    "station": "GARČIN",
+    "train_number": "76501",
+    "event_time": "2026-04-16T09:30:00",
+    "seen_at": "2026-04-16T07:32:54.748Z",
+    "raw": "Br. Vlaka 76501 dolazak      16.04.26. 09:30, kolodvor GARČIN"
   }
 ]
