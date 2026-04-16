@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89126",
-    "event_time": "2026-04-13T23:59:00",
-    "seen_at": "2026-04-13T22:03:21.592Z",
-    "raw": "Br. Vlaka 89126 odlazak      13.04.26. 23:59, kolodvor 72302"
-  },
-  {
-    "uic": "927820440240",
     "type": "Rasformiran",
     "station": "ZAGREB RESNIK",
     "train_number": null,
@@ -14083,5 +14074,50 @@
     "event_time": "2026-04-16T20:35:00",
     "seen_at": "2026-04-16T21:58:05.267Z",
     "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "47984",
+    "event_time": "2026-04-16T21:36:00",
+    "seen_at": "2026-04-16T21:58:42.425Z",
+    "raw": "Br. Vlaka 47984 promjena sas 16.04.26. 21:36, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45980",
+    "event_time": "2026-04-17T00:01:00",
+    "seen_at": "2026-04-16T22:04:21.821Z",
+    "raw": "Br. Vlaka 45980 odlazak      17.04.26. 00:01, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LOVINAC",
+    "train_number": "81951",
+    "event_time": "2026-04-17T00:04:00",
+    "seen_at": "2026-04-16T22:05:06.920Z",
+    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 00:04, kolodvor LOVINAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-17T00:05:00",
+    "seen_at": "2026-04-16T22:07:23.282Z",
+    "raw": "Br. Vlaka 63305 odlazak      17.04.26. 00:05, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-17T00:05:00",
+    "seen_at": "2026-04-16T22:07:23.282Z",
+    "raw": "Br. Vlaka 63305 odlazak      17.04.26. 00:05, kolodvor PERUŠIĆ"
   }
 ]
