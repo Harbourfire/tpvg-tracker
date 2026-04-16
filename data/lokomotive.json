@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "49999",
-    "event_time": "2026-04-13T15:15:00",
-    "seen_at": "2026-04-13T13:16:21.049Z",
-    "raw": "Br. Vlaka 49999 dolazak      13.04.26. 15:15, kolodvor ZABOK"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -13480,5 +13471,23 @@
     "event_time": "2026-04-16T15:08:00",
     "seen_at": "2026-04-16T13:09:04.903Z",
     "raw": "Br. Vlaka 44786 odlazak      16.04.26. 15:08, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44786",
+    "event_time": "2026-04-16T15:13:00",
+    "seen_at": "2026-04-16T13:13:47.458Z",
+    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 15:13, kolodvor LUKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44786",
+    "event_time": "2026-04-16T15:17:00",
+    "seen_at": "2026-04-16T13:17:10.282Z",
+    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 15:17, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
