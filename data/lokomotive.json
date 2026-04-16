@@ -1,41 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "89064",
-    "event_time": "2026-04-13T13:26:00",
-    "seen_at": "2026-04-13T11:28:20.913Z",
-    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:26, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Rasformiran",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": null,
-    "event_time": "2026-04-13T13:30:00",
-    "seen_at": "2026-04-13T11:34:52.178Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71204 VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89064",
-    "event_time": "2026-04-13T13:34:00",
-    "seen_at": "2026-04-13T11:35:40.884Z",
-    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:34, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44788",
-    "event_time": "2026-04-13T13:35:00",
-    "seen_at": "2026-04-13T11:36:17.233Z",
-    "raw": "Br. Vlaka 44788 odlazak      13.04.26. 13:35, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
@@ -13570,5 +13534,68 @@
     "event_time": "2026-04-16T13:25:00",
     "seen_at": "2026-04-16T11:26:29.427Z",
     "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:25, kolodvor LUKA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76504",
+    "event_time": "2026-04-16T13:30:00",
+    "seen_at": "2026-04-16T11:30:32.204Z",
+    "raw": "Br. Vlaka 76504 formiran     16.04.26. 13:30, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SV. KRIŽ ZAČRETJE",
+    "train_number": "81957",
+    "event_time": "2026-04-16T13:31:00",
+    "seen_at": "2026-04-16T11:31:40.112Z",
+    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 13:31, kolodvor SV. KRIŽ ZAČRETJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89733",
+    "event_time": "2026-04-16T13:32:00",
+    "seen_at": "2026-04-16T11:33:14.367Z",
+    "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:32, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76504",
+    "event_time": "2026-04-16T13:33:00",
+    "seen_at": "2026-04-16T11:33:59.563Z",
+    "raw": "Br. Vlaka 76504 odlazak      16.04.26. 13:33, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "48584",
+    "train_number": null,
+    "event_time": "2026-04-16T11:35:30.694Z",
+    "seen_at": "2026-04-16T11:35:30.694Z",
+    "raw": "Trenutna pozicija je u kolodvoru 48584 48584"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82515",
+    "event_time": "2026-04-16T13:36:00",
+    "seen_at": "2026-04-16T11:36:39.976Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:36, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82515",
+    "event_time": "2026-04-16T13:36:00",
+    "seen_at": "2026-04-16T11:36:39.976Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:36, kolodvor RUDOPOLJE"
   }
 ]
