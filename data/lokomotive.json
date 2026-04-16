@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "44994",
-    "train_number": null,
-    "event_time": "2026-04-13T15:33:18.958Z",
-    "seen_at": "2026-04-13T15:33:18.958Z",
-    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -13570,5 +13561,50 @@
     "event_time": "2026-04-16T17:25:00",
     "seen_at": "2026-04-16T15:27:23.768Z",
     "raw": "Br. Vlaka 81951 odlazak      16.04.26. 17:25, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44786",
+    "event_time": "2026-04-16T17:30:00",
+    "seen_at": "2026-04-16T15:33:52.744Z",
+    "raw": "Br. Vlaka 44786 dolazak      16.04.26. 17:30, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-16T17:34:00",
+    "seen_at": "2026-04-16T15:35:01.036Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:34, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-16T17:34:00",
+    "seen_at": "2026-04-16T15:35:01.036Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:34, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "HORVATI",
+    "train_number": "81951",
+    "event_time": "2026-04-16T17:35:00",
+    "seen_at": "2026-04-16T15:36:09.598Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 17:35, kolodvor HORVATI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "43996",
+    "event_time": "2026-04-16T17:33:00",
+    "seen_at": "2026-04-16T15:38:06.253Z",
+    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 17:33, kolodvor MALA SUBOTICA"
   }
 ]
