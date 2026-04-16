@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89161",
-    "event_time": "2026-04-13T07:11:00",
-    "seen_at": "2026-04-13T05:15:51.508Z",
-    "raw": "Br. Vlaka 89161 odlazak      13.04.26. 07:11, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -14074,5 +14065,41 @@
     "event_time": "2026-04-16T05:09:08.621Z",
     "seen_at": "2026-04-16T05:09:08.621Z",
     "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "82509",
+    "event_time": "2026-04-16T07:10:00",
+    "seen_at": "2026-04-16T05:11:48.798Z",
+    "raw": "Br. Vlaka 82509 odlazak      16.04.26. 07:10, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89181",
+    "event_time": "2026-04-16T07:11:00",
+    "seen_at": "2026-04-16T05:12:14.208Z",
+    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 07:11, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "81960",
+    "event_time": "2026-04-16T07:15:00",
+    "seen_at": "2026-04-16T05:16:50.432Z",
+    "raw": "Br. Vlaka 81960 odlazak      16.04.26. 07:15, kolodvor ZABOK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76506",
+    "event_time": "2026-04-16T07:19:00",
+    "seen_at": "2026-04-16T05:20:11.746Z",
+    "raw": "Br. Vlaka 76506 odlazak      16.04.26. 07:19, kolodvor ORIOVAC"
   }
 ]
