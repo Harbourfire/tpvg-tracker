@@ -2,60 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44788",
-    "event_time": "2026-04-13T13:55:00",
-    "seen_at": "2026-04-13T11:56:27.500Z",
-    "raw": "Br. Vlaka 44788 odlazak      13.04.26. 13:55, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T13:56:00",
-    "seen_at": "2026-04-13T11:57:15.216Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:56, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "47562",
-    "event_time": "2026-04-13T13:56:00",
-    "seen_at": "2026-04-13T11:57:15.217Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:56, kolodvor OKUČANI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89064",
-    "event_time": "2026-04-13T13:54:00",
-    "seen_at": "2026-04-13T11:58:03.651Z",
-    "raw": "Br. Vlaka 89064 dolazak      13.04.26. 13:54, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-13T13:57:00",
-    "seen_at": "2026-04-13T11:58:51.253Z",
-    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 13:57, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-13T13:57:00",
-    "seen_at": "2026-04-13T11:58:51.253Z",
-    "raw": "Br. Vlaka 63310 odlazak      13.04.26. 13:57, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "MALA SUBOTICA",
     "train_number": "44788",
     "event_time": "2026-04-13T14:04:00",
@@ -13588,5 +13534,41 @@
     "event_time": "2026-04-16T13:53:00",
     "seen_at": "2026-04-16T11:54:13.100Z",
     "raw": "Br. Vlaka 76504 odlazak      16.04.26. 13:53, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82515",
+    "event_time": "2026-04-16T13:56:00",
+    "seen_at": "2026-04-16T11:58:32.589Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:56, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82515",
+    "event_time": "2026-04-16T13:56:00",
+    "seen_at": "2026-04-16T11:58:32.589Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:56, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "48581",
+    "event_time": "2026-04-16T08:47:00",
+    "seen_at": "2026-04-16T11:59:17.326Z",
+    "raw": "Br. Vlaka 48581 formiran     16.04.26. 08:47, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76504",
+    "event_time": "2026-04-16T14:04:00",
+    "seen_at": "2026-04-16T12:04:55.356Z",
+    "raw": "Br. Vlaka 76504 dolazak      16.04.26. 14:04, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
