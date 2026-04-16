@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49997",
-    "event_time": "2026-04-13T17:28:00",
-    "seen_at": "2026-04-13T15:31:03.769Z",
-    "raw": "Br. Vlaka 49997 odlazak      13.04.26. 17:28, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "44994",
@@ -13534,5 +13525,50 @@
     "event_time": "2026-04-16T17:15:00",
     "seen_at": "2026-04-16T15:17:11.104Z",
     "raw": "Br. Vlaka 81951 odlazak      16.04.26. 17:15, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "43996",
+    "event_time": "2026-04-16T17:06:00",
+    "seen_at": "2026-04-16T15:22:45.945Z",
+    "raw": "Br. Vlaka 43996 dolazak      16.04.26. 17:06, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44786",
+    "event_time": "2026-04-16T17:22:00",
+    "seen_at": "2026-04-16T15:24:41.618Z",
+    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 17:22, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-16T17:24:00",
+    "seen_at": "2026-04-16T15:25:27.389Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:24, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-16T17:24:00",
+    "seen_at": "2026-04-16T15:25:27.389Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:24, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "81951",
+    "event_time": "2026-04-16T17:25:00",
+    "seen_at": "2026-04-16T15:27:23.768Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 17:25, kolodvor HRVATSKI LESKOVAC"
   }
 ]
