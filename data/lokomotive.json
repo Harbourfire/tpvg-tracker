@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69352",
-    "event_time": "2026-04-13T16:17:00",
-    "seen_at": "2026-04-13T14:17:41.320Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:17, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "49999",
-    "event_time": "2026-04-13T16:22:00",
-    "seen_at": "2026-04-13T14:22:26.110Z",
-    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 16:22, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "GENERALSKI STOL",
-    "train_number": null,
-    "event_time": "2026-04-13T16:21:00",
-    "seen_at": "2026-04-13T14:22:49.813Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75106 GENERALSKI STOL"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "69352",
-    "event_time": "2026-04-13T16:25:00",
-    "seen_at": "2026-04-13T14:25:29.057Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:25, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "ZAPREŠIĆ",
@@ -13426,5 +13390,59 @@
     "event_time": "2026-04-16T16:14:00",
     "seen_at": "2026-04-16T14:15:19.130Z",
     "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:14, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44997",
+    "event_time": "2026-04-16T16:05:00",
+    "seen_at": "2026-04-16T14:18:18.595Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 16:05, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44997",
+    "event_time": "2026-04-16T16:09:00",
+    "seen_at": "2026-04-16T14:18:41.200Z",
+    "raw": "Br. Vlaka 44997 dolazak      16.04.26. 16:09, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44997",
+    "event_time": "2026-04-16T16:10:00",
+    "seen_at": "2026-04-16T14:19:03.752Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 16:10, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "43996",
+    "event_time": "2026-04-16T16:18:00",
+    "seen_at": "2026-04-16T14:22:05.956Z",
+    "raw": "Br. Vlaka 43996 dolazak      16.04.26. 16:18, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44786",
+    "event_time": "2026-04-16T16:21:00",
+    "seen_at": "2026-04-16T14:22:28.426Z",
+    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 16:21, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "GENERALSKI STOL",
+    "train_number": null,
+    "event_time": "2026-04-13T16:21:00",
+    "seen_at": "2026-04-16T14:23:14.559Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75106 GENERALSKI STOL"
   }
 ]
