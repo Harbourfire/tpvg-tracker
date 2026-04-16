@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-13T11:51:00",
-    "seen_at": "2026-04-13T09:55:04.163Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "81989",
-    "event_time": "2026-04-13T12:00:00",
-    "seen_at": "2026-04-13T10:00:33.823Z",
-    "raw": "Br. Vlaka 81989 odlazak      13.04.26. 12:00, kolodvor SESVETE"
-  },
-  {
     "uic": "987891213462",
     "type": "Formiran",
     "station": "DRENOVCI",
@@ -13534,5 +13516,32 @@
     "event_time": "2026-04-16T09:28:00",
     "seen_at": "2026-04-16T09:31:21.513Z",
     "raw": "Br. Vlaka 82515 formiran     16.04.26. 09:28, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T11:58:00",
+    "seen_at": "2026-04-16T10:01:14.454Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 11:58, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T11:58:00",
+    "seen_at": "2026-04-16T10:01:14.455Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 11:58, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76505",
+    "event_time": "2026-04-16T12:01:00",
+    "seen_at": "2026-04-16T10:03:07.975Z",
+    "raw": "Br. Vlaka 76505 odlazak      16.04.26. 12:01, kolodvor NOVA GRADIŠKA"
   }
 ]
