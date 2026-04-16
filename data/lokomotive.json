@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "49826",
-    "event_time": "2026-04-13T08:11:00",
-    "seen_at": "2026-04-13T06:11:46.959Z",
-    "raw": "Br. Vlaka 49826 odlazak      13.04.26. 08:11, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "89690",
-    "event_time": "2026-04-13T08:12:00",
-    "seen_at": "2026-04-13T06:14:33.776Z",
-    "raw": "Br. Vlaka 89690 odlazak      13.04.26. 08:12, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76511",
-    "event_time": "2026-04-13T08:14:00",
-    "seen_at": "2026-04-13T06:14:57.630Z",
-    "raw": "Br. Vlaka 76511 dolazak      13.04.26. 08:14, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-13T08:14:00",
-    "seen_at": "2026-04-13T06:15:21.511Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-13T08:15:00",
-    "seen_at": "2026-04-13T06:17:20.786Z",
-    "raw": "Br. Vlaka 45105 dolazak      13.04.26. 08:15, kolodvor DRENOVCI"
-  },
-  {
     "uic": "987891213462",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -14101,5 +14056,23 @@
     "event_time": "2026-04-16T08:10:00",
     "seen_at": "2026-04-16T06:11:09.200Z",
     "raw": "Br. Vlaka 89929 dolazak      16.04.26. 08:10, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-16T08:10:00",
+    "seen_at": "2026-04-16T06:16:52.187Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76505",
+    "event_time": "2026-04-16T08:16:00",
+    "seen_at": "2026-04-16T06:16:52.189Z",
+    "raw": "Br. Vlaka 76505 formiran     16.04.26. 08:16, kolodvor NOVA GRADIŠKA"
   }
 ]
