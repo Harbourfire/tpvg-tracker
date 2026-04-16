@@ -14074,5 +14074,77 @@
     "event_time": "2026-04-16T03:00:00",
     "seen_at": "2026-04-16T01:03:04.300Z",
     "raw": "Br. Vlaka 44994 odlazak      16.04.26. 03:00, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "61004",
+    "event_time": "2026-04-16T03:05:00",
+    "seen_at": "2026-04-16T01:05:19.429Z",
+    "raw": "Br. Vlaka 61004 dolazak      16.04.26. 03:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T04:03:00",
+    "seen_at": "2026-04-16T01:06:09.768Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89110",
+    "event_time": "2026-04-16T02:21:00",
+    "seen_at": "2026-04-16T01:06:34.835Z",
+    "raw": "Br. Vlaka 89110 formiran     16.04.26. 02:21, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-16T03:08:00",
+    "seen_at": "2026-04-16T01:08:41.070Z",
+    "raw": "Br. Vlaka 69326 odlazak      16.04.26. 03:08, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82511",
+    "event_time": "2026-04-16T03:05:00",
+    "seen_at": "2026-04-16T01:09:31.381Z",
+    "raw": "Br. Vlaka 82511 odlazak      16.04.26. 03:05, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44994",
+    "event_time": "2026-04-16T03:06:00",
+    "seen_at": "2026-04-16T01:10:20.942Z",
+    "raw": "Br. Vlaka 44994 dolazak      16.04.26. 03:06, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-16T03:06:00",
+    "seen_at": "2026-04-16T01:10:45.703Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81958",
+    "event_time": "2026-04-16T03:10:00",
+    "seen_at": "2026-04-16T01:11:10.607Z",
+    "raw": "Br. Vlaka 81958 odlazak      16.04.26. 03:10, kolodvor PODSUSED tvornica"
   }
 ]
