@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-13T08:53:00",
-    "seen_at": "2026-04-13T07:03:31.269Z",
-    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 08:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "82322",
-    "event_time": "2026-04-13T09:00:00",
-    "seen_at": "2026-04-13T07:04:19.967Z",
-    "raw": "Br. Vlaka 82322 odlazak      13.04.26. 09:00, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44786",
-    "event_time": "2026-04-13T09:01:00",
-    "seen_at": "2026-04-13T07:05:58.028Z",
-    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 09:01, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "ERDUT",
-    "train_number": "49826",
-    "event_time": "2026-04-13T09:05:00",
-    "seen_at": "2026-04-13T07:06:21.937Z",
-    "raw": "Br. Vlaka 49826 dolazak      13.04.26. 09:05, kolodvor ERDUT"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76521",
-    "event_time": "2026-04-13T09:06:00",
-    "seen_at": "2026-04-13T07:06:21.939Z",
-    "raw": "Br. Vlaka 76521 odlazak      13.04.26. 09:06, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "ERDUT",
-    "train_number": null,
-    "event_time": "2026-04-13T06:08:00",
-    "seen_at": "2026-04-13T07:07:58.626Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76512",
-    "event_time": "2026-04-13T09:07:00",
-    "seen_at": "2026-04-13T07:07:58.628Z",
-    "raw": "Br. Vlaka 76512 formiran     13.04.26. 09:07, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-13T09:08:00",
-    "seen_at": "2026-04-13T07:08:23.089Z",
-    "raw": "Br. Vlaka 44786 odlazak      13.04.26. 09:08, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45105",
-    "event_time": "2026-04-13T09:04:00",
-    "seen_at": "2026-04-13T07:12:14.380Z",
-    "raw": "Br. Vlaka 45105 dolazak      13.04.26. 09:04, kolodvor 71308"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "BRČKO - izvan HŽ",
@@ -13948,5 +13867,86 @@
     "event_time": "2026-04-16T08:49:00",
     "seen_at": "2026-04-16T06:50:38.901Z",
     "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:49, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-16T08:47:00",
+    "seen_at": "2026-04-16T07:07:09.155Z",
+    "raw": "Br. Vlaka 71202 odlazak      16.04.26. 08:47, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71202",
+    "event_time": "2026-04-16T08:58:00",
+    "seen_at": "2026-04-16T07:07:34.225Z",
+    "raw": "Br. Vlaka 71202 odlazak      16.04.26. 08:58, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-16T09:06:00",
+    "seen_at": "2026-04-16T07:08:49.408Z",
+    "raw": "Br. Vlaka 71202 dolazak      16.04.26. 09:06, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T09:06:00",
+    "seen_at": "2026-04-16T07:09:39.758Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 09:06, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T09:06:00",
+    "seen_at": "2026-04-16T07:09:39.759Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 09:06, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": null,
+    "event_time": "2026-04-16T09:06:00",
+    "seen_at": "2026-04-16T07:09:39.759Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71103 STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T09:09:00",
+    "seen_at": "2026-04-16T07:10:55.665Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 09:09, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T09:09:00",
+    "seen_at": "2026-04-16T07:10:55.666Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 09:09, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-16T09:11:00",
+    "seen_at": "2026-04-16T07:12:11.537Z",
+    "raw": "Br. Vlaka 71203 formiran     16.04.26. 09:11, kolodvor STARI MIKANOVCI"
   }
 ]
