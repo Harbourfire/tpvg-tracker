@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "49997",
-    "event_time": "2026-04-13T15:48:00",
-    "seen_at": "2026-04-13T13:48:22.113Z",
-    "raw": "Br. Vlaka 49997 formiran     13.04.26. 15:48, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620197",
     "type": "Dolazak",
     "station": "KOTORIBA",
     "train_number": "49997",
@@ -13372,5 +13363,14 @@
     "event_time": "2026-04-16T15:31:00",
     "seen_at": "2026-04-16T13:33:44.664Z",
     "raw": "Br. Vlaka 43996 odlazak      16.04.26. 15:31, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "43996",
+    "event_time": "2026-04-16T15:54:00",
+    "seen_at": "2026-04-16T13:56:11.694Z",
+    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 15:54, kolodvor NOVI MAROF"
   }
 ]
