@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89708",
-    "event_time": "2026-04-13T17:02:00",
-    "seen_at": "2026-04-13T15:03:18.510Z",
-    "raw": "Br. Vlaka 89708 odlazak      13.04.26. 17:02, kolodvor LUKA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69352",
-    "event_time": "2026-04-13T17:03:00",
-    "seen_at": "2026-04-13T15:04:06.336Z",
-    "raw": "Br. Vlaka 69352 dolazak      13.04.26. 17:03, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-13T17:03:00",
-    "seen_at": "2026-04-13T15:04:53.879Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89708",
-    "event_time": "2026-04-13T17:06:00",
-    "seen_at": "2026-04-13T15:07:16.902Z",
-    "raw": "Br. Vlaka 89708 odlazak      13.04.26. 17:06, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "89708",
-    "event_time": "2026-04-13T17:11:00",
-    "seen_at": "2026-04-13T15:17:29.965Z",
-    "raw": "Br. Vlaka 89708 dolazak      13.04.26. 17:11, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-13T17:11:00",
-    "seen_at": "2026-04-13T15:17:53.998Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -13525,5 +13471,68 @@
     "event_time": "2026-04-16T16:57:00",
     "seen_at": "2026-04-16T14:58:24.716Z",
     "raw": "Br. Vlaka 43996 odlazak      16.04.26. 16:57, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44786",
+    "event_time": "2026-04-16T17:03:00",
+    "seen_at": "2026-04-16T15:13:01.295Z",
+    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 17:03, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-16T04:00:00",
+    "seen_at": "2026-04-16T15:13:01.295Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-16T17:04:00",
+    "seen_at": "2026-04-16T15:13:01.295Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:04, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-16T17:04:00",
+    "seen_at": "2026-04-16T15:13:01.295Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:04, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44997",
+    "event_time": "2026-04-16T17:08:00",
+    "seen_at": "2026-04-16T15:15:41.633Z",
+    "raw": "Br. Vlaka 44997 dolazak      16.04.26. 17:08, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69821",
+    "event_time": "2026-04-16T17:15:00",
+    "seen_at": "2026-04-16T15:16:48.745Z",
+    "raw": "Br. Vlaka 69821 odlazak      16.04.26. 17:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "81951",
+    "event_time": "2026-04-16T17:15:00",
+    "seen_at": "2026-04-16T15:17:11.104Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 17:15, kolodvor ZAGREB GL. KOL."
   }
 ]
