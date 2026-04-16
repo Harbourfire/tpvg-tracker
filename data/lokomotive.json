@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-14T01:05:00",
-    "seen_at": "2026-04-13T23:09:12.505Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "PERUŠIĆ",
@@ -14272,5 +14263,59 @@
     "event_time": "2026-04-17T00:59:00",
     "seen_at": "2026-04-16T22:59:48.438Z",
     "raw": "Br. Vlaka 82117 odlazak      17.04.26. 00:59, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "47984",
+    "event_time": "2026-04-17T01:05:00",
+    "seen_at": "2026-04-16T23:05:18.500Z",
+    "raw": "Br. Vlaka 47984 odlazak      17.04.26. 01:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "48581",
+    "event_time": "2026-04-17T01:08:00",
+    "seen_at": "2026-04-16T23:08:16.990Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:08, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "48581",
+    "event_time": "2026-04-17T01:08:00",
+    "seen_at": "2026-04-16T23:08:16.991Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:08, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T01:02:00",
+    "seen_at": "2026-04-16T23:08:39.240Z",
+    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 01:02, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZRMANJA",
+    "train_number": "81951",
+    "event_time": "2026-04-17T01:08:00",
+    "seen_at": "2026-04-16T23:09:24.246Z",
+    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 01:08, kolodvor ZRMANJA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T01:03:00",
+    "seen_at": "2026-04-16T23:09:24.246Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 01:03, kolodvor KOTORIBA"
   }
 ]
