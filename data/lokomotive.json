@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89064",
-    "event_time": "2026-04-13T12:53:00",
-    "seen_at": "2026-04-13T10:53:46.517Z",
-    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 12:53, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-13T12:58:00",
-    "seen_at": "2026-04-13T10:58:48.109Z",
-    "raw": "Br. Vlaka 63310 formiran     13.04.26. 12:58, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-13T12:58:00",
-    "seen_at": "2026-04-13T10:58:48.109Z",
-    "raw": "Br. Vlaka 63310 formiran     13.04.26. 12:58, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -13498,5 +13471,50 @@
     "event_time": "2026-04-16T12:47:00",
     "seen_at": "2026-04-16T10:48:30.933Z",
     "raw": "Br. Vlaka 44787 odlazak      16.04.26. 12:47, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-16T12:55:00",
+    "seen_at": "2026-04-16T10:56:11.280Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "45981",
+    "event_time": "2026-04-16T12:54:00",
+    "seen_at": "2026-04-16T10:56:34.055Z",
+    "raw": "Br. Vlaka 45981 promjena sas 16.04.26. 12:54, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82515",
+    "event_time": "2026-04-16T12:57:00",
+    "seen_at": "2026-04-16T10:58:49.959Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 12:57, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82515",
+    "event_time": "2026-04-16T12:57:00",
+    "seen_at": "2026-04-16T10:58:49.959Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 12:57, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KRAPINA",
+    "train_number": "81957",
+    "event_time": "2026-04-16T12:59:00",
+    "seen_at": "2026-04-16T10:59:34.830Z",
+    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 12:59, kolodvor KRAPINA"
   }
 ]
