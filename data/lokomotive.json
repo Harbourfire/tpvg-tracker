@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69302",
-    "event_time": "2026-04-13T07:20:00",
-    "seen_at": "2026-04-13T05:20:39.473Z",
-    "raw": "Br. Vlaka 69302 dolazak      13.04.26. 07:20, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-13T07:20:00",
-    "seen_at": "2026-04-13T05:20:39.473Z",
-    "raw": "Br. Vlaka 45105 odlazak      13.04.26. 07:20, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-13T07:20:00",
-    "seen_at": "2026-04-13T05:21:03.414Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T11:12:00",
-    "seen_at": "2026-04-13T05:26:27.673Z",
-    "raw": "Br. Vlaka 89541 dolazak      12.04.26. 11:12, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T12:45:00",
-    "seen_at": "2026-04-13T05:27:15.740Z",
-    "raw": "Br. Vlaka 89541 odlazak      12.04.26. 12:45, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89541",
-    "event_time": "2026-04-12T11:12:00",
-    "seen_at": "2026-04-13T05:27:39.652Z",
-    "raw": "Br. Vlaka 89541 dolazak      12.04.26. 11:12, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-12T11:12:00",
-    "seen_at": "2026-04-13T05:28:27.587Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-13T07:22:00",
-    "seen_at": "2026-04-13T05:29:15.506Z",
-    "raw": "Br. Vlaka 66853 formiran     13.04.26. 07:22, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -14101,5 +14029,59 @@
     "event_time": "2026-04-16T07:19:00",
     "seen_at": "2026-04-16T05:20:11.746Z",
     "raw": "Br. Vlaka 76506 odlazak      16.04.26. 07:19, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89181",
+    "event_time": "2026-04-16T07:20:00",
+    "seen_at": "2026-04-16T05:21:16.333Z",
+    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 07:20, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76503",
+    "event_time": "2026-04-16T07:20:00",
+    "seen_at": "2026-04-16T05:21:16.333Z",
+    "raw": "Br. Vlaka 76503 odlazak      16.04.26. 07:20, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89929",
+    "event_time": "2026-04-16T07:26:00",
+    "seen_at": "2026-04-16T05:27:07.580Z",
+    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 07:26, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "82509",
+    "event_time": "2026-04-16T07:19:00",
+    "seen_at": "2026-04-16T05:27:07.581Z",
+    "raw": "Br. Vlaka 82509 dolazak      16.04.26. 07:19, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-16T07:19:00",
+    "seen_at": "2026-04-16T05:27:32.318Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76506",
+    "event_time": "2026-04-16T07:28:00",
+    "seen_at": "2026-04-16T05:28:22.515Z",
+    "raw": "Br. Vlaka 76506 odlazak      16.04.26. 07:28, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
