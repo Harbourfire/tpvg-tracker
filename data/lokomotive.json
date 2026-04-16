@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-13T21:02:00",
-    "seen_at": "2026-04-13T19:18:12.684Z",
-    "raw": "Br. Vlaka 69751 odlazak      13.04.26. 21:02, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69751",
-    "event_time": "2026-04-13T21:10:00",
-    "seen_at": "2026-04-13T19:22:15.932Z",
-    "raw": "Br. Vlaka 69751 dolazak      13.04.26. 21:10, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-13T21:10:00",
-    "seen_at": "2026-04-13T19:22:40.012Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "89753",
-    "event_time": "2026-04-13T21:22:00",
-    "seen_at": "2026-04-13T19:23:52.584Z",
-    "raw": "Br. Vlaka 89753 odlazak      13.04.26. 21:22, kolodvor OKUČANI"
-  },
-  {
     "uic": "927820620197",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -14083,5 +14047,14 @@
     "event_time": "2026-04-16T21:12:00",
     "seen_at": "2026-04-16T19:14:01.049Z",
     "raw": "Br. Vlaka 48581 odlazak      16.04.26. 21:12, kolodvor SISAK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89764",
+    "event_time": "2026-04-16T21:21:00",
+    "seen_at": "2026-04-16T19:22:03.711Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:21, kolodvor STARO PETROVO SELO"
   }
 ]
