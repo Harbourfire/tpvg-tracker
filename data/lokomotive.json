@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-13T09:37:00",
-    "seen_at": "2026-04-13T16:27:23.640Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "69771",
-    "event_time": "2026-04-13T18:27:00",
-    "seen_at": "2026-04-13T16:27:47.597Z",
-    "raw": "Br. Vlaka 69771 formiran     13.04.26. 18:27, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820622011",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -13768,5 +13750,41 @@
     "event_time": "2026-04-16T18:02:00",
     "seen_at": "2026-04-16T16:17:28.877Z",
     "raw": "Br. Vlaka 69006 formiran     16.04.26. 18:02, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-16T18:19:00",
+    "seen_at": "2026-04-16T16:19:33.018Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "48581",
+    "event_time": "2026-04-16T18:20:00",
+    "seen_at": "2026-04-16T16:21:03.814Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 18:20, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "81951",
+    "event_time": "2026-04-16T18:22:00",
+    "seen_at": "2026-04-16T16:24:27.384Z",
+    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 18:22, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "48581",
+    "event_time": "2026-04-16T18:26:00",
+    "seen_at": "2026-04-16T16:27:04.777Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 18:26, kolodvor ZAGREB RESNIK"
   }
 ]
