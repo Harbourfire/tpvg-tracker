@@ -1,122 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89701",
-    "event_time": "2026-04-13T08:12:00",
-    "seen_at": "2026-04-13T06:43:19.216Z",
-    "raw": "Br. Vlaka 89701 formiran     13.04.26. 08:12, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "74101",
-    "event_time": "2026-04-13T08:39:00",
-    "seen_at": "2026-04-13T06:43:43.358Z",
-    "raw": "Br. Vlaka 74101 dolazak      13.04.26. 08:39, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "BUZET",
-    "train_number": "89690",
-    "event_time": "2026-04-13T08:32:00",
-    "seen_at": "2026-04-13T06:44:06.988Z",
-    "raw": "Br. Vlaka 89690 dolazak      13.04.26. 08:32, kolodvor BUZET"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-04-13T08:39:00",
-    "seen_at": "2026-04-13T06:44:06.988Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "BUZET",
-    "train_number": "89690",
-    "event_time": "2026-04-13T08:37:00",
-    "seen_at": "2026-04-13T06:44:30.879Z",
-    "raw": "Br. Vlaka 89690 odlazak      13.04.26. 08:37, kolodvor BUZET"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "BUZET granica",
-    "train_number": null,
-    "event_time": "2026-04-13T08:44:00",
-    "seen_at": "2026-04-13T06:44:54.637Z",
-    "raw": "Trenutna pozicija je u kolodvoru 77424 77424"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TOVARNIK granica",
-    "train_number": "47562",
-    "event_time": "2026-04-13T08:44:00",
-    "seen_at": "2026-04-13T06:48:05.478Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 08:44, kolodvor 71020"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TOVARNIK granica",
-    "train_number": "47562",
-    "event_time": "2026-04-13T08:44:00",
-    "seen_at": "2026-04-13T06:48:05.479Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 08:44, kolodvor 71020"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "47562",
-    "event_time": "2026-04-13T08:47:00",
-    "seen_at": "2026-04-13T06:48:29.083Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 08:47, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "47562",
-    "event_time": "2026-04-13T08:47:00",
-    "seen_at": "2026-04-13T06:48:29.083Z",
-    "raw": "Br. Vlaka 47562 dolazak      13.04.26. 08:47, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76520",
-    "event_time": "2026-04-13T08:08:00",
-    "seen_at": "2026-04-13T06:51:30.451Z",
-    "raw": "Br. Vlaka 76520 dolazak      13.04.26. 08:08, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-13T08:08:00",
-    "seen_at": "2026-04-13T06:51:54.466Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "82322",
-    "event_time": "2026-04-13T08:47:00",
-    "seen_at": "2026-04-13T06:52:42.470Z",
-    "raw": "Br. Vlaka 82322 dolazak      13.04.26. 08:47, kolodvor 72302"
-  },
-  {
     "uic": "927820620262",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
@@ -14065,5 +13948,50 @@
     "event_time": "2026-04-16T08:40:00",
     "seen_at": "2026-04-16T06:40:43.426Z",
     "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:40, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:44:00",
+    "seen_at": "2026-04-16T06:45:12.313Z",
+    "raw": "Br. Vlaka 89723 dolazak      16.04.26. 08:44, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:44:00",
+    "seen_at": "2026-04-16T06:48:54.971Z",
+    "raw": "Br. Vlaka 89723 promjena sas 16.04.26. 08:44, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:44:00",
+    "seen_at": "2026-04-16T06:48:54.972Z",
+    "raw": "Br. Vlaka 89723 promjena sas 16.04.26. 08:44, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T08:49:00",
+    "seen_at": "2026-04-16T06:50:38.900Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:49, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44787",
+    "event_time": "2026-04-16T08:49:00",
+    "seen_at": "2026-04-16T06:50:38.901Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:49, kolodvor BUDINŠĆINA"
   }
 ]
