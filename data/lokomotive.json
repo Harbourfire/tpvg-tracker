@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "TOVARNIK granica",
-    "train_number": "47562",
-    "event_time": "2026-04-12T08:52:00",
-    "seen_at": "2026-04-13T03:07:54.665Z",
-    "raw": "Br. Vlaka 47562 formiran     12.04.26. 08:52, kolodvor 71020"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "TOVARNIK granica",
-    "train_number": "47562",
-    "event_time": "2026-04-12T08:52:00",
-    "seen_at": "2026-04-13T03:08:18.302Z",
-    "raw": "Br. Vlaka 47562 formiran     12.04.26. 08:52, kolodvor 71020"
-  },
-  {
     "uic": "927820620247",
     "type": "Formiran",
     "station": "KOTORIBA",
@@ -14155,5 +14137,23 @@
     "event_time": "2026-04-16T04:56:00",
     "seen_at": "2026-04-16T02:57:59.625Z",
     "raw": "Br. Vlaka 82506 dolazak      16.04.26. 04:56, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "89929",
+    "event_time": "2026-04-16T05:11:00",
+    "seen_at": "2026-04-16T03:16:22.242Z",
+    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 05:11, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82506",
+    "event_time": "2026-04-16T05:17:00",
+    "seen_at": "2026-04-16T03:17:37.550Z",
+    "raw": "Br. Vlaka 82506 odlazak      16.04.26. 05:17, kolodvor BUDINŠĆINA"
   }
 ]
