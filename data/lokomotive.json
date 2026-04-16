@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76512",
-    "event_time": "2026-04-13T09:31:00",
-    "seen_at": "2026-04-13T07:34:08.753Z",
-    "raw": "Br. Vlaka 76512 odlazak      13.04.26. 09:31, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44786",
-    "event_time": "2026-04-13T09:30:00",
-    "seen_at": "2026-04-13T07:36:57.959Z",
-    "raw": "Br. Vlaka 44786 dolazak      13.04.26. 09:30, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-13T09:30:00",
-    "seen_at": "2026-04-13T07:37:22.256Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820620197",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -13966,5 +13939,32 @@
     "event_time": "2026-04-16T09:30:00",
     "seen_at": "2026-04-16T07:32:54.748Z",
     "raw": "Br. Vlaka 76501 dolazak      16.04.26. 09:30, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "GARČIN",
+    "train_number": null,
+    "event_time": "2026-04-16T09:30:00",
+    "seen_at": "2026-04-16T07:36:02.721Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Formiran",
+    "station": "GARČIN",
+    "train_number": "76500",
+    "event_time": "2026-04-16T09:36:00",
+    "seen_at": "2026-04-16T07:36:53.795Z",
+    "raw": "Br. Vlaka 76500 formiran     16.04.26. 09:36, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "69770",
+    "event_time": "2026-04-16T09:42:00",
+    "seen_at": "2026-04-16T07:42:49.629Z",
+    "raw": "Br. Vlaka 69770 dolazak      16.04.26. 09:42, kolodvor BELI MANASTIR"
   }
 ]
