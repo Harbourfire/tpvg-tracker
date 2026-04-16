@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89148",
-    "event_time": "2026-04-13T04:57:00",
-    "seen_at": "2026-04-13T02:58:58.192Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 04:57, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "89401",
-    "event_time": "2026-04-13T04:53:00",
-    "seen_at": "2026-04-13T03:00:33.090Z",
-    "raw": "Br. Vlaka 89401 dolazak      13.04.26. 04:53, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "89401",
-    "event_time": "2026-04-13T04:53:00",
-    "seen_at": "2026-04-13T03:00:33.091Z",
-    "raw": "Br. Vlaka 89401 dolazak      13.04.26. 04:53, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "89401",
-    "event_time": "2026-04-13T05:00:00",
-    "seen_at": "2026-04-13T03:00:57.085Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 05:00, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "89401",
-    "event_time": "2026-04-13T05:00:00",
-    "seen_at": "2026-04-13T03:00:57.086Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 05:00, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-04-13T05:03:00",
-    "seen_at": "2026-04-13T03:03:20.225Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44999",
-    "event_time": "2026-04-13T05:00:00",
-    "seen_at": "2026-04-13T03:03:20.225Z",
-    "raw": "Br. Vlaka 44999 dolazak      13.04.26. 05:00, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "TOVARNIK granica",
-    "train_number": null,
-    "event_time": "2026-04-13T05:03:00",
-    "seen_at": "2026-04-13T03:03:20.226Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89148",
-    "event_time": "2026-04-13T05:04:00",
-    "seen_at": "2026-04-13T03:05:06.128Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 05:04, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "TOVARNIK granica",
@@ -14227,5 +14146,14 @@
     "event_time": "2026-04-16T04:54:00",
     "seen_at": "2026-04-16T02:55:09.719Z",
     "raw": "Br. Vlaka 89929 odlazak      16.04.26. 04:54, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82506",
+    "event_time": "2026-04-16T04:56:00",
+    "seen_at": "2026-04-16T02:57:59.625Z",
+    "raw": "Br. Vlaka 82506 dolazak      16.04.26. 04:56, kolodvor BUDINŠĆINA"
   }
 ]
