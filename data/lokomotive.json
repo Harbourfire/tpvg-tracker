@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89401",
-    "event_time": "2026-04-13T02:59:00",
-    "seen_at": "2026-04-13T01:01:15.408Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 02:59, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -14002,5 +13993,86 @@
     "event_time": "2026-04-16T02:46:00",
     "seen_at": "2026-04-16T00:47:36.120Z",
     "raw": "Br. Vlaka 44994 odlazak      16.04.26. 02:46, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-15T18:12:00",
+    "seen_at": "2026-04-16T00:55:14.452Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82511",
+    "event_time": "2026-04-16T02:55:00",
+    "seen_at": "2026-04-16T00:55:39.258Z",
+    "raw": "Br. Vlaka 82511 formiran     16.04.26. 02:55, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "81958",
+    "event_time": "2026-04-16T02:55:00",
+    "seen_at": "2026-04-16T00:56:28.751Z",
+    "raw": "Br. Vlaka 81958 odlazak      16.04.26. 02:55, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82511",
+    "event_time": "2026-04-16T02:47:00",
+    "seen_at": "2026-04-16T00:58:07.390Z",
+    "raw": "Br. Vlaka 82511 odlazak      16.04.26. 02:47, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "81958",
+    "event_time": "2026-04-16T02:58:00",
+    "seen_at": "2026-04-16T01:01:00.411Z",
+    "raw": "Br. Vlaka 81958 odlazak      16.04.26. 02:58, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-04-16T03:01:00",
+    "seen_at": "2026-04-16T01:02:14.610Z",
+    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 03:01, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-04-16T03:01:00",
+    "seen_at": "2026-04-16T01:02:14.610Z",
+    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 03:01, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-04-16T02:58:00",
+    "seen_at": "2026-04-16T01:02:39.374Z",
+    "raw": "Br. Vlaka 44994 dolazak      16.04.26. 02:58, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-04-16T03:00:00",
+    "seen_at": "2026-04-16T01:03:04.300Z",
+    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 03:00, kolodvor KOTORIBA"
   }
 ]
