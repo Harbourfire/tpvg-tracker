@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "69711",
-    "event_time": "2026-04-13T06:47:00",
-    "seen_at": "2026-04-13T04:47:30.638Z",
-    "raw": "Br. Vlaka 69711 odlazak      13.04.26. 06:47, kolodvor 72302"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "74101",
-    "event_time": "2026-04-13T06:48:00",
-    "seen_at": "2026-04-13T04:49:08.549Z",
-    "raw": "Br. Vlaka 74101 formiran     13.04.26. 06:48, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69302",
-    "event_time": "2026-04-13T06:49:00",
-    "seen_at": "2026-04-13T04:49:32.964Z",
-    "raw": "Br. Vlaka 69302 odlazak      13.04.26. 06:49, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "ZAGREB RESNIK",
     "train_number": "69711",
@@ -14056,5 +14029,23 @@
     "event_time": "2026-04-16T06:31:00",
     "seen_at": "2026-04-16T04:34:31.985Z",
     "raw": "Br. Vlaka 89929 odlazak      16.04.26. 06:31, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "89929",
+    "event_time": "2026-04-16T06:40:00",
+    "seen_at": "2026-04-16T04:41:53.613Z",
+    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 06:40, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89929",
+    "event_time": "2026-04-16T06:47:00",
+    "seen_at": "2026-04-16T04:48:57.722Z",
+    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 06:47, kolodvor KONJŠČINA"
   }
 ]
