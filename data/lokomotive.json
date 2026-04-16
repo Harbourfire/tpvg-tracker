@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89708",
-    "event_time": "2026-04-13T15:34:00",
-    "seen_at": "2026-04-13T14:36:34.208Z",
-    "raw": "Br. Vlaka 89708 formiran     13.04.26. 15:34, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69352",
-    "event_time": "2026-04-13T16:37:00",
-    "seen_at": "2026-04-13T14:37:21.699Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:37, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -13444,5 +13426,68 @@
     "event_time": "2026-04-16T16:29:00",
     "seen_at": "2026-04-16T14:29:33.449Z",
     "raw": "Br. Vlaka 44786 odlazak      16.04.26. 16:29, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44997",
+    "event_time": "2026-04-16T16:32:00",
+    "seen_at": "2026-04-16T14:35:25.335Z",
+    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 16:32, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43996",
+    "event_time": "2026-04-16T16:35:00",
+    "seen_at": "2026-04-16T14:36:34.174Z",
+    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 16:35, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-16T16:32:00",
+    "seen_at": "2026-04-16T14:36:34.175Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:32, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-16T16:32:00",
+    "seen_at": "2026-04-16T14:36:34.175Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:32, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48581",
+    "event_time": "2026-04-16T16:36:00",
+    "seen_at": "2026-04-16T14:36:56.761Z",
+    "raw": "Br. Vlaka 48581 dolazak      16.04.26. 16:36, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44786",
+    "event_time": "2026-04-16T16:37:00",
+    "seen_at": "2026-04-16T14:39:34.444Z",
+    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 16:37, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48581",
+    "event_time": "2026-04-16T16:36:00",
+    "seen_at": "2026-04-16T14:40:42.158Z",
+    "raw": "Br. Vlaka 48581 promjena sas 16.04.26. 16:36, kolodvor ZAPREŠIĆ"
   }
 ]
