@@ -2,42 +2,6 @@
   {
     "uic": "927820440125",
     "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89148",
-    "event_time": "2026-04-13T04:28:00",
-    "seen_at": "2026-04-13T02:28:24.293Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 04:28, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89401",
-    "event_time": "2026-04-13T04:31:00",
-    "seen_at": "2026-04-13T02:31:36.264Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 04:31, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89401",
-    "event_time": "2026-04-13T04:31:00",
-    "seen_at": "2026-04-13T02:31:36.265Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 04:31, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89148",
-    "event_time": "2026-04-13T04:32:00",
-    "seen_at": "2026-04-13T02:33:12.529Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 04:32, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
     "station": "LUKA",
     "train_number": "89148",
     "event_time": "2026-04-13T04:36:00",
@@ -14299,5 +14263,41 @@
     "event_time": "2026-04-16T04:25:00",
     "seen_at": "2026-04-16T02:25:32.575Z",
     "raw": "Br. Vlaka 89929 odlazak      16.04.26. 04:25, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-16T04:26:00",
+    "seen_at": "2026-04-16T02:26:34.501Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "82509",
+    "event_time": "2026-04-16T04:29:00",
+    "seen_at": "2026-04-16T02:29:30.925Z",
+    "raw": "Br. Vlaka 82509 promjena sas 16.04.26. 04:29, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-04-16T04:26:00",
+    "seen_at": "2026-04-16T02:33:16.897Z",
+    "raw": "Br. Vlaka 63306 dolazak      16.04.26. 04:26, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63306",
+    "event_time": "2026-04-16T04:26:00",
+    "seen_at": "2026-04-16T02:33:16.897Z",
+    "raw": "Br. Vlaka 63306 dolazak      16.04.26. 04:26, kolodvor OŠTARIJE"
   }
 ]
