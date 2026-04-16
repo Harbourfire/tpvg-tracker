@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44788",
-    "event_time": "2026-04-13T13:50:00",
-    "seen_at": "2026-04-13T11:50:41.037Z",
-    "raw": "Br. Vlaka 44788 dolazak      13.04.26. 13:50, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-13T13:52:00",
-    "seen_at": "2026-04-13T11:53:51.981Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
     "type": "Odlazak",
     "station": "ČAKOVEC",
     "train_number": "44788",
@@ -13597,5 +13579,14 @@
     "event_time": "2026-04-16T13:44:00",
     "seen_at": "2026-04-16T11:44:31.494Z",
     "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76504",
+    "event_time": "2026-04-16T13:53:00",
+    "seen_at": "2026-04-16T11:54:13.100Z",
+    "raw": "Br. Vlaka 76504 odlazak      16.04.26. 13:53, kolodvor ORIOVAC"
   }
 ]
