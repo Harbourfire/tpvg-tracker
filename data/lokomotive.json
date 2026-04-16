@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "47562",
-    "event_time": "2026-04-13T13:01:00",
-    "seen_at": "2026-04-13T11:01:37.055Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:01, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "49999",
-    "event_time": "2026-04-13T13:00:00",
-    "seen_at": "2026-04-13T11:01:37.055Z",
-    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 13:00, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "47562",
-    "event_time": "2026-04-13T13:01:00",
-    "seen_at": "2026-04-13T11:01:37.055Z",
-    "raw": "Br. Vlaka 47562 odlazak      13.04.26. 13:01, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89064",
-    "event_time": "2026-04-13T12:58:00",
-    "seen_at": "2026-04-13T11:03:13.687Z",
-    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 12:58, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89064",
-    "event_time": "2026-04-13T13:05:00",
-    "seen_at": "2026-04-13T11:06:04.356Z",
-    "raw": "Br. Vlaka 89064 odlazak      13.04.26. 13:05, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -13516,5 +13471,23 @@
     "event_time": "2026-04-16T12:59:00",
     "seen_at": "2026-04-16T10:59:34.830Z",
     "raw": "Br. Vlaka 81957 odlazak      16.04.26. 12:59, kolodvor KRAPINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44787",
+    "event_time": "2026-04-16T13:04:00",
+    "seen_at": "2026-04-16T11:04:22.306Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 13:04, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44787",
+    "event_time": "2026-04-16T13:04:00",
+    "seen_at": "2026-04-16T11:04:22.307Z",
+    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 13:04, kolodvor ZABOK"
   }
 ]
