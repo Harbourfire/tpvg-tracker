@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-14T00:43:00",
-    "seen_at": "2026-04-13T22:45:10.512Z",
-    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 00:43, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82108",
-    "event_time": "2026-04-14T00:43:00",
-    "seen_at": "2026-04-13T22:45:10.512Z",
-    "raw": "Br. Vlaka 82108 odlazak      14.04.26. 00:43, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -14209,5 +14191,68 @@
     "event_time": "2026-04-17T00:38:00",
     "seen_at": "2026-04-16T22:39:17.948Z",
     "raw": "Br. Vlaka 47984 odlazak      17.04.26. 00:38, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "48581",
+    "event_time": "2026-04-17T00:45:00",
+    "seen_at": "2026-04-16T22:46:20.981Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 00:45, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "48581",
+    "event_time": "2026-04-17T00:45:00",
+    "seen_at": "2026-04-16T22:46:20.981Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 00:45, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "47984",
+    "event_time": "2026-04-17T00:45:00",
+    "seen_at": "2026-04-16T22:46:43.706Z",
+    "raw": "Br. Vlaka 47984 odlazak      17.04.26. 00:45, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45980",
+    "event_time": "2026-04-17T00:47:00",
+    "seen_at": "2026-04-16T22:47:52.327Z",
+    "raw": "Br. Vlaka 45980 dolazak      17.04.26. 00:47, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "45980",
+    "event_time": "2026-04-17T00:45:00",
+    "seen_at": "2026-04-16T22:48:15.544Z",
+    "raw": "Br. Vlaka 45980 dolazak      17.04.26. 00:45, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44789",
+    "event_time": "2026-04-17T00:48:00",
+    "seen_at": "2026-04-16T22:48:15.545Z",
+    "raw": "Br. Vlaka 44789 formiran     17.04.26. 00:48, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82117",
+    "event_time": "2026-04-16T23:35:00",
+    "seen_at": "2026-04-16T22:51:16.563Z",
+    "raw": "Br. Vlaka 82117 formiran     16.04.26. 23:35, kolodvor VARAŽDIN"
   }
 ]
