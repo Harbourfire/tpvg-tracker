@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-13T03:42:00",
-    "seen_at": "2026-04-13T01:45:55.605Z",
-    "raw": "Br. Vlaka 69006 formiran     13.04.26. 03:42, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-13T03:42:00",
-    "seen_at": "2026-04-13T01:45:55.605Z",
-    "raw": "Br. Vlaka 69006 formiran     13.04.26. 03:42, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "89401",
-    "event_time": "2026-04-13T03:33:00",
-    "seen_at": "2026-04-13T01:46:43.729Z",
-    "raw": "Br. Vlaka 89401 odlazak      13.04.26. 03:33, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89401",
-    "event_time": "2026-04-13T03:46:00",
-    "seen_at": "2026-04-13T01:47:10.379Z",
-    "raw": "Br. Vlaka 89401 dolazak      13.04.26. 03:46, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89401",
-    "event_time": "2026-04-13T03:46:00",
-    "seen_at": "2026-04-13T01:47:34.338Z",
-    "raw": "Br. Vlaka 89401 promjena sas 13.04.26. 03:46, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89401",
-    "event_time": "2026-04-13T03:46:00",
-    "seen_at": "2026-04-13T01:47:34.339Z",
-    "raw": "Br. Vlaka 89401 promjena sas 13.04.26. 03:46, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89148",
-    "event_time": "2026-04-13T03:48:00",
-    "seen_at": "2026-04-13T01:51:57.812Z",
-    "raw": "Br. Vlaka 89148 odlazak      13.04.26. 03:48, kolodvor 72303"
-  },
-  {
     "uic": "927820620247",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -14353,5 +14290,59 @@
     "event_time": "2026-04-16T03:44:00",
     "seen_at": "2026-04-16T01:45:30.691Z",
     "raw": "Br. Vlaka 63306 odlazak      16.04.26. 03:44, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-16T03:41:00",
+    "seen_at": "2026-04-16T01:46:31.932Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZABOK",
+    "train_number": "81960",
+    "event_time": "2026-04-16T03:48:00",
+    "seen_at": "2026-04-16T01:49:02.607Z",
+    "raw": "Br. Vlaka 81960 formiran     16.04.26. 03:48, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89929",
+    "event_time": "2026-04-16T03:48:00",
+    "seen_at": "2026-04-16T01:49:27.832Z",
+    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 03:48, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-16T03:53:00",
+    "seen_at": "2026-04-16T01:54:28.007Z",
+    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 03:53, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-16T03:53:00",
+    "seen_at": "2026-04-16T01:54:28.007Z",
+    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 03:53, kolodvor BLATA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "69326",
+    "event_time": "2026-04-16T03:55:00",
+    "seen_at": "2026-04-16T01:55:42.918Z",
+    "raw": "Br. Vlaka 69326 odlazak      16.04.26. 03:55, kolodvor STARO PETROVO SELO"
   }
 ]
