@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44788",
-    "event_time": "2026-04-13T14:04:00",
-    "seen_at": "2026-04-13T12:05:51.865Z",
-    "raw": "Br. Vlaka 44788 odlazak      13.04.26. 14:04, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49999",
-    "event_time": "2026-04-13T14:09:00",
-    "seen_at": "2026-04-13T12:09:52.780Z",
-    "raw": "Br. Vlaka 49999 odlazak      13.04.26. 14:09, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44788",
-    "event_time": "2026-04-13T14:10:00",
-    "seen_at": "2026-04-13T12:10:41.021Z",
-    "raw": "Br. Vlaka 44788 odlazak      13.04.26. 14:10, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45940",
-    "event_time": "2026-04-13T14:10:00",
-    "seen_at": "2026-04-13T12:11:52.889Z",
-    "raw": "Br. Vlaka 45940 odlazak      13.04.26. 14:10, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -13570,5 +13534,59 @@
     "event_time": "2026-04-16T14:04:00",
     "seen_at": "2026-04-16T12:04:55.356Z",
     "raw": "Br. Vlaka 76504 dolazak      16.04.26. 14:04, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "81957",
+    "event_time": "2026-04-16T14:04:00",
+    "seen_at": "2026-04-16T12:05:34.832Z",
+    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:04, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-16T14:04:00",
+    "seen_at": "2026-04-16T12:05:34.833Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "81957",
+    "event_time": "2026-04-16T14:08:00",
+    "seen_at": "2026-04-16T12:09:24.543Z",
+    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:08, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45981",
+    "event_time": "2026-04-16T14:00:00",
+    "seen_at": "2026-04-16T12:10:33.427Z",
+    "raw": "Br. Vlaka 45981 odlazak      16.04.26. 14:00, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82515",
+    "event_time": "2026-04-16T14:13:00",
+    "seen_at": "2026-04-16T12:14:22.937Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 14:13, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82515",
+    "event_time": "2026-04-16T14:13:00",
+    "seen_at": "2026-04-16T12:14:22.937Z",
+    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 14:13, kolodvor PERUŠIĆ"
   }
 ]
