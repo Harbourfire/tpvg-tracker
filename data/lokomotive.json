@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47565",
-    "event_time": "2026-04-13T09:21:00",
-    "seen_at": "2026-04-13T18:29:54.104Z",
-    "raw": "Br. Vlaka 47565 formiran     13.04.26. 09:21, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-13T15:04:00",
-    "seen_at": "2026-04-13T18:30:18.109Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "69771",
-    "event_time": "2026-04-13T20:27:00",
-    "seen_at": "2026-04-13T18:30:18.109Z",
-    "raw": "Br. Vlaka 69771 odlazak      13.04.26. 20:27, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47565",
-    "event_time": "2026-04-13T09:21:00",
-    "seen_at": "2026-04-13T18:30:18.110Z",
-    "raw": "Br. Vlaka 47565 formiran     13.04.26. 09:21, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "45780",
-    "event_time": "2026-04-13T20:26:00",
-    "seen_at": "2026-04-13T18:30:41.836Z",
-    "raw": "Br. Vlaka 45780 formiran     13.04.26. 20:26, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "987821323118",
     "type": "Rasformiran",
     "station": "OKUČANI",
@@ -13966,5 +13921,77 @@
     "event_time": "2026-04-16T20:25:00",
     "seen_at": "2026-04-16T18:29:23.392Z",
     "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:25, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "LUKA",
+    "train_number": "44997",
+    "event_time": "2026-04-16T20:27:00",
+    "seen_at": "2026-04-16T18:34:13.573Z",
+    "raw": "Br. Vlaka 44997 dolazak      16.04.26. 20:27, kolodvor LUKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81106",
+    "event_time": "2026-04-16T20:33:00",
+    "seen_at": "2026-04-16T18:34:13.574Z",
+    "raw": "Br. Vlaka 81106 dolazak      16.04.26. 20:33, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "LUKA",
+    "train_number": null,
+    "event_time": "2026-04-16T20:27:00",
+    "seen_at": "2026-04-16T18:34:36.260Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "48581",
+    "event_time": "2026-04-16T20:33:00",
+    "seen_at": "2026-04-16T18:34:36.260Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:33, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "48581",
+    "event_time": "2026-04-16T20:33:00",
+    "seen_at": "2026-04-16T18:34:36.261Z",
+    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:33, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "LUKA",
+    "train_number": "89127",
+    "event_time": "2026-04-16T20:11:00",
+    "seen_at": "2026-04-16T18:36:09.135Z",
+    "raw": "Br. Vlaka 89127 formiran     16.04.26. 20:11, kolodvor LUKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "81951",
+    "event_time": "2026-04-16T20:32:00",
+    "seen_at": "2026-04-16T18:36:32.037Z",
+    "raw": "Br. Vlaka 81951 dolazak      16.04.26. 20:32, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89764",
+    "event_time": "2026-04-16T20:37:00",
+    "seen_at": "2026-04-16T18:38:25.905Z",
+    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:37, kolodvor SLAVONSKI BROD"
   }
 ]
