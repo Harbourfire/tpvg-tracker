@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74101",
-    "event_time": "2026-04-13T08:10:00",
-    "seen_at": "2026-04-13T06:24:28.471Z",
-    "raw": "Br. Vlaka 74101 odlazak      13.04.26. 08:10, kolodvor SPAČVA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-04-13T08:10:00",
-    "seen_at": "2026-04-13T06:24:52.696Z",
-    "raw": "Br. Vlaka 74101 odlazak      13.04.26. 08:10, kolodvor OTOK"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74101",
-    "event_time": "2026-04-13T08:23:00",
-    "seen_at": "2026-04-13T06:25:16.703Z",
-    "raw": "Br. Vlaka 74101 odlazak      13.04.26. 08:23, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "49826",
-    "event_time": "2026-04-13T08:27:00",
-    "seen_at": "2026-04-13T06:30:08.110Z",
-    "raw": "Br. Vlaka 49826 odlazak      13.04.26. 08:27, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "ROČ",
@@ -14074,5 +14038,50 @@
     "event_time": "2026-04-16T08:16:00",
     "seen_at": "2026-04-16T06:16:52.189Z",
     "raw": "Br. Vlaka 76505 formiran     16.04.26. 08:16, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44787",
+    "event_time": "2026-04-16T08:22:00",
+    "seen_at": "2026-04-16T06:26:21.079Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:22, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44787",
+    "event_time": "2026-04-16T08:22:00",
+    "seen_at": "2026-04-16T06:26:21.081Z",
+    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:22, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-16T06:28:01.202Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:10:00",
+    "seen_at": "2026-04-16T06:28:25.862Z",
+    "raw": "Br. Vlaka 89723 formiran     16.04.26. 08:10, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89723",
+    "event_time": "2026-04-16T08:24:00",
+    "seen_at": "2026-04-16T06:30:53.759Z",
+    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:24, kolodvor ZAGREB ZAP. KOL."
   }
 ]
