@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "69352",
-    "event_time": "2026-04-13T16:44:00",
-    "seen_at": "2026-04-13T14:45:38.074Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:44, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "69352",
-    "event_time": "2026-04-13T16:50:00",
-    "seen_at": "2026-04-13T14:50:30.014Z",
-    "raw": "Br. Vlaka 69352 odlazak      13.04.26. 16:50, kolodvor GARČIN"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -13489,5 +13471,32 @@
     "event_time": "2026-04-16T16:36:00",
     "seen_at": "2026-04-16T14:40:42.158Z",
     "raw": "Br. Vlaka 48581 promjena sas 16.04.26. 16:36, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-16T16:45:00",
+    "seen_at": "2026-04-16T14:47:25.022Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:45, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-16T16:45:00",
+    "seen_at": "2026-04-16T14:47:25.022Z",
+    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:45, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "43996",
+    "event_time": "2026-04-16T16:49:00",
+    "seen_at": "2026-04-16T14:50:27.510Z",
+    "raw": "Br. Vlaka 43996 dolazak      16.04.26. 16:49, kolodvor ČAKOVEC"
   }
 ]
