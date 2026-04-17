@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-14T23:06:00",
-    "seen_at": "2026-04-14T21:07:41.757Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:06, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-14T23:06:00",
-    "seen_at": "2026-04-14T21:07:41.757Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:06, kolodvor BLATA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89920",
-    "event_time": "2026-04-14T23:07:00",
-    "seen_at": "2026-04-14T21:08:29.101Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:07, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-14T23:00:00",
-    "seen_at": "2026-04-14T21:09:51.800Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "44994",
-    "event_time": "2026-04-14T23:10:00",
-    "seen_at": "2026-04-14T21:11:04.650Z",
-    "raw": "Br. Vlaka 44994 odlazak      14.04.26. 23:10, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -16009,5 +15964,59 @@
     "event_time": "2026-04-17T23:03:00",
     "seen_at": "2026-04-17T21:04:59.461Z",
     "raw": "Br. Vlaka 83810 dolazak      17.04.26. 23:03, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LOKVE",
+    "train_number": "81966",
+    "event_time": "2026-04-17T23:05:00",
+    "seen_at": "2026-04-17T21:07:09.902Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 23:05, kolodvor LOKVE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "81972",
+    "event_time": "2026-04-17T23:04:00",
+    "seen_at": "2026-04-17T21:07:33.495Z",
+    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 23:04, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "83804",
+    "event_time": "2026-04-17T23:07:00",
+    "seen_at": "2026-04-17T21:07:56.592Z",
+    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 23:07, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44788",
+    "event_time": "2026-04-17T23:08:00",
+    "seen_at": "2026-04-17T21:08:42.203Z",
+    "raw": "Br. Vlaka 44788 odlazak      17.04.26. 23:08, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "81972",
+    "event_time": "2026-04-17T23:13:00",
+    "seen_at": "2026-04-17T21:14:03.432Z",
+    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 23:13, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "83804",
+    "event_time": "2026-04-17T23:15:00",
+    "seen_at": "2026-04-17T21:15:34.941Z",
+    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 23:15, kolodvor BUDINŠĆINA"
   }
 ]
