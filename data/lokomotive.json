@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-04-14T17:13:00",
-    "seen_at": "2026-04-14T15:14:33.531Z",
-    "raw": "Br. Vlaka 63310 dolazak      14.04.26. 17:13, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-14T17:13:00",
-    "seen_at": "2026-04-14T15:14:58.585Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89925",
-    "event_time": "2026-04-14T17:17:00",
-    "seen_at": "2026-04-14T15:18:16.581Z",
-    "raw": "Br. Vlaka 89925 odlazak      14.04.26. 17:17, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -15235,5 +15208,77 @@
     "event_time": "2026-04-17T17:06:00",
     "seen_at": "2026-04-17T15:10:01.346Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 17:06, kolodvor KNIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89726",
+    "event_time": "2026-04-17T17:10:00",
+    "seen_at": "2026-04-17T15:10:39.223Z",
+    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 17:10, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "48588",
+    "event_time": "2026-04-17T17:10:00",
+    "seen_at": "2026-04-17T15:11:24.952Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:10, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44789",
+    "event_time": "2026-04-17T17:10:00",
+    "seen_at": "2026-04-17T15:11:24.952Z",
+    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 17:10, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "48588",
+    "event_time": "2026-04-17T17:10:00",
+    "seen_at": "2026-04-17T15:11:24.953Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:10, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44789",
+    "event_time": "2026-04-17T17:10:00",
+    "seen_at": "2026-04-17T15:11:24.953Z",
+    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 17:10, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-16T16:04:00",
+    "seen_at": "2026-04-17T15:13:42.799Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-16T16:04:00",
+    "seen_at": "2026-04-17T15:13:42.800Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-17T17:16:00",
+    "seen_at": "2026-04-17T15:17:52.474Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
