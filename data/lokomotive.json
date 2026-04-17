@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "44994",
-    "event_time": "2026-04-14T22:15:00",
-    "seen_at": "2026-04-14T20:30:22.497Z",
-    "raw": "Br. Vlaka 44994 dolazak      14.04.26. 22:15, kolodvor 72304"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-14T22:28:00",
-    "seen_at": "2026-04-14T20:30:22.497Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89103",
-    "event_time": "2026-04-14T22:28:00",
-    "seen_at": "2026-04-14T20:30:22.498Z",
-    "raw": "Br. Vlaka 89103 odlazak      14.04.26. 22:28, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-14T22:30:00",
-    "seen_at": "2026-04-14T20:32:00.121Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 22:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-14T22:30:00",
-    "seen_at": "2026-04-14T20:32:00.121Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 22:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "89753",
-    "event_time": "2026-04-14T17:47:00",
-    "seen_at": "2026-04-14T20:35:12.545Z",
-    "raw": "Br. Vlaka 89753 formiran     14.04.26. 17:47, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "61037",
-    "event_time": "2026-04-14T18:24:00",
-    "seen_at": "2026-04-14T20:37:38.545Z",
-    "raw": "Br. Vlaka 61037 promjena sas 14.04.26. 18:24, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -16027,5 +15964,50 @@
     "event_time": "2026-04-17T22:25:00",
     "seen_at": "2026-04-17T20:27:04.335Z",
     "raw": "Br. Vlaka 81972 odlazak      17.04.26. 22:25, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "83804",
+    "event_time": "2026-04-17T22:29:00",
+    "seen_at": "2026-04-17T20:30:17.677Z",
+    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 22:29, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "83810",
+    "event_time": "2026-04-17T22:31:00",
+    "seen_at": "2026-04-17T20:34:05.222Z",
+    "raw": "Br. Vlaka 83810 odlazak      17.04.26. 22:31, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44788",
+    "event_time": "2026-04-17T22:34:00",
+    "seen_at": "2026-04-17T20:34:27.941Z",
+    "raw": "Br. Vlaka 44788 odlazak      17.04.26. 22:34, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SKRAD",
+    "train_number": "81966",
+    "event_time": "2026-04-17T22:35:00",
+    "seen_at": "2026-04-17T20:35:58.314Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 22:35, kolodvor SKRAD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "83804",
+    "event_time": "2026-04-17T22:35:00",
+    "seen_at": "2026-04-17T20:37:06.722Z",
+    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 22:35, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
