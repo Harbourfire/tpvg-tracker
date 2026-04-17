@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89755",
-    "event_time": "2026-04-14T14:40:00",
-    "seen_at": "2026-04-14T12:41:19.709Z",
-    "raw": "Br. Vlaka 89755 formiran     14.04.26. 14:40, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-14T15:13:00",
-    "seen_at": "2026-04-14T12:48:47.075Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "RUDOPOLJE",
@@ -15199,5 +15181,32 @@
     "event_time": "2026-04-17T14:32:00",
     "seen_at": "2026-04-17T12:32:32.152Z",
     "raw": "Br. Vlaka 63310 formiran     17.04.26. 14:32, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "DUGA RESA",
+    "train_number": "89749",
+    "event_time": "2026-04-17T14:35:00",
+    "seen_at": "2026-04-17T12:41:12.158Z",
+    "raw": "Br. Vlaka 89749 dolazak      17.04.26. 14:35, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "61201",
+    "event_time": "2026-04-17T14:43:00",
+    "seen_at": "2026-04-17T12:43:54.955Z",
+    "raw": "Br. Vlaka 61201 odlazak      17.04.26. 14:43, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "45980",
+    "event_time": "2026-04-17T14:46:00",
+    "seen_at": "2026-04-17T12:48:14.957Z",
+    "raw": "Br. Vlaka 45980 odlazak      17.04.26. 14:46, kolodvor DARDA"
   }
 ]
