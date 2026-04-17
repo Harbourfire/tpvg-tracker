@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-14T07:00:00",
-    "seen_at": "2026-04-14T05:06:47.653Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-14T07:00:00",
-    "seen_at": "2026-04-14T05:06:47.653Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69326",
-    "event_time": "2026-04-14T06:57:00",
-    "seen_at": "2026-04-14T05:07:11.338Z",
-    "raw": "Br. Vlaka 69326 odlazak      14.04.26. 06:57, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "47428",
-    "event_time": "2026-04-14T04:00:00",
-    "seen_at": "2026-04-14T05:07:35.220Z",
-    "raw": "Br. Vlaka 47428 formiran     14.04.26. 04:00, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69326",
-    "event_time": "2026-04-14T07:07:00",
-    "seen_at": "2026-04-14T05:09:57.967Z",
-    "raw": "Br. Vlaka 69326 dolazak      14.04.26. 07:07, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-14T07:07:00",
-    "seen_at": "2026-04-14T05:10:21.990Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-14T07:15:00",
-    "seen_at": "2026-04-14T05:15:24.889Z",
-    "raw": "Br. Vlaka 66853 odlazak      14.04.26. 07:15, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -14848,5 +14785,50 @@
     "event_time": "2026-04-17T07:06:00",
     "seen_at": "2026-04-17T05:06:34.922Z",
     "raw": "Br. Vlaka 89199 formiran     17.04.26. 07:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76500",
+    "event_time": "2026-04-17T07:07:00",
+    "seen_at": "2026-04-17T05:07:55.210Z",
+    "raw": "Br. Vlaka 76500 odlazak      17.04.26. 07:07, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "43994",
+    "event_time": "2026-04-17T07:09:00",
+    "seen_at": "2026-04-17T05:09:48.792Z",
+    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:09, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "71206",
+    "event_time": "2026-04-17T07:09:00",
+    "seen_at": "2026-04-17T05:10:34.179Z",
+    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 07:09, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89199",
+    "event_time": "2026-04-17T07:11:00",
+    "seen_at": "2026-04-17T05:12:49.175Z",
+    "raw": "Br. Vlaka 89199 odlazak      17.04.26. 07:11, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82119",
+    "event_time": "2026-04-16T12:22:00",
+    "seen_at": "2026-04-17T05:14:20.489Z",
+    "raw": "Br. Vlaka 82119 promjena sas 16.04.26. 12:22, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
