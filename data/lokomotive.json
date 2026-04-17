@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "45581",
-    "event_time": "2026-04-14T17:21:00",
-    "seen_at": "2026-04-14T15:24:35.483Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 17:21, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-13T15:04:00",
-    "seen_at": "2026-04-14T15:27:23.796Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-13T15:04:00",
-    "seen_at": "2026-04-14T15:27:23.797Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
     "uic": "927820620197",
     "type": "Rasformiran",
     "station": "44998",
@@ -15280,5 +15253,50 @@
     "event_time": "2026-04-17T17:16:00",
     "seen_at": "2026-04-17T15:17:52.474Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "48588",
+    "event_time": "2026-04-17T17:19:00",
+    "seen_at": "2026-04-17T15:20:01.484Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:19, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "48588",
+    "event_time": "2026-04-17T17:19:00",
+    "seen_at": "2026-04-17T15:20:01.486Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:19, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-17T17:18:00",
+    "seen_at": "2026-04-17T15:21:35.343Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 17:18, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "81966",
+    "event_time": "2026-04-17T14:08:00",
+    "seen_at": "2026-04-17T15:26:52.911Z",
+    "raw": "Br. Vlaka 81966 formiran     17.04.26. 14:08, kolodvor KNIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "KNIN",
+    "train_number": null,
+    "event_time": "2026-04-17T16:00:00",
+    "seen_at": "2026-04-17T15:27:15.401Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
   }
 ]
