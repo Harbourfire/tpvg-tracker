@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63312",
-    "event_time": "2026-04-14T15:18:00",
-    "seen_at": "2026-04-14T13:18:22.051Z",
-    "raw": "Br. Vlaka 63312 dolazak      14.04.26. 15:18, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-14T15:18:00",
-    "seen_at": "2026-04-14T13:18:46.235Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-14T14:46:00",
-    "seen_at": "2026-04-14T13:19:10.334Z",
-    "raw": "Br. Vlaka 63310 promjena sas 14.04.26. 14:46, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -15235,5 +15208,23 @@
     "event_time": "2026-04-17T15:10:00",
     "seen_at": "2026-04-17T13:15:32.011Z",
     "raw": "Br. Vlaka 48588 dolazak      17.04.26. 15:10, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-17T15:18:00",
+    "seen_at": "2026-04-17T13:18:46.097Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "89749",
+    "event_time": "2026-04-17T15:23:00",
+    "seen_at": "2026-04-17T13:23:40.526Z",
+    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 15:23, kolodvor DUGA RESA"
   }
 ]
