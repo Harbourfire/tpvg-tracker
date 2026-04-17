@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49997",
-    "event_time": "2026-04-14T14:29:00",
-    "seen_at": "2026-04-14T12:35:08.364Z",
-    "raw": "Br. Vlaka 49997 dolazak      14.04.26. 14:29, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-14T14:34:00",
-    "seen_at": "2026-04-14T12:36:34.859Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 14:34, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "ZAGREB RESNIK",
@@ -15208,5 +15190,14 @@
     "event_time": "2026-04-17T14:28:00",
     "seen_at": "2026-04-17T12:29:19.226Z",
     "raw": "Br. Vlaka 61201 formiran     17.04.26. 14:28, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-17T14:32:00",
+    "seen_at": "2026-04-17T12:32:32.152Z",
+    "raw": "Br. Vlaka 63310 formiran     17.04.26. 14:32, kolodvor GOSPIĆ"
   }
 ]
