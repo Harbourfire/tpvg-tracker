@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81231",
-    "event_time": "2026-04-14T10:05:00",
-    "seen_at": "2026-04-14T08:08:14.752Z",
-    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:05, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "82300",
-    "event_time": "2026-04-14T10:10:00",
-    "seen_at": "2026-04-14T08:11:01.770Z",
-    "raw": "Br. Vlaka 82300 formiran     14.04.26. 10:10, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "45941",
-    "event_time": "2026-04-14T08:41:00",
-    "seen_at": "2026-04-14T08:12:52.673Z",
-    "raw": "Br. Vlaka 45941 formiran     14.04.26. 08:41, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44996",
-    "event_time": "2026-04-14T10:12:00",
-    "seen_at": "2026-04-14T08:13:41.456Z",
-    "raw": "Br. Vlaka 44996 dolazak      14.04.26. 10:12, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81231",
-    "event_time": "2026-04-14T10:11:00",
-    "seen_at": "2026-04-14T08:15:43.165Z",
-    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:11, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -14848,5 +14803,86 @@
     "event_time": "2026-04-17T09:56:00",
     "seen_at": "2026-04-17T07:56:55.226Z",
     "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:56, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89925",
+    "event_time": "2026-04-17T10:02:00",
+    "seen_at": "2026-04-17T08:08:16.511Z",
+    "raw": "Br. Vlaka 89925 odlazak      17.04.26. 10:02, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-17T10:05:00",
+    "seen_at": "2026-04-17T08:08:16.514Z",
+    "raw": "Br. Vlaka 71203 odlazak      17.04.26. 10:05, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "KOTORIBA",
+    "train_number": null,
+    "event_time": "2026-04-17T10:06:00",
+    "seen_at": "2026-04-17T08:08:39.384Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NAŠICE",
+    "train_number": "48588",
+    "event_time": "2026-04-17T10:08:00",
+    "seen_at": "2026-04-17T08:09:02.401Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 10:08, kolodvor NAŠICE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69350",
+    "event_time": "2026-04-17T10:08:00",
+    "seen_at": "2026-04-17T08:09:02.401Z",
+    "raw": "Br. Vlaka 69350 odlazak      17.04.26. 10:08, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "NAŠICE",
+    "train_number": "48588",
+    "event_time": "2026-04-17T10:08:00",
+    "seen_at": "2026-04-17T08:09:02.402Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 10:08, kolodvor NAŠICE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-17T10:13:00",
+    "seen_at": "2026-04-17T08:14:43.863Z",
+    "raw": "Br. Vlaka 71203 odlazak      17.04.26. 10:13, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44996",
+    "event_time": "2026-04-17T10:16:00",
+    "seen_at": "2026-04-17T08:17:00.141Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 10:16, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44996",
+    "event_time": "2026-04-17T10:16:00",
+    "seen_at": "2026-04-17T08:17:00.142Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 10:16, kolodvor TURČIN"
   }
 ]
