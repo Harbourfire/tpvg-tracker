@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-14T02:00:00",
-    "seen_at": "2026-04-14T04:10:31.599Z",
-    "raw": "Br. Vlaka 69005 formiran     14.04.26. 02:00, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44996",
-    "event_time": "2026-04-14T06:10:00",
-    "seen_at": "2026-04-14T04:12:07.121Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 06:10, kolodvor TURČIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -14776,5 +14758,59 @@
     "event_time": "2026-04-17T06:01:00",
     "seen_at": "2026-04-17T04:05:43.574Z",
     "raw": "Br. Vlaka 81962 odlazak      17.04.26. 06:01, kolodvor KAŠTEL STARI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "48581",
+    "event_time": "2026-04-17T06:10:00",
+    "seen_at": "2026-04-17T04:15:22.011Z",
+    "raw": "Br. Vlaka 48581 dolazak      17.04.26. 06:10, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "48581",
+    "event_time": "2026-04-17T06:10:00",
+    "seen_at": "2026-04-17T04:15:22.013Z",
+    "raw": "Br. Vlaka 48581 dolazak      17.04.26. 06:10, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-17T06:10:00",
+    "seen_at": "2026-04-17T04:15:44.519Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-17T06:10:00",
+    "seen_at": "2026-04-17T04:15:44.520Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-04-16T20:47:00",
+    "seen_at": "2026-04-17T04:17:40.601Z",
+    "raw": "Br. Vlaka 48588 formiran     16.04.26. 20:47, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-04-16T20:47:00",
+    "seen_at": "2026-04-17T04:18:03.442Z",
+    "raw": "Br. Vlaka 48588 formiran     16.04.26. 20:47, kolodvor ČAČINCI"
   }
 ]
