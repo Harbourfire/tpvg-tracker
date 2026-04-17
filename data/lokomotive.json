@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82331",
-    "event_time": "2026-04-14T06:34:00",
-    "seen_at": "2026-04-14T05:34:44.290Z",
-    "raw": "Br. Vlaka 82331 formiran     14.04.26. 06:34, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82331",
-    "event_time": "2026-04-14T07:35:00",
-    "seen_at": "2026-04-14T05:37:10.743Z",
-    "raw": "Br. Vlaka 82331 odlazak      14.04.26. 07:35, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "47428",
-    "event_time": "2026-04-14T07:34:00",
-    "seen_at": "2026-04-14T05:37:59.202Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 07:34, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "47428",
-    "event_time": "2026-04-14T07:41:00",
-    "seen_at": "2026-04-14T05:42:03.704Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 07:41, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-14T07:12:00",
-    "seen_at": "2026-04-14T05:43:52.469Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "OTOK",
@@ -14884,5 +14839,59 @@
     "event_time": "2026-04-17T07:33:00",
     "seen_at": "2026-04-17T05:34:36.956Z",
     "raw": "Br. Vlaka 44996 odlazak      17.04.26. 07:33, kolodvor ZABOK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-17T07:36:00",
+    "seen_at": "2026-04-17T05:37:05.879Z",
+    "raw": "Br. Vlaka 71202 odlazak      17.04.26. 07:36, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "PERKOVIĆ",
+    "train_number": null,
+    "event_time": "2026-04-17T06:50:00",
+    "seen_at": "2026-04-17T05:38:37.079Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76412 PERKOVIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-17T07:38:00",
+    "seen_at": "2026-04-17T05:38:59.826Z",
+    "raw": "Br. Vlaka 66853 odlazak      17.04.26. 07:38, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "PERKOVIĆ",
+    "train_number": "81963",
+    "event_time": "2026-04-17T05:41:00",
+    "seen_at": "2026-04-17T05:38:59.827Z",
+    "raw": "Br. Vlaka 81963 formiran     17.04.26. 05:41, kolodvor PERKOVIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "43994",
+    "event_time": "2026-04-17T07:39:00",
+    "seen_at": "2026-04-17T05:39:22.991Z",
+    "raw": "Br. Vlaka 43994 dolazak      17.04.26. 07:39, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PERKOVIĆ",
+    "train_number": "81963",
+    "event_time": "2026-04-17T07:35:00",
+    "seen_at": "2026-04-17T05:39:22.992Z",
+    "raw": "Br. Vlaka 81963 odlazak      17.04.26. 07:35, kolodvor PERKOVIĆ"
   }
 ]
