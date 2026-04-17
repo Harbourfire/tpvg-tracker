@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "ERDUT",
-    "train_number": "49826",
-    "event_time": "2026-04-14T09:01:00",
-    "seen_at": "2026-04-14T07:01:41.565Z",
-    "raw": "Br. Vlaka 49826 dolazak      14.04.26. 09:01, kolodvor ERDUT"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82331",
-    "event_time": "2026-04-14T09:00:00",
-    "seen_at": "2026-04-14T07:01:41.566Z",
-    "raw": "Br. Vlaka 82331 odlazak      14.04.26. 09:00, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "47428",
-    "event_time": "2026-04-14T09:05:00",
-    "seen_at": "2026-04-14T07:06:41.100Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 09:05, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-14T09:10:00",
-    "seen_at": "2026-04-14T07:11:05.914Z",
-    "raw": "Br. Vlaka 69750 odlazak      14.04.26. 09:10, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -14911,5 +14875,50 @@
     "event_time": "2026-04-17T08:59:00",
     "seen_at": "2026-04-17T06:59:51.737Z",
     "raw": "Br. Vlaka 82119 odlazak      17.04.26. 08:59, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45696",
+    "event_time": "2026-04-17T08:53:00",
+    "seen_at": "2026-04-17T07:03:50.070Z",
+    "raw": "Br. Vlaka 45696 dolazak      17.04.26. 08:53, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-17T10:00:00",
+    "seen_at": "2026-04-17T07:08:06.679Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T09:08:00",
+    "seen_at": "2026-04-17T07:08:29.715Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:08, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T09:08:00",
+    "seen_at": "2026-04-17T07:08:29.716Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:08, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82119",
+    "event_time": "2026-04-17T09:09:00",
+    "seen_at": "2026-04-17T07:09:39.093Z",
+    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 09:09, kolodvor POŽEGA"
   }
 ]
