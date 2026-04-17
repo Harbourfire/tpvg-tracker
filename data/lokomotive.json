@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T03:12:00",
-    "seen_at": "2026-04-14T01:13:19.554Z",
-    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 03:12, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T03:12:00",
-    "seen_at": "2026-04-14T01:13:19.555Z",
-    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 03:12, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "987891213462",
     "type": "Formiran",
     "station": "OTOK",
@@ -14434,5 +14416,50 @@
     "event_time": "2026-04-17T02:57:00",
     "seen_at": "2026-04-17T01:00:08.228Z",
     "raw": "Br. Vlaka 81101 odlazak      17.04.26. 02:57, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-17T03:05:00",
+    "seen_at": "2026-04-17T01:06:09.625Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "48581",
+    "event_time": "2026-04-17T02:28:00",
+    "seen_at": "2026-04-17T01:06:09.625Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 02:28, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "48581",
+    "event_time": "2026-04-17T02:28:00",
+    "seen_at": "2026-04-17T01:06:09.626Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 02:28, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "48581",
+    "event_time": "2026-04-17T02:55:00",
+    "seen_at": "2026-04-17T01:06:32.946Z",
+    "raw": "Br. Vlaka 48581 dolazak      17.04.26. 02:55, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "48581",
+    "event_time": "2026-04-17T02:55:00",
+    "seen_at": "2026-04-17T01:06:32.947Z",
+    "raw": "Br. Vlaka 48581 dolazak      17.04.26. 02:55, kolodvor OSIJEK"
   }
 ]
