@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-14T14:07:00",
-    "seen_at": "2026-04-14T12:08:04.504Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 14:07, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820621104",
     "type": "Dolazak",
     "station": "NOVA GRADIŠKA",
@@ -15109,5 +15100,50 @@
     "event_time": "2026-04-17T14:00:00",
     "seen_at": "2026-04-17T12:00:26.675Z",
     "raw": "Br. Vlaka 76501 odlazak      17.04.26. 14:00, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T14:02:00",
+    "seen_at": "2026-04-17T12:03:16.382Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 14:02, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89747",
+    "event_time": "2026-04-17T14:04:00",
+    "seen_at": "2026-04-17T12:04:30.866Z",
+    "raw": "Br. Vlaka 89747 odlazak      17.04.26. 14:04, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "89749",
+    "event_time": "2026-04-17T14:04:00",
+    "seen_at": "2026-04-17T12:05:39.240Z",
+    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 14:04, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "81966",
+    "event_time": "2026-04-17T14:08:00",
+    "seen_at": "2026-04-17T12:09:06.303Z",
+    "raw": "Br. Vlaka 81966 formiran     17.04.26. 14:08, kolodvor KNIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "45980",
+    "event_time": "2026-04-17T14:00:00",
+    "seen_at": "2026-04-17T12:11:00.480Z",
+    "raw": "Br. Vlaka 45980 odlazak      17.04.26. 14:00, kolodvor OSIJEK"
   }
 ]
