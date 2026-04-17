@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "VRHOVINE",
-    "train_number": null,
-    "event_time": "2026-04-14T14:59:00",
-    "seen_at": "2026-04-14T13:01:50.323Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-04-14T11:42:00",
-    "seen_at": "2026-04-14T13:02:13.993Z",
-    "raw": "Br. Vlaka 63312 formiran     14.04.26. 11:42, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "49997",
-    "event_time": "2026-04-14T15:05:00",
-    "seen_at": "2026-04-14T13:08:02.813Z",
-    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:05, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "49997",
-    "event_time": "2026-04-14T15:05:00",
-    "seen_at": "2026-04-14T13:08:02.814Z",
-    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:05, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-04-14T15:07:00",
-    "seen_at": "2026-04-14T13:08:02.815Z",
-    "raw": "Br. Vlaka 63312 odlazak      14.04.26. 15:07, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -15199,5 +15154,41 @@
     "event_time": "2026-04-17T14:54:00",
     "seen_at": "2026-04-17T12:54:38.663Z",
     "raw": "Br. Vlaka 63310 odlazak      17.04.26. 14:54, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "48588",
+    "event_time": "2026-04-17T14:59:00",
+    "seen_at": "2026-04-17T13:00:44.127Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 14:59, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "48588",
+    "event_time": "2026-04-17T14:59:00",
+    "seen_at": "2026-04-17T13:00:44.128Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 14:59, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "83809",
+    "event_time": "2026-04-17T15:00:00",
+    "seen_at": "2026-04-17T13:02:39.663Z",
+    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:00, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "83809",
+    "event_time": "2026-04-17T15:00:00",
+    "seen_at": "2026-04-17T13:02:39.664Z",
+    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:00, kolodvor VARAŽDIN"
   }
 ]
