@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "MEDAK",
-    "train_number": "78000",
-    "event_time": "2026-04-14T12:52:00",
-    "seen_at": "2026-04-14T10:53:27.255Z",
-    "raw": "Br. Vlaka 78000 odlazak      14.04.26. 12:52, kolodvor MEDAK"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -14866,5 +14857,50 @@
     "event_time": "2026-04-17T12:32:00",
     "seen_at": "2026-04-17T10:46:38.424Z",
     "raw": "Br. Vlaka 44789 dolazak      17.04.26. 12:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "82330",
+    "event_time": "2026-04-17T12:51:00",
+    "seen_at": "2026-04-17T10:52:13.748Z",
+    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 12:51, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-17T12:32:00",
+    "seen_at": "2026-04-17T10:52:36.532Z",
+    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 12:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-17T12:32:00",
+    "seen_at": "2026-04-17T10:52:36.533Z",
+    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 12:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŽITNIĆ",
+    "train_number": "81965",
+    "event_time": "2026-04-17T12:53:00",
+    "seen_at": "2026-04-17T10:53:45.720Z",
+    "raw": "Br. Vlaka 81965 odlazak      17.04.26. 12:53, kolodvor ŽITNIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81231",
+    "event_time": "2026-04-17T12:52:00",
+    "seen_at": "2026-04-17T10:53:45.721Z",
+    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 12:52, kolodvor VRHOVINE"
   }
 ]
