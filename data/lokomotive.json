@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "45581",
-    "event_time": "2026-04-14T20:13:00",
-    "seen_at": "2026-04-14T18:13:51.007Z",
-    "raw": "Br. Vlaka 45581 dolazak      14.04.26. 20:13, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -15739,5 +15730,23 @@
     "event_time": "2026-04-17T20:04:00",
     "seen_at": "2026-04-17T18:04:55.174Z",
     "raw": "Br. Vlaka 82333 odlazak      17.04.26. 20:04, kolodvor LUDINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POPOVAČA",
+    "train_number": "82333",
+    "event_time": "2026-04-17T20:11:00",
+    "seen_at": "2026-04-17T18:12:42.665Z",
+    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 20:11, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-17T20:16:00",
+    "seen_at": "2026-04-17T18:16:29.215Z",
+    "raw": "Br. Vlaka 49999 dolazak      17.04.26. 20:16, kolodvor ZABOK"
   }
 ]
