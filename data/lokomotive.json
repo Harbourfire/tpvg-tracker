@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44788",
-    "event_time": "2026-04-14T09:52:00",
-    "seen_at": "2026-04-14T07:54:03.816Z",
-    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 09:52, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44996",
-    "event_time": "2026-04-14T09:53:00",
-    "seen_at": "2026-04-14T07:54:51.366Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 09:53, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -14848,5 +14830,50 @@
     "event_time": "2026-04-17T09:42:00",
     "seen_at": "2026-04-17T07:42:33.988Z",
     "raw": "Br. Vlaka 69350 formiran     17.04.26. 09:42, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "48588",
+    "event_time": "2026-04-17T09:51:00",
+    "seen_at": "2026-04-17T07:52:19.912Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:51, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "48588",
+    "event_time": "2026-04-17T09:51:00",
+    "seen_at": "2026-04-17T07:52:19.913Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:51, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69350",
+    "event_time": "2026-04-17T09:54:00",
+    "seen_at": "2026-04-17T07:54:38.492Z",
+    "raw": "Br. Vlaka 69350 odlazak      17.04.26. 09:54, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44996",
+    "event_time": "2026-04-17T09:56:00",
+    "seen_at": "2026-04-17T07:56:55.226Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:56, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44996",
+    "event_time": "2026-04-17T09:56:00",
+    "seen_at": "2026-04-17T07:56:55.226Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:56, kolodvor NOVI MAROF"
   }
 ]
