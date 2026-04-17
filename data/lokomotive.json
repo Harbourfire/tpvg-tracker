@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-14T11:49:00",
-    "seen_at": "2026-04-14T09:50:38.067Z",
-    "raw": "Br. Vlaka 45104 odlazak      14.04.26. 11:49, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-14T11:41:00",
-    "seen_at": "2026-04-14T09:51:25.809Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-14T10:12:00",
-    "seen_at": "2026-04-14T09:54:11.041Z",
-    "raw": "Br. Vlaka 69751 formiran     14.04.26. 10:12, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69751",
-    "event_time": "2026-04-14T11:50:00",
-    "seen_at": "2026-04-14T09:54:34.706Z",
-    "raw": "Br. Vlaka 69751 odlazak      14.04.26. 11:50, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81231",
-    "event_time": "2026-04-14T11:53:00",
-    "seen_at": "2026-04-14T09:54:34.707Z",
-    "raw": "Br. Vlaka 81231 dolazak      14.04.26. 11:53, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69851",
-    "event_time": "2026-04-14T11:57:00",
-    "seen_at": "2026-04-14T09:57:45.036Z",
-    "raw": "Br. Vlaka 69851 odlazak      14.04.26. 11:57, kolodvor DALJ"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "OSIJEK DONJI GRAD",
@@ -14848,5 +14794,68 @@
     "event_time": "2026-04-17T11:46:00",
     "seen_at": "2026-04-17T09:47:46.046Z",
     "raw": "Br. Vlaka 82330 odlazak      17.04.26. 11:46, kolodvor VELIKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81231",
+    "event_time": "2026-04-17T11:47:00",
+    "seen_at": "2026-04-17T09:50:56.966Z",
+    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 11:47, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "48588",
+    "event_time": "2026-04-17T11:40:00",
+    "seen_at": "2026-04-17T09:52:56.687Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 11:40, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "48588",
+    "event_time": "2026-04-17T11:40:00",
+    "seen_at": "2026-04-17T09:52:56.687Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 11:40, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-17T11:21:00",
+    "seen_at": "2026-04-17T09:53:19.259Z",
+    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 11:21, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-17T11:21:00",
+    "seen_at": "2026-04-17T09:53:19.260Z",
+    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 11:21, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "66481",
+    "event_time": "2026-04-17T11:53:00",
+    "seen_at": "2026-04-17T09:54:27.074Z",
+    "raw": "Br. Vlaka 66481 odlazak      17.04.26. 11:53, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-17T11:47:00",
+    "seen_at": "2026-04-17T09:58:11.451Z",
+    "raw": "Br. Vlaka 49999 dolazak      17.04.26. 11:47, kolodvor VARAŽDIN"
   }
 ]
