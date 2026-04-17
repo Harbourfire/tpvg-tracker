@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "75010",
-    "event_time": "2026-04-14T07:21:00",
-    "seen_at": "2026-04-14T05:26:04.104Z",
-    "raw": "Br. Vlaka 75010 odlazak      14.04.26. 07:21, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-14T06:57:00",
-    "seen_at": "2026-04-14T05:26:27.984Z",
-    "raw": "Br. Vlaka 69750 formiran     14.04.26. 06:57, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "75010",
-    "event_time": "2026-04-14T07:30:00",
-    "seen_at": "2026-04-14T05:30:26.917Z",
-    "raw": "Br. Vlaka 75010 odlazak      14.04.26. 07:30, kolodvor ZAGREB BORONGAJ"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -14830,5 +14803,86 @@
     "event_time": "2026-04-17T07:19:00",
     "seen_at": "2026-04-17T05:21:23.557Z",
     "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:19, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "71209",
+    "event_time": "2026-04-17T07:25:00",
+    "seen_at": "2026-04-17T05:25:50.592Z",
+    "raw": "Br. Vlaka 71209 odlazak      17.04.26. 07:25, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "43994",
+    "event_time": "2026-04-17T07:25:00",
+    "seen_at": "2026-04-17T05:26:13.773Z",
+    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:25, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Dolazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "71206",
+    "event_time": "2026-04-17T07:24:00",
+    "seen_at": "2026-04-17T05:26:59.241Z",
+    "raw": "Br. Vlaka 71206 dolazak      17.04.26. 07:24, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": null,
+    "event_time": "2026-04-17T07:24:00",
+    "seen_at": "2026-04-17T05:27:21.763Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82119",
+    "event_time": "2026-04-17T07:31:00",
+    "seen_at": "2026-04-17T05:31:57.085Z",
+    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 07:31, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": null,
+    "event_time": "2026-04-17T07:30:00",
+    "seen_at": "2026-04-17T05:32:42.435Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-17T07:34:00",
+    "seen_at": "2026-04-17T05:34:14.038Z",
+    "raw": "Br. Vlaka 66853 formiran     17.04.26. 07:34, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-17T07:33:00",
+    "seen_at": "2026-04-17T05:34:36.955Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 07:33, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-17T07:33:00",
+    "seen_at": "2026-04-17T05:34:36.956Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 07:33, kolodvor ZABOK"
   }
 ]
