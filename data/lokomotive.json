@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89920",
-    "event_time": "2026-04-14T23:23:00",
-    "seen_at": "2026-04-14T21:26:03.702Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:23, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89103",
-    "event_time": "2026-04-14T23:26:00",
-    "seen_at": "2026-04-14T21:26:27.500Z",
-    "raw": "Br. Vlaka 89103 dolazak      14.04.26. 23:26, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89754",
-    "event_time": "2026-04-14T23:25:00",
-    "seen_at": "2026-04-14T21:27:15.237Z",
-    "raw": "Br. Vlaka 89754 odlazak      14.04.26. 23:25, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89920",
-    "event_time": "2026-04-14T23:29:00",
-    "seen_at": "2026-04-14T21:29:51.121Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:29, kolodvor LUKA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-14T23:26:00",
-    "seen_at": "2026-04-14T21:29:51.121Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89920",
-    "event_time": "2026-04-14T23:34:00",
-    "seen_at": "2026-04-14T21:34:59.911Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:34, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -16000,5 +15946,68 @@
     "event_time": "2026-04-17T23:25:00",
     "seen_at": "2026-04-17T21:25:10.865Z",
     "raw": "Br. Vlaka 83810 odlazak      17.04.26. 23:25, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44788",
+    "event_time": "2026-04-17T23:29:00",
+    "seen_at": "2026-04-17T21:30:06.144Z",
+    "raw": "Br. Vlaka 44788 dolazak      17.04.26. 23:29, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-17T23:29:00",
+    "seen_at": "2026-04-17T21:30:29.204Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "83810",
+    "event_time": "2026-04-17T23:31:00",
+    "seen_at": "2026-04-17T21:31:15.786Z",
+    "raw": "Br. Vlaka 83810 odlazak      17.04.26. 23:31, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "81972",
+    "event_time": "2026-04-17T23:29:00",
+    "seen_at": "2026-04-17T21:31:15.786Z",
+    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 23:29, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T23:29:00",
+    "seen_at": "2026-04-17T21:31:38.948Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 23:29, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T23:29:00",
+    "seen_at": "2026-04-17T21:31:38.949Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 23:29, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "81966",
+    "event_time": "2026-04-17T23:32:00",
+    "seen_at": "2026-04-17T21:32:47.142Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 23:32, kolodvor DRIVENIK"
   }
 ]
