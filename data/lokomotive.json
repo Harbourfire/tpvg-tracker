@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-14T06:51:00",
-    "seen_at": "2026-04-14T04:52:19.736Z",
-    "raw": "Br. Vlaka 66853 formiran     14.04.26. 06:51, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-04-14T06:50:00",
-    "seen_at": "2026-04-14T04:53:56.700Z",
-    "raw": "Br. Vlaka 74101 odlazak      14.04.26. 06:50, kolodvor OTOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-14T06:55:00",
-    "seen_at": "2026-04-14T04:55:20.024Z",
-    "raw": "Br. Vlaka 69005 odlazak      14.04.26. 06:55, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-14T06:55:00",
-    "seen_at": "2026-04-14T04:55:20.024Z",
-    "raw": "Br. Vlaka 69005 odlazak      14.04.26. 06:55, kolodvor OGULIN"
-  },
-  {
     "uic": "987891213462",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -14821,5 +14785,23 @@
     "event_time": "2026-04-17T06:40:00",
     "seen_at": "2026-04-17T04:41:34.157Z",
     "raw": "Br. Vlaka 81962 odlazak      17.04.26. 06:40, kolodvor PRIMORSKI DOLAC"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "71206",
+    "event_time": "2026-04-17T06:46:00",
+    "seen_at": "2026-04-17T04:47:48.914Z",
+    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 06:46, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43994",
+    "event_time": "2026-04-17T06:51:00",
+    "seen_at": "2026-04-17T04:54:39.839Z",
+    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 06:51, kolodvor VARAŽDIN"
   }
 ]
