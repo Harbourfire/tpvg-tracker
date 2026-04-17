@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-14T06:17:00",
-    "seen_at": "2026-04-14T04:24:55.381Z",
-    "raw": "Br. Vlaka 44996 dolazak      14.04.26. 06:17, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-14T06:27:00",
-    "seen_at": "2026-04-14T04:27:18.373Z",
-    "raw": "Br. Vlaka 45105 formiran     14.04.26. 06:27, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -14812,5 +14794,14 @@
     "event_time": "2026-04-16T20:47:00",
     "seen_at": "2026-04-17T04:18:03.442Z",
     "raw": "Br. Vlaka 48588 formiran     16.04.26. 20:47, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71206",
+    "event_time": "2026-04-17T06:19:00",
+    "seen_at": "2026-04-17T04:20:09.979Z",
+    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 06:19, kolodvor SLAVONSKI BROD"
   }
 ]
