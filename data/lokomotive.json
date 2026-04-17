@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "45581",
-    "event_time": "2026-04-14T19:31:00",
-    "seen_at": "2026-04-14T17:31:47.434Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 19:31, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-14T19:32:00",
-    "seen_at": "2026-04-14T17:34:28.893Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230142",
     "type": "Dolazak",
     "station": "GENERALSKI STOL",
     "train_number": "45581",
@@ -15640,5 +15622,32 @@
     "event_time": "2026-04-17T17:12:00",
     "seen_at": "2026-04-17T17:28:43.792Z",
     "raw": "Br. Vlaka 81972 formiran     17.04.26. 17:12, kolodvor 72303"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "82333",
+    "event_time": "2026-04-17T19:23:00",
+    "seen_at": "2026-04-17T17:33:09.413Z",
+    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 19:23, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49999",
+    "event_time": "2026-04-17T19:34:00",
+    "seen_at": "2026-04-17T17:35:27.433Z",
+    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 19:34, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81966",
+    "event_time": "2026-04-17T19:37:00",
+    "seen_at": "2026-04-17T17:38:57.097Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:37, kolodvor LIČKO LEŠĆE"
   }
 ]
