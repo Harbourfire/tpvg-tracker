@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-04-14T08:39:00",
-    "seen_at": "2026-04-14T06:43:26.106Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "47428",
-    "event_time": "2026-04-14T08:46:00",
-    "seen_at": "2026-04-14T06:46:38.034Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 08:46, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "49826",
-    "event_time": "2026-04-14T08:48:00",
-    "seen_at": "2026-04-14T06:49:53.488Z",
-    "raw": "Br. Vlaka 49826 odlazak      14.04.26. 08:48, kolodvor DALJ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-14T08:40:00",
-    "seen_at": "2026-04-14T06:49:53.489Z",
-    "raw": "Br. Vlaka 69750 formiran     14.04.26. 08:40, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82331",
-    "event_time": "2026-04-14T08:49:00",
-    "seen_at": "2026-04-14T06:50:17.958Z",
-    "raw": "Br. Vlaka 82331 odlazak      14.04.26. 08:49, kolodvor PLETERNICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "DUGA RESA",
@@ -14920,5 +14875,32 @@
     "event_time": "2026-04-17T08:38:00",
     "seen_at": "2026-04-17T06:39:07.924Z",
     "raw": "Br. Vlaka 89925 formiran     17.04.26. 08:38, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T08:40:00",
+    "seen_at": "2026-04-17T06:42:09.156Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:40, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T08:40:00",
+    "seen_at": "2026-04-17T06:42:09.157Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:40, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "82119",
+    "event_time": "2026-04-17T08:49:00",
+    "seen_at": "2026-04-17T06:49:48.295Z",
+    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 08:49, kolodvor PLETERNICA"
   }
 ]
