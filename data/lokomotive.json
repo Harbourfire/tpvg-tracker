@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-14T13:33:00",
-    "seen_at": "2026-04-14T11:33:47.831Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 13:33, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -14965,5 +14956,50 @@
     "event_time": "2026-04-17T13:22:00",
     "seen_at": "2026-04-17T11:23:40.483Z",
     "raw": "Br. Vlaka 81231 odlazak      17.04.26. 13:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "MOSLAVAČKA GRAČENICA",
+    "train_number": "81108",
+    "event_time": "2026-04-17T13:26:00",
+    "seen_at": "2026-04-17T11:26:34.258Z",
+    "raw": "Br. Vlaka 81108 odlazak      17.04.26. 13:26, kolodvor MOSLAVAČKA GRAČENICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "KNIN",
+    "train_number": "81965",
+    "event_time": "2026-04-17T13:23:00",
+    "seen_at": "2026-04-17T11:26:34.260Z",
+    "raw": "Br. Vlaka 81965 dolazak      17.04.26. 13:23, kolodvor KNIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82330",
+    "event_time": "2026-04-17T13:28:00",
+    "seen_at": "2026-04-17T11:28:27.596Z",
+    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 13:28, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-04-17T13:25:00",
+    "seen_at": "2026-04-17T11:28:50.195Z",
+    "raw": "Br. Vlaka 69750 odlazak      17.04.26. 13:25, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2026-04-17T13:30:00",
+    "seen_at": "2026-04-17T11:31:05.173Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
