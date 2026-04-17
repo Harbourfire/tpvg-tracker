@@ -2,33 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "45581",
-    "event_time": "2026-04-14T19:21:00",
-    "seen_at": "2026-04-14T17:26:11.835Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 19:21, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-04-14T19:27:00",
-    "seen_at": "2026-04-14T17:27:24.677Z",
-    "raw": "Br. Vlaka 61004 odlazak      14.04.26. 19:27, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89754",
-    "event_time": "2026-04-14T19:24:00",
-    "seen_at": "2026-04-14T17:27:48.338Z",
-    "raw": "Br. Vlaka 89754 dolazak      14.04.26. 19:24, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "ZVEČAJ",
     "train_number": "45581",
     "event_time": "2026-04-14T19:31:00",
@@ -15640,5 +15613,32 @@
     "event_time": "2026-04-17T19:12:00",
     "seen_at": "2026-04-17T17:14:53.583Z",
     "raw": "Br. Vlaka 49999 odlazak      17.04.26. 19:12, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81966",
+    "event_time": "2026-04-17T19:21:00",
+    "seen_at": "2026-04-17T17:22:16.228Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:21, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-17T19:22:00",
+    "seen_at": "2026-04-17T17:23:02.199Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81972",
+    "event_time": "2026-04-17T17:12:00",
+    "seen_at": "2026-04-17T17:28:43.792Z",
+    "raw": "Br. Vlaka 81972 formiran     17.04.26. 17:12, kolodvor 72303"
   }
 ]
