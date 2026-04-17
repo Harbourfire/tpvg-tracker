@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "45581",
-    "event_time": "2026-04-14T20:48:00",
-    "seen_at": "2026-04-14T18:48:27.282Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 20:48, kolodvor KUKAČA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-14T20:53:00",
-    "seen_at": "2026-04-14T18:53:25.758Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89762",
-    "event_time": "2026-04-14T20:53:00",
-    "seen_at": "2026-04-14T18:53:49.841Z",
-    "raw": "Br. Vlaka 89762 odlazak      14.04.26. 20:53, kolodvor ORIOVAC"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -15811,5 +15784,50 @@
     "event_time": "2026-04-17T20:42:00",
     "seen_at": "2026-04-17T18:43:33.881Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 20:42, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T20:45:00",
+    "seen_at": "2026-04-17T18:46:52.865Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 20:45, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T20:45:00",
+    "seen_at": "2026-04-17T18:46:52.866Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 20:45, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "42786",
+    "event_time": "2026-04-17T20:49:00",
+    "seen_at": "2026-04-17T18:49:58.556Z",
+    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 20:49, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89755",
+    "event_time": "2026-04-17T20:50:00",
+    "seen_at": "2026-04-17T18:50:21.502Z",
+    "raw": "Br. Vlaka 89755 odlazak      17.04.26. 20:50, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "KUTINA",
+    "train_number": "82333",
+    "event_time": "2026-04-17T20:48:00",
+    "seen_at": "2026-04-17T18:50:44.550Z",
+    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 20:48, kolodvor KUTINA"
   }
 ]
