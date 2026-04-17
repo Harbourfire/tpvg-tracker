@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "82331",
-    "event_time": "2026-04-14T08:03:00",
-    "seen_at": "2026-04-14T06:05:42.139Z",
-    "raw": "Br. Vlaka 82331 dolazak      14.04.26. 08:03, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "47428",
-    "event_time": "2026-04-14T08:03:00",
-    "seen_at": "2026-04-14T06:07:19.099Z",
-    "raw": "Br. Vlaka 47428 dolazak      14.04.26. 08:03, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "49826",
-    "event_time": "2026-04-14T08:10:00",
-    "seen_at": "2026-04-14T06:10:53.838Z",
-    "raw": "Br. Vlaka 49826 odlazak      14.04.26. 08:10, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "DRENOVCI",
@@ -14920,5 +14893,23 @@
     "event_time": "2026-04-14T08:00:00",
     "seen_at": "2026-04-17T06:01:38.263Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": null,
+    "event_time": "2026-04-17T07:56:00",
+    "seen_at": "2026-04-17T06:04:56.695Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71103 STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "RAŽINE",
+    "train_number": "81963",
+    "event_time": "2026-04-17T08:01:00",
+    "seen_at": "2026-04-17T06:05:20.219Z",
+    "raw": "Br. Vlaka 81963 odlazak      17.04.26. 08:01, kolodvor RAŽINE"
   }
 ]
