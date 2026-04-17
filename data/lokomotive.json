@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "89762",
-    "event_time": "2026-04-14T21:14:00",
-    "seen_at": "2026-04-14T19:14:47.110Z",
-    "raw": "Br. Vlaka 89762 odlazak      14.04.26. 21:14, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -15847,5 +15838,68 @@
     "event_time": "2026-04-17T21:03:00",
     "seen_at": "2026-04-17T19:07:37.838Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 21:03, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "83807",
+    "event_time": "2026-04-17T21:12:00",
+    "seen_at": "2026-04-17T19:15:03.914Z",
+    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 21:12, kolodvor SISAK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81974",
+    "event_time": "2026-04-17T21:15:00",
+    "seen_at": "2026-04-17T19:15:27.459Z",
+    "raw": "Br. Vlaka 81974 odlazak      17.04.26. 21:15, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T21:15:00",
+    "seen_at": "2026-04-17T19:19:43.593Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 21:15, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T21:15:00",
+    "seen_at": "2026-04-17T19:19:43.594Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 21:15, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "42786",
+    "event_time": "2026-04-17T21:20:00",
+    "seen_at": "2026-04-17T19:21:18.238Z",
+    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 21:20, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "81966",
+    "event_time": "2026-04-17T21:20:00",
+    "seen_at": "2026-04-17T19:22:51.461Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 21:20, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "83807",
+    "event_time": "2026-04-17T21:21:00",
+    "seen_at": "2026-04-17T19:23:37.440Z",
+    "raw": "Br. Vlaka 83807 dolazak      17.04.26. 21:21, kolodvor SISAK CAPRAG"
   }
 ]
