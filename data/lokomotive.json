@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89920",
-    "event_time": "2026-04-15T01:46:00",
-    "seen_at": "2026-04-14T23:46:55.980Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 01:46, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "61037",
-    "event_time": "2026-04-15T01:50:00",
-    "seen_at": "2026-04-14T23:52:08.607Z",
-    "raw": "Br. Vlaka 61037 dolazak      15.04.26. 01:50, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "VALPOVO",
-    "train_number": "82501",
-    "event_time": "2026-04-15T01:08:00",
-    "seen_at": "2026-04-14T23:52:08.608Z",
-    "raw": "Br. Vlaka 82501 formiran     15.04.26. 01:08, kolodvor VALPOVO"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -16171,5 +16144,59 @@
     "event_time": "2026-04-17T23:21:00",
     "seen_at": "2026-04-17T23:46:11.403Z",
     "raw": "Br. Vlaka 69005 formiran     17.04.26. 23:21, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-17T23:21:00",
+    "seen_at": "2026-04-17T23:46:44.921Z",
+    "raw": "Br. Vlaka 69005 formiran     17.04.26. 23:21, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44998",
+    "event_time": "2026-04-18T01:45:00",
+    "seen_at": "2026-04-17T23:47:08.845Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 01:45, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "43997",
+    "event_time": "2026-04-18T01:48:00",
+    "seen_at": "2026-04-17T23:48:41.452Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 01:48, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "69351",
+    "event_time": "2026-04-18T01:50:00",
+    "seen_at": "2026-04-17T23:50:38.385Z",
+    "raw": "Br. Vlaka 69351 odlazak      18.04.26. 01:50, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "44998",
+    "event_time": "2026-04-18T01:52:00",
+    "seen_at": "2026-04-17T23:52:33.783Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 01:52, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "83805",
+    "event_time": "2026-04-18T01:53:00",
+    "seen_at": "2026-04-17T23:53:20.237Z",
+    "raw": "Br. Vlaka 83805 odlazak      18.04.26. 01:53, kolodvor ZABOK"
   }
 ]
