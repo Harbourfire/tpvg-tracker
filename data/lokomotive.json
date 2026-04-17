@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-14T07:43:00",
-    "seen_at": "2026-04-14T05:44:16.418Z",
-    "raw": "Br. Vlaka 45105 odlazak      14.04.26. 07:43, kolodvor OTOK"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "75010",
-    "event_time": "2026-04-14T07:43:00",
-    "seen_at": "2026-04-14T05:47:54.055Z",
-    "raw": "Br. Vlaka 75010 odlazak      14.04.26. 07:43, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "75010",
-    "event_time": "2026-04-14T07:48:00",
-    "seen_at": "2026-04-14T05:49:31.259Z",
-    "raw": "Br. Vlaka 75010 odlazak      14.04.26. 07:48, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "47428",
-    "event_time": "2026-04-14T07:48:00",
-    "seen_at": "2026-04-14T05:50:43.185Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 07:48, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "997894215703",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -14893,5 +14857,41 @@
     "event_time": "2026-04-17T07:35:00",
     "seen_at": "2026-04-17T05:39:22.992Z",
     "raw": "Br. Vlaka 81963 odlazak      17.04.26. 07:35, kolodvor PERKOVIĆ"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-17T07:44:00",
+    "seen_at": "2026-04-17T05:44:44.371Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66853",
+    "event_time": "2026-04-17T07:47:00",
+    "seen_at": "2026-04-17T05:47:25.662Z",
+    "raw": "Br. Vlaka 66853 dolazak      17.04.26. 07:47, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71202",
+    "event_time": "2026-04-17T07:47:00",
+    "seen_at": "2026-04-17T05:47:25.664Z",
+    "raw": "Br. Vlaka 71202 odlazak      17.04.26. 07:47, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-17T07:47:00",
+    "seen_at": "2026-04-17T05:53:39.814Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
