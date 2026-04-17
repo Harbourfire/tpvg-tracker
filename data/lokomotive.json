@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "BIZOVAC",
-    "train_number": "89754",
-    "event_time": "2026-04-14T23:58:00",
-    "seen_at": "2026-04-14T22:04:06.455Z",
-    "raw": "Br. Vlaka 89754 dolazak      14.04.26. 23:58, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89754",
-    "event_time": "2026-04-15T00:02:00",
-    "seen_at": "2026-04-14T22:04:54.102Z",
-    "raw": "Br. Vlaka 89754 odlazak      15.04.26. 00:02, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89920",
-    "event_time": "2026-04-15T00:02:00",
-    "seen_at": "2026-04-14T22:04:54.102Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 00:02, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44786",
-    "event_time": "2026-04-15T00:06:00",
-    "seen_at": "2026-04-14T22:06:30.096Z",
-    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 00:06, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44994",
-    "event_time": "2026-04-15T00:05:00",
-    "seen_at": "2026-04-14T22:07:52.328Z",
-    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:05, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89920",
-    "event_time": "2026-04-15T00:09:00",
-    "seen_at": "2026-04-14T22:09:30.046Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 00:09, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -15982,5 +15928,50 @@
     "event_time": "2026-04-18T00:01:00",
     "seen_at": "2026-04-17T22:02:21.271Z",
     "raw": "Br. Vlaka 81972 odlazak      18.04.26. 00:01, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44998",
+    "event_time": "2026-04-17T13:29:00",
+    "seen_at": "2026-04-17T22:03:49.977Z",
+    "raw": "Br. Vlaka 44998 formiran     17.04.26. 13:29, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T23:59:00",
+    "seen_at": "2026-04-17T22:06:31.119Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 23:59, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T23:59:00",
+    "seen_at": "2026-04-17T22:06:31.120Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 23:59, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "69327",
+    "event_time": "2026-04-18T00:11:00",
+    "seen_at": "2026-04-17T22:12:12.259Z",
+    "raw": "Br. Vlaka 69327 odlazak      18.04.26. 00:11, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "43997",
+    "event_time": "2026-04-18T00:11:00",
+    "seen_at": "2026-04-17T22:12:12.261Z",
+    "raw": "Br. Vlaka 43997 formiran     18.04.26. 00:11, kolodvor KOTORIBA-GR"
   }
 ]
