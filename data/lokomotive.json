@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-14T18:52:00",
-    "seen_at": "2026-04-14T16:54:05.622Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "MRZLO POLJE",
@@ -15649,5 +15640,41 @@
     "event_time": "2026-04-17T18:46:00",
     "seen_at": "2026-04-17T16:48:38.164Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 18:46, kolodvor LOVINAC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "83807",
+    "event_time": "2026-04-17T18:55:00",
+    "seen_at": "2026-04-17T16:55:47.485Z",
+    "raw": "Br. Vlaka 83807 dolazak      17.04.26. 18:55, kolodvor SISAK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "MEDAK",
+    "train_number": "81966",
+    "event_time": "2026-04-17T18:58:00",
+    "seen_at": "2026-04-17T16:59:15.546Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 18:58, kolodvor MEDAK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T18:59:00",
+    "seen_at": "2026-04-17T17:00:25.475Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 18:59, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T18:59:00",
+    "seen_at": "2026-04-17T17:00:25.476Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 18:59, kolodvor NOVSKA"
   }
 ]
