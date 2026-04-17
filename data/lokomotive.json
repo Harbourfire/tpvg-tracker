@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "45581",
-    "event_time": "2026-04-14T19:57:00",
-    "seen_at": "2026-04-14T17:58:23.066Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 19:57, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230142",
     "type": "Dolazak",
     "station": "GORNJE DUBRAVE",
     "train_number": "45581",
@@ -15694,5 +15685,32 @@
     "event_time": "2026-04-17T19:47:00",
     "seen_at": "2026-04-17T17:48:41.371Z",
     "raw": "Br. Vlaka 82333 odlazak      17.04.26. 19:47, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "81966",
+    "event_time": "2026-04-17T19:52:00",
+    "seen_at": "2026-04-17T17:53:06.460Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:52, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49999",
+    "event_time": "2026-04-17T19:51:00",
+    "seen_at": "2026-04-17T17:54:40.404Z",
+    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 19:51, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVOSELEC",
+    "train_number": "82333",
+    "event_time": "2026-04-17T19:57:00",
+    "seen_at": "2026-04-17T17:58:32.692Z",
+    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 19:57, kolodvor NOVOSELEC"
   }
 ]
