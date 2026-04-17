@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-14T07:15:00",
-    "seen_at": "2026-04-14T05:19:26.899Z",
-    "raw": "Br. Vlaka 45105 odlazak      14.04.26. 07:15, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "74101",
-    "event_time": "2026-04-14T07:19:00",
-    "seen_at": "2026-04-14T05:20:14.919Z",
-    "raw": "Br. Vlaka 74101 dolazak      14.04.26. 07:19, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Formiran",
-    "station": "SESVETE",
-    "train_number": "75010",
-    "event_time": "2026-04-14T04:52:00",
-    "seen_at": "2026-04-14T05:24:04.056Z",
-    "raw": "Br. Vlaka 75010 formiran     14.04.26. 04:52, kolodvor SESVETE"
-  },
-  {
     "uic": "997894215703",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -14830,5 +14803,32 @@
     "event_time": "2026-04-16T12:22:00",
     "seen_at": "2026-04-17T05:14:20.489Z",
     "raw": "Br. Vlaka 82119 promjena sas 16.04.26. 12:22, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "76500",
+    "event_time": "2026-04-17T07:17:00",
+    "seen_at": "2026-04-17T05:18:19.763Z",
+    "raw": "Br. Vlaka 76500 odlazak      17.04.26. 07:17, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VRAPČANA",
+    "train_number": null,
+    "event_time": "2026-04-17T07:20:00",
+    "seen_at": "2026-04-17T05:20:36.806Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71301 VRAPČANA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "43994",
+    "event_time": "2026-04-17T07:19:00",
+    "seen_at": "2026-04-17T05:21:23.557Z",
+    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:19, kolodvor MALA SUBOTICA"
   }
 ]
