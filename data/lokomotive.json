@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Formiran",
-    "station": "OTOK",
-    "train_number": "74101",
-    "event_time": "2026-04-14T03:22:00",
-    "seen_at": "2026-04-14T01:23:05.231Z",
-    "raw": "Br. Vlaka 74101 formiran     14.04.26. 03:22, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "45780",
-    "event_time": "2026-04-14T03:25:00",
-    "seen_at": "2026-04-14T01:25:27.651Z",
-    "raw": "Br. Vlaka 45780 dolazak      14.04.26. 03:25, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "45780",
-    "event_time": "2026-04-14T03:25:00",
-    "seen_at": "2026-04-14T01:25:27.652Z",
-    "raw": "Br. Vlaka 45780 dolazak      14.04.26. 03:25, kolodvor ZABOK"
-  },
-  {
     "uic": "928012230100",
     "type": "Promjena sastava",
     "station": "JOSIPDOL",
@@ -14524,5 +14497,23 @@
     "event_time": "2026-04-17T03:18:00",
     "seen_at": "2026-04-17T01:19:44.338Z",
     "raw": "Br. Vlaka 81101 odlazak      17.04.26. 03:18, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-17T03:22:00",
+    "seen_at": "2026-04-17T01:23:19.540Z",
+    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 03:22, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-04-17T03:22:00",
+    "seen_at": "2026-04-17T01:23:19.540Z",
+    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 03:22, kolodvor BLATA"
   }
 ]
