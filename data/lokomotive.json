@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81231",
-    "event_time": "2026-04-14T10:30:00",
-    "seen_at": "2026-04-14T08:31:53.325Z",
-    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:30, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "47428",
-    "event_time": "2026-04-14T10:26:00",
-    "seen_at": "2026-04-14T08:34:43.416Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 10:26, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44788",
-    "event_time": "2026-04-14T10:34:00",
-    "seen_at": "2026-04-14T08:35:07.530Z",
-    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 10:34, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -14875,5 +14848,59 @@
     "event_time": "2026-04-17T10:18:00",
     "seen_at": "2026-04-17T08:20:39.579Z",
     "raw": "Br. Vlaka 81964 odlazak      17.04.26. 10:18, kolodvor ŠIBENIK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "82330",
+    "event_time": "2026-04-17T10:26:00",
+    "seen_at": "2026-04-17T08:26:57.540Z",
+    "raw": "Br. Vlaka 82330 formiran     17.04.26. 10:26, kolodvor VELIKA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-17T10:23:00",
+    "seen_at": "2026-04-17T08:30:24.243Z",
+    "raw": "Br. Vlaka 71203 dolazak      17.04.26. 10:23, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-17T10:23:00",
+    "seen_at": "2026-04-17T08:30:47.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-17T10:28:00",
+    "seen_at": "2026-04-17T08:33:04.154Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "KOTORIBA",
+    "train_number": "49999",
+    "event_time": "2026-04-16T20:54:00",
+    "seen_at": "2026-04-17T08:33:27.110Z",
+    "raw": "Br. Vlaka 49999 promjena sas 16.04.26. 20:54, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "RAŽINE",
+    "train_number": null,
+    "event_time": "2026-04-17T10:25:00",
+    "seen_at": "2026-04-17T08:34:12.260Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76762 RAŽINE"
   }
 ]
