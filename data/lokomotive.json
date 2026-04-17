@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44994",
-    "event_time": "2026-04-15T00:45:00",
-    "seen_at": "2026-04-14T22:45:58.334Z",
-    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:45, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -15982,5 +15973,41 @@
     "event_time": "2026-04-18T00:37:00",
     "seen_at": "2026-04-17T22:39:49.116Z",
     "raw": "Trenutna pozicija je u kolodvoru 75601 75601"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "83805",
+    "event_time": "2026-04-18T00:39:00",
+    "seen_at": "2026-04-17T22:41:07.438Z",
+    "raw": "Br. Vlaka 83805 odlazak      18.04.26. 00:39, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "BAKAR",
+    "train_number": "83813",
+    "event_time": "2026-04-18T00:02:00",
+    "seen_at": "2026-04-17T22:41:30.720Z",
+    "raw": "Br. Vlaka 83813 formiran     18.04.26. 00:02, kolodvor 75601"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "43997",
+    "event_time": "2026-04-18T00:42:00",
+    "seen_at": "2026-04-17T22:42:40.140Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 00:42, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "69327",
+    "event_time": "2026-04-18T00:45:00",
+    "seen_at": "2026-04-17T22:46:30.319Z",
+    "raw": "Br. Vlaka 69327 odlazak      18.04.26. 00:45, kolodvor SIBINJ"
   }
 ]
