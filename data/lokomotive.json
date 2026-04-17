@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-14T12:22:00",
-    "seen_at": "2026-04-14T10:23:07.760Z",
-    "raw": "Br. Vlaka 45104 dolazak      14.04.26. 12:22, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-14T12:22:00",
-    "seen_at": "2026-04-14T10:25:57.104Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -14866,5 +14848,50 @@
     "event_time": "2026-04-16T21:44:00",
     "seen_at": "2026-04-17T10:18:29.418Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44789",
+    "event_time": "2026-04-17T12:17:00",
+    "seen_at": "2026-04-17T10:19:26.836Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 12:17, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44789",
+    "event_time": "2026-04-17T12:17:00",
+    "seen_at": "2026-04-17T10:19:26.837Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 12:17, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82330",
+    "event_time": "2026-04-17T12:24:00",
+    "seen_at": "2026-04-17T10:25:57.533Z",
+    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 12:24, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "66481",
+    "event_time": "2026-04-17T12:22:00",
+    "seen_at": "2026-04-17T10:27:06.508Z",
+    "raw": "Br. Vlaka 66481 dolazak      17.04.26. 12:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-17T12:22:00",
+    "seen_at": "2026-04-17T10:27:29.306Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
