@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89920",
-    "event_time": "2026-04-14T22:02:00",
-    "seen_at": "2026-04-14T20:04:04.226Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 22:02, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89920",
-    "event_time": "2026-04-14T22:07:00",
-    "seen_at": "2026-04-14T20:08:04.579Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 22:07, kolodvor 72304"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -15991,5 +15973,32 @@
     "event_time": "2026-04-17T21:59:00",
     "seen_at": "2026-04-17T20:00:01.776Z",
     "raw": "Br. Vlaka 82333 dolazak      17.04.26. 21:59, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "82333",
+    "event_time": "2026-04-17T22:01:00",
+    "seen_at": "2026-04-17T20:02:54.083Z",
+    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 22:01, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "81972",
+    "event_time": "2026-04-17T22:00:00",
+    "seen_at": "2026-04-17T20:05:57.079Z",
+    "raw": "Br. Vlaka 81972 dolazak      17.04.26. 22:00, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "81972",
+    "event_time": "2026-04-17T22:05:00",
+    "seen_at": "2026-04-17T20:06:20.557Z",
+    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 22:05, kolodvor ZAGREB RESNIK"
   }
 ]
