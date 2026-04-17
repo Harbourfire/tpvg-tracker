@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81982",
-    "event_time": "2026-04-15T01:08:00",
-    "seen_at": "2026-04-14T23:09:01.574Z",
-    "raw": "Br. Vlaka 81982 formiran     15.04.26. 01:08, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81982",
-    "event_time": "2026-04-15T01:08:00",
-    "seen_at": "2026-04-14T23:09:01.574Z",
-    "raw": "Br. Vlaka 81982 formiran     15.04.26. 01:08, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-14T08:05:00",
-    "seen_at": "2026-04-14T23:11:48.962Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-14T13:51:00",
-    "seen_at": "2026-04-14T23:12:12.841Z",
-    "raw": "Br. Vlaka 44787 promjena sas 14.04.26. 13:51, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -16036,5 +16000,50 @@
     "event_time": "2026-04-18T01:04:00",
     "seen_at": "2026-04-17T23:07:16.432Z",
     "raw": "Br. Vlaka 43997 odlazak      18.04.26. 01:04, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "46896",
+    "event_time": "2026-04-17T04:41:00",
+    "seen_at": "2026-04-17T23:10:28.783Z",
+    "raw": "Br. Vlaka 46896 promjena sas 17.04.26. 04:41, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BAKAR",
+    "train_number": "83813",
+    "event_time": "2026-04-18T01:08:00",
+    "seen_at": "2026-04-17T23:10:28.784Z",
+    "raw": "Br. Vlaka 83813 odlazak      18.04.26. 01:08, kolodvor 75601"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-17T23:21:00",
+    "seen_at": "2026-04-17T23:13:08.283Z",
+    "raw": "Br. Vlaka 69006 formiran     17.04.26. 23:21, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "43997",
+    "event_time": "2026-04-18T01:13:00",
+    "seen_at": "2026-04-17T23:13:31.014Z",
+    "raw": "Br. Vlaka 43997 dolazak      18.04.26. 01:13, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-17T23:21:00",
+    "seen_at": "2026-04-17T23:13:31.014Z",
+    "raw": "Br. Vlaka 69006 formiran     17.04.26. 23:21, kolodvor OŠTARIJE"
   }
 ]
