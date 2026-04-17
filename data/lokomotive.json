@@ -2,24 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "45581",
-    "event_time": "2026-04-14T18:35:00",
-    "seen_at": "2026-04-14T16:35:38.247Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 18:35, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89925",
-    "event_time": "2026-04-14T18:41:00",
-    "seen_at": "2026-04-14T16:42:29.707Z",
-    "raw": "Br. Vlaka 89925 odlazak      14.04.26. 18:41, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "KARLOVAC",
     "train_number": "45581",
     "event_time": "2026-04-14T18:49:00",
@@ -15586,5 +15568,50 @@
     "event_time": "2026-04-17T18:32:00",
     "seen_at": "2026-04-17T16:34:29.647Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 18:32, kolodvor GRAČAC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "83807",
+    "event_time": "2026-04-17T18:35:00",
+    "seen_at": "2026-04-17T16:35:51.946Z",
+    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 18:35, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "48588",
+    "event_time": "2026-04-17T18:40:00",
+    "seen_at": "2026-04-17T16:40:46.876Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 18:40, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "48588",
+    "event_time": "2026-04-17T18:40:00",
+    "seen_at": "2026-04-17T16:40:46.877Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 18:40, kolodvor OKUČANI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "89981",
+    "train_number": null,
+    "event_time": "2026-04-17T16:41:09.926Z",
+    "seen_at": "2026-04-17T16:41:09.926Z",
+    "raw": "Trenutna pozicija je u kolodvoru 89981 89981"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "83807",
+    "event_time": "2026-04-17T18:42:00",
+    "seen_at": "2026-04-17T16:43:02.680Z",
+    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 18:42, kolodvor GREDA"
   }
 ]
