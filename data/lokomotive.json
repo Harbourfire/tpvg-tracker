@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-14T11:57:00",
-    "seen_at": "2026-04-14T10:00:20.948Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44788",
-    "event_time": "2026-04-14T11:55:00",
-    "seen_at": "2026-04-14T10:00:45.649Z",
-    "raw": "Br. Vlaka 44788 dolazak      14.04.26. 11:55, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82300",
-    "event_time": "2026-04-14T12:01:00",
-    "seen_at": "2026-04-14T10:02:21.138Z",
-    "raw": "Br. Vlaka 82300 dolazak      14.04.26. 12:01, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-04-14T12:03:00",
-    "seen_at": "2026-04-14T10:06:20.071Z",
-    "raw": "Br. Vlaka 45104 odlazak      14.04.26. 12:03, kolodvor OTOK"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -14857,5 +14821,32 @@
     "event_time": "2026-04-17T11:47:00",
     "seen_at": "2026-04-17T09:58:11.451Z",
     "raw": "Br. Vlaka 49999 dolazak      17.04.26. 11:47, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "82330",
+    "event_time": "2026-04-17T11:59:00",
+    "seen_at": "2026-04-17T10:00:43.286Z",
+    "raw": "Br. Vlaka 82330 dolazak      17.04.26. 11:59, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81231",
+    "event_time": "2026-04-17T12:01:00",
+    "seen_at": "2026-04-17T10:02:36.895Z",
+    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 12:01, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "66481",
+    "event_time": "2026-04-17T12:04:00",
+    "seen_at": "2026-04-17T10:05:18.210Z",
+    "raw": "Br. Vlaka 66481 odlazak      17.04.26. 12:04, kolodvor STARI MIKANOVCI"
   }
 ]
