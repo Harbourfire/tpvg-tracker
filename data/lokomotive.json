@@ -15163,5 +15163,50 @@
     "event_time": "2026-04-17T16:06:00",
     "seen_at": "2026-04-17T14:10:03.811Z",
     "raw": "Br. Vlaka 83809 odlazak      17.04.26. 16:06, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89726",
+    "event_time": "2026-04-17T16:19:00",
+    "seen_at": "2026-04-17T14:19:31.644Z",
+    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 16:19, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-17T16:17:00",
+    "seen_at": "2026-04-17T14:19:54.587Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-17T16:17:00",
+    "seen_at": "2026-04-17T14:19:54.588Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T14:11:00",
+    "seen_at": "2026-04-17T14:21:26.290Z",
+    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 14:11, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T14:11:00",
+    "seen_at": "2026-04-17T14:21:26.291Z",
+    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 14:11, kolodvor KONJŠČINA"
   }
 ]
