@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44996",
-    "event_time": "2026-04-14T05:17:00",
-    "seen_at": "2026-04-14T03:23:18.623Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 05:17, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620197",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -14704,5 +14695,59 @@
     "event_time": "2026-04-17T05:01:00",
     "seen_at": "2026-04-17T03:05:32.343Z",
     "raw": "Br. Vlaka 81951 odlazak      17.04.26. 05:01, kolodvor SOLIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "SPLIT PREDGRAĐE",
+    "train_number": null,
+    "event_time": "2026-04-17T05:13:00",
+    "seen_at": "2026-04-17T03:17:33.432Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76661 SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "SPLIT PREDGRAĐE",
+    "train_number": "81962",
+    "event_time": "2026-04-17T04:56:00",
+    "seen_at": "2026-04-17T03:17:56.656Z",
+    "raw": "Br. Vlaka 81962 formiran     17.04.26. 04:56, kolodvor SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-16T12:20:00",
+    "seen_at": "2026-04-17T03:21:46.645Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-16T12:20:00",
+    "seen_at": "2026-04-17T03:22:10.258Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-17T03:59:00",
+    "seen_at": "2026-04-17T03:22:55.809Z",
+    "raw": "Br. Vlaka 44996 promjena sas 17.04.26. 03:59, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-17T03:59:00",
+    "seen_at": "2026-04-17T03:22:55.810Z",
+    "raw": "Br. Vlaka 44996 promjena sas 17.04.26. 03:59, kolodvor ZABOK"
   }
 ]
