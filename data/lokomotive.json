@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "47428",
-    "event_time": "2026-04-14T08:56:00",
-    "seen_at": "2026-04-14T06:58:04.402Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 08:56, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Formiran",
-    "station": "DRENOVCI",
-    "train_number": "74100",
-    "event_time": "2026-04-14T08:54:00",
-    "seen_at": "2026-04-14T06:58:51.822Z",
-    "raw": "Br. Vlaka 74100 formiran     14.04.26. 08:54, kolodvor DRENOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "ERDUT",
@@ -14902,5 +14884,32 @@
     "event_time": "2026-04-17T08:49:00",
     "seen_at": "2026-04-17T06:49:48.295Z",
     "raw": "Br. Vlaka 82119 odlazak      17.04.26. 08:49, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T08:54:00",
+    "seen_at": "2026-04-17T06:54:56.318Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:54, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T08:54:00",
+    "seen_at": "2026-04-17T06:54:56.318Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:54, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82119",
+    "event_time": "2026-04-17T08:59:00",
+    "seen_at": "2026-04-17T06:59:51.737Z",
+    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 08:59, kolodvor BLACKO JAKŠIĆ"
   }
 ]
