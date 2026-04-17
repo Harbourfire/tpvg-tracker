@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "69006",
-    "event_time": "2026-04-14T06:01:00",
-    "seen_at": "2026-04-14T04:02:23.802Z",
-    "raw": "Br. Vlaka 69006 dolazak      14.04.26. 06:01, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "69006",
-    "event_time": "2026-04-14T06:01:00",
-    "seen_at": "2026-04-14T04:02:23.802Z",
-    "raw": "Br. Vlaka 69006 dolazak      14.04.26. 06:01, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-14T06:01:00",
-    "seen_at": "2026-04-14T04:02:47.304Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-14T06:01:00",
-    "seen_at": "2026-04-14T04:02:47.304Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-14T02:00:00",
-    "seen_at": "2026-04-14T04:10:07.787Z",
-    "raw": "Br. Vlaka 69005 formiran     14.04.26. 02:00, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230100",
     "type": "Formiran",
     "station": "OGULIN",
     "train_number": "69005",
@@ -14803,5 +14758,23 @@
     "event_time": "2026-04-17T05:58:00",
     "seen_at": "2026-04-17T04:00:56.022Z",
     "raw": "Br. Vlaka 48581 odlazak      17.04.26. 05:58, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KAŠTEL SUĆURAC",
+    "train_number": "81962",
+    "event_time": "2026-04-17T05:48:00",
+    "seen_at": "2026-04-17T04:04:12.316Z",
+    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 05:48, kolodvor KAŠTEL SUĆURAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KAŠTEL STARI",
+    "train_number": "81962",
+    "event_time": "2026-04-17T06:01:00",
+    "seen_at": "2026-04-17T04:05:43.574Z",
+    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 06:01, kolodvor KAŠTEL STARI"
   }
 ]
