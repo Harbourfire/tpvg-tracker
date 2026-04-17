@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T02:42:00",
-    "seen_at": "2026-04-14T00:42:54.052Z",
-    "raw": "Br. Vlaka 45780 dolazak      14.04.26. 02:42, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T02:42:00",
-    "seen_at": "2026-04-14T00:42:54.053Z",
-    "raw": "Br. Vlaka 45780 dolazak      14.04.26. 02:42, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T02:42:00",
-    "seen_at": "2026-04-14T00:43:41.683Z",
-    "raw": "Br. Vlaka 45780 promjena sas 14.04.26. 02:42, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T02:42:00",
-    "seen_at": "2026-04-14T00:44:05.532Z",
-    "raw": "Br. Vlaka 45780 promjena sas 14.04.26. 02:42, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
     "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "45780",
@@ -14416,5 +14380,23 @@
     "event_time": "2026-04-17T02:32:00",
     "seen_at": "2026-04-17T00:34:01.011Z",
     "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:32, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81101",
+    "event_time": "2026-04-16T23:23:00",
+    "seen_at": "2026-04-17T00:39:55.512Z",
+    "raw": "Br. Vlaka 81101 promjena sas 16.04.26. 23:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81101",
+    "event_time": "2026-04-16T23:23:00",
+    "seen_at": "2026-04-17T00:40:17.892Z",
+    "raw": "Br. Vlaka 81101 promjena sas 16.04.26. 23:23, kolodvor VARAŽDIN"
   }
 ]
