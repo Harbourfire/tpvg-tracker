@@ -2,24 +2,6 @@
   {
     "uic": "927820621195",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-14T04:40:00",
-    "seen_at": "2026-04-14T02:44:20.597Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 04:40, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "44788",
-    "event_time": "2026-04-14T04:29:00",
-    "seen_at": "2026-04-14T02:45:08.606Z",
-    "raw": "Br. Vlaka 44788 promjena sas 14.04.26. 04:29, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
     "train_number": "44996",
     "event_time": "2026-04-14T04:50:00",
@@ -14668,5 +14650,41 @@
     "event_time": "2026-04-17T04:25:00",
     "seen_at": "2026-04-17T02:35:57.983Z",
     "raw": "Br. Vlaka 81951 odlazak      17.04.26. 04:25, kolodvor LABIN DALMATINSKI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "43994",
+    "event_time": "2026-04-17T04:37:00",
+    "seen_at": "2026-04-17T02:38:05.761Z",
+    "raw": "Br. Vlaka 43994 formiran     17.04.26. 04:37, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81101",
+    "event_time": "2026-04-17T04:39:00",
+    "seen_at": "2026-04-17T02:41:08.008Z",
+    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 04:39, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81101",
+    "event_time": "2026-04-17T04:39:00",
+    "seen_at": "2026-04-17T02:41:08.008Z",
+    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 04:39, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KAŠTEL STARI",
+    "train_number": "81951",
+    "event_time": "2026-04-17T04:42:00",
+    "seen_at": "2026-04-17T02:43:45.965Z",
+    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 04:42, kolodvor KAŠTEL STARI"
   }
 ]
