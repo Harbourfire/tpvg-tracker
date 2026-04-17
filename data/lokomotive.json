@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-14T08:30:00",
-    "seen_at": "2026-04-14T06:33:16.021Z",
-    "raw": "Br. Vlaka 45105 odlazak      14.04.26. 08:30, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "47428",
-    "event_time": "2026-04-14T08:36:00",
-    "seen_at": "2026-04-14T06:37:18.076Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 08:36, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820620189",
     "type": "Rasformiran",
     "station": "BRČKO - izvan HŽ",
     "train_number": null,
@@ -14911,5 +14893,32 @@
     "event_time": "2026-04-17T08:22:00",
     "seen_at": "2026-04-17T06:26:04.771Z",
     "raw": "Br. Vlaka 43994 odlazak      17.04.26. 08:22, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-17T08:27:00",
+    "seen_at": "2026-04-17T06:34:50.522Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-17T08:34:00",
+    "seen_at": "2026-04-17T06:35:37.137Z",
+    "raw": "Br. Vlaka 71203 formiran     17.04.26. 08:34, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89925",
+    "event_time": "2026-04-17T08:38:00",
+    "seen_at": "2026-04-17T06:39:07.924Z",
+    "raw": "Br. Vlaka 89925 formiran     17.04.26. 08:38, kolodvor KOTORIBA-GR"
   }
 ]
