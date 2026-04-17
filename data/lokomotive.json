@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "45581",
-    "event_time": "2026-04-14T16:55:00",
-    "seen_at": "2026-04-14T14:55:16.692Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 16:55, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620197",
     "type": "Dolazak",
     "station": "ZABOK",
@@ -15181,5 +15172,95 @@
     "event_time": "2026-04-17T16:45:00",
     "seen_at": "2026-04-17T14:48:08.607Z",
     "raw": "Br. Vlaka 48588 odlazak      17.04.26. 16:45, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-17T17:15:00",
+    "seen_at": "2026-04-17T14:52:37.642Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63312",
+    "event_time": "2026-04-17T16:52:00",
+    "seen_at": "2026-04-17T14:52:37.642Z",
+    "raw": "Br. Vlaka 63312 dolazak      17.04.26. 16:52, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-17T16:52:00",
+    "seen_at": "2026-04-17T14:53:00.390Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89726",
+    "event_time": "2026-04-17T16:53:00",
+    "seen_at": "2026-04-17T14:53:23.170Z",
+    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 16:53, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "83807",
+    "event_time": "2026-04-17T12:58:00",
+    "seen_at": "2026-04-17T14:53:23.171Z",
+    "raw": "Br. Vlaka 83807 formiran     17.04.26. 12:58, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-17T16:08:00",
+    "seen_at": "2026-04-17T14:54:54.995Z",
+    "raw": "Br. Vlaka 63310 promjena sas 17.04.26. 16:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T16:55:00",
+    "seen_at": "2026-04-17T14:59:31.386Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:55, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T16:55:00",
+    "seen_at": "2026-04-17T14:59:31.387Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:55, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "48588",
+    "event_time": "2026-04-17T16:59:00",
+    "seen_at": "2026-04-17T15:00:40.000Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 16:59, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "48588",
+    "event_time": "2026-04-17T16:59:00",
+    "seen_at": "2026-04-17T15:00:40.001Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 16:59, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
