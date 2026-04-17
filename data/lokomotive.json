@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-14T06:17:00",
-    "seen_at": "2026-04-14T07:41:44.924Z",
-    "raw": "Br. Vlaka 44996 dolazak      14.04.26. 06:17, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-14T09:25:00",
-    "seen_at": "2026-04-14T07:42:20.981Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 09:25, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-04-14T09:26:00",
-    "seen_at": "2026-04-14T07:44:21.102Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "69770",
-    "event_time": "2026-04-14T09:43:00",
-    "seen_at": "2026-04-14T07:45:08.976Z",
-    "raw": "Br. Vlaka 69770 odlazak      14.04.26. 09:43, kolodvor DARDA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44996",
-    "event_time": "2026-04-14T09:44:00",
-    "seen_at": "2026-04-14T07:45:56.496Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 09:44, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -14848,5 +14803,50 @@
     "event_time": "2026-04-17T09:30:00",
     "seen_at": "2026-04-17T07:36:35.954Z",
     "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:30, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T09:40:00",
+    "seen_at": "2026-04-17T07:40:59.906Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:40, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T09:40:00",
+    "seen_at": "2026-04-17T07:40:59.906Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:40, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "82119",
+    "event_time": "2026-04-17T09:26:00",
+    "seen_at": "2026-04-17T07:41:23.236Z",
+    "raw": "Br. Vlaka 82119 dolazak      17.04.26. 09:26, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-16T12:00:00",
+    "seen_at": "2026-04-17T07:41:45.951Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69350",
+    "event_time": "2026-04-17T09:42:00",
+    "seen_at": "2026-04-17T07:42:33.988Z",
+    "raw": "Br. Vlaka 69350 formiran     17.04.26. 09:42, kolodvor VINKOVCI"
   }
 ]
