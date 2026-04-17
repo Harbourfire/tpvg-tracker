@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44788",
-    "event_time": "2026-04-14T10:15:00",
-    "seen_at": "2026-04-14T08:17:20.685Z",
-    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 10:15, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-04-14T08:54:00",
-    "seen_at": "2026-04-14T08:19:22.268Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44788",
-    "event_time": "2026-04-14T10:24:00",
-    "seen_at": "2026-04-14T08:25:19.016Z",
-    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 10:24, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -14884,5 +14857,23 @@
     "event_time": "2026-04-17T10:16:00",
     "seen_at": "2026-04-17T08:17:00.142Z",
     "raw": "Br. Vlaka 44996 odlazak      17.04.26. 10:16, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "69350",
+    "event_time": "2026-04-17T10:19:00",
+    "seen_at": "2026-04-17T08:20:17.094Z",
+    "raw": "Br. Vlaka 69350 odlazak      17.04.26. 10:19, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŠIBENIK",
+    "train_number": "81964",
+    "event_time": "2026-04-17T10:18:00",
+    "seen_at": "2026-04-17T08:20:39.579Z",
+    "raw": "Br. Vlaka 81964 odlazak      17.04.26. 10:18, kolodvor ŠIBENIK"
   }
 ]
