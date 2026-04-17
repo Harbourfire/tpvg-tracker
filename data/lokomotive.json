@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44787",
-    "event_time": "2026-04-14T13:34:00",
-    "seen_at": "2026-04-14T11:35:47.536Z",
-    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 13:34, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -15001,5 +14992,77 @@
     "event_time": "2026-04-17T13:30:00",
     "seen_at": "2026-04-17T11:31:05.173Z",
     "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-17T13:33:00",
+    "seen_at": "2026-04-17T11:34:41.174Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POPOVAČA",
+    "train_number": "81108",
+    "event_time": "2026-04-17T13:33:00",
+    "seen_at": "2026-04-17T11:35:04.165Z",
+    "raw": "Br. Vlaka 81108 odlazak      17.04.26. 13:33, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "69750",
+    "event_time": "2026-04-17T13:33:00",
+    "seen_at": "2026-04-17T11:35:04.166Z",
+    "raw": "Br. Vlaka 69750 dolazak      17.04.26. 13:33, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-17T13:33:00",
+    "seen_at": "2026-04-17T11:35:50.750Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "45980",
+    "event_time": "2026-04-17T00:45:00",
+    "seen_at": "2026-04-17T11:36:36.513Z",
+    "raw": "Br. Vlaka 45980 promjena sas 17.04.26. 00:45, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "LUDINA",
+    "train_number": "81108",
+    "event_time": "2026-04-17T13:40:00",
+    "seen_at": "2026-04-17T11:40:44.233Z",
+    "raw": "Br. Vlaka 81108 odlazak      17.04.26. 13:40, kolodvor LUDINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-17T13:39:00",
+    "seen_at": "2026-04-17T11:41:30.527Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 13:39, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": null,
+    "event_time": "2026-04-17T13:42:00",
+    "seen_at": "2026-04-17T11:43:01.990Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
   }
 ]
