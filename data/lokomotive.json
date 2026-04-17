@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89925",
-    "event_time": "2026-04-14T17:37:00",
-    "seen_at": "2026-04-14T15:39:29.631Z",
-    "raw": "Br. Vlaka 89925 odlazak      14.04.26. 17:37, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "ZDENČINA",
-    "train_number": "45581",
-    "event_time": "2026-04-14T17:40:00",
-    "seen_at": "2026-04-14T15:41:32.063Z",
-    "raw": "Br. Vlaka 45581 dolazak      14.04.26. 17:40, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "927820620247",
     "type": "Dolazak",
     "station": "ČAKOVEC",
     "train_number": "89925",
@@ -15334,5 +15316,50 @@
     "event_time": "2026-04-17T17:33:00",
     "seen_at": "2026-04-17T15:35:54.699Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 17:33, kolodvor PLAVNO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "83807",
+    "event_time": "2026-04-17T17:40:00",
+    "seen_at": "2026-04-17T15:40:50.938Z",
+    "raw": "Br. Vlaka 83807 dolazak      17.04.26. 17:40, kolodvor 72302"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-17T17:40:00",
+    "seen_at": "2026-04-17T15:40:50.939Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 17:40, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-17T11:47:00",
+    "seen_at": "2026-04-17T15:41:37.654Z",
+    "raw": "Br. Vlaka 49999 promjena sas 17.04.26. 11:47, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "48588",
+    "event_time": "2026-04-17T17:43:00",
+    "seen_at": "2026-04-17T15:43:57.423Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:43, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "48588",
+    "event_time": "2026-04-17T17:43:00",
+    "seen_at": "2026-04-17T15:43:57.424Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:43, kolodvor SIBINJ"
   }
 ]
