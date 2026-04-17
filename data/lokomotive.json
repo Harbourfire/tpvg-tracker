@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74101",
-    "event_time": "2026-04-14T07:03:00",
-    "seen_at": "2026-04-14T05:04:48.143Z",
-    "raw": "Br. Vlaka 74101 odlazak      14.04.26. 07:03, kolodvor SPAČVA"
-  },
-  {
     "uic": "928012230100",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -14803,5 +14794,59 @@
     "event_time": "2026-04-17T06:51:00",
     "seen_at": "2026-04-17T04:54:39.839Z",
     "raw": "Br. Vlaka 43994 odlazak      17.04.26. 06:51, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-17T06:30:00",
+    "seen_at": "2026-04-17T04:59:25.150Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76500",
+    "event_time": "2026-04-17T06:57:00",
+    "seen_at": "2026-04-17T05:00:55.339Z",
+    "raw": "Br. Vlaka 76500 formiran     17.04.26. 06:57, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "71206",
+    "event_time": "2026-04-17T06:59:00",
+    "seen_at": "2026-04-17T05:01:17.895Z",
+    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 06:59, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "PERKOVIĆ",
+    "train_number": "81962",
+    "event_time": "2026-04-17T06:50:00",
+    "seen_at": "2026-04-17T05:01:40.530Z",
+    "raw": "Br. Vlaka 81962 dolazak      17.04.26. 06:50, kolodvor PERKOVIĆ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-17T07:05:00",
+    "seen_at": "2026-04-17T05:05:49.703Z",
+    "raw": "Br. Vlaka 71202 formiran     17.04.26. 07:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "89199",
+    "event_time": "2026-04-17T07:06:00",
+    "seen_at": "2026-04-17T05:06:34.922Z",
+    "raw": "Br. Vlaka 89199 formiran     17.04.26. 07:06, kolodvor VINKOVCI"
   }
 ]
