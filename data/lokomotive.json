@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-15T00:15:00",
-    "seen_at": "2026-04-14T22:16:43.012Z",
-    "raw": "Br. Vlaka 63305 odlazak      15.04.26. 00:15, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-15T00:15:00",
-    "seen_at": "2026-04-14T22:16:43.013Z",
-    "raw": "Br. Vlaka 63305 odlazak      15.04.26. 00:15, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44786",
-    "event_time": "2026-04-15T00:16:00",
-    "seen_at": "2026-04-14T22:19:23.013Z",
-    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 00:16, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44994",
-    "event_time": "2026-04-15T00:18:00",
-    "seen_at": "2026-04-14T22:20:11.506Z",
-    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:18, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89920",
-    "event_time": "2026-04-15T00:18:00",
-    "seen_at": "2026-04-14T22:20:35.755Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 00:18, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -15973,5 +15928,32 @@
     "event_time": "2026-04-18T00:11:00",
     "seen_at": "2026-04-17T22:12:12.261Z",
     "raw": "Br. Vlaka 43997 formiran     18.04.26. 00:11, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŠKRLJEVO",
+    "train_number": "81966",
+    "event_time": "2026-04-18T00:15:00",
+    "seen_at": "2026-04-17T22:15:48.678Z",
+    "raw": "Br. Vlaka 81966 odlazak      18.04.26. 00:15, kolodvor ŠKRLJEVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "47987",
+    "event_time": "2026-04-18T00:08:00",
+    "seen_at": "2026-04-17T22:17:42.484Z",
+    "raw": "Br. Vlaka 47987 odlazak      18.04.26. 00:08, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69351",
+    "event_time": "2026-04-18T00:19:00",
+    "seen_at": "2026-04-17T22:20:22.533Z",
+    "raw": "Br. Vlaka 69351 formiran     18.04.26. 00:19, kolodvor SLAVONSKI BROD"
   }
 ]
