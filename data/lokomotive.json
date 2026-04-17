@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-14T22:37:00",
-    "seen_at": "2026-04-14T20:40:16.493Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 22:37, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-14T22:37:00",
-    "seen_at": "2026-04-14T20:40:16.493Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 22:37, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-14T17:47:00",
-    "seen_at": "2026-04-14T20:42:17.114Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "89103",
-    "event_time": "2026-04-14T22:41:00",
-    "seen_at": "2026-04-14T20:42:41.037Z",
-    "raw": "Br. Vlaka 89103 odlazak      14.04.26. 22:41, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "89753",
-    "event_time": "2026-04-14T17:47:00",
-    "seen_at": "2026-04-14T20:43:04.745Z",
-    "raw": "Br. Vlaka 89753 formiran     14.04.26. 17:47, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-14T17:47:00",
-    "seen_at": "2026-04-14T20:44:16.102Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "89753",
-    "event_time": "2026-04-14T22:44:00",
-    "seen_at": "2026-04-14T20:45:03.745Z",
-    "raw": "Br. Vlaka 89753 formiran     14.04.26. 22:44, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -16009,5 +15946,50 @@
     "event_time": "2026-04-17T22:35:00",
     "seen_at": "2026-04-17T20:37:06.722Z",
     "raw": "Br. Vlaka 83804 odlazak      17.04.26. 22:35, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "81972",
+    "event_time": "2026-04-17T22:40:00",
+    "seen_at": "2026-04-17T20:40:48.604Z",
+    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 22:40, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "83804",
+    "event_time": "2026-04-17T22:41:00",
+    "seen_at": "2026-04-17T20:41:56.422Z",
+    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 22:41, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "83810",
+    "event_time": "2026-04-17T22:38:00",
+    "seen_at": "2026-04-17T20:44:11.450Z",
+    "raw": "Br. Vlaka 83810 dolazak      17.04.26. 22:38, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "83810",
+    "event_time": "2026-04-17T22:40:00",
+    "seen_at": "2026-04-17T20:44:34.136Z",
+    "raw": "Br. Vlaka 83810 odlazak      17.04.26. 22:40, kolodvor SISAK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZALESINA",
+    "train_number": "81966",
+    "event_time": "2026-04-17T22:45:00",
+    "seen_at": "2026-04-17T20:46:04.935Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 22:45, kolodvor ZALESINA"
   }
 ]
