@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44788",
-    "event_time": "2026-04-14T15:58:00",
-    "seen_at": "2026-04-14T13:59:32.740Z",
-    "raw": "Br. Vlaka 44788 dolazak      14.04.26. 15:58, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-14T15:58:00",
-    "seen_at": "2026-04-14T14:02:24.255Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820620247",
     "type": "Odlazak",
     "station": "KOTORIBA",
     "train_number": "44788",
@@ -15163,5 +15145,14 @@
     "event_time": "2026-04-17T15:46:00",
     "seen_at": "2026-04-17T13:48:53.443Z",
     "raw": "Br. Vlaka 63310 promjena sas 17.04.26. 15:46, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-17T15:56:00",
+    "seen_at": "2026-04-17T13:58:38.500Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 15:56, kolodvor VRHOVINE"
   }
 ]
