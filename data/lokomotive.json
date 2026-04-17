@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44787",
-    "event_time": "2026-04-14T05:43:00",
-    "seen_at": "2026-04-14T03:43:54.076Z",
-    "raw": "Br. Vlaka 44787 formiran     14.04.26. 05:43, kolodvor KOTORIBA-GR"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -14794,5 +14785,32 @@
     "event_time": "2026-04-17T05:35:00",
     "seen_at": "2026-04-17T03:40:35.593Z",
     "raw": "Br. Vlaka 81962 odlazak      17.04.26. 05:35, kolodvor SPLIT PREDGRAĐE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "48581",
+    "event_time": "2026-04-17T05:46:00",
+    "seen_at": "2026-04-17T03:46:54.283Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 05:46, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "48581",
+    "event_time": "2026-04-17T05:46:00",
+    "seen_at": "2026-04-17T03:46:54.283Z",
+    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 05:46, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SOLIN",
+    "train_number": "81962",
+    "event_time": "2026-04-17T05:42:00",
+    "seen_at": "2026-04-17T03:48:27.093Z",
+    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 05:42, kolodvor SOLIN"
   }
 ]
