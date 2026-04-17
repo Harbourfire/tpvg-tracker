@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69326",
-    "event_time": "2026-04-14T06:42:00",
-    "seen_at": "2026-04-14T04:43:09.049Z",
-    "raw": "Br. Vlaka 69326 odlazak      14.04.26. 06:42, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -14803,5 +14794,32 @@
     "event_time": "2026-04-17T06:31:00",
     "seen_at": "2026-04-17T04:32:44.208Z",
     "raw": "Br. Vlaka 71206 odlazak      17.04.26. 06:31, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "LABIN DALMATINSKI",
+    "train_number": "81962",
+    "event_time": "2026-04-17T06:19:00",
+    "seen_at": "2026-04-17T04:40:48.247Z",
+    "raw": "Br. Vlaka 81962 dolazak      17.04.26. 06:19, kolodvor LABIN DALMATINSKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LABIN DALMATINSKI",
+    "train_number": "81962",
+    "event_time": "2026-04-17T06:26:00",
+    "seen_at": "2026-04-17T04:41:11.335Z",
+    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 06:26, kolodvor LABIN DALMATINSKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PRIMORSKI DOLAC",
+    "train_number": "81962",
+    "event_time": "2026-04-17T06:40:00",
+    "seen_at": "2026-04-17T04:41:34.157Z",
+    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 06:40, kolodvor PRIMORSKI DOLAC"
   }
 ]
