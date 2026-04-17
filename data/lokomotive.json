@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "45581",
-    "event_time": "2026-04-14T19:41:00",
-    "seen_at": "2026-04-14T17:42:09.718Z",
-    "raw": "Br. Vlaka 45581 dolazak      14.04.26. 19:41, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230142",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
     "train_number": "45581",
@@ -15649,5 +15640,59 @@
     "event_time": "2026-04-17T19:37:00",
     "seen_at": "2026-04-17T17:38:57.097Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:37, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-17T19:42:00",
+    "seen_at": "2026-04-17T17:42:58.792Z",
+    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 19:42, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89139",
+    "event_time": "2026-04-17T19:39:00",
+    "seen_at": "2026-04-17T17:44:28.699Z",
+    "raw": "Br. Vlaka 89139 odlazak      17.04.26. 19:39, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "42786",
+    "event_time": "2026-04-17T19:09:00",
+    "seen_at": "2026-04-17T17:44:28.700Z",
+    "raw": "Br. Vlaka 42786 promjena sas 17.04.26. 19:09, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-17T19:45:00",
+    "seen_at": "2026-04-17T17:46:01.102Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "DEANOVEC",
+    "train_number": "82333",
+    "event_time": "2026-04-17T19:35:00",
+    "seen_at": "2026-04-17T17:48:18.690Z",
+    "raw": "Br. Vlaka 82333 dolazak      17.04.26. 19:35, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DEANOVEC",
+    "train_number": "82333",
+    "event_time": "2026-04-17T19:47:00",
+    "seen_at": "2026-04-17T17:48:41.371Z",
+    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 19:47, kolodvor DEANOVEC"
   }
 ]
