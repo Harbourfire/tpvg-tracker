@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "89925",
-    "event_time": "2026-04-14T16:31:00",
-    "seen_at": "2026-04-14T14:33:33.469Z",
-    "raw": "Br. Vlaka 89925 dolazak      14.04.26. 16:31, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49997",
-    "event_time": "2026-04-14T16:35:00",
-    "seen_at": "2026-04-14T14:36:11.572Z",
-    "raw": "Br. Vlaka 49997 dolazak      14.04.26. 16:35, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49997",
-    "event_time": "2026-04-14T16:35:00",
-    "seen_at": "2026-04-14T14:36:11.573Z",
-    "raw": "Br. Vlaka 49997 dolazak      14.04.26. 16:35, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-14T16:37:00",
-    "seen_at": "2026-04-14T14:39:01.434Z",
-    "raw": "Br. Vlaka 63310 odlazak      14.04.26. 16:37, kolodvor BLATA"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -15199,5 +15163,41 @@
     "event_time": "2026-04-17T16:31:00",
     "seen_at": "2026-04-17T14:32:03.416Z",
     "raw": "Br. Vlaka 89139 formiran     17.04.26. 16:31, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "VRHOVINE",
+    "train_number": null,
+    "event_time": "2026-04-17T16:31:00",
+    "seen_at": "2026-04-17T14:34:10.496Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-17T14:33:00",
+    "seen_at": "2026-04-17T14:34:33.675Z",
+    "raw": "Br. Vlaka 63312 formiran     17.04.26. 14:33, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T16:35:00",
+    "seen_at": "2026-04-17T14:36:51.978Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:35, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44789",
+    "event_time": "2026-04-17T16:35:00",
+    "seen_at": "2026-04-17T14:36:51.978Z",
+    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:35, kolodvor ZLATAR-BISTRICA"
   }
 ]
