@@ -2,42 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "45581",
-    "event_time": "2026-04-14T19:11:00",
-    "seen_at": "2026-04-14T17:12:37.449Z",
-    "raw": "Br. Vlaka 45581 odlazak      14.04.26. 19:11, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "61004",
-    "event_time": "2026-04-14T19:15:00",
-    "seen_at": "2026-04-14T17:15:38.785Z",
-    "raw": "Br. Vlaka 61004 formiran     14.04.26. 19:15, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89754",
-    "event_time": "2026-04-14T19:14:00",
-    "seen_at": "2026-04-14T17:15:38.786Z",
-    "raw": "Br. Vlaka 89754 odlazak      14.04.26. 19:14, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89762",
-    "event_time": "2026-04-14T19:17:00",
-    "seen_at": "2026-04-14T17:18:03.523Z",
-    "raw": "Br. Vlaka 89762 formiran     14.04.26. 19:17, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "DUGA RESA",
     "train_number": "45581",
     "event_time": "2026-04-14T19:21:00",
@@ -15667,5 +15631,14 @@
     "event_time": "2026-04-17T19:09:00",
     "seen_at": "2026-04-17T17:10:54.129Z",
     "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:09, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49999",
+    "event_time": "2026-04-17T19:12:00",
+    "seen_at": "2026-04-17T17:14:53.583Z",
+    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 19:12, kolodvor NOVI MAROF"
   }
 ]
