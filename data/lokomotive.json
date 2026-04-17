@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81231",
-    "event_time": "2026-04-14T11:34:00",
-    "seen_at": "2026-04-14T09:35:30.509Z",
-    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 11:34, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-14T11:35:00",
-    "seen_at": "2026-04-14T09:35:54.287Z",
-    "raw": "Br. Vlaka 45104 odlazak      14.04.26. 11:35, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47428",
-    "event_time": "2026-04-14T11:36:00",
-    "seen_at": "2026-04-14T09:36:42.668Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 11:36, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44788",
-    "event_time": "2026-04-14T11:33:00",
-    "seen_at": "2026-04-14T09:39:30.100Z",
-    "raw": "Br. Vlaka 44788 dolazak      14.04.26. 11:33, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44788",
-    "event_time": "2026-04-14T11:33:00",
-    "seen_at": "2026-04-14T09:40:05.525Z",
-    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 11:33, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "ZAPREŠIĆ",
@@ -14893,5 +14848,14 @@
     "event_time": "2026-04-17T11:30:00",
     "seen_at": "2026-04-17T09:31:50.048Z",
     "raw": "Br. Vlaka 49999 odlazak      17.04.26. 11:30, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "81231",
+    "event_time": "2026-04-17T11:25:00",
+    "seen_at": "2026-04-17T09:40:24.449Z",
+    "raw": "Br. Vlaka 81231 promjena sas 17.04.26. 11:25, kolodvor PLAŠKI"
   }
 ]
