@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "61037",
-    "event_time": "2026-04-15T00:56:00",
-    "seen_at": "2026-04-14T23:03:07.870Z",
-    "raw": "Br. Vlaka 61037 odlazak      15.04.26. 00:56, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44994",
-    "event_time": "2026-04-15T01:03:00",
-    "seen_at": "2026-04-14T23:05:32.273Z",
-    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 01:03, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-15T01:01:00",
-    "seen_at": "2026-04-14T23:05:32.273Z",
-    "raw": "Br. Vlaka 44786 dolazak      15.04.26. 01:01, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89920",
-    "event_time": "2026-04-15T01:05:00",
-    "seen_at": "2026-04-14T23:08:36.479Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 01:05, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -16036,5 +16000,41 @@
     "event_time": "2026-04-18T00:56:00",
     "seen_at": "2026-04-17T22:58:59.917Z",
     "raw": "Br. Vlaka 43997 odlazak      18.04.26. 00:56, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-18T00:59:00",
+    "seen_at": "2026-04-17T23:00:49.130Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-18T01:02:00",
+    "seen_at": "2026-04-17T23:03:06.543Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-18T00:58:00",
+    "seen_at": "2026-04-17T23:06:07.951Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "43997",
+    "event_time": "2026-04-18T01:04:00",
+    "seen_at": "2026-04-17T23:07:16.432Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 01:04, kolodvor MALA SUBOTICA"
   }
 ]
