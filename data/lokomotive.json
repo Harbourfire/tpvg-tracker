@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-14T12:38:00",
-    "seen_at": "2026-04-14T10:38:50.026Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ČAKOVEC",
-    "train_number": "44788",
-    "event_time": "2026-04-14T11:55:00",
-    "seen_at": "2026-04-14T10:40:27.520Z",
-    "raw": "Br. Vlaka 44788 promjena sas 14.04.26. 11:55, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-14T12:40:00",
-    "seen_at": "2026-04-14T10:41:16.118Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44787",
-    "event_time": "2026-04-14T12:40:00",
-    "seen_at": "2026-04-14T10:41:40.246Z",
-    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:40, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44787",
-    "event_time": "2026-04-14T12:40:00",
-    "seen_at": "2026-04-14T10:41:40.247Z",
-    "raw": "Br. Vlaka 44787 odlazak      14.04.26. 12:40, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-14T11:42:00",
-    "seen_at": "2026-04-14T10:41:40.247Z",
-    "raw": "Br. Vlaka 63310 formiran     14.04.26. 11:42, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Formiran",
-    "station": "LOVINAC",
-    "train_number": "78000",
-    "event_time": "2026-04-14T12:42:00",
-    "seen_at": "2026-04-14T10:44:04.544Z",
-    "raw": "Br. Vlaka 78000 formiran     14.04.26. 12:42, kolodvor LOVINAC"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "78000",
-    "event_time": "2026-04-14T12:40:00",
-    "seen_at": "2026-04-14T10:44:52.930Z",
-    "raw": "Br. Vlaka 78000 odlazak      14.04.26. 12:40, kolodvor LOVINAC"
-  },
-  {
     "uic": "997894245619",
     "type": "Odlazak",
     "station": "MEDAK",
@@ -14884,5 +14812,59 @@
     "event_time": "2026-04-17T12:34:00",
     "seen_at": "2026-04-17T10:35:04.583Z",
     "raw": "Br. Vlaka 82330 odlazak      17.04.26. 12:34, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "81231",
+    "event_time": "2026-04-17T12:39:00",
+    "seen_at": "2026-04-17T10:41:12.893Z",
+    "raw": "Br. Vlaka 81231 dolazak      17.04.26. 12:39, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81108",
+    "event_time": "2026-04-17T12:45:00",
+    "seen_at": "2026-04-17T10:45:51.224Z",
+    "raw": "Br. Vlaka 81108 odlazak      17.04.26. 12:45, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "82330",
+    "event_time": "2026-04-17T12:44:00",
+    "seen_at": "2026-04-17T10:45:51.225Z",
+    "raw": "Br. Vlaka 82330 dolazak      17.04.26. 12:44, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "UNEŠIĆ",
+    "train_number": "81965",
+    "event_time": "2026-04-17T12:42:00",
+    "seen_at": "2026-04-17T10:46:14.261Z",
+    "raw": "Br. Vlaka 81965 odlazak      17.04.26. 12:42, kolodvor UNEŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-17T12:32:00",
+    "seen_at": "2026-04-17T10:46:38.423Z",
+    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 12:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-17T12:32:00",
+    "seen_at": "2026-04-17T10:46:38.424Z",
+    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 12:32, kolodvor VARAŽDIN"
   }
 ]
