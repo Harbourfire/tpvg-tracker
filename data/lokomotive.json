@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44996",
-    "event_time": "2026-04-14T10:36:00",
-    "seen_at": "2026-04-14T08:39:10.519Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 10:36, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81231",
-    "event_time": "2026-04-14T10:43:00",
-    "seen_at": "2026-04-14T08:43:54.101Z",
-    "raw": "Br. Vlaka 81231 odlazak      14.04.26. 10:43, kolodvor BLATA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "JASTREBARSKO",
@@ -14902,5 +14884,41 @@
     "event_time": "2026-04-17T10:25:00",
     "seen_at": "2026-04-17T08:34:12.260Z",
     "raw": "Trenutna pozicija je u kolodvoru 76762 RAŽINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "RAŽINE",
+    "train_number": "81965",
+    "event_time": "2026-04-17T08:02:00",
+    "seen_at": "2026-04-17T08:37:26.524Z",
+    "raw": "Br. Vlaka 81965 formiran     17.04.26. 08:02, kolodvor RAŽINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-17T10:24:00",
+    "seen_at": "2026-04-17T08:41:13.506Z",
+    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 10:24, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-17T10:24:00",
+    "seen_at": "2026-04-17T08:41:13.507Z",
+    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 10:24, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81231",
+    "event_time": "2026-04-17T10:42:00",
+    "seen_at": "2026-04-17T08:43:07.616Z",
+    "raw": "Br. Vlaka 81231 formiran     17.04.26. 10:42, kolodvor OŠTARIJE"
   }
 ]
