@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-14T13:51:00",
-    "seen_at": "2026-04-14T19:10:07.989Z",
-    "raw": "Br. Vlaka 44787 promjena sas 14.04.26. 13:51, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82323",
-    "event_time": "2026-04-14T21:10:00",
-    "seen_at": "2026-04-14T19:13:10.725Z",
-    "raw": "Br. Vlaka 82323 odlazak      14.04.26. 21:10, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "987821323118",
     "type": "Odlazak",
     "station": "STARO PETROVO SELO",
@@ -15847,5 +15829,23 @@
     "event_time": "2026-04-17T20:46:00",
     "seen_at": "2026-04-17T19:05:06.914Z",
     "raw": "Br. Vlaka 83804 formiran     17.04.26. 20:46, kolodvor LUKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81974",
+    "event_time": "2026-04-17T21:05:00",
+    "seen_at": "2026-04-17T19:05:43.918Z",
+    "raw": "Br. Vlaka 81974 formiran     17.04.26. 21:05, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "81966",
+    "event_time": "2026-04-17T21:03:00",
+    "seen_at": "2026-04-17T19:07:37.838Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 21:03, kolodvor JOSIPDOL"
   }
 ]
