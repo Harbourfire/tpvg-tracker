@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44788",
-    "event_time": "2026-04-14T11:24:00",
-    "seen_at": "2026-04-14T09:26:54.792Z",
-    "raw": "Br. Vlaka 44788 odlazak      14.04.26. 11:24, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-14T11:08:00",
-    "seen_at": "2026-04-14T09:27:18.794Z",
-    "raw": "Br. Vlaka 45104 odlazak      14.04.26. 11:08, kolodvor 71308"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-14T11:17:00",
-    "seen_at": "2026-04-14T09:27:42.700Z",
-    "raw": "Br. Vlaka 45104 dolazak      14.04.26. 11:17, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45941",
-    "event_time": "2026-04-14T11:28:00",
-    "seen_at": "2026-04-14T09:28:30.044Z",
-    "raw": "Br. Vlaka 45941 odlazak      14.04.26. 11:28, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47428",
-    "event_time": "2026-04-14T11:28:00",
-    "seen_at": "2026-04-14T09:29:41.233Z",
-    "raw": "Br. Vlaka 47428 odlazak      14.04.26. 11:28, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -14902,5 +14857,41 @@
     "event_time": "2026-04-17T11:22:00",
     "seen_at": "2026-04-17T09:22:27.444Z",
     "raw": "Br. Vlaka 48588 odlazak      17.04.26. 11:22, kolodvor KOŠKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "48588",
+    "event_time": "2026-04-17T11:22:00",
+    "seen_at": "2026-04-17T09:23:01.603Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 11:22, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "81231",
+    "event_time": "2026-04-17T11:25:00",
+    "seen_at": "2026-04-17T09:29:32.588Z",
+    "raw": "Br. Vlaka 81231 dolazak      17.04.26. 11:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "66481",
+    "event_time": "2026-04-17T11:30:00",
+    "seen_at": "2026-04-17T09:30:41.002Z",
+    "raw": "Br. Vlaka 66481 formiran     17.04.26. 11:30, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "49999",
+    "event_time": "2026-04-17T11:30:00",
+    "seen_at": "2026-04-17T09:31:50.048Z",
+    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 11:30, kolodvor ČAKOVEC"
   }
 ]
