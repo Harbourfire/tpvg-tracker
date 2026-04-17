@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "69784",
-    "event_time": "2026-04-14T02:58:00",
-    "seen_at": "2026-04-14T00:59:26.896Z",
-    "raw": "Br. Vlaka 69784 dolazak      14.04.26. 02:58, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-14T02:58:00",
-    "seen_at": "2026-04-14T01:00:25.160Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T03:01:00",
-    "seen_at": "2026-04-14T01:02:24.120Z",
-    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 03:01, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "45780",
-    "event_time": "2026-04-14T03:01:00",
-    "seen_at": "2026-04-14T01:02:24.121Z",
-    "raw": "Br. Vlaka 45780 odlazak      14.04.26. 03:01, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -14416,5 +14380,59 @@
     "event_time": "2026-04-17T02:49:00",
     "seen_at": "2026-04-17T00:52:39.833Z",
     "raw": "Br. Vlaka 89128 dolazak      17.04.26. 02:49, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-17T02:57:00",
+    "seen_at": "2026-04-17T00:57:29.428Z",
+    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:57, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-17T02:57:00",
+    "seen_at": "2026-04-17T00:57:29.428Z",
+    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:57, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŽITNIĆ",
+    "train_number": "81951",
+    "event_time": "2026-04-17T02:56:00",
+    "seen_at": "2026-04-17T00:57:52.476Z",
+    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 02:56, kolodvor ŽITNIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89128",
+    "event_time": "2026-04-17T02:58:00",
+    "seen_at": "2026-04-17T00:59:45.728Z",
+    "raw": "Br. Vlaka 89128 odlazak      17.04.26. 02:58, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81101",
+    "event_time": "2026-04-17T02:57:00",
+    "seen_at": "2026-04-17T01:00:08.227Z",
+    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 02:57, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81101",
+    "event_time": "2026-04-17T02:57:00",
+    "seen_at": "2026-04-17T01:00:08.228Z",
+    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 02:57, kolodvor TURČIN"
   }
 ]
