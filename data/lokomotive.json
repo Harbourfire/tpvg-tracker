@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-14T08:14:00",
-    "seen_at": "2026-04-14T06:14:28.607Z",
-    "raw": "Br. Vlaka 45105 dolazak      14.04.26. 08:14, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-04-14T07:19:00",
-    "seen_at": "2026-04-14T06:14:52.426Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -14911,5 +14893,32 @@
     "event_time": "2026-04-17T08:01:00",
     "seen_at": "2026-04-17T06:05:20.219Z",
     "raw": "Br. Vlaka 81963 odlazak      17.04.26. 08:01, kolodvor RAŽINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ŠIBENIK",
+    "train_number": "81963",
+    "event_time": "2026-04-17T08:11:00",
+    "seen_at": "2026-04-17T06:15:41.083Z",
+    "raw": "Br. Vlaka 81963 dolazak      17.04.26. 08:11, kolodvor ŠIBENIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ŠIBENIK",
+    "train_number": null,
+    "event_time": "2026-04-17T08:11:00",
+    "seen_at": "2026-04-17T06:16:26.618Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76760 ŠIBENIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ŠIBENIK",
+    "train_number": "81964",
+    "event_time": "2026-04-17T07:57:00",
+    "seen_at": "2026-04-17T06:22:13.234Z",
+    "raw": "Br. Vlaka 81964 formiran     17.04.26. 07:57, kolodvor ŠIBENIK"
   }
 ]
