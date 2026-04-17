@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-14T09:15:00",
-    "seen_at": "2026-04-14T07:34:27.257Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69770",
-    "event_time": "2026-04-14T08:40:00",
-    "seen_at": "2026-04-14T07:34:51.566Z",
-    "raw": "Br. Vlaka 69770 formiran     14.04.26. 08:40, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69770",
-    "event_time": "2026-04-14T09:29:00",
-    "seen_at": "2026-04-14T07:36:28.647Z",
-    "raw": "Br. Vlaka 69770 odlazak      14.04.26. 09:29, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "47428",
-    "event_time": "2026-04-14T09:35:00",
-    "seen_at": "2026-04-14T07:36:28.649Z",
-    "raw": "Br. Vlaka 47428 dolazak      14.04.26. 09:35, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-14T09:25:00",
-    "seen_at": "2026-04-14T07:38:55.728Z",
-    "raw": "Br. Vlaka 44996 odlazak      14.04.26. 09:25, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -14857,5 +14812,41 @@
     "event_time": "2026-04-17T09:09:00",
     "seen_at": "2026-04-17T07:09:39.093Z",
     "raw": "Br. Vlaka 82119 odlazak      17.04.26. 09:09, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T09:31:00",
+    "seen_at": "2026-04-17T07:33:13.369Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:31, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44996",
+    "event_time": "2026-04-17T09:31:00",
+    "seen_at": "2026-04-17T07:33:13.370Z",
+    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:31, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-04-17T09:30:00",
+    "seen_at": "2026-04-17T07:36:35.953Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:30, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "48588",
+    "event_time": "2026-04-17T09:30:00",
+    "seen_at": "2026-04-17T07:36:35.954Z",
+    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:30, kolodvor ČAČINCI"
   }
 ]
