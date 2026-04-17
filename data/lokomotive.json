@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44994",
-    "event_time": "2026-04-15T00:35:00",
-    "seen_at": "2026-04-14T22:36:19.027Z",
-    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 00:35, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89920",
-    "event_time": "2026-04-15T00:28:00",
-    "seen_at": "2026-04-14T22:36:42.706Z",
-    "raw": "Br. Vlaka 89920 dolazak      15.04.26. 00:28, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44786",
-    "event_time": "2026-04-15T00:37:00",
-    "seen_at": "2026-04-14T22:38:27.274Z",
-    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 00:37, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "BUDINŠĆINA",
     "train_number": "44994",
     "event_time": "2026-04-15T00:45:00",
@@ -15964,5 +15937,50 @@
     "event_time": "2026-04-18T00:28:00",
     "seen_at": "2026-04-17T22:28:36.863Z",
     "raw": "Br. Vlaka 81966 odlazak      18.04.26. 00:28, kolodvor 75603"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "83805",
+    "event_time": "2026-04-18T00:31:00",
+    "seen_at": "2026-04-17T22:32:14.820Z",
+    "raw": "Br. Vlaka 83805 odlazak      18.04.26. 00:31, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69327",
+    "event_time": "2026-04-18T00:32:00",
+    "seen_at": "2026-04-17T22:32:37.283Z",
+    "raw": "Br. Vlaka 69327 odlazak      18.04.26. 00:32, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GENERALSKI STOL",
+    "train_number": "81972",
+    "event_time": "2026-04-18T00:35:00",
+    "seen_at": "2026-04-17T22:36:47.048Z",
+    "raw": "Br. Vlaka 81972 odlazak      18.04.26. 00:35, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "BAKAR",
+    "train_number": "81966",
+    "event_time": "2026-04-18T00:37:00",
+    "seen_at": "2026-04-17T22:39:26.279Z",
+    "raw": "Br. Vlaka 81966 dolazak      18.04.26. 00:37, kolodvor 75601"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "BAKAR",
+    "train_number": null,
+    "event_time": "2026-04-18T00:37:00",
+    "seen_at": "2026-04-17T22:39:49.116Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75601 75601"
   }
 ]
