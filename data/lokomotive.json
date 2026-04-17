@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "82300",
-    "event_time": "2026-04-14T13:57:00",
-    "seen_at": "2026-04-14T11:57:56.556Z",
-    "raw": "Br. Vlaka 82300 odlazak      14.04.26. 13:57, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -15082,5 +15073,41 @@
     "event_time": "2026-04-17T13:49:00",
     "seen_at": "2026-04-17T11:50:28.868Z",
     "raw": "Br. Vlaka 76501 formiran     17.04.26. 13:49, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "89749",
+    "event_time": "2026-04-17T13:52:00",
+    "seen_at": "2026-04-17T11:55:33.573Z",
+    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 13:52, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "DEANOVEC",
+    "train_number": "81108",
+    "event_time": "2026-04-17T13:58:00",
+    "seen_at": "2026-04-17T11:58:56.241Z",
+    "raw": "Br. Vlaka 81108 dolazak      17.04.26. 13:58, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "89749",
+    "event_time": "2026-04-17T13:58:00",
+    "seen_at": "2026-04-17T11:58:56.243Z",
+    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 13:58, kolodvor KUKAČA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76501",
+    "event_time": "2026-04-17T14:00:00",
+    "seen_at": "2026-04-17T12:00:26.675Z",
+    "raw": "Br. Vlaka 76501 odlazak      17.04.26. 14:00, kolodvor NOVA GRADIŠKA"
   }
 ]
