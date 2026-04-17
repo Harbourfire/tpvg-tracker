@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89920",
-    "event_time": "2026-04-14T23:51:00",
-    "seen_at": "2026-04-14T21:53:59.269Z",
-    "raw": "Br. Vlaka 89920 odlazak      14.04.26. 23:51, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44994",
-    "event_time": "2026-04-14T23:56:00",
-    "seen_at": "2026-04-14T21:58:06.174Z",
-    "raw": "Br. Vlaka 44994 dolazak      14.04.26. 23:56, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-14T23:57:00",
-    "seen_at": "2026-04-14T21:58:06.176Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:57, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-14T23:57:00",
-    "seen_at": "2026-04-14T21:58:06.176Z",
-    "raw": "Br. Vlaka 63305 odlazak      14.04.26. 23:57, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44786",
-    "event_time": "2026-04-14T23:57:00",
-    "seen_at": "2026-04-14T21:58:54.301Z",
-    "raw": "Br. Vlaka 44786 odlazak      14.04.26. 23:57, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "BIZOVAC",
@@ -15982,5 +15937,50 @@
     "event_time": "2026-04-17T23:52:00",
     "seen_at": "2026-04-17T21:53:37.216Z",
     "raw": "Br. Vlaka 83804 odlazak      17.04.26. 23:52, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "69327",
+    "event_time": "2026-04-17T23:58:00",
+    "seen_at": "2026-04-17T21:58:52.182Z",
+    "raw": "Br. Vlaka 69327 odlazak      17.04.26. 23:58, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "MEJA",
+    "train_number": "81966",
+    "event_time": "2026-04-17T23:59:00",
+    "seen_at": "2026-04-17T21:59:38.551Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 23:59, kolodvor MEJA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "83804",
+    "event_time": "2026-04-17T23:59:00",
+    "seen_at": "2026-04-17T22:00:49.344Z",
+    "raw": "Br. Vlaka 83804 dolazak      17.04.26. 23:59, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-17T23:59:00",
+    "seen_at": "2026-04-17T22:01:12.235Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "81972",
+    "event_time": "2026-04-18T00:01:00",
+    "seen_at": "2026-04-17T22:02:21.271Z",
+    "raw": "Br. Vlaka 81972 odlazak      18.04.26. 00:01, kolodvor DUGA RESA"
   }
 ]
