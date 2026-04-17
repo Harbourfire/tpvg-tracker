@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-14T21:01:00",
-    "seen_at": "2026-04-14T19:03:17.437Z",
-    "raw": "Br. Vlaka 63305 formiran     14.04.26. 21:01, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-14T21:01:00",
-    "seen_at": "2026-04-14T19:03:17.437Z",
-    "raw": "Br. Vlaka 63305 formiran     14.04.26. 21:01, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89762",
-    "event_time": "2026-04-14T21:03:00",
-    "seen_at": "2026-04-14T19:04:30.051Z",
-    "raw": "Br. Vlaka 89762 odlazak      14.04.26. 21:03, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-12T23:00:00",
-    "seen_at": "2026-04-14T19:04:53.990Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -15829,5 +15793,59 @@
     "event_time": "2026-04-17T20:48:00",
     "seen_at": "2026-04-17T18:50:44.550Z",
     "raw": "Br. Vlaka 82333 odlazak      17.04.26. 20:48, kolodvor KUTINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89755",
+    "event_time": "2026-04-17T20:53:00",
+    "seen_at": "2026-04-17T18:58:19.903Z",
+    "raw": "Br. Vlaka 89755 dolazak      17.04.26. 20:53, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "42786",
+    "event_time": "2026-04-17T20:57:00",
+    "seen_at": "2026-04-17T18:58:19.905Z",
+    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 20:57, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89755",
+    "event_time": "2026-04-17T20:56:00",
+    "seen_at": "2026-04-17T18:58:42.486Z",
+    "raw": "Br. Vlaka 89755 odlazak      17.04.26. 20:56, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "BANOVA JARUGA",
+    "train_number": "82333",
+    "event_time": "2026-04-17T21:03:00",
+    "seen_at": "2026-04-17T19:03:36.763Z",
+    "raw": "Br. Vlaka 82333 dolazak      17.04.26. 21:03, kolodvor BANOVA JARUGA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "LUKA",
+    "train_number": null,
+    "event_time": "2026-04-17T21:00:00",
+    "seen_at": "2026-04-17T19:03:36.763Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "LUKA",
+    "train_number": "83804",
+    "event_time": "2026-04-17T20:46:00",
+    "seen_at": "2026-04-17T19:05:06.914Z",
+    "raw": "Br. Vlaka 83804 formiran     17.04.26. 20:46, kolodvor LUKA"
   }
 ]
