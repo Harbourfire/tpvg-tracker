@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82323",
-    "event_time": "2026-04-14T21:22:00",
-    "seen_at": "2026-04-14T19:24:02.059Z",
-    "raw": "Br. Vlaka 82323 odlazak      14.04.26. 21:22, kolodvor TURČIN"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89762",
-    "event_time": "2026-04-14T21:27:00",
-    "seen_at": "2026-04-14T19:27:17.965Z",
-    "raw": "Br. Vlaka 89762 odlazak      14.04.26. 21:27, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "987821323118",
     "type": "Dolazak",
     "station": "OKUČANI",
@@ -15901,5 +15883,23 @@
     "event_time": "2026-04-17T21:21:00",
     "seen_at": "2026-04-17T19:23:37.440Z",
     "raw": "Br. Vlaka 83807 dolazak      17.04.26. 21:21, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SISAK CAPRAG",
+    "train_number": null,
+    "event_time": "2026-04-17T21:21:00",
+    "seen_at": "2026-04-17T19:24:34.896Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72103 SISAK CAPRAG"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81974",
+    "event_time": "2026-04-17T21:22:00",
+    "seen_at": "2026-04-17T19:27:14.502Z",
+    "raw": "Br. Vlaka 81974 dolazak      17.04.26. 21:22, kolodvor OSIJEK"
   }
 ]
