@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "MRZLO POLJE",
-    "train_number": "45581",
-    "event_time": "2026-04-14T19:02:00",
-    "seen_at": "2026-04-14T17:05:26.169Z",
-    "raw": "Br. Vlaka 45581 dolazak      14.04.26. 19:02, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "82323",
-    "event_time": "2026-04-14T17:55:00",
-    "seen_at": "2026-04-14T17:09:03.703Z",
-    "raw": "Br. Vlaka 82323 formiran     14.04.26. 17:55, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230142",
     "type": "Odlazak",
     "station": "MRZLO POLJE",
     "train_number": "45581",
@@ -15676,5 +15658,14 @@
     "event_time": "2026-04-17T18:59:00",
     "seen_at": "2026-04-17T17:00:25.476Z",
     "raw": "Br. Vlaka 48588 dolazak      17.04.26. 18:59, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81966",
+    "event_time": "2026-04-17T19:09:00",
+    "seen_at": "2026-04-17T17:10:54.129Z",
+    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:09, kolodvor GOSPIĆ"
   }
 ]
