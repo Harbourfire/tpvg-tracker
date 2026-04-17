@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49997",
-    "event_time": "2026-04-14T15:15:00",
-    "seen_at": "2026-04-14T13:17:09.759Z",
-    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:15, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49997",
-    "event_time": "2026-04-14T15:15:00",
-    "seen_at": "2026-04-14T13:17:09.760Z",
-    "raw": "Br. Vlaka 49997 odlazak      14.04.26. 15:15, kolodvor TURČIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Dolazak",
     "station": "RUDOPOLJE",
@@ -15190,5 +15172,68 @@
     "event_time": "2026-04-17T15:00:00",
     "seen_at": "2026-04-17T13:02:39.664Z",
     "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:00, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-17T15:07:00",
+    "seen_at": "2026-04-17T13:08:41.847Z",
+    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 15:07, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "83809",
+    "event_time": "2026-04-17T15:08:00",
+    "seen_at": "2026-04-17T13:09:04.606Z",
+    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:08, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "83809",
+    "event_time": "2026-04-17T15:08:00",
+    "seen_at": "2026-04-17T13:09:04.607Z",
+    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:08, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "61201",
+    "event_time": "2026-04-17T15:07:00",
+    "seen_at": "2026-04-17T13:09:27.350Z",
+    "raw": "Br. Vlaka 61201 odlazak      17.04.26. 15:07, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "45980",
+    "event_time": "2026-04-17T15:10:00",
+    "seen_at": "2026-04-17T13:12:07.066Z",
+    "raw": "Br. Vlaka 45980 dolazak      17.04.26. 15:10, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "48588",
+    "event_time": "2026-04-17T15:10:00",
+    "seen_at": "2026-04-17T13:15:32.011Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 15:10, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "48588",
+    "event_time": "2026-04-17T15:10:00",
+    "seen_at": "2026-04-17T13:15:32.011Z",
+    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 15:10, kolodvor OSIJEK"
   }
 ]
