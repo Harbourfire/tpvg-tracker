@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "47428",
-    "event_time": "2026-04-14T11:41:00",
-    "seen_at": "2026-04-14T09:41:40.938Z",
-    "raw": "Br. Vlaka 47428 dolazak      14.04.26. 11:41, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "82300",
-    "event_time": "2026-04-14T11:45:00",
-    "seen_at": "2026-04-14T09:48:04.414Z",
-    "raw": "Br. Vlaka 82300 odlazak      14.04.26. 11:45, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "69851",
-    "event_time": "2026-04-14T11:47:00",
-    "seen_at": "2026-04-14T09:49:50.174Z",
-    "raw": "Br. Vlaka 69851 odlazak      14.04.26. 11:47, kolodvor ERDUT"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -14857,5 +14830,23 @@
     "event_time": "2026-04-17T11:25:00",
     "seen_at": "2026-04-17T09:40:24.449Z",
     "raw": "Br. Vlaka 81231 promjena sas 17.04.26. 11:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "RAŽINE",
+    "train_number": "81965",
+    "event_time": "2026-04-17T11:42:00",
+    "seen_at": "2026-04-17T09:47:23.555Z",
+    "raw": "Br. Vlaka 81965 odlazak      17.04.26. 11:42, kolodvor RAŽINE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "82330",
+    "event_time": "2026-04-17T11:46:00",
+    "seen_at": "2026-04-17T09:47:46.046Z",
+    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 11:46, kolodvor VELIKA"
   }
 ]
