@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45941",
-    "event_time": "2026-04-15T11:35:00",
-    "seen_at": "2026-04-15T09:46:21.991Z",
-    "raw": "Br. Vlaka 45941 odlazak      15.04.26. 11:35, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "82505",
-    "event_time": "2026-04-15T11:47:00",
-    "seen_at": "2026-04-15T09:48:21.922Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.04.26. 11:47, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "49999",
-    "event_time": "2026-04-15T11:42:00",
-    "seen_at": "2026-04-15T09:52:10.185Z",
-    "raw": "Br. Vlaka 49999 promjena sas 15.04.26. 11:42, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "49999",
-    "event_time": "2026-04-15T11:42:00",
-    "seen_at": "2026-04-15T09:52:10.186Z",
-    "raw": "Br. Vlaka 49999 promjena sas 15.04.26. 11:42, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "82505",
-    "event_time": "2026-04-15T11:53:00",
-    "seen_at": "2026-04-15T09:53:47.978Z",
-    "raw": "Br. Vlaka 82505 odlazak      15.04.26. 11:53, kolodvor 72302"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81993",
-    "event_time": "2026-04-15T11:51:00",
-    "seen_at": "2026-04-15T09:54:12.084Z",
-    "raw": "Br. Vlaka 81993 dolazak      15.04.26. 11:51, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81993",
-    "event_time": "2026-04-15T11:51:00",
-    "seen_at": "2026-04-15T09:54:12.084Z",
-    "raw": "Br. Vlaka 81993 dolazak      15.04.26. 11:51, kolodvor PLAŠKI"
-  },
-  {
     "uic": "928012230100",
     "type": "Promjena sastava",
     "station": "PLAŠKI",
@@ -16171,5 +16108,41 @@
     "event_time": "2026-04-18T11:43:00",
     "seen_at": "2026-04-18T09:45:01.265Z",
     "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:43, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DRIVENIK",
+    "train_number": "81969",
+    "event_time": "2026-04-18T11:50:00",
+    "seen_at": "2026-04-18T09:50:40.810Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:50, kolodvor DRIVENIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "89112",
+    "event_time": "2026-04-18T11:51:00",
+    "seen_at": "2026-04-18T09:51:27.759Z",
+    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:51, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-18T11:52:00",
+    "seen_at": "2026-04-18T09:54:09.167Z",
+    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 11:52, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-18T11:53:00",
+    "seen_at": "2026-04-18T09:54:33.261Z",
+    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:53, kolodvor ČAKOVEC"
   }
 ]
