@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89303",
-    "event_time": "2026-04-15T08:35:00",
-    "seen_at": "2026-04-15T06:38:33.319Z",
-    "raw": "Br. Vlaka 89303 odlazak      15.04.26. 08:35, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-15T08:41:00",
-    "seen_at": "2026-04-15T06:42:24.772Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "DALJ",
@@ -16225,5 +16207,50 @@
     "event_time": "2026-04-18T08:34:00",
     "seen_at": "2026-04-18T06:34:53.255Z",
     "raw": "Br. Vlaka 43997 odlazak      18.04.26. 08:34, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "JURDANI",
+    "train_number": "81968",
+    "event_time": "2026-04-18T08:40:00",
+    "seen_at": "2026-04-18T06:41:37.420Z",
+    "raw": "Br. Vlaka 81968 odlazak      18.04.26. 08:40, kolodvor JURDANI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45105",
+    "event_time": "2026-04-18T08:39:00",
+    "seen_at": "2026-04-18T06:42:22.723Z",
+    "raw": "Br. Vlaka 45105 dolazak      18.04.26. 08:39, kolodvor 71308"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-04-18T08:39:00",
+    "seen_at": "2026-04-18T06:42:45.245Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-18T08:43:00",
+    "seen_at": "2026-04-18T06:44:37.941Z",
+    "raw": "Br. Vlaka 45104 formiran     18.04.26. 08:43, kolodvor 71308"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "48786",
+    "event_time": "2026-04-18T08:45:00",
+    "seen_at": "2026-04-18T06:46:31.304Z",
+    "raw": "Br. Vlaka 48786 dolazak      18.04.26. 08:45, kolodvor KOTORIBA"
   }
 ]
