@@ -2,24 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81993",
-    "event_time": "2026-04-15T11:30:00",
-    "seen_at": "2026-04-15T09:31:11.945Z",
-    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 11:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81993",
-    "event_time": "2026-04-15T11:30:00",
-    "seen_at": "2026-04-15T09:31:11.945Z",
-    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 11:30, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "JOSIPDOL",
     "train_number": "81993",
     "event_time": "2026-04-15T11:35:00",
@@ -16171,5 +16153,50 @@
     "event_time": "2026-04-18T11:24:00",
     "seen_at": "2026-04-18T09:25:13.204Z",
     "raw": "Br. Vlaka 69771 odlazak      18.04.26. 11:24, kolodvor DARDA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "ĐAKOVO",
+    "train_number": "89112",
+    "event_time": "2026-04-18T11:27:00",
+    "seen_at": "2026-04-18T09:28:00.885Z",
+    "raw": "Br. Vlaka 89112 formiran     18.04.26. 11:27, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "PLASE",
+    "train_number": "81969",
+    "event_time": "2026-04-18T11:26:00",
+    "seen_at": "2026-04-18T09:28:00.886Z",
+    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 11:26, kolodvor PLASE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-18T11:30:00",
+    "seen_at": "2026-04-18T09:30:17.587Z",
+    "raw": "Br. Vlaka 45104 odlazak      18.04.26. 11:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89112",
+    "event_time": "2026-04-18T11:33:00",
+    "seen_at": "2026-04-18T09:35:58.215Z",
+    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:33, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-18T11:35:00",
+    "seen_at": "2026-04-18T09:36:21.193Z",
+    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:35, kolodvor DONJI KRALJEVEC"
   }
 ]
