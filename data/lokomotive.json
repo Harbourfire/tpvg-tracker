@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Formiran",
-    "station": "SESVETE",
-    "train_number": "82505",
-    "event_time": "2026-04-15T11:12:00",
-    "seen_at": "2026-04-15T09:12:52.048Z",
-    "raw": "Br. Vlaka 82505 formiran     15.04.26. 11:12, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-14T21:45:00",
-    "seen_at": "2026-04-15T09:14:29.253Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "74300",
-    "event_time": "2026-04-15T11:12:00",
-    "seen_at": "2026-04-15T09:15:17.343Z",
-    "raw": "Br. Vlaka 74300 odlazak      15.04.26. 11:12, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -16135,5 +16108,41 @@
     "event_time": "2026-04-18T11:07:00",
     "seen_at": "2026-04-18T09:08:09.562Z",
     "raw": "Br. Vlaka 69771 odlazak      18.04.26. 11:07, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-18T11:08:00",
+    "seen_at": "2026-04-18T09:13:16.571Z",
+    "raw": "Br. Vlaka 45104 odlazak      18.04.26. 11:08, kolodvor 71308"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "82134",
+    "event_time": "2026-04-18T10:55:00",
+    "seen_at": "2026-04-18T09:14:01.303Z",
+    "raw": "Br. Vlaka 82134 dolazak      18.04.26. 10:55, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "ĐAKOVO",
+    "train_number": null,
+    "event_time": "2026-04-18T10:55:00",
+    "seen_at": "2026-04-18T09:14:46.403Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71808 ĐAKOVO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "MEJA",
+    "train_number": "81969",
+    "event_time": "2026-04-18T11:15:00",
+    "seen_at": "2026-04-18T09:15:31.733Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:15, kolodvor MEJA"
   }
 ]
