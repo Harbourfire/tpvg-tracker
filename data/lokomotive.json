@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44994",
-    "event_time": "2026-04-15T02:06:00",
-    "seen_at": "2026-04-15T00:08:05.081Z",
-    "raw": "Br. Vlaka 44994 odlazak      15.04.26. 02:06, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89920",
-    "event_time": "2026-04-15T02:08:00",
-    "seen_at": "2026-04-15T00:08:53.478Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 02:08, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "MALA SUBOTICA",
     "train_number": "44994",
     "event_time": "2026-04-15T02:14:00",
@@ -16207,5 +16189,50 @@
     "event_time": "2026-04-18T02:02:00",
     "seen_at": "2026-04-18T00:05:09.342Z",
     "raw": "Br. Vlaka 83813 dolazak      18.04.26. 02:02, kolodvor RIJEKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-18T02:02:00",
+    "seen_at": "2026-04-18T00:06:30.922Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "43997",
+    "event_time": "2026-04-18T02:01:00",
+    "seen_at": "2026-04-18T00:06:54.280Z",
+    "raw": "Br. Vlaka 43997 dolazak      18.04.26. 02:01, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44998",
+    "event_time": "2026-04-18T02:06:00",
+    "seen_at": "2026-04-18T00:08:04.180Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 02:06, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69351",
+    "event_time": "2026-04-18T02:10:00",
+    "seen_at": "2026-04-18T00:11:11.467Z",
+    "raw": "Br. Vlaka 69351 odlazak      18.04.26. 02:10, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44998",
+    "event_time": "2026-04-18T02:13:00",
+    "seen_at": "2026-04-18T00:13:30.360Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 02:13, kolodvor LUKA"
   }
 ]
