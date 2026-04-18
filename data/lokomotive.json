@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81954",
-    "event_time": "2026-04-15T22:36:00",
-    "seen_at": "2026-04-15T20:40:26.247Z",
-    "raw": "Br. Vlaka 81954 dolazak      15.04.26. 22:36, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81954",
-    "event_time": "2026-04-15T22:38:00",
-    "seen_at": "2026-04-15T20:41:13.449Z",
-    "raw": "Br. Vlaka 81954 odlazak      15.04.26. 22:38, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44997",
-    "event_time": "2026-04-15T22:40:00",
-    "seen_at": "2026-04-15T20:41:13.450Z",
-    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 22:40, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "44996",
@@ -16531,5 +16504,50 @@
     "event_time": "2026-04-18T22:31:00",
     "seen_at": "2026-04-18T20:32:38.314Z",
     "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:31, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89250",
+    "event_time": "2026-04-18T22:44:00",
+    "seen_at": "2026-04-18T20:45:14.316Z",
+    "raw": "Br. Vlaka 89250 formiran     18.04.26. 22:44, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:45:00",
+    "seen_at": "2026-04-18T20:46:21.855Z",
+    "raw": "Br. Vlaka 49996 dolazak      18.04.26. 22:45, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:45:00",
+    "seen_at": "2026-04-18T20:46:21.856Z",
+    "raw": "Br. Vlaka 49996 dolazak      18.04.26. 22:45, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:45:00",
+    "seen_at": "2026-04-18T20:46:44.347Z",
+    "raw": "Br. Vlaka 49996 promjena sas 18.04.26. 22:45, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:45:00",
+    "seen_at": "2026-04-18T20:46:44.347Z",
+    "raw": "Br. Vlaka 49996 promjena sas 18.04.26. 22:45, kolodvor KONJŠČINA"
   }
 ]
