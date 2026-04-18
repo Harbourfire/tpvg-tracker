@@ -2,24 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89921",
-    "event_time": "2026-04-15T06:20:00",
-    "seen_at": "2026-04-15T04:30:12.299Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 06:20, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "89921",
-    "event_time": "2026-04-15T06:29:00",
-    "seen_at": "2026-04-15T04:31:34.505Z",
-    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 06:29, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZABOK",
     "train_number": "89921",
     "event_time": "2026-04-15T06:39:00",
@@ -16207,5 +16189,23 @@
     "event_time": "2026-04-18T06:23:00",
     "seen_at": "2026-04-18T04:23:43.239Z",
     "raw": "Br. Vlaka 63306 formiran     18.04.26. 06:23, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89923",
+    "event_time": "2026-04-18T06:28:00",
+    "seen_at": "2026-04-18T04:30:17.738Z",
+    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 06:28, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89923",
+    "event_time": "2026-04-18T06:33:00",
+    "seen_at": "2026-04-18T04:36:00.363Z",
+    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 06:33, kolodvor MALA SUBOTICA"
   }
 ]
