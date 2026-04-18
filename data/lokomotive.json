@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:46:00",
-    "seen_at": "2026-04-15T22:47:35.235Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:46, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44787",
-    "event_time": "2026-04-16T00:42:00",
-    "seen_at": "2026-04-15T22:49:41.181Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 00:42, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T00:47:00",
-    "seen_at": "2026-04-15T22:50:06.640Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 00:47, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -16603,5 +16576,32 @@
     "event_time": "2026-04-19T00:38:00",
     "seen_at": "2026-04-18T22:39:33.759Z",
     "raw": "Br. Vlaka 81284 dolazak      19.04.26. 00:38, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:46:00",
+    "seen_at": "2026-04-18T22:47:39.058Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:46:00",
+    "seen_at": "2026-04-18T22:47:39.058Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81284",
+    "event_time": "2026-04-19T00:38:00",
+    "seen_at": "2026-04-18T22:48:24.120Z",
+    "raw": "Br. Vlaka 81284 promjena sas 19.04.26. 00:38, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
