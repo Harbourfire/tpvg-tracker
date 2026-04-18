@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81232",
-    "event_time": "2026-04-15T23:59:00",
-    "seen_at": "2026-04-15T22:03:51.801Z",
-    "raw": "Br. Vlaka 81232 odlazak      15.04.26. 23:59, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:03:00",
-    "seen_at": "2026-04-15T22:03:51.801Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:03, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81995",
-    "event_time": "2026-04-15T23:57:00",
-    "seen_at": "2026-04-15T22:05:30.527Z",
-    "raw": "Br. Vlaka 81995 promjena sas 15.04.26. 23:57, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81956",
-    "event_time": "2026-04-16T00:08:00",
-    "seen_at": "2026-04-15T22:10:03.387Z",
-    "raw": "Br. Vlaka 81956 odlazak      16.04.26. 00:08, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -16585,5 +16549,50 @@
     "event_time": "2026-04-18T23:55:00",
     "seen_at": "2026-04-18T22:01:58.797Z",
     "raw": "Br. Vlaka 43995 promjena sas 18.04.26. 23:55, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:07:00",
+    "seen_at": "2026-04-18T22:08:16.960Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:07, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:07:00",
+    "seen_at": "2026-04-18T22:08:16.960Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:07, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SUNJA",
+    "train_number": "81953",
+    "event_time": "2026-04-19T00:06:00",
+    "seen_at": "2026-04-18T22:12:04.274Z",
+    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 00:06, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49996",
+    "event_time": "2026-04-19T00:05:00",
+    "seen_at": "2026-04-18T22:12:30.815Z",
+    "raw": "Br. Vlaka 49996 dolazak      19.04.26. 00:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49996",
+    "event_time": "2026-04-19T00:05:00",
+    "seen_at": "2026-04-18T22:12:30.816Z",
+    "raw": "Br. Vlaka 49996 dolazak      19.04.26. 00:05, kolodvor VARAŽDIN"
   }
 ]
