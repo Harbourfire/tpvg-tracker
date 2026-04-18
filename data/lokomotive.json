@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "74300",
-    "event_time": "2026-04-15T10:30:00",
-    "seen_at": "2026-04-15T08:31:17.707Z",
-    "raw": "Br. Vlaka 74300 odlazak      15.04.26. 10:30, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "49999",
-    "event_time": "2026-04-15T10:34:00",
-    "seen_at": "2026-04-15T08:35:47.570Z",
-    "raw": "Br. Vlaka 49999 dolazak      15.04.26. 10:34, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "82552",
-    "event_time": "2026-04-15T10:38:00",
-    "seen_at": "2026-04-15T08:39:27.244Z",
-    "raw": "Br. Vlaka 82552 odlazak      15.04.26. 10:38, kolodvor IVANKOVO"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -16198,5 +16171,23 @@
     "event_time": "2026-04-18T10:27:00",
     "seen_at": "2026-04-18T08:27:53.594Z",
     "raw": "Br. Vlaka 82134 odlazak      18.04.26. 10:27, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-18T09:36:00",
+    "seen_at": "2026-04-18T08:36:29.615Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "82134",
+    "event_time": "2026-04-18T10:36:00",
+    "seen_at": "2026-04-18T08:36:52.438Z",
+    "raw": "Br. Vlaka 82134 dolazak      18.04.26. 10:36, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
