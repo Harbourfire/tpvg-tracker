@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "81984",
-    "event_time": "2026-04-15T18:54:00",
-    "seen_at": "2026-04-15T17:05:17.770Z",
-    "raw": "Br. Vlaka 81984 promjena sas 15.04.26. 18:54, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "81984",
-    "event_time": "2026-04-15T18:54:00",
-    "seen_at": "2026-04-15T17:05:17.770Z",
-    "raw": "Br. Vlaka 81984 promjena sas 15.04.26. 18:54, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "89332",
-    "event_time": "2026-04-15T19:00:00",
-    "seen_at": "2026-04-15T17:05:17.771Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:00, kolodvor SUNJA"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
@@ -16099,5 +16072,41 @@
     "event_time": "2026-04-18T18:54:00",
     "seen_at": "2026-04-18T16:54:50.894Z",
     "raw": "Br. Vlaka 44787 odlazak      18.04.26. 18:54, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "42786",
+    "event_time": "2026-04-18T18:43:00",
+    "seen_at": "2026-04-18T16:56:36.915Z",
+    "raw": "Br. Vlaka 42786 dolazak      18.04.26. 18:43, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44787",
+    "event_time": "2026-04-18T19:02:00",
+    "seen_at": "2026-04-18T17:03:12.235Z",
+    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 19:02, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44787",
+    "event_time": "2026-04-18T19:02:00",
+    "seen_at": "2026-04-18T17:03:12.236Z",
+    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 19:02, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "81951",
+    "event_time": "2026-04-18T19:02:00",
+    "seen_at": "2026-04-18T17:05:07.396Z",
+    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 19:02, kolodvor ZAGREB GL. KOL."
   }
 ]
