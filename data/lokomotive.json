@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-15T03:24:00",
-    "seen_at": "2026-04-15T01:24:51.146Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 03:24, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-15T03:17:00",
-    "seen_at": "2026-04-15T01:24:51.147Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:25:00",
-    "seen_at": "2026-04-15T01:26:26.536Z",
-    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 03:25, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:25:00",
-    "seen_at": "2026-04-15T01:26:26.536Z",
-    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 03:25, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -16225,5 +16189,41 @@
     "event_time": "2026-04-18T03:16:00",
     "seen_at": "2026-04-18T01:17:18.753Z",
     "raw": "Br. Vlaka 48786 odlazak      18.04.26. 03:16, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "48588",
+    "event_time": "2026-04-18T03:22:00",
+    "seen_at": "2026-04-18T01:22:27.471Z",
+    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:22, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "48588",
+    "event_time": "2026-04-18T03:22:00",
+    "seen_at": "2026-04-18T01:22:27.472Z",
+    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:22, kolodvor SISAK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "48786",
+    "event_time": "2026-04-18T03:25:00",
+    "seen_at": "2026-04-18T01:26:34.628Z",
+    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 03:25, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "47988",
+    "event_time": "2026-04-18T03:13:00",
+    "seen_at": "2026-04-18T01:29:35.771Z",
+    "raw": "Br. Vlaka 47988 promjena sas 18.04.26. 03:13, kolodvor VINKOVCI"
   }
 ]
