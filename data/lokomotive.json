@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:49:00",
-    "seen_at": "2026-04-15T02:50:09.145Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:49, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:49:00",
-    "seen_at": "2026-04-15T02:50:09.145Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:49, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:53:00",
-    "seen_at": "2026-04-15T02:53:17.062Z",
-    "raw": "Br. Vlaka 44787 dolazak      15.04.26. 04:53, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:53:00",
-    "seen_at": "2026-04-15T02:53:17.063Z",
-    "raw": "Br. Vlaka 44787 dolazak      15.04.26. 04:53, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "TURČIN",
@@ -16234,5 +16198,50 @@
     "event_time": "2026-04-18T04:37:00",
     "seen_at": "2026-04-18T02:37:52.472Z",
     "raw": "Br. Vlaka 81968 formiran     18.04.26. 04:37, kolodvor RIJEKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44998",
+    "event_time": "2026-04-18T04:43:00",
+    "seen_at": "2026-04-18T02:44:39.827Z",
+    "raw": "Br. Vlaka 44998 dolazak      18.04.26. 04:43, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "48786",
+    "event_time": "2026-04-18T04:43:00",
+    "seen_at": "2026-04-18T02:46:37.792Z",
+    "raw": "Br. Vlaka 48786 dolazak      18.04.26. 04:43, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44998",
+    "event_time": "2026-04-18T04:48:00",
+    "seen_at": "2026-04-18T02:51:39.656Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 04:48, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T04:51:00",
+    "seen_at": "2026-04-18T02:52:02.884Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:51, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T04:51:00",
+    "seen_at": "2026-04-18T02:52:02.884Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:51, kolodvor RUDOPOLJE"
   }
 ]
