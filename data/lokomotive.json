@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:10:00",
-    "seen_at": "2026-04-15T22:13:07.187Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:10, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-16T00:12:00",
-    "seen_at": "2026-04-15T22:13:07.188Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:12, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-16T00:12:00",
-    "seen_at": "2026-04-15T22:13:07.188Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:12, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:18:00",
-    "seen_at": "2026-04-15T22:19:18.112Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:18, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-04-16T00:20:00",
-    "seen_at": "2026-04-15T22:20:32.574Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
     "uic": "927820620015",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -16594,5 +16549,59 @@
     "event_time": "2026-04-19T00:05:00",
     "seen_at": "2026-04-18T22:12:30.816Z",
     "raw": "Br. Vlaka 49996 dolazak      19.04.26. 00:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:14:00",
+    "seen_at": "2026-04-18T22:15:43.597Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:14, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:14:00",
+    "seen_at": "2026-04-18T22:15:43.597Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:14, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-18T19:00:00",
+    "seen_at": "2026-04-18T22:16:06.332Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-18T19:00:00",
+    "seen_at": "2026-04-18T22:16:06.333Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89115",
+    "event_time": "2026-04-18T17:04:00",
+    "seen_at": "2026-04-18T22:16:29.163Z",
+    "raw": "Br. Vlaka 89115 formiran     18.04.26. 17:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89115",
+    "event_time": "2026-04-18T17:04:00",
+    "seen_at": "2026-04-18T22:16:51.857Z",
+    "raw": "Br. Vlaka 89115 formiran     18.04.26. 17:04, kolodvor VARAŽDIN"
   }
 ]
