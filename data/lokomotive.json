@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-12T04:18:00",
-    "seen_at": "2026-04-15T02:20:15.847Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:20:00",
-    "seen_at": "2026-04-15T02:23:52.307Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:20, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:20:00",
-    "seen_at": "2026-04-15T02:23:52.308Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:20, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -16243,5 +16216,59 @@
     "event_time": "2026-04-18T04:04:00",
     "seen_at": "2026-04-18T02:15:08.340Z",
     "raw": "Br. Vlaka 83816 odlazak      18.04.26. 04:04, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "83816",
+    "event_time": "2026-04-18T04:16:00",
+    "seen_at": "2026-04-18T02:16:54.150Z",
+    "raw": "Br. Vlaka 83816 dolazak      18.04.26. 04:16, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "83816",
+    "event_time": "2026-04-18T04:16:00",
+    "seen_at": "2026-04-18T02:16:54.151Z",
+    "raw": "Br. Vlaka 83816 dolazak      18.04.26. 04:16, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "48786",
+    "event_time": "2026-04-18T04:18:00",
+    "seen_at": "2026-04-18T02:19:35.614Z",
+    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 04:18, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44998",
+    "event_time": "2026-04-18T04:20:00",
+    "seen_at": "2026-04-18T02:22:13.630Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 04:20, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-18T04:23:00",
+    "seen_at": "2026-04-18T02:24:30.039Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:23, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-18T04:23:00",
+    "seen_at": "2026-04-18T02:24:30.039Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:23, kolodvor BLATA"
   }
 ]
