@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF",
-    "train_number": "81953",
-    "event_time": "2026-04-16T00:31:00",
-    "seen_at": "2026-04-15T22:32:03.676Z",
-    "raw": "Br. Vlaka 81953 formiran     16.04.26. 00:31, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:34:00",
-    "seen_at": "2026-04-15T22:37:20.501Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:34, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-16T00:37:00",
-    "seen_at": "2026-04-15T22:38:36.186Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:37, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-16T00:37:00",
-    "seen_at": "2026-04-15T22:38:36.186Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:37, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -16621,5 +16585,23 @@
     "event_time": "2026-04-19T00:30:00",
     "seen_at": "2026-04-18T22:31:27.449Z",
     "raw": "Br. Vlaka 89115 dolazak      19.04.26. 00:30, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "81284",
+    "event_time": "2026-04-19T00:24:00",
+    "seen_at": "2026-04-18T22:39:11.366Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 00:24, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81284",
+    "event_time": "2026-04-19T00:38:00",
+    "seen_at": "2026-04-18T22:39:33.759Z",
+    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 00:38, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
