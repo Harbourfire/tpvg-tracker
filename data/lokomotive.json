@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215612",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-09T15:15:00",
-    "seen_at": "2026-04-15T13:23:03.499Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81984",
-    "event_time": "2026-04-15T15:27:00",
-    "seen_at": "2026-04-15T13:28:00.680Z",
-    "raw": "Br. Vlaka 81984 formiran     15.04.26. 15:27, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "81984",
-    "event_time": "2026-04-15T15:27:00",
-    "seen_at": "2026-04-15T13:28:00.680Z",
-    "raw": "Br. Vlaka 81984 formiran     15.04.26. 15:27, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Promjena sastava",
     "station": "ZABOK",
@@ -15973,5 +15946,23 @@
     "event_time": "2026-04-18T15:15:00",
     "seen_at": "2026-04-18T13:18:46.275Z",
     "raw": "Br. Vlaka 63310 odlazak      18.04.26. 15:15, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-09T15:15:00",
+    "seen_at": "2026-04-18T13:23:28.270Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "81969",
+    "event_time": "2026-04-18T15:25:00",
+    "seen_at": "2026-04-18T13:28:21.320Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 15:25, kolodvor ZVEČAJ"
   }
 ]
