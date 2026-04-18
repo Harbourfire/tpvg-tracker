@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T04:36:00",
-    "seen_at": "2026-04-15T02:37:12.262Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T04:36:00",
-    "seen_at": "2026-04-15T02:37:12.262Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89921",
-    "event_time": "2026-04-15T04:35:00",
-    "seen_at": "2026-04-15T02:37:37.057Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 04:35, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:39:00",
-    "seen_at": "2026-04-15T02:40:03.785Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:39, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44787",
-    "event_time": "2026-04-15T04:39:00",
-    "seen_at": "2026-04-15T02:40:03.786Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 04:39, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI DVORI",
@@ -16261,5 +16216,23 @@
     "event_time": "2026-04-18T04:32:00",
     "seen_at": "2026-04-18T02:34:32.496Z",
     "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:32, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "48786",
+    "event_time": "2026-04-18T04:36:00",
+    "seen_at": "2026-04-18T02:37:29.150Z",
+    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 04:36, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "RIJEKA",
+    "train_number": "81968",
+    "event_time": "2026-04-18T04:37:00",
+    "seen_at": "2026-04-18T02:37:52.472Z",
+    "raw": "Br. Vlaka 81968 formiran     18.04.26. 04:37, kolodvor RIJEKA"
   }
 ]
