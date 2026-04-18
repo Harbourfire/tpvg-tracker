@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-09T10:09:00",
-    "seen_at": "2026-04-15T08:14:58.154Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49999",
-    "event_time": "2026-04-15T10:17:00",
-    "seen_at": "2026-04-15T08:20:12.233Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 10:17, kolodvor DONJI KRALJEVEC"
-  },
-  {
     "uic": "987891213462",
     "type": "Odlazak",
     "station": "OTOK",
@@ -16234,5 +16216,32 @@
     "event_time": "2026-04-18T09:03:00",
     "seen_at": "2026-04-18T08:06:10.594Z",
     "raw": "Br. Vlaka 69771 formiran     18.04.26. 09:03, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "JURDANI",
+    "train_number": "81969",
+    "event_time": "2026-04-18T10:10:00",
+    "seen_at": "2026-04-18T08:13:22.252Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:10, kolodvor JURDANI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "82134",
+    "event_time": "2026-04-18T10:20:00",
+    "seen_at": "2026-04-18T08:20:54.284Z",
+    "raw": "Br. Vlaka 82134 odlazak      18.04.26. 10:20, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OPATIJA-MATULJI",
+    "train_number": "81969",
+    "event_time": "2026-04-18T10:20:00",
+    "seen_at": "2026-04-18T08:21:16.833Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:20, kolodvor OPATIJA-MATULJI"
   }
 ]
