@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89105",
-    "event_time": "2026-04-15T23:08:00",
-    "seen_at": "2026-04-15T21:09:50.230Z",
-    "raw": "Br. Vlaka 89105 formiran     15.04.26. 23:08, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-15T23:30:00",
-    "seen_at": "2026-04-15T21:12:31.169Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "44994",
-    "event_time": "2026-04-15T16:12:00",
-    "seen_at": "2026-04-15T21:12:31.169Z",
-    "raw": "Br. Vlaka 44994 formiran     15.04.26. 16:12, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "LUKA",
-    "train_number": "81956",
-    "event_time": "2026-04-15T23:12:00",
-    "seen_at": "2026-04-15T21:13:20.382Z",
-    "raw": "Br. Vlaka 81956 dolazak      15.04.26. 23:12, kolodvor LUKA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44997",
-    "event_time": "2026-04-15T23:13:00",
-    "seen_at": "2026-04-15T21:13:45.010Z",
-    "raw": "Br. Vlaka 44997 dolazak      15.04.26. 23:13, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-15T21:14:09.512Z",
-    "seen_at": "2026-04-15T21:14:09.512Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-15T16:04:00",
-    "seen_at": "2026-04-15T21:14:33.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-15T21:14:58.438Z",
-    "seen_at": "2026-04-15T21:14:58.438Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "LUKA",
@@ -16477,5 +16405,77 @@
     "event_time": "2026-04-18T19:55:00",
     "seen_at": "2026-04-18T21:07:14.636Z",
     "raw": "Br. Vlaka 81953 formiran     18.04.26. 19:55, kolodvor VOLINJA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "43996",
+    "event_time": "2026-04-18T23:08:00",
+    "seen_at": "2026-04-18T21:10:50.374Z",
+    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 23:08, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "43995",
+    "event_time": "2026-04-18T23:00:00",
+    "seen_at": "2026-04-18T21:10:50.375Z",
+    "raw": "Br. Vlaka 43995 odlazak      18.04.26. 23:00, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "43996",
+    "event_time": "2026-04-18T23:08:00",
+    "seen_at": "2026-04-18T21:10:50.376Z",
+    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 23:08, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-18T23:10:00",
+    "seen_at": "2026-04-18T21:10:50.376Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 23:10, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-18T23:10:00",
+    "seen_at": "2026-04-18T21:10:50.376Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 23:10, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "43995",
+    "event_time": "2026-04-18T23:11:00",
+    "seen_at": "2026-04-18T21:12:45.535Z",
+    "raw": "Br. Vlaka 43995 odlazak      18.04.26. 23:11, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T23:11:00",
+    "seen_at": "2026-04-18T21:14:40.472Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:11, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T23:11:00",
+    "seen_at": "2026-04-18T21:14:40.473Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:11, kolodvor BUDINŠĆINA"
   }
 ]
