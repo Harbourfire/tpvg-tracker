@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "49998",
-    "event_time": "2026-04-15T09:43:00",
-    "seen_at": "2026-04-15T13:30:48.180Z",
-    "raw": "Br. Vlaka 49998 promjena sas 15.04.26. 09:43, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-15T15:33:00",
-    "seen_at": "2026-04-15T13:33:36.107Z",
-    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 15:33, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81984",
-    "event_time": "2026-04-15T15:33:00",
-    "seen_at": "2026-04-15T13:34:23.973Z",
-    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 15:33, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81984",
-    "event_time": "2026-04-15T15:33:00",
-    "seen_at": "2026-04-15T13:34:23.973Z",
-    "raw": "Br. Vlaka 81984 odlazak      15.04.26. 15:33, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "NOVSKA",
-    "train_number": "89332",
-    "event_time": "2026-04-15T15:38:00",
-    "seen_at": "2026-04-15T13:39:06.931Z",
-    "raw": "Br. Vlaka 89332 dolazak      15.04.26. 15:38, kolodvor NOVSKA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -15964,5 +15919,23 @@
     "event_time": "2026-04-18T15:25:00",
     "seen_at": "2026-04-18T13:28:21.320Z",
     "raw": "Br. Vlaka 81969 odlazak      18.04.26. 15:25, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-18T15:32:00",
+    "seen_at": "2026-04-18T13:33:52.849Z",
+    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 15:32, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82510",
+    "event_time": "2026-04-18T15:36:00",
+    "seen_at": "2026-04-18T13:36:52.816Z",
+    "raw": "Br. Vlaka 82510 odlazak      18.04.26. 15:36, kolodvor NOVI MAROF"
   }
 ]
