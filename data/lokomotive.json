@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "74301",
-    "event_time": "2026-04-15T07:08:00",
-    "seen_at": "2026-04-15T05:08:28.951Z",
-    "raw": "Br. Vlaka 74301 formiran     15.04.26. 07:08, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "74101",
-    "event_time": "2026-04-15T07:09:00",
-    "seen_at": "2026-04-15T05:09:42.869Z",
-    "raw": "Br. Vlaka 74101 odlazak      15.04.26. 07:09, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89921",
-    "event_time": "2026-04-15T07:10:00",
-    "seen_at": "2026-04-15T05:12:03.259Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 07:10, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -16180,5 +16153,41 @@
     "event_time": "2026-04-18T06:56:00",
     "seen_at": "2026-04-18T05:03:28.741Z",
     "raw": "Br. Vlaka 63306 odlazak      18.04.26. 06:56, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-18T07:06:00",
+    "seen_at": "2026-04-18T05:07:06.090Z",
+    "raw": "Br. Vlaka 45105 formiran     18.04.26. 07:06, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-18T07:08:00",
+    "seen_at": "2026-04-18T05:10:51.848Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:08, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-18T07:08:00",
+    "seen_at": "2026-04-18T05:10:51.848Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:08, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "45980",
+    "event_time": "2026-04-18T07:12:00",
+    "seen_at": "2026-04-18T05:14:15.366Z",
+    "raw": "Br. Vlaka 45980 odlazak      18.04.26. 07:12, kolodvor DARDA"
   }
 ]
