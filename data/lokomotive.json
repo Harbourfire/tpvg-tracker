@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81954",
-    "event_time": "2026-04-15T21:20:00",
-    "seen_at": "2026-04-15T19:21:42.511Z",
-    "raw": "Br. Vlaka 81954 odlazak      15.04.26. 21:20, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820621195",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -16297,5 +16288,50 @@
     "event_time": "2026-04-18T21:13:00",
     "seen_at": "2026-04-18T19:13:39.447Z",
     "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "BIZOVAC",
+    "train_number": "89151",
+    "event_time": "2026-04-18T08:13:00",
+    "seen_at": "2026-04-18T19:18:23.175Z",
+    "raw": "Br. Vlaka 89151 formiran     18.04.26. 08:13, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "49996",
+    "event_time": "2026-04-18T21:12:00",
+    "seen_at": "2026-04-18T19:21:02.651Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 21:12, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "49996",
+    "event_time": "2026-04-18T21:12:00",
+    "seen_at": "2026-04-18T19:21:02.652Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 21:12, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "49996",
+    "event_time": "2026-04-18T21:20:00",
+    "seen_at": "2026-04-18T19:21:47.813Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 21:20, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "49996",
+    "event_time": "2026-04-18T21:20:00",
+    "seen_at": "2026-04-18T19:21:47.814Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 21:20, kolodvor ZAPREŠIĆ"
   }
 ]
