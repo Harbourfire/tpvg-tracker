@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Dolazak",
-    "station": "SPAČVA",
-    "train_number": "74100",
-    "event_time": "2026-04-15T09:16:00",
-    "seen_at": "2026-04-15T07:16:50.465Z",
-    "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:16, kolodvor SPAČVA"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Dolazak",
-    "station": "SPAČVA",
-    "train_number": "74100",
-    "event_time": "2026-04-15T09:16:00",
-    "seen_at": "2026-04-15T07:16:50.465Z",
-    "raw": "Br. Vlaka 74100 dolazak      15.04.26. 09:16, kolodvor SPAČVA"
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "VELIKA",
@@ -16261,5 +16243,59 @@
     "event_time": "2026-04-18T09:12:00",
     "seen_at": "2026-04-18T07:12:42.300Z",
     "raw": "Br. Vlaka 81969 formiran     18.04.26. 09:12, kolodvor ŠAPJANE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89923",
+    "event_time": "2026-04-18T09:16:00",
+    "seen_at": "2026-04-18T07:17:08.381Z",
+    "raw": "Br. Vlaka 89923 dolazak      18.04.26. 09:16, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89923",
+    "event_time": "2026-04-18T09:16:00",
+    "seen_at": "2026-04-18T07:17:31.791Z",
+    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 09:16, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "43997",
+    "event_time": "2026-04-18T09:15:00",
+    "seen_at": "2026-04-18T07:20:14.779Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 09:15, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "48786",
+    "event_time": "2026-04-18T08:58:00",
+    "seen_at": "2026-04-18T07:21:01.113Z",
+    "raw": "Br. Vlaka 48786 dolazak      18.04.26. 08:58, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-18T08:58:00",
+    "seen_at": "2026-04-18T07:21:24.056Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "47988",
+    "event_time": "2026-04-18T09:23:00",
+    "seen_at": "2026-04-18T07:25:15.313Z",
+    "raw": "Br. Vlaka 47988 odlazak      18.04.26. 09:23, kolodvor DARDA"
   }
 ]
