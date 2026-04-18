@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89332",
-    "event_time": "2026-04-15T14:15:00",
-    "seen_at": "2026-04-15T12:16:13.086Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 14:15, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -16090,5 +16081,23 @@
     "event_time": "2026-04-18T14:12:00",
     "seen_at": "2026-04-18T12:13:36.659Z",
     "raw": "Br. Vlaka 89109 odlazak      18.04.26. 14:12, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KONJŠČINA",
+    "train_number": "82510",
+    "event_time": "2026-04-18T13:59:00",
+    "seen_at": "2026-04-18T12:17:48.208Z",
+    "raw": "Br. Vlaka 82510 formiran     18.04.26. 13:59, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "81969",
+    "event_time": "2026-04-18T14:18:00",
+    "seen_at": "2026-04-18T12:19:22.212Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:18, kolodvor KUKAČA"
   }
 ]
