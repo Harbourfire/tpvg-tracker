@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89921",
-    "event_time": "2026-04-15T05:51:00",
-    "seen_at": "2026-04-15T03:52:22.460Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 05:51, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "BEDEKOVČINA",
     "train_number": "89921",
@@ -16162,5 +16153,14 @@
     "event_time": "2026-04-18T05:42:00",
     "seen_at": "2026-04-18T03:46:26.596Z",
     "raw": "Br. Vlaka 63305 odlazak      18.04.26. 05:42, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "89923",
+    "event_time": "2026-04-18T05:50:00",
+    "seen_at": "2026-04-18T03:53:05.278Z",
+    "raw": "Br. Vlaka 89923 dolazak      18.04.26. 05:50, kolodvor KOTORIBA"
   }
 ]
