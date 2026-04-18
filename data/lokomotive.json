@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-15T08:33:00",
-    "seen_at": "2026-04-15T06:37:20.289Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Rasformiran",
-    "station": "SESVETE",
-    "train_number": null,
-    "event_time": "2026-04-15T08:20:00",
-    "seen_at": "2026-04-15T06:37:44.610Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45940",
-    "event_time": "2026-04-15T08:38:00",
-    "seen_at": "2026-04-15T06:38:09.050Z",
-    "raw": "Br. Vlaka 45940 formiran     15.04.26. 08:38, kolodvor OSIJEK"
-  },
-  {
     "uic": "997894853487",
     "type": "Odlazak",
     "station": "STARI MIKANOVCI",
@@ -16198,5 +16171,59 @@
     "event_time": "2026-04-18T08:25:00",
     "seen_at": "2026-04-18T06:27:23.938Z",
     "raw": "Br. Vlaka 43997 odlazak      18.04.26. 08:25, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89923",
+    "event_time": "2026-04-18T08:28:00",
+    "seen_at": "2026-04-18T06:29:55.617Z",
+    "raw": "Br. Vlaka 89923 dolazak      18.04.26. 08:28, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OPATIJA-MATULJI",
+    "train_number": "81968",
+    "event_time": "2026-04-18T08:30:00",
+    "seen_at": "2026-04-18T06:31:04.446Z",
+    "raw": "Br. Vlaka 81968 odlazak      18.04.26. 08:30, kolodvor OPATIJA-MATULJI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-18T08:30:00",
+    "seen_at": "2026-04-18T06:31:50.247Z",
+    "raw": "Br. Vlaka 45105 odlazak      18.04.26. 08:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "48786",
+    "event_time": "2026-04-18T08:31:00",
+    "seen_at": "2026-04-18T06:33:21.385Z",
+    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 08:31, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "69777",
+    "event_time": "2026-04-18T08:33:00",
+    "seen_at": "2026-04-18T06:33:44.228Z",
+    "raw": "Br. Vlaka 69777 odlazak      18.04.26. 08:33, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "43997",
+    "event_time": "2026-04-18T08:34:00",
+    "seen_at": "2026-04-18T06:34:53.255Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 08:34, kolodvor KONJŠČINA"
   }
 ]
