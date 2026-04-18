@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49998",
-    "event_time": "2026-04-15T17:13:00",
-    "seen_at": "2026-04-15T15:14:17.407Z",
-    "raw": "Br. Vlaka 49998 odlazak      15.04.26. 17:13, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49998",
-    "event_time": "2026-04-15T17:20:00",
-    "seen_at": "2026-04-15T15:20:33.301Z",
-    "raw": "Br. Vlaka 49998 dolazak      15.04.26. 17:20, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "89332",
-    "event_time": "2026-04-15T17:20:00",
-    "seen_at": "2026-04-15T15:21:45.507Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 17:20, kolodvor NOVSKA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -15937,5 +15910,50 @@
     "event_time": "2026-04-18T17:02:00",
     "seen_at": "2026-04-18T15:03:49.852Z",
     "raw": "Br. Vlaka 89543 odlazak      18.04.26. 17:02, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-04-18T17:10:00",
+    "seen_at": "2026-04-18T15:14:13.838Z",
+    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 17:10, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "81969",
+    "event_time": "2026-04-18T17:18:00",
+    "seen_at": "2026-04-18T15:18:28.870Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 17:18, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "63310",
+    "event_time": "2026-04-18T17:19:00",
+    "seen_at": "2026-04-18T15:20:26.275Z",
+    "raw": "Br. Vlaka 63310 dolazak      18.04.26. 17:19, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-18T17:19:00",
+    "seen_at": "2026-04-18T15:21:12.942Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-18T17:13:00",
+    "seen_at": "2026-04-18T15:21:36.283Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
