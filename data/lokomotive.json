@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "81993",
-    "event_time": "2026-04-15T11:51:00",
-    "seen_at": "2026-04-15T09:57:02.762Z",
-    "raw": "Br. Vlaka 81993 promjena sas 15.04.26. 11:51, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "81993",
-    "event_time": "2026-04-15T11:51:00",
-    "seen_at": "2026-04-15T09:57:02.762Z",
-    "raw": "Br. Vlaka 81993 promjena sas 15.04.26. 11:51, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "IVANEC",
-    "train_number": "81951",
-    "event_time": "2026-04-15T11:57:00",
-    "seen_at": "2026-04-15T09:59:52.680Z",
-    "raw": "Br. Vlaka 81951 dolazak      15.04.26. 11:57, kolodvor IVANEC"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76553",
-    "event_time": "2026-04-15T11:59:00",
-    "seen_at": "2026-04-15T10:00:54.789Z",
-    "raw": "Br. Vlaka 76553 odlazak      15.04.26. 11:59, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "82505",
-    "event_time": "2026-04-15T12:01:00",
-    "seen_at": "2026-04-15T10:03:22.220Z",
-    "raw": "Br. Vlaka 82505 dolazak      15.04.26. 12:01, kolodvor 72303"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "DARDA",
@@ -16144,5 +16099,32 @@
     "event_time": "2026-04-18T11:53:00",
     "seen_at": "2026-04-18T09:54:33.261Z",
     "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:53, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "46896",
+    "event_time": "2026-04-18T11:55:00",
+    "seen_at": "2026-04-18T09:55:53.655Z",
+    "raw": "Br. Vlaka 46896 odlazak      18.04.26. 11:55, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89112",
+    "event_time": "2026-04-18T11:57:00",
+    "seen_at": "2026-04-18T09:57:25.951Z",
+    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:57, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "FUŽINE",
+    "train_number": "81969",
+    "event_time": "2026-04-18T11:59:00",
+    "seen_at": "2026-04-18T10:00:05.044Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:59, kolodvor FUŽINE"
   }
 ]
