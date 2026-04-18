@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-15T02:36:00",
-    "seen_at": "2026-04-15T00:43:14.684Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-15T02:43:00",
-    "seen_at": "2026-04-15T00:46:56.660Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-15T02:43:00",
-    "seen_at": "2026-04-15T00:46:56.660Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81281",
-    "event_time": "2026-04-14T19:02:00",
-    "seen_at": "2026-04-15T00:49:42.760Z",
-    "raw": "Br. Vlaka 81281 promjena sas 14.04.26. 19:02, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81982",
-    "event_time": "2026-04-15T02:49:00",
-    "seen_at": "2026-04-15T00:49:42.761Z",
-    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:49, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81982",
-    "event_time": "2026-04-15T02:49:00",
-    "seen_at": "2026-04-15T00:49:42.761Z",
-    "raw": "Br. Vlaka 81982 odlazak      15.04.26. 02:49, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -16234,5 +16180,50 @@
     "event_time": "2026-04-18T02:40:00",
     "seen_at": "2026-04-18T00:41:18.180Z",
     "raw": "Br. Vlaka 63305 odlazak      18.04.26. 02:40, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "48588",
+    "event_time": "2026-04-18T02:41:00",
+    "seen_at": "2026-04-18T00:44:55.792Z",
+    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 02:41, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "48588",
+    "event_time": "2026-04-18T02:41:00",
+    "seen_at": "2026-04-18T00:44:55.794Z",
+    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 02:41, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44998",
+    "event_time": "2026-04-18T02:46:00",
+    "seen_at": "2026-04-18T00:47:35.436Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 02:46, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-18T02:48:00",
+    "seen_at": "2026-04-18T00:50:36.800Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 02:48, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-18T02:48:00",
+    "seen_at": "2026-04-18T00:50:36.801Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 02:48, kolodvor JOSIPDOL"
   }
 ]
