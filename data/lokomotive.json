@@ -2,51 +2,6 @@
   {
     "uic": "927820621195",
     "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44997",
-    "event_time": "2026-04-15T20:14:00",
-    "seen_at": "2026-04-15T18:20:19.248Z",
-    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 20:14, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T20:21:00",
-    "seen_at": "2026-04-15T18:22:18.971Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "81984",
-    "event_time": "2026-04-15T20:21:00",
-    "seen_at": "2026-04-15T18:22:18.971Z",
-    "raw": "Br. Vlaka 81984 R            15.04.26. 20:21, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T20:21:00",
-    "seen_at": "2026-04-15T18:22:43.284Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-15T20:23:00",
-    "seen_at": "2026-04-15T18:25:08.606Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
     "train_number": "44997",
     "event_time": "2026-04-15T20:29:00",
@@ -16216,5 +16171,41 @@
     "event_time": "2026-04-18T12:55:00",
     "seen_at": "2026-04-18T18:19:38.633Z",
     "raw": "Br. Vlaka 43996 promjena sas 18.04.26. 12:55, kolodvor ZABOK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-15T20:23:00",
+    "seen_at": "2026-04-18T18:25:48.872Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "VOLINJA",
+    "train_number": "81953",
+    "event_time": "2026-04-18T19:55:00",
+    "seen_at": "2026-04-18T18:26:55.964Z",
+    "raw": "Br. Vlaka 81953 formiran     18.04.26. 19:55, kolodvor VOLINJA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VOLINJA",
+    "train_number": null,
+    "event_time": "2026-04-19T00:30:00",
+    "seen_at": "2026-04-18T18:28:03.209Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72205 VOLINJA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "VALPOVO",
+    "train_number": "89153",
+    "event_time": "2026-04-18T08:11:00",
+    "seen_at": "2026-04-18T18:28:25.547Z",
+    "raw": "Br. Vlaka 89153 formiran     18.04.26. 08:11, kolodvor VALPOVO"
   }
 ]
