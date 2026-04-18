@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81995",
-    "event_time": "2026-04-16T01:04:00",
-    "seen_at": "2026-04-15T23:39:00.294Z",
-    "raw": "Br. Vlaka 81995 odlazak      16.04.26. 01:04, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44787",
-    "event_time": "2026-04-16T01:42:00",
-    "seen_at": "2026-04-15T23:45:22.679Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 01:42, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622029",
     "type": "Dolazak",
     "station": "OSIJEK",
     "train_number": "81995",
@@ -16558,5 +16540,50 @@
     "event_time": "2026-04-19T01:31:00",
     "seen_at": "2026-04-18T23:32:02.736Z",
     "raw": "Br. Vlaka 89115 odlazak      19.04.26. 01:31, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81284",
+    "event_time": "2026-04-19T01:40:00",
+    "seen_at": "2026-04-18T23:40:32.535Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 01:40, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "89115",
+    "event_time": "2026-04-19T01:40:00",
+    "seen_at": "2026-04-18T23:40:55.218Z",
+    "raw": "Br. Vlaka 89115 dolazak      19.04.26. 01:40, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "89115",
+    "event_time": "2026-04-19T01:40:00",
+    "seen_at": "2026-04-18T23:40:55.219Z",
+    "raw": "Br. Vlaka 89115 dolazak      19.04.26. 01:40, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-19T01:40:00",
+    "seen_at": "2026-04-18T23:41:17.897Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-19T01:40:00",
+    "seen_at": "2026-04-18T23:41:17.898Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
   }
 ]
