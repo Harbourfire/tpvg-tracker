@@ -1,60 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-16T01:10:00",
-    "seen_at": "2026-04-15T23:11:03.118Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 01:10, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-16T01:10:00",
-    "seen_at": "2026-04-15T23:11:03.118Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 01:10, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44994",
-    "event_time": "2026-04-16T01:10:00",
-    "seen_at": "2026-04-15T23:11:28.078Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 01:10, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69784",
-    "event_time": "2026-04-16T01:10:00",
-    "seen_at": "2026-04-15T23:12:42.582Z",
-    "raw": "Br. Vlaka 69784 odlazak      16.04.26. 01:10, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T01:11:00",
-    "seen_at": "2026-04-15T23:13:08.093Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 01:11, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "89929",
-    "event_time": "2026-04-15T13:15:00",
-    "seen_at": "2026-04-15T23:18:18.651Z",
-    "raw": "Br. Vlaka 89929 formiran     15.04.26. 13:15, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230100",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
     "train_number": null,
@@ -16585,5 +16531,50 @@
     "event_time": "2026-04-19T00:58:00",
     "seen_at": "2026-04-18T23:00:43.127Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "81953",
+    "event_time": "2026-04-19T01:07:00",
+    "seen_at": "2026-04-18T23:13:12.634Z",
+    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 01:07, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89115",
+    "event_time": "2026-04-19T01:12:00",
+    "seen_at": "2026-04-18T23:13:35.964Z",
+    "raw": "Br. Vlaka 89115 odlazak      19.04.26. 01:12, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89115",
+    "event_time": "2026-04-19T01:12:00",
+    "seen_at": "2026-04-18T23:13:35.965Z",
+    "raw": "Br. Vlaka 89115 odlazak      19.04.26. 01:12, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-19T01:12:00",
+    "seen_at": "2026-04-18T23:13:59.369Z",
+    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:12, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-19T01:12:00",
+    "seen_at": "2026-04-18T23:13:59.371Z",
+    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:12, kolodvor VARAŽDIN"
   }
 ]
