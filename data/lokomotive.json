@@ -1,68 +1,5 @@
 [
   {
-    "uic": "997894853487",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "82552",
-    "event_time": "2026-04-15T09:35:00",
-    "seen_at": "2026-04-15T07:35:23.583Z",
-    "raw": "Br. Vlaka 82552 formiran     15.04.26. 09:35, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "49999",
-    "event_time": "2026-04-15T09:35:00",
-    "seen_at": "2026-04-15T07:36:12.029Z",
-    "raw": "Br. Vlaka 49999 formiran     15.04.26. 09:35, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "45940",
-    "event_time": "2026-04-15T09:26:00",
-    "seen_at": "2026-04-15T07:37:00.177Z",
-    "raw": "Br. Vlaka 45940 promjena sas 15.04.26. 09:26, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-15T09:37:00",
-    "seen_at": "2026-04-15T07:37:24.159Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74100",
-    "event_time": "2026-04-15T09:37:00",
-    "seen_at": "2026-04-15T07:38:36.813Z",
-    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 09:37, kolodvor SPAČVA"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74100",
-    "event_time": "2026-04-15T09:37:00",
-    "seen_at": "2026-04-15T07:39:01.175Z",
-    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 09:37, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "ERDUT",
-    "train_number": "69851",
-    "event_time": "2026-04-15T09:11:00",
-    "seen_at": "2026-04-15T07:43:16.700Z",
-    "raw": "Br. Vlaka 69851 formiran     15.04.26. 09:11, kolodvor ERDUT"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -16288,5 +16225,32 @@
     "event_time": "2026-04-18T09:25:00",
     "seen_at": "2026-04-18T07:30:01.439Z",
     "raw": "Br. Vlaka 89923 odlazak      18.04.26. 09:25, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "43997",
+    "event_time": "2026-04-18T09:36:00",
+    "seen_at": "2026-04-18T07:36:16.452Z",
+    "raw": "Br. Vlaka 43997 dolazak      18.04.26. 09:36, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89923",
+    "event_time": "2026-04-18T09:29:00",
+    "seen_at": "2026-04-18T07:36:39.099Z",
+    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 09:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-17T23:04:00",
+    "seen_at": "2026-04-18T07:41:13.759Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
   }
 ]
