@@ -1,15 +1,6 @@
 [
   {
     "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "89332",
-    "event_time": "2026-04-15T19:33:00",
-    "seen_at": "2026-04-15T17:35:07.462Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:33, kolodvor GREDA"
-  },
-  {
-    "uic": "987895225611",
     "type": "Dolazak",
     "station": "LEKENIK",
     "train_number": "89332",
@@ -16153,5 +16144,32 @@
     "event_time": "2026-04-18T19:30:00",
     "seen_at": "2026-04-18T17:31:28.685Z",
     "raw": "Br. Vlaka 82140 odlazak      18.04.26. 19:30, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-14T15:15:00",
+    "seen_at": "2026-04-18T17:33:51.865Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "42786",
+    "event_time": "2026-04-18T19:31:00",
+    "seen_at": "2026-04-18T17:34:14.505Z",
+    "raw": "Br. Vlaka 42786 dolazak      18.04.26. 19:31, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "TUROPOLJE",
+    "train_number": "81951",
+    "event_time": "2026-04-18T19:40:00",
+    "seen_at": "2026-04-18T17:41:01.628Z",
+    "raw": "Br. Vlaka 81951 dolazak      18.04.26. 19:40, kolodvor TUROPOLJE"
   }
 ]
