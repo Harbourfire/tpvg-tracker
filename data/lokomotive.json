@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "82502",
-    "event_time": "2026-04-15T07:52:00",
-    "seen_at": "2026-04-15T05:52:28.711Z",
-    "raw": "Br. Vlaka 82502 dolazak      15.04.26. 07:52, kolodvor 72302"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76552",
-    "event_time": "2026-04-15T07:48:00",
-    "seen_at": "2026-04-15T05:52:28.713Z",
-    "raw": "Br. Vlaka 76552 formiran     15.04.26. 07:48, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "74301",
-    "event_time": "2026-04-15T07:52:00",
-    "seen_at": "2026-04-15T05:53:18.475Z",
-    "raw": "Br. Vlaka 74301 dolazak      15.04.26. 07:52, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-15T07:54:00",
-    "seen_at": "2026-04-15T05:59:55.026Z",
-    "raw": "Br. Vlaka 69006 formiran     15.04.26. 07:54, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-15T07:54:00",
-    "seen_at": "2026-04-15T05:59:55.026Z",
-    "raw": "Br. Vlaka 69006 formiran     15.04.26. 07:54, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "OSIJEK DONJI GRAD",
@@ -16225,5 +16180,14 @@
     "event_time": "2026-04-18T07:44:00",
     "seen_at": "2026-04-18T05:48:47.315Z",
     "raw": "Br. Vlaka 48786 dolazak      18.04.26. 07:44, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-04-18T07:50:00",
+    "seen_at": "2026-04-18T05:53:05.987Z",
+    "raw": "Br. Vlaka 45105 odlazak      18.04.26. 07:50, kolodvor SPAČVA"
   }
 ]
