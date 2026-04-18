@@ -2,60 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "89921",
-    "event_time": "2026-04-15T04:42:00",
-    "seen_at": "2026-04-15T02:53:40.806Z",
-    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 04:42, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89921",
-    "event_time": "2026-04-15T04:53:00",
-    "seen_at": "2026-04-15T02:54:04.846Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 04:53, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-14T03:04:00",
-    "seen_at": "2026-04-15T02:57:38.513Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-14T03:04:00",
-    "seen_at": "2026-04-15T02:57:38.514Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69607",
-    "event_time": "2026-04-15T04:17:00",
-    "seen_at": "2026-04-15T03:00:25.091Z",
-    "raw": "Br. Vlaka 69607 formiran     15.04.26. 04:17, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69607",
-    "event_time": "2026-04-15T04:17:00",
-    "seen_at": "2026-04-15T03:00:49.799Z",
-    "raw": "Br. Vlaka 69607 formiran     15.04.26. 04:17, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
     "station": "NOVI MAROF",
     "train_number": "89921",
     "event_time": "2026-04-15T05:11:00",
@@ -16243,5 +16189,32 @@
     "event_time": "2026-04-18T04:51:00",
     "seen_at": "2026-04-18T02:52:02.884Z",
     "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:51, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-18T04:54:00",
+    "seen_at": "2026-04-18T03:00:28.397Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T04:59:00",
+    "seen_at": "2026-04-18T03:00:51.591Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:59, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T04:59:00",
+    "seen_at": "2026-04-18T03:00:51.591Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:59, kolodvor VRHOVINE"
   }
 ]
