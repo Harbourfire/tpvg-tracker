@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44995",
-    "event_time": "2026-04-15T07:40:00",
-    "seen_at": "2026-04-15T05:42:47.488Z",
-    "raw": "Br. Vlaka 44995 dolazak      15.04.26. 07:40, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-15T05:04:00",
-    "seen_at": "2026-04-15T05:45:38.166Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "81951",
-    "event_time": "2026-04-15T07:41:00",
-    "seen_at": "2026-04-15T05:46:03.023Z",
-    "raw": "Br. Vlaka 81951 formiran     15.04.26. 07:41, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "82502",
-    "event_time": "2026-04-15T07:40:00",
-    "seen_at": "2026-04-15T05:46:51.850Z",
-    "raw": "Br. Vlaka 82502 odlazak      15.04.26. 07:40, kolodvor 72303"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "74101",
-    "event_time": "2026-04-15T07:45:00",
-    "seen_at": "2026-04-15T05:47:16.591Z",
-    "raw": "Br. Vlaka 74101 odlazak      15.04.26. 07:45, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820620262",
     "type": "Dolazak",
     "station": "ZAGREB ŽITNJAK",
@@ -16225,5 +16180,50 @@
     "event_time": "2026-04-18T07:37:00",
     "seen_at": "2026-04-18T05:39:09.241Z",
     "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:37, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89923",
+    "event_time": "2026-04-18T07:43:00",
+    "seen_at": "2026-04-18T05:44:14.099Z",
+    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 07:43, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "43997",
+    "event_time": "2026-04-18T07:42:00",
+    "seen_at": "2026-04-18T05:44:14.099Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 07:42, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-18T07:46:00",
+    "seen_at": "2026-04-18T05:47:15.889Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:46, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-18T07:46:00",
+    "seen_at": "2026-04-18T05:47:15.889Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:46, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "48786",
+    "event_time": "2026-04-18T07:44:00",
+    "seen_at": "2026-04-18T05:48:47.315Z",
+    "raw": "Br. Vlaka 48786 dolazak      18.04.26. 07:44, kolodvor ČAKOVEC"
   }
 ]
