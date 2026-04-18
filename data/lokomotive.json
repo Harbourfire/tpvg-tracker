@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89921",
-    "event_time": "2026-04-15T06:00:00",
-    "seen_at": "2026-04-15T04:00:30.302Z",
-    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 06:00, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "82502",
-    "event_time": "2026-04-15T05:28:00",
-    "seen_at": "2026-04-15T04:06:27.832Z",
-    "raw": "Br. Vlaka 82502 promjena sas 15.04.26. 05:28, kolodvor 72303"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
     "train_number": "89921",
@@ -16162,5 +16144,23 @@
     "event_time": "2026-04-18T05:50:00",
     "seen_at": "2026-04-18T03:53:05.278Z",
     "raw": "Br. Vlaka 89923 dolazak      18.04.26. 05:50, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-18T06:02:00",
+    "seen_at": "2026-04-18T04:03:28.876Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 06:02, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-18T06:02:00",
+    "seen_at": "2026-04-18T04:03:28.876Z",
+    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 06:02, kolodvor PERUŠIĆ"
   }
 ]
