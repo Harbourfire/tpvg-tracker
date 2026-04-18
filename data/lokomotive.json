@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44995",
-    "event_time": "2026-04-15T03:59:00",
-    "seen_at": "2026-04-15T01:59:26.257Z",
-    "raw": "Br. Vlaka 44995 formiran     15.04.26. 03:59, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T03:57:00",
-    "seen_at": "2026-04-15T01:59:50.001Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 03:57, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T03:57:00",
-    "seen_at": "2026-04-15T01:59:50.001Z",
-    "raw": "Br. Vlaka 44787 odlazak      15.04.26. 03:57, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -16189,5 +16162,59 @@
     "event_time": "2026-04-18T03:52:00",
     "seen_at": "2026-04-18T01:53:08.280Z",
     "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:52, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44998",
+    "event_time": "2026-04-18T03:54:00",
+    "seen_at": "2026-04-18T01:57:48.570Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 03:54, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48786",
+    "event_time": "2026-04-18T03:57:00",
+    "seen_at": "2026-04-18T02:01:14.204Z",
+    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 03:57, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "VELIKA GORICA",
+    "train_number": "48588",
+    "event_time": "2026-04-18T04:03:00",
+    "seen_at": "2026-04-18T02:03:30.354Z",
+    "raw": "Br. Vlaka 48588 dolazak      18.04.26. 04:03, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "VELIKA GORICA",
+    "train_number": "48588",
+    "event_time": "2026-04-18T04:03:00",
+    "seen_at": "2026-04-18T02:03:30.355Z",
+    "raw": "Br. Vlaka 48588 dolazak      18.04.26. 04:03, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "VELIKA GORICA",
+    "train_number": null,
+    "event_time": "2026-04-17T05:00:00",
+    "seen_at": "2026-04-18T02:05:01.926Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72908 VELIKA GORICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "VELIKA GORICA",
+    "train_number": null,
+    "event_time": "2026-04-17T05:00:00",
+    "seen_at": "2026-04-18T02:05:01.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72908 VELIKA GORICA"
   }
 ]
