@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "48582",
-    "event_time": "2026-04-15T14:55:00",
-    "seen_at": "2026-04-15T12:55:54.928Z",
-    "raw": "Br. Vlaka 48582 odlazak      15.04.26. 14:55, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49999",
-    "event_time": "2026-04-15T14:54:00",
-    "seen_at": "2026-04-15T12:56:18.850Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:54, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49999",
-    "event_time": "2026-04-15T14:54:00",
-    "seen_at": "2026-04-15T12:56:18.850Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:54, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "48582",
-    "event_time": "2026-04-15T15:01:00",
-    "seen_at": "2026-04-15T13:01:21.096Z",
-    "raw": "Br. Vlaka 48582 dolazak      15.04.26. 15:01, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-15T15:00:00",
-    "seen_at": "2026-04-15T13:01:45.661Z",
-    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 15:00, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622029",
     "type": "Rasformiran",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": null,
@@ -16054,5 +16009,23 @@
     "event_time": "2026-04-18T14:51:00",
     "seen_at": "2026-04-18T12:51:36.614Z",
     "raw": "Br. Vlaka 63310 formiran     18.04.26. 14:51, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-18T14:54:00",
+    "seen_at": "2026-04-18T12:54:26.593Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ZVEČAJ",
+    "train_number": "81969",
+    "event_time": "2026-04-18T14:55:00",
+    "seen_at": "2026-04-18T13:02:25.106Z",
+    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 14:55, kolodvor ZVEČAJ"
   }
 ]
