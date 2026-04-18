@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89920",
-    "event_time": "2026-04-15T02:53:00",
-    "seen_at": "2026-04-15T00:54:13.292Z",
-    "raw": "Br. Vlaka 89920 odlazak      15.04.26. 02:53, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89920",
-    "event_time": "2026-04-15T02:57:00",
-    "seen_at": "2026-04-15T00:59:47.855Z",
-    "raw": "Br. Vlaka 89920 dolazak      15.04.26. 02:57, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-15T02:57:00",
-    "seen_at": "2026-04-15T01:00:11.870Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:00:00",
-    "seen_at": "2026-04-15T01:00:59.646Z",
-    "raw": "Br. Vlaka 81982 dolazak      15.04.26. 03:00, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:00:00",
-    "seen_at": "2026-04-15T01:00:59.646Z",
-    "raw": "Br. Vlaka 81982 dolazak      15.04.26. 03:00, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16225,5 +16180,50 @@
     "event_time": "2026-04-18T02:48:00",
     "seen_at": "2026-04-18T00:50:36.801Z",
     "raw": "Br. Vlaka 63305 odlazak      18.04.26. 02:48, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-18T02:53:00",
+    "seen_at": "2026-04-18T00:53:51.364Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 02:53, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "48588",
+    "event_time": "2026-04-18T02:55:00",
+    "seen_at": "2026-04-18T00:55:44.705Z",
+    "raw": "Br. Vlaka 48588 dolazak      18.04.26. 02:55, kolodvor SISAK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "48588",
+    "event_time": "2026-04-18T02:55:00",
+    "seen_at": "2026-04-18T00:55:44.706Z",
+    "raw": "Br. Vlaka 48588 dolazak      18.04.26. 02:55, kolodvor SISAK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "69785",
+    "event_time": "2026-04-18T02:59:00",
+    "seen_at": "2026-04-18T01:00:43.690Z",
+    "raw": "Br. Vlaka 69785 dolazak      18.04.26. 02:59, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-18T02:59:00",
+    "seen_at": "2026-04-18T01:01:07.882Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
