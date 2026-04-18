@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-15T14:25:00",
-    "seen_at": "2026-04-15T12:25:33.669Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49999",
-    "event_time": "2026-04-15T14:22:00",
-    "seen_at": "2026-04-15T12:25:57.373Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:22, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49999",
-    "event_time": "2026-04-15T14:22:00",
-    "seen_at": "2026-04-15T12:25:57.374Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 14:22, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89332",
-    "event_time": "2026-04-15T14:28:00",
-    "seen_at": "2026-04-15T12:29:49.256Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 14:28, kolodvor ORIOVAC"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -16099,5 +16063,23 @@
     "event_time": "2026-04-18T14:18:00",
     "seen_at": "2026-04-18T12:19:22.212Z",
     "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:18, kolodvor KUKAČA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "82510",
+    "event_time": "2026-04-18T14:25:00",
+    "seen_at": "2026-04-18T12:28:05.106Z",
+    "raw": "Br. Vlaka 82510 odlazak      18.04.26. 14:25, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "81969",
+    "event_time": "2026-04-18T14:26:00",
+    "seen_at": "2026-04-18T12:31:51.559Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:26, kolodvor GORNJE DUBRAVE"
   }
 ]
