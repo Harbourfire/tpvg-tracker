@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-15T16:05:00",
-    "seen_at": "2026-04-15T14:10:00.425Z",
-    "raw": "Br. Vlaka 44786 dolazak      15.04.26. 16:05, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81984",
-    "event_time": "2026-04-15T16:05:00",
-    "seen_at": "2026-04-15T14:10:00.425Z",
-    "raw": "Br. Vlaka 81984 promjena sas 15.04.26. 16:05, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81984",
-    "event_time": "2026-04-15T16:05:00",
-    "seen_at": "2026-04-15T14:10:00.425Z",
-    "raw": "Br. Vlaka 81984 promjena sas 15.04.26. 16:05, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-15T16:10:00",
-    "seen_at": "2026-04-15T14:12:23.429Z",
-    "raw": "Br. Vlaka 49998 odlazak      15.04.26. 16:10, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-15T16:09:00",
-    "seen_at": "2026-04-15T14:15:10.844Z",
-    "raw": "Br. Vlaka 44786 odlazak      15.04.26. 16:09, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44786",
-    "event_time": "2026-04-15T16:15:00",
-    "seen_at": "2026-04-15T14:15:34.780Z",
-    "raw": "Br. Vlaka 44786 dolazak      15.04.26. 16:15, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-15T16:15:00",
-    "seen_at": "2026-04-15T14:15:58.571Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -15910,5 +15847,32 @@
     "event_time": "2026-04-18T15:58:00",
     "seen_at": "2026-04-18T13:59:41.661Z",
     "raw": "Br. Vlaka 81969 odlazak      18.04.26. 15:58, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "82510",
+    "event_time": "2026-04-18T15:56:00",
+    "seen_at": "2026-04-18T14:12:45.738Z",
+    "raw": "Br. Vlaka 82510 dolazak      18.04.26. 15:56, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "81969",
+    "event_time": "2026-04-18T16:12:00",
+    "seen_at": "2026-04-18T14:12:45.738Z",
+    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 16:12, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82510",
+    "event_time": "2026-04-18T16:11:00",
+    "seen_at": "2026-04-18T14:13:08.155Z",
+    "raw": "Br. Vlaka 82510 odlazak      18.04.26. 16:11, kolodvor TURČIN"
   }
 ]
