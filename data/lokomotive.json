@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-15T22:04:00",
-    "seen_at": "2026-04-15T20:07:00.141Z",
-    "raw": "Br. Vlaka 69175 formiran     15.04.26. 22:04, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-15T22:04:00",
-    "seen_at": "2026-04-15T20:07:00.141Z",
-    "raw": "Br. Vlaka 69175 formiran     15.04.26. 22:04, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T10:21:00",
-    "seen_at": "2026-04-15T20:09:49.474Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T10:21:00",
-    "seen_at": "2026-04-15T20:10:13.435Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44997",
-    "event_time": "2026-04-15T22:10:00",
-    "seen_at": "2026-04-15T20:11:25.939Z",
-    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 22:10, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -16450,5 +16405,32 @@
     "event_time": "2026-04-18T22:00:00",
     "seen_at": "2026-04-18T20:02:10.131Z",
     "raw": "Br. Vlaka 81951 dolazak      18.04.26. 22:00, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:03:00",
+    "seen_at": "2026-04-18T20:04:00.235Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:03, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:03:00",
+    "seen_at": "2026-04-18T20:04:00.236Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:03, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "89151",
+    "event_time": "2026-04-18T22:04:00",
+    "seen_at": "2026-04-18T20:07:00.438Z",
+    "raw": "Br. Vlaka 89151 odlazak      18.04.26. 22:04, kolodvor JOSIPOVAC"
   }
 ]
