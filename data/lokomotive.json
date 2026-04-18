@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44787",
-    "event_time": "2026-04-16T00:22:00",
-    "seen_at": "2026-04-15T22:22:51.458Z",
-    "raw": "Br. Vlaka 44787 formiran     16.04.26. 00:22, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:23:00",
-    "seen_at": "2026-04-15T22:24:32.197Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:23, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44994",
-    "event_time": "2026-04-16T00:29:00",
-    "seen_at": "2026-04-15T22:29:57.969Z",
-    "raw": "Br. Vlaka 44994 odlazak      16.04.26. 00:29, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-16T00:29:00",
-    "seen_at": "2026-04-15T22:30:23.042Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:29, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-16T00:29:00",
-    "seen_at": "2026-04-15T22:30:23.042Z",
-    "raw": "Br. Vlaka 63305 odlazak      16.04.26. 00:29, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "SAVSKI MAROF",
@@ -16603,5 +16558,68 @@
     "event_time": "2026-04-18T17:04:00",
     "seen_at": "2026-04-18T22:16:51.857Z",
     "raw": "Br. Vlaka 89115 formiran     18.04.26. 17:04, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "81953",
+    "event_time": "2026-04-19T00:21:00",
+    "seen_at": "2026-04-18T22:26:23.611Z",
+    "raw": "Br. Vlaka 81953 odlazak      19.04.26. 00:21, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89115",
+    "event_time": "2026-04-19T00:23:00",
+    "seen_at": "2026-04-18T22:27:57.030Z",
+    "raw": "Br. Vlaka 89115 odlazak      19.04.26. 00:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89115",
+    "event_time": "2026-04-19T00:23:00",
+    "seen_at": "2026-04-18T22:27:57.031Z",
+    "raw": "Br. Vlaka 89115 odlazak      19.04.26. 00:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:27:00",
+    "seen_at": "2026-04-18T22:28:42.927Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:27, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T00:27:00",
+    "seen_at": "2026-04-18T22:28:42.927Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 00:27, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89115",
+    "event_time": "2026-04-19T00:30:00",
+    "seen_at": "2026-04-18T22:31:27.448Z",
+    "raw": "Br. Vlaka 89115 dolazak      19.04.26. 00:30, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89115",
+    "event_time": "2026-04-19T00:30:00",
+    "seen_at": "2026-04-18T22:31:27.449Z",
+    "raw": "Br. Vlaka 89115 dolazak      19.04.26. 00:30, kolodvor TURČIN"
   }
 ]
