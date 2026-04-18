@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "81951",
-    "event_time": "2026-04-15T11:18:00",
-    "seen_at": "2026-04-15T09:22:27.409Z",
-    "raw": "Br. Vlaka 81951 dolazak      15.04.26. 11:18, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "81951",
-    "event_time": "2026-04-15T11:19:00",
-    "seen_at": "2026-04-15T09:22:51.746Z",
-    "raw": "Br. Vlaka 81951 odlazak      15.04.26. 11:19, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "49999",
-    "event_time": "2026-04-15T11:22:00",
-    "seen_at": "2026-04-15T09:24:04.577Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 11:22, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76553",
-    "event_time": "2026-04-15T11:24:00",
-    "seen_at": "2026-04-15T09:24:29.095Z",
-    "raw": "Br. Vlaka 76553 odlazak      15.04.26. 11:24, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -16144,5 +16108,68 @@
     "event_time": "2026-04-18T11:15:00",
     "seen_at": "2026-04-18T09:15:31.733Z",
     "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:15, kolodvor MEJA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-18T09:22:31.500Z",
+    "seen_at": "2026-04-18T09:22:31.500Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-18T11:14:00",
+    "seen_at": "2026-04-18T09:22:31.500Z",
+    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:14, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-18T09:22:31.501Z",
+    "seen_at": "2026-04-18T09:22:31.501Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44787",
+    "event_time": "2026-04-18T11:20:00",
+    "seen_at": "2026-04-18T09:22:54.505Z",
+    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:20, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82139",
+    "event_time": "2026-04-18T11:16:00",
+    "seen_at": "2026-04-18T09:22:54.506Z",
+    "raw": "Br. Vlaka 82139 formiran     18.04.26. 11:16, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-18T11:17:00",
+    "seen_at": "2026-04-18T09:24:27.441Z",
+    "raw": "Br. Vlaka 45104 dolazak      18.04.26. 11:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69771",
+    "event_time": "2026-04-18T11:24:00",
+    "seen_at": "2026-04-18T09:25:13.204Z",
+    "raw": "Br. Vlaka 69771 odlazak      18.04.26. 11:24, kolodvor DARDA"
   }
 ]
