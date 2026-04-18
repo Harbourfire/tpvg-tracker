@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-15T13:59:00",
-    "seen_at": "2026-04-15T12:00:21.818Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -16054,5 +16045,32 @@
     "event_time": "2026-04-18T13:55:00",
     "seen_at": "2026-04-18T11:55:52.255Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "81969",
+    "event_time": "2026-04-18T14:01:00",
+    "seen_at": "2026-04-18T12:01:47.912Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:01, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82143",
+    "event_time": "2026-04-18T13:56:00",
+    "seen_at": "2026-04-18T12:02:11.098Z",
+    "raw": "Br. Vlaka 82143 odlazak      18.04.26. 13:56, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89109",
+    "event_time": "2026-04-18T12:11:00",
+    "seen_at": "2026-04-18T12:05:15.254Z",
+    "raw": "Br. Vlaka 89109 formiran     18.04.26. 12:11, kolodvor OSIJEK"
   }
 ]
