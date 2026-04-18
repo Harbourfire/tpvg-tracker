@@ -15874,5 +15874,59 @@
     "event_time": "2026-04-18T16:38:00",
     "seen_at": "2026-04-18T14:40:14.063Z",
     "raw": "Br. Vlaka 63310 odlazak      18.04.26. 16:38, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "89543",
+    "event_time": "2026-04-18T16:42:00",
+    "seen_at": "2026-04-18T14:47:19.727Z",
+    "raw": "Br. Vlaka 89543 odlazak      18.04.26. 16:42, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-18T16:47:00",
+    "seen_at": "2026-04-18T14:48:50.361Z",
+    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 16:47, kolodvor BLATA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-18T09:00:00",
+    "seen_at": "2026-04-18T14:52:14.696Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-18T09:00:00",
+    "seen_at": "2026-04-18T14:52:37.342Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-18T12:13:00",
+    "seen_at": "2026-04-18T14:53:22.498Z",
+    "raw": "Br. Vlaka 44787 promjena sas 18.04.26. 12:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-18T12:13:00",
+    "seen_at": "2026-04-18T14:53:45.227Z",
+    "raw": "Br. Vlaka 44787 promjena sas 18.04.26. 12:13, kolodvor VARAŽDIN"
   }
 ]
