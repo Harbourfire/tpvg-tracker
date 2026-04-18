@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "48582",
-    "event_time": "2026-04-15T12:21:00",
-    "seen_at": "2026-04-15T10:21:29.180Z",
-    "raw": "Br. Vlaka 48582 odlazak      15.04.26. 12:21, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81993",
-    "event_time": "2026-04-15T12:21:00",
-    "seen_at": "2026-04-15T10:21:29.180Z",
-    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 12:21, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81993",
-    "event_time": "2026-04-15T12:21:00",
-    "seen_at": "2026-04-15T10:21:29.180Z",
-    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 12:21, kolodvor BLATA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LEPOGLAVA",
-    "train_number": "81951",
-    "event_time": "2026-04-15T12:20:00",
-    "seen_at": "2026-04-15T10:22:16.601Z",
-    "raw": "Br. Vlaka 81951 odlazak      15.04.26. 12:20, kolodvor LEPOGLAVA"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -16108,5 +16072,41 @@
     "event_time": "2026-04-18T12:02:00",
     "seen_at": "2026-04-18T10:12:54.253Z",
     "raw": "Br. Vlaka 82139 odlazak      18.04.26. 12:02, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-18T12:13:00",
+    "seen_at": "2026-04-18T10:15:48.303Z",
+    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 12:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-18T11:56:00",
+    "seen_at": "2026-04-18T10:15:48.303Z",
+    "raw": "Br. Vlaka 45104 odlazak      18.04.26. 11:56, kolodvor OTOK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-18T12:13:00",
+    "seen_at": "2026-04-18T10:16:11.144Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82139",
+    "event_time": "2026-04-18T12:16:00",
+    "seen_at": "2026-04-18T10:17:42.315Z",
+    "raw": "Br. Vlaka 82139 odlazak      18.04.26. 12:16, kolodvor PLAŠKI"
   }
 ]
