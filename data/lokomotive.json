@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T03:43:00",
-    "seen_at": "2026-04-15T01:48:26.056Z",
-    "raw": "Br. Vlaka 44787 dolazak      15.04.26. 03:43, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T03:43:00",
-    "seen_at": "2026-04-15T01:48:26.057Z",
-    "raw": "Br. Vlaka 44787 dolazak      15.04.26. 03:43, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:46:00",
-    "seen_at": "2026-04-15T01:48:49.865Z",
-    "raw": "Br. Vlaka 81982 dolazak      15.04.26. 03:46, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:46:00",
-    "seen_at": "2026-04-15T01:48:49.865Z",
-    "raw": "Br. Vlaka 81982 dolazak      15.04.26. 03:46, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:46:00",
-    "seen_at": "2026-04-15T01:50:51.912Z",
-    "raw": "Br. Vlaka 81982 promjena sas 15.04.26. 03:46, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "81982",
-    "event_time": "2026-04-15T03:46:00",
-    "seen_at": "2026-04-15T01:50:51.913Z",
-    "raw": "Br. Vlaka 81982 promjena sas 15.04.26. 03:46, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T03:43:00",
-    "seen_at": "2026-04-15T01:52:40.573Z",
-    "raw": "Br. Vlaka 44787 promjena sas 15.04.26. 03:43, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-15T03:43:00",
-    "seen_at": "2026-04-15T01:52:40.573Z",
-    "raw": "Br. Vlaka 44787 promjena sas 15.04.26. 03:43, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -16234,5 +16162,32 @@
     "event_time": "2026-04-18T03:44:00",
     "seen_at": "2026-04-18T01:45:27.357Z",
     "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:44, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44998",
+    "event_time": "2026-04-18T03:47:00",
+    "seen_at": "2026-04-18T01:49:00.010Z",
+    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 03:47, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "48588",
+    "event_time": "2026-04-18T03:52:00",
+    "seen_at": "2026-04-18T01:53:08.279Z",
+    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:52, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "48588",
+    "event_time": "2026-04-18T03:52:00",
+    "seen_at": "2026-04-18T01:53:08.280Z",
+    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:52, kolodvor TUROPOLJE"
   }
 ]
