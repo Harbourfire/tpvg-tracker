@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "69607",
-    "event_time": "2026-04-15T05:24:00",
-    "seen_at": "2026-04-15T03:28:44.979Z",
-    "raw": "Br. Vlaka 69607 dolazak      15.04.26. 05:24, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "69607",
-    "event_time": "2026-04-15T05:24:00",
-    "seen_at": "2026-04-15T03:28:44.980Z",
-    "raw": "Br. Vlaka 69607 dolazak      15.04.26. 05:24, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44995",
-    "event_time": "2026-04-15T05:23:00",
-    "seen_at": "2026-04-15T03:29:09.230Z",
-    "raw": "Br. Vlaka 44995 odlazak      15.04.26. 05:23, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44995",
-    "event_time": "2026-04-15T05:28:00",
-    "seen_at": "2026-04-15T03:29:33.706Z",
-    "raw": "Br. Vlaka 44995 dolazak      15.04.26. 05:28, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620247",
     "type": "Rasformiran",
     "station": "ZAGREB ZAPADNI",
     "train_number": null,
@@ -16225,5 +16189,23 @@
     "event_time": "2026-04-18T05:13:00",
     "seen_at": "2026-04-18T03:18:38.865Z",
     "raw": "Br. Vlaka 63305 promjena sas 18.04.26. 05:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "45980",
+    "event_time": "2026-04-18T05:16:00",
+    "seen_at": "2026-04-18T03:22:44.109Z",
+    "raw": "Br. Vlaka 45980 promjena sas 18.04.26. 05:16, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89923",
+    "event_time": "2026-04-17T23:12:00",
+    "seen_at": "2026-04-18T03:24:39.039Z",
+    "raw": "Br. Vlaka 89923 formiran     17.04.26. 23:12, kolodvor KOTORIBA-GR"
   }
 ]
