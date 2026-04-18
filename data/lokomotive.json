@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "89921",
-    "event_time": "2026-04-15T05:11:00",
-    "seen_at": "2026-04-15T03:13:39.080Z",
-    "raw": "Br. Vlaka 89921 dolazak      15.04.26. 05:11, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69607",
-    "event_time": "2026-04-15T05:13:00",
-    "seen_at": "2026-04-15T03:14:03.267Z",
-    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:13, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69607",
-    "event_time": "2026-04-15T05:13:00",
-    "seen_at": "2026-04-15T03:14:03.268Z",
-    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:13, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89921",
-    "event_time": "2026-04-15T05:17:00",
-    "seen_at": "2026-04-15T03:20:23.889Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 05:17, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "69607",
-    "event_time": "2026-04-15T05:18:00",
-    "seen_at": "2026-04-15T03:20:47.985Z",
-    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:18, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "69607",
-    "event_time": "2026-04-15T05:18:00",
-    "seen_at": "2026-04-15T03:20:47.986Z",
-    "raw": "Br. Vlaka 69607 odlazak      15.04.26. 05:18, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
@@ -16216,5 +16162,68 @@
     "event_time": "2026-04-18T04:59:00",
     "seen_at": "2026-04-18T03:00:51.591Z",
     "raw": "Br. Vlaka 63305 odlazak      18.04.26. 04:59, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-17T19:51:00",
+    "seen_at": "2026-04-18T03:13:35.222Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T05:13:00",
+    "seen_at": "2026-04-18T03:16:42.900Z",
+    "raw": "Br. Vlaka 63305 dolazak      18.04.26. 05:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T05:13:00",
+    "seen_at": "2026-04-18T03:16:42.900Z",
+    "raw": "Br. Vlaka 63305 dolazak      18.04.26. 05:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-18T04:16:00",
+    "seen_at": "2026-04-18T03:17:29.331Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-18T04:16:00",
+    "seen_at": "2026-04-18T03:17:29.332Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T05:13:00",
+    "seen_at": "2026-04-18T03:18:38.865Z",
+    "raw": "Br. Vlaka 63305 promjena sas 18.04.26. 05:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-18T05:13:00",
+    "seen_at": "2026-04-18T03:18:38.865Z",
+    "raw": "Br. Vlaka 63305 promjena sas 18.04.26. 05:13, kolodvor LIČKO LEŠĆE"
   }
 ]
