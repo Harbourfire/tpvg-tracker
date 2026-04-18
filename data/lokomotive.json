@@ -1,69 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T10:47:00",
-    "seen_at": "2026-04-15T08:50:37.231Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-04-15T10:47:00",
-    "seen_at": "2026-04-15T08:50:37.231Z",
-    "raw": "Br. Vlaka 69005 R            15.04.26. 10:47, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-15T10:47:00",
-    "seen_at": "2026-04-15T08:51:10.762Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "71708",
-    "event_time": "2026-04-15T10:49:00",
-    "seen_at": "2026-04-15T08:51:10.763Z",
-    "raw": "Br. Vlaka 71708 odlazak      15.04.26. 10:49, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-15T10:57:00",
-    "seen_at": "2026-04-15T08:57:35.224Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "74300",
-    "event_time": "2026-04-15T10:57:00",
-    "seen_at": "2026-04-15T08:57:58.918Z",
-    "raw": "Br. Vlaka 74300 odlazak      15.04.26. 10:57, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "81951",
-    "event_time": "2026-04-15T10:58:00",
-    "seen_at": "2026-04-15T08:59:10.741Z",
-    "raw": "Br. Vlaka 81951 odlazak      15.04.26. 10:58, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
     "train_number": "81993",
@@ -16180,5 +16117,32 @@
     "event_time": "2026-04-15T10:42:00",
     "seen_at": "2026-04-18T08:47:50.573Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SUŠAK PEĆINE",
+    "train_number": "81969",
+    "event_time": "2026-04-18T10:52:00",
+    "seen_at": "2026-04-18T08:52:39.423Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:52, kolodvor SUŠAK PEĆINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-18T10:55:00",
+    "seen_at": "2026-04-18T08:56:08.932Z",
+    "raw": "Br. Vlaka 44787 formiran     18.04.26. 10:55, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-15T10:57:00",
+    "seen_at": "2026-04-18T08:58:04.767Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
