@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891213462",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74100",
-    "event_time": "2026-04-15T10:20:00",
-    "seen_at": "2026-04-15T08:22:31.006Z",
-    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 10:20, kolodvor OTOK"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "74100",
-    "event_time": "2026-04-15T10:20:00",
-    "seen_at": "2026-04-15T08:22:31.006Z",
-    "raw": "Br. Vlaka 74100 odlazak      15.04.26. 10:20, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49999",
-    "event_time": "2026-04-15T10:25:00",
-    "seen_at": "2026-04-15T08:28:15.553Z",
-    "raw": "Br. Vlaka 49999 odlazak      15.04.26. 10:25, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "997890210013",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-15T07:20:00",
-    "seen_at": "2026-04-15T08:28:40.227Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997890210013",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "71708",
-    "event_time": "2026-04-15T10:28:00",
-    "seen_at": "2026-04-15T08:29:04.523Z",
-    "raw": "Br. Vlaka 71708 formiran     15.04.26. 10:28, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997894853487",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "82552",
-    "event_time": "2026-04-15T10:25:00",
-    "seen_at": "2026-04-15T08:30:16.978Z",
-    "raw": "Br. Vlaka 82552 odlazak      15.04.26. 10:25, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987893113470",
     "type": "Odlazak",
     "station": "VELIKA",
@@ -16243,5 +16189,14 @@
     "event_time": "2026-04-18T10:20:00",
     "seen_at": "2026-04-18T08:21:16.833Z",
     "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:20, kolodvor OPATIJA-MATULJI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "82134",
+    "event_time": "2026-04-18T10:27:00",
+    "seen_at": "2026-04-18T08:27:53.594Z",
+    "raw": "Br. Vlaka 82134 odlazak      18.04.26. 10:27, kolodvor ANDRIJEVCI"
   }
 ]
