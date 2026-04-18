@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89721",
-    "event_time": "2026-04-15T12:20:00",
-    "seen_at": "2026-04-15T10:35:18.944Z",
-    "raw": "Br. Vlaka 89721 odlazak      15.04.26. 12:20, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "GOLUBOVEC",
-    "train_number": null,
-    "event_time": "2026-04-15T12:36:00",
-    "seen_at": "2026-04-15T10:36:54.682Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74708 GOLUBOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-15T12:33:00",
-    "seen_at": "2026-04-15T10:40:20.838Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "GOLUBOVEC",
@@ -16108,5 +16081,23 @@
     "event_time": "2026-04-17T01:07:00",
     "seen_at": "2026-04-18T10:31:13.492Z",
     "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82139",
+    "event_time": "2026-04-18T12:34:00",
+    "seen_at": "2026-04-18T10:34:50.745Z",
+    "raw": "Br. Vlaka 82139 odlazak      18.04.26. 12:34, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "82140",
+    "event_time": "2026-04-18T12:38:00",
+    "seen_at": "2026-04-18T10:38:36.858Z",
+    "raw": "Br. Vlaka 82140 odlazak      18.04.26. 12:38, kolodvor OSIJEK"
   }
 ]
