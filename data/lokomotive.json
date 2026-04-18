@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-15T09:55:00",
-    "seen_at": "2026-04-15T07:55:30.718Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-15T09:55:00",
-    "seen_at": "2026-04-15T07:55:30.718Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-15T07:55:00",
-    "seen_at": "2026-04-15T08:00:20.745Z",
-    "raw": "Br. Vlaka 69005 formiran     15.04.26. 07:55, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-15T07:55:00",
-    "seen_at": "2026-04-15T08:00:20.745Z",
-    "raw": "Br. Vlaka 69005 formiran     15.04.26. 07:55, kolodvor OGULIN"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -16225,5 +16189,41 @@
     "event_time": "2026-04-18T09:50:00",
     "seen_at": "2026-04-18T07:50:21.666Z",
     "raw": "Br. Vlaka 82134 formiran     18.04.26. 09:50, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "82140",
+    "event_time": "2026-04-18T05:17:00",
+    "seen_at": "2026-04-18T07:55:58.639Z",
+    "raw": "Br. Vlaka 82140 promjena sas 18.04.26. 05:17, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŠAPJANE",
+    "train_number": "81969",
+    "event_time": "2026-04-18T09:54:00",
+    "seen_at": "2026-04-18T07:57:06.737Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 09:54, kolodvor ŠAPJANE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-04-18T09:20:00",
+    "seen_at": "2026-04-18T08:01:40.969Z",
+    "raw": "Br. Vlaka 45130 formiran     18.04.26. 09:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "47988",
+    "event_time": "2026-04-18T09:45:00",
+    "seen_at": "2026-04-18T08:02:49.343Z",
+    "raw": "Br. Vlaka 47988 promjena sas 18.04.26. 09:45, kolodvor BELI MANASTIR"
   }
 ]
