@@ -2,15 +2,6 @@
   {
     "uic": "927820620197",
     "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49998",
-    "event_time": "2026-04-15T16:35:00",
-    "seen_at": "2026-04-15T14:36:41.639Z",
-    "raw": "Br. Vlaka 49998 odlazak      15.04.26. 16:35, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
     "station": "NOVI MAROF",
     "train_number": "49998",
     "event_time": "2026-04-15T16:55:00",
@@ -15865,5 +15856,23 @@
     "event_time": "2026-04-18T16:23:00",
     "seen_at": "2026-04-18T14:23:10.683Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "89543",
+    "event_time": "2026-04-18T16:29:00",
+    "seen_at": "2026-04-18T14:38:42.467Z",
+    "raw": "Br. Vlaka 89543 promjena sas 18.04.26. 16:29, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-18T16:38:00",
+    "seen_at": "2026-04-18T14:40:14.063Z",
+    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 16:38, kolodvor LIČKA JESENICA"
   }
 ]
