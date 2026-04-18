@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "89332",
-    "event_time": "2026-04-15T20:03:00",
-    "seen_at": "2026-04-15T18:04:19.027Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 20:03, kolodvor TUROPOLJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -16180,5 +16171,32 @@
     "event_time": "2026-04-18T19:45:00",
     "seen_at": "2026-04-18T17:47:36.514Z",
     "raw": "Br. Vlaka 81951 odlazak      18.04.26. 19:45, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "81951",
+    "event_time": "2026-04-18T20:00:00",
+    "seen_at": "2026-04-18T18:02:15.744Z",
+    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 20:00, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "VALPOVO",
+    "train_number": "82140",
+    "event_time": "2026-04-18T20:05:00",
+    "seen_at": "2026-04-18T18:05:18.690Z",
+    "raw": "Br. Vlaka 82140 dolazak      18.04.26. 20:05, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VALPOVO",
+    "train_number": null,
+    "event_time": "2026-04-18T20:05:00",
+    "seen_at": "2026-04-18T18:06:50.147Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71992 VALPOVO"
   }
 ]
