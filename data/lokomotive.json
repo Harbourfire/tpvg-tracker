@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-16T01:22:00",
-    "seen_at": "2026-04-15T23:22:27.519Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-16T01:22:00",
-    "seen_at": "2026-04-15T23:22:27.519Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44787",
-    "event_time": "2026-04-16T01:21:00",
-    "seen_at": "2026-04-15T23:22:52.215Z",
-    "raw": "Br. Vlaka 44787 dolazak      16.04.26. 01:21, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16576,5 +16549,23 @@
     "event_time": "2026-04-19T01:12:00",
     "seen_at": "2026-04-18T23:13:59.371Z",
     "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:12, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "43995",
+    "event_time": "2026-04-19T01:20:00",
+    "seen_at": "2026-04-18T23:21:43.436Z",
+    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:20, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "43995",
+    "event_time": "2026-04-19T01:20:00",
+    "seen_at": "2026-04-18T23:21:43.437Z",
+    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:20, kolodvor TURČIN"
   }
 ]
