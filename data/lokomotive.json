@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44997",
-    "event_time": "2026-04-15T20:37:00",
-    "seen_at": "2026-04-15T18:38:48.491Z",
-    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 20:37, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -16216,5 +16207,50 @@
     "event_time": "2026-04-18T20:33:00",
     "seen_at": "2026-04-18T18:35:47.888Z",
     "raw": "Br. Vlaka 81951 odlazak      18.04.26. 20:33, kolodvor GREDA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VALPOVO",
+    "train_number": "89153",
+    "event_time": "2026-04-18T20:40:00",
+    "seen_at": "2026-04-18T18:42:12.855Z",
+    "raw": "Br. Vlaka 89153 odlazak      18.04.26. 20:40, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "42786",
+    "event_time": "2026-04-18T20:40:00",
+    "seen_at": "2026-04-18T18:43:45.688Z",
+    "raw": "Br. Vlaka 42786 dolazak      18.04.26. 20:40, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "49996",
+    "event_time": "2026-04-18T20:42:00",
+    "seen_at": "2026-04-18T18:44:09.176Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 20:42, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-18T20:40:00",
+    "seen_at": "2026-04-18T18:44:09.177Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "49996",
+    "event_time": "2026-04-18T20:42:00",
+    "seen_at": "2026-04-18T18:44:09.177Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 20:42, kolodvor 72303"
   }
 ]
