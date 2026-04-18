@@ -2,33 +2,6 @@
   {
     "uic": "987895225611",
     "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89332",
-    "event_time": "2026-04-15T19:19:00",
-    "seen_at": "2026-04-15T17:28:58.707Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:19, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "89332",
-    "event_time": "2026-04-15T19:26:00",
-    "seen_at": "2026-04-15T17:29:22.533Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 19:26, kolodvor SISAK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-14T15:15:00",
-    "seen_at": "2026-04-15T17:33:20.382Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
     "station": "GREDA",
     "train_number": "89332",
     "event_time": "2026-04-15T19:33:00",
@@ -16144,5 +16117,41 @@
     "event_time": "2026-04-18T19:19:00",
     "seen_at": "2026-04-18T17:19:34.587Z",
     "raw": "Br. Vlaka 42786 odlazak      18.04.26. 19:19, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "81951",
+    "event_time": "2026-04-18T19:26:00",
+    "seen_at": "2026-04-18T17:26:57.630Z",
+    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 19:26, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-18T19:13:00",
+    "seen_at": "2026-04-18T17:27:20.071Z",
+    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 19:13, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44787",
+    "event_time": "2026-04-18T19:13:00",
+    "seen_at": "2026-04-18T17:27:20.072Z",
+    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 19:13, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82140",
+    "event_time": "2026-04-18T19:30:00",
+    "seen_at": "2026-04-18T17:31:28.685Z",
+    "raw": "Br. Vlaka 82140 odlazak      18.04.26. 19:30, kolodvor BIZOVAC"
   }
 ]
