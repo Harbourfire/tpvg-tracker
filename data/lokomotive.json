@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81993",
-    "event_time": "2026-04-15T13:23:00",
-    "seen_at": "2026-04-15T11:23:53.053Z",
-    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:23, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81993",
-    "event_time": "2026-04-15T13:23:00",
-    "seen_at": "2026-04-15T11:23:53.053Z",
-    "raw": "Br. Vlaka 81993 odlazak      15.04.26. 13:23, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "CERJE TUŽNO",
@@ -16036,5 +16018,23 @@
     "event_time": "2026-04-18T13:14:00",
     "seen_at": "2026-04-18T11:17:43.234Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-18T12:13:00",
+    "seen_at": "2026-04-18T11:21:19.342Z",
+    "raw": "Br. Vlaka 44787 promjena sas 18.04.26. 12:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BROD MORAVICE",
+    "train_number": "81969",
+    "event_time": "2026-04-18T13:21:00",
+    "seen_at": "2026-04-18T11:21:41.936Z",
+    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 13:21, kolodvor BROD MORAVICE"
   }
 ]
