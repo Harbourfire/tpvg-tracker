@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44997",
-    "event_time": "2026-04-15T22:32:00",
-    "seen_at": "2026-04-15T20:33:19.359Z",
-    "raw": "Br. Vlaka 44997 odlazak      15.04.26. 22:32, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "BEDEKOVČINA",
@@ -16495,5 +16486,50 @@
     "event_time": "2026-04-18T22:22:00",
     "seen_at": "2026-04-18T20:28:40.487Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "43995",
+    "event_time": "2026-04-18T22:30:00",
+    "seen_at": "2026-04-18T20:30:44.320Z",
+    "raw": "Br. Vlaka 43995 formiran     18.04.26. 22:30, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "MAJUR",
+    "train_number": "81951",
+    "event_time": "2026-04-18T22:31:00",
+    "seen_at": "2026-04-18T20:32:15.537Z",
+    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 22:31, kolodvor MAJUR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:31:00",
+    "seen_at": "2026-04-18T20:32:38.313Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:31, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "81284",
+    "event_time": "2026-04-18T15:32:00",
+    "seen_at": "2026-04-18T20:32:38.313Z",
+    "raw": "Br. Vlaka 81284 formiran     18.04.26. 15:32, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49996",
+    "event_time": "2026-04-18T22:31:00",
+    "seen_at": "2026-04-18T20:32:38.314Z",
+    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:31, kolodvor ZLATAR-BISTRICA"
   }
 ]
