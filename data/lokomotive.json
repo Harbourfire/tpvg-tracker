@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-15T15:17:00",
-    "seen_at": "2026-04-15T13:18:18.961Z",
-    "raw": "Br. Vlaka 44786 dolazak      15.04.26. 15:17, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "89332",
-    "event_time": "2026-04-15T15:20:00",
-    "seen_at": "2026-04-15T13:20:40.894Z",
-    "raw": "Br. Vlaka 89332 odlazak      15.04.26. 15:20, kolodvor OKUČANI"
-  },
-  {
     "uic": "997894215612",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -15982,5 +15964,14 @@
     "event_time": "2026-04-18T15:08:00",
     "seen_at": "2026-04-18T13:09:51.786Z",
     "raw": "Br. Vlaka 82510 odlazak      18.04.26. 15:08, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-18T15:15:00",
+    "seen_at": "2026-04-18T13:18:46.275Z",
+    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 15:15, kolodvor PERUŠIĆ"
   }
 ]
