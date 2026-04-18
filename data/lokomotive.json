@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89921",
-    "event_time": "2026-04-15T06:56:00",
-    "seen_at": "2026-04-15T04:57:42.343Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 06:56, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "81281",
-    "event_time": "2026-04-15T06:59:00",
-    "seen_at": "2026-04-15T05:01:08.447Z",
-    "raw": "Br. Vlaka 81281 dolazak      15.04.26. 06:59, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-15T06:59:00",
-    "seen_at": "2026-04-15T05:01:32.945Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89921",
-    "event_time": "2026-04-15T07:04:00",
-    "seen_at": "2026-04-15T05:04:48.609Z",
-    "raw": "Br. Vlaka 89921 odlazak      15.04.26. 07:04, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "987893113470",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -16189,5 +16153,32 @@
     "event_time": "2026-04-18T06:53:00",
     "seen_at": "2026-04-18T04:54:07.084Z",
     "raw": "Br. Vlaka 89923 dolazak      18.04.26. 06:53, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "45980",
+    "event_time": "2026-04-18T06:55:00",
+    "seen_at": "2026-04-18T04:57:23.270Z",
+    "raw": "Br. Vlaka 45980 dolazak      18.04.26. 06:55, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-18T06:56:00",
+    "seen_at": "2026-04-18T05:03:28.741Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 06:56, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-18T06:56:00",
+    "seen_at": "2026-04-18T05:03:28.741Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 06:56, kolodvor GOSPIĆ"
   }
 ]
