@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66850",
-    "event_time": "2026-04-15T08:01:00",
-    "seen_at": "2026-04-15T06:01:48.375Z",
-    "raw": "Br. Vlaka 66850 formiran     15.04.26. 08:01, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "82502",
-    "event_time": "2026-04-15T08:01:00",
-    "seen_at": "2026-04-15T06:03:55.614Z",
-    "raw": "Br. Vlaka 82502 odlazak      15.04.26. 08:01, kolodvor 72302"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "74101",
-    "event_time": "2026-04-15T08:01:00",
-    "seen_at": "2026-04-15T06:04:44.321Z",
-    "raw": "Br. Vlaka 74101 dolazak      15.04.26. 08:01, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Rasformiran",
-    "station": "DRENOVCI",
-    "train_number": null,
-    "event_time": "2026-04-15T08:01:00",
-    "seen_at": "2026-04-15T06:05:09.031Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16189,5 +16153,68 @@
     "event_time": "2026-04-18T07:50:00",
     "seen_at": "2026-04-18T05:53:05.987Z",
     "raw": "Br. Vlaka 45105 odlazak      18.04.26. 07:50, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89923",
+    "event_time": "2026-04-18T08:02:00",
+    "seen_at": "2026-04-18T06:04:18.367Z",
+    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 08:02, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-04-18T08:04:00",
+    "seen_at": "2026-04-18T06:05:04.181Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 08:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-04-18T08:04:00",
+    "seen_at": "2026-04-18T06:05:04.181Z",
+    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 08:04, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "43997",
+    "event_time": "2026-04-18T08:04:00",
+    "seen_at": "2026-04-18T06:05:26.980Z",
+    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 08:04, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "48786",
+    "event_time": "2026-04-18T08:02:00",
+    "seen_at": "2026-04-18T06:05:49.791Z",
+    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 08:02, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-18T08:07:00",
+    "seen_at": "2026-04-18T06:08:30.906Z",
+    "raw": "Br. Vlaka 45105 dolazak      18.04.26. 08:07, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "BELI MANASTIR",
+    "train_number": "69777",
+    "event_time": "2026-04-18T08:06:00",
+    "seen_at": "2026-04-18T06:09:17.071Z",
+    "raw": "Br. Vlaka 69777 formiran     18.04.26. 08:06, kolodvor BELI MANASTIR"
   }
 ]
