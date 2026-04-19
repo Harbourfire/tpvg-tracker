@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "82122",
-    "event_time": "2026-04-16T12:51:00",
-    "seen_at": "2026-04-16T11:24:33.681Z",
-    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 12:51, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "82122",
-    "event_time": "2026-04-16T13:01:00",
-    "seen_at": "2026-04-16T11:25:18.997Z",
-    "raw": "Br. Vlaka 82122 odlazak      16.04.26. 13:01, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "82122",
-    "event_time": "2026-04-16T13:05:00",
-    "seen_at": "2026-04-16T11:26:29.427Z",
-    "raw": "Br. Vlaka 82122 dolazak      16.04.26. 13:05, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "89733",
-    "event_time": "2026-04-16T13:25:00",
-    "seen_at": "2026-04-16T11:26:29.427Z",
-    "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:25, kolodvor LUKA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76504",
-    "event_time": "2026-04-16T13:30:00",
-    "seen_at": "2026-04-16T11:30:32.204Z",
-    "raw": "Br. Vlaka 76504 formiran     16.04.26. 13:30, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SV. KRIŽ ZAČRETJE",
-    "train_number": "81957",
-    "event_time": "2026-04-16T13:31:00",
-    "seen_at": "2026-04-16T11:31:40.112Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 13:31, kolodvor SV. KRIŽ ZAČRETJE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89733",
-    "event_time": "2026-04-16T13:32:00",
-    "seen_at": "2026-04-16T11:33:14.367Z",
-    "raw": "Br. Vlaka 89733 odlazak      16.04.26. 13:32, kolodvor NOVI DVORI"
-  },
-  {
     "uic": "987893113470",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -16945,5 +16882,50 @@
     "event_time": "2026-04-19T13:15:00",
     "seen_at": "2026-04-19T11:15:21.759Z",
     "raw": "Br. Vlaka 89921 dolazak      19.04.26. 13:15, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-19T13:26:00",
+    "seen_at": "2026-04-19T11:26:32.143Z",
+    "raw": "Br. Vlaka 63310 formiran     19.04.26. 13:26, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-19T13:26:00",
+    "seen_at": "2026-04-19T11:26:32.143Z",
+    "raw": "Br. Vlaka 63310 formiran     19.04.26. 13:26, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "81959",
+    "event_time": "2026-04-19T13:27:00",
+    "seen_at": "2026-04-19T11:28:24.523Z",
+    "raw": "Br. Vlaka 81959 odlazak      19.04.26. 13:27, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-19T13:28:00",
+    "seen_at": "2026-04-19T11:28:46.879Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:28, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-19T13:28:00",
+    "seen_at": "2026-04-19T11:28:46.879Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:28, kolodvor VARAŽDIN"
   }
 ]
