@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T12:13:00",
-    "seen_at": "2026-04-16T10:14:17.563Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 12:13, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T12:13:00",
-    "seen_at": "2026-04-16T10:14:17.563Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 12:13, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76505",
-    "event_time": "2026-04-16T12:14:00",
-    "seen_at": "2026-04-16T10:14:17.564Z",
-    "raw": "Br. Vlaka 76505 odlazak      16.04.26. 12:14, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82119",
-    "event_time": "2026-04-16T12:22:00",
-    "seen_at": "2026-04-16T10:22:35.479Z",
-    "raw": "Br. Vlaka 82119 dolazak      16.04.26. 12:22, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76505",
-    "event_time": "2026-04-16T12:25:00",
-    "seen_at": "2026-04-16T10:26:13.465Z",
-    "raw": "Br. Vlaka 76505 odlazak      16.04.26. 12:25, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ĐURMANEC",
-    "train_number": "81957",
-    "event_time": "2026-04-16T12:26:00",
-    "seen_at": "2026-04-16T10:27:44.147Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 12:26, kolodvor ĐURMANEC"
-  },
-  {
-    "uic": "927820620247",
     "type": "Dolazak",
     "station": "BEDEKOVČINA",
     "train_number": "44787",
@@ -17080,5 +17026,41 @@
     "event_time": "2026-04-19T12:09:00",
     "seen_at": "2026-04-19T10:09:33.727Z",
     "raw": "Br. Vlaka 48786 odlazak      19.04.26. 12:09, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89170",
+    "event_time": "2026-04-19T12:13:00",
+    "seen_at": "2026-04-19T10:14:39.862Z",
+    "raw": "Br. Vlaka 89170 odlazak      19.04.26. 12:13, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-19T09:23:00",
+    "seen_at": "2026-04-19T10:17:22.400Z",
+    "raw": "Br. Vlaka 44789 promjena sas 19.04.26. 09:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "48786",
+    "event_time": "2026-04-19T12:25:00",
+    "seen_at": "2026-04-19T10:26:49.082Z",
+    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 12:25, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89170",
+    "event_time": "2026-04-19T12:21:00",
+    "seen_at": "2026-04-19T10:26:49.082Z",
+    "raw": "Br. Vlaka 89170 odlazak      19.04.26. 12:21, kolodvor BUDINŠĆINA"
   }
 ]
