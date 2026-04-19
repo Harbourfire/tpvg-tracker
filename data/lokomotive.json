@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76504",
-    "event_time": "2026-04-16T14:04:00",
-    "seen_at": "2026-04-16T12:04:55.356Z",
-    "raw": "Br. Vlaka 76504 dolazak      16.04.26. 14:04, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "81957",
-    "event_time": "2026-04-16T14:04:00",
-    "seen_at": "2026-04-16T12:05:34.832Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:04, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-16T14:04:00",
-    "seen_at": "2026-04-16T12:05:34.833Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "81957",
-    "event_time": "2026-04-16T14:08:00",
-    "seen_at": "2026-04-16T12:09:24.543Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:08, kolodvor LUKA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45981",
-    "event_time": "2026-04-16T14:00:00",
-    "seen_at": "2026-04-16T12:10:33.427Z",
-    "raw": "Br. Vlaka 45981 odlazak      16.04.26. 14:00, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -16945,5 +16900,68 @@
     "event_time": "2026-04-19T13:59:00",
     "seen_at": "2026-04-19T12:00:40.982Z",
     "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:59, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "40893",
+    "event_time": "2026-04-18T22:42:00",
+    "seen_at": "2026-04-19T12:04:42.599Z",
+    "raw": "Br. Vlaka 40893 formiran     18.04.26. 22:42, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81959",
+    "event_time": "2026-04-19T14:04:00",
+    "seen_at": "2026-04-19T12:05:08.049Z",
+    "raw": "Br. Vlaka 81959 odlazak      19.04.26. 14:04, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-19T14:06:00",
+    "seen_at": "2026-04-19T12:06:41.903Z",
+    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:06, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-19T14:06:00",
+    "seen_at": "2026-04-19T12:06:41.903Z",
+    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:06, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "48786",
+    "event_time": "2026-04-19T14:01:00",
+    "seen_at": "2026-04-19T12:09:01.893Z",
+    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 14:01, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "48786",
+    "event_time": "2026-04-19T14:07:00",
+    "seen_at": "2026-04-19T12:09:25.058Z",
+    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 14:07, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-19T14:07:00",
+    "seen_at": "2026-04-19T12:09:48.140Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
   }
 ]
