@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44788",
-    "event_time": "2026-04-16T19:21:00",
-    "seen_at": "2026-04-16T19:42:30.123Z",
-    "raw": "Br. Vlaka 44788 promjena sas 16.04.26. 19:21, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-16T20:24:00",
-    "seen_at": "2026-04-16T19:47:37.394Z",
-    "raw": "Br. Vlaka 63305 formiran     16.04.26. 20:24, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-16T20:24:00",
-    "seen_at": "2026-04-16T19:48:00.077Z",
-    "raw": "Br. Vlaka 63305 formiran     16.04.26. 20:24, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KOTORIBA",
-    "train_number": "81101",
-    "event_time": "2026-04-16T21:48:00",
-    "seen_at": "2026-04-16T19:49:08.618Z",
-    "raw": "Br. Vlaka 81101 formiran     16.04.26. 21:48, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "OKUČANI",
@@ -17242,5 +17206,14 @@
     "event_time": "2026-04-19T21:13:00",
     "seen_at": "2026-04-19T19:37:51.143Z",
     "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:13, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "47981",
+    "event_time": "2026-04-19T21:42:00",
+    "seen_at": "2026-04-19T19:44:22.945Z",
+    "raw": "Br. Vlaka 47981 odlazak      19.04.26. 21:42, kolodvor OSIJEK"
   }
 ]
