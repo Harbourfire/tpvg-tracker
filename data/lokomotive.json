@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81106",
-    "event_time": "2026-04-16T23:40:00",
-    "seen_at": "2026-04-16T21:56:34.979Z",
-    "raw": "Br. Vlaka 81106 odlazak      16.04.26. 23:40, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81106",
-    "event_time": "2026-04-16T23:56:00",
-    "seen_at": "2026-04-16T21:56:57.002Z",
-    "raw": "Br. Vlaka 81106 dolazak      16.04.26. 23:56, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44788",
-    "event_time": "2026-04-16T23:54:00",
-    "seen_at": "2026-04-16T21:57:19.982Z",
-    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 23:54, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-16T20:35:00",
-    "seen_at": "2026-04-16T21:58:05.267Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "47984",
-    "event_time": "2026-04-16T21:36:00",
-    "seen_at": "2026-04-16T21:58:42.425Z",
-    "raw": "Br. Vlaka 47984 promjena sas 16.04.26. 21:36, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -17278,5 +17233,41 @@
     "event_time": "2026-04-19T23:37:00",
     "seen_at": "2026-04-19T21:45:36.769Z",
     "raw": "Br. Vlaka 63305 promjena sas 19.04.26. 23:37, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "40893",
+    "event_time": "2026-04-19T23:53:00",
+    "seen_at": "2026-04-19T21:54:14.830Z",
+    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 23:53, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-19T23:37:00",
+    "seen_at": "2026-04-19T21:57:42.539Z",
+    "raw": "Br. Vlaka 48789 promjena sas 19.04.26. 23:37, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-19T23:37:00",
+    "seen_at": "2026-04-19T21:57:42.540Z",
+    "raw": "Br. Vlaka 48789 promjena sas 19.04.26. 23:37, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "61201",
+    "event_time": "2026-04-20T00:00:00",
+    "seen_at": "2026-04-19T22:00:25.632Z",
+    "raw": "Br. Vlaka 61201 odlazak      20.04.26. 00:00, kolodvor VINKOVCI"
   }
 ]
