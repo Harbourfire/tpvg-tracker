@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "69770",
-    "event_time": "2026-04-16T09:25:00",
-    "seen_at": "2026-04-16T07:27:09.056Z",
-    "raw": "Br. Vlaka 69770 odlazak      16.04.26. 09:25, kolodvor DARDA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-16T09:22:00",
-    "seen_at": "2026-04-16T07:27:33.520Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-16T09:22:00",
-    "seen_at": "2026-04-16T07:27:33.521Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Dolazak",
-    "station": "GARČIN",
-    "train_number": "76501",
-    "event_time": "2026-04-16T09:30:00",
-    "seen_at": "2026-04-16T07:32:54.748Z",
-    "raw": "Br. Vlaka 76501 dolazak      16.04.26. 09:30, kolodvor GARČIN"
-  },
-  {
     "uic": "987891032144",
     "type": "Rasformiran",
     "station": "GARČIN",
@@ -16855,5 +16819,32 @@
     "event_time": "2026-04-19T09:23:00",
     "seen_at": "2026-04-19T07:24:27.316Z",
     "raw": "Br. Vlaka 44789 dolazak      19.04.26. 09:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81284",
+    "event_time": "2026-04-19T09:24:00",
+    "seen_at": "2026-04-19T07:25:51.529Z",
+    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 09:24, kolodvor 72303"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-18T18:00:00",
+    "seen_at": "2026-04-19T07:28:59.552Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "81957",
+    "event_time": "2026-04-19T09:32:00",
+    "seen_at": "2026-04-19T07:34:01.958Z",
+    "raw": "Br. Vlaka 81957 odlazak      19.04.26. 09:32, kolodvor POŽEGA"
   }
 ]
