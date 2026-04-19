@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-16T16:45:00",
-    "seen_at": "2026-04-16T14:47:25.022Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:45, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-16T16:45:00",
-    "seen_at": "2026-04-16T14:47:25.022Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:45, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -17494,5 +17476,41 @@
     "event_time": "2026-04-19T16:38:00",
     "seen_at": "2026-04-19T14:38:57.804Z",
     "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:38, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:42:00",
+    "seen_at": "2026-04-19T14:43:20.124Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:42, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:42:00",
+    "seen_at": "2026-04-19T14:43:20.125Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:42, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "81967",
+    "event_time": "2026-04-19T16:44:00",
+    "seen_at": "2026-04-19T14:46:43.056Z",
+    "raw": "Br. Vlaka 81967 odlazak      19.04.26. 16:44, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-19T16:10:00",
+    "seen_at": "2026-04-19T14:47:51.204Z",
+    "raw": "Br. Vlaka 48789 dolazak      19.04.26. 16:10, kolodvor VARAŽDIN"
   }
 ]
