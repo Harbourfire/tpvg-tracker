@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-16T22:11:00",
-    "seen_at": "2026-04-16T20:11:15.151Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 22:11, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "81951",
-    "event_time": "2026-04-16T22:14:00",
-    "seen_at": "2026-04-16T20:15:44.290Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 22:14, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44788",
-    "event_time": "2026-04-16T19:21:00",
-    "seen_at": "2026-04-16T20:16:07.309Z",
-    "raw": "Br. Vlaka 44788 dolazak      16.04.26. 19:21, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44788",
-    "event_time": "2026-04-16T22:15:00",
-    "seen_at": "2026-04-16T20:17:39.266Z",
-    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 22:15, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "VINKOVCI",
@@ -17251,5 +17215,32 @@
     "event_time": "2026-04-19T21:57:00",
     "seen_at": "2026-04-19T20:07:38.887Z",
     "raw": "Br. Vlaka 81960 dolazak      19.04.26. 21:57, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "43996",
+    "event_time": "2026-04-19T22:11:00",
+    "seen_at": "2026-04-19T20:12:45.204Z",
+    "raw": "Br. Vlaka 43996 odlazak      19.04.26. 22:11, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "40893",
+    "event_time": "2026-04-19T22:02:00",
+    "seen_at": "2026-04-19T20:15:46.707Z",
+    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 22:02, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81960",
+    "event_time": "2026-04-19T22:14:00",
+    "seen_at": "2026-04-19T20:16:09.513Z",
+    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 22:14, kolodvor VINKOVCI"
   }
 ]
