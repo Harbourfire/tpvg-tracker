@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "81958",
-    "event_time": "2026-04-16T03:31:00",
-    "seen_at": "2026-04-16T01:31:25.795Z",
-    "raw": "Br. Vlaka 81958 odlazak      16.04.26. 03:31, kolodvor LUKA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69326",
-    "event_time": "2026-04-16T03:32:00",
-    "seen_at": "2026-04-16T01:32:15.328Z",
-    "raw": "Br. Vlaka 69326 odlazak      16.04.26. 03:32, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82511",
-    "event_time": "2026-04-16T03:29:00",
-    "seen_at": "2026-04-16T01:32:39.970Z",
-    "raw": "Br. Vlaka 82511 odlazak      16.04.26. 03:29, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89929",
-    "event_time": "2026-04-16T03:27:00",
-    "seen_at": "2026-04-16T01:33:30.345Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 03:27, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89929",
-    "event_time": "2026-04-16T03:31:00",
-    "seen_at": "2026-04-16T01:33:55.350Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 03:31, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "81958",
-    "event_time": "2026-04-16T03:36:00",
-    "seen_at": "2026-04-16T01:37:30.382Z",
-    "raw": "Br. Vlaka 81958 odlazak      16.04.26. 03:36, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -16684,5 +16630,59 @@
     "event_time": "2026-04-19T03:25:00",
     "seen_at": "2026-04-19T01:28:12.369Z",
     "raw": "Br. Vlaka 43995 odlazak      19.04.26. 03:25, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "49998",
+    "event_time": "2026-04-19T03:29:00",
+    "seen_at": "2026-04-19T01:29:32.617Z",
+    "raw": "Br. Vlaka 49998 odlazak      19.04.26. 03:29, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82512",
+    "event_time": "2026-04-19T03:29:00",
+    "seen_at": "2026-04-19T01:31:03.567Z",
+    "raw": "Br. Vlaka 82512 odlazak      19.04.26. 03:29, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82512",
+    "event_time": "2026-04-19T03:29:00",
+    "seen_at": "2026-04-19T01:31:03.568Z",
+    "raw": "Br. Vlaka 82512 odlazak      19.04.26. 03:29, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OKUČANI",
+    "train_number": "81284",
+    "event_time": "2026-04-19T03:30:00",
+    "seen_at": "2026-04-19T01:31:25.917Z",
+    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 03:30, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "43995",
+    "event_time": "2026-04-19T03:34:00",
+    "seen_at": "2026-04-19T01:36:20.736Z",
+    "raw": "Br. Vlaka 43995 dolazak      19.04.26. 03:34, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "43995",
+    "event_time": "2026-04-19T03:34:00",
+    "seen_at": "2026-04-19T01:36:20.737Z",
+    "raw": "Br. Vlaka 43995 dolazak      19.04.26. 03:34, kolodvor ZAGREB ZAP. KOL."
   }
 ]
