@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89764",
-    "event_time": "2026-04-16T21:34:00",
-    "seen_at": "2026-04-16T19:35:19.505Z",
-    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:34, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45981",
-    "event_time": "2026-04-16T21:37:00",
-    "seen_at": "2026-04-16T19:37:58.873Z",
-    "raw": "Br. Vlaka 45981 odlazak      16.04.26. 21:37, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81951",
-    "event_time": "2026-04-16T21:36:00",
-    "seen_at": "2026-04-16T19:38:21.530Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 21:36, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820620015",
     "type": "Promjena sastava",
     "station": "ZAPREŠIĆ",
@@ -17260,5 +17233,14 @@
     "event_time": "2026-04-19T21:29:00",
     "seen_at": "2026-04-19T19:29:31.215Z",
     "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:29, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "81960",
+    "event_time": "2026-04-19T21:13:00",
+    "seen_at": "2026-04-19T19:37:51.143Z",
+    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:13, kolodvor TOVARNIK"
   }
 ]
