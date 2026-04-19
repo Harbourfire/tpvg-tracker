@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZABOK",
-    "train_number": "81962",
-    "event_time": "2026-04-16T10:03:00",
-    "seen_at": "2026-04-16T08:03:57.921Z",
-    "raw": "Br. Vlaka 81962 formiran     16.04.26. 10:03, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "81962",
-    "event_time": "2026-04-16T09:55:00",
-    "seen_at": "2026-04-16T08:05:02.587Z",
-    "raw": "Br. Vlaka 81962 odlazak      16.04.26. 09:55, kolodvor ZABOK"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-16T10:07:00",
-    "seen_at": "2026-04-16T08:07:32.544Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SV. KRIŽ ZAČRETJE",
-    "train_number": "81962",
-    "event_time": "2026-04-16T10:06:00",
-    "seen_at": "2026-04-16T08:07:57.776Z",
-    "raw": "Br. Vlaka 81962 dolazak      16.04.26. 10:06, kolodvor SV. KRIŽ ZAČRETJE"
-  },
-  {
     "uic": "927820440240",
     "type": "Promjena sastava",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -16819,5 +16783,77 @@
     "event_time": "2026-04-19T09:47:00",
     "seen_at": "2026-04-19T07:49:42.398Z",
     "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:47, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-19T09:52:00",
+    "seen_at": "2026-04-19T08:04:53.273Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81979",
+    "event_time": "2026-04-19T10:03:00",
+    "seen_at": "2026-04-19T08:04:53.273Z",
+    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:03, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81979",
+    "event_time": "2026-04-19T10:03:00",
+    "seen_at": "2026-04-19T08:04:53.273Z",
+    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:03, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "81954",
+    "event_time": "2026-04-19T10:05:00",
+    "seen_at": "2026-04-19T08:05:16.692Z",
+    "raw": "Br. Vlaka 81954 formiran     19.04.26. 10:05, kolodvor VELIKA"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-16T10:07:00",
+    "seen_at": "2026-04-19T08:07:55.414Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-19T09:23:00",
+    "seen_at": "2026-04-19T08:09:04.190Z",
+    "raw": "Br. Vlaka 44789 promjena sas 19.04.26. 09:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-18T21:04:00",
+    "seen_at": "2026-04-19T08:09:26.814Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82525",
+    "event_time": "2026-04-19T10:09:00",
+    "seen_at": "2026-04-19T08:09:49.620Z",
+    "raw": "Br. Vlaka 82525 formiran     19.04.26. 10:09, kolodvor VARAŽDIN"
   }
 ]
