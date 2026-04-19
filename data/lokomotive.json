@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89929",
-    "event_time": "2026-04-16T04:25:00",
-    "seen_at": "2026-04-16T02:25:32.575Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 04:25, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-04-16T04:26:00",
-    "seen_at": "2026-04-16T02:26:34.501Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "82509",
-    "event_time": "2026-04-16T04:29:00",
-    "seen_at": "2026-04-16T02:29:30.925Z",
-    "raw": "Br. Vlaka 82509 promjena sas 16.04.26. 04:29, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-04-16T04:26:00",
-    "seen_at": "2026-04-16T02:33:16.897Z",
-    "raw": "Br. Vlaka 63306 dolazak      16.04.26. 04:26, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-04-16T04:26:00",
-    "seen_at": "2026-04-16T02:33:16.897Z",
-    "raw": "Br. Vlaka 63306 dolazak      16.04.26. 04:26, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -16765,5 +16720,77 @@
     "event_time": "2026-04-19T01:00:00",
     "seen_at": "2026-04-19T02:23:45.722Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89122",
+    "event_time": "2026-04-19T04:19:00",
+    "seen_at": "2026-04-19T02:25:26.098Z",
+    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:19, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48786",
+    "event_time": "2026-04-19T02:01:00",
+    "seen_at": "2026-04-19T02:26:57.564Z",
+    "raw": "Br. Vlaka 48786 promjena sas 19.04.26. 02:01, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "49996",
+    "event_time": "2026-04-19T04:28:00",
+    "seen_at": "2026-04-19T02:29:37.883Z",
+    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:28, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "49996",
+    "event_time": "2026-04-19T04:28:00",
+    "seen_at": "2026-04-19T02:29:37.884Z",
+    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:28, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-19T04:30:00",
+    "seen_at": "2026-04-19T02:30:45.971Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-19T04:30:00",
+    "seen_at": "2026-04-19T02:30:45.971Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-19T03:15:00",
+    "seen_at": "2026-04-19T02:33:26.637Z",
+    "raw": "Br. Vlaka 69006 formiran     19.04.26. 03:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-19T03:15:00",
+    "seen_at": "2026-04-19T02:33:26.637Z",
+    "raw": "Br. Vlaka 69006 formiran     19.04.26. 03:15, kolodvor OŠTARIJE"
   }
 ]
