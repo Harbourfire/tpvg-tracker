@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-16T07:32:00",
-    "seen_at": "2026-04-16T05:32:44.313Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 07:32, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-16T07:32:00",
-    "seen_at": "2026-04-16T05:32:44.313Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 07:32, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89181",
-    "event_time": "2026-04-16T07:33:00",
-    "seen_at": "2026-04-16T05:33:34.192Z",
-    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 07:33, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89929",
-    "event_time": "2026-04-16T07:35:00",
-    "seen_at": "2026-04-16T05:36:27.237Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 07:35, kolodvor ZABOK"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76506",
-    "event_time": "2026-04-16T07:39:00",
-    "seen_at": "2026-04-16T05:39:22.674Z",
-    "raw": "Br. Vlaka 76506 dolazak      16.04.26. 07:39, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "987891113316",
     "type": "Promjena sastava",
     "station": "STARO PETROVO SELO",
@@ -16891,5 +16846,23 @@
     "event_time": "2026-04-19T07:30:00",
     "seen_at": "2026-04-19T05:31:41.671Z",
     "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:30, kolodvor 72303"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "69327",
+    "event_time": "2026-04-19T07:38:00",
+    "seen_at": "2026-04-19T05:38:45.229Z",
+    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:38, kolodvor 72302"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "69327",
+    "event_time": "2026-04-19T07:38:00",
+    "seen_at": "2026-04-19T05:38:45.229Z",
+    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:38, kolodvor 72302"
   }
 ]
