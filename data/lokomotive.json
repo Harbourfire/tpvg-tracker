@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "81951",
-    "event_time": "2026-04-16T20:25:00",
-    "seen_at": "2026-04-16T18:26:46.322Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 20:25, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "81106",
-    "event_time": "2026-04-16T20:25:00",
-    "seen_at": "2026-04-16T18:29:00.984Z",
-    "raw": "Br. Vlaka 81106 odlazak      16.04.26. 20:25, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89764",
-    "event_time": "2026-04-16T20:25:00",
-    "seen_at": "2026-04-16T18:29:23.392Z",
-    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:25, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "LUKA",
-    "train_number": "44997",
-    "event_time": "2026-04-16T20:27:00",
-    "seen_at": "2026-04-16T18:34:13.573Z",
-    "raw": "Br. Vlaka 44997 dolazak      16.04.26. 20:27, kolodvor LUKA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81106",
-    "event_time": "2026-04-16T20:33:00",
-    "seen_at": "2026-04-16T18:34:13.574Z",
-    "raw": "Br. Vlaka 81106 dolazak      16.04.26. 20:33, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "LUKA",
@@ -17512,5 +17467,23 @@
     "event_time": "2026-04-19T20:22:00",
     "seen_at": "2026-04-19T18:22:14.609Z",
     "raw": "Br. Vlaka 89021 formiran     19.04.26. 20:22, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "43996",
+    "event_time": "2026-04-18T23:38:00",
+    "seen_at": "2026-04-19T18:25:29.836Z",
+    "raw": "Br. Vlaka 43996 promjena sas 18.04.26. 23:38, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "TOVARNIK",
+    "train_number": null,
+    "event_time": "2026-04-19T20:30:00",
+    "seen_at": "2026-04-19T18:33:29.621Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71001 TOVARNIK"
   }
 ]
