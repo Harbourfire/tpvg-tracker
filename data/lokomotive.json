@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48581",
-    "event_time": "2026-04-16T18:41:00",
-    "seen_at": "2026-04-16T16:52:45.495Z",
-    "raw": "Br. Vlaka 48581 promjena sas 16.04.26. 18:41, kolodvor 72303"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-10T18:52:00",
-    "seen_at": "2026-04-16T16:55:46.639Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48581",
-    "event_time": "2026-04-16T18:41:00",
-    "seen_at": "2026-04-16T16:57:35.740Z",
-    "raw": "Br. Vlaka 48581 promjena sas 16.04.26. 18:41, kolodvor 72303"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-16T18:31:00",
-    "seen_at": "2026-04-16T16:58:45.380Z",
-    "raw": "Br. Vlaka 69005 formiran     16.04.26. 18:31, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-16T18:31:00",
-    "seen_at": "2026-04-16T16:59:09.073Z",
-    "raw": "Br. Vlaka 69005 formiran     16.04.26. 18:31, kolodvor OGULIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "KARLOVAC",
@@ -17557,5 +17512,50 @@
     "event_time": "2026-04-19T18:45:00",
     "seen_at": "2026-04-19T16:45:42.687Z",
     "raw": "Br. Vlaka 40893 odlazak      19.04.26. 18:45, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T18:53:00",
+    "seen_at": "2026-04-19T16:53:15.395Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 18:53, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T18:53:00",
+    "seen_at": "2026-04-19T16:53:15.396Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 18:53, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T18:53:00",
+    "seen_at": "2026-04-19T16:53:38.301Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 18:53, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T18:52:00",
+    "seen_at": "2026-04-19T16:56:15.904Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "40893",
+    "event_time": "2026-04-19T18:57:00",
+    "seen_at": "2026-04-19T16:57:23.538Z",
+    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 18:57, kolodvor TUROPOLJE"
   }
 ]
