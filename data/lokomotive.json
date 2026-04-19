@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PAĐENE",
-    "train_number": "81951",
-    "event_time": "2026-04-17T01:42:00",
-    "seen_at": "2026-04-16T23:46:57.952Z",
-    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 01:42, kolodvor PAĐENE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-17T01:49:00",
-    "seen_at": "2026-04-16T23:49:36.812Z",
-    "raw": "Br. Vlaka 63306 formiran     17.04.26. 01:49, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-17T01:49:00",
-    "seen_at": "2026-04-16T23:49:36.812Z",
-    "raw": "Br. Vlaka 63306 formiran     17.04.26. 01:49, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "48581",
-    "event_time": "2026-04-17T01:52:00",
-    "seen_at": "2026-04-16T23:52:49.010Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:52, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "48581",
-    "event_time": "2026-04-17T01:52:00",
-    "seen_at": "2026-04-16T23:52:49.011Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:52, kolodvor GARČIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -17170,5 +17125,23 @@
     "event_time": "2026-04-20T01:42:00",
     "seen_at": "2026-04-19T23:43:30.180Z",
     "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:42, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "40893",
+    "event_time": "2026-04-20T01:47:00",
+    "seen_at": "2026-04-19T23:49:50.473Z",
+    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:47, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "49996",
+    "train_number": null,
+    "event_time": "2026-04-19T23:54:05.302Z",
+    "seen_at": "2026-04-19T23:54:05.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
   }
 ]
