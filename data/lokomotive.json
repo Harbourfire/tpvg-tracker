@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "81951",
-    "event_time": "2026-04-16T18:58:00",
-    "seen_at": "2026-04-16T17:01:50.033Z",
-    "raw": "Br. Vlaka 81951 dolazak      16.04.26. 18:58, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44997",
-    "event_time": "2026-04-16T19:08:00",
-    "seen_at": "2026-04-16T17:09:19.075Z",
-    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 19:08, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "KARLOVAC",
     "train_number": "81951",
@@ -17557,5 +17539,32 @@
     "event_time": "2026-04-19T18:57:00",
     "seen_at": "2026-04-19T16:57:23.538Z",
     "raw": "Br. Vlaka 40893 odlazak      19.04.26. 18:57, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T19:02:00",
+    "seen_at": "2026-04-19T17:05:31.582Z",
+    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 19:02, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T19:02:00",
+    "seen_at": "2026-04-19T17:05:31.582Z",
+    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 19:02, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T19:02:00",
+    "seen_at": "2026-04-19T17:05:31.583Z",
+    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 19:02, kolodvor BUDINŠĆINA"
   }
 ]
