@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82506",
-    "event_time": "2026-04-16T05:50:00",
-    "seen_at": "2026-04-16T03:53:46.115Z",
-    "raw": "Br. Vlaka 82506 odlazak      16.04.26. 05:50, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16936,5 +16927,41 @@
     "event_time": "2026-04-19T05:48:00",
     "seen_at": "2026-04-19T03:48:32.178Z",
     "raw": "Br. Vlaka 44996 odlazak      19.04.26. 05:48, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48786",
+    "event_time": "2026-04-19T05:51:00",
+    "seen_at": "2026-04-19T03:55:27.687Z",
+    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 05:51, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44996",
+    "event_time": "2026-04-19T05:55:00",
+    "seen_at": "2026-04-19T03:56:57.519Z",
+    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 05:55, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-19T05:47:00",
+    "seen_at": "2026-04-19T03:57:42.348Z",
+    "raw": "Br. Vlaka 69005 formiran     19.04.26. 05:47, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-19T05:47:00",
+    "seen_at": "2026-04-19T03:57:42.348Z",
+    "raw": "Br. Vlaka 69005 formiran     19.04.26. 05:47, kolodvor OGULIN"
   }
 ]
