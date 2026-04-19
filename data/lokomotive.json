@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891032144",
-    "type": "Rasformiran",
-    "station": "GARČIN",
-    "train_number": null,
-    "event_time": "2026-04-16T09:30:00",
-    "seen_at": "2026-04-16T07:36:02.721Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Formiran",
-    "station": "GARČIN",
-    "train_number": "76500",
-    "event_time": "2026-04-16T09:36:00",
-    "seen_at": "2026-04-16T07:36:53.795Z",
-    "raw": "Br. Vlaka 76500 formiran     16.04.26. 09:36, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "69770",
-    "event_time": "2026-04-16T09:42:00",
-    "seen_at": "2026-04-16T07:42:49.629Z",
-    "raw": "Br. Vlaka 69770 dolazak      16.04.26. 09:42, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "BELI MANASTIR",
@@ -16846,5 +16819,23 @@
     "event_time": "2026-04-19T09:32:00",
     "seen_at": "2026-04-19T07:34:01.958Z",
     "raw": "Br. Vlaka 81957 odlazak      19.04.26. 09:32, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81979",
+    "event_time": "2026-04-19T09:42:00",
+    "seen_at": "2026-04-19T07:43:23.431Z",
+    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:42, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81979",
+    "event_time": "2026-04-19T09:42:00",
+    "seen_at": "2026-04-19T07:43:23.431Z",
+    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:42, kolodvor OŠTARIJE"
   }
 ]
