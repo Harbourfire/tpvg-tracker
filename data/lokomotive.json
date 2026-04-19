@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "43996",
-    "event_time": "2026-04-16T17:06:00",
-    "seen_at": "2026-04-16T15:22:45.945Z",
-    "raw": "Br. Vlaka 43996 dolazak      16.04.26. 17:06, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44786",
-    "event_time": "2026-04-16T17:22:00",
-    "seen_at": "2026-04-16T15:24:41.618Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 17:22, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-16T17:24:00",
-    "seen_at": "2026-04-16T15:25:27.389Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:24, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-16T17:24:00",
-    "seen_at": "2026-04-16T15:25:27.389Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:24, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -17710,5 +17674,50 @@
     "event_time": "2026-04-19T16:00:00",
     "seen_at": "2026-04-19T15:18:00.663Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "81965",
+    "event_time": "2026-04-19T17:20:00",
+    "seen_at": "2026-04-19T15:21:12.602Z",
+    "raw": "Br. Vlaka 81965 formiran     19.04.26. 17:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "89921",
+    "event_time": "2026-04-19T17:21:00",
+    "seen_at": "2026-04-19T15:21:57.677Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:21, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "89921",
+    "event_time": "2026-04-19T17:21:00",
+    "seen_at": "2026-04-19T15:21:57.678Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:21, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T17:24:00",
+    "seen_at": "2026-04-19T15:25:42.984Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 17:24, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T17:24:00",
+    "seen_at": "2026-04-19T15:25:42.985Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 17:24, kolodvor BEDEKOVČINA"
   }
 ]
