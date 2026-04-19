@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T09:06:00",
-    "seen_at": "2026-04-16T08:57:36.308Z",
-    "raw": "Br. Vlaka 44787 promjena sas 16.04.26. 09:06, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T09:06:00",
-    "seen_at": "2026-04-16T08:58:00.873Z",
-    "raw": "Br. Vlaka 44787 promjena sas 16.04.26. 09:06, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "ĐURMANEC",
@@ -16981,5 +16963,32 @@
     "event_time": "2026-04-19T10:47:00",
     "seen_at": "2026-04-19T08:48:15.451Z",
     "raw": "Br. Vlaka 48786 odlazak      19.04.26. 10:47, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "81954",
+    "event_time": "2026-04-19T10:44:00",
+    "seen_at": "2026-04-19T08:53:06.488Z",
+    "raw": "Br. Vlaka 81954 odlazak      19.04.26. 10:44, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "81954",
+    "event_time": "2026-04-19T10:54:00",
+    "seen_at": "2026-04-19T08:55:26.461Z",
+    "raw": "Br. Vlaka 81954 odlazak      19.04.26. 10:54, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "48786",
+    "event_time": "2026-04-19T10:55:00",
+    "seen_at": "2026-04-19T08:56:35.625Z",
+    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 10:55, kolodvor KONJŠČINA"
   }
 ]
