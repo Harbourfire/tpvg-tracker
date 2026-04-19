@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "81957",
-    "event_time": "2026-04-16T14:29:00",
-    "seen_at": "2026-04-16T12:29:42.863Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:29, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "45981",
-    "event_time": "2026-04-16T14:32:00",
-    "seen_at": "2026-04-16T12:33:42.763Z",
-    "raw": "Br. Vlaka 45981 dolazak      16.04.26. 14:32, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": null,
-    "event_time": "2026-04-16T14:33:00",
-    "seen_at": "2026-04-16T12:34:05.846Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-16T14:33:00",
-    "seen_at": "2026-04-16T12:34:05.847Z",
-    "raw": "Br. Vlaka 63310 formiran     16.04.26. 14:33, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-16T14:33:00",
-    "seen_at": "2026-04-16T12:34:05.847Z",
-    "raw": "Br. Vlaka 63310 formiran     16.04.26. 14:33, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "KOTORIBA-GR",
@@ -16918,5 +16873,41 @@
     "event_time": "2026-04-19T14:24:00",
     "seen_at": "2026-04-19T12:26:09.198Z",
     "raw": "Br. Vlaka 44789 odlazak      19.04.26. 14:24, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-19T14:29:00",
+    "seen_at": "2026-04-19T12:30:11.155Z",
+    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-19T14:29:00",
+    "seen_at": "2026-04-19T12:30:11.155Z",
+    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:29, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-19T09:00:00",
+    "seen_at": "2026-04-19T12:32:30.812Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81959",
+    "event_time": "2026-04-19T14:38:00",
+    "seen_at": "2026-04-19T12:39:07.414Z",
+    "raw": "Br. Vlaka 81959 dolazak      19.04.26. 14:38, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
