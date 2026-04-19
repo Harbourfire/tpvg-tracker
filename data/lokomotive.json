@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44788",
-    "event_time": "2026-04-16T23:14:00",
-    "seen_at": "2026-04-16T21:15:02.877Z",
-    "raw": "Br. Vlaka 44788 odlazak      16.04.26. 23:14, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-16T23:12:00",
-    "seen_at": "2026-04-16T21:16:34.700Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 23:12, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44786",
-    "event_time": "2026-04-16T23:17:00",
-    "seen_at": "2026-04-16T21:18:29.734Z",
-    "raw": "Br. Vlaka 44786 dolazak      16.04.26. 23:17, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-16T23:17:00",
-    "seen_at": "2026-04-16T21:19:38.325Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -17314,5 +17278,50 @@
     "event_time": "2026-04-19T23:03:00",
     "seen_at": "2026-04-19T21:06:41.164Z",
     "raw": "Br. Vlaka 40893 odlazak      19.04.26. 23:03, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T23:16:00",
+    "seen_at": "2026-04-19T21:17:46.108Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 23:16, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-19T23:16:00",
+    "seen_at": "2026-04-19T21:17:46.108Z",
+    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 23:16, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81960",
+    "event_time": "2026-04-19T23:20:00",
+    "seen_at": "2026-04-19T21:20:26.914Z",
+    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 23:20, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48789",
+    "event_time": "2026-04-19T23:20:00",
+    "seen_at": "2026-04-19T21:21:36.155Z",
+    "raw": "Br. Vlaka 48789 odlazak      19.04.26. 23:20, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48789",
+    "event_time": "2026-04-19T23:20:00",
+    "seen_at": "2026-04-19T21:21:36.156Z",
+    "raw": "Br. Vlaka 48789 odlazak      19.04.26. 23:20, kolodvor BUDINŠĆINA"
   }
 ]
