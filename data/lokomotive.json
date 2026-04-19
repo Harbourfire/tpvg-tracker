@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:40:00",
-    "seen_at": "2026-04-16T06:40:43.426Z",
-    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:40, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:44:00",
-    "seen_at": "2026-04-16T06:45:12.313Z",
-    "raw": "Br. Vlaka 89723 dolazak      16.04.26. 08:44, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
     "type": "Promjena sastava",
     "station": "ZAGREB RESNIK",
     "train_number": "89723",
@@ -16819,5 +16801,32 @@
     "event_time": "2026-04-19T08:31:00",
     "seen_at": "2026-04-19T06:34:58.855Z",
     "raw": "Br. Vlaka 44789 odlazak      19.04.26. 08:31, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ČAGLIN",
+    "train_number": "81952",
+    "event_time": "2026-04-19T08:39:00",
+    "seen_at": "2026-04-19T06:39:19.989Z",
+    "raw": "Br. Vlaka 81952 formiran     19.04.26. 08:39, kolodvor ČAGLIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SISAK",
+    "train_number": "81284",
+    "event_time": "2026-04-19T08:40:00",
+    "seen_at": "2026-04-19T06:40:29.254Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 08:40, kolodvor SISAK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ČAGLIN",
+    "train_number": "81952",
+    "event_time": "2026-04-19T08:40:00",
+    "seen_at": "2026-04-19T06:42:47.867Z",
+    "raw": "Br. Vlaka 81952 odlazak      19.04.26. 08:40, kolodvor ČAGLIN"
   }
 ]
