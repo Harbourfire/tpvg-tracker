@@ -1,15 +1,6 @@
 [
   {
     "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71203",
-    "event_time": "2026-04-16T11:12:00",
-    "seen_at": "2026-04-16T09:13:57.439Z",
-    "raw": "Br. Vlaka 71203 odlazak      16.04.26. 11:12, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987891162040",
     "type": "Dolazak",
     "station": "VINKOVCI",
     "train_number": "71203",
@@ -17008,5 +16999,23 @@
     "event_time": "2026-04-19T11:05:00",
     "seen_at": "2026-04-19T09:06:28.700Z",
     "raw": "Br. Vlaka 81954 odlazak      19.04.26. 11:05, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44995",
+    "event_time": "2026-04-19T11:04:00",
+    "seen_at": "2026-04-19T09:15:52.288Z",
+    "raw": "Br. Vlaka 44995 odlazak      19.04.26. 11:04, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44995",
+    "event_time": "2026-04-19T11:10:00",
+    "seen_at": "2026-04-19T09:16:14.877Z",
+    "raw": "Br. Vlaka 44995 odlazak      19.04.26. 11:10, kolodvor KOTORIBA"
   }
 ]
