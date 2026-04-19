@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "49999",
-    "event_time": "2026-04-16T20:07:00",
-    "seen_at": "2026-04-16T18:07:27.039Z",
-    "raw": "Br. Vlaka 49999 formiran     16.04.26. 20:07, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "81951",
-    "event_time": "2026-04-16T20:07:00",
-    "seen_at": "2026-04-16T18:07:49.757Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 20:07, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44997",
-    "event_time": "2026-04-16T20:03:00",
-    "seen_at": "2026-04-16T18:08:57.614Z",
-    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 20:03, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89764",
-    "event_time": "2026-04-16T20:09:00",
-    "seen_at": "2026-04-16T18:09:19.966Z",
-    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:09, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -17512,5 +17476,41 @@
     "event_time": "2026-04-19T19:56:00",
     "seen_at": "2026-04-19T17:57:25.569Z",
     "raw": "Br. Vlaka 81967 odlazak      19.04.26. 19:56, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89126",
+    "event_time": "2026-04-19T20:05:00",
+    "seen_at": "2026-04-19T18:06:42.728Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 20:05, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89126",
+    "event_time": "2026-04-19T20:05:00",
+    "seen_at": "2026-04-19T18:06:42.729Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 20:05, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89126",
+    "event_time": "2026-04-19T20:05:00",
+    "seen_at": "2026-04-19T18:06:42.729Z",
+    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 20:05, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "40893",
+    "event_time": "2026-04-19T19:52:00",
+    "seen_at": "2026-04-19T18:07:29.115Z",
+    "raw": "Br. Vlaka 40893 dolazak      19.04.26. 19:52, kolodvor SISAK CAPRAG"
   }
 ]
