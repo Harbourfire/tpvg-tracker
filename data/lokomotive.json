@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44788",
-    "event_time": "2026-04-17T00:03:00",
-    "seen_at": "2026-04-16T22:20:36.340Z",
-    "raw": "Br. Vlaka 44788 dolazak      17.04.26. 00:03, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "47984",
-    "event_time": "2026-04-17T00:25:00",
-    "seen_at": "2026-04-16T22:28:02.963Z",
-    "raw": "Br. Vlaka 47984 odlazak      17.04.26. 00:25, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "48581",
-    "event_time": "2026-04-17T00:28:00",
-    "seen_at": "2026-04-16T22:29:12.045Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 00:28, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "48581",
-    "event_time": "2026-04-17T00:28:00",
-    "seen_at": "2026-04-16T22:29:12.045Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 00:28, kolodvor OKUČANI"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "GRAČAC",
@@ -17197,5 +17161,32 @@
     "event_time": "2026-04-20T00:09:00",
     "seen_at": "2026-04-19T22:09:28.706Z",
     "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:09, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "40893",
+    "event_time": "2026-04-20T00:21:00",
+    "seen_at": "2026-04-19T22:21:14.905Z",
+    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:21, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-20T00:22:00",
+    "seen_at": "2026-04-19T22:23:32.622Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-20T00:22:00",
+    "seen_at": "2026-04-19T22:23:32.622Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:22, kolodvor PERUŠIĆ"
   }
 ]
