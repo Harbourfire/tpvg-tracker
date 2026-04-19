@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-16T14:38:00",
-    "seen_at": "2026-04-16T12:39:22.914Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "43996",
-    "event_time": "2026-04-16T14:37:00",
-    "seen_at": "2026-04-16T12:39:45.581Z",
-    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 14:37, kolodvor ZABOK"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -16909,5 +16891,41 @@
     "event_time": "2026-04-19T14:38:00",
     "seen_at": "2026-04-19T12:39:07.414Z",
     "raw": "Br. Vlaka 81959 dolazak      19.04.26. 14:38, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T14:39:00",
+    "seen_at": "2026-04-19T12:39:49.546Z",
+    "raw": "Br. Vlaka 44789 dolazak      19.04.26. 14:39, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T14:39:00",
+    "seen_at": "2026-04-19T12:39:49.547Z",
+    "raw": "Br. Vlaka 44789 dolazak      19.04.26. 14:39, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-19T14:46:00",
+    "seen_at": "2026-04-19T12:47:54.342Z",
+    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:46, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-19T14:46:00",
+    "seen_at": "2026-04-19T12:47:54.342Z",
+    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:46, kolodvor LIČKA JESENICA"
   }
 ]
