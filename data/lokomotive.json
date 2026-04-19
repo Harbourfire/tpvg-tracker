@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-13T07:05:00",
-    "seen_at": "2026-04-16T05:07:54.905Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76503",
-    "event_time": "2026-04-16T07:07:00",
-    "seen_at": "2026-04-16T05:08:19.497Z",
-    "raw": "Br. Vlaka 76503 odlazak      16.04.26. 07:07, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76506",
-    "event_time": "2026-04-16T07:07:00",
-    "seen_at": "2026-04-16T05:08:19.498Z",
-    "raw": "Br. Vlaka 76506 odlazak      16.04.26. 07:07, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-16T05:09:08.621Z",
-    "seen_at": "2026-04-16T05:09:08.621Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "82509",
-    "event_time": "2026-04-16T07:10:00",
-    "seen_at": "2026-04-16T05:11:48.798Z",
-    "raw": "Br. Vlaka 82509 odlazak      16.04.26. 07:10, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89181",
-    "event_time": "2026-04-16T07:11:00",
-    "seen_at": "2026-04-16T05:12:14.208Z",
-    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 07:11, kolodvor IVANKOVO"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -16990,5 +16936,23 @@
     "event_time": "2026-04-19T06:54:00",
     "seen_at": "2026-04-19T04:58:42.304Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-13T07:05:00",
+    "seen_at": "2026-04-19T05:08:26.385Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81955",
+    "event_time": "2026-04-19T07:02:00",
+    "seen_at": "2026-04-19T05:09:34.269Z",
+    "raw": "Br. Vlaka 81955 formiran     19.04.26. 07:02, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
