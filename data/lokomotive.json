@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89929",
-    "event_time": "2026-04-16T08:10:00",
-    "seen_at": "2026-04-16T06:11:09.200Z",
-    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 08:10, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-16T08:10:00",
-    "seen_at": "2026-04-16T06:16:52.187Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "76505",
-    "event_time": "2026-04-16T08:16:00",
-    "seen_at": "2026-04-16T06:16:52.189Z",
-    "raw": "Br. Vlaka 76505 formiran     16.04.26. 08:16, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16837,5 +16810,23 @@
     "event_time": "2026-04-19T08:06:00",
     "seen_at": "2026-04-19T06:09:37.616Z",
     "raw": "Br. Vlaka 81284 odlazak      19.04.26. 08:06, kolodvor SUNJA"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-16T08:09:00",
+    "seen_at": "2026-04-19T06:10:35.999Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44996",
+    "event_time": "2026-04-19T08:14:00",
+    "seen_at": "2026-04-19T06:15:35.432Z",
+    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 08:14, kolodvor MALA SUBOTICA"
   }
 ]
