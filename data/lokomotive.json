@@ -2,51 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "48581",
-    "event_time": "2026-04-17T01:29:00",
-    "seen_at": "2026-04-16T23:30:33.841Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:29, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "48581",
-    "event_time": "2026-04-17T01:29:00",
-    "seen_at": "2026-04-16T23:30:33.842Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:29, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-17T01:20:00",
-    "seen_at": "2026-04-16T23:30:33.842Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 01:20, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T01:29:00",
-    "seen_at": "2026-04-16T23:33:49.907Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 01:29, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "81951",
-    "event_time": "2026-04-17T01:33:00",
-    "seen_at": "2026-04-16T23:34:57.220Z",
-    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 01:33, kolodvor PLAVNO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "SLAVONSKI BROD",
     "train_number": "48581",
     "event_time": "2026-04-17T01:39:00",
@@ -17170,5 +17125,32 @@
     "event_time": "2026-04-20T01:22:00",
     "seen_at": "2026-04-19T23:22:32.212Z",
     "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:22, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-20T01:07:00",
+    "seen_at": "2026-04-19T23:30:23.908Z",
+    "raw": "Br. Vlaka 48789 dolazak      20.04.26. 01:07, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-20T01:07:00",
+    "seen_at": "2026-04-19T23:30:23.908Z",
+    "raw": "Br. Vlaka 48789 dolazak      20.04.26. 01:07, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "40893",
+    "event_time": "2026-04-20T01:30:00",
+    "seen_at": "2026-04-19T23:31:31.589Z",
+    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:30, kolodvor ANDRIJEVCI"
   }
 ]
