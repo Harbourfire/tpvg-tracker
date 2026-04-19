@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89929",
-    "event_time": "2026-04-16T06:54:00",
-    "seen_at": "2026-04-16T04:55:20.143Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 06:54, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76506",
-    "event_time": "2026-04-16T06:57:00",
-    "seen_at": "2026-04-16T04:58:12.745Z",
-    "raw": "Br. Vlaka 76506 odlazak      16.04.26. 06:57, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89181",
-    "event_time": "2026-04-16T06:55:00",
-    "seen_at": "2026-04-16T04:59:51.697Z",
-    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 06:55, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76503",
-    "event_time": "2026-04-16T06:59:00",
-    "seen_at": "2026-04-16T04:59:51.697Z",
-    "raw": "Br. Vlaka 76503 odlazak      16.04.26. 06:59, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89929",
-    "event_time": "2026-04-16T07:01:00",
-    "seen_at": "2026-04-16T05:02:57.966Z",
-    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 07:01, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "89929",
-    "event_time": "2026-04-16T06:54:00",
-    "seen_at": "2026-04-16T05:03:22.514Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 06:54, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89929",
-    "event_time": "2026-04-16T07:01:00",
-    "seen_at": "2026-04-16T05:04:11.969Z",
-    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 07:01, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820440125",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -17035,5 +16972,23 @@
     "event_time": "2026-04-19T06:43:00",
     "seen_at": "2026-04-19T04:43:34.681Z",
     "raw": "Br. Vlaka 44996 dolazak      19.04.26. 06:43, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81953",
+    "event_time": "2026-04-19T06:54:00",
+    "seen_at": "2026-04-19T04:56:26.666Z",
+    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 06:54, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-19T06:54:00",
+    "seen_at": "2026-04-19T04:58:42.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
