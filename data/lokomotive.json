@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Promjena sastava",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76506",
-    "event_time": "2026-04-16T07:39:00",
-    "seen_at": "2026-04-16T05:42:55.121Z",
-    "raw": "Br. Vlaka 76506 promjena sas 16.04.26. 07:39, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89181",
-    "event_time": "2026-04-16T07:43:00",
-    "seen_at": "2026-04-16T05:44:09.353Z",
-    "raw": "Br. Vlaka 89181 odlazak      16.04.26. 07:43, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44787",
-    "event_time": "2026-04-16T07:43:00",
-    "seen_at": "2026-04-16T05:49:07.749Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 07:43, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44787",
-    "event_time": "2026-04-16T07:43:00",
-    "seen_at": "2026-04-16T05:49:07.749Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 07:43, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89929",
-    "event_time": "2026-04-16T07:39:00",
-    "seen_at": "2026-04-16T05:49:57.153Z",
-    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 07:39, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89929",
-    "event_time": "2026-04-16T07:47:00",
-    "seen_at": "2026-04-16T05:50:21.903Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 07:47, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "LUKA",
@@ -16864,5 +16810,77 @@
     "event_time": "2026-04-19T07:38:00",
     "seen_at": "2026-04-19T05:38:45.229Z",
     "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:38, kolodvor 72302"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "69327",
+    "event_time": "2026-04-19T07:41:00",
+    "seen_at": "2026-04-19T05:42:22.699Z",
+    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:41, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "69327",
+    "event_time": "2026-04-19T07:41:00",
+    "seen_at": "2026-04-19T05:42:22.699Z",
+    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:41, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44789",
+    "event_time": "2026-04-19T07:44:00",
+    "seen_at": "2026-04-19T05:45:01.716Z",
+    "raw": "Br. Vlaka 44789 formiran     19.04.26. 07:44, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-19T06:43:00",
+    "seen_at": "2026-04-19T05:47:18.653Z",
+    "raw": "Br. Vlaka 44996 promjena sas 19.04.26. 06:43, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "69327",
+    "event_time": "2026-04-19T07:48:00",
+    "seen_at": "2026-04-19T05:50:43.978Z",
+    "raw": "Br. Vlaka 69327 dolazak      19.04.26. 07:48, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "69327",
+    "event_time": "2026-04-19T07:48:00",
+    "seen_at": "2026-04-19T05:50:43.978Z",
+    "raw": "Br. Vlaka 69327 dolazak      19.04.26. 07:48, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-19T07:48:00",
+    "seen_at": "2026-04-19T05:51:06.532Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-19T07:48:00",
+    "seen_at": "2026-04-19T05:51:06.532Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
   }
 ]
