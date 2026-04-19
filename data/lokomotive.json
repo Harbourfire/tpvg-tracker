@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "LUKA",
-    "train_number": "89127",
-    "event_time": "2026-04-16T20:11:00",
-    "seen_at": "2026-04-16T18:45:55.273Z",
-    "raw": "Br. Vlaka 89127 formiran     16.04.26. 20:11, kolodvor LUKA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81951",
-    "event_time": "2026-04-16T20:44:00",
-    "seen_at": "2026-04-16T18:47:04.396Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 20:44, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "48581",
-    "event_time": "2026-04-16T20:45:00",
-    "seen_at": "2026-04-16T18:48:49.749Z",
-    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:45, kolodvor LEKENIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "48581",
-    "event_time": "2026-04-16T20:45:00",
-    "seen_at": "2026-04-16T18:48:49.750Z",
-    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 20:45, kolodvor LEKENIK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "89764",
-    "event_time": "2026-04-16T20:48:00",
-    "seen_at": "2026-04-16T18:49:13.425Z",
-    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 20:48, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "GREDA",
@@ -17395,5 +17350,14 @@
     "event_time": "2026-04-19T20:30:00",
     "seen_at": "2026-04-19T18:33:29.621Z",
     "raw": "Trenutna pozicija je u kolodvoru 71001 TOVARNIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "TOVARNIK",
+    "train_number": "81960",
+    "event_time": "2026-04-19T19:50:00",
+    "seen_at": "2026-04-19T18:47:56.365Z",
+    "raw": "Br. Vlaka 81960 formiran     19.04.26. 19:50, kolodvor TOVARNIK"
   }
 ]
