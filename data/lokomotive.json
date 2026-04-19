@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "81951",
-    "event_time": "2026-04-16T15:01:00",
-    "seen_at": "2026-04-16T13:01:50.339Z",
-    "raw": "Br. Vlaka 81951 formiran     16.04.26. 15:01, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF",
-    "train_number": "48581",
-    "event_time": "2026-04-16T14:52:00",
-    "seen_at": "2026-04-16T13:02:36.981Z",
-    "raw": "Br. Vlaka 48581 promjena sas 16.04.26. 14:52, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44786",
-    "event_time": "2026-04-16T15:02:00",
-    "seen_at": "2026-04-16T13:02:36.981Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 15:02, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "NOVI DVORI",
@@ -16954,5 +16927,50 @@
     "event_time": "2026-04-19T14:55:00",
     "seen_at": "2026-04-19T12:56:39.042Z",
     "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:55, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "48789",
+    "event_time": "2026-04-19T15:02:00",
+    "seen_at": "2026-04-19T13:02:33.708Z",
+    "raw": "Br. Vlaka 48789 formiran     19.04.26. 15:02, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T15:03:00",
+    "seen_at": "2026-04-19T13:04:28.100Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 15:03, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T15:03:00",
+    "seen_at": "2026-04-19T13:04:28.100Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 15:03, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Formiran",
+    "station": "SESVETE",
+    "train_number": "66664",
+    "event_time": "2026-04-19T15:04:00",
+    "seen_at": "2026-04-19T13:04:50.735Z",
+    "raw": "Br. Vlaka 66664 formiran     19.04.26. 15:04, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Formiran",
+    "station": "SESVETE",
+    "train_number": "66664",
+    "event_time": "2026-04-19T15:04:00",
+    "seen_at": "2026-04-19T13:04:50.735Z",
+    "raw": "Br. Vlaka 66664 formiran     19.04.26. 15:04, kolodvor SESVETE"
   }
 ]
