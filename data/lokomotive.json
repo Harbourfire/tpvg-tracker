@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89929",
-    "event_time": "2026-04-16T04:54:00",
-    "seen_at": "2026-04-16T02:55:09.719Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 04:54, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82506",
-    "event_time": "2026-04-16T04:56:00",
-    "seen_at": "2026-04-16T02:57:59.625Z",
-    "raw": "Br. Vlaka 82506 dolazak      16.04.26. 04:56, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "NOVI MAROF",
     "train_number": "89929",
@@ -16801,5 +16783,23 @@
     "event_time": "2026-04-19T04:46:00",
     "seen_at": "2026-04-19T02:46:35.610Z",
     "raw": "Br. Vlaka 81284 odlazak      19.04.26. 04:46, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "49996",
+    "event_time": "2026-04-19T04:55:00",
+    "seen_at": "2026-04-19T02:56:23.903Z",
+    "raw": "Br. Vlaka 49996 dolazak      19.04.26. 04:55, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "49996",
+    "event_time": "2026-04-19T04:55:00",
+    "seen_at": "2026-04-19T02:56:23.904Z",
+    "raw": "Br. Vlaka 49996 dolazak      19.04.26. 04:55, kolodvor KOTORIBA"
   }
 ]
