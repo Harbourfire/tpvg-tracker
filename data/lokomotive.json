@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-16T16:14:00",
-    "seen_at": "2026-04-16T14:15:19.130Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:14, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-16T16:14:00",
-    "seen_at": "2026-04-16T14:15:19.130Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:14, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44997",
-    "event_time": "2026-04-16T16:05:00",
-    "seen_at": "2026-04-16T14:18:18.595Z",
-    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 16:05, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44997",
-    "event_time": "2026-04-16T16:09:00",
-    "seen_at": "2026-04-16T14:18:41.200Z",
-    "raw": "Br. Vlaka 44997 dolazak      16.04.26. 16:09, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44997",
-    "event_time": "2026-04-16T16:10:00",
-    "seen_at": "2026-04-16T14:19:03.752Z",
-    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 16:10, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43996",
-    "event_time": "2026-04-16T16:18:00",
-    "seen_at": "2026-04-16T14:22:05.956Z",
-    "raw": "Br. Vlaka 43996 dolazak      16.04.26. 16:18, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -17467,5 +17413,77 @@
     "event_time": "2026-04-19T16:06:00",
     "seen_at": "2026-04-19T14:07:17.653Z",
     "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:06, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:14:00",
+    "seen_at": "2026-04-19T14:14:36.075Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:14, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:14:00",
+    "seen_at": "2026-04-19T14:14:36.076Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:14, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:06:00",
+    "seen_at": "2026-04-19T14:15:43.779Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:06, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:06:00",
+    "seen_at": "2026-04-19T14:15:43.780Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:06, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:16:00",
+    "seen_at": "2026-04-19T14:16:29.144Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:16, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:16:00",
+    "seen_at": "2026-04-19T14:16:29.144Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:16, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "81958",
+    "event_time": "2026-04-19T16:18:00",
+    "seen_at": "2026-04-19T14:18:21.509Z",
+    "raw": "Br. Vlaka 81958 odlazak      19.04.26. 16:18, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "40893",
+    "event_time": "2026-04-19T16:13:00",
+    "seen_at": "2026-04-19T14:20:59.964Z",
+    "raw": "Br. Vlaka 40893 dolazak      19.04.26. 16:13, kolodvor 72303"
   }
 ]
