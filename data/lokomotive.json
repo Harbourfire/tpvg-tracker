@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-15T18:12:00",
-    "seen_at": "2026-04-16T00:55:14.452Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "82511",
-    "event_time": "2026-04-16T02:55:00",
-    "seen_at": "2026-04-16T00:55:39.258Z",
-    "raw": "Br. Vlaka 82511 formiran     16.04.26. 02:55, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "81958",
-    "event_time": "2026-04-16T02:55:00",
-    "seen_at": "2026-04-16T00:56:28.751Z",
-    "raw": "Br. Vlaka 81958 odlazak      16.04.26. 02:55, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82511",
-    "event_time": "2026-04-16T02:47:00",
-    "seen_at": "2026-04-16T00:58:07.390Z",
-    "raw": "Br. Vlaka 82511 odlazak      16.04.26. 02:47, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -16675,5 +16639,59 @@
     "event_time": "2026-04-19T02:47:00",
     "seen_at": "2026-04-19T00:49:52.524Z",
     "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "49998",
+    "event_time": "2026-04-18T22:45:00",
+    "seen_at": "2026-04-19T00:56:51.636Z",
+    "raw": "Br. Vlaka 49998 promjena sas 18.04.26. 22:45, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "43995",
+    "event_time": "2026-04-19T02:55:00",
+    "seen_at": "2026-04-19T00:58:23.669Z",
+    "raw": "Br. Vlaka 43995 dolazak      19.04.26. 02:55, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "43995",
+    "event_time": "2026-04-19T02:55:00",
+    "seen_at": "2026-04-19T00:58:23.670Z",
+    "raw": "Br. Vlaka 43995 dolazak      19.04.26. 02:55, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "81284",
+    "event_time": "2026-04-19T02:58:00",
+    "seen_at": "2026-04-19T00:59:09.916Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 02:58, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "82512",
+    "event_time": "2026-04-19T02:58:00",
+    "seen_at": "2026-04-19T01:00:39.887Z",
+    "raw": "Br. Vlaka 82512 dolazak      19.04.26. 02:58, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "82512",
+    "event_time": "2026-04-19T02:58:00",
+    "seen_at": "2026-04-19T01:00:39.888Z",
+    "raw": "Br. Vlaka 82512 dolazak      19.04.26. 02:58, kolodvor NOVI MAROF"
   }
 ]
