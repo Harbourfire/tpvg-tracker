@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "81951",
-    "event_time": "2026-04-16T19:28:00",
-    "seen_at": "2026-04-16T17:30:13.741Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 19:28, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44997",
-    "event_time": "2026-04-16T19:30:00",
-    "seen_at": "2026-04-16T17:31:43.803Z",
-    "raw": "Br. Vlaka 44997 odlazak      16.04.26. 19:30, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-16T19:34:00",
-    "seen_at": "2026-04-16T17:34:13.266Z",
-    "raw": "Br. Vlaka 69005 odlazak      16.04.26. 19:34, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-16T19:34:00",
-    "seen_at": "2026-04-16T17:34:13.266Z",
-    "raw": "Br. Vlaka 69005 odlazak      16.04.26. 19:34, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "44694",
-    "event_time": "2026-04-16T19:29:00",
-    "seen_at": "2026-04-16T17:36:55.988Z",
-    "raw": "Br. Vlaka 44694 dolazak      16.04.26. 19:29, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "81951",
-    "event_time": "2026-04-16T19:36:00",
-    "seen_at": "2026-04-16T17:37:19.941Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 19:36, kolodvor DUGA RESA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -17611,5 +17557,14 @@
     "event_time": "2026-04-19T19:27:00",
     "seen_at": "2026-04-19T17:28:28.747Z",
     "raw": "Br. Vlaka 40893 odlazak      19.04.26. 19:27, kolodvor GREDA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81967",
+    "event_time": "2026-04-19T17:16:00",
+    "seen_at": "2026-04-19T17:33:35.880Z",
+    "raw": "Br. Vlaka 81967 promjena sas 19.04.26. 17:16, kolodvor VINKOVCI"
   }
 ]
