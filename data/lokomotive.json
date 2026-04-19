@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48581",
-    "event_time": "2026-04-16T17:48:00",
-    "seen_at": "2026-04-16T15:48:33.406Z",
-    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 17:48, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48581",
-    "event_time": "2026-04-16T17:53:00",
-    "seen_at": "2026-04-16T15:54:06.743Z",
-    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 17:53, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "KOTORIBA",
@@ -17746,5 +17728,14 @@
     "event_time": "2026-04-19T17:38:00",
     "seen_at": "2026-04-19T15:40:53.732Z",
     "raw": "Br. Vlaka 89126 dolazak      19.04.26. 17:38, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "47981",
+    "event_time": "2026-04-19T17:48:00",
+    "seen_at": "2026-04-19T15:51:37.430Z",
+    "raw": "Br. Vlaka 47981 dolazak      19.04.26. 17:48, kolodvor OSIJEK"
   }
 ]
