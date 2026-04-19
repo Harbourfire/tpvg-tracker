@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "STARO PETROVO SELO",
-    "train_number": "82119",
-    "event_time": "2026-04-16T12:05:00",
-    "seen_at": "2026-04-16T10:06:26.912Z",
-    "raw": "Br. Vlaka 82119 formiran     16.04.26. 12:05, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "82119",
-    "event_time": "2026-04-16T12:07:00",
-    "seen_at": "2026-04-16T10:09:29.294Z",
-    "raw": "Br. Vlaka 82119 odlazak      16.04.26. 12:07, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ĐURMANEC",
-    "train_number": null,
-    "event_time": "2026-04-16T09:15:00",
-    "seen_at": "2026-04-16T10:11:24.270Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74606 ĐURMANEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ĐURMANEC",
-    "train_number": "81957",
-    "event_time": "2026-04-16T12:11:00",
-    "seen_at": "2026-04-16T10:11:47.169Z",
-    "raw": "Br. Vlaka 81957 formiran     16.04.26. 12:11, kolodvor ĐURMANEC"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -17089,5 +17053,32 @@
     "event_time": "2026-04-19T12:01:00",
     "seen_at": "2026-04-19T10:04:23.949Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-19T12:05:00",
+    "seen_at": "2026-04-19T10:06:55.437Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KONJŠČINA",
+    "train_number": "89170",
+    "event_time": "2026-04-19T12:07:00",
+    "seen_at": "2026-04-19T10:07:41.403Z",
+    "raw": "Br. Vlaka 89170 formiran     19.04.26. 12:07, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "48786",
+    "event_time": "2026-04-19T12:09:00",
+    "seen_at": "2026-04-19T10:09:33.727Z",
+    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 12:09, kolodvor VARAŽDIN"
   }
 ]
