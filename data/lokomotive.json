@@ -1,42 +1,6 @@
 [
   {
     "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76504",
-    "event_time": "2026-04-16T13:53:00",
-    "seen_at": "2026-04-16T11:54:13.100Z",
-    "raw": "Br. Vlaka 76504 odlazak      16.04.26. 13:53, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82515",
-    "event_time": "2026-04-16T13:56:00",
-    "seen_at": "2026-04-16T11:58:32.589Z",
-    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:56, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82515",
-    "event_time": "2026-04-16T13:56:00",
-    "seen_at": "2026-04-16T11:58:32.589Z",
-    "raw": "Br. Vlaka 82515 odlazak      16.04.26. 13:56, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "48581",
-    "event_time": "2026-04-16T08:47:00",
-    "seen_at": "2026-04-16T11:59:17.326Z",
-    "raw": "Br. Vlaka 48581 formiran     16.04.26. 08:47, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "987893113470",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
     "train_number": "76504",
@@ -16954,5 +16918,32 @@
     "event_time": "2026-04-19T13:49:00",
     "seen_at": "2026-04-19T11:51:03.101Z",
     "raw": "Br. Vlaka 63310 odlazak      19.04.26. 13:49, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-19T13:52:00",
+    "seen_at": "2026-04-19T11:52:44.762Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-19T13:59:00",
+    "seen_at": "2026-04-19T12:00:40.981Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:59, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-19T13:59:00",
+    "seen_at": "2026-04-19T12:00:40.982Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:59, kolodvor NOVI MAROF"
   }
 ]
