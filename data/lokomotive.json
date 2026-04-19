@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45981",
-    "event_time": "2026-04-16T14:18:00",
-    "seen_at": "2026-04-16T12:20:23.941Z",
-    "raw": "Br. Vlaka 45981 odlazak      16.04.26. 14:18, kolodvor DARDA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81957",
-    "event_time": "2026-04-16T14:19:00",
-    "seen_at": "2026-04-16T12:20:47.050Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:19, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "81957",
-    "event_time": "2026-04-16T14:22:00",
-    "seen_at": "2026-04-16T12:23:05.212Z",
-    "raw": "Br. Vlaka 81957 odlazak      16.04.26. 14:22, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "82515",
-    "event_time": "2026-04-16T14:25:00",
-    "seen_at": "2026-04-16T12:28:12.897Z",
-    "raw": "Br. Vlaka 82515 dolazak      16.04.26. 14:25, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "82515",
-    "event_time": "2026-04-16T14:25:00",
-    "seen_at": "2026-04-16T12:28:12.897Z",
-    "raw": "Br. Vlaka 82515 dolazak      16.04.26. 14:25, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-16T14:25:00",
-    "seen_at": "2026-04-16T12:28:35.326Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-16T14:25:00",
-    "seen_at": "2026-04-16T12:28:35.326Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -16963,5 +16900,23 @@
     "event_time": "2026-04-19T14:19:00",
     "seen_at": "2026-04-19T12:20:14.480Z",
     "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:19, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T14:24:00",
+    "seen_at": "2026-04-19T12:26:09.197Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 14:24, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T14:24:00",
+    "seen_at": "2026-04-19T12:26:09.198Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 14:24, kolodvor BUDINŠĆINA"
   }
 ]
