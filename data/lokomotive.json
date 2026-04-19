@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-16T04:20:00",
-    "seen_at": "2026-04-16T02:22:16.253Z",
-    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 04:20, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-16T04:20:00",
-    "seen_at": "2026-04-16T02:22:16.253Z",
-    "raw": "Br. Vlaka 63306 odlazak      16.04.26. 04:20, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -16702,5 +16684,86 @@
     "event_time": "2026-04-19T04:14:00",
     "seen_at": "2026-04-19T02:14:54.783Z",
     "raw": "Br. Vlaka 81284 dolazak      19.04.26. 04:14, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "49996",
+    "event_time": "2026-04-19T04:13:00",
+    "seen_at": "2026-04-19T02:15:50.196Z",
+    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "49996",
+    "event_time": "2026-04-19T04:13:00",
+    "seen_at": "2026-04-19T02:15:50.197Z",
+    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:13, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89122",
+    "event_time": "2026-04-19T04:09:00",
+    "seen_at": "2026-04-19T02:17:21.914Z",
+    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:09, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89122",
+    "event_time": "2026-04-19T04:09:00",
+    "seen_at": "2026-04-19T02:17:21.916Z",
+    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:09, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-04-19T04:21:00",
+    "seen_at": "2026-04-19T02:22:37.962Z",
+    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 04:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-04-19T04:21:00",
+    "seen_at": "2026-04-19T02:22:37.962Z",
+    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 04:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89122",
+    "event_time": "2026-04-19T04:14:00",
+    "seen_at": "2026-04-19T02:23:00.610Z",
+    "raw": "Br. Vlaka 89122 promjena sas 19.04.26. 04:14, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89122",
+    "event_time": "2026-04-19T04:14:00",
+    "seen_at": "2026-04-19T02:23:00.612Z",
+    "raw": "Br. Vlaka 89122 promjena sas 19.04.26. 04:14, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-19T01:00:00",
+    "seen_at": "2026-04-19T02:23:45.722Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
   }
 ]
