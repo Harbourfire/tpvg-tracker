@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "69326",
-    "event_time": "2026-04-16T04:09:00",
-    "seen_at": "2026-04-16T02:09:41.547Z",
-    "raw": "Br. Vlaka 69326 odlazak      16.04.26. 04:09, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-16T04:12:00",
-    "seen_at": "2026-04-16T02:15:02.919Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -16702,5 +16684,23 @@
     "event_time": "2026-04-19T04:02:00",
     "seen_at": "2026-04-19T02:05:09.170Z",
     "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:02, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81953",
+    "event_time": "2026-04-19T04:08:00",
+    "seen_at": "2026-04-19T02:09:08.901Z",
+    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 04:08, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81284",
+    "event_time": "2026-04-19T04:14:00",
+    "seen_at": "2026-04-19T02:14:54.783Z",
+    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 04:14, kolodvor NOVSKA"
   }
 ]
