@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:24:00",
-    "seen_at": "2026-04-16T06:30:53.759Z",
-    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:24, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:28:00",
-    "seen_at": "2026-04-16T06:34:50.326Z",
-    "raw": "Br. Vlaka 89723 dolazak      16.04.26. 08:28, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:33:00",
-    "seen_at": "2026-04-16T06:35:15.280Z",
-    "raw": "Br. Vlaka 89723 odlazak      16.04.26. 08:33, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ZAGREB BORONGAJ",
     "train_number": "89723",
     "event_time": "2026-04-16T08:40:00",
@@ -16810,5 +16783,41 @@
     "event_time": "2026-04-19T08:25:00",
     "seen_at": "2026-04-19T06:26:46.572Z",
     "raw": "Br. Vlaka 44789 dolazak      19.04.26. 08:25, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ČAGLIN",
+    "train_number": null,
+    "event_time": "2026-04-19T08:30:00",
+    "seen_at": "2026-04-19T06:30:28.266Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73405 ČAGLIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81284",
+    "event_time": "2026-04-19T08:31:00",
+    "seen_at": "2026-04-19T06:33:05.839Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 08:31, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-19T08:21:00",
+    "seen_at": "2026-04-19T06:33:50.935Z",
+    "raw": "Br. Vlaka 44996 dolazak      19.04.26. 08:21, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T08:31:00",
+    "seen_at": "2026-04-19T06:34:58.855Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 08:31, kolodvor KOTORIBA"
   }
 ]
