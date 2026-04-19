@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891032144",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76501",
-    "event_time": "2026-04-16T09:15:00",
-    "seen_at": "2026-04-16T07:17:46.545Z",
-    "raw": "Br. Vlaka 76501 odlazak      16.04.26. 09:15, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GORNJA STUBICA",
-    "train_number": "81955",
-    "event_time": "2026-04-16T09:20:00",
-    "seen_at": "2026-04-16T07:22:45.117Z",
-    "raw": "Br. Vlaka 81955 odlazak      16.04.26. 09:20, kolodvor GORNJA STUBICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69770",
-    "event_time": "2026-04-16T06:13:00",
-    "seen_at": "2026-04-16T07:24:39.369Z",
-    "raw": "Br. Vlaka 69770 formiran     16.04.26. 06:13, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69770",
-    "event_time": "2026-04-16T09:13:00",
-    "seen_at": "2026-04-16T07:25:04.693Z",
-    "raw": "Br. Vlaka 69770 odlazak      16.04.26. 09:13, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DARDA",
@@ -16873,5 +16837,23 @@
     "event_time": "2026-04-19T09:15:00",
     "seen_at": "2026-04-19T07:15:25.818Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "81957",
+    "event_time": "2026-04-19T09:22:00",
+    "seen_at": "2026-04-19T07:23:18.963Z",
+    "raw": "Br. Vlaka 81957 odlazak      19.04.26. 09:22, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-19T09:23:00",
+    "seen_at": "2026-04-19T07:24:27.316Z",
+    "raw": "Br. Vlaka 44789 dolazak      19.04.26. 09:23, kolodvor VARAŽDIN"
   }
 ]
