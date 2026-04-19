@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ĐURMANEC",
-    "train_number": "81962",
-    "event_time": "2026-04-16T10:54:00",
-    "seen_at": "2026-04-16T09:04:42.577Z",
-    "raw": "Br. Vlaka 81962 dolazak      16.04.26. 10:54, kolodvor ĐURMANEC"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-16T11:03:00",
-    "seen_at": "2026-04-16T09:06:58.248Z",
-    "raw": "Br. Vlaka 71203 odlazak      16.04.26. 11:03, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -16990,5 +16972,41 @@
     "event_time": "2026-04-19T10:55:00",
     "seen_at": "2026-04-19T08:56:35.625Z",
     "raw": "Br. Vlaka 48786 odlazak      19.04.26. 10:55, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81979",
+    "event_time": "2026-04-19T10:59:00",
+    "seen_at": "2026-04-19T09:00:42.789Z",
+    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:59, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81979",
+    "event_time": "2026-04-19T10:59:00",
+    "seen_at": "2026-04-19T09:00:42.789Z",
+    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:59, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48786",
+    "event_time": "2026-04-19T11:04:00",
+    "seen_at": "2026-04-19T09:06:05.839Z",
+    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 11:04, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "81954",
+    "event_time": "2026-04-19T11:05:00",
+    "seen_at": "2026-04-19T09:06:28.700Z",
+    "raw": "Br. Vlaka 81954 odlazak      19.04.26. 11:05, kolodvor PLETERNICA"
   }
 ]
