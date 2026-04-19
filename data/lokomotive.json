@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GRAČAC",
-    "train_number": "81951",
-    "event_time": "2026-04-17T00:30:00",
-    "seen_at": "2026-04-16T22:31:06.023Z",
-    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 00:30, kolodvor GRAČAC"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "STARI MIKANOVCI",
@@ -17188,5 +17179,41 @@
     "event_time": "2026-04-20T00:22:00",
     "seen_at": "2026-04-19T22:23:32.622Z",
     "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "40893",
+    "event_time": "2026-04-20T00:31:00",
+    "seen_at": "2026-04-19T22:32:08.627Z",
+    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:31, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-20T00:32:00",
+    "seen_at": "2026-04-19T22:32:31.032Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-20T00:32:00",
+    "seen_at": "2026-04-19T22:32:31.032Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81960",
+    "event_time": "2026-04-20T00:38:00",
+    "seen_at": "2026-04-19T22:38:56.122Z",
+    "raw": "Br. Vlaka 81960 dolazak      20.04.26. 00:38, kolodvor OSIJEK"
   }
 ]
