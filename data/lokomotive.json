@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "89929",
-    "event_time": "2026-04-16T06:40:00",
-    "seen_at": "2026-04-16T04:41:53.613Z",
-    "raw": "Br. Vlaka 89929 dolazak      16.04.26. 06:40, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "89929",
@@ -17035,5 +17026,23 @@
     "event_time": "2026-04-19T06:34:00",
     "seen_at": "2026-04-19T04:35:15.519Z",
     "raw": "Br. Vlaka 44996 odlazak      19.04.26. 06:34, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "81953",
+    "event_time": "2026-04-19T06:40:00",
+    "seen_at": "2026-04-19T04:40:53.229Z",
+    "raw": "Br. Vlaka 81953 odlazak      19.04.26. 06:40, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44996",
+    "event_time": "2026-04-19T06:43:00",
+    "seen_at": "2026-04-19T04:43:34.681Z",
+    "raw": "Br. Vlaka 44996 dolazak      19.04.26. 06:43, kolodvor VARAŽDIN"
   }
 ]
