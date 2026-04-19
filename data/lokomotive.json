@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44786",
-    "event_time": "2026-04-16T16:21:00",
-    "seen_at": "2026-04-16T14:22:28.426Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 16:21, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "GENERALSKI STOL",
-    "train_number": null,
-    "event_time": "2026-04-13T16:21:00",
-    "seen_at": "2026-04-16T14:23:14.559Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75106 GENERALSKI STOL"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "48581",
-    "event_time": "2026-04-16T16:27:00",
-    "seen_at": "2026-04-16T14:28:03.467Z",
-    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 16:27, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44786",
-    "event_time": "2026-04-16T16:29:00",
-    "seen_at": "2026-04-16T14:29:33.449Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 16:29, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -17485,5 +17449,59 @@
     "event_time": "2026-04-19T16:13:00",
     "seen_at": "2026-04-19T14:20:59.964Z",
     "raw": "Br. Vlaka 40893 dolazak      19.04.26. 16:13, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:23:00",
+    "seen_at": "2026-04-19T14:23:56.078Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:23, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:23:00",
+    "seen_at": "2026-04-19T14:23:56.078Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:23, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "GENERALSKI STOL",
+    "train_number": null,
+    "event_time": "2026-04-13T16:21:00",
+    "seen_at": "2026-04-19T14:23:56.080Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75106 GENERALSKI STOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:29:00",
+    "seen_at": "2026-04-19T14:30:28.304Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:29, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-19T16:25:00",
+    "seen_at": "2026-04-19T14:30:28.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T16:29:00",
+    "seen_at": "2026-04-19T14:30:28.305Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 16:29, kolodvor BEDEKOVČINA"
   }
 ]
