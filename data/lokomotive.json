@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-15T18:12:00",
-    "seen_at": "2026-04-16T11:10:18.172Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82515",
-    "event_time": "2026-04-16T13:08:00",
-    "seen_at": "2026-04-16T11:10:18.172Z",
-    "raw": "Br. Vlaka 82515 dolazak      16.04.26. 13:08, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82515",
-    "event_time": "2026-04-16T13:08:00",
-    "seen_at": "2026-04-16T11:10:18.172Z",
-    "raw": "Br. Vlaka 82515 dolazak      16.04.26. 13:08, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ZABOK",
-    "train_number": "89733",
-    "event_time": "2026-04-16T12:52:00",
-    "seen_at": "2026-04-16T11:11:04.459Z",
-    "raw": "Br. Vlaka 89733 formiran     16.04.26. 12:52, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-15T18:12:00",
-    "seen_at": "2026-04-16T11:11:26.985Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "43996",
-    "event_time": "2026-04-16T06:25:00",
-    "seen_at": "2026-04-16T11:11:49.647Z",
-    "raw": "Br. Vlaka 43996 promjena sas 16.04.26. 06:25, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SV. KRIŽ ZAČRETJE",
-    "train_number": "81957",
-    "event_time": "2026-04-16T13:10:00",
-    "seen_at": "2026-04-16T11:12:34.686Z",
-    "raw": "Br. Vlaka 81957 dolazak      16.04.26. 13:10, kolodvor SV. KRIŽ ZAČRETJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -17017,5 +16954,41 @@
     "event_time": "2026-04-19T13:02:00",
     "seen_at": "2026-04-19T11:04:33.708Z",
     "raw": "Br. Vlaka 89921 odlazak      19.04.26. 13:02, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-19T09:23:00",
+    "seen_at": "2026-04-19T11:07:03.536Z",
+    "raw": "Br. Vlaka 44789 promjena sas 19.04.26. 09:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T13:08:00",
+    "seen_at": "2026-04-19T11:09:23.499Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 13:08, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T13:08:00",
+    "seen_at": "2026-04-19T11:09:23.500Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 13:08, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "81959",
+    "event_time": "2026-04-19T13:08:00",
+    "seen_at": "2026-04-19T11:10:10.555Z",
+    "raw": "Br. Vlaka 81959 odlazak      19.04.26. 13:08, kolodvor ORIOVAC"
   }
 ]
