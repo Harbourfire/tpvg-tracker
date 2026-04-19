@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82117",
-    "event_time": "2026-04-17T01:18:00",
-    "seen_at": "2026-04-16T23:18:18.577Z",
-    "raw": "Br. Vlaka 82117 odlazak      17.04.26. 01:18, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "48581",
-    "event_time": "2026-04-17T01:17:00",
-    "seen_at": "2026-04-16T23:18:40.936Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:17, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "48581",
-    "event_time": "2026-04-17T01:17:00",
-    "seen_at": "2026-04-16T23:18:40.936Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 01:17, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SIBINJ",
@@ -17170,5 +17143,32 @@
     "event_time": "2026-04-20T01:09:00",
     "seen_at": "2026-04-19T23:09:29.923Z",
     "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:09, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "43995",
+    "event_time": "2026-04-20T01:14:00",
+    "seen_at": "2026-04-19T23:21:21.900Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:14, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T01:19:00",
+    "seen_at": "2026-04-19T23:21:45.590Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:19, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "40893",
+    "event_time": "2026-04-20T01:22:00",
+    "seen_at": "2026-04-19T23:22:32.212Z",
+    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:22, kolodvor GARČIN"
   }
 ]
