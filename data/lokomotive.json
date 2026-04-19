@@ -1,69 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89929",
-    "event_time": "2026-04-16T07:57:00",
-    "seen_at": "2026-04-16T06:00:48.954Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 07:57, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89929",
-    "event_time": "2026-04-16T08:01:00",
-    "seen_at": "2026-04-16T06:01:52.793Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 08:01, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "GORNJA STUBICA",
-    "train_number": null,
-    "event_time": "2026-04-16T07:40:00",
-    "seen_at": "2026-04-16T06:05:15.271Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74504 GORNJA STUBICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89929",
-    "event_time": "2026-04-16T08:05:00",
-    "seen_at": "2026-04-16T06:05:40.436Z",
-    "raw": "Br. Vlaka 89929 odlazak      16.04.26. 08:05, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "GORNJA STUBICA",
-    "train_number": "81955",
-    "event_time": "2026-04-16T08:07:00",
-    "seen_at": "2026-04-16T06:07:46.770Z",
-    "raw": "Br. Vlaka 81955 formiran     16.04.26. 08:07, kolodvor GORNJA STUBICA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "NOVA GRADIŠKA",
-    "train_number": null,
-    "event_time": "2026-04-16T08:07:00",
-    "seen_at": "2026-04-16T06:07:46.771Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-16T08:09:00",
-    "seen_at": "2026-04-16T06:09:53.665Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "89929",
@@ -16864,5 +16801,41 @@
     "event_time": "2026-04-19T07:50:00",
     "seen_at": "2026-04-19T05:55:36.509Z",
     "raw": "Br. Vlaka 44996 odlazak      19.04.26. 07:50, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "81955",
+    "event_time": "2026-04-19T07:57:00",
+    "seen_at": "2026-04-19T06:01:40.832Z",
+    "raw": "Br. Vlaka 81955 dolazak      19.04.26. 07:57, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "81955",
+    "event_time": "2026-04-19T08:00:00",
+    "seen_at": "2026-04-19T06:02:26.194Z",
+    "raw": "Br. Vlaka 81955 odlazak      19.04.26. 08:00, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-19T08:06:00",
+    "seen_at": "2026-04-19T06:07:44.301Z",
+    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 08:06, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "81284",
+    "event_time": "2026-04-19T08:06:00",
+    "seen_at": "2026-04-19T06:09:37.616Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 08:06, kolodvor SUNJA"
   }
 ]
