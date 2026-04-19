@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "48581",
-    "event_time": "2026-04-16T18:08:00",
-    "seen_at": "2026-04-16T16:08:32.055Z",
-    "raw": "Br. Vlaka 48581 dolazak      16.04.26. 18:08, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81951",
-    "event_time": "2026-04-16T18:03:00",
-    "seen_at": "2026-04-16T16:09:39.492Z",
-    "raw": "Br. Vlaka 81951 dolazak      16.04.26. 18:03, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-16T18:10:00",
-    "seen_at": "2026-04-16T16:11:29.035Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-16T18:10:00",
-    "seen_at": "2026-04-16T16:11:29.035Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "48581",
-    "event_time": "2026-04-16T18:12:00",
-    "seen_at": "2026-04-16T16:12:59.107Z",
-    "raw": "Br. Vlaka 48581 odlazak      16.04.26. 18:12, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "43996",
-    "event_time": "2026-04-16T18:13:00",
-    "seen_at": "2026-04-16T16:14:06.418Z",
-    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 18:13, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -17674,5 +17620,14 @@
     "event_time": "2026-04-19T17:48:00",
     "seen_at": "2026-04-19T15:51:37.430Z",
     "raw": "Br. Vlaka 47981 dolazak      19.04.26. 17:48, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82529",
+    "event_time": "2026-04-19T18:05:00",
+    "seen_at": "2026-04-19T16:08:10.237Z",
+    "raw": "Br. Vlaka 82529 odlazak      19.04.26. 18:05, kolodvor BUDINŠĆINA"
   }
 ]
