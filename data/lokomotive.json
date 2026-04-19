@@ -2,15 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "81951",
-    "event_time": "2026-04-16T19:21:00",
-    "seen_at": "2026-04-16T17:21:42.325Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 19:21, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "MRZLO POLJE",
     "train_number": "81951",
     "event_time": "2026-04-16T19:28:00",
@@ -17602,5 +17593,23 @@
     "event_time": "2026-04-19T19:15:00",
     "seen_at": "2026-04-19T17:16:01.076Z",
     "raw": "Br. Vlaka 40893 odlazak      19.04.26. 19:15, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-19T19:26:00",
+    "seen_at": "2026-04-19T17:26:33.988Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "40893",
+    "event_time": "2026-04-19T19:27:00",
+    "seen_at": "2026-04-19T17:28:28.747Z",
+    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 19:27, kolodvor GREDA"
   }
 ]
