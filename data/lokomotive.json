@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89127",
-    "event_time": "2026-04-16T21:01:00",
-    "seen_at": "2026-04-16T19:02:23.226Z",
-    "raw": "Br. Vlaka 89127 odlazak      16.04.26. 21:01, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89764",
-    "event_time": "2026-04-16T21:01:00",
-    "seen_at": "2026-04-16T19:03:08.833Z",
-    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:01, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-16T21:05:00",
-    "seen_at": "2026-04-16T19:06:15.105Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81951",
-    "event_time": "2026-04-16T21:10:00",
-    "seen_at": "2026-04-16T19:10:39.225Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 21:10, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "89764",
-    "event_time": "2026-04-16T21:11:00",
-    "seen_at": "2026-04-16T19:11:46.350Z",
-    "raw": "Br. Vlaka 89764 odlazak      16.04.26. 21:11, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "SISAK",
@@ -17323,5 +17278,14 @@
     "event_time": "2026-04-19T19:50:00",
     "seen_at": "2026-04-19T18:47:56.365Z",
     "raw": "Br. Vlaka 81960 formiran     19.04.26. 19:50, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "43996",
+    "event_time": "2026-04-19T21:08:00",
+    "seen_at": "2026-04-19T19:11:02.112Z",
+    "raw": "Br. Vlaka 43996 odlazak      19.04.26. 21:08, kolodvor VARAŽDIN"
   }
 ]
