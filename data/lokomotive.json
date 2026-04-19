@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:44:00",
-    "seen_at": "2026-04-16T06:48:54.971Z",
-    "raw": "Br. Vlaka 89723 promjena sas 16.04.26. 08:44, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89723",
-    "event_time": "2026-04-16T08:44:00",
-    "seen_at": "2026-04-16T06:48:54.972Z",
-    "raw": "Br. Vlaka 89723 promjena sas 16.04.26. 08:44, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T08:49:00",
-    "seen_at": "2026-04-16T06:50:38.900Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:49, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T08:49:00",
-    "seen_at": "2026-04-16T06:50:38.901Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 08:49, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16828,5 +16792,59 @@
     "event_time": "2026-04-19T08:40:00",
     "seen_at": "2026-04-19T06:42:47.867Z",
     "raw": "Br. Vlaka 81952 odlazak      19.04.26. 08:40, kolodvor ČAGLIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44789",
+    "event_time": "2026-04-19T08:46:00",
+    "seen_at": "2026-04-19T06:50:01.822Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 08:46, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89540",
+    "event_time": "2026-04-19T08:50:00",
+    "seen_at": "2026-04-19T06:51:12.834Z",
+    "raw": "Br. Vlaka 89540 formiran     19.04.26. 08:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-19T08:48:00",
+    "seen_at": "2026-04-19T06:51:12.835Z",
+    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 08:48, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89540",
+    "event_time": "2026-04-19T08:48:00",
+    "seen_at": "2026-04-19T06:51:36.071Z",
+    "raw": "Br. Vlaka 89540 odlazak      19.04.26. 08:48, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "81284",
+    "event_time": "2026-04-19T08:53:00",
+    "seen_at": "2026-04-19T06:53:30.654Z",
+    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 08:53, kolodvor GREDA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44789",
+    "event_time": "2026-04-19T08:55:00",
+    "seen_at": "2026-04-19T06:56:59.845Z",
+    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 08:55, kolodvor MALA SUBOTICA"
   }
 ]
