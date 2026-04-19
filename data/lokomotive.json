@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43996",
-    "event_time": "2026-04-16T15:54:00",
-    "seen_at": "2026-04-16T13:56:11.694Z",
-    "raw": "Br. Vlaka 43996 odlazak      16.04.26. 15:54, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44786",
-    "event_time": "2026-04-16T16:00:00",
-    "seen_at": "2026-04-16T14:00:35.585Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 16:00, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-16T16:00:00",
-    "seen_at": "2026-04-16T14:01:43.853Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:00, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-16T16:00:00",
-    "seen_at": "2026-04-16T14:01:43.853Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 16:00, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620015",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -17431,5 +17395,77 @@
     "event_time": "2026-04-19T04:57:00",
     "seen_at": "2026-04-19T13:52:14.743Z",
     "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "48789",
+    "event_time": "2026-04-19T15:54:00",
+    "seen_at": "2026-04-19T13:55:56.102Z",
+    "raw": "Br. Vlaka 48789 odlazak      19.04.26. 15:54, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T15:55:00",
+    "seen_at": "2026-04-19T13:56:43.010Z",
+    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 15:55, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89921",
+    "event_time": "2026-04-19T15:55:00",
+    "seen_at": "2026-04-19T13:56:43.011Z",
+    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 15:55, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89126",
+    "event_time": "2026-04-19T15:56:00",
+    "seen_at": "2026-04-19T13:57:28.961Z",
+    "raw": "Br. Vlaka 89126 formiran     19.04.26. 15:56, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-18T21:04:00",
+    "seen_at": "2026-04-19T13:57:28.962Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89126",
+    "event_time": "2026-04-19T15:56:00",
+    "seen_at": "2026-04-19T13:57:51.760Z",
+    "raw": "Br. Vlaka 89126 formiran     19.04.26. 15:56, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "40893",
+    "event_time": "2026-04-19T15:58:00",
+    "seen_at": "2026-04-19T13:59:01.257Z",
+    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 15:58, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "40893",
+    "event_time": "2026-04-19T16:03:00",
+    "seen_at": "2026-04-19T14:03:16.860Z",
+    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 16:03, kolodvor 72302"
   }
 ]
