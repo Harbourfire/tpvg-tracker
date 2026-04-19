@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-04-16T21:49:00",
-    "seen_at": "2026-04-16T19:50:17.356Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -17215,5 +17206,23 @@
     "event_time": "2026-04-19T21:42:00",
     "seen_at": "2026-04-19T19:44:22.945Z",
     "raw": "Br. Vlaka 47981 odlazak      19.04.26. 21:42, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "81960",
+    "event_time": "2026-04-19T21:32:00",
+    "seen_at": "2026-04-19T19:51:56.404Z",
+    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:32, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "81960",
+    "event_time": "2026-04-19T21:47:00",
+    "seen_at": "2026-04-19T19:52:19.336Z",
+    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:47, kolodvor JANKOVCI"
   }
 ]
