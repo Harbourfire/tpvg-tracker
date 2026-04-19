@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T11:58:00",
-    "seen_at": "2026-04-16T10:01:14.454Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 11:58, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44787",
-    "event_time": "2026-04-16T11:58:00",
-    "seen_at": "2026-04-16T10:01:14.455Z",
-    "raw": "Br. Vlaka 44787 odlazak      16.04.26. 11:58, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "76505",
-    "event_time": "2026-04-16T12:01:00",
-    "seen_at": "2026-04-16T10:03:07.975Z",
-    "raw": "Br. Vlaka 76505 odlazak      16.04.26. 12:01, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "STARO PETROVO SELO",
@@ -17098,5 +17071,23 @@
     "event_time": "2026-04-19T11:51:00",
     "seen_at": "2026-04-19T09:53:07.713Z",
     "raw": "Br. Vlaka 82525 odlazak      19.04.26. 11:51, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "48786",
+    "event_time": "2026-04-19T11:55:00",
+    "seen_at": "2026-04-19T09:56:47.313Z",
+    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 11:55, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-19T12:01:00",
+    "seen_at": "2026-04-19T10:04:23.949Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
