@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44786",
-    "event_time": "2026-04-16T17:03:00",
-    "seen_at": "2026-04-16T15:13:01.295Z",
-    "raw": "Br. Vlaka 44786 odlazak      16.04.26. 17:03, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-04-16T04:00:00",
-    "seen_at": "2026-04-16T15:13:01.295Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-16T17:04:00",
-    "seen_at": "2026-04-16T15:13:01.295Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:04, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-16T17:04:00",
-    "seen_at": "2026-04-16T15:13:01.295Z",
-    "raw": "Br. Vlaka 63310 odlazak      16.04.26. 17:04, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44997",
-    "event_time": "2026-04-16T17:08:00",
-    "seen_at": "2026-04-16T15:15:41.633Z",
-    "raw": "Br. Vlaka 44997 dolazak      16.04.26. 17:08, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69821",
-    "event_time": "2026-04-16T17:15:00",
-    "seen_at": "2026-04-16T15:16:48.745Z",
-    "raw": "Br. Vlaka 69821 odlazak      16.04.26. 17:15, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "81951",
-    "event_time": "2026-04-16T17:15:00",
-    "seen_at": "2026-04-16T15:17:11.104Z",
-    "raw": "Br. Vlaka 81951 odlazak      16.04.26. 17:15, kolodvor ZAGREB GL. KOL."
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "MALA SUBOTICA",
@@ -17665,5 +17602,113 @@
     "event_time": "2026-04-19T17:04:00",
     "seen_at": "2026-04-19T15:05:22.594Z",
     "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:04, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89921",
+    "event_time": "2026-04-19T17:10:00",
+    "seen_at": "2026-04-19T15:11:14.149Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:10, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89921",
+    "event_time": "2026-04-19T17:10:00",
+    "seen_at": "2026-04-19T15:11:14.150Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:10, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-16T04:00:00",
+    "seen_at": "2026-04-19T15:13:30.355Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "47981",
+    "event_time": "2026-04-19T14:30:00",
+    "seen_at": "2026-04-19T15:16:30.789Z",
+    "raw": "Br. Vlaka 47981 promjena sas 19.04.26. 14:30, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81967",
+    "event_time": "2026-04-19T17:16:00",
+    "seen_at": "2026-04-19T15:16:30.789Z",
+    "raw": "Br. Vlaka 81967 dolazak      19.04.26. 17:16, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T17:09:00",
+    "seen_at": "2026-04-19T15:17:15.722Z",
+    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 17:09, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "47981",
+    "event_time": "2026-04-19T17:13:00",
+    "seen_at": "2026-04-19T15:17:15.722Z",
+    "raw": "Br. Vlaka 47981 odlazak      19.04.26. 17:13, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89126",
+    "event_time": "2026-04-19T17:09:00",
+    "seen_at": "2026-04-19T15:17:15.723Z",
+    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 17:09, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89921",
+    "event_time": "2026-04-19T17:15:00",
+    "seen_at": "2026-04-19T15:17:38.242Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:15, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "89921",
+    "event_time": "2026-04-19T17:15:00",
+    "seen_at": "2026-04-19T15:17:38.243Z",
+    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 17:15, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82529",
+    "event_time": "2026-04-19T17:16:00",
+    "seen_at": "2026-04-19T15:18:00.662Z",
+    "raw": "Br. Vlaka 82529 odlazak      19.04.26. 17:16, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-19T16:00:00",
+    "seen_at": "2026-04-19T15:18:00.663Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
