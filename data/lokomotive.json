@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-17T07:47:00",
-    "seen_at": "2026-04-17T05:53:39.814Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VRAPČANA",
-    "train_number": "45696",
-    "event_time": "2026-04-17T07:55:00",
-    "seen_at": "2026-04-17T05:55:48.947Z",
-    "raw": "Br. Vlaka 45696 formiran     17.04.26. 07:55, kolodvor VRAPČANA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T07:46:00",
-    "seen_at": "2026-04-17T05:56:11.784Z",
-    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 07:46, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T07:46:00",
-    "seen_at": "2026-04-17T05:56:11.785Z",
-    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 07:46, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Dolazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-17T07:56:00",
-    "seen_at": "2026-04-17T05:56:58.515Z",
-    "raw": "Br. Vlaka 71202 dolazak      17.04.26. 07:56, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Formiran",
-    "station": "OKUČANI",
-    "train_number": "71208",
-    "event_time": "2026-04-17T07:57:00",
-    "seen_at": "2026-04-17T05:58:07.506Z",
-    "raw": "Br. Vlaka 71208 formiran     17.04.26. 07:57, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "82119",
-    "event_time": "2026-04-17T07:58:00",
-    "seen_at": "2026-04-17T05:59:19.241Z",
-    "raw": "Br. Vlaka 82119 dolazak      17.04.26. 07:58, kolodvor PLETERNICA"
-  },
-  {
     "uic": "997894215703",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
@@ -16405,5 +16342,32 @@
     "event_time": "2026-04-20T07:47:00",
     "seen_at": "2026-04-20T05:48:38.271Z",
     "raw": "Br. Vlaka 76503 odlazak      20.04.26. 07:47, kolodvor GARČIN"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "89021",
+    "event_time": "2026-04-20T07:53:00",
+    "seen_at": "2026-04-20T05:53:50.578Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 07:53, kolodvor KUKAČA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76503",
+    "event_time": "2026-04-20T07:55:00",
+    "seen_at": "2026-04-20T05:55:46.537Z",
+    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 07:55, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "89021",
+    "event_time": "2026-04-20T07:58:00",
+    "seen_at": "2026-04-20T05:59:12.797Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 07:58, kolodvor OŠTARIJE"
   }
 ]
