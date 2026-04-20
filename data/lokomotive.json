@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89726",
-    "event_time": "2026-04-17T16:19:00",
-    "seen_at": "2026-04-17T14:19:31.644Z",
-    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 16:19, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-17T16:17:00",
-    "seen_at": "2026-04-17T14:19:54.587Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-17T16:17:00",
-    "seen_at": "2026-04-17T14:19:54.588Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T14:11:00",
-    "seen_at": "2026-04-17T14:21:26.290Z",
-    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 14:11, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T14:11:00",
-    "seen_at": "2026-04-17T14:21:26.291Z",
-    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 14:11, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -17170,5 +17125,32 @@
     "event_time": "2026-04-20T16:08:00",
     "seen_at": "2026-04-20T14:10:28.506Z",
     "raw": "Br. Vlaka 44787 dolazak      20.04.26. 16:08, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:15:00",
+    "seen_at": "2026-04-20T14:17:16.179Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:15, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:15:00",
+    "seen_at": "2026-04-20T14:17:16.179Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:15, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89408",
+    "event_time": "2026-04-20T16:21:00",
+    "seen_at": "2026-04-20T14:21:51.214Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 16:21, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
