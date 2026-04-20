@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-17T03:55:00",
-    "seen_at": "2026-04-17T02:05:40.275Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-17T03:55:00",
-    "seen_at": "2026-04-17T02:05:40.275Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "48581",
-    "event_time": "2026-04-17T04:04:00",
-    "seen_at": "2026-04-17T02:07:10.579Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 04:04, kolodvor KOŠKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "48581",
-    "event_time": "2026-04-17T04:04:00",
-    "seen_at": "2026-04-17T02:07:10.580Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 04:04, kolodvor KOŠKA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PRIMORSKI DOLAC",
-    "train_number": "81951",
-    "event_time": "2026-04-17T04:08:00",
-    "seen_at": "2026-04-17T02:10:01.216Z",
-    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 04:08, kolodvor PRIMORSKI DOLAC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81101",
-    "event_time": "2026-04-17T04:11:00",
-    "seen_at": "2026-04-17T02:11:10.452Z",
-    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 04:11, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81101",
-    "event_time": "2026-04-17T04:11:00",
-    "seen_at": "2026-04-17T02:11:10.453Z",
-    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 04:11, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -16702,5 +16639,14 @@
     "event_time": "2026-04-20T04:03:00",
     "seen_at": "2026-04-20T02:04:36.175Z",
     "raw": "Br. Vlaka 63306 odlazak      20.04.26. 04:03, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "JANKOVCI",
+    "train_number": "40893",
+    "event_time": "2026-04-20T04:10:00",
+    "seen_at": "2026-04-20T02:10:30.117Z",
+    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 04:10, kolodvor JANKOVCI"
   }
 ]
