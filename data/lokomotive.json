@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82330",
-    "event_time": "2026-04-17T12:34:00",
-    "seen_at": "2026-04-17T10:35:04.583Z",
-    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 12:34, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "81231",
-    "event_time": "2026-04-17T12:39:00",
-    "seen_at": "2026-04-17T10:41:12.893Z",
-    "raw": "Br. Vlaka 81231 dolazak      17.04.26. 12:39, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -17035,5 +17017,23 @@
     "event_time": "2026-04-20T12:30:00",
     "seen_at": "2026-04-20T10:31:25.451Z",
     "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:30, kolodvor MALOVAN"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-20T12:34:00",
+    "seen_at": "2026-04-20T10:36:44.358Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "ZRMANJA",
+    "train_number": "89021",
+    "event_time": "2026-04-20T12:40:00",
+    "seen_at": "2026-04-20T10:40:56.476Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:40, kolodvor ZRMANJA"
   }
 ]
