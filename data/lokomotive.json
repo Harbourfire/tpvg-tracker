@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": null,
-    "event_time": "2026-04-17T05:13:00",
-    "seen_at": "2026-04-17T03:17:33.432Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76661 SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "81962",
-    "event_time": "2026-04-17T04:56:00",
-    "seen_at": "2026-04-17T03:17:56.656Z",
-    "raw": "Br. Vlaka 81962 formiran     17.04.26. 04:56, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "ZABOK",
@@ -16594,5 +16576,14 @@
     "event_time": "2026-04-20T04:28:00",
     "seen_at": "2026-04-20T02:29:15.447Z",
     "raw": "Br. Vlaka 76503 formiran     20.04.26. 04:28, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-20T05:19:00",
+    "seen_at": "2026-04-20T03:20:13.654Z",
+    "raw": "Br. Vlaka 69326 formiran     20.04.26. 05:19, kolodvor SLAVONSKI BROD"
   }
 ]
