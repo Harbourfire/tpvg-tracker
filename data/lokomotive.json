@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SISAK CAPRAG",
-    "train_number": null,
-    "event_time": "2026-04-17T21:21:00",
-    "seen_at": "2026-04-17T19:24:34.896Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72103 SISAK CAPRAG"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81974",
-    "event_time": "2026-04-17T21:22:00",
-    "seen_at": "2026-04-17T19:27:14.502Z",
-    "raw": "Br. Vlaka 81974 dolazak      17.04.26. 21:22, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "OGULINSKI HRELJIN",
@@ -16873,5 +16855,41 @@
     "event_time": "2026-04-20T21:18:00",
     "seen_at": "2026-04-20T19:19:42.064Z",
     "raw": "Br. Vlaka 89408 odlazak      20.04.26. 21:18, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T21:22:00",
+    "seen_at": "2026-04-20T19:25:37.969Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T21:22:00",
+    "seen_at": "2026-04-20T19:25:37.970Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:50:00",
+    "seen_at": "2026-04-20T19:26:23.678Z",
+    "raw": "Br. Vlaka 44787 promjena sas 20.04.26. 16:50, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:50:00",
+    "seen_at": "2026-04-20T19:26:46.507Z",
+    "raw": "Br. Vlaka 44787 promjena sas 20.04.26. 16:50, kolodvor VARAŽDIN"
   }
 ]
