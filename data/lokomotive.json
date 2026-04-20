@@ -1,69 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "83807",
-    "event_time": "2026-04-17T21:12:00",
-    "seen_at": "2026-04-17T19:15:03.914Z",
-    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 21:12, kolodvor SISAK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "81974",
-    "event_time": "2026-04-17T21:15:00",
-    "seen_at": "2026-04-17T19:15:27.459Z",
-    "raw": "Br. Vlaka 81974 odlazak      17.04.26. 21:15, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "48588",
-    "event_time": "2026-04-17T21:15:00",
-    "seen_at": "2026-04-17T19:19:43.593Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 21:15, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "48588",
-    "event_time": "2026-04-17T21:15:00",
-    "seen_at": "2026-04-17T19:19:43.594Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 21:15, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "42786",
-    "event_time": "2026-04-17T21:20:00",
-    "seen_at": "2026-04-17T19:21:18.238Z",
-    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 21:20, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "81966",
-    "event_time": "2026-04-17T21:20:00",
-    "seen_at": "2026-04-17T19:22:51.461Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 21:20, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "83807",
-    "event_time": "2026-04-17T21:21:00",
-    "seen_at": "2026-04-17T19:23:37.440Z",
-    "raw": "Br. Vlaka 83807 dolazak      17.04.26. 21:21, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820440265",
     "type": "Rasformiran",
     "station": "SISAK CAPRAG",
     "train_number": null,
@@ -16909,5 +16846,32 @@
     "event_time": "2026-04-20T21:13:00",
     "seen_at": "2026-04-20T19:13:17.743Z",
     "raw": "Br. Vlaka 81105 dolazak      20.04.26. 21:13, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89708",
+    "event_time": "2026-04-20T21:15:00",
+    "seen_at": "2026-04-20T19:16:37.448Z",
+    "raw": "Br. Vlaka 89708 odlazak      20.04.26. 21:15, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89708",
+    "event_time": "2026-04-20T21:15:00",
+    "seen_at": "2026-04-20T19:16:37.449Z",
+    "raw": "Br. Vlaka 89708 odlazak      20.04.26. 21:15, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89408",
+    "event_time": "2026-04-20T21:18:00",
+    "seen_at": "2026-04-20T19:19:42.064Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 21:18, kolodvor ČAČINCI"
   }
 ]
