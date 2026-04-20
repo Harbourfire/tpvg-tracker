@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81231",
-    "event_time": "2026-04-17T11:07:00",
-    "seen_at": "2026-04-17T09:09:13.001Z",
-    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 11:07, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-17T11:07:00",
-    "seen_at": "2026-04-17T09:09:35.882Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 11:07, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-17T11:07:00",
-    "seen_at": "2026-04-17T09:09:35.883Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 11:07, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49999",
-    "event_time": "2026-04-17T11:13:00",
-    "seen_at": "2026-04-17T09:13:38.821Z",
-    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 11:13, kolodvor DONJI KRALJEVEC"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -16810,5 +16774,95 @@
     "event_time": "2026-04-20T11:07:00",
     "seen_at": "2026-04-20T09:08:02.108Z",
     "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:07, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215729",
+    "type": "Odlazak",
+    "station": "OGULINSKI HRELJIN",
+    "train_number": "75042",
+    "event_time": "2026-04-20T11:09:00",
+    "seen_at": "2026-04-20T09:10:33.477Z",
+    "raw": "Br. Vlaka 75042 odlazak      20.04.26. 11:09, kolodvor OGULINSKI HRELJIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69770",
+    "event_time": "2026-04-20T11:09:00",
+    "seen_at": "2026-04-20T09:10:56.538Z",
+    "raw": "Br. Vlaka 69770 odlazak      20.04.26. 11:09, kolodvor DARDA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-20T11:10:00",
+    "seen_at": "2026-04-20T09:11:19.459Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:11:00",
+    "seen_at": "2026-04-20T09:12:27.726Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:11, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:11:00",
+    "seen_at": "2026-04-20T09:12:27.727Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:11, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82321",
+    "event_time": "2026-04-20T11:10:00",
+    "seen_at": "2026-04-20T09:12:27.727Z",
+    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:10, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82321",
+    "event_time": "2026-04-20T11:10:00",
+    "seen_at": "2026-04-20T09:12:27.727Z",
+    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:10, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "82333",
+    "event_time": "2026-04-20T11:14:00",
+    "seen_at": "2026-04-20T09:14:21.236Z",
+    "raw": "Br. Vlaka 82333 formiran     20.04.26. 11:14, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "49996",
+    "train_number": null,
+    "event_time": "2026-04-20T09:14:21.237Z",
+    "seen_at": "2026-04-20T09:14:21.237Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Odlazak",
+    "station": "GOMIRJE",
+    "train_number": "75042",
+    "event_time": "2026-04-20T11:16:00",
+    "seen_at": "2026-04-20T09:17:47.106Z",
+    "raw": "Br. Vlaka 75042 odlazak      20.04.26. 11:16, kolodvor GOMIRJE"
   }
 ]
