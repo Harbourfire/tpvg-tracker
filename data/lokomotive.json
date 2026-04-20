@@ -1,122 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T16:55:00",
-    "seen_at": "2026-04-17T14:59:31.386Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:55, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T16:55:00",
-    "seen_at": "2026-04-17T14:59:31.387Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:55, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "48588",
-    "event_time": "2026-04-17T16:59:00",
-    "seen_at": "2026-04-17T15:00:40.000Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 16:59, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "48588",
-    "event_time": "2026-04-17T16:59:00",
-    "seen_at": "2026-04-17T15:00:40.001Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 16:59, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KNIN",
-    "train_number": "81966",
-    "event_time": "2026-04-17T17:06:00",
-    "seen_at": "2026-04-17T15:10:01.346Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 17:06, kolodvor KNIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89726",
-    "event_time": "2026-04-17T17:10:00",
-    "seen_at": "2026-04-17T15:10:39.223Z",
-    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 17:10, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "48588",
-    "event_time": "2026-04-17T17:10:00",
-    "seen_at": "2026-04-17T15:11:24.952Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:10, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44789",
-    "event_time": "2026-04-17T17:10:00",
-    "seen_at": "2026-04-17T15:11:24.952Z",
-    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 17:10, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "48588",
-    "event_time": "2026-04-17T17:10:00",
-    "seen_at": "2026-04-17T15:11:24.953Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 17:10, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44789",
-    "event_time": "2026-04-17T17:10:00",
-    "seen_at": "2026-04-17T15:11:24.953Z",
-    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 17:10, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-16T16:04:00",
-    "seen_at": "2026-04-17T15:13:42.799Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-16T16:04:00",
-    "seen_at": "2026-04-17T15:13:42.800Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-17T17:16:00",
-    "seen_at": "2026-04-17T15:17:52.474Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "GARČIN",
@@ -17098,5 +16981,95 @@
     "event_time": "2026-04-20T16:54:00",
     "seen_at": "2026-04-20T14:57:19.481Z",
     "raw": "Br. Vlaka 82146 dolazak      20.04.26. 16:54, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:50:00",
+    "seen_at": "2026-04-20T15:09:08.737Z",
+    "raw": "Br. Vlaka 44787 promjena sas 20.04.26. 16:50, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:50:00",
+    "seen_at": "2026-04-20T15:09:08.738Z",
+    "raw": "Br. Vlaka 44787 promjena sas 20.04.26. 16:50, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "89408",
+    "event_time": "2026-04-20T17:05:00",
+    "seen_at": "2026-04-20T15:09:08.738Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 17:05, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T14:04:00",
+    "seen_at": "2026-04-20T15:10:17.893Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82131",
+    "event_time": "2026-04-20T10:55:00",
+    "seen_at": "2026-04-20T15:10:17.894Z",
+    "raw": "Br. Vlaka 82131 formiran     20.04.26. 10:55, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T14:04:00",
+    "seen_at": "2026-04-20T15:10:17.894Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82131",
+    "event_time": "2026-04-20T10:55:00",
+    "seen_at": "2026-04-20T15:10:40.450Z",
+    "raw": "Br. Vlaka 82131 formiran     20.04.26. 10:55, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "46897",
+    "event_time": "2026-04-20T17:07:00",
+    "seen_at": "2026-04-20T15:10:40.450Z",
+    "raw": "Br. Vlaka 46897 odlazak      20.04.26. 17:07, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-20T12:04:00",
+    "seen_at": "2026-04-20T15:16:44.203Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "81105",
+    "event_time": "2026-04-20T17:16:00",
+    "seen_at": "2026-04-20T15:17:07.254Z",
+    "raw": "Br. Vlaka 81105 formiran     20.04.26. 17:16, kolodvor ČAKOVEC"
   }
 ]
