@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-17T10:00:00",
-    "seen_at": "2026-04-17T07:08:06.679Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T09:08:00",
-    "seen_at": "2026-04-17T07:08:29.715Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:08, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T09:08:00",
-    "seen_at": "2026-04-17T07:08:29.716Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:08, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82119",
-    "event_time": "2026-04-17T09:09:00",
-    "seen_at": "2026-04-17T07:09:39.093Z",
-    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 09:09, kolodvor POŽEGA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -16549,5 +16513,50 @@
     "event_time": "2026-04-20T09:02:00",
     "seen_at": "2026-04-20T07:04:30.915Z",
     "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:02, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "89021",
+    "event_time": "2026-04-20T09:09:00",
+    "seen_at": "2026-04-20T07:09:42.469Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:09, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82321",
+    "event_time": "2026-04-20T09:08:00",
+    "seen_at": "2026-04-20T07:10:05.323Z",
+    "raw": "Br. Vlaka 82321 formiran     20.04.26. 09:08, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82321",
+    "event_time": "2026-04-20T09:08:00",
+    "seen_at": "2026-04-20T07:10:27.834Z",
+    "raw": "Br. Vlaka 82321 formiran     20.04.26. 09:08, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:15:00",
+    "seen_at": "2026-04-20T07:15:21.871Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:15, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:15:00",
+    "seen_at": "2026-04-20T07:15:21.872Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:15, kolodvor ZABOK"
   }
 ]
