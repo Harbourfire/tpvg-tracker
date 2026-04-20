@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "83807",
-    "event_time": "2026-04-17T18:42:00",
-    "seen_at": "2026-04-17T16:43:02.680Z",
-    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 18:42, kolodvor GREDA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "IVANIĆ GRAD",
-    "train_number": "82333",
-    "event_time": "2026-04-17T18:45:00",
-    "seen_at": "2026-04-17T16:45:32.588Z",
-    "raw": "Br. Vlaka 82333 formiran     17.04.26. 18:45, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "49999",
-    "event_time": "2026-04-17T18:40:00",
-    "seen_at": "2026-04-17T16:45:55.764Z",
-    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 18:40, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "47987",
-    "event_time": "2026-04-17T18:45:00",
-    "seen_at": "2026-04-17T16:46:42.165Z",
-    "raw": "Br. Vlaka 47987 dolazak      17.04.26. 18:45, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49999",
-    "event_time": "2026-04-17T18:47:00",
-    "seen_at": "2026-04-17T16:48:15.172Z",
-    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 18:47, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "81966",
-    "event_time": "2026-04-17T18:46:00",
-    "seen_at": "2026-04-17T16:48:38.164Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 18:46, kolodvor LOVINAC"
-  },
-  {
-    "uic": "927820440265",
     "type": "Dolazak",
     "station": "SISAK",
     "train_number": "83807",
@@ -16855,5 +16801,14 @@
     "event_time": "2026-04-20T18:39:00",
     "seen_at": "2026-04-20T16:40:09.178Z",
     "raw": "Br. Vlaka 82131 odlazak      20.04.26. 18:39, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-20T18:43:00",
+    "seen_at": "2026-04-20T16:43:31.623Z",
+    "raw": "Br. Vlaka 49999 formiran     20.04.26. 18:43, kolodvor KOTORIBA-GR"
   }
 ]
