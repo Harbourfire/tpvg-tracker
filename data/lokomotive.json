@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "81972",
-    "event_time": "2026-04-18T00:35:00",
-    "seen_at": "2026-04-17T22:36:47.048Z",
-    "raw": "Br. Vlaka 81972 odlazak      18.04.26. 00:35, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "BAKAR",
-    "train_number": "81966",
-    "event_time": "2026-04-18T00:37:00",
-    "seen_at": "2026-04-17T22:39:26.279Z",
-    "raw": "Br. Vlaka 81966 dolazak      18.04.26. 00:37, kolodvor 75601"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "BAKAR",
-    "train_number": null,
-    "event_time": "2026-04-18T00:37:00",
-    "seen_at": "2026-04-17T22:39:49.116Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75601 75601"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "83805",
-    "event_time": "2026-04-18T00:39:00",
-    "seen_at": "2026-04-17T22:41:07.438Z",
-    "raw": "Br. Vlaka 83805 odlazak      18.04.26. 00:39, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "BAKAR",
-    "train_number": "83813",
-    "event_time": "2026-04-18T00:02:00",
-    "seen_at": "2026-04-17T22:41:30.720Z",
-    "raw": "Br. Vlaka 83813 formiran     18.04.26. 00:02, kolodvor 75601"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -17035,5 +16990,41 @@
     "event_time": "2026-04-21T00:27:00",
     "seen_at": "2026-04-20T22:27:35.682Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82156",
+    "event_time": "2026-04-21T00:34:00",
+    "seen_at": "2026-04-20T22:35:04.972Z",
+    "raw": "Br. Vlaka 82156 formiran     21.04.26. 00:34, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82156",
+    "event_time": "2026-04-21T00:34:00",
+    "seen_at": "2026-04-20T22:35:04.972Z",
+    "raw": "Br. Vlaka 82156 formiran     21.04.26. 00:34, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89148",
+    "event_time": "2026-04-21T00:37:00",
+    "seen_at": "2026-04-20T22:39:47.881Z",
+    "raw": "Br. Vlaka 89148 odlazak      21.04.26. 00:37, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-21T00:40:00",
+    "seen_at": "2026-04-20T22:40:57.483Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
