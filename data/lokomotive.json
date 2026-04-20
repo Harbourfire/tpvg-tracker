@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89755",
-    "event_time": "2026-04-17T20:53:00",
-    "seen_at": "2026-04-17T18:58:19.903Z",
-    "raw": "Br. Vlaka 89755 dolazak      17.04.26. 20:53, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "42786",
-    "event_time": "2026-04-17T20:57:00",
-    "seen_at": "2026-04-17T18:58:19.905Z",
-    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 20:57, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89755",
-    "event_time": "2026-04-17T20:56:00",
-    "seen_at": "2026-04-17T18:58:42.486Z",
-    "raw": "Br. Vlaka 89755 odlazak      17.04.26. 20:56, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "82333",
-    "event_time": "2026-04-17T21:03:00",
-    "seen_at": "2026-04-17T19:03:36.763Z",
-    "raw": "Br. Vlaka 82333 dolazak      17.04.26. 21:03, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "LUKA",
-    "train_number": null,
-    "event_time": "2026-04-17T21:00:00",
-    "seen_at": "2026-04-17T19:03:36.763Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
-  },
-  {
-    "uic": "927820620015",
     "type": "Formiran",
     "station": "LUKA",
     "train_number": "83804",
@@ -16927,5 +16882,41 @@
     "event_time": "2026-04-20T20:49:00",
     "seen_at": "2026-04-20T18:51:12.298Z",
     "raw": "Br. Vlaka 81105 odlazak      20.04.26. 20:49, kolodvor LUKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "81105",
+    "event_time": "2026-04-20T20:58:00",
+    "seen_at": "2026-04-20T18:58:41.262Z",
+    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 20:58, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89708",
+    "event_time": "2026-04-20T20:59:00",
+    "seen_at": "2026-04-20T18:59:27.484Z",
+    "raw": "Br. Vlaka 89708 odlazak      20.04.26. 20:59, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89708",
+    "event_time": "2026-04-20T20:59:00",
+    "seen_at": "2026-04-20T18:59:27.485Z",
+    "raw": "Br. Vlaka 89708 odlazak      20.04.26. 20:59, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81105",
+    "event_time": "2026-04-20T21:03:00",
+    "seen_at": "2026-04-20T19:03:46.906Z",
+    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 21:03, kolodvor ZAPREŠIĆ"
   }
 ]
