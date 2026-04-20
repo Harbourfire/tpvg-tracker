@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81972",
-    "event_time": "2026-04-17T21:45:00",
-    "seen_at": "2026-04-17T19:46:34.944Z",
-    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 21:45, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GOMIRJE",
-    "train_number": "81966",
-    "event_time": "2026-04-17T21:45:00",
-    "seen_at": "2026-04-17T19:46:57.290Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 21:45, kolodvor GOMIRJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "82333",
-    "event_time": "2026-04-17T21:48:00",
-    "seen_at": "2026-04-17T19:50:20.778Z",
-    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 21:48, kolodvor LIPOVLJANI"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -16900,5 +16873,41 @@
     "event_time": "2026-04-20T21:39:00",
     "seen_at": "2026-04-20T19:42:28.087Z",
     "raw": "Br. Vlaka 44787 odlazak      20.04.26. 21:39, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-20T21:45:00",
+    "seen_at": "2026-04-20T19:46:52.428Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 21:45, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-20T21:45:00",
+    "seen_at": "2026-04-20T19:46:52.428Z",
+    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 21:45, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T21:48:00",
+    "seen_at": "2026-04-20T19:49:57.935Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 21:48, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T21:48:00",
+    "seen_at": "2026-04-20T19:49:57.936Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 21:48, kolodvor TURČIN"
   }
 ]
