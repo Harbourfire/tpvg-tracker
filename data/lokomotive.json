@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71203",
-    "event_time": "2026-04-17T10:13:00",
-    "seen_at": "2026-04-17T08:14:43.863Z",
-    "raw": "Br. Vlaka 71203 odlazak      17.04.26. 10:13, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44996",
-    "event_time": "2026-04-17T10:16:00",
-    "seen_at": "2026-04-17T08:17:00.141Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 10:16, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44996",
-    "event_time": "2026-04-17T10:16:00",
-    "seen_at": "2026-04-17T08:17:00.142Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 10:16, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "69350",
-    "event_time": "2026-04-17T10:19:00",
-    "seen_at": "2026-04-17T08:20:17.094Z",
-    "raw": "Br. Vlaka 69350 odlazak      17.04.26. 10:19, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ŠIBENIK",
-    "train_number": "81964",
-    "event_time": "2026-04-17T10:18:00",
-    "seen_at": "2026-04-17T08:20:39.579Z",
-    "raw": "Br. Vlaka 81964 odlazak      17.04.26. 10:18, kolodvor ŠIBENIK"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "VELIKA",
@@ -16702,5 +16657,32 @@
     "event_time": "2026-04-20T10:10:00",
     "seen_at": "2026-04-20T08:11:32.517Z",
     "raw": "Br. Vlaka 76502 dolazak      20.04.26. 10:10, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "82331",
+    "event_time": "2026-04-20T10:14:00",
+    "seen_at": "2026-04-20T08:15:35.226Z",
+    "raw": "Br. Vlaka 82331 dolazak      20.04.26. 10:14, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76502",
+    "event_time": "2026-04-20T10:17:00",
+    "seen_at": "2026-04-20T08:17:52.646Z",
+    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 10:17, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Dolazak",
+    "station": "LOVINAC",
+    "train_number": "89021",
+    "event_time": "2026-04-20T10:17:00",
+    "seen_at": "2026-04-20T08:20:55.420Z",
+    "raw": "Br. Vlaka 89021 dolazak      20.04.26. 10:17, kolodvor LOVINAC"
   }
 ]
