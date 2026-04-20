@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-17T15:07:00",
-    "seen_at": "2026-04-17T13:08:41.847Z",
-    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 15:07, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "83809",
-    "event_time": "2026-04-17T15:08:00",
-    "seen_at": "2026-04-17T13:09:04.606Z",
-    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:08, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "83809",
-    "event_time": "2026-04-17T15:08:00",
-    "seen_at": "2026-04-17T13:09:04.607Z",
-    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:08, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "61201",
-    "event_time": "2026-04-17T15:07:00",
-    "seen_at": "2026-04-17T13:09:27.350Z",
-    "raw": "Br. Vlaka 61201 odlazak      17.04.26. 15:07, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45980",
-    "event_time": "2026-04-17T15:10:00",
-    "seen_at": "2026-04-17T13:12:07.066Z",
-    "raw": "Br. Vlaka 45980 dolazak      17.04.26. 15:10, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -17062,5 +17017,68 @@
     "event_time": "2026-04-20T14:56:00",
     "seen_at": "2026-04-20T12:59:36.863Z",
     "raw": "Br. Vlaka 89408 odlazak      20.04.26. 14:56, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44789",
+    "event_time": "2026-04-20T15:06:00",
+    "seen_at": "2026-04-20T13:06:14.279Z",
+    "raw": "Br. Vlaka 44789 formiran     20.04.26. 15:06, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "89408",
+    "event_time": "2026-04-20T15:06:00",
+    "seen_at": "2026-04-20T13:09:16.712Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:06, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76501",
+    "event_time": "2026-04-20T15:10:00",
+    "seen_at": "2026-04-20T13:10:25.116Z",
+    "raw": "Br. Vlaka 76501 dolazak      20.04.26. 15:10, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-20T15:10:00",
+    "seen_at": "2026-04-20T13:10:49.198Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "89408",
+    "event_time": "2026-04-20T15:14:00",
+    "seen_at": "2026-04-20T13:14:13.395Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:14, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82146",
+    "event_time": "2026-04-20T15:13:00",
+    "seen_at": "2026-04-20T13:14:13.395Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:13, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82146",
+    "event_time": "2026-04-20T15:13:00",
+    "seen_at": "2026-04-20T13:14:13.395Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:13, kolodvor PERUŠIĆ"
   }
 ]
