@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-17T10:24:00",
-    "seen_at": "2026-04-17T08:41:13.506Z",
-    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 10:24, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-17T10:24:00",
-    "seen_at": "2026-04-17T08:41:13.507Z",
-    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 10:24, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "81231",
-    "event_time": "2026-04-17T10:42:00",
-    "seen_at": "2026-04-17T08:43:07.616Z",
-    "raw": "Br. Vlaka 81231 formiran     17.04.26. 10:42, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -16657,5 +16630,86 @@
     "event_time": "2026-04-20T10:26:00",
     "seen_at": "2026-04-20T08:35:42.304Z",
     "raw": "Br. Vlaka 69770 odlazak      20.04.26. 10:26, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "82331",
+    "event_time": "2026-04-20T10:41:00",
+    "seen_at": "2026-04-20T08:41:52.857Z",
+    "raw": "Br. Vlaka 82331 odlazak      20.04.26. 10:41, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "69770",
+    "event_time": "2026-04-20T10:41:00",
+    "seen_at": "2026-04-20T08:43:01.622Z",
+    "raw": "Br. Vlaka 69770 dolazak      20.04.26. 10:41, kolodvor DARDA"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-20T10:42:00",
+    "seen_at": "2026-04-20T08:43:24.650Z",
+    "raw": "Br. Vlaka 71204 formiran     20.04.26. 10:42, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44998",
+    "event_time": "2026-04-20T10:40:00",
+    "seen_at": "2026-04-20T08:44:33.221Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 10:40, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44998",
+    "event_time": "2026-04-20T10:40:00",
+    "seen_at": "2026-04-20T08:44:33.222Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 10:40, kolodvor 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "82328",
+    "event_time": "2026-04-20T10:28:00",
+    "seen_at": "2026-04-20T08:44:55.936Z",
+    "raw": "Br. Vlaka 82328 dolazak      20.04.26. 10:28, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82328",
+    "event_time": "2026-04-20T10:43:00",
+    "seen_at": "2026-04-20T08:45:18.684Z",
+    "raw": "Br. Vlaka 82328 odlazak      20.04.26. 10:43, kolodvor TURČIN"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "GARČIN",
+    "train_number": null,
+    "event_time": "2026-04-20T08:40:00",
+    "seen_at": "2026-04-20T08:45:41.379Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "75042",
+    "event_time": "2026-04-20T10:46:00",
+    "seen_at": "2026-04-20T08:47:12.839Z",
+    "raw": "Br. Vlaka 75042 formiran     20.04.26. 10:46, kolodvor OŠTARIJE"
   }
 ]
