@@ -2,51 +2,6 @@
   {
     "uic": "927820621104",
     "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82330",
-    "event_time": "2026-04-17T12:24:00",
-    "seen_at": "2026-04-17T10:25:57.533Z",
-    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 12:24, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "66481",
-    "event_time": "2026-04-17T12:22:00",
-    "seen_at": "2026-04-17T10:27:06.508Z",
-    "raw": "Br. Vlaka 66481 dolazak      17.04.26. 12:22, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-17T12:22:00",
-    "seen_at": "2026-04-17T10:27:29.306Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PERKOVIĆ",
-    "train_number": "81965",
-    "event_time": "2026-04-17T12:25:00",
-    "seen_at": "2026-04-17T10:31:36.103Z",
-    "raw": "Br. Vlaka 81965 odlazak      17.04.26. 12:25, kolodvor PERKOVIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81231",
-    "event_time": "2026-04-17T12:31:00",
-    "seen_at": "2026-04-17T10:32:22.797Z",
-    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 12:31, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
     "train_number": "82330",
     "event_time": "2026-04-17T12:34:00",
@@ -17053,5 +17008,32 @@
     "event_time": "2026-04-20T12:23:00",
     "seen_at": "2026-04-20T10:24:52.178Z",
     "raw": "Br. Vlaka 82321 dolazak      20.04.26. 12:23, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82333",
+    "event_time": "2026-04-20T12:27:00",
+    "seen_at": "2026-04-20T10:27:54.164Z",
+    "raw": "Br. Vlaka 82333 dolazak      20.04.26. 12:27, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "75011",
+    "event_time": "2026-04-20T12:29:00",
+    "seen_at": "2026-04-20T10:30:15.597Z",
+    "raw": "Br. Vlaka 75011 odlazak      20.04.26. 12:29, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "MALOVAN",
+    "train_number": "89021",
+    "event_time": "2026-04-20T12:30:00",
+    "seen_at": "2026-04-20T10:31:25.451Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:30, kolodvor MALOVAN"
   }
 ]
