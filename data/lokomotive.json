@@ -2,60 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89749",
-    "event_time": "2026-04-17T18:10:00",
-    "seen_at": "2026-04-17T16:15:39.201Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 18:10, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "83807",
-    "event_time": "2026-04-17T18:16:00",
-    "seen_at": "2026-04-17T16:17:27.694Z",
-    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 18:16, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "89749",
-    "event_time": "2026-04-17T18:16:00",
-    "seen_at": "2026-04-17T16:17:27.694Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 18:16, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-17T18:16:00",
-    "seen_at": "2026-04-17T16:18:36.695Z",
-    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 18:16, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "GRAČAC",
-    "train_number": "81966",
-    "event_time": "2026-04-17T18:19:00",
-    "seen_at": "2026-04-17T16:19:21.852Z",
-    "raw": "Br. Vlaka 81966 dolazak      17.04.26. 18:19, kolodvor GRAČAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-17T18:23:00",
-    "seen_at": "2026-04-17T16:23:55.600Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "HORVATI",
     "train_number": "89749",
     "event_time": "2026-04-17T18:24:00",
@@ -16927,5 +16873,14 @@
     "event_time": "2026-04-20T18:07:00",
     "seen_at": "2026-04-20T16:08:13.065Z",
     "raw": "Br. Vlaka 89408 odlazak      20.04.26. 18:07, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-20T18:22:00",
+    "seen_at": "2026-04-20T16:22:53.937Z",
+    "raw": "Br. Vlaka 69006 odlazak      20.04.26. 18:22, kolodvor OŠTARIJE"
   }
 ]
