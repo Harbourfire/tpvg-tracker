@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49999",
-    "event_time": "2026-04-17T10:52:00",
-    "seen_at": "2026-04-17T08:53:33.474Z",
-    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 10:52, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -16711,5 +16702,86 @@
     "event_time": "2026-04-20T10:46:00",
     "seen_at": "2026-04-20T08:47:12.839Z",
     "raw": "Br. Vlaka 75042 formiran     20.04.26. 10:46, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "44998",
+    "event_time": "2026-04-20T10:48:00",
+    "seen_at": "2026-04-20T08:52:06.207Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 10:48, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "44998",
+    "event_time": "2026-04-20T10:48:00",
+    "seen_at": "2026-04-20T08:52:06.208Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 10:48, kolodvor 72302"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "44998",
+    "event_time": "2026-04-20T10:53:00",
+    "seen_at": "2026-04-20T08:54:00.093Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 10:53, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "44998",
+    "event_time": "2026-04-20T10:53:00",
+    "seen_at": "2026-04-20T08:54:00.094Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 10:53, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "76502",
+    "event_time": "2026-04-20T10:53:00",
+    "seen_at": "2026-04-20T08:55:54.380Z",
+    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 10:53, kolodvor GARČIN"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "75042",
+    "event_time": "2026-04-20T10:55:00",
+    "seen_at": "2026-04-20T08:57:03.700Z",
+    "raw": "Br. Vlaka 75042 odlazak      20.04.26. 10:55, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T10:54:00",
+    "seen_at": "2026-04-20T08:57:49.507Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-20T10:57:00",
+    "seen_at": "2026-04-20T08:58:34.800Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "DRENOVCI",
+    "train_number": "82332",
+    "event_time": "2026-04-20T04:50:00",
+    "seen_at": "2026-04-20T08:59:42.594Z",
+    "raw": "Br. Vlaka 82332 formiran     20.04.26. 04:50, kolodvor DRENOVCI"
   }
 ]
