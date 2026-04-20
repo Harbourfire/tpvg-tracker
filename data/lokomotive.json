@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "KUTINA",
-    "train_number": "82333",
-    "event_time": "2026-04-17T20:27:00",
-    "seen_at": "2026-04-17T18:27:19.101Z",
-    "raw": "Br. Vlaka 82333 dolazak      17.04.26. 20:27, kolodvor KUTINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81966",
-    "event_time": "2026-04-17T20:29:00",
-    "seen_at": "2026-04-17T18:31:44.837Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 20:29, kolodvor BLATA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "42786",
-    "event_time": "2026-04-17T20:31:00",
-    "seen_at": "2026-04-17T18:32:31.952Z",
-    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 20:31, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -16936,5 +16909,41 @@
     "event_time": "2026-04-20T20:24:00",
     "seen_at": "2026-04-20T18:24:55.466Z",
     "raw": "Br. Vlaka 81105 odlazak      20.04.26. 20:24, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-20T20:29:00",
+    "seen_at": "2026-04-20T18:32:23.378Z",
+    "raw": "Br. Vlaka 49999 dolazak      20.04.26. 20:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81105",
+    "event_time": "2026-04-20T20:32:00",
+    "seen_at": "2026-04-20T18:33:54.966Z",
+    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 20:32, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-20T20:29:00",
+    "seen_at": "2026-04-20T18:34:18.447Z",
+    "raw": "Br. Vlaka 49999 promjena sas 20.04.26. 20:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49999",
+    "event_time": "2026-04-20T20:29:00",
+    "seen_at": "2026-04-20T18:34:18.447Z",
+    "raw": "Br. Vlaka 49999 promjena sas 20.04.26. 20:29, kolodvor VARAŽDIN"
   }
 ]
