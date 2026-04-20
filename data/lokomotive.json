@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49999",
-    "event_time": "2026-04-17T11:47:00",
-    "seen_at": "2026-04-17T09:58:11.451Z",
-    "raw": "Br. Vlaka 49999 dolazak      17.04.26. 11:47, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82330",
-    "event_time": "2026-04-17T11:59:00",
-    "seen_at": "2026-04-17T10:00:43.286Z",
-    "raw": "Br. Vlaka 82330 dolazak      17.04.26. 11:59, kolodvor POŽEGA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81231",
-    "event_time": "2026-04-17T12:01:00",
-    "seen_at": "2026-04-17T10:02:36.895Z",
-    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 12:01, kolodvor BLATA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "66481",
-    "event_time": "2026-04-17T12:04:00",
-    "seen_at": "2026-04-17T10:05:18.210Z",
-    "raw": "Br. Vlaka 66481 odlazak      17.04.26. 12:04, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -17008,5 +16972,41 @@
     "event_time": "2026-04-20T11:53:00",
     "seen_at": "2026-04-20T09:55:03.010Z",
     "raw": "Br. Vlaka 44998 dolazak      20.04.26. 11:53, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "82333",
+    "event_time": "2026-04-20T12:00:00",
+    "seen_at": "2026-04-20T10:00:32.133Z",
+    "raw": "Br. Vlaka 82333 odlazak      20.04.26. 12:00, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:01:00",
+    "seen_at": "2026-04-20T10:03:58.184Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:01, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:01:00",
+    "seen_at": "2026-04-20T10:03:58.185Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:01, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "82332",
+    "event_time": "2026-04-20T12:01:00",
+    "seen_at": "2026-04-20T10:05:06.296Z",
+    "raw": "Br. Vlaka 82332 odlazak      20.04.26. 12:01, kolodvor SPAČVA"
   }
 ]
