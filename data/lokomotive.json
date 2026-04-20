@@ -2,69 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ČAČINCI",
-    "train_number": "48588",
-    "event_time": "2026-04-17T09:30:00",
-    "seen_at": "2026-04-17T07:36:35.953Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:30, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ČAČINCI",
-    "train_number": "48588",
-    "event_time": "2026-04-17T09:30:00",
-    "seen_at": "2026-04-17T07:36:35.954Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:30, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "48588",
-    "event_time": "2026-04-17T09:40:00",
-    "seen_at": "2026-04-17T07:40:59.906Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:40, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "48588",
-    "event_time": "2026-04-17T09:40:00",
-    "seen_at": "2026-04-17T07:40:59.906Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 09:40, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "82119",
-    "event_time": "2026-04-17T09:26:00",
-    "seen_at": "2026-04-17T07:41:23.236Z",
-    "raw": "Br. Vlaka 82119 dolazak      17.04.26. 09:26, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-04-16T12:00:00",
-    "seen_at": "2026-04-17T07:41:45.951Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "69350",
-    "event_time": "2026-04-17T09:42:00",
-    "seen_at": "2026-04-17T07:42:33.988Z",
-    "raw": "Br. Vlaka 69350 formiran     17.04.26. 09:42, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "ĐURĐENOVAC",
     "train_number": "48588",
     "event_time": "2026-04-17T09:51:00",
@@ -16648,5 +16585,59 @@
     "event_time": "2026-04-20T08:34:00",
     "seen_at": "2026-04-20T07:31:59.848Z",
     "raw": "Br. Vlaka 49827 promjena sas 20.04.26. 08:34, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "82331",
+    "event_time": "2026-04-20T09:37:00",
+    "seen_at": "2026-04-20T07:37:45.905Z",
+    "raw": "Br. Vlaka 82331 odlazak      20.04.26. 09:37, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76502",
+    "event_time": "2026-04-20T09:36:00",
+    "seen_at": "2026-04-20T07:37:45.906Z",
+    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 09:36, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:39:00",
+    "seen_at": "2026-04-20T07:40:26.141Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:39, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:39:00",
+    "seen_at": "2026-04-20T07:40:26.141Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:39, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82328",
+    "event_time": "2026-04-20T09:35:00",
+    "seen_at": "2026-04-20T07:42:43.235Z",
+    "raw": "Br. Vlaka 82328 odlazak      20.04.26. 09:35, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "89021",
+    "event_time": "2026-04-20T09:42:00",
+    "seen_at": "2026-04-20T07:43:51.852Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:42, kolodvor PERUŠIĆ"
   }
 ]
