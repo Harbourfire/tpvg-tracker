@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "RAŽINE",
-    "train_number": "81965",
-    "event_time": "2026-04-17T11:42:00",
-    "seen_at": "2026-04-17T09:47:23.555Z",
-    "raw": "Br. Vlaka 81965 odlazak      17.04.26. 11:42, kolodvor RAŽINE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "82330",
-    "event_time": "2026-04-17T11:46:00",
-    "seen_at": "2026-04-17T09:47:46.046Z",
-    "raw": "Br. Vlaka 82330 odlazak      17.04.26. 11:46, kolodvor VELIKA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81231",
-    "event_time": "2026-04-17T11:47:00",
-    "seen_at": "2026-04-17T09:50:56.966Z",
-    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 11:47, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BIZOVAC",
-    "train_number": "48588",
-    "event_time": "2026-04-17T11:40:00",
-    "seen_at": "2026-04-17T09:52:56.687Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 11:40, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "BIZOVAC",
-    "train_number": "48588",
-    "event_time": "2026-04-17T11:40:00",
-    "seen_at": "2026-04-17T09:52:56.687Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 11:40, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44996",
-    "event_time": "2026-04-17T11:21:00",
-    "seen_at": "2026-04-17T09:53:19.259Z",
-    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 11:21, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44996",
-    "event_time": "2026-04-17T11:21:00",
-    "seen_at": "2026-04-17T09:53:19.260Z",
-    "raw": "Br. Vlaka 44996 dolazak      17.04.26. 11:21, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "66481",
-    "event_time": "2026-04-17T11:53:00",
-    "seen_at": "2026-04-17T09:54:27.074Z",
-    "raw": "Br. Vlaka 66481 odlazak      17.04.26. 11:53, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -17017,5 +16945,68 @@
     "event_time": "2026-04-20T11:45:00",
     "seen_at": "2026-04-20T09:46:48.970Z",
     "raw": "Br. Vlaka 49827 dolazak      20.04.26. 11:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-20T12:03:00",
+    "seen_at": "2026-04-20T09:49:42.903Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-20T11:48:00",
+    "seen_at": "2026-04-20T09:50:05.587Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82321",
+    "event_time": "2026-04-20T11:50:00",
+    "seen_at": "2026-04-20T09:51:36.434Z",
+    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:50, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82321",
+    "event_time": "2026-04-20T11:50:00",
+    "seen_at": "2026-04-20T09:51:36.434Z",
+    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:50, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "LOVINAC",
+    "train_number": "89021",
+    "event_time": "2026-04-20T11:49:00",
+    "seen_at": "2026-04-20T09:52:22.127Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 11:49, kolodvor LOVINAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:53:00",
+    "seen_at": "2026-04-20T09:55:03.009Z",
+    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 11:53, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:53:00",
+    "seen_at": "2026-04-20T09:55:03.010Z",
+    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 11:53, kolodvor BEDEKOVČINA"
   }
 ]
