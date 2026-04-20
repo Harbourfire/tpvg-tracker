@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "82330",
-    "event_time": "2026-04-17T10:26:00",
-    "seen_at": "2026-04-17T08:26:57.540Z",
-    "raw": "Br. Vlaka 82330 formiran     17.04.26. 10:26, kolodvor VELIKA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-17T10:23:00",
-    "seen_at": "2026-04-17T08:30:24.243Z",
-    "raw": "Br. Vlaka 71203 dolazak      17.04.26. 10:23, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-17T10:23:00",
-    "seen_at": "2026-04-17T08:30:47.304Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -16684,5 +16657,23 @@
     "event_time": "2026-04-20T10:17:00",
     "seen_at": "2026-04-20T08:20:55.420Z",
     "raw": "Br. Vlaka 89021 dolazak      20.04.26. 10:17, kolodvor LOVINAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-04-20T10:23:00",
+    "seen_at": "2026-04-20T08:24:14.886Z",
+    "raw": "Br. Vlaka 49827 dolazak      20.04.26. 10:23, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-17T10:23:00",
+    "seen_at": "2026-04-20T08:31:10.553Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
