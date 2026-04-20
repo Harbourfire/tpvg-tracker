@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ČAČINCI",
-    "train_number": "48588",
-    "event_time": "2026-04-16T20:47:00",
-    "seen_at": "2026-04-17T04:17:40.601Z",
-    "raw": "Br. Vlaka 48588 formiran     16.04.26. 20:47, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "ČAČINCI",
-    "train_number": "48588",
-    "event_time": "2026-04-16T20:47:00",
-    "seen_at": "2026-04-17T04:18:03.442Z",
-    "raw": "Br. Vlaka 48588 formiran     16.04.26. 20:47, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "71206",
-    "event_time": "2026-04-17T06:19:00",
-    "seen_at": "2026-04-17T04:20:09.979Z",
-    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 06:19, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -16495,5 +16468,32 @@
     "event_time": "2026-04-20T06:06:00",
     "seen_at": "2026-04-20T04:06:48.452Z",
     "raw": "Br. Vlaka 66853 formiran     20.04.26. 06:06, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89175",
+    "event_time": "2026-04-20T06:08:00",
+    "seen_at": "2026-04-20T04:18:13.883Z",
+    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:08, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89175",
+    "event_time": "2026-04-20T06:17:00",
+    "seen_at": "2026-04-20T04:18:59.685Z",
+    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:17, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ĐELETOVCI",
+    "train_number": "40893",
+    "event_time": "2026-04-20T06:13:00",
+    "seen_at": "2026-04-20T04:19:45.651Z",
+    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 06:13, kolodvor ĐELETOVCI"
   }
 ]
