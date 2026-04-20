@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-17T17:15:00",
-    "seen_at": "2026-04-17T14:52:37.642Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63312",
-    "event_time": "2026-04-17T16:52:00",
-    "seen_at": "2026-04-17T14:52:37.642Z",
-    "raw": "Br. Vlaka 63312 dolazak      17.04.26. 16:52, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-17T16:52:00",
-    "seen_at": "2026-04-17T14:53:00.390Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89726",
-    "event_time": "2026-04-17T16:53:00",
-    "seen_at": "2026-04-17T14:53:23.170Z",
-    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 16:53, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "83807",
-    "event_time": "2026-04-17T12:58:00",
-    "seen_at": "2026-04-17T14:53:23.171Z",
-    "raw": "Br. Vlaka 83807 formiran     17.04.26. 12:58, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-17T16:08:00",
-    "seen_at": "2026-04-17T14:54:54.995Z",
-    "raw": "Br. Vlaka 63310 promjena sas 17.04.26. 16:08, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -17134,5 +17080,23 @@
     "event_time": "2026-04-20T16:37:00",
     "seen_at": "2026-04-20T14:37:28.306Z",
     "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:37, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:54:00",
+    "seen_at": "2026-04-20T14:57:19.481Z",
+    "raw": "Br. Vlaka 82146 dolazak      20.04.26. 16:54, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:54:00",
+    "seen_at": "2026-04-20T14:57:19.481Z",
+    "raw": "Br. Vlaka 82146 dolazak      20.04.26. 16:54, kolodvor JOSIPDOL"
   }
 ]
