@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "89925",
-    "event_time": "2026-04-17T08:38:00",
-    "seen_at": "2026-04-17T06:39:07.924Z",
-    "raw": "Br. Vlaka 89925 formiran     17.04.26. 08:38, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T08:40:00",
-    "seen_at": "2026-04-17T06:42:09.156Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:40, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T08:40:00",
-    "seen_at": "2026-04-17T06:42:09.157Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:40, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "PLETERNICA",
@@ -16450,5 +16423,86 @@
     "event_time": "2026-04-20T08:32:00",
     "seen_at": "2026-04-20T06:34:10.563Z",
     "raw": "Br. Vlaka 89021 odlazak      20.04.26. 08:32, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T08:38:00",
+    "seen_at": "2026-04-20T06:39:24.166Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T08:38:00",
+    "seen_at": "2026-04-20T06:39:24.166Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-20T08:33:00",
+    "seen_at": "2026-04-20T06:39:47.380Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-20T08:39:00",
+    "seen_at": "2026-04-20T06:43:17.871Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "89021",
+    "event_time": "2026-04-20T08:42:00",
+    "seen_at": "2026-04-20T06:43:17.873Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 08:42, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T08:46:00",
+    "seen_at": "2026-04-20T06:46:25.098Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:46, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T08:46:00",
+    "seen_at": "2026-04-20T06:46:25.098Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:46, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69770",
+    "event_time": "2026-04-20T06:06:00",
+    "seen_at": "2026-04-20T06:46:49.020Z",
+    "raw": "Br. Vlaka 69770 formiran     20.04.26. 06:06, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KONJŠČINA",
+    "train_number": "82328",
+    "event_time": "2026-04-20T08:47:00",
+    "seen_at": "2026-04-20T06:47:12.833Z",
+    "raw": "Br. Vlaka 82328 formiran     20.04.26. 08:47, kolodvor KONJŠČINA"
   }
 ]
