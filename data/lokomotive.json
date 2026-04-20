@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "81966",
-    "event_time": "2026-04-18T00:15:00",
-    "seen_at": "2026-04-17T22:15:48.678Z",
-    "raw": "Br. Vlaka 81966 odlazak      18.04.26. 00:15, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "47987",
-    "event_time": "2026-04-18T00:08:00",
-    "seen_at": "2026-04-17T22:17:42.484Z",
-    "raw": "Br. Vlaka 47987 odlazak      18.04.26. 00:08, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69351",
-    "event_time": "2026-04-18T00:19:00",
-    "seen_at": "2026-04-17T22:20:22.533Z",
-    "raw": "Br. Vlaka 69351 formiran     18.04.26. 00:19, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69327",
-    "event_time": "2026-04-18T00:22:00",
-    "seen_at": "2026-04-17T22:22:53.638Z",
-    "raw": "Br. Vlaka 69327 odlazak      18.04.26. 00:22, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "ZVEČAJ",
@@ -17071,5 +17035,41 @@
     "event_time": "2026-04-20T18:04:00",
     "seen_at": "2026-04-20T22:14:10.766Z",
     "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "82161",
+    "event_time": "2026-04-21T00:14:00",
+    "seen_at": "2026-04-20T22:15:56.548Z",
+    "raw": "Br. Vlaka 82161 odlazak      21.04.26. 00:14, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "49996",
+    "train_number": null,
+    "event_time": "2026-04-20T22:19:23.433Z",
+    "seen_at": "2026-04-20T22:19:23.433Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "49996",
+    "train_number": null,
+    "event_time": "2026-04-20T22:19:46.373Z",
+    "seen_at": "2026-04-20T22:19:46.373Z",
+    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89148",
+    "event_time": "2026-04-21T00:20:00",
+    "seen_at": "2026-04-20T22:20:56.735Z",
+    "raw": "Br. Vlaka 89148 odlazak      21.04.26. 00:20, kolodvor NOVI MAROF"
   }
 ]
