@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-16T12:20:00",
-    "seen_at": "2026-04-17T03:21:46.645Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-16T12:20:00",
-    "seen_at": "2026-04-17T03:22:10.258Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "44996",
-    "event_time": "2026-04-17T03:59:00",
-    "seen_at": "2026-04-17T03:22:55.809Z",
-    "raw": "Br. Vlaka 44996 promjena sas 17.04.26. 03:59, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "44996",
-    "event_time": "2026-04-17T03:59:00",
-    "seen_at": "2026-04-17T03:22:55.810Z",
-    "raw": "Br. Vlaka 44996 promjena sas 17.04.26. 03:59, kolodvor ZABOK"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NAŠICE",
@@ -16585,5 +16549,23 @@
     "event_time": "2026-04-20T05:19:00",
     "seen_at": "2026-04-20T03:20:13.654Z",
     "raw": "Br. Vlaka 69326 formiran     20.04.26. 05:19, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-20T05:20:00",
+    "seen_at": "2026-04-20T03:21:35.260Z",
+    "raw": "Br. Vlaka 45105 formiran     20.04.26. 05:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69852",
+    "event_time": "2026-04-20T05:21:00",
+    "seen_at": "2026-04-20T03:22:21.031Z",
+    "raw": "Br. Vlaka 69852 formiran     20.04.26. 05:21, kolodvor VINKOVCI"
   }
 ]
