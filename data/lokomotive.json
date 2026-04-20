@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "POPOVAČA",
-    "train_number": "82333",
-    "event_time": "2026-04-17T20:11:00",
-    "seen_at": "2026-04-17T18:12:42.665Z",
-    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 20:11, kolodvor POPOVAČA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "49999",
-    "event_time": "2026-04-17T20:16:00",
-    "seen_at": "2026-04-17T18:16:29.215Z",
-    "raw": "Br. Vlaka 49999 dolazak      17.04.26. 20:16, kolodvor ZABOK"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "ZABOK",
@@ -16954,5 +16936,32 @@
     "event_time": "2026-04-20T20:05:00",
     "seen_at": "2026-04-20T18:07:38.310Z",
     "raw": "Br. Vlaka 49999 odlazak      20.04.26. 20:05, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81105",
+    "event_time": "2026-04-20T20:09:00",
+    "seen_at": "2026-04-20T18:10:07.949Z",
+    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 20:09, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "49999",
+    "event_time": "2026-04-20T20:14:00",
+    "seen_at": "2026-04-20T18:16:12.055Z",
+    "raw": "Br. Vlaka 49999 dolazak      20.04.26. 20:14, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "49999",
+    "event_time": "2026-04-20T20:16:00",
+    "seen_at": "2026-04-20T18:16:34.976Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 20:16, kolodvor ČAKOVEC"
   }
 ]
