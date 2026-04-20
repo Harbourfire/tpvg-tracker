@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "66481",
-    "event_time": "2026-04-17T12:12:00",
-    "seen_at": "2026-04-17T10:12:27.480Z",
-    "raw": "Br. Vlaka 66481 odlazak      17.04.26. 12:12, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "PERKOVIĆ",
-    "train_number": "81965",
-    "event_time": "2026-04-17T12:07:00",
-    "seen_at": "2026-04-17T10:12:27.480Z",
-    "raw": "Br. Vlaka 81965 dolazak      17.04.26. 12:07, kolodvor PERKOVIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81231",
-    "event_time": "2026-04-17T12:11:00",
-    "seen_at": "2026-04-17T10:12:27.481Z",
-    "raw": "Br. Vlaka 81231 odlazak      17.04.26. 12:11, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Promjena sastava",
     "station": "ČAKOVEC",
@@ -17008,5 +16981,95 @@
     "event_time": "2026-04-20T12:01:00",
     "seen_at": "2026-04-20T10:05:06.296Z",
     "raw": "Br. Vlaka 82332 odlazak      20.04.26. 12:01, kolodvor SPAČVA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "GRAČAC",
+    "train_number": "89021",
+    "event_time": "2026-04-20T12:07:00",
+    "seen_at": "2026-04-20T10:08:07.750Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:07, kolodvor GRAČAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:07:00",
+    "seen_at": "2026-04-20T10:08:31.131Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:07, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:07:00",
+    "seen_at": "2026-04-20T10:08:31.132Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:07, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "LOVINAC",
+    "train_number": "89021",
+    "event_time": "2026-04-20T11:49:00",
+    "seen_at": "2026-04-20T10:08:31.133Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 11:49, kolodvor LOVINAC"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "GRAČAC",
+    "train_number": "89021",
+    "event_time": "2026-04-20T12:07:00",
+    "seen_at": "2026-04-20T10:10:05.723Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:07, kolodvor GRAČAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82333",
+    "event_time": "2026-04-20T12:14:00",
+    "seen_at": "2026-04-20T10:14:49.563Z",
+    "raw": "Br. Vlaka 82333 odlazak      20.04.26. 12:14, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:14:00",
+    "seen_at": "2026-04-20T10:14:49.563Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:14, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:14:00",
+    "seen_at": "2026-04-20T10:14:49.564Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:14, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82321",
+    "event_time": "2026-04-20T12:14:00",
+    "seen_at": "2026-04-20T10:14:49.564Z",
+    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 12:14, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82321",
+    "event_time": "2026-04-20T12:14:00",
+    "seen_at": "2026-04-20T10:14:49.564Z",
+    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 12:14, kolodvor RUDOPOLJE"
   }
 ]
