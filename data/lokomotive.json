@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "76501",
-    "event_time": "2026-04-17T14:00:00",
-    "seen_at": "2026-04-17T12:00:26.675Z",
-    "raw": "Br. Vlaka 76501 odlazak      17.04.26. 14:00, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T14:02:00",
-    "seen_at": "2026-04-17T12:03:16.382Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 14:02, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "89747",
-    "event_time": "2026-04-17T14:04:00",
-    "seen_at": "2026-04-17T12:04:30.866Z",
-    "raw": "Br. Vlaka 89747 odlazak      17.04.26. 14:04, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "89749",
-    "event_time": "2026-04-17T14:04:00",
-    "seen_at": "2026-04-17T12:05:39.240Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 14:04, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "KNIN",
@@ -17017,5 +16981,50 @@
     "event_time": "2026-04-20T12:25:00",
     "seen_at": "2026-04-20T11:58:45.776Z",
     "raw": "Br. Vlaka 89408 formiran     20.04.26. 12:25, kolodvor 71020"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T14:02:00",
+    "seen_at": "2026-04-20T12:04:18.993Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 14:02, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T14:02:00",
+    "seen_at": "2026-04-20T12:04:18.994Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 14:02, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81952",
+    "event_time": "2026-04-20T13:52:00",
+    "seen_at": "2026-04-20T12:05:52.014Z",
+    "raw": "Br. Vlaka 81952 dolazak      20.04.26. 13:52, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81952",
+    "event_time": "2026-04-20T13:59:00",
+    "seen_at": "2026-04-20T12:07:00.812Z",
+    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 13:59, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76501",
+    "event_time": "2026-04-20T14:06:00",
+    "seen_at": "2026-04-20T12:07:23.826Z",
+    "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:06, kolodvor NOVA GRADIŠKA"
   }
 ]
