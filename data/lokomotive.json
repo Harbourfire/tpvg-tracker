@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "KNIN",
-    "train_number": "81966",
-    "event_time": "2026-04-17T14:08:00",
-    "seen_at": "2026-04-17T12:09:06.303Z",
-    "raw": "Br. Vlaka 81966 formiran     17.04.26. 14:08, kolodvor KNIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45980",
-    "event_time": "2026-04-17T14:00:00",
-    "seen_at": "2026-04-17T12:11:00.480Z",
-    "raw": "Br. Vlaka 45980 odlazak      17.04.26. 14:00, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T14:11:00",
-    "seen_at": "2026-04-17T12:12:00.259Z",
-    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 14:11, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76501",
-    "event_time": "2026-04-17T14:11:00",
-    "seen_at": "2026-04-17T12:12:00.261Z",
-    "raw": "Br. Vlaka 76501 odlazak      17.04.26. 14:11, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-16T16:04:00",
-    "seen_at": "2026-04-17T12:13:09.956Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "89726",
-    "event_time": "2026-04-17T13:48:00",
-    "seen_at": "2026-04-17T12:13:32.664Z",
-    "raw": "Br. Vlaka 89726 formiran     17.04.26. 13:48, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "89747",
-    "event_time": "2026-04-17T14:16:00",
-    "seen_at": "2026-04-17T12:16:59.075Z",
-    "raw": "Br. Vlaka 89747 odlazak      17.04.26. 14:16, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "89749",
-    "event_time": "2026-04-17T14:16:00",
-    "seen_at": "2026-04-17T12:17:22.545Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 14:16, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "927820620254",
     "type": "Dolazak",
     "station": "DARDA",
@@ -17026,5 +16954,41 @@
     "event_time": "2026-04-20T14:06:00",
     "seen_at": "2026-04-20T12:07:23.826Z",
     "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:06, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44998",
+    "event_time": "2026-04-20T14:09:00",
+    "seen_at": "2026-04-20T12:09:54.512Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 14:09, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44998",
+    "event_time": "2026-04-20T14:09:00",
+    "seen_at": "2026-04-20T12:09:54.513Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 14:09, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81952",
+    "event_time": "2026-04-20T13:52:00",
+    "seen_at": "2026-04-20T12:14:10.328Z",
+    "raw": "Br. Vlaka 81952 dolazak      20.04.26. 13:52, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81952",
+    "event_time": "2026-04-20T13:59:00",
+    "seen_at": "2026-04-20T12:15:20.198Z",
+    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 13:59, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
