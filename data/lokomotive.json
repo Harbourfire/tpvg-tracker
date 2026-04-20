@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89749",
-    "event_time": "2026-04-17T18:24:00",
-    "seen_at": "2026-04-17T16:25:26.338Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 18:24, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "LEKENIK",
-    "train_number": "83807",
-    "event_time": "2026-04-17T18:25:00",
-    "seen_at": "2026-04-17T16:26:25.334Z",
-    "raw": "Br. Vlaka 83807 dolazak      17.04.26. 18:25, kolodvor LEKENIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "48588",
-    "event_time": "2026-04-17T18:26:00",
-    "seen_at": "2026-04-17T16:26:48.781Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 18:26, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "48588",
-    "event_time": "2026-04-17T18:26:00",
-    "seen_at": "2026-04-17T16:26:48.782Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 18:26, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "47987",
-    "event_time": "2026-04-17T18:28:00",
-    "seen_at": "2026-04-17T16:29:29.977Z",
-    "raw": "Br. Vlaka 47987 odlazak      17.04.26. 18:28, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "89749",
-    "event_time": "2026-04-17T18:30:00",
-    "seen_at": "2026-04-17T16:30:38.707Z",
-    "raw": "Br. Vlaka 89749 dolazak      17.04.26. 18:30, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "GRAČAC",
@@ -16882,5 +16828,50 @@
     "event_time": "2026-04-20T18:22:00",
     "seen_at": "2026-04-20T16:22:53.937Z",
     "raw": "Br. Vlaka 69006 odlazak      20.04.26. 18:22, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "NAŠICE",
+    "train_number": "89408",
+    "event_time": "2026-04-20T18:24:00",
+    "seen_at": "2026-04-20T16:26:10.428Z",
+    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 18:24, kolodvor NAŠICE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82131",
+    "event_time": "2026-04-20T18:30:00",
+    "seen_at": "2026-04-20T16:31:51.865Z",
+    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 18:30, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82131",
+    "event_time": "2026-04-20T18:30:00",
+    "seen_at": "2026-04-20T16:31:51.866Z",
+    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 18:30, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OGULIN",
+    "train_number": "69006",
+    "event_time": "2026-04-20T18:28:00",
+    "seen_at": "2026-04-20T16:31:51.866Z",
+    "raw": "Br. Vlaka 69006 dolazak      20.04.26. 18:28, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-20T18:28:00",
+    "seen_at": "2026-04-20T16:32:14.286Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
   }
 ]
