@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43994",
-    "event_time": "2026-04-17T06:51:00",
-    "seen_at": "2026-04-17T04:54:39.839Z",
-    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 06:51, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-17T06:30:00",
-    "seen_at": "2026-04-17T04:59:25.150Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76500",
-    "event_time": "2026-04-17T06:57:00",
-    "seen_at": "2026-04-17T05:00:55.339Z",
-    "raw": "Br. Vlaka 76500 formiran     17.04.26. 06:57, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "71206",
-    "event_time": "2026-04-17T06:59:00",
-    "seen_at": "2026-04-17T05:01:17.895Z",
-    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 06:59, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "PERKOVIĆ",
-    "train_number": "81962",
-    "event_time": "2026-04-17T06:50:00",
-    "seen_at": "2026-04-17T05:01:40.530Z",
-    "raw": "Br. Vlaka 81962 dolazak      17.04.26. 06:50, kolodvor PERKOVIĆ"
-  },
-  {
     "uic": "987891162040",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -16468,5 +16423,59 @@
     "event_time": "2026-04-20T06:49:00",
     "seen_at": "2026-04-20T04:51:55.450Z",
     "raw": "Br. Vlaka 69612 odlazak      20.04.26. 06:49, kolodvor 72302"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-20T06:55:00",
+    "seen_at": "2026-04-20T04:56:00.928Z",
+    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 06:55, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "69612",
+    "event_time": "2026-04-20T06:55:00",
+    "seen_at": "2026-04-20T04:56:00.929Z",
+    "raw": "Br. Vlaka 69612 dolazak      20.04.26. 06:55, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-20T06:55:00",
+    "seen_at": "2026-04-20T04:56:23.560Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-20T05:19:00",
+    "seen_at": "2026-04-20T04:58:17.043Z",
+    "raw": "Br. Vlaka 69326 formiran     20.04.26. 05:19, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69326",
+    "event_time": "2026-04-20T06:58:00",
+    "seen_at": "2026-04-20T04:59:48.809Z",
+    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 06:58, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89175",
+    "event_time": "2026-04-20T06:57:00",
+    "seen_at": "2026-04-20T04:59:48.811Z",
+    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:57, kolodvor BUDINŠĆINA"
   }
 ]
