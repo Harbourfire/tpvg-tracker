@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ŠKRLJEVO",
-    "train_number": "83813",
-    "event_time": "2026-04-18T01:41:00",
-    "seen_at": "2026-04-17T23:42:26.606Z",
-    "raw": "Br. Vlaka 83813 odlazak      18.04.26. 01:41, kolodvor ŠKRLJEVO"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "83805",
-    "event_time": "2026-04-18T01:42:00",
-    "seen_at": "2026-04-17T23:43:56.325Z",
-    "raw": "Br. Vlaka 83805 odlazak      18.04.26. 01:42, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "48786",
-    "event_time": "2026-04-18T01:14:00",
-    "seen_at": "2026-04-17T23:44:41.575Z",
-    "raw": "Br. Vlaka 48786 promjena sas 18.04.26. 01:14, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "69351",
-    "event_time": "2026-04-18T01:42:00",
-    "seen_at": "2026-04-17T23:46:11.402Z",
-    "raw": "Br. Vlaka 69351 odlazak      18.04.26. 01:42, kolodvor GARČIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-17T23:21:00",
-    "seen_at": "2026-04-17T23:46:11.403Z",
-    "raw": "Br. Vlaka 69005 formiran     17.04.26. 23:21, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-17T23:21:00",
-    "seen_at": "2026-04-17T23:46:44.921Z",
-    "raw": "Br. Vlaka 69005 formiran     17.04.26. 23:21, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "44998",
-    "event_time": "2026-04-18T01:45:00",
-    "seen_at": "2026-04-17T23:47:08.845Z",
-    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 01:45, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -16810,5 +16747,23 @@
     "event_time": "2026-04-21T01:25:00",
     "seen_at": "2026-04-20T23:25:42.266Z",
     "raw": "Br. Vlaka 82156 odlazak      21.04.26. 01:25, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82156",
+    "event_time": "2026-04-21T01:43:00",
+    "seen_at": "2026-04-20T23:45:07.250Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 01:43, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82156",
+    "event_time": "2026-04-21T01:43:00",
+    "seen_at": "2026-04-20T23:45:07.250Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 01:43, kolodvor PERUŠIĆ"
   }
 ]
