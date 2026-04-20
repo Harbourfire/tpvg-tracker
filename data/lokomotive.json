@@ -2,33 +2,6 @@
   {
     "uic": "927820621104",
     "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82119",
-    "event_time": "2026-04-17T08:49:00",
-    "seen_at": "2026-04-17T06:49:48.295Z",
-    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 08:49, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T08:54:00",
-    "seen_at": "2026-04-17T06:54:56.318Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:54, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44996",
-    "event_time": "2026-04-17T08:54:00",
-    "seen_at": "2026-04-17T06:54:56.318Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 08:54, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
     "train_number": "82119",
     "event_time": "2026-04-17T08:59:00",
@@ -16504,5 +16477,50 @@
     "event_time": "2026-04-20T08:47:00",
     "seen_at": "2026-04-20T06:47:12.833Z",
     "raw": "Br. Vlaka 82328 formiran     20.04.26. 08:47, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-20T08:30:00",
+    "seen_at": "2026-04-20T06:47:48.977Z",
+    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 08:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-04-20T08:39:00",
+    "seen_at": "2026-04-20T06:48:11.894Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69852",
+    "event_time": "2026-04-20T08:49:00",
+    "seen_at": "2026-04-20T06:50:50.365Z",
+    "raw": "Br. Vlaka 69852 odlazak      20.04.26. 08:49, kolodvor DALJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T08:53:00",
+    "seen_at": "2026-04-20T06:54:39.349Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:53, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T08:53:00",
+    "seen_at": "2026-04-20T06:54:39.350Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:53, kolodvor ZLATAR-BISTRICA"
   }
 ]
