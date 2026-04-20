@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "MORAVICE",
-    "train_number": "81966",
-    "event_time": "2026-04-17T22:08:00",
-    "seen_at": "2026-04-17T20:11:33.403Z",
-    "raw": "Br. Vlaka 81966 dolazak      17.04.26. 22:08, kolodvor MORAVICE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "MORAVICE",
-    "train_number": "81966",
-    "event_time": "2026-04-17T22:10:00",
-    "seen_at": "2026-04-17T20:11:56.287Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 22:10, kolodvor MORAVICE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-17T10:10:00",
-    "seen_at": "2026-04-17T20:13:53.591Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44788",
-    "event_time": "2026-04-17T00:03:00",
-    "seen_at": "2026-04-17T20:14:16.350Z",
-    "raw": "Br. Vlaka 44788 promjena sas 17.04.26. 00:03, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "81972",
-    "event_time": "2026-04-17T22:13:00",
-    "seen_at": "2026-04-17T20:15:02.296Z",
-    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 22:13, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "BROD MORAVICE",
     "train_number": "81966",
@@ -16954,5 +16909,50 @@
     "event_time": "2026-04-20T22:08:00",
     "seen_at": "2026-04-20T20:09:24.334Z",
     "raw": "Br. Vlaka 63305 odlazak      20.04.26. 22:08, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "82161",
+    "event_time": "2026-04-20T22:12:00",
+    "seen_at": "2026-04-20T20:13:08.163Z",
+    "raw": "Br. Vlaka 82161 odlazak      20.04.26. 22:12, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "89408",
+    "event_time": "2026-04-20T22:15:00",
+    "seen_at": "2026-04-20T20:17:22.698Z",
+    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 22:15, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-04-20T22:15:00",
+    "seen_at": "2026-04-20T20:18:10.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49999",
+    "event_time": "2026-04-20T22:18:00",
+    "seen_at": "2026-04-20T20:19:01.603Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 22:18, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49999",
+    "event_time": "2026-04-20T22:18:00",
+    "seen_at": "2026-04-20T20:19:01.603Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 22:18, kolodvor TURČIN"
   }
 ]
