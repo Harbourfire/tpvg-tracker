@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89925",
-    "event_time": "2026-04-17T10:02:00",
-    "seen_at": "2026-04-17T08:08:16.511Z",
-    "raw": "Br. Vlaka 89925 odlazak      17.04.26. 10:02, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-17T10:05:00",
-    "seen_at": "2026-04-17T08:08:16.514Z",
-    "raw": "Br. Vlaka 71203 odlazak      17.04.26. 10:05, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KOTORIBA",
-    "train_number": null,
-    "event_time": "2026-04-17T10:06:00",
-    "seen_at": "2026-04-17T08:08:39.384Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NAŠICE",
-    "train_number": "48588",
-    "event_time": "2026-04-17T10:08:00",
-    "seen_at": "2026-04-17T08:09:02.401Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 10:08, kolodvor NAŠICE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "69350",
-    "event_time": "2026-04-17T10:08:00",
-    "seen_at": "2026-04-17T08:09:02.401Z",
-    "raw": "Br. Vlaka 69350 odlazak      17.04.26. 10:08, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "NAŠICE",
-    "train_number": "48588",
-    "event_time": "2026-04-17T10:08:00",
-    "seen_at": "2026-04-17T08:09:02.402Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 10:08, kolodvor NAŠICE"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -16675,5 +16621,86 @@
     "event_time": "2026-04-20T09:48:00",
     "seen_at": "2026-04-20T08:02:51.864Z",
     "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-19T21:04:00",
+    "seen_at": "2026-04-20T08:03:27.211Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-19T21:04:00",
+    "seen_at": "2026-04-20T08:03:50.635Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "49827",
+    "event_time": "2026-04-20T09:57:00",
+    "seen_at": "2026-04-20T08:04:13.575Z",
+    "raw": "Br. Vlaka 49827 odlazak      20.04.26. 09:57, kolodvor DALJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-20T08:04:36.330Z",
+    "seen_at": "2026-04-20T08:04:36.330Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-20T08:04:36.331Z",
+    "seen_at": "2026-04-20T08:04:36.331Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "MEDAK",
+    "train_number": "89021",
+    "event_time": "2026-04-20T10:06:00",
+    "seen_at": "2026-04-20T08:07:42.728Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 10:06, kolodvor MEDAK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82328",
+    "event_time": "2026-04-20T10:03:00",
+    "seen_at": "2026-04-20T08:08:29.096Z",
+    "raw": "Br. Vlaka 82328 odlazak      20.04.26. 10:03, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "76501",
+    "event_time": "2026-04-20T10:07:00",
+    "seen_at": "2026-04-20T08:08:29.097Z",
+    "raw": "Br. Vlaka 76501 formiran     20.04.26. 10:07, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76502",
+    "event_time": "2026-04-20T10:10:00",
+    "seen_at": "2026-04-20T08:11:32.517Z",
+    "raw": "Br. Vlaka 76502 dolazak      20.04.26. 10:10, kolodvor ANDRIJEVCI"
   }
 ]
