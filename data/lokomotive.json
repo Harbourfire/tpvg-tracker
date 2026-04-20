@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "83804",
-    "event_time": "2026-04-17T23:07:00",
-    "seen_at": "2026-04-17T21:07:56.592Z",
-    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 23:07, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44788",
-    "event_time": "2026-04-17T23:08:00",
-    "seen_at": "2026-04-17T21:08:42.203Z",
-    "raw": "Br. Vlaka 44788 odlazak      17.04.26. 23:08, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "81972",
-    "event_time": "2026-04-17T23:13:00",
-    "seen_at": "2026-04-17T21:14:03.432Z",
-    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 23:13, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "83804",
-    "event_time": "2026-04-17T23:15:00",
-    "seen_at": "2026-04-17T21:15:34.941Z",
-    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 23:15, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "FUŽINE",
@@ -17008,5 +16972,41 @@
     "event_time": "2026-04-20T23:00:00",
     "seen_at": "2026-04-20T21:01:15.677Z",
     "raw": "Br. Vlaka 89148 odlazak      20.04.26. 23:00, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49999",
+    "event_time": "2026-04-20T23:06:00",
+    "seen_at": "2026-04-20T21:08:43.893Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 23:06, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49999",
+    "event_time": "2026-04-20T23:06:00",
+    "seen_at": "2026-04-20T21:08:43.893Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 23:06, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-20T23:08:00",
+    "seen_at": "2026-04-20T21:08:43.894Z",
+    "raw": "Br. Vlaka 63305 dolazak      20.04.26. 23:08, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-20T23:08:00",
+    "seen_at": "2026-04-20T21:08:43.894Z",
+    "raw": "Br. Vlaka 63305 dolazak      20.04.26. 23:08, kolodvor LIČKO LEŠĆE"
   }
 ]
