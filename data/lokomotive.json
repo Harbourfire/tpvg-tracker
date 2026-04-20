@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89128",
-    "event_time": "2026-04-17T02:11:00",
-    "seen_at": "2026-04-17T00:12:49.593Z",
-    "raw": "Br. Vlaka 89128 odlazak      17.04.26. 02:11, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-17T01:38:00",
-    "seen_at": "2026-04-17T00:13:11.943Z",
-    "raw": "Br. Vlaka 44789 dolazak      17.04.26. 01:38, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "89923",
-    "event_time": "2026-04-17T01:10:00",
-    "seen_at": "2026-04-17T00:14:19.402Z",
-    "raw": "Br. Vlaka 89923 formiran     17.04.26. 01:10, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KNIN",
-    "train_number": "81951",
-    "event_time": "2026-04-17T02:12:00",
-    "seen_at": "2026-04-17T00:15:04.720Z",
-    "raw": "Br. Vlaka 81951 odlazak      17.04.26. 02:12, kolodvor KNIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89923",
-    "event_time": "2026-04-17T02:11:00",
-    "seen_at": "2026-04-17T00:15:30.293Z",
-    "raw": "Br. Vlaka 89923 odlazak      17.04.26. 02:11, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-17T02:15:00",
-    "seen_at": "2026-04-17T00:16:15.364Z",
-    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:15, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-17T02:15:00",
-    "seen_at": "2026-04-17T00:16:15.364Z",
-    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:15, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -17062,5 +16999,14 @@
     "event_time": "2026-04-20T02:04:00",
     "seen_at": "2026-04-20T00:05:33.827Z",
     "raw": "Br. Vlaka 40893 dolazak      20.04.26. 02:04, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-20T02:09:00",
+    "seen_at": "2026-04-20T00:13:41.976Z",
+    "raw": "Br. Vlaka 43995 dolazak      20.04.26. 02:09, kolodvor VARAŽDIN"
   }
 ]
