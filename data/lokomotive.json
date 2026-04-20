@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "83809",
-    "event_time": "2026-04-17T15:32:00",
-    "seen_at": "2026-04-17T13:36:32.509Z",
-    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:32, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "83809",
-    "event_time": "2026-04-17T15:32:00",
-    "seen_at": "2026-04-17T13:36:32.510Z",
-    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:32, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "89749",
-    "event_time": "2026-04-17T15:39:00",
-    "seen_at": "2026-04-17T13:42:13.145Z",
-    "raw": "Br. Vlaka 89749 dolazak      17.04.26. 15:39, kolodvor KARLOVAC"
-  },
-  {
     "uic": "928012230100",
     "type": "Promjena sastava",
     "station": "VRHOVINE",
@@ -17107,5 +17080,41 @@
     "event_time": "2026-04-20T15:31:00",
     "seen_at": "2026-04-20T13:33:36.749Z",
     "raw": "Br. Vlaka 44789 odlazak      20.04.26. 15:31, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "46897",
+    "event_time": "2026-04-20T15:20:00",
+    "seen_at": "2026-04-20T13:38:57.476Z",
+    "raw": "Br. Vlaka 46897 promjena sas 20.04.26. 15:20, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89408",
+    "event_time": "2026-04-20T15:39:00",
+    "seen_at": "2026-04-20T13:39:20.911Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:39, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "81953",
+    "event_time": "2026-04-20T15:34:00",
+    "seen_at": "2026-04-20T13:40:30.632Z",
+    "raw": "Br. Vlaka 81953 odlazak      20.04.26. 15:34, kolodvor DALJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T05:00:00",
+    "seen_at": "2026-04-20T13:43:38.910Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
