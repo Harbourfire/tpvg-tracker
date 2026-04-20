@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81101",
-    "event_time": "2026-04-17T04:24:00",
-    "seen_at": "2026-04-17T02:26:21.022Z",
-    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 04:24, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81101",
-    "event_time": "2026-04-17T04:24:00",
-    "seen_at": "2026-04-17T02:26:21.023Z",
-    "raw": "Br. Vlaka 81101 odlazak      17.04.26. 04:24, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "NAŠICE",
@@ -16675,5 +16657,50 @@
     "event_time": "2026-04-20T04:20:00",
     "seen_at": "2026-04-20T02:23:14.888Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-20T04:25:00",
+    "seen_at": "2026-04-20T02:26:32.880Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-20T04:25:00",
+    "seen_at": "2026-04-20T02:26:32.880Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71205",
+    "event_time": "2026-04-20T04:27:00",
+    "seen_at": "2026-04-20T02:27:41.827Z",
+    "raw": "Br. Vlaka 71205 formiran     20.04.26. 04:27, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "82331",
+    "event_time": "2026-04-20T01:35:00",
+    "seen_at": "2026-04-20T02:28:04.805Z",
+    "raw": "Br. Vlaka 82331 formiran     20.04.26. 01:35, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76503",
+    "event_time": "2026-04-20T04:28:00",
+    "seen_at": "2026-04-20T02:29:15.447Z",
+    "raw": "Br. Vlaka 76503 formiran     20.04.26. 04:28, kolodvor SLAVONSKI BROD"
   }
 ]
