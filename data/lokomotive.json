@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-17T15:27:00",
-    "seen_at": "2026-04-17T13:28:48.238Z",
-    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 15:27, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -17053,5 +17044,68 @@
     "event_time": "2026-04-20T15:22:00",
     "seen_at": "2026-04-20T13:22:27.994Z",
     "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "81953",
+    "event_time": "2026-04-20T15:24:00",
+    "seen_at": "2026-04-20T13:26:13.541Z",
+    "raw": "Br. Vlaka 81953 odlazak      20.04.26. 15:24, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82333",
+    "event_time": "2026-04-20T12:27:00",
+    "seen_at": "2026-04-20T13:32:03.204Z",
+    "raw": "Br. Vlaka 82333 promjena sas 20.04.26. 12:27, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82146",
+    "event_time": "2026-04-20T15:30:00",
+    "seen_at": "2026-04-20T13:32:03.206Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:30, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82146",
+    "event_time": "2026-04-20T15:30:00",
+    "seen_at": "2026-04-20T13:32:03.206Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:30, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "44789",
+    "event_time": "2026-04-20T15:26:00",
+    "seen_at": "2026-04-20T13:33:13.077Z",
+    "raw": "Br. Vlaka 44789 odlazak      20.04.26. 15:26, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89408",
+    "event_time": "2026-04-20T15:32:00",
+    "seen_at": "2026-04-20T13:33:36.749Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:32, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44789",
+    "event_time": "2026-04-20T15:31:00",
+    "seen_at": "2026-04-20T13:33:36.749Z",
+    "raw": "Br. Vlaka 44789 odlazak      20.04.26. 15:31, kolodvor KOTORIBA"
   }
 ]
