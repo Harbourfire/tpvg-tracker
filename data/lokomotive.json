@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OGULINSKI HRELJIN",
-    "train_number": "81966",
-    "event_time": "2026-04-17T21:30:00",
-    "seen_at": "2026-04-17T19:33:52.256Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 21:30, kolodvor OGULINSKI HRELJIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "BANOVA JARUGA",
-    "train_number": "82333",
-    "event_time": "2026-04-17T21:03:00",
-    "seen_at": "2026-04-17T19:34:37.636Z",
-    "raw": "Br. Vlaka 82333 promjena sas 17.04.26. 21:03, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "SISAK CAPRAG",
-    "train_number": "83810",
-    "event_time": "2026-04-17T15:14:00",
-    "seen_at": "2026-04-17T19:39:31.201Z",
-    "raw": "Br. Vlaka 83810 formiran     17.04.26. 15:14, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "42786",
-    "event_time": "2026-04-17T21:38:00",
-    "seen_at": "2026-04-17T19:41:04.019Z",
-    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 21:38, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "82333",
-    "event_time": "2026-04-17T21:39:00",
-    "seen_at": "2026-04-17T19:42:35.488Z",
-    "raw": "Br. Vlaka 82333 odlazak      17.04.26. 21:39, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "GOMIRJE",
-    "train_number": "81966",
-    "event_time": "2026-04-17T21:41:00",
-    "seen_at": "2026-04-17T19:42:35.489Z",
-    "raw": "Br. Vlaka 81966 dolazak      17.04.26. 21:41, kolodvor GOMIRJE"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -16891,5 +16837,68 @@
     "event_time": "2026-04-20T16:50:00",
     "seen_at": "2026-04-20T19:26:46.507Z",
     "raw": "Br. Vlaka 44787 promjena sas 20.04.26. 16:50, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-20T14:15:00",
+    "seen_at": "2026-04-20T19:34:12.702Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89148",
+    "event_time": "2026-04-20T21:33:00",
+    "seen_at": "2026-04-20T19:34:36.523Z",
+    "raw": "Br. Vlaka 89148 formiran     20.04.26. 21:33, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "OKUČANI",
+    "train_number": "82161",
+    "event_time": "2026-04-20T21:36:00",
+    "seen_at": "2026-04-20T19:36:34.870Z",
+    "raw": "Br. Vlaka 82161 formiran     20.04.26. 21:36, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "46897",
+    "event_time": "2026-04-20T21:37:00",
+    "seen_at": "2026-04-20T19:37:45.991Z",
+    "raw": "Br. Vlaka 46897 odlazak      20.04.26. 21:37, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89408",
+    "event_time": "2026-04-20T21:39:00",
+    "seen_at": "2026-04-20T19:40:53.126Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 21:39, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T21:39:00",
+    "seen_at": "2026-04-20T19:42:28.086Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 21:39, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44787",
+    "event_time": "2026-04-20T21:39:00",
+    "seen_at": "2026-04-20T19:42:28.087Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 21:39, kolodvor VARAŽDIN"
   }
 ]
