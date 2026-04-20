@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-17T13:33:00",
-    "seen_at": "2026-04-17T11:34:41.174Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "POPOVAČA",
-    "train_number": "81108",
-    "event_time": "2026-04-17T13:33:00",
-    "seen_at": "2026-04-17T11:35:04.165Z",
-    "raw": "Br. Vlaka 81108 odlazak      17.04.26. 13:33, kolodvor POPOVAČA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "69750",
-    "event_time": "2026-04-17T13:33:00",
-    "seen_at": "2026-04-17T11:35:04.166Z",
-    "raw": "Br. Vlaka 69750 dolazak      17.04.26. 13:33, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-17T13:33:00",
-    "seen_at": "2026-04-17T11:35:50.750Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "45980",
-    "event_time": "2026-04-17T00:45:00",
-    "seen_at": "2026-04-17T11:36:36.513Z",
-    "raw": "Br. Vlaka 45980 promjena sas 17.04.26. 00:45, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "LUDINA",
@@ -16972,5 +16927,86 @@
     "event_time": "2026-04-20T13:29:00",
     "seen_at": "2026-04-20T11:30:22.000Z",
     "raw": "Br. Vlaka 89755 formiran     20.04.26. 13:29, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2026-04-17T13:30:00",
+    "seen_at": "2026-04-20T11:31:43.846Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81951",
+    "event_time": "2026-04-20T13:34:00",
+    "seen_at": "2026-04-20T11:36:18.202Z",
+    "raw": "Br. Vlaka 81951 odlazak      20.04.26. 13:34, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44998",
+    "event_time": "2026-04-20T13:36:00",
+    "seen_at": "2026-04-20T11:37:49.226Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:36, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44998",
+    "event_time": "2026-04-20T13:36:00",
+    "seen_at": "2026-04-20T11:37:49.227Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:36, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-20T13:37:00",
+    "seen_at": "2026-04-20T11:38:11.829Z",
+    "raw": "Br. Vlaka 45104 odlazak      20.04.26. 13:37, kolodvor OTOK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "40893",
+    "event_time": "2026-04-20T12:35:00",
+    "seen_at": "2026-04-20T11:38:11.829Z",
+    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 12:35, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "40893",
+    "event_time": "2026-04-20T09:29:00",
+    "seen_at": "2026-04-20T11:38:34.565Z",
+    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 09:29, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-20T13:37:00",
+    "seen_at": "2026-04-20T11:38:34.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-20T13:37:00",
+    "seen_at": "2026-04-20T11:38:34.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
