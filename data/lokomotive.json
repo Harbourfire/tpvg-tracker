@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45980",
-    "event_time": "2026-04-17T14:46:00",
-    "seen_at": "2026-04-17T12:48:14.957Z",
-    "raw": "Br. Vlaka 45980 odlazak      17.04.26. 14:46, kolodvor DARDA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "48588",
-    "event_time": "2026-04-17T14:43:00",
-    "seen_at": "2026-04-17T12:51:11.877Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 14:43, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "48588",
-    "event_time": "2026-04-17T14:43:00",
-    "seen_at": "2026-04-17T12:51:11.879Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 14:43, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "61201",
-    "event_time": "2026-04-17T14:52:00",
-    "seen_at": "2026-04-17T12:53:07.092Z",
-    "raw": "Br. Vlaka 61201 odlazak      17.04.26. 14:52, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-17T14:54:00",
-    "seen_at": "2026-04-17T12:54:38.663Z",
-    "raw": "Br. Vlaka 63310 odlazak      17.04.26. 14:54, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "JOSIPOVAC",
@@ -17071,5 +17026,23 @@
     "event_time": "2026-04-20T14:45:00",
     "seen_at": "2026-04-20T12:46:16.391Z",
     "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:45, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "81952",
+    "event_time": "2026-04-20T14:32:00",
+    "seen_at": "2026-04-20T12:53:55.632Z",
+    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 14:32, kolodvor DALJ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "89408",
+    "event_time": "2026-04-20T14:54:00",
+    "seen_at": "2026-04-20T12:55:50.705Z",
+    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 14:54, kolodvor TOVARNIK"
   }
 ]
