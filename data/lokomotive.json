@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ŠIBENIK",
-    "train_number": "81963",
-    "event_time": "2026-04-17T08:11:00",
-    "seen_at": "2026-04-17T06:15:41.083Z",
-    "raw": "Br. Vlaka 81963 dolazak      17.04.26. 08:11, kolodvor ŠIBENIK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ŠIBENIK",
-    "train_number": null,
-    "event_time": "2026-04-17T08:11:00",
-    "seen_at": "2026-04-17T06:16:26.618Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76760 ŠIBENIK"
-  },
-  {
-    "uic": "927820622037",
     "type": "Formiran",
     "station": "ŠIBENIK",
     "train_number": "81964",
@@ -16387,5 +16369,32 @@
     "event_time": "2026-04-20T08:03:00",
     "seen_at": "2026-04-20T06:05:13.936Z",
     "raw": "Br. Vlaka 89021 odlazak      20.04.26. 08:03, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69852",
+    "event_time": "2026-04-20T08:10:00",
+    "seen_at": "2026-04-20T06:11:08.207Z",
+    "raw": "Br. Vlaka 69852 odlazak      20.04.26. 08:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76503",
+    "event_time": "2026-04-20T08:12:00",
+    "seen_at": "2026-04-20T06:13:29.168Z",
+    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 08:12, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-20T08:11:00",
+    "seen_at": "2026-04-20T06:14:37.615Z",
+    "raw": "Br. Vlaka 66853 odlazak      20.04.26. 08:11, kolodvor OSIJEK"
   }
 ]
