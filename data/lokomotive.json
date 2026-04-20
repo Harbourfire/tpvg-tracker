@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82119",
-    "event_time": "2026-04-17T08:59:00",
-    "seen_at": "2026-04-17T06:59:51.737Z",
-    "raw": "Br. Vlaka 82119 odlazak      17.04.26. 08:59, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45696",
-    "event_time": "2026-04-17T08:53:00",
-    "seen_at": "2026-04-17T07:03:50.070Z",
-    "raw": "Br. Vlaka 45696 dolazak      17.04.26. 08:53, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -16522,5 +16504,50 @@
     "event_time": "2026-04-20T08:53:00",
     "seen_at": "2026-04-20T06:54:39.350Z",
     "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:53, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "82328",
+    "event_time": "2026-04-20T09:00:00",
+    "seen_at": "2026-04-20T07:01:04.501Z",
+    "raw": "Br. Vlaka 82328 odlazak      20.04.26. 09:00, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "89021",
+    "event_time": "2026-04-20T09:01:00",
+    "seen_at": "2026-04-20T07:01:27.156Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:01, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-04-20T09:01:00",
+    "seen_at": "2026-04-20T07:03:21.724Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:02:00",
+    "seen_at": "2026-04-20T07:04:30.914Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:02, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:02:00",
+    "seen_at": "2026-04-20T07:04:30.915Z",
+    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:02, kolodvor BEDEKOVČINA"
   }
 ]
