@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-17T08:27:00",
-    "seen_at": "2026-04-17T06:34:50.522Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-17T08:34:00",
-    "seen_at": "2026-04-17T06:35:37.137Z",
-    "raw": "Br. Vlaka 71203 formiran     17.04.26. 08:34, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620015",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
     "train_number": "89925",
@@ -16450,5 +16432,23 @@
     "event_time": "2026-04-20T08:26:00",
     "seen_at": "2026-04-20T06:26:40.838Z",
     "raw": "Br. Vlaka 69852 odlazak      20.04.26. 08:26, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-04-20T08:32:00",
+    "seen_at": "2026-04-20T06:32:39.118Z",
+    "raw": "Br. Vlaka 69750 odlazak      20.04.26. 08:32, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "89021",
+    "event_time": "2026-04-20T08:32:00",
+    "seen_at": "2026-04-20T06:34:10.563Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 08:32, kolodvor BLATA"
   }
 ]
