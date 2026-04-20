@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "61201",
-    "event_time": "2026-04-17T14:28:00",
-    "seen_at": "2026-04-17T12:29:19.226Z",
-    "raw": "Br. Vlaka 61201 formiran     17.04.26. 14:28, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-17T14:32:00",
-    "seen_at": "2026-04-17T12:32:32.152Z",
-    "raw": "Br. Vlaka 63310 formiran     17.04.26. 14:32, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "DUGA RESA",
@@ -17026,5 +17008,68 @@
     "event_time": "2026-04-20T14:26:00",
     "seen_at": "2026-04-20T12:26:13.629Z",
     "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:26, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89755",
+    "event_time": "2026-04-20T14:26:00",
+    "seen_at": "2026-04-20T12:28:46.170Z",
+    "raw": "Br. Vlaka 89755 odlazak      20.04.26. 14:26, kolodvor 72302"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-20T14:28:00",
+    "seen_at": "2026-04-20T12:31:05.381Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-20T14:28:00",
+    "seen_at": "2026-04-20T12:31:05.382Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-19T23:34:00",
+    "seen_at": "2026-04-20T12:32:59.392Z",
+    "raw": "Br. Vlaka 44787 formiran     19.04.26. 23:34, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44787",
+    "event_time": "2026-04-19T23:34:00",
+    "seen_at": "2026-04-20T12:33:22.270Z",
+    "raw": "Br. Vlaka 44787 formiran     19.04.26. 23:34, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-20T14:34:00",
+    "seen_at": "2026-04-20T12:36:26.345Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76501",
+    "event_time": "2026-04-20T14:36:00",
+    "seen_at": "2026-04-20T12:37:12.208Z",
+    "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:36, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
