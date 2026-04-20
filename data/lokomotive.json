@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Promjena sastava",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82119",
-    "event_time": "2026-04-16T12:22:00",
-    "seen_at": "2026-04-17T05:14:20.489Z",
-    "raw": "Br. Vlaka 82119 promjena sas 16.04.26. 12:22, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76500",
-    "event_time": "2026-04-17T07:17:00",
-    "seen_at": "2026-04-17T05:18:19.763Z",
-    "raw": "Br. Vlaka 76500 odlazak      17.04.26. 07:17, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VRAPČANA",
-    "train_number": null,
-    "event_time": "2026-04-17T07:20:00",
-    "seen_at": "2026-04-17T05:20:36.806Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71301 VRAPČANA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "43994",
-    "event_time": "2026-04-17T07:19:00",
-    "seen_at": "2026-04-17T05:21:23.557Z",
-    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:19, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "987891032094",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -16441,5 +16405,23 @@
     "event_time": "2026-04-20T07:11:00",
     "seen_at": "2026-04-20T05:11:50.514Z",
     "raw": "Br. Vlaka 69326 odlazak      20.04.26. 07:11, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "89175",
+    "event_time": "2026-04-20T07:05:00",
+    "seen_at": "2026-04-20T05:14:20.171Z",
+    "raw": "Br. Vlaka 89175 dolazak      20.04.26. 07:05, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-20T07:05:00",
+    "seen_at": "2026-04-20T05:14:42.924Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
   }
 ]
