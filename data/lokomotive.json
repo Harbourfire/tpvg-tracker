@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "69177",
-    "event_time": "2026-04-17T16:24:00",
-    "seen_at": "2026-04-17T14:26:19.167Z",
-    "raw": "Br. Vlaka 69177 odlazak      17.04.26. 16:24, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "81108",
-    "event_time": "2026-04-17T16:18:00",
-    "seen_at": "2026-04-17T14:27:49.959Z",
-    "raw": "Br. Vlaka 81108 dolazak      17.04.26. 16:18, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T16:27:00",
-    "seen_at": "2026-04-17T14:28:35.065Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:27, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T16:27:00",
-    "seen_at": "2026-04-17T14:28:35.066Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:27, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "IVANIĆ GRAD",
-    "train_number": null,
-    "event_time": "2026-04-17T16:18:00",
-    "seen_at": "2026-04-17T14:30:08.628Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -17152,5 +17107,50 @@
     "event_time": "2026-04-20T16:21:00",
     "seen_at": "2026-04-20T14:21:51.214Z",
     "raw": "Br. Vlaka 89408 odlazak      20.04.26. 16:21, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81953",
+    "event_time": "2026-04-20T16:21:00",
+    "seen_at": "2026-04-20T14:22:25.786Z",
+    "raw": "Br. Vlaka 81953 odlazak      20.04.26. 16:21, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:25:00",
+    "seen_at": "2026-04-20T14:27:01.212Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:25, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:25:00",
+    "seen_at": "2026-04-20T14:27:01.212Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:25, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:22:00",
+    "seen_at": "2026-04-20T14:27:47.138Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 16:22, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:22:00",
+    "seen_at": "2026-04-20T14:27:47.139Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 16:22, kolodvor MALA SUBOTICA"
   }
 ]
