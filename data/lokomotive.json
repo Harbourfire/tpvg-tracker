@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "81231",
-    "event_time": "2026-04-17T11:25:00",
-    "seen_at": "2026-04-17T09:29:32.588Z",
-    "raw": "Br. Vlaka 81231 dolazak      17.04.26. 11:25, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "66481",
-    "event_time": "2026-04-17T11:30:00",
-    "seen_at": "2026-04-17T09:30:41.002Z",
-    "raw": "Br. Vlaka 66481 formiran     17.04.26. 11:30, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "49999",
-    "event_time": "2026-04-17T11:30:00",
-    "seen_at": "2026-04-17T09:31:50.048Z",
-    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 11:30, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
     "type": "Promjena sastava",
     "station": "PLAŠKI",
     "train_number": "81231",
@@ -16909,5 +16882,77 @@
     "event_time": "2026-04-20T11:26:00",
     "seen_at": "2026-04-20T09:27:17.948Z",
     "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:26, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "75011",
+    "event_time": "2026-04-20T11:00:00",
+    "seen_at": "2026-04-20T09:29:32.983Z",
+    "raw": "Br. Vlaka 75011 formiran     20.04.26. 11:00, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:28:00",
+    "seen_at": "2026-04-20T09:29:56.411Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:28, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:28:00",
+    "seen_at": "2026-04-20T09:29:56.412Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:28, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Dolazak",
+    "station": "MORAVICE",
+    "train_number": "75042",
+    "event_time": "2026-04-20T11:31:00",
+    "seen_at": "2026-04-20T09:31:53.142Z",
+    "raw": "Br. Vlaka 75042 dolazak      20.04.26. 11:31, kolodvor MORAVICE"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "MORAVICE",
+    "train_number": null,
+    "event_time": "2026-04-20T11:31:00",
+    "seen_at": "2026-04-20T09:32:16.149Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75406 MORAVICE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:33:00",
+    "seen_at": "2026-04-20T09:34:11.872Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:33, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T11:33:00",
+    "seen_at": "2026-04-20T09:34:11.873Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 11:33, kolodvor LUKA"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-20T11:30:00",
+    "seen_at": "2026-04-20T09:35:45.262Z",
+    "raw": "Br. Vlaka 71204 odlazak      20.04.26. 11:30, kolodvor GARČIN"
   }
 ]
