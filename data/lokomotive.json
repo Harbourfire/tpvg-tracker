@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-17T10:28:00",
-    "seen_at": "2026-04-17T08:33:04.154Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "KOTORIBA",
-    "train_number": "49999",
-    "event_time": "2026-04-16T20:54:00",
-    "seen_at": "2026-04-17T08:33:27.110Z",
-    "raw": "Br. Vlaka 49999 promjena sas 16.04.26. 20:54, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "RAŽINE",
-    "train_number": null,
-    "event_time": "2026-04-17T10:25:00",
-    "seen_at": "2026-04-17T08:34:12.260Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76762 RAŽINE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "RAŽINE",
-    "train_number": "81965",
-    "event_time": "2026-04-17T08:02:00",
-    "seen_at": "2026-04-17T08:37:26.524Z",
-    "raw": "Br. Vlaka 81965 formiran     17.04.26. 08:02, kolodvor RAŽINE"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -16675,5 +16639,23 @@
     "event_time": "2026-04-17T10:23:00",
     "seen_at": "2026-04-20T08:31:10.553Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "GARČIN",
+    "train_number": "76502",
+    "event_time": "2026-04-20T10:28:00",
+    "seen_at": "2026-04-20T08:33:44.748Z",
+    "raw": "Br. Vlaka 76502 dolazak      20.04.26. 10:28, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69770",
+    "event_time": "2026-04-20T10:26:00",
+    "seen_at": "2026-04-20T08:35:42.304Z",
+    "raw": "Br. Vlaka 69770 odlazak      20.04.26. 10:26, kolodvor OSIJEK"
   }
 ]
