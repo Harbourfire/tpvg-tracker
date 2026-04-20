@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-17T01:38:00",
-    "seen_at": "2026-04-17T10:15:50.811Z",
-    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 01:38, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-17T01:38:00",
-    "seen_at": "2026-04-17T10:16:13.602Z",
-    "raw": "Br. Vlaka 44789 promjena sas 17.04.26. 01:38, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "45980",
-    "event_time": "2026-04-17T00:45:00",
-    "seen_at": "2026-04-17T10:16:58.930Z",
-    "raw": "Br. Vlaka 45980 promjena sas 17.04.26. 00:45, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-16T17:00:00",
-    "seen_at": "2026-04-17T10:17:21.299Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-17T12:17:00",
-    "seen_at": "2026-04-17T10:17:43.814Z",
-    "raw": "Br. Vlaka 69750 formiran     17.04.26. 12:17, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-16T21:44:00",
-    "seen_at": "2026-04-17T10:18:29.418Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-17T12:17:00",
-    "seen_at": "2026-04-17T10:19:26.836Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 12:17, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-17T12:17:00",
-    "seen_at": "2026-04-17T10:19:26.837Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 12:17, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -17071,5 +16999,59 @@
     "event_time": "2026-04-20T12:14:00",
     "seen_at": "2026-04-20T10:14:49.564Z",
     "raw": "Br. Vlaka 82321 odlazak      20.04.26. 12:14, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-20T11:25:00",
+    "seen_at": "2026-04-20T10:21:20.817Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "82332",
+    "event_time": "2026-04-20T12:15:00",
+    "seen_at": "2026-04-20T10:21:44.877Z",
+    "raw": "Br. Vlaka 82332 odlazak      20.04.26. 12:15, kolodvor OTOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:22:00",
+    "seen_at": "2026-04-20T10:22:55.113Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:22, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44998",
+    "event_time": "2026-04-20T12:22:00",
+    "seen_at": "2026-04-20T10:22:55.113Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:22, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "82321",
+    "event_time": "2026-04-20T12:23:00",
+    "seen_at": "2026-04-20T10:24:52.178Z",
+    "raw": "Br. Vlaka 82321 dolazak      20.04.26. 12:23, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "82321",
+    "event_time": "2026-04-20T12:23:00",
+    "seen_at": "2026-04-20T10:24:52.178Z",
+    "raw": "Br. Vlaka 82321 dolazak      20.04.26. 12:23, kolodvor VRHOVINE"
   }
 ]
