@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89726",
-    "event_time": "2026-04-17T16:31:00",
-    "seen_at": "2026-04-17T14:32:03.415Z",
-    "raw": "Br. Vlaka 89726 odlazak      17.04.26. 16:31, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "89139",
-    "event_time": "2026-04-17T16:31:00",
-    "seen_at": "2026-04-17T14:32:03.416Z",
-    "raw": "Br. Vlaka 89139 formiran     17.04.26. 16:31, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "VRHOVINE",
-    "train_number": null,
-    "event_time": "2026-04-17T16:31:00",
-    "seen_at": "2026-04-17T14:34:10.496Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "VRHOVINE",
-    "train_number": "63312",
-    "event_time": "2026-04-17T14:33:00",
-    "seen_at": "2026-04-17T14:34:33.675Z",
-    "raw": "Br. Vlaka 63312 formiran     17.04.26. 14:33, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T16:35:00",
-    "seen_at": "2026-04-17T14:36:51.978Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:35, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44789",
-    "event_time": "2026-04-17T16:35:00",
-    "seen_at": "2026-04-17T14:36:51.978Z",
-    "raw": "Br. Vlaka 44789 odlazak      17.04.26. 16:35, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -17152,5 +17098,68 @@
     "event_time": "2026-04-20T16:22:00",
     "seen_at": "2026-04-20T14:27:47.139Z",
     "raw": "Br. Vlaka 44787 odlazak      20.04.26. 16:22, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89408",
+    "event_time": "2026-04-20T16:33:00",
+    "seen_at": "2026-04-20T14:33:18.516Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 16:33, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:34:00",
+    "seen_at": "2026-04-20T14:34:49.208Z",
+    "raw": "Br. Vlaka 44787 dolazak      20.04.26. 16:34, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:34:00",
+    "seen_at": "2026-04-20T14:34:49.209Z",
+    "raw": "Br. Vlaka 44787 dolazak      20.04.26. 16:34, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:36:00",
+    "seen_at": "2026-04-20T14:36:19.517Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 16:36, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44787",
+    "event_time": "2026-04-20T16:36:00",
+    "seen_at": "2026-04-20T14:36:19.518Z",
+    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 16:36, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:37:00",
+    "seen_at": "2026-04-20T14:37:28.306Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:37, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82146",
+    "event_time": "2026-04-20T16:37:00",
+    "seen_at": "2026-04-20T14:37:28.306Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 16:37, kolodvor PLAŠKI"
   }
 ]
