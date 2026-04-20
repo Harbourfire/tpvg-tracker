@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "42786",
-    "event_time": "2026-04-17T20:41:00",
-    "seen_at": "2026-04-17T18:42:24.930Z",
-    "raw": "Br. Vlaka 42786 odlazak      17.04.26. 20:41, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81966",
-    "event_time": "2026-04-17T20:42:00",
-    "seen_at": "2026-04-17T18:43:33.881Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 20:42, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -16945,5 +16927,32 @@
     "event_time": "2026-04-20T20:29:00",
     "seen_at": "2026-04-20T18:34:18.447Z",
     "raw": "Br. Vlaka 49999 promjena sas 20.04.26. 20:29, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89708",
+    "event_time": "2026-04-20T20:38:00",
+    "seen_at": "2026-04-20T18:39:53.376Z",
+    "raw": "Br. Vlaka 89708 odlazak      20.04.26. 20:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89708",
+    "event_time": "2026-04-20T20:38:00",
+    "seen_at": "2026-04-20T18:40:16.363Z",
+    "raw": "Br. Vlaka 89708 odlazak      20.04.26. 20:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "81105",
+    "event_time": "2026-04-20T20:40:00",
+    "seen_at": "2026-04-20T18:44:54.675Z",
+    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 20:40, kolodvor ZABOK"
   }
 ]
