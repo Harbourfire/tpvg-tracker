@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "48588",
-    "event_time": "2026-04-17T14:59:00",
-    "seen_at": "2026-04-17T13:00:44.127Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 14:59, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "48588",
-    "event_time": "2026-04-17T14:59:00",
-    "seen_at": "2026-04-17T13:00:44.128Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 14:59, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "83809",
-    "event_time": "2026-04-17T15:00:00",
-    "seen_at": "2026-04-17T13:02:39.663Z",
-    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:00, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "83809",
-    "event_time": "2026-04-17T15:00:00",
-    "seen_at": "2026-04-17T13:02:39.664Z",
-    "raw": "Br. Vlaka 83809 odlazak      17.04.26. 15:00, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -17044,5 +17008,59 @@
     "event_time": "2026-04-20T14:54:00",
     "seen_at": "2026-04-20T12:55:50.705Z",
     "raw": "Br. Vlaka 89408 dolazak      20.04.26. 14:54, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ERDUT",
+    "train_number": "81952",
+    "event_time": "2026-04-20T14:43:00",
+    "seen_at": "2026-04-20T12:58:04.183Z",
+    "raw": "Br. Vlaka 81952 dolazak      20.04.26. 14:43, kolodvor ERDUT"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "82146",
+    "event_time": "2026-04-20T14:57:00",
+    "seen_at": "2026-04-20T12:58:26.925Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 14:57, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "82146",
+    "event_time": "2026-04-20T14:57:00",
+    "seen_at": "2026-04-20T12:58:26.925Z",
+    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 14:57, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ERDUT",
+    "train_number": "81953",
+    "event_time": "2026-04-20T14:37:00",
+    "seen_at": "2026-04-20T12:58:49.704Z",
+    "raw": "Br. Vlaka 81953 formiran     20.04.26. 14:37, kolodvor ERDUT"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76501",
+    "event_time": "2026-04-20T14:58:00",
+    "seen_at": "2026-04-20T12:59:14.102Z",
+    "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:58, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "89408",
+    "event_time": "2026-04-20T14:56:00",
+    "seen_at": "2026-04-20T12:59:36.863Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 14:56, kolodvor TOVARNIK"
   }
 ]
