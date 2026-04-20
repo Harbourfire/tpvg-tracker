@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "49999",
-    "event_time": "2026-04-17T19:12:00",
-    "seen_at": "2026-04-17T17:14:53.583Z",
-    "raw": "Br. Vlaka 49999 odlazak      17.04.26. 19:12, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -16846,5 +16837,32 @@
     "event_time": "2026-04-20T19:07:00",
     "seen_at": "2026-04-20T17:09:19.051Z",
     "raw": "Br. Vlaka 82131 odlazak      20.04.26. 19:07, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "89408",
+    "event_time": "2026-04-20T19:08:00",
+    "seen_at": "2026-04-20T17:11:49.596Z",
+    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 19:08, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-20T19:17:00",
+    "seen_at": "2026-04-20T17:17:18.881Z",
+    "raw": "Br. Vlaka 69005 odlazak      20.04.26. 19:17, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-20T19:17:00",
+    "seen_at": "2026-04-20T17:17:18.882Z",
+    "raw": "Br. Vlaka 69005 odlazak      20.04.26. 19:17, kolodvor OGULIN"
   }
 ]
