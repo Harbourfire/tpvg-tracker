@@ -1,42 +1,6 @@
 [
   {
     "uic": "987893113470",
-    "type": "Formiran",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "76501",
-    "event_time": "2026-04-17T13:49:00",
-    "seen_at": "2026-04-17T11:50:28.868Z",
-    "raw": "Br. Vlaka 76501 formiran     17.04.26. 13:49, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "89749",
-    "event_time": "2026-04-17T13:52:00",
-    "seen_at": "2026-04-17T11:55:33.573Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 13:52, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "DEANOVEC",
-    "train_number": "81108",
-    "event_time": "2026-04-17T13:58:00",
-    "seen_at": "2026-04-17T11:58:56.241Z",
-    "raw": "Br. Vlaka 81108 dolazak      17.04.26. 13:58, kolodvor DEANOVEC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "89749",
-    "event_time": "2026-04-17T13:58:00",
-    "seen_at": "2026-04-17T11:58:56.243Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 13:58, kolodvor KUKAČA"
-  },
-  {
-    "uic": "987893113470",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
     "train_number": "76501",
@@ -16999,5 +16963,59 @@
     "event_time": "2026-04-20T13:49:00",
     "seen_at": "2026-04-20T11:49:27.780Z",
     "raw": "Br. Vlaka 44998 dolazak      20.04.26. 13:49, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VUKOVAR",
+    "train_number": "81952",
+    "event_time": "2026-04-20T13:47:00",
+    "seen_at": "2026-04-20T11:50:28.481Z",
+    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 13:47, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44998",
+    "event_time": "2026-04-20T13:53:00",
+    "seen_at": "2026-04-20T11:53:14.210Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:53, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44998",
+    "event_time": "2026-04-20T13:53:00",
+    "seen_at": "2026-04-20T11:53:14.211Z",
+    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:53, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82146",
+    "event_time": "2026-04-20T13:57:00",
+    "seen_at": "2026-04-20T11:57:09.655Z",
+    "raw": "Br. Vlaka 82146 formiran     20.04.26. 13:57, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82146",
+    "event_time": "2026-04-20T13:57:00",
+    "seen_at": "2026-04-20T11:57:09.656Z",
+    "raw": "Br. Vlaka 82146 formiran     20.04.26. 13:57, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "89408",
+    "event_time": "2026-04-20T12:25:00",
+    "seen_at": "2026-04-20T11:58:45.776Z",
+    "raw": "Br. Vlaka 89408 formiran     20.04.26. 12:25, kolodvor 71020"
   }
 ]
