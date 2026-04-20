@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "83807",
-    "event_time": "2026-04-17T18:08:00",
-    "seen_at": "2026-04-17T16:09:09.999Z",
-    "raw": "Br. Vlaka 83807 odlazak      17.04.26. 18:08, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "DARDA",
-    "train_number": "47987",
-    "event_time": "2026-04-17T18:08:00",
-    "seen_at": "2026-04-17T16:11:03.832Z",
-    "raw": "Br. Vlaka 47987 dolazak      17.04.26. 18:08, kolodvor DARDA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "48588",
-    "event_time": "2026-04-17T18:14:00",
-    "seen_at": "2026-04-17T16:14:30.566Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 18:14, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "48588",
-    "event_time": "2026-04-17T18:14:00",
-    "seen_at": "2026-04-17T16:14:30.567Z",
-    "raw": "Br. Vlaka 48588 odlazak      17.04.26. 18:14, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "JASTREBARSKO",
@@ -16945,5 +16909,23 @@
     "event_time": "2026-04-20T17:20:00",
     "seen_at": "2026-04-20T15:58:25.051Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-20T18:07:00",
+    "seen_at": "2026-04-20T16:08:13.064Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89408",
+    "event_time": "2026-04-20T18:07:00",
+    "seen_at": "2026-04-20T16:08:13.065Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 18:07, kolodvor KOŠKA"
   }
 ]
