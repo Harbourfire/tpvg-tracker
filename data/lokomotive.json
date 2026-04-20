@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69350",
-    "event_time": "2026-04-17T09:54:00",
-    "seen_at": "2026-04-17T07:54:38.492Z",
-    "raw": "Br. Vlaka 69350 odlazak      17.04.26. 09:54, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44996",
-    "event_time": "2026-04-17T09:56:00",
-    "seen_at": "2026-04-17T07:56:55.226Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:56, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44996",
-    "event_time": "2026-04-17T09:56:00",
-    "seen_at": "2026-04-17T07:56:55.226Z",
-    "raw": "Br. Vlaka 44996 odlazak      17.04.26. 09:56, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -16657,5 +16630,50 @@
     "event_time": "2026-04-20T09:47:00",
     "seen_at": "2026-04-20T07:50:36.561Z",
     "raw": "Br. Vlaka 49827 odlazak      20.04.26. 09:47, kolodvor ERDUT"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "89021",
+    "event_time": "2026-04-20T09:54:00",
+    "seen_at": "2026-04-20T07:56:58.753Z",
+    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:54, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "76502",
+    "event_time": "2026-04-20T09:58:00",
+    "seen_at": "2026-04-20T07:58:33.502Z",
+    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 09:58, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "82331",
+    "event_time": "2026-04-20T10:00:00",
+    "seen_at": "2026-04-20T08:00:53.270Z",
+    "raw": "Br. Vlaka 82331 odlazak      20.04.26. 10:00, kolodvor OTOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:48:00",
+    "seen_at": "2026-04-20T08:02:51.864Z",
+    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "43995",
+    "event_time": "2026-04-20T09:48:00",
+    "seen_at": "2026-04-20T08:02:51.864Z",
+    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
   }
 ]
