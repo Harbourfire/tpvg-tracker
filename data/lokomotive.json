@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SPLIT PREDGRAĐE",
-    "train_number": "81962",
-    "event_time": "2026-04-17T05:35:00",
-    "seen_at": "2026-04-17T03:40:35.593Z",
-    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 05:35, kolodvor SPLIT PREDGRAĐE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "48581",
-    "event_time": "2026-04-17T05:46:00",
-    "seen_at": "2026-04-17T03:46:54.283Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 05:46, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ĐURĐENOVAC",
-    "train_number": "48581",
-    "event_time": "2026-04-17T05:46:00",
-    "seen_at": "2026-04-17T03:46:54.283Z",
-    "raw": "Br. Vlaka 48581 odlazak      17.04.26. 05:46, kolodvor ĐURĐENOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SOLIN",
-    "train_number": "81962",
-    "event_time": "2026-04-17T05:42:00",
-    "seen_at": "2026-04-17T03:48:27.093Z",
-    "raw": "Br. Vlaka 81962 odlazak      17.04.26. 05:42, kolodvor SOLIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZDENCI-ORAHOVICA",
@@ -16540,5 +16504,50 @@
     "event_time": "2026-04-20T05:29:00",
     "seen_at": "2026-04-20T03:30:13.763Z",
     "raw": "Br. Vlaka 69612 formiran     20.04.26. 05:29, kolodvor 72303"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-19T21:30:00",
+    "seen_at": "2026-04-20T03:42:17.049Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-19T21:30:00",
+    "seen_at": "2026-04-20T03:42:17.049Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89175",
+    "event_time": "2026-04-20T05:40:00",
+    "seen_at": "2026-04-20T03:42:40.522Z",
+    "raw": "Br. Vlaka 89175 formiran     20.04.26. 05:40, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-20T02:09:00",
+    "seen_at": "2026-04-20T03:43:03.697Z",
+    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 02:09, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "43995",
+    "event_time": "2026-04-20T02:09:00",
+    "seen_at": "2026-04-20T03:43:03.698Z",
+    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 02:09, kolodvor VARAŽDIN"
   }
 ]
