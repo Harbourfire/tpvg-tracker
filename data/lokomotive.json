@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "89749",
-    "event_time": "2026-04-17T14:35:00",
-    "seen_at": "2026-04-17T12:41:12.158Z",
-    "raw": "Br. Vlaka 89749 dolazak      17.04.26. 14:35, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "61201",
-    "event_time": "2026-04-17T14:43:00",
-    "seen_at": "2026-04-17T12:43:54.955Z",
-    "raw": "Br. Vlaka 61201 odlazak      17.04.26. 14:43, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "DARDA",
@@ -17071,5 +17053,23 @@
     "event_time": "2026-04-20T14:36:00",
     "seen_at": "2026-04-20T12:37:12.208Z",
     "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:36, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-20T14:07:00",
+    "seen_at": "2026-04-20T12:38:57.337Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76501",
+    "event_time": "2026-04-20T14:45:00",
+    "seen_at": "2026-04-20T12:46:16.391Z",
+    "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:45, kolodvor ORIOVAC"
   }
 ]
