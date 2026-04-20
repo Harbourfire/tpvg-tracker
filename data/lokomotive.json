@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "81972",
-    "event_time": "2026-04-18T00:56:00",
-    "seen_at": "2026-04-17T22:57:28.034Z",
-    "raw": "Br. Vlaka 81972 odlazak      18.04.26. 00:56, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "83805",
-    "event_time": "2026-04-18T00:58:00",
-    "seen_at": "2026-04-17T22:58:59.916Z",
-    "raw": "Br. Vlaka 83805 odlazak      18.04.26. 00:58, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "43997",
-    "event_time": "2026-04-18T00:56:00",
-    "seen_at": "2026-04-17T22:58:59.917Z",
-    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 00:56, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-18T00:59:00",
-    "seen_at": "2026-04-17T23:00:49.130Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230142",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
     "train_number": null,
@@ -17017,5 +16981,14 @@
     "event_time": "2026-04-21T00:46:00",
     "seen_at": "2026-04-20T22:47:25.028Z",
     "raw": "Br. Vlaka 71100 formiran     21.04.26. 00:46, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89136",
+    "event_time": "2026-04-20T23:52:00",
+    "seen_at": "2026-04-20T22:54:12.574Z",
+    "raw": "Br. Vlaka 89136 formiran     20.04.26. 23:52, kolodvor VARAŽDIN"
   }
 ]
