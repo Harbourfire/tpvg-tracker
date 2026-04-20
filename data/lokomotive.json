@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89128",
-    "event_time": "2026-04-17T02:31:00",
-    "seen_at": "2026-04-17T00:32:07.890Z",
-    "raw": "Br. Vlaka 89128 odlazak      17.04.26. 02:31, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-17T02:32:00",
-    "seen_at": "2026-04-17T00:34:01.011Z",
-    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:32, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-17T02:32:00",
-    "seen_at": "2026-04-17T00:34:01.011Z",
-    "raw": "Br. Vlaka 63306 odlazak      17.04.26. 02:32, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81101",
-    "event_time": "2026-04-16T23:23:00",
-    "seen_at": "2026-04-17T00:39:55.512Z",
-    "raw": "Br. Vlaka 81101 promjena sas 16.04.26. 23:23, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81101",
-    "event_time": "2026-04-16T23:23:00",
-    "seen_at": "2026-04-17T00:40:17.892Z",
-    "raw": "Br. Vlaka 81101 promjena sas 16.04.26. 23:23, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "DRNIŠ",
@@ -16990,5 +16945,23 @@
     "event_time": "2026-04-20T02:09:00",
     "seen_at": "2026-04-20T00:13:41.976Z",
     "raw": "Br. Vlaka 43995 dolazak      20.04.26. 02:09, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-20T02:35:00",
+    "seen_at": "2026-04-20T00:35:16.140Z",
+    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 02:35, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-20T02:35:00",
+    "seen_at": "2026-04-20T00:35:16.140Z",
+    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 02:35, kolodvor GOSPIĆ"
   }
 ]
