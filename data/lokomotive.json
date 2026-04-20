@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "48588",
-    "event_time": "2026-04-17T15:10:00",
-    "seen_at": "2026-04-17T13:15:32.011Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 15:10, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "48588",
-    "event_time": "2026-04-17T15:10:00",
-    "seen_at": "2026-04-17T13:15:32.011Z",
-    "raw": "Br. Vlaka 48588 dolazak      17.04.26. 15:10, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-17T15:18:00",
-    "seen_at": "2026-04-17T13:18:46.097Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "89749",
-    "event_time": "2026-04-17T15:23:00",
-    "seen_at": "2026-04-17T13:23:40.526Z",
-    "raw": "Br. Vlaka 89749 odlazak      17.04.26. 15:23, kolodvor DUGA RESA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -17080,5 +17044,14 @@
     "event_time": "2026-04-20T15:13:00",
     "seen_at": "2026-04-20T13:14:13.395Z",
     "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:13, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89408",
+    "event_time": "2026-04-20T15:22:00",
+    "seen_at": "2026-04-20T13:22:27.994Z",
+    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:22, kolodvor VINKOVCI"
   }
 ]
