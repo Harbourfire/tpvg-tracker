@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81966",
-    "event_time": "2026-04-17T19:09:00",
-    "seen_at": "2026-04-17T17:10:54.129Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 19:09, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16801,5 +16792,59 @@
     "event_time": "2026-04-20T17:21:00",
     "seen_at": "2026-04-20T17:01:47.998Z",
     "raw": "Br. Vlaka 69005 formiran     20.04.26. 17:21, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-20T17:21:00",
+    "seen_at": "2026-04-20T17:02:24.041Z",
+    "raw": "Br. Vlaka 69005 formiran     20.04.26. 17:21, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "81105",
+    "event_time": "2026-04-20T19:03:00",
+    "seen_at": "2026-04-20T17:06:37.840Z",
+    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 19:03, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "82131",
+    "event_time": "2026-04-20T18:58:00",
+    "seen_at": "2026-04-20T17:08:55.784Z",
+    "raw": "Br. Vlaka 82131 dolazak      20.04.26. 18:58, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "82131",
+    "event_time": "2026-04-20T18:58:00",
+    "seen_at": "2026-04-20T17:08:55.785Z",
+    "raw": "Br. Vlaka 82131 dolazak      20.04.26. 18:58, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82131",
+    "event_time": "2026-04-20T19:07:00",
+    "seen_at": "2026-04-20T17:09:19.050Z",
+    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 19:07, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82131",
+    "event_time": "2026-04-20T19:07:00",
+    "seen_at": "2026-04-20T17:09:19.051Z",
+    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 19:07, kolodvor NOVI MAROF"
   }
 ]
