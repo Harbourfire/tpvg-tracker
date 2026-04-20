@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891032094",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "71209",
-    "event_time": "2026-04-17T07:25:00",
-    "seen_at": "2026-04-17T05:25:50.592Z",
-    "raw": "Br. Vlaka 71209 odlazak      17.04.26. 07:25, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "43994",
-    "event_time": "2026-04-17T07:25:00",
-    "seen_at": "2026-04-17T05:26:13.773Z",
-    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:25, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Dolazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "71206",
-    "event_time": "2026-04-17T07:24:00",
-    "seen_at": "2026-04-17T05:26:59.241Z",
-    "raw": "Br. Vlaka 71206 dolazak      17.04.26. 07:24, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "NOVA GRADIŠKA",
-    "train_number": null,
-    "event_time": "2026-04-17T07:24:00",
-    "seen_at": "2026-04-17T05:27:21.763Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -16423,5 +16387,50 @@
     "event_time": "2026-04-20T07:05:00",
     "seen_at": "2026-04-20T05:14:42.924Z",
     "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "69326",
+    "event_time": "2026-04-20T07:25:00",
+    "seen_at": "2026-04-20T05:26:01.232Z",
+    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 07:25, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44998",
+    "event_time": "2026-04-19T23:05:00",
+    "seen_at": "2026-04-20T05:27:09.590Z",
+    "raw": "Br. Vlaka 44998 formiran     19.04.26. 23:05, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44998",
+    "event_time": "2026-04-19T23:05:00",
+    "seen_at": "2026-04-20T05:27:09.591Z",
+    "raw": "Br. Vlaka 44998 formiran     19.04.26. 23:05, kolodvor 72303"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": null,
+    "event_time": "2026-04-17T07:24:00",
+    "seen_at": "2026-04-20T05:27:55.549Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-04-20T07:28:00",
+    "seen_at": "2026-04-20T05:29:03.217Z",
+    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 07:28, kolodvor OTOK"
   }
 ]
