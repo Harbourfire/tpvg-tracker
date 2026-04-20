@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLASE",
-    "train_number": "81966",
-    "event_time": "2026-04-17T23:46:00",
-    "seen_at": "2026-04-17T21:47:11.298Z",
-    "raw": "Br. Vlaka 81966 odlazak      17.04.26. 23:46, kolodvor PLASE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "81972",
-    "event_time": "2026-04-17T23:52:00",
-    "seen_at": "2026-04-17T21:52:51.542Z",
-    "raw": "Br. Vlaka 81972 odlazak      17.04.26. 23:52, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "83804",
-    "event_time": "2026-04-17T23:52:00",
-    "seen_at": "2026-04-17T21:53:37.216Z",
-    "raw": "Br. Vlaka 83804 odlazak      17.04.26. 23:52, kolodvor TURČIN"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -17044,5 +17017,50 @@
     "event_time": "2026-04-20T23:43:00",
     "seen_at": "2026-04-20T21:45:21.161Z",
     "raw": "Br. Vlaka 89148 odlazak      20.04.26. 23:43, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49999",
+    "event_time": "2026-04-20T23:39:00",
+    "seen_at": "2026-04-20T21:46:43.410Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 23:39, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49999",
+    "event_time": "2026-04-20T23:39:00",
+    "seen_at": "2026-04-20T21:46:43.411Z",
+    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 23:39, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44787",
+    "event_time": "2026-04-20T23:48:00",
+    "seen_at": "2026-04-20T21:49:01.542Z",
+    "raw": "Br. Vlaka 44787 dolazak      20.04.26. 23:48, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44787",
+    "event_time": "2026-04-20T23:48:00",
+    "seen_at": "2026-04-20T21:49:01.542Z",
+    "raw": "Br. Vlaka 44787 dolazak      20.04.26. 23:48, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89148",
+    "event_time": "2026-04-20T23:51:00",
+    "seen_at": "2026-04-20T21:52:30.782Z",
+    "raw": "Br. Vlaka 89148 odlazak      20.04.26. 23:51, kolodvor KONJŠČINA"
   }
 ]
