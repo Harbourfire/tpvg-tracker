@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-17T07:05:00",
-    "seen_at": "2026-04-17T05:05:49.703Z",
-    "raw": "Br. Vlaka 71202 formiran     17.04.26. 07:05, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "89199",
-    "event_time": "2026-04-17T07:06:00",
-    "seen_at": "2026-04-17T05:06:34.922Z",
-    "raw": "Br. Vlaka 89199 formiran     17.04.26. 07:06, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987893113470",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76500",
-    "event_time": "2026-04-17T07:07:00",
-    "seen_at": "2026-04-17T05:07:55.210Z",
-    "raw": "Br. Vlaka 76500 odlazak      17.04.26. 07:07, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "43994",
-    "event_time": "2026-04-17T07:09:00",
-    "seen_at": "2026-04-17T05:09:48.792Z",
-    "raw": "Br. Vlaka 43994 odlazak      17.04.26. 07:09, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "71206",
-    "event_time": "2026-04-17T07:09:00",
-    "seen_at": "2026-04-17T05:10:34.179Z",
-    "raw": "Br. Vlaka 71206 odlazak      17.04.26. 07:09, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89199",
-    "event_time": "2026-04-17T07:11:00",
-    "seen_at": "2026-04-17T05:12:49.175Z",
-    "raw": "Br. Vlaka 89199 odlazak      17.04.26. 07:11, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820621104",
     "type": "Promjena sastava",
     "station": "NOVA KAPELA-BATRINA",
@@ -16477,5 +16423,23 @@
     "event_time": "2026-04-20T06:57:00",
     "seen_at": "2026-04-20T04:59:48.811Z",
     "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:57, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-20T07:10:00",
+    "seen_at": "2026-04-20T05:11:27.614Z",
+    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 07:10, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "69326",
+    "event_time": "2026-04-20T07:11:00",
+    "seen_at": "2026-04-20T05:11:50.514Z",
+    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 07:11, kolodvor SIBINJ"
   }
 ]
