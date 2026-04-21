@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "JURDANI",
-    "train_number": "81969",
-    "event_time": "2026-04-18T10:10:00",
-    "seen_at": "2026-04-18T08:13:22.252Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:10, kolodvor JURDANI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "GARČIN",
@@ -15685,5 +15676,131 @@
     "event_time": "2026-04-21T10:05:00",
     "seen_at": "2026-04-21T08:05:45.918Z",
     "raw": "Br. Vlaka 71203 odlazak      21.04.26. 10:05, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89940",
+    "event_time": "2026-04-21T10:08:00",
+    "seen_at": "2026-04-21T08:09:53.256Z",
+    "raw": "Br. Vlaka 89940 odlazak      21.04.26. 10:08, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89940",
+    "event_time": "2026-04-21T10:08:00",
+    "seen_at": "2026-04-21T08:09:53.256Z",
+    "raw": "Br. Vlaka 89940 odlazak      21.04.26. 10:08, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82321",
+    "event_time": "2026-04-21T10:12:00",
+    "seen_at": "2026-04-21T08:12:15.107Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 10:12, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82321",
+    "event_time": "2026-04-21T10:12:00",
+    "seen_at": "2026-04-21T08:12:15.107Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 10:12, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-21T10:12:00",
+    "seen_at": "2026-04-21T08:14:34.039Z",
+    "raw": "Br. Vlaka 71203 odlazak      21.04.26. 10:12, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89940",
+    "event_time": "2026-04-21T10:15:00",
+    "seen_at": "2026-04-21T08:15:45.494Z",
+    "raw": "Br. Vlaka 89940 odlazak      21.04.26. 10:15, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89940",
+    "event_time": "2026-04-21T10:15:00",
+    "seen_at": "2026-04-21T08:15:45.494Z",
+    "raw": "Br. Vlaka 89940 odlazak      21.04.26. 10:15, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "82330",
+    "event_time": "2026-04-21T10:16:00",
+    "seen_at": "2026-04-21T08:16:31.291Z",
+    "raw": "Br. Vlaka 82330 formiran     21.04.26. 10:16, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89177",
+    "event_time": "2026-04-21T10:16:00",
+    "seen_at": "2026-04-21T08:16:31.292Z",
+    "raw": "Br. Vlaka 89177 dolazak      21.04.26. 10:16, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89177",
+    "event_time": "2026-04-21T10:16:00",
+    "seen_at": "2026-04-21T08:16:31.292Z",
+    "raw": "Br. Vlaka 89177 dolazak      21.04.26. 10:16, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-21T10:16:00",
+    "seen_at": "2026-04-21T08:16:54.100Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-21T10:16:00",
+    "seen_at": "2026-04-21T08:16:54.100Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "81955",
+    "event_time": "2026-04-21T10:10:00",
+    "seen_at": "2026-04-21T08:17:40.143Z",
+    "raw": "Br. Vlaka 81955 dolazak      21.04.26. 10:10, kolodvor DARDA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89180",
+    "event_time": "2026-04-21T10:18:00",
+    "seen_at": "2026-04-21T08:18:49.219Z",
+    "raw": "Br. Vlaka 89180 odlazak      21.04.26. 10:18, kolodvor NOVI MAROF"
   }
 ]
