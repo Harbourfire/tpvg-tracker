@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44787",
-    "event_time": "2026-04-18T17:36:00",
-    "seen_at": "2026-04-18T15:38:35.900Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 17:36, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44787",
-    "event_time": "2026-04-18T17:36:00",
-    "seen_at": "2026-04-18T15:38:35.901Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 17:36, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "47938",
-    "event_time": "2026-04-18T17:39:00",
-    "seen_at": "2026-04-18T15:44:53.086Z",
-    "raw": "Br. Vlaka 47938 odlazak      18.04.26. 17:39, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LUPOGLAV",
-    "train_number": "47938",
-    "event_time": "2026-04-18T17:39:00",
-    "seen_at": "2026-04-18T15:44:53.086Z",
-    "raw": "Br. Vlaka 47938 odlazak      18.04.26. 17:39, kolodvor LUPOGLAV"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "HORVATI",
@@ -16711,5 +16675,59 @@
     "event_time": "2026-04-21T17:34:00",
     "seen_at": "2026-04-21T15:35:03.159Z",
     "raw": "Br. Vlaka 44996 odlazak      21.04.26. 17:34, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "SIBINJ",
+    "train_number": null,
+    "event_time": "2026-04-21T14:57:00",
+    "seen_at": "2026-04-21T15:37:38.073Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "78002",
+    "event_time": "2026-04-21T17:25:00",
+    "seen_at": "2026-04-21T15:38:02.911Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 17:25, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "78002",
+    "event_time": "2026-04-21T17:37:00",
+    "seen_at": "2026-04-21T15:38:27.119Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 17:37, kolodvor JASTREBARSKO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81290",
+    "event_time": "2026-04-21T16:49:00",
+    "seen_at": "2026-04-21T15:40:50.792Z",
+    "raw": "Br. Vlaka 81290 promjena sas 21.04.26. 16:49, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "SIBINJ",
+    "train_number": "81959",
+    "event_time": "2026-04-21T17:43:00",
+    "seen_at": "2026-04-21T15:43:36.358Z",
+    "raw": "Br. Vlaka 81959 formiran     21.04.26. 17:43, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "ZDENČINA",
+    "train_number": "78002",
+    "event_time": "2026-04-21T17:44:00",
+    "seen_at": "2026-04-21T15:45:11.896Z",
+    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 17:44, kolodvor ZDENČINA"
   }
 ]
