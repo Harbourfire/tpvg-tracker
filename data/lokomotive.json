@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "82510",
-    "event_time": "2026-04-18T15:56:00",
-    "seen_at": "2026-04-18T14:12:45.738Z",
-    "raw": "Br. Vlaka 82510 dolazak      18.04.26. 15:56, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "81969",
-    "event_time": "2026-04-18T16:12:00",
-    "seen_at": "2026-04-18T14:12:45.738Z",
-    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 16:12, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82510",
-    "event_time": "2026-04-18T16:11:00",
-    "seen_at": "2026-04-18T14:13:08.155Z",
-    "raw": "Br. Vlaka 82510 odlazak      18.04.26. 16:11, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-18T16:17:00",
-    "seen_at": "2026-04-18T14:19:01.208Z",
-    "raw": "Br. Vlaka 63310 dolazak      18.04.26. 16:17, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620247",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
     "train_number": null,
@@ -16639,5 +16603,23 @@
     "event_time": "2026-04-21T16:08:00",
     "seen_at": "2026-04-21T14:08:49.991Z",
     "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "LUKA",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:17:00",
+    "seen_at": "2026-04-21T14:17:55.584Z",
+    "raw": "Br. Vlaka 44996 dolazak      21.04.26. 16:17, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "LUKA",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:17:00",
+    "seen_at": "2026-04-21T14:17:55.584Z",
+    "raw": "Br. Vlaka 44996 dolazak      21.04.26. 16:17, kolodvor LUKA"
   }
 ]
