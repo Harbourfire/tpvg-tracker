@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "89543",
-    "event_time": "2026-04-18T16:29:00",
-    "seen_at": "2026-04-18T14:38:42.467Z",
-    "raw": "Br. Vlaka 89543 promjena sas 18.04.26. 16:29, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -16657,5 +16648,50 @@
     "event_time": "2026-04-21T16:28:00",
     "seen_at": "2026-04-21T14:28:47.471Z",
     "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:28, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:33:00",
+    "seen_at": "2026-04-21T14:34:11.270Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:33, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:33:00",
+    "seen_at": "2026-04-21T14:34:11.270Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:33, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "81290",
+    "event_time": "2026-04-21T16:35:00",
+    "seen_at": "2026-04-21T14:35:20.666Z",
+    "raw": "Br. Vlaka 81290 odlazak      21.04.26. 16:35, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82530",
+    "event_time": "2026-04-21T16:36:00",
+    "seen_at": "2026-04-21T14:36:53.723Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:36, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82530",
+    "event_time": "2026-04-21T16:36:00",
+    "seen_at": "2026-04-21T14:36:53.723Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:36, kolodvor BLATA"
   }
 ]
