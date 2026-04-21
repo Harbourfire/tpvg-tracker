@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "89112",
-    "event_time": "2026-04-18T11:33:00",
-    "seen_at": "2026-04-18T09:35:58.215Z",
-    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:33, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44787",
-    "event_time": "2026-04-18T11:35:00",
-    "seen_at": "2026-04-18T09:36:21.193Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:35, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-18T11:35:00",
-    "seen_at": "2026-04-18T09:37:04.893Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLASE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T11:36:00",
-    "seen_at": "2026-04-18T09:37:28.568Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:36, kolodvor PLASE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-18T11:42:00",
-    "seen_at": "2026-04-18T09:43:30.360Z",
-    "raw": "Br. Vlaka 45104 odlazak      18.04.26. 11:42, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89112",
-    "event_time": "2026-04-18T11:44:00",
-    "seen_at": "2026-04-18T09:44:38.637Z",
-    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:44, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "46896",
-    "event_time": "2026-04-18T02:16:00",
-    "seen_at": "2026-04-18T09:44:38.638Z",
-    "raw": "Br. Vlaka 46896 promjena sas 18.04.26. 02:16, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -16054,5 +15991,68 @@
     "event_time": "2026-04-21T11:31:00",
     "seen_at": "2026-04-21T09:32:43.266Z",
     "raw": "Br. Vlaka 89133 odlazak      21.04.26. 11:31, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82321",
+    "event_time": "2026-04-21T11:37:00",
+    "seen_at": "2026-04-21T09:38:07.257Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 11:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82321",
+    "event_time": "2026-04-21T11:37:00",
+    "seen_at": "2026-04-21T09:38:07.257Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 11:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44781",
+    "event_time": "2026-04-21T11:38:00",
+    "seen_at": "2026-04-21T09:41:13.250Z",
+    "raw": "Br. Vlaka 44781 dolazak      21.04.26. 11:38, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44781",
+    "event_time": "2026-04-21T11:38:00",
+    "seen_at": "2026-04-21T09:41:13.250Z",
+    "raw": "Br. Vlaka 44781 dolazak      21.04.26. 11:38, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44781",
+    "event_time": "2026-04-21T11:39:00",
+    "seen_at": "2026-04-21T09:41:36.700Z",
+    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:39, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44781",
+    "event_time": "2026-04-21T11:39:00",
+    "seen_at": "2026-04-21T09:41:36.700Z",
+    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:39, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89133",
+    "event_time": "2026-04-21T11:43:00",
+    "seen_at": "2026-04-21T09:43:32.207Z",
+    "raw": "Br. Vlaka 89133 odlazak      21.04.26. 11:43, kolodvor IVANKOVO"
   }
 ]
