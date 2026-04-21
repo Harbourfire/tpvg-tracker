@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T20:55:00",
-    "seen_at": "2026-04-18T18:56:53.227Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 20:55, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T20:55:00",
-    "seen_at": "2026-04-18T18:56:53.228Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 20:55, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81951",
-    "event_time": "2026-04-18T20:57:00",
-    "seen_at": "2026-04-18T18:57:49.777Z",
-    "raw": "Br. Vlaka 81951 dolazak      18.04.26. 20:57, kolodvor SISAK CAPRAG"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -16711,5 +16684,14 @@
     "event_time": "2026-04-21T20:42:00",
     "seen_at": "2026-04-21T18:44:46.558Z",
     "raw": "Br. Vlaka 81290 odlazak      21.04.26. 20:42, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81290",
+    "event_time": "2026-04-21T21:04:00",
+    "seen_at": "2026-04-21T19:05:10.965Z",
+    "raw": "Br. Vlaka 81290 odlazak      21.04.26. 21:04, kolodvor BUDINŠĆINA"
   }
 ]
