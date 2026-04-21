@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-18T15:56:00",
-    "seen_at": "2026-04-18T13:57:35.789Z",
-    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 15:56, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "81969",
-    "event_time": "2026-04-18T15:58:00",
-    "seen_at": "2026-04-18T13:59:41.661Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 15:58, kolodvor KARLOVAC"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "TURČIN",
@@ -16558,5 +16540,32 @@
     "event_time": "2026-04-21T15:41:00",
     "seen_at": "2026-04-21T13:43:11.304Z",
     "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:41, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82530",
+    "event_time": "2026-04-21T15:56:00",
+    "seen_at": "2026-04-21T13:57:46.164Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:56, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82530",
+    "event_time": "2026-04-21T15:56:00",
+    "seen_at": "2026-04-21T13:57:46.164Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:56, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "81290",
+    "event_time": "2026-04-21T15:59:00",
+    "seen_at": "2026-04-21T14:00:05.438Z",
+    "raw": "Br. Vlaka 81290 formiran     21.04.26. 15:59, kolodvor ČAKOVEC"
   }
 ]
