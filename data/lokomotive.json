@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43997",
-    "event_time": "2026-04-18T09:36:00",
-    "seen_at": "2026-04-18T07:36:16.452Z",
-    "raw": "Br. Vlaka 43997 dolazak      18.04.26. 09:36, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89923",
-    "event_time": "2026-04-18T09:29:00",
-    "seen_at": "2026-04-18T07:36:39.099Z",
-    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 09:29, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
     "type": "Rasformiran",
     "station": "ZABOK",
     "train_number": null,
@@ -15658,5 +15640,32 @@
     "event_time": "2026-04-21T09:29:00",
     "seen_at": "2026-04-21T07:30:33.025Z",
     "raw": "Br. Vlaka 71203 formiran     21.04.26. 09:29, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89180",
+    "event_time": "2026-04-21T09:36:00",
+    "seen_at": "2026-04-21T07:36:36.113Z",
+    "raw": "Br. Vlaka 89180 odlazak      21.04.26. 09:36, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "82333",
+    "event_time": "2026-04-21T09:25:00",
+    "seen_at": "2026-04-21T07:38:33.602Z",
+    "raw": "Br. Vlaka 82333 dolazak      21.04.26. 09:25, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "BELI MANASTIR",
+    "train_number": "81955",
+    "event_time": "2026-04-21T06:25:00",
+    "seen_at": "2026-04-21T07:38:56.569Z",
+    "raw": "Br. Vlaka 81955 formiran     21.04.26. 06:25, kolodvor BELI MANASTIR"
   }
 ]
