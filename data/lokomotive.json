@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "82140",
-    "event_time": "2026-04-18T12:51:00",
-    "seen_at": "2026-04-18T10:53:22.358Z",
-    "raw": "Br. Vlaka 82140 odlazak      18.04.26. 12:51, kolodvor JOSIPOVAC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DELNICE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T12:54:00",
-    "seen_at": "2026-04-18T10:55:18.184Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 12:54, kolodvor DELNICE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82139",
-    "event_time": "2026-04-18T12:54:00",
-    "seen_at": "2026-04-18T10:56:50.558Z",
-    "raw": "Br. Vlaka 82139 dolazak      18.04.26. 12:54, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZALESINA",
@@ -16279,5 +16252,50 @@
     "event_time": "2026-04-21T12:49:00",
     "seen_at": "2026-04-21T10:50:50.778Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81956",
+    "event_time": "2026-04-21T12:51:00",
+    "seen_at": "2026-04-21T10:52:33.455Z",
+    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 12:51, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:54:00",
+    "seen_at": "2026-04-21T10:54:27.146Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:54, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:54:00",
+    "seen_at": "2026-04-21T10:54:27.147Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:54, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82330",
+    "event_time": "2026-04-21T12:53:00",
+    "seen_at": "2026-04-21T10:55:12.878Z",
+    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 12:53, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VELIKA GORICA",
+    "train_number": "81111",
+    "event_time": "2026-04-21T12:56:00",
+    "seen_at": "2026-04-21T10:57:51.510Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 12:56, kolodvor VELIKA GORICA"
   }
 ]
