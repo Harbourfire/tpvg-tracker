@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "82510",
-    "event_time": "2026-04-18T14:25:00",
-    "seen_at": "2026-04-18T12:28:05.106Z",
-    "raw": "Br. Vlaka 82510 odlazak      18.04.26. 14:25, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T14:26:00",
-    "seen_at": "2026-04-18T12:31:51.559Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:26, kolodvor GORNJE DUBRAVE"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "GENERALSKI STOL",
@@ -16468,5 +16450,32 @@
     "event_time": "2026-04-21T14:24:00",
     "seen_at": "2026-04-21T12:24:53.776Z",
     "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:24, kolodvor GENERALSKI STOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "OKUČANI",
+    "train_number": null,
+    "event_time": "2026-04-21T14:33:00",
+    "seen_at": "2026-04-21T12:33:54.439Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "78002",
+    "event_time": "2026-04-21T14:33:00",
+    "seen_at": "2026-04-21T12:33:54.443Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:33, kolodvor ZVEČAJ"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-21T14:33:00",
+    "seen_at": "2026-04-21T12:33:54.443Z",
+    "raw": "Br. Vlaka 71204 odlazak      21.04.26. 14:33, kolodvor GARČIN"
   }
 ]
