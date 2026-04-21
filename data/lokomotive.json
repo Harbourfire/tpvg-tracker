@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "VOLINJA",
-    "train_number": null,
-    "event_time": "2026-04-19T00:30:00",
-    "seen_at": "2026-04-18T18:28:03.209Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72205 VOLINJA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "VALPOVO",
-    "train_number": "89153",
-    "event_time": "2026-04-18T08:11:00",
-    "seen_at": "2026-04-18T18:28:25.547Z",
-    "raw": "Br. Vlaka 89153 formiran     18.04.26. 08:11, kolodvor VALPOVO"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "42786",
-    "event_time": "2026-04-18T20:34:00",
-    "seen_at": "2026-04-18T18:35:47.888Z",
-    "raw": "Br. Vlaka 42786 odlazak      18.04.26. 20:34, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "81951",
-    "event_time": "2026-04-18T20:33:00",
-    "seen_at": "2026-04-18T18:35:47.888Z",
-    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 20:33, kolodvor GREDA"
-  },
-  {
-    "uic": "927820622029",
     "type": "Odlazak",
     "station": "VALPOVO",
     "train_number": "89153",
@@ -16765,5 +16729,41 @@
     "event_time": "2026-04-15T20:23:00",
     "seen_at": "2026-04-21T18:26:12.600Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "89711",
+    "event_time": "2026-04-21T20:28:00",
+    "seen_at": "2026-04-21T18:31:28.981Z",
+    "raw": "Br. Vlaka 89711 dolazak      21.04.26. 20:28, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-21T20:28:00",
+    "seen_at": "2026-04-21T18:31:52.235Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81111",
+    "event_time": "2026-04-21T20:35:00",
+    "seen_at": "2026-04-21T18:36:33.505Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 20:35, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "89754",
+    "event_time": "2026-04-21T14:10:00",
+    "seen_at": "2026-04-21T18:36:57.152Z",
+    "raw": "Br. Vlaka 89754 formiran     21.04.26. 14:10, kolodvor ČAČINCI"
   }
 ]
