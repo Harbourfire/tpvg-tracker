@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-18T08:31:00",
-    "seen_at": "2026-04-18T06:33:21.385Z",
-    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 08:31, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "69777",
-    "event_time": "2026-04-18T08:33:00",
-    "seen_at": "2026-04-18T06:33:44.228Z",
-    "raw": "Br. Vlaka 69777 odlazak      18.04.26. 08:33, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "43997",
-    "event_time": "2026-04-18T08:34:00",
-    "seen_at": "2026-04-18T06:34:53.255Z",
-    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 08:34, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "JURDANI",
-    "train_number": "81968",
-    "event_time": "2026-04-18T08:40:00",
-    "seen_at": "2026-04-18T06:41:37.420Z",
-    "raw": "Br. Vlaka 81968 odlazak      18.04.26. 08:40, kolodvor JURDANI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45105",
-    "event_time": "2026-04-18T08:39:00",
-    "seen_at": "2026-04-18T06:42:22.723Z",
-    "raw": "Br. Vlaka 45105 dolazak      18.04.26. 08:39, kolodvor 71308"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "BRČKO - izvan HŽ",
@@ -15757,5 +15712,41 @@
     "event_time": "2026-04-21T08:28:00",
     "seen_at": "2026-04-21T06:29:01.291Z",
     "raw": "Br. Vlaka 89714 formiran     21.04.26. 08:28, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "81954",
+    "event_time": "2026-04-21T08:34:00",
+    "seen_at": "2026-04-21T06:35:22.961Z",
+    "raw": "Br. Vlaka 81954 odlazak      21.04.26. 08:34, kolodvor DARDA"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Promjena sastava",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89133",
+    "event_time": "2026-04-21T06:31:00",
+    "seen_at": "2026-04-21T06:36:54.141Z",
+    "raw": "Br. Vlaka 89133 promjena sas 21.04.26. 06:31, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82321",
+    "event_time": "2026-04-21T08:36:00",
+    "seen_at": "2026-04-21T06:40:22.235Z",
+    "raw": "Br. Vlaka 82321 formiran     21.04.26. 08:36, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82321",
+    "event_time": "2026-04-21T08:36:00",
+    "seen_at": "2026-04-21T06:40:22.235Z",
+    "raw": "Br. Vlaka 82321 formiran     21.04.26. 08:36, kolodvor OŠTARIJE"
   }
 ]
