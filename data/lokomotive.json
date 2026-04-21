@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "82140",
-    "event_time": "2026-04-18T19:30:00",
-    "seen_at": "2026-04-18T17:31:28.685Z",
-    "raw": "Br. Vlaka 82140 odlazak      18.04.26. 19:30, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-14T15:15:00",
-    "seen_at": "2026-04-18T17:33:51.865Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "42786",
-    "event_time": "2026-04-18T19:31:00",
-    "seen_at": "2026-04-18T17:34:14.505Z",
-    "raw": "Br. Vlaka 42786 dolazak      18.04.26. 19:31, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "TUROPOLJE",
@@ -16747,5 +16720,23 @@
     "event_time": "2026-04-21T19:23:00",
     "seen_at": "2026-04-21T17:24:19.422Z",
     "raw": "Br. Vlaka 81111 odlazak      21.04.26. 19:23, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "81111",
+    "event_time": "2026-04-21T19:37:00",
+    "seen_at": "2026-04-21T17:38:03.905Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 19:37, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "89711",
+    "event_time": "2026-04-21T19:33:00",
+    "seen_at": "2026-04-21T17:40:22.215Z",
+    "raw": "Br. Vlaka 89711 odlazak      21.04.26. 19:33, kolodvor VIROVITICA"
   }
 ]
