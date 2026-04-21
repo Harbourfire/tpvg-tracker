@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZVEČAJ",
-    "train_number": "81969",
-    "event_time": "2026-04-18T14:55:00",
-    "seen_at": "2026-04-18T13:02:25.106Z",
-    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 14:55, kolodvor ZVEČAJ"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -16495,5 +16486,50 @@
     "event_time": "2026-04-20T12:04:00",
     "seen_at": "2026-04-21T12:54:36.047Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44996",
+    "event_time": "2026-04-21T10:57:00",
+    "seen_at": "2026-04-21T12:55:13.110Z",
+    "raw": "Br. Vlaka 44996 promjena sas 21.04.26. 10:57, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44996",
+    "event_time": "2026-04-21T10:57:00",
+    "seen_at": "2026-04-21T12:55:13.111Z",
+    "raw": "Br. Vlaka 44996 promjena sas 21.04.26. 10:57, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82530",
+    "event_time": "2026-04-21T14:56:00",
+    "seen_at": "2026-04-21T12:56:22.396Z",
+    "raw": "Br. Vlaka 82530 formiran     21.04.26. 14:56, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82530",
+    "event_time": "2026-04-21T14:56:00",
+    "seen_at": "2026-04-21T12:56:22.396Z",
+    "raw": "Br. Vlaka 82530 formiran     21.04.26. 14:56, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SIBINJ",
+    "train_number": "81956",
+    "event_time": "2026-04-21T14:57:00",
+    "seen_at": "2026-04-21T12:58:39.285Z",
+    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 14:57, kolodvor SIBINJ"
   }
 ]
