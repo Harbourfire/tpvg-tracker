@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-18T12:13:00",
-    "seen_at": "2026-04-18T11:21:19.342Z",
-    "raw": "Br. Vlaka 44787 promjena sas 18.04.26. 12:13, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "BROD MORAVICE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T13:21:00",
-    "seen_at": "2026-04-18T11:21:41.936Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 13:21, kolodvor BROD MORAVICE"
-  },
-  {
-    "uic": "927820620247",
     "type": "Formiran",
     "station": "VARAŽDIN",
     "train_number": "82143",
@@ -16387,5 +16369,14 @@
     "event_time": "2026-04-21T13:15:00",
     "seen_at": "2026-04-21T11:18:20.622Z",
     "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:15, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "81111",
+    "event_time": "2026-04-21T13:20:00",
+    "seen_at": "2026-04-21T11:21:38.173Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 13:20, kolodvor GREDA"
   }
 ]
