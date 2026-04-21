@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "82134",
-    "event_time": "2026-04-18T09:50:00",
-    "seen_at": "2026-04-18T07:50:21.666Z",
-    "raw": "Br. Vlaka 82134 formiran     18.04.26. 09:50, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "82140",
-    "event_time": "2026-04-18T05:17:00",
-    "seen_at": "2026-04-18T07:55:58.639Z",
-    "raw": "Br. Vlaka 82140 promjena sas 18.04.26. 05:17, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ŠAPJANE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T09:54:00",
-    "seen_at": "2026-04-18T07:57:06.737Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 09:54, kolodvor ŠAPJANE"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -15676,5 +15649,41 @@
     "event_time": "2026-04-21T09:47:00",
     "seen_at": "2026-04-21T07:48:42.753Z",
     "raw": "Br. Vlaka 71101 odlazak      21.04.26. 09:47, kolodvor LIPOVLJANI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "81955",
+    "event_time": "2026-04-21T09:40:00",
+    "seen_at": "2026-04-21T07:50:51.359Z",
+    "raw": "Br. Vlaka 81955 odlazak      21.04.26. 09:40, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89180",
+    "event_time": "2026-04-21T09:57:00",
+    "seen_at": "2026-04-21T07:58:30.130Z",
+    "raw": "Br. Vlaka 89180 odlazak      21.04.26. 09:57, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "71101",
+    "event_time": "2026-04-21T09:57:00",
+    "seen_at": "2026-04-21T07:58:30.131Z",
+    "raw": "Br. Vlaka 71101 dolazak      21.04.26. 09:57, kolodvor NOVSKA"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2026-04-21T09:57:00",
+    "seen_at": "2026-04-21T07:59:15.571Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
