@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZALESINA",
-    "train_number": "81969",
-    "event_time": "2026-04-18T13:02:00",
-    "seen_at": "2026-04-18T11:03:57.220Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 13:02, kolodvor ZALESINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -16297,5 +16288,104 @@
     "event_time": "2026-04-21T12:56:00",
     "seen_at": "2026-04-21T10:57:51.510Z",
     "raw": "Br. Vlaka 81111 odlazak      21.04.26. 12:56, kolodvor VELIKA GORICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:59:00",
+    "seen_at": "2026-04-21T11:01:54.723Z",
+    "raw": "Br. Vlaka 89139 dolazak      21.04.26. 12:59, kolodvor 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:59:00",
+    "seen_at": "2026-04-21T11:01:54.724Z",
+    "raw": "Br. Vlaka 89139 dolazak      21.04.26. 12:59, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-21T12:59:00",
+    "seen_at": "2026-04-21T11:02:17.981Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-21T12:59:00",
+    "seen_at": "2026-04-21T11:02:17.982Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "78002",
+    "event_time": "2026-04-21T12:55:00",
+    "seen_at": "2026-04-21T11:04:15.148Z",
+    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 12:55, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82330",
+    "event_time": "2026-04-21T13:04:00",
+    "seen_at": "2026-04-21T11:05:03.468Z",
+    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 13:04, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:04:00",
+    "seen_at": "2026-04-21T11:07:02.256Z",
+    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 13:04, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:04:00",
+    "seen_at": "2026-04-21T11:07:02.256Z",
+    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 13:04, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "TUROPOLJE",
+    "train_number": "81111",
+    "event_time": "2026-04-21T13:06:00",
+    "seen_at": "2026-04-21T11:07:02.256Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 13:06, kolodvor TUROPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:04:00",
+    "seen_at": "2026-04-21T11:08:36.828Z",
+    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 13:04, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:04:00",
+    "seen_at": "2026-04-21T11:08:36.828Z",
+    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 13:04, kolodvor KONJŠČINA"
   }
 ]
