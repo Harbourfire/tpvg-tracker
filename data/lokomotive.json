@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-18T20:29:00",
-    "seen_at": "2026-04-18T19:08:45.660Z",
-    "raw": "Br. Vlaka 63305 formiran     18.04.26. 20:29, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-18T20:29:00",
-    "seen_at": "2026-04-18T19:08:45.660Z",
-    "raw": "Br. Vlaka 63305 formiran     18.04.26. 20:29, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "49996",
-    "event_time": "2026-04-18T21:06:00",
-    "seen_at": "2026-04-18T19:10:38.914Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 21:06, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "49996",
-    "event_time": "2026-04-18T21:06:00",
-    "seen_at": "2026-04-18T19:10:38.915Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 21:06, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "BIZOVAC",
-    "train_number": null,
-    "event_time": "2026-04-18T21:13:00",
-    "seen_at": "2026-04-18T19:13:39.447Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71903 BIZOVAC"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "BIZOVAC",
@@ -16693,5 +16648,14 @@
     "event_time": "2026-04-21T21:04:00",
     "seen_at": "2026-04-21T19:05:10.965Z",
     "raw": "Br. Vlaka 81290 odlazak      21.04.26. 21:04, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81290",
+    "event_time": "2026-04-21T21:12:00",
+    "seen_at": "2026-04-21T19:12:35.171Z",
+    "raw": "Br. Vlaka 81290 odlazak      21.04.26. 21:12, kolodvor KONJŠČINA"
   }
 ]
