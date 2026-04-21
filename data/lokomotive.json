@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44787",
-    "event_time": "2026-04-18T19:54:00",
-    "seen_at": "2026-04-18T18:13:51.549Z",
-    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 19:54, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44787",
-    "event_time": "2026-04-18T19:54:00",
-    "seen_at": "2026-04-18T18:13:51.550Z",
-    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 19:54, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "GREDA",
-    "train_number": "81951",
-    "event_time": "2026-04-18T20:13:00",
-    "seen_at": "2026-04-18T18:15:04.016Z",
-    "raw": "Br. Vlaka 81951 dolazak      18.04.26. 20:13, kolodvor GREDA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "43996",
-    "event_time": "2026-04-18T12:55:00",
-    "seen_at": "2026-04-18T18:18:06.579Z",
-    "raw": "Br. Vlaka 43996 promjena sas 18.04.26. 12:55, kolodvor ZABOK"
-  },
-  {
     "uic": "927820621195",
     "type": "Promjena sastava",
     "station": "ZABOK",
@@ -16747,5 +16711,50 @@
     "event_time": "2026-04-21T20:06:00",
     "seen_at": "2026-04-21T18:08:24.715Z",
     "raw": "Br. Vlaka 89711 odlazak      21.04.26. 20:06, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-21T20:09:00",
+    "seen_at": "2026-04-21T18:10:31.859Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-04-21T20:12:00",
+    "seen_at": "2026-04-21T18:12:52.094Z",
+    "raw": "Br. Vlaka 45131 formiran     21.04.26. 20:12, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "81111",
+    "event_time": "2026-04-21T20:13:00",
+    "seen_at": "2026-04-21T18:14:48.991Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 20:13, kolodvor SIBINJ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-21T20:08:00",
+    "seen_at": "2026-04-21T18:16:20.940Z",
+    "raw": "Br. Vlaka 63305 formiran     21.04.26. 20:08, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-21T20:08:00",
+    "seen_at": "2026-04-21T18:16:43.913Z",
+    "raw": "Br. Vlaka 63305 formiran     21.04.26. 20:08, kolodvor OŠTARIJE"
   }
 ]
