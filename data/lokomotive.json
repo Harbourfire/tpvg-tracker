@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "43995",
-    "event_time": "2026-04-19T01:20:00",
-    "seen_at": "2026-04-18T23:21:43.436Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:20, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "43995",
-    "event_time": "2026-04-19T01:20:00",
-    "seen_at": "2026-04-18T23:21:43.437Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:20, kolodvor TURČIN"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -16081,5 +16063,14 @@
     "event_time": "2026-04-22T01:13:00",
     "seen_at": "2026-04-21T23:13:53.949Z",
     "raw": "Br. Vlaka 48789 dolazak      22.04.26. 01:13, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "48789",
+    "event_time": "2026-04-22T01:25:00",
+    "seen_at": "2026-04-21T23:26:23.055Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 01:25, kolodvor ČAKOVEC"
   }
 ]
