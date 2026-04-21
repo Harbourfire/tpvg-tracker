@@ -2,69 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "48786",
-    "event_time": "2026-04-18T03:05:00",
-    "seen_at": "2026-04-18T01:07:58.679Z",
-    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 03:05, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-18T03:06:00",
-    "seen_at": "2026-04-18T01:07:58.680Z",
-    "raw": "Br. Vlaka 63305 dolazak      18.04.26. 03:06, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-18T03:06:00",
-    "seen_at": "2026-04-18T01:07:58.680Z",
-    "raw": "Br. Vlaka 63305 dolazak      18.04.26. 03:06, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-04-17T20:24:00",
-    "seen_at": "2026-04-18T01:08:21.749Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "PLAŠKI",
-    "train_number": null,
-    "event_time": "2026-04-17T20:24:00",
-    "seen_at": "2026-04-18T01:08:21.749Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-18T03:06:00",
-    "seen_at": "2026-04-18T01:08:45.467Z",
-    "raw": "Br. Vlaka 63305 promjena sas 18.04.26. 03:06, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-18T03:06:00",
-    "seen_at": "2026-04-18T01:09:08.676Z",
-    "raw": "Br. Vlaka 63305 promjena sas 18.04.26. 03:06, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "BEDEKOVČINA",
     "train_number": "48786",
     "event_time": "2026-04-18T03:16:00",
@@ -16441,5 +16378,23 @@
     "event_time": "2026-04-21T03:00:00",
     "seen_at": "2026-04-21T01:00:38.503Z",
     "raw": "Br. Vlaka 82159 formiran     21.04.26. 03:00, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82156",
+    "event_time": "2026-04-21T03:08:00",
+    "seen_at": "2026-04-21T01:09:21.429Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 03:08, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82156",
+    "event_time": "2026-04-21T03:08:00",
+    "seen_at": "2026-04-21T01:09:21.429Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 03:08, kolodvor PLAŠKI"
   }
 ]
