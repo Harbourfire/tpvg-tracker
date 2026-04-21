@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82143",
-    "event_time": "2026-04-18T13:50:00",
-    "seen_at": "2026-04-18T11:50:59.078Z",
-    "raw": "Br. Vlaka 82143 dolazak      18.04.26. 13:50, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OGULINSKI HRELJIN",
-    "train_number": "81969",
-    "event_time": "2026-04-18T13:52:00",
-    "seen_at": "2026-04-18T11:53:13.990Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 13:52, kolodvor OGULINSKI HRELJIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-18T13:55:00",
-    "seen_at": "2026-04-18T11:55:52.255Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -16387,5 +16360,59 @@
     "event_time": "2026-04-21T13:41:00",
     "seen_at": "2026-04-21T11:46:35.866Z",
     "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:41, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SISAK CAPRAG",
+    "train_number": "81111",
+    "event_time": "2026-04-21T13:48:00",
+    "seen_at": "2026-04-21T11:48:26.251Z",
+    "raw": "Br. Vlaka 81111 dolazak      21.04.26. 13:48, kolodvor SISAK CAPRAG"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82330",
+    "event_time": "2026-04-21T13:49:00",
+    "seen_at": "2026-04-21T11:49:42.462Z",
+    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 13:49, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:52:00",
+    "seen_at": "2026-04-21T11:54:22.532Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:52, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:52:00",
+    "seen_at": "2026-04-21T11:54:22.532Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:52, kolodvor ZABOK"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "78002",
+    "event_time": "2026-04-21T13:48:00",
+    "seen_at": "2026-04-21T11:56:41.219Z",
+    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 13:48, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "78002",
+    "event_time": "2026-04-21T13:55:00",
+    "seen_at": "2026-04-21T11:57:27.294Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 13:55, kolodvor OŠTARIJE"
   }
 ]
