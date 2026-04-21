@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "81969",
-    "event_time": "2026-04-18T14:01:00",
-    "seen_at": "2026-04-18T12:01:47.912Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:01, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82143",
-    "event_time": "2026-04-18T13:56:00",
-    "seen_at": "2026-04-18T12:02:11.098Z",
-    "raw": "Br. Vlaka 82143 odlazak      18.04.26. 13:56, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "89109",
-    "event_time": "2026-04-18T12:11:00",
-    "seen_at": "2026-04-18T12:05:15.254Z",
-    "raw": "Br. Vlaka 89109 formiran     18.04.26. 12:11, kolodvor OSIJEK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "LUPOGLAV",
-    "train_number": "47938",
-    "event_time": "2026-04-18T14:06:00",
-    "seen_at": "2026-04-18T12:06:37.985Z",
-    "raw": "Br. Vlaka 47938 formiran     18.04.26. 14:06, kolodvor LUPOGLAV"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "LUPOGLAV",
-    "train_number": "47938",
-    "event_time": "2026-04-18T14:06:00",
-    "seen_at": "2026-04-18T12:06:37.985Z",
-    "raw": "Br. Vlaka 47938 formiran     18.04.26. 14:06, kolodvor LUPOGLAV"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "KONJŠČINA",
@@ -16414,5 +16369,50 @@
     "event_time": "2026-04-21T13:55:00",
     "seen_at": "2026-04-21T11:57:27.294Z",
     "raw": "Br. Vlaka 78002 odlazak      21.04.26. 13:55, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "GARČIN",
+    "train_number": "81956",
+    "event_time": "2026-04-21T13:58:00",
+    "seen_at": "2026-04-21T11:58:55.228Z",
+    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 13:58, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82330",
+    "event_time": "2026-04-21T14:01:00",
+    "seen_at": "2026-04-21T12:02:00.716Z",
+    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 14:01, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "KUKAČA",
+    "train_number": "78002",
+    "event_time": "2026-04-21T14:02:00",
+    "seen_at": "2026-04-21T12:02:47.147Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:02, kolodvor KUKAČA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44789",
+    "event_time": "2026-04-21T14:03:00",
+    "seen_at": "2026-04-21T12:06:13.663Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:03, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "44789",
+    "event_time": "2026-04-21T14:03:00",
+    "seen_at": "2026-04-21T12:06:13.663Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:03, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
