@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "81969",
-    "event_time": "2026-04-18T14:42:00",
-    "seen_at": "2026-04-18T12:43:54.807Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:42, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "927820620247",
     "type": "Dolazak",
     "station": "BUDINŠĆINA",
@@ -16477,5 +16468,14 @@
     "event_time": "2026-04-21T14:33:00",
     "seen_at": "2026-04-21T12:33:54.443Z",
     "raw": "Br. Vlaka 71204 odlazak      21.04.26. 14:33, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81956",
+    "event_time": "2026-04-21T14:35:00",
+    "seen_at": "2026-04-21T12:45:12.294Z",
+    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 14:35, kolodvor SLAVONSKI BROD"
   }
 ]
