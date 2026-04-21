@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-18T07:08:00",
-    "seen_at": "2026-04-18T05:10:51.848Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:08, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-18T07:08:00",
-    "seen_at": "2026-04-18T05:10:51.848Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:08, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45980",
-    "event_time": "2026-04-18T07:12:00",
-    "seen_at": "2026-04-18T05:14:15.366Z",
-    "raw": "Br. Vlaka 45980 odlazak      18.04.26. 07:12, kolodvor DARDA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-18T07:14:00",
-    "seen_at": "2026-04-18T05:14:49.804Z",
-    "raw": "Br. Vlaka 45105 odlazak      18.04.26. 07:14, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89923",
-    "event_time": "2026-04-18T07:14:00",
-    "seen_at": "2026-04-18T05:16:21.902Z",
-    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 07:14, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -15829,5 +15784,14 @@
     "event_time": "2026-04-21T07:04:00",
     "seen_at": "2026-04-21T05:04:54.523Z",
     "raw": "Br. Vlaka 44997 odlazak      21.04.26. 07:04, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44997",
+    "event_time": "2026-04-21T07:12:00",
+    "seen_at": "2026-04-21T05:16:58.607Z",
+    "raw": "Br. Vlaka 44997 dolazak      21.04.26. 07:12, kolodvor MALA SUBOTICA"
   }
 ]
