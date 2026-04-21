@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82139",
-    "event_time": "2026-04-18T13:08:00",
-    "seen_at": "2026-04-18T11:09:57.785Z",
-    "raw": "Br. Vlaka 82139 odlazak      18.04.26. 13:08, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SKRAD",
-    "train_number": "81969",
-    "event_time": "2026-04-18T13:10:00",
-    "seen_at": "2026-04-18T11:10:32.518Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 13:10, kolodvor SKRAD"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82139",
-    "event_time": "2026-04-18T13:15:00",
-    "seen_at": "2026-04-18T11:16:57.551Z",
-    "raw": "Br. Vlaka 82139 odlazak      18.04.26. 13:15, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-18T13:14:00",
-    "seen_at": "2026-04-18T11:17:43.234Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820620247",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -16387,5 +16351,41 @@
     "event_time": "2026-04-21T13:04:00",
     "seen_at": "2026-04-21T11:08:36.828Z",
     "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 13:04, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "LEKENIK",
+    "train_number": "81111",
+    "event_time": "2026-04-21T13:13:00",
+    "seen_at": "2026-04-21T11:14:47.936Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 13:13, kolodvor LEKENIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "82330",
+    "event_time": "2026-04-21T13:15:00",
+    "seen_at": "2026-04-21T11:17:10.202Z",
+    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 13:15, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:15:00",
+    "seen_at": "2026-04-21T11:18:20.621Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:15, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T13:15:00",
+    "seen_at": "2026-04-21T11:18:20.622Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:15, kolodvor KONJŠČINA"
   }
 ]
