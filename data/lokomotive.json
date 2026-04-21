@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-17T23:04:00",
-    "seen_at": "2026-04-18T07:41:13.759Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89923",
-    "event_time": "2026-04-18T09:31:00",
-    "seen_at": "2026-04-18T07:44:55.747Z",
-    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 09:31, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89923",
-    "event_time": "2026-04-18T09:36:00",
-    "seen_at": "2026-04-18T07:45:19.305Z",
-    "raw": "Br. Vlaka 89923 dolazak      18.04.26. 09:36, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -15667,5 +15640,41 @@
     "event_time": "2026-04-21T06:25:00",
     "seen_at": "2026-04-21T07:38:56.569Z",
     "raw": "Br. Vlaka 81955 formiran     21.04.26. 06:25, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Odlazak",
+    "station": "BANOVA JARUGA",
+    "train_number": "71101",
+    "event_time": "2026-04-21T09:39:00",
+    "seen_at": "2026-04-21T07:41:27.094Z",
+    "raw": "Br. Vlaka 71101 odlazak      21.04.26. 09:39, kolodvor BANOVA JARUGA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-21T09:25:00",
+    "seen_at": "2026-04-21T07:42:58.634Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89180",
+    "event_time": "2026-04-21T09:45:00",
+    "seen_at": "2026-04-21T07:46:48.435Z",
+    "raw": "Br. Vlaka 89180 dolazak      21.04.26. 09:45, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Odlazak",
+    "station": "LIPOVLJANI",
+    "train_number": "71101",
+    "event_time": "2026-04-21T09:47:00",
+    "seen_at": "2026-04-21T07:48:42.753Z",
+    "raw": "Br. Vlaka 71101 odlazak      21.04.26. 09:47, kolodvor LIPOVLJANI"
   }
 ]
