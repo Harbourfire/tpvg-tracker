@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49996",
-    "event_time": "2026-04-18T23:54:00",
-    "seen_at": "2026-04-18T21:55:28.321Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:54, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49996",
-    "event_time": "2026-04-18T23:54:00",
-    "seen_at": "2026-04-18T21:55:28.322Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:54, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "MAJUR",
-    "train_number": "81953",
-    "event_time": "2026-04-18T23:55:00",
-    "seen_at": "2026-04-18T21:55:51.755Z",
-    "raw": "Br. Vlaka 81953 odlazak      18.04.26. 23:55, kolodvor MAJUR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-18T23:55:00",
-    "seen_at": "2026-04-18T21:56:14.639Z",
-    "raw": "Br. Vlaka 43995 dolazak      18.04.26. 23:55, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-18T21:34:00",
-    "seen_at": "2026-04-18T21:59:39.431Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "44994",
-    "train_number": null,
-    "event_time": "2026-04-18T22:00:03.618Z",
-    "seen_at": "2026-04-18T22:00:03.618Z",
-    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-18T23:55:00",
-    "seen_at": "2026-04-18T22:01:58.796Z",
-    "raw": "Br. Vlaka 43995 promjena sas 18.04.26. 23:55, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-18T23:55:00",
-    "seen_at": "2026-04-18T22:01:58.797Z",
-    "raw": "Br. Vlaka 43995 promjena sas 18.04.26. 23:55, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -16360,5 +16288,14 @@
     "event_time": "2026-04-21T23:54:00",
     "seen_at": "2026-04-21T21:55:10.105Z",
     "raw": "Br. Vlaka 63305 odlazak      21.04.26. 23:54, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81111",
+    "event_time": "2026-04-22T00:03:00",
+    "seen_at": "2026-04-21T22:04:11.143Z",
+    "raw": "Br. Vlaka 81111 odlazak      22.04.26. 00:03, kolodvor VINKOVCI"
   }
 ]
