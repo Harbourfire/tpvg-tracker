@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81284",
-    "event_time": "2026-04-19T01:40:00",
-    "seen_at": "2026-04-18T23:40:32.535Z",
-    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 01:40, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "89115",
-    "event_time": "2026-04-19T01:40:00",
-    "seen_at": "2026-04-18T23:40:55.218Z",
-    "raw": "Br. Vlaka 89115 dolazak      19.04.26. 01:40, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "89115",
-    "event_time": "2026-04-19T01:40:00",
-    "seen_at": "2026-04-18T23:40:55.219Z",
-    "raw": "Br. Vlaka 89115 dolazak      19.04.26. 01:40, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-19T01:40:00",
-    "seen_at": "2026-04-18T23:41:17.897Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-19T01:40:00",
-    "seen_at": "2026-04-18T23:41:17.898Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16054,5 +16009,32 @@
     "event_time": "2026-04-22T01:25:00",
     "seen_at": "2026-04-21T23:26:23.055Z",
     "raw": "Br. Vlaka 48789 odlazak      22.04.26. 01:25, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-22T01:42:00",
+    "seen_at": "2026-04-21T23:43:24.440Z",
+    "raw": "Br. Vlaka 48789 dolazak      22.04.26. 01:42, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-22T01:42:00",
+    "seen_at": "2026-04-21T23:43:47.080Z",
+    "raw": "Br. Vlaka 48789 promjena sas 22.04.26. 01:42, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-22T01:42:00",
+    "seen_at": "2026-04-21T23:43:47.081Z",
+    "raw": "Br. Vlaka 48789 promjena sas 22.04.26. 01:42, kolodvor VARAŽDIN"
   }
 ]
