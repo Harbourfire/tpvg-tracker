@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "81951",
-    "event_time": "2026-04-18T20:00:00",
-    "seen_at": "2026-04-18T18:02:15.744Z",
-    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 20:00, kolodvor LEKENIK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "VALPOVO",
-    "train_number": "82140",
-    "event_time": "2026-04-18T20:05:00",
-    "seen_at": "2026-04-18T18:05:18.690Z",
-    "raw": "Br. Vlaka 82140 dolazak      18.04.26. 20:05, kolodvor VALPOVO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "VALPOVO",
-    "train_number": null,
-    "event_time": "2026-04-18T20:05:00",
-    "seen_at": "2026-04-18T18:06:50.147Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71992 VALPOVO"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "ZABOK",
@@ -16756,5 +16729,23 @@
     "event_time": "2026-04-21T19:58:00",
     "seen_at": "2026-04-21T17:58:40.747Z",
     "raw": "Br. Vlaka 81111 odlazak      21.04.26. 19:58, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66854",
+    "event_time": "2026-04-21T20:00:00",
+    "seen_at": "2026-04-21T18:01:31.433Z",
+    "raw": "Br. Vlaka 66854 odlazak      21.04.26. 20:00, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89711",
+    "event_time": "2026-04-21T20:06:00",
+    "seen_at": "2026-04-21T18:08:24.715Z",
+    "raw": "Br. Vlaka 89711 odlazak      21.04.26. 20:06, kolodvor SLATINA"
   }
 ]
