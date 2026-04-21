@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "82134",
-    "event_time": "2026-04-18T10:20:00",
-    "seen_at": "2026-04-18T08:20:54.284Z",
-    "raw": "Br. Vlaka 82134 odlazak      18.04.26. 10:20, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OPATIJA-MATULJI",
-    "train_number": "81969",
-    "event_time": "2026-04-18T10:20:00",
-    "seen_at": "2026-04-18T08:21:16.833Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:20, kolodvor OPATIJA-MATULJI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "82134",
-    "event_time": "2026-04-18T10:27:00",
-    "seen_at": "2026-04-18T08:27:53.594Z",
-    "raw": "Br. Vlaka 82134 odlazak      18.04.26. 10:27, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "927820440265",
     "type": "Rasformiran",
     "station": "ZAGREB ZAPADNI",
@@ -15802,5 +15775,23 @@
     "event_time": "2026-04-21T10:18:00",
     "seen_at": "2026-04-21T08:18:49.219Z",
     "raw": "Br. Vlaka 89180 odlazak      21.04.26. 10:18, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-21T10:20:00",
+    "seen_at": "2026-04-21T08:23:13.144Z",
+    "raw": "Br. Vlaka 71203 dolazak      21.04.26. 10:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-21T10:20:00",
+    "seen_at": "2026-04-21T08:24:00.023Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
