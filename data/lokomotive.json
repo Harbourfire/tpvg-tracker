@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-18T16:23:00",
-    "seen_at": "2026-04-18T14:23:10.683Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "BELI MANASTIR",
@@ -16621,5 +16612,50 @@
     "event_time": "2026-04-21T16:17:00",
     "seen_at": "2026-04-21T14:17:55.584Z",
     "raw": "Br. Vlaka 44996 dolazak      21.04.26. 16:17, kolodvor LUKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82530",
+    "event_time": "2026-04-21T16:25:00",
+    "seen_at": "2026-04-21T14:26:50.001Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:25, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82530",
+    "event_time": "2026-04-21T16:25:00",
+    "seen_at": "2026-04-21T14:26:50.001Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:25, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "DRAGANIĆI",
+    "train_number": "78002",
+    "event_time": "2026-04-21T16:13:00",
+    "seen_at": "2026-04-21T14:26:50.002Z",
+    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 16:13, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:28:00",
+    "seen_at": "2026-04-21T14:28:47.471Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:28, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:28:00",
+    "seen_at": "2026-04-21T14:28:47.471Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:28, kolodvor LUKA"
   }
 ]
