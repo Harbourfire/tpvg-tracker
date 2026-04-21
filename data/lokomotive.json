@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "49996",
-    "event_time": "2026-04-18T21:52:00",
-    "seen_at": "2026-04-18T19:55:22.510Z",
-    "raw": "Br. Vlaka 49996 dolazak      18.04.26. 21:52, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "49996",
-    "event_time": "2026-04-18T21:52:00",
-    "seen_at": "2026-04-18T19:55:22.511Z",
-    "raw": "Br. Vlaka 49996 dolazak      18.04.26. 21:52, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43996",
-    "event_time": "2026-04-18T21:58:00",
-    "seen_at": "2026-04-18T20:01:25.155Z",
-    "raw": "Br. Vlaka 43996 dolazak      18.04.26. 21:58, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43996",
-    "event_time": "2026-04-18T21:58:00",
-    "seen_at": "2026-04-18T20:01:25.156Z",
-    "raw": "Br. Vlaka 43996 dolazak      18.04.26. 21:58, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43996",
-    "event_time": "2026-04-18T21:59:00",
-    "seen_at": "2026-04-18T20:01:47.674Z",
-    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 21:59, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43996",
-    "event_time": "2026-04-18T21:59:00",
-    "seen_at": "2026-04-18T20:01:47.675Z",
-    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 21:59, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "SUNJA",
@@ -16540,5 +16486,41 @@
     "event_time": "2026-04-21T21:50:00",
     "seen_at": "2026-04-21T19:52:31.374Z",
     "raw": "Br. Vlaka 81290 odlazak      21.04.26. 21:50, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-21T21:55:00",
+    "seen_at": "2026-04-21T19:55:24.498Z",
+    "raw": "Br. Vlaka 44996 dolazak      21.04.26. 21:55, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89754",
+    "event_time": "2026-04-21T21:53:00",
+    "seen_at": "2026-04-21T19:57:18.319Z",
+    "raw": "Br. Vlaka 89754 odlazak      21.04.26. 21:53, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81111",
+    "event_time": "2026-04-21T21:58:00",
+    "seen_at": "2026-04-21T20:00:21.957Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 21:58, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44996",
+    "event_time": "2026-04-21T21:59:00",
+    "seen_at": "2026-04-21T20:01:07.647Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 21:59, kolodvor ČAKOVEC"
   }
 ]
