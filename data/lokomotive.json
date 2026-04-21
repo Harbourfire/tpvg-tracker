@@ -2,51 +2,6 @@
   {
     "uic": "927820440265",
     "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44998",
-    "event_time": "2026-04-18T02:37:00",
-    "seen_at": "2026-04-18T00:38:16.190Z",
-    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 02:37, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-18T02:40:00",
-    "seen_at": "2026-04-18T00:41:18.180Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 02:40, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-18T02:40:00",
-    "seen_at": "2026-04-18T00:41:18.180Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 02:40, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "48588",
-    "event_time": "2026-04-18T02:41:00",
-    "seen_at": "2026-04-18T00:44:55.792Z",
-    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 02:41, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "48588",
-    "event_time": "2026-04-18T02:41:00",
-    "seen_at": "2026-04-18T00:44:55.794Z",
-    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 02:41, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
     "train_number": "44998",
     "event_time": "2026-04-18T02:46:00",
@@ -16486,5 +16441,23 @@
     "event_time": "2026-04-21T02:25:00",
     "seen_at": "2026-04-21T00:26:09.752Z",
     "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:25, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "44789",
+    "event_time": "2026-04-20T16:03:00",
+    "seen_at": "2026-04-21T00:40:58.818Z",
+    "raw": "Br. Vlaka 44789 promjena sas 20.04.26. 16:03, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44789",
+    "event_time": "2026-04-21T02:38:00",
+    "seen_at": "2026-04-21T00:41:44.173Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 02:38, kolodvor ČAKOVEC"
   }
 ]
