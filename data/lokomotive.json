@@ -1,122 +1,5 @@
 [
   {
-    "uic": "987891113068",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2025-12-11T09:53:00",
-    "seen_at": "2026-04-18T20:52:13.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "987891114868",
-    "type": "Rasformiran",
-    "station": "BJELOVAR",
-    "train_number": null,
-    "event_time": "2025-11-26T10:07:00",
-    "seen_at": "2026-04-18T20:52:13.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73307 BJELOVAR"
-  },
-  {
-    "uic": "987891032045",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-15T11:33:00",
-    "seen_at": "2026-04-18T20:52:13.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891032060",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-15T11:33:00",
-    "seen_at": "2026-04-18T20:52:13.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891032078",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-14T10:55:00",
-    "seen_at": "2026-04-18T20:52:13.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "987891032086",
-    "type": "Rasformiran",
-    "station": "BJELOVAR",
-    "train_number": null,
-    "event_time": "2025-11-26T10:07:00",
-    "seen_at": "2026-04-18T20:52:13.701Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73307 BJELOVAR"
-  },
-  {
-    "uic": "987891032151",
-    "type": "Rasformiran",
-    "station": "KRIŽEVCI",
-    "train_number": null,
-    "event_time": "2025-12-29T10:03:00",
-    "seen_at": "2026-04-18T20:52:13.702Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
-  },
-  {
-    "uic": "987891032433",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2025-11-12T16:42:00",
-    "seen_at": "2026-04-18T20:52:13.702Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VOLINJA",
-    "train_number": null,
-    "event_time": "2026-04-18T22:46:00",
-    "seen_at": "2026-04-18T20:52:36.253Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72205 VOLINJA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "43996",
-    "event_time": "2026-04-18T22:41:00",
-    "seen_at": "2026-04-18T20:55:14.139Z",
-    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 22:41, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "43996",
-    "event_time": "2026-04-18T22:41:00",
-    "seen_at": "2026-04-18T20:55:14.140Z",
-    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 22:41, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T22:55:00",
-    "seen_at": "2026-04-18T20:55:36.644Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:55, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T22:55:00",
-    "seen_at": "2026-04-18T20:55:36.645Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 22:55, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -16549,5 +16432,77 @@
     "event_time": "2026-04-21T22:43:00",
     "seen_at": "2026-04-21T20:44:37.730Z",
     "raw": "Br. Vlaka 63305 odlazak      21.04.26. 22:43, kolodvor BLATA"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-21T20:53:00.575Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "BJELOVAR",
+    "train_number": null,
+    "event_time": "2025-11-26T10:07:00",
+    "seen_at": "2026-04-21T20:53:00.575Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73307 BJELOVAR"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "BJELOVAR",
+    "train_number": null,
+    "event_time": "2025-11-26T10:07:00",
+    "seen_at": "2026-04-21T20:53:00.575Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73307 BJELOVAR"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "KRIŽEVCI",
+    "train_number": null,
+    "event_time": "2025-12-29T10:03:00",
+    "seen_at": "2026-04-21T20:53:00.575Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
+  },
+  {
+    "uic": "987891032433",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-21T20:53:00.576Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89760",
+    "event_time": "2026-04-21T22:52:00",
+    "seen_at": "2026-04-21T20:53:46.572Z",
+    "raw": "Br. Vlaka 89760 odlazak      21.04.26. 22:52, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-21T22:54:00",
+    "seen_at": "2026-04-21T20:55:19.182Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 22:54, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-21T22:54:00",
+    "seen_at": "2026-04-21T20:55:19.182Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 22:54, kolodvor LIČKA JESENICA"
   }
 ]
