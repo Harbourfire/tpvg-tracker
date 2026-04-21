@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-18T09:00:00",
-    "seen_at": "2026-04-18T14:52:14.696Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-18T09:00:00",
-    "seen_at": "2026-04-18T14:52:37.342Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-18T12:13:00",
-    "seen_at": "2026-04-18T14:53:22.498Z",
-    "raw": "Br. Vlaka 44787 promjena sas 18.04.26. 12:13, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44787",
-    "event_time": "2026-04-18T12:13:00",
-    "seen_at": "2026-04-18T14:53:45.227Z",
-    "raw": "Br. Vlaka 44787 promjena sas 18.04.26. 12:13, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -16693,5 +16657,59 @@
     "event_time": "2026-04-21T16:38:00",
     "seen_at": "2026-04-21T14:43:03.660Z",
     "raw": "Br. Vlaka 44996 dolazak      21.04.26. 16:38, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82530",
+    "event_time": "2026-04-21T16:47:00",
+    "seen_at": "2026-04-21T14:50:39.988Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:47, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82530",
+    "event_time": "2026-04-21T16:47:00",
+    "seen_at": "2026-04-21T14:50:39.988Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:47, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:50:00",
+    "seen_at": "2026-04-21T14:51:48.674Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:50, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:50:00",
+    "seen_at": "2026-04-21T14:51:48.675Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:50, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81290",
+    "event_time": "2026-04-21T16:49:00",
+    "seen_at": "2026-04-21T14:51:48.676Z",
+    "raw": "Br. Vlaka 81290 dolazak      21.04.26. 16:49, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Promjena sastava",
+    "station": "NOVSKA",
+    "train_number": "89066",
+    "event_time": "2026-04-21T16:28:00",
+    "seen_at": "2026-04-21T14:52:58.587Z",
+    "raw": "Br. Vlaka 89066 promjena sas 21.04.26. 16:28, kolodvor NOVSKA"
   }
 ]
