@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45130",
-    "event_time": "2026-04-18T12:24:00",
-    "seen_at": "2026-04-18T10:24:45.113Z",
-    "raw": "Br. Vlaka 45130 odlazak      18.04.26. 12:24, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82139",
-    "event_time": "2026-04-18T12:26:00",
-    "seen_at": "2026-04-18T10:27:25.846Z",
-    "raw": "Br. Vlaka 82139 odlazak      18.04.26. 12:26, kolodvor BLATA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "46896",
-    "event_time": "2026-04-18T12:28:00",
-    "seen_at": "2026-04-18T10:30:50.854Z",
-    "raw": "Br. Vlaka 46896 dolazak      18.04.26. 12:28, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-17T01:07:00",
-    "seen_at": "2026-04-18T10:31:13.492Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -16135,5 +16099,59 @@
     "event_time": "2026-04-21T12:20:00",
     "seen_at": "2026-04-21T10:21:24.302Z",
     "raw": "Br. Vlaka 82321 odlazak      21.04.26. 12:20, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:24:00",
+    "seen_at": "2026-04-21T10:24:43.364Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:24, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:24:00",
+    "seen_at": "2026-04-21T10:24:43.365Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:24, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "ĐAKOVO",
+    "train_number": "81956",
+    "event_time": "2026-04-21T12:24:00",
+    "seen_at": "2026-04-21T10:26:14.838Z",
+    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 12:24, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81111",
+    "event_time": "2026-04-21T12:25:00",
+    "seen_at": "2026-04-21T10:26:37.345Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 12:25, kolodvor 72303"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T12:27:00",
+    "seen_at": "2026-04-21T10:28:33.806Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 12:27, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T12:27:00",
+    "seen_at": "2026-04-21T10:28:33.807Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 12:27, kolodvor BUDINŠĆINA"
   }
 ]
