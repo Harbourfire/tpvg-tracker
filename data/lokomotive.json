@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44787",
-    "event_time": "2026-04-18T19:02:00",
-    "seen_at": "2026-04-18T17:03:12.235Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 19:02, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44787",
-    "event_time": "2026-04-18T19:02:00",
-    "seen_at": "2026-04-18T17:03:12.236Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 19:02, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "81951",
-    "event_time": "2026-04-18T19:02:00",
-    "seen_at": "2026-04-18T17:05:07.396Z",
-    "raw": "Br. Vlaka 81951 odlazak      18.04.26. 19:02, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "42786",
-    "event_time": "2026-04-18T19:04:00",
-    "seen_at": "2026-04-18T17:07:15.626Z",
-    "raw": "Br. Vlaka 42786 odlazak      18.04.26. 19:04, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -16819,5 +16783,14 @@
     "event_time": "2026-04-21T18:55:00",
     "seen_at": "2026-04-21T16:57:28.513Z",
     "raw": "Br. Vlaka 44996 dolazak      21.04.26. 18:55, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-20T22:30:00",
+    "seen_at": "2026-04-21T17:07:37.500Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
