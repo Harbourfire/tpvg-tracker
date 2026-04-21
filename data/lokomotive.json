@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LOKVE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T12:44:00",
-    "seen_at": "2026-04-18T10:45:11.925Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 12:44, kolodvor LOKVE"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "JOSIPOVAC",
@@ -16198,5 +16189,95 @@
     "event_time": "2026-04-21T12:37:00",
     "seen_at": "2026-04-21T10:39:58.600Z",
     "raw": "Br. Vlaka 82321 odlazak      21.04.26. 12:37, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:36:00",
+    "seen_at": "2026-04-21T10:44:21.023Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:36, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:36:00",
+    "seen_at": "2026-04-21T10:44:21.024Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:36, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "78002",
+    "event_time": "2026-04-21T12:44:00",
+    "seen_at": "2026-04-21T10:44:43.708Z",
+    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 12:44, kolodvor BLATA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "78002",
+    "event_time": "2026-04-21T12:45:00",
+    "seen_at": "2026-04-21T10:45:29.204Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 12:45, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:46:00",
+    "seen_at": "2026-04-21T10:47:46.235Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:46, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89139",
+    "event_time": "2026-04-21T12:46:00",
+    "seen_at": "2026-04-21T10:47:46.235Z",
+    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:46, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "82321",
+    "event_time": "2026-04-21T12:49:00",
+    "seen_at": "2026-04-21T10:50:04.922Z",
+    "raw": "Br. Vlaka 82321 dolazak      21.04.26. 12:49, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "82321",
+    "event_time": "2026-04-21T12:49:00",
+    "seen_at": "2026-04-21T10:50:04.922Z",
+    "raw": "Br. Vlaka 82321 dolazak      21.04.26. 12:49, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T12:49:00",
+    "seen_at": "2026-04-21T10:50:50.778Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T12:49:00",
+    "seen_at": "2026-04-21T10:50:50.778Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
