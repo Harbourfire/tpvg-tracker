@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "48786",
-    "event_time": "2026-04-18T03:33:00",
-    "seen_at": "2026-04-18T01:34:18.370Z",
-    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 03:33, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "48588",
-    "event_time": "2026-04-18T03:35:00",
-    "seen_at": "2026-04-18T01:36:11.310Z",
-    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:35, kolodvor GREDA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "48588",
-    "event_time": "2026-04-18T03:35:00",
-    "seen_at": "2026-04-18T01:36:11.311Z",
-    "raw": "Br. Vlaka 48588 odlazak      18.04.26. 03:35, kolodvor GREDA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44998",
-    "event_time": "2026-04-18T03:31:00",
-    "seen_at": "2026-04-18T01:36:11.311Z",
-    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 03:31, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "47988",
-    "event_time": "2026-04-18T03:35:00",
-    "seen_at": "2026-04-18T01:40:09.207Z",
-    "raw": "Br. Vlaka 47988 odlazak      18.04.26. 03:35, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "LEKENIK",
@@ -16378,5 +16333,41 @@
     "event_time": "2026-04-21T03:26:00",
     "seen_at": "2026-04-21T01:26:40.857Z",
     "raw": "Br. Vlaka 82156 odlazak      21.04.26. 03:26, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "82156",
+    "event_time": "2026-04-21T03:33:00",
+    "seen_at": "2026-04-21T01:34:09.573Z",
+    "raw": "Br. Vlaka 82156 dolazak      21.04.26. 03:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "82156",
+    "event_time": "2026-04-21T03:33:00",
+    "seen_at": "2026-04-21T01:34:09.573Z",
+    "raw": "Br. Vlaka 82156 dolazak      21.04.26. 03:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-21T03:33:00",
+    "seen_at": "2026-04-21T01:34:32.186Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-21T03:33:00",
+    "seen_at": "2026-04-21T01:34:32.186Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
