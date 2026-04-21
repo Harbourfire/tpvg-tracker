@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-18T09:36:00",
-    "seen_at": "2026-04-18T08:36:29.615Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82134",
-    "event_time": "2026-04-18T10:36:00",
-    "seen_at": "2026-04-18T08:36:52.438Z",
-    "raw": "Br. Vlaka 82134 dolazak      18.04.26. 10:36, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "RIJEKA",
@@ -15793,5 +15775,113 @@
     "event_time": "2026-04-21T10:20:00",
     "seen_at": "2026-04-21T08:24:00.023Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "81955",
+    "event_time": "2026-04-21T10:28:00",
+    "seen_at": "2026-04-21T08:28:49.111Z",
+    "raw": "Br. Vlaka 81955 odlazak      21.04.26. 10:28, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82321",
+    "event_time": "2026-04-21T10:25:00",
+    "seen_at": "2026-04-21T08:31:08.156Z",
+    "raw": "Br. Vlaka 82321 dolazak      21.04.26. 10:25, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82321",
+    "event_time": "2026-04-21T10:25:00",
+    "seen_at": "2026-04-21T08:31:08.156Z",
+    "raw": "Br. Vlaka 82321 dolazak      21.04.26. 10:25, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "89940",
+    "event_time": "2026-04-21T10:28:00",
+    "seen_at": "2026-04-21T08:31:31.011Z",
+    "raw": "Br. Vlaka 89940 dolazak      21.04.26. 10:28, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "89940",
+    "event_time": "2026-04-21T10:28:00",
+    "seen_at": "2026-04-21T08:31:31.011Z",
+    "raw": "Br. Vlaka 89940 dolazak      21.04.26. 10:28, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "KOTORIBA",
+    "train_number": null,
+    "event_time": "2026-04-21T10:28:00",
+    "seen_at": "2026-04-21T08:31:53.693Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOTORIBA",
+    "train_number": null,
+    "event_time": "2026-04-21T10:28:00",
+    "seen_at": "2026-04-21T08:31:53.693Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89180",
+    "event_time": "2026-04-21T10:34:00",
+    "seen_at": "2026-04-21T08:34:54.962Z",
+    "raw": "Br. Vlaka 89180 dolazak      21.04.26. 10:34, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "KOTORIBA",
+    "train_number": "89920",
+    "event_time": "2026-04-21T10:05:00",
+    "seen_at": "2026-04-21T08:35:17.903Z",
+    "raw": "Br. Vlaka 89920 formiran     21.04.26. 10:05, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "KOTORIBA",
+    "train_number": "89920",
+    "event_time": "2026-04-21T10:05:00",
+    "seen_at": "2026-04-21T08:35:17.904Z",
+    "raw": "Br. Vlaka 89920 formiran     21.04.26. 10:05, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-21T02:56:00",
+    "seen_at": "2026-04-21T08:36:04.043Z",
+    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 02:56, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-21T02:56:00",
+    "seen_at": "2026-04-21T08:36:26.760Z",
+    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 02:56, kolodvor VARAŽDIN"
   }
 ]
