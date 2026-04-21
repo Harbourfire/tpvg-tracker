@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-18T14:09:00",
-    "seen_at": "2026-04-18T12:10:07.968Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T14:11:00",
-    "seen_at": "2026-04-18T12:11:41.429Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 14:11, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89109",
-    "event_time": "2026-04-18T14:12:00",
-    "seen_at": "2026-04-18T12:13:36.659Z",
-    "raw": "Br. Vlaka 89109 odlazak      18.04.26. 14:12, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620247",
     "type": "Formiran",
     "station": "KONJŠČINA",
     "train_number": "82510",
@@ -16414,5 +16387,68 @@
     "event_time": "2026-04-21T14:03:00",
     "seen_at": "2026-04-21T12:06:13.663Z",
     "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:03, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T14:09:00",
+    "seen_at": "2026-04-21T12:09:36.712Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:09, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "44789",
+    "event_time": "2026-04-21T14:09:00",
+    "seen_at": "2026-04-21T12:09:36.713Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:09, kolodvor LUKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "VIROVITICA",
+    "train_number": "89711",
+    "event_time": "2026-04-21T14:09:00",
+    "seen_at": "2026-04-21T12:10:23.023Z",
+    "raw": "Br. Vlaka 89711 formiran     21.04.26. 14:09, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "GORNJE DUBRAVE",
+    "train_number": "78002",
+    "event_time": "2026-04-21T14:10:00",
+    "seen_at": "2026-04-21T12:10:23.024Z",
+    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:10, kolodvor GORNJE DUBRAVE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "82330",
+    "event_time": "2026-04-21T14:14:00",
+    "seen_at": "2026-04-21T12:15:03.273Z",
+    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 14:14, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44789",
+    "event_time": "2026-04-21T14:14:00",
+    "seen_at": "2026-04-21T12:15:03.274Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:14, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "44789",
+    "event_time": "2026-04-21T14:14:00",
+    "seen_at": "2026-04-21T12:15:03.274Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 14:14, kolodvor NOVI DVORI"
   }
 ]
