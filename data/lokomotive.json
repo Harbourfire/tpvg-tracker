@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89250",
-    "event_time": "2026-04-18T22:44:00",
-    "seen_at": "2026-04-18T20:45:14.316Z",
-    "raw": "Br. Vlaka 89250 formiran     18.04.26. 22:44, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T22:45:00",
-    "seen_at": "2026-04-18T20:46:21.855Z",
-    "raw": "Br. Vlaka 49996 dolazak      18.04.26. 22:45, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T22:45:00",
-    "seen_at": "2026-04-18T20:46:21.856Z",
-    "raw": "Br. Vlaka 49996 dolazak      18.04.26. 22:45, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T22:45:00",
-    "seen_at": "2026-04-18T20:46:44.347Z",
-    "raw": "Br. Vlaka 49996 promjena sas 18.04.26. 22:45, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T22:45:00",
-    "seen_at": "2026-04-18T20:46:44.347Z",
-    "raw": "Br. Vlaka 49996 promjena sas 18.04.26. 22:45, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "987891113068",
     "type": "Rasformiran",
     "station": "KOPRIVNICA",
@@ -16540,5 +16495,59 @@
     "event_time": "2026-04-21T22:37:00",
     "seen_at": "2026-04-21T20:38:20.014Z",
     "raw": "Br. Vlaka 89760 odlazak      21.04.26. 22:37, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T22:40:00",
+    "seen_at": "2026-04-21T20:40:23.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PČELIĆ",
+    "train_number": "89754",
+    "event_time": "2026-04-21T22:37:00",
+    "seen_at": "2026-04-21T20:41:57.049Z",
+    "raw": "Br. Vlaka 89754 odlazak      21.04.26. 22:37, kolodvor PČELIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "89754",
+    "event_time": "2026-04-21T22:41:00",
+    "seen_at": "2026-04-21T20:42:20.138Z",
+    "raw": "Br. Vlaka 89754 odlazak      21.04.26. 22:41, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89760",
+    "event_time": "2026-04-21T22:43:00",
+    "seen_at": "2026-04-21T20:43:51.738Z",
+    "raw": "Br. Vlaka 89760 odlazak      21.04.26. 22:43, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-21T22:43:00",
+    "seen_at": "2026-04-21T20:44:37.730Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 22:43, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-21T22:43:00",
+    "seen_at": "2026-04-21T20:44:37.730Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 22:43, kolodvor BLATA"
   }
 ]
