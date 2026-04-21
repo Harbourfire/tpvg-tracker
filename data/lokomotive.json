@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81953",
-    "event_time": "2026-04-19T01:07:00",
-    "seen_at": "2026-04-18T23:13:12.634Z",
-    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 01:07, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89115",
-    "event_time": "2026-04-19T01:12:00",
-    "seen_at": "2026-04-18T23:13:35.964Z",
-    "raw": "Br. Vlaka 89115 odlazak      19.04.26. 01:12, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89115",
-    "event_time": "2026-04-19T01:12:00",
-    "seen_at": "2026-04-18T23:13:35.965Z",
-    "raw": "Br. Vlaka 89115 odlazak      19.04.26. 01:12, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-19T01:12:00",
-    "seen_at": "2026-04-18T23:13:59.369Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:12, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-19T01:12:00",
-    "seen_at": "2026-04-18T23:13:59.371Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 01:12, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -16108,5 +16063,23 @@
     "event_time": "2026-04-22T01:01:00",
     "seen_at": "2026-04-21T23:06:48.151Z",
     "raw": "Br. Vlaka 45131 odlazak      22.04.26. 01:01, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-20T21:00:00",
+    "seen_at": "2026-04-21T23:11:36.355Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "48789",
+    "event_time": "2026-04-22T01:13:00",
+    "seen_at": "2026-04-21T23:13:53.949Z",
+    "raw": "Br. Vlaka 48789 dolazak      22.04.26. 01:13, kolodvor ČAKOVEC"
   }
 ]
