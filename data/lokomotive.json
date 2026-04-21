@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "RIJEKA",
-    "train_number": "81969",
-    "event_time": "2026-04-18T10:37:00",
-    "seen_at": "2026-04-18T08:42:49.033Z",
-    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 10:37, kolodvor RIJEKA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "82134",
-    "event_time": "2026-04-18T10:42:00",
-    "seen_at": "2026-04-18T08:43:12.344Z",
-    "raw": "Br. Vlaka 82134 odlazak      18.04.26. 10:42, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "RIJEKA",
-    "train_number": "81969",
-    "event_time": "2026-04-18T10:45:00",
-    "seen_at": "2026-04-18T08:46:41.511Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 10:45, kolodvor RIJEKA"
-  },
-  {
     "uic": "987891213462",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -15883,5 +15856,68 @@
     "event_time": "2026-04-21T02:56:00",
     "seen_at": "2026-04-21T08:36:26.760Z",
     "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 02:56, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89920",
+    "event_time": "2026-04-21T10:33:00",
+    "seen_at": "2026-04-21T08:39:01.837Z",
+    "raw": "Br. Vlaka 89920 dolazak      21.04.26. 10:33, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "89920",
+    "event_time": "2026-04-21T10:33:00",
+    "seen_at": "2026-04-21T08:39:01.837Z",
+    "raw": "Br. Vlaka 89920 dolazak      21.04.26. 10:33, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T10:33:00",
+    "seen_at": "2026-04-21T08:39:25.158Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T10:33:00",
+    "seen_at": "2026-04-21T08:39:25.158Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81955",
+    "event_time": "2026-04-21T10:43:00",
+    "seen_at": "2026-04-21T08:43:41.754Z",
+    "raw": "Br. Vlaka 81955 dolazak      21.04.26. 10:43, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-21T10:43:00",
+    "seen_at": "2026-04-21T08:44:50.686Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89180",
+    "event_time": "2026-04-21T10:43:00",
+    "seen_at": "2026-04-21T08:44:50.687Z",
+    "raw": "Br. Vlaka 89180 odlazak      21.04.26. 10:43, kolodvor TURČIN"
   }
 ]
