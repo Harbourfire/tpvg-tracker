@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43996",
-    "event_time": "2026-04-18T23:08:00",
-    "seen_at": "2026-04-18T21:10:50.374Z",
-    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 23:08, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "43995",
-    "event_time": "2026-04-18T23:00:00",
-    "seen_at": "2026-04-18T21:10:50.375Z",
-    "raw": "Br. Vlaka 43995 odlazak      18.04.26. 23:00, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43996",
-    "event_time": "2026-04-18T23:08:00",
-    "seen_at": "2026-04-18T21:10:50.376Z",
-    "raw": "Br. Vlaka 43996 odlazak      18.04.26. 23:08, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-18T23:10:00",
-    "seen_at": "2026-04-18T21:10:50.376Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 23:10, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-18T23:10:00",
-    "seen_at": "2026-04-18T21:10:50.376Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 23:10, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "43995",
-    "event_time": "2026-04-18T23:11:00",
-    "seen_at": "2026-04-18T21:12:45.535Z",
-    "raw": "Br. Vlaka 43995 odlazak      18.04.26. 23:11, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T23:11:00",
-    "seen_at": "2026-04-18T21:14:40.472Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:11, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49996",
-    "event_time": "2026-04-18T23:11:00",
-    "seen_at": "2026-04-18T21:14:40.473Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:11, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -16477,5 +16405,50 @@
     "event_time": "2026-04-21T22:54:00",
     "seen_at": "2026-04-21T20:55:19.182Z",
     "raw": "Br. Vlaka 63305 odlazak      21.04.26. 22:54, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "89754",
+    "event_time": "2026-04-21T22:50:00",
+    "seen_at": "2026-04-21T21:08:39.709Z",
+    "raw": "Br. Vlaka 89754 dolazak      21.04.26. 22:50, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-04-21T22:50:00",
+    "seen_at": "2026-04-21T21:09:02.799Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89760",
+    "event_time": "2026-04-21T23:12:00",
+    "seen_at": "2026-04-21T21:15:52.632Z",
+    "raw": "Br. Vlaka 89760 odlazak      21.04.26. 23:12, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-21T23:15:00",
+    "seen_at": "2026-04-21T21:16:38.215Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 23:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-21T23:15:00",
+    "seen_at": "2026-04-21T21:16:38.215Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 23:15, kolodvor RUDOPOLJE"
   }
 ]
