@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "43996",
-    "event_time": "2026-04-18T12:55:00",
-    "seen_at": "2026-04-18T18:19:38.633Z",
-    "raw": "Br. Vlaka 43996 promjena sas 18.04.26. 12:55, kolodvor ZABOK"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-15T20:23:00",
-    "seen_at": "2026-04-18T18:25:48.872Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "VOLINJA",
-    "train_number": "81953",
-    "event_time": "2026-04-18T19:55:00",
-    "seen_at": "2026-04-18T18:26:55.964Z",
-    "raw": "Br. Vlaka 81953 formiran     18.04.26. 19:55, kolodvor VOLINJA"
-  },
-  {
     "uic": "927820622029",
     "type": "Rasformiran",
     "station": "VOLINJA",
@@ -16756,5 +16729,41 @@
     "event_time": "2026-04-21T20:08:00",
     "seen_at": "2026-04-21T18:16:43.913Z",
     "raw": "Br. Vlaka 63305 formiran     21.04.26. 20:08, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81111",
+    "event_time": "2026-04-21T20:24:00",
+    "seen_at": "2026-04-21T18:24:40.459Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 20:24, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81290",
+    "event_time": "2026-04-21T20:12:00",
+    "seen_at": "2026-04-21T18:24:40.460Z",
+    "raw": "Br. Vlaka 81290 odlazak      21.04.26. 20:12, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81290",
+    "event_time": "2026-04-21T20:21:00",
+    "seen_at": "2026-04-21T18:25:49.787Z",
+    "raw": "Br. Vlaka 81290 odlazak      21.04.26. 20:21, kolodvor TURČIN"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-15T20:23:00",
+    "seen_at": "2026-04-21T18:26:12.600Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
