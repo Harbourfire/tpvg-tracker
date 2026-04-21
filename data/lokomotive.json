@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89923",
-    "event_time": "2026-04-18T08:02:00",
-    "seen_at": "2026-04-18T06:04:18.367Z",
-    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 08:02, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -15856,5 +15847,32 @@
     "event_time": "2026-04-21T07:46:00",
     "seen_at": "2026-04-21T05:50:50.829Z",
     "raw": "Br. Vlaka 82159 odlazak      21.04.26. 07:46, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89940",
+    "event_time": "2026-04-21T06:26:00",
+    "seen_at": "2026-04-21T05:56:04.622Z",
+    "raw": "Br. Vlaka 89940 dolazak      21.04.26. 06:26, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89940",
+    "event_time": "2026-04-21T06:26:00",
+    "seen_at": "2026-04-21T05:56:04.622Z",
+    "raw": "Br. Vlaka 89940 dolazak      21.04.26. 06:26, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "82333",
+    "event_time": "2026-04-21T07:56:00",
+    "seen_at": "2026-04-21T05:57:14.268Z",
+    "raw": "Br. Vlaka 82333 dolazak      21.04.26. 07:56, kolodvor PLETERNICA"
   }
 ]
