@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SISAK",
-    "train_number": "48588",
-    "event_time": "2026-04-18T02:55:00",
-    "seen_at": "2026-04-18T00:55:44.705Z",
-    "raw": "Br. Vlaka 48588 dolazak      18.04.26. 02:55, kolodvor SISAK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SISAK",
-    "train_number": "48588",
-    "event_time": "2026-04-18T02:55:00",
-    "seen_at": "2026-04-18T00:55:44.706Z",
-    "raw": "Br. Vlaka 48588 dolazak      18.04.26. 02:55, kolodvor SISAK"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "69785",
-    "event_time": "2026-04-18T02:59:00",
-    "seen_at": "2026-04-18T01:00:43.690Z",
-    "raw": "Br. Vlaka 69785 dolazak      18.04.26. 02:59, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-18T02:59:00",
-    "seen_at": "2026-04-18T01:01:07.882Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44998",
-    "event_time": "2026-04-18T03:02:00",
-    "seen_at": "2026-04-18T01:03:20.598Z",
-    "raw": "Br. Vlaka 44998 odlazak      18.04.26. 03:02, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -16441,5 +16396,50 @@
     "event_time": "2026-04-21T02:44:00",
     "seen_at": "2026-04-21T00:46:54.087Z",
     "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:44, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-21T02:56:00",
+    "seen_at": "2026-04-21T00:57:59.463Z",
+    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 02:56, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82156",
+    "event_time": "2026-04-21T02:56:00",
+    "seen_at": "2026-04-21T00:58:44.947Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:56, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82156",
+    "event_time": "2026-04-21T02:56:00",
+    "seen_at": "2026-04-21T00:58:44.947Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:56, kolodvor BLATA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44789",
+    "event_time": "2026-04-21T02:56:00",
+    "seen_at": "2026-04-21T01:00:15.686Z",
+    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 02:56, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82159",
+    "event_time": "2026-04-21T03:00:00",
+    "seen_at": "2026-04-21T01:00:38.503Z",
+    "raw": "Br. Vlaka 82159 formiran     21.04.26. 03:00, kolodvor VARAŽDIN"
   }
 ]
