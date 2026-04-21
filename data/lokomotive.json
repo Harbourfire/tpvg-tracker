@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "49996",
-    "event_time": "2026-04-18T23:36:00",
-    "seen_at": "2026-04-18T21:36:46.023Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:36, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "49996",
-    "event_time": "2026-04-18T23:36:00",
-    "seen_at": "2026-04-18T21:36:46.024Z",
-    "raw": "Br. Vlaka 49996 odlazak      18.04.26. 23:36, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-18T23:38:00",
-    "seen_at": "2026-04-18T21:39:03.877Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 23:38, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-18T23:38:00",
-    "seen_at": "2026-04-18T21:39:03.877Z",
-    "raw": "Br. Vlaka 63305 odlazak      18.04.26. 23:38, kolodvor BLATA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "43995",
-    "event_time": "2026-04-18T23:43:00",
-    "seen_at": "2026-04-18T21:44:03.344Z",
-    "raw": "Br. Vlaka 43995 odlazak      18.04.26. 23:43, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43996",
-    "event_time": "2026-04-18T23:38:00",
-    "seen_at": "2026-04-18T21:45:24.954Z",
-    "raw": "Br. Vlaka 43996 dolazak      18.04.26. 23:38, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VOLINJA",
-    "train_number": "81953",
-    "event_time": "2026-04-18T23:44:00",
-    "seen_at": "2026-04-18T21:45:24.955Z",
-    "raw": "Br. Vlaka 81953 odlazak      18.04.26. 23:44, kolodvor VOLINJA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "43996",
-    "event_time": "2026-04-18T23:38:00",
-    "seen_at": "2026-04-18T21:45:24.955Z",
-    "raw": "Br. Vlaka 43996 dolazak      18.04.26. 23:38, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -16423,5 +16351,41 @@
     "event_time": "2026-04-21T23:29:00",
     "seen_at": "2026-04-21T21:30:23.752Z",
     "raw": "Br. Vlaka 89760 odlazak      21.04.26. 23:29, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89760",
+    "event_time": "2026-04-21T23:35:00",
+    "seen_at": "2026-04-21T21:38:14.474Z",
+    "raw": "Br. Vlaka 89760 dolazak      21.04.26. 23:35, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-21T23:35:00",
+    "seen_at": "2026-04-21T21:38:37.178Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-21T23:36:00",
+    "seen_at": "2026-04-21T21:38:37.178Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 23:36, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-21T23:36:00",
+    "seen_at": "2026-04-21T21:38:37.178Z",
+    "raw": "Br. Vlaka 63305 odlazak      21.04.26. 23:36, kolodvor LIČKO LEŠĆE"
   }
 ]
