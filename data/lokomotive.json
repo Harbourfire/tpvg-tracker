@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-04-18T17:10:00",
-    "seen_at": "2026-04-18T15:14:13.838Z",
-    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 17:10, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "JASTREBARSKO",
@@ -16684,5 +16675,86 @@
     "event_time": "2026-04-21T16:28:00",
     "seen_at": "2026-04-21T14:52:58.587Z",
     "raw": "Br. Vlaka 89066 promjena sas 21.04.26. 16:28, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-21T17:05:00",
+    "seen_at": "2026-04-21T15:08:42.943Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 17:05, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "44996",
+    "event_time": "2026-04-21T17:05:00",
+    "seen_at": "2026-04-21T15:08:42.944Z",
+    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 17:05, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81111",
+    "event_time": "2026-04-21T17:08:00",
+    "seen_at": "2026-04-21T15:09:06.537Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 17:08, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82530",
+    "event_time": "2026-04-21T17:05:00",
+    "seen_at": "2026-04-21T15:10:16.761Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 17:05, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82530",
+    "event_time": "2026-04-21T17:05:00",
+    "seen_at": "2026-04-21T15:10:16.761Z",
+    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 17:05, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-21T17:11:00",
+    "seen_at": "2026-04-21T15:11:27.154Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-21T17:11:00",
+    "seen_at": "2026-04-21T15:11:27.155Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-21T17:15:00",
+    "seen_at": "2026-04-21T15:15:21.117Z",
+    "raw": "Br. Vlaka 69006 formiran     21.04.26. 17:15, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-21T17:15:00",
+    "seen_at": "2026-04-21T15:15:44.403Z",
+    "raw": "Br. Vlaka 69006 formiran     21.04.26. 17:15, kolodvor OŠTARIJE"
   }
 ]
