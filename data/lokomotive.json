@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-18T07:46:00",
-    "seen_at": "2026-04-18T05:47:15.889Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:46, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-18T07:46:00",
-    "seen_at": "2026-04-18T05:47:15.889Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 07:46, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-18T07:44:00",
-    "seen_at": "2026-04-18T05:48:47.315Z",
-    "raw": "Br. Vlaka 48786 dolazak      18.04.26. 07:44, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-04-18T07:50:00",
-    "seen_at": "2026-04-18T05:53:05.987Z",
-    "raw": "Br. Vlaka 45105 odlazak      18.04.26. 07:50, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -15838,5 +15802,59 @@
     "event_time": "2026-04-21T06:34:00",
     "seen_at": "2026-04-21T05:40:56.486Z",
     "raw": "Br. Vlaka 89940 formiran     21.04.26. 06:34, kolodvor 74861"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "GARČIN",
+    "train_number": null,
+    "event_time": "2026-04-21T07:45:00",
+    "seen_at": "2026-04-21T05:46:13.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "BANOVA JARUGA",
+    "train_number": null,
+    "event_time": "2026-04-21T07:45:00",
+    "seen_at": "2026-04-21T05:47:22.687Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72503 BANOVA JARUGA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81954",
+    "event_time": "2026-04-21T07:45:00",
+    "seen_at": "2026-04-21T05:47:45.930Z",
+    "raw": "Br. Vlaka 81954 odlazak      21.04.26. 07:45, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Dolazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-21T07:45:00",
+    "seen_at": "2026-04-21T05:48:32.261Z",
+    "raw": "Br. Vlaka 71202 dolazak      21.04.26. 07:45, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": null,
+    "event_time": "2026-04-21T07:45:00",
+    "seen_at": "2026-04-21T05:50:04.169Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71103 STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82159",
+    "event_time": "2026-04-21T07:46:00",
+    "seen_at": "2026-04-21T05:50:50.829Z",
+    "raw": "Br. Vlaka 82159 odlazak      21.04.26. 07:46, kolodvor TURČIN"
   }
 ]
