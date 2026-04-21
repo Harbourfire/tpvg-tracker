@@ -2,24 +2,6 @@
   {
     "uic": "927820620247",
     "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "48786",
-    "event_time": "2026-04-18T03:25:00",
-    "seen_at": "2026-04-18T01:26:34.628Z",
-    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 03:25, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "47988",
-    "event_time": "2026-04-18T03:13:00",
-    "seen_at": "2026-04-18T01:29:35.771Z",
-    "raw": "Br. Vlaka 47988 promjena sas 18.04.26. 03:13, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "48786",
     "event_time": "2026-04-18T03:33:00",
@@ -16369,5 +16351,32 @@
     "event_time": "2026-04-21T03:08:00",
     "seen_at": "2026-04-21T01:09:21.429Z",
     "raw": "Br. Vlaka 82156 odlazak      21.04.26. 03:08, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T03:23:00",
+    "seen_at": "2026-04-21T01:23:36.259Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82156",
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-21T01:26:40.857Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 03:26, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82156",
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-21T01:26:40.857Z",
+    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 03:26, kolodvor JOSIPDOL"
   }
 ]
