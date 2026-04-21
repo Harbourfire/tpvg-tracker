@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63310",
-    "event_time": "2026-04-18T16:38:00",
-    "seen_at": "2026-04-18T14:40:14.063Z",
-    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 16:38, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "89543",
-    "event_time": "2026-04-18T16:42:00",
-    "seen_at": "2026-04-18T14:47:19.727Z",
-    "raw": "Br. Vlaka 89543 odlazak      18.04.26. 16:42, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-18T16:47:00",
-    "seen_at": "2026-04-18T14:48:50.361Z",
-    "raw": "Br. Vlaka 63310 odlazak      18.04.26. 16:47, kolodvor BLATA"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -16693,5 +16666,32 @@
     "event_time": "2026-04-21T16:36:00",
     "seen_at": "2026-04-21T14:36:53.723Z",
     "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:36, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "81111",
+    "event_time": "2026-04-21T16:37:00",
+    "seen_at": "2026-04-21T14:41:07.363Z",
+    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 16:37, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:38:00",
+    "seen_at": "2026-04-21T14:43:03.660Z",
+    "raw": "Br. Vlaka 44996 dolazak      21.04.26. 16:38, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-21T16:38:00",
+    "seen_at": "2026-04-21T14:43:03.660Z",
+    "raw": "Br. Vlaka 44996 dolazak      21.04.26. 16:38, kolodvor ZABOK"
   }
 ]
