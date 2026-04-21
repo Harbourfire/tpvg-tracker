@@ -1,86 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-04-18T08:04:00",
-    "seen_at": "2026-04-18T06:05:04.181Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 08:04, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-04-18T08:04:00",
-    "seen_at": "2026-04-18T06:05:04.181Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 08:04, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43997",
-    "event_time": "2026-04-18T08:04:00",
-    "seen_at": "2026-04-18T06:05:26.980Z",
-    "raw": "Br. Vlaka 43997 odlazak      18.04.26. 08:04, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-18T08:02:00",
-    "seen_at": "2026-04-18T06:05:49.791Z",
-    "raw": "Br. Vlaka 48786 odlazak      18.04.26. 08:02, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-18T08:07:00",
-    "seen_at": "2026-04-18T06:08:30.906Z",
-    "raw": "Br. Vlaka 45105 dolazak      18.04.26. 08:07, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "69777",
-    "event_time": "2026-04-18T08:06:00",
-    "seen_at": "2026-04-18T06:09:17.071Z",
-    "raw": "Br. Vlaka 69777 formiran     18.04.26. 08:06, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89923",
-    "event_time": "2026-04-18T08:10:00",
-    "seen_at": "2026-04-18T06:11:46.984Z",
-    "raw": "Br. Vlaka 89923 odlazak      18.04.26. 08:10, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-18T08:13:00",
-    "seen_at": "2026-04-18T06:14:03.277Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 08:13, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-18T08:13:00",
-    "seen_at": "2026-04-18T06:14:03.277Z",
-    "raw": "Br. Vlaka 63306 odlazak      18.04.26. 08:13, kolodvor BLATA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -15874,5 +15793,32 @@
     "event_time": "2026-04-21T07:56:00",
     "seen_at": "2026-04-21T05:57:14.268Z",
     "raw": "Br. Vlaka 82333 dolazak      21.04.26. 07:56, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "78002",
+    "event_time": "2026-04-21T07:34:00",
+    "seen_at": "2026-04-21T06:08:53.423Z",
+    "raw": "Br. Vlaka 78002 formiran     21.04.26. 07:34, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "DARDA",
+    "train_number": "81954",
+    "event_time": "2026-04-21T08:00:00",
+    "seen_at": "2026-04-21T06:10:23.906Z",
+    "raw": "Br. Vlaka 81954 dolazak      21.04.26. 08:00, kolodvor DARDA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "82159",
+    "event_time": "2026-04-21T08:12:00",
+    "seen_at": "2026-04-21T06:13:27.388Z",
+    "raw": "Br. Vlaka 82159 dolazak      21.04.26. 08:12, kolodvor NOVI MAROF"
   }
 ]
