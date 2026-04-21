@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620171",
-    "type": "Formiran",
-    "station": "ĐAKOVO",
-    "train_number": "89112",
-    "event_time": "2026-04-18T11:27:00",
-    "seen_at": "2026-04-18T09:28:00.885Z",
-    "raw": "Br. Vlaka 89112 formiran     18.04.26. 11:27, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "PLASE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T11:26:00",
-    "seen_at": "2026-04-18T09:28:00.886Z",
-    "raw": "Br. Vlaka 81969 dolazak      18.04.26. 11:26, kolodvor PLASE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-18T11:30:00",
-    "seen_at": "2026-04-18T09:30:17.587Z",
-    "raw": "Br. Vlaka 45104 odlazak      18.04.26. 11:30, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620171",
     "type": "Odlazak",
     "station": "ĐAKOVO",
     "train_number": "89112",
@@ -16036,5 +16009,50 @@
     "event_time": "2026-04-21T07:24:00",
     "seen_at": "2026-04-21T09:25:14.396Z",
     "raw": "Br. Vlaka 47944 formiran     21.04.26. 07:24, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82321",
+    "event_time": "2026-04-21T11:26:00",
+    "seen_at": "2026-04-21T09:27:23.012Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 11:26, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82321",
+    "event_time": "2026-04-21T11:26:00",
+    "seen_at": "2026-04-21T09:27:23.012Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 11:26, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-21T11:32:00",
+    "seen_at": "2026-04-21T09:32:43.265Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 11:32, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44789",
+    "event_time": "2026-04-21T11:32:00",
+    "seen_at": "2026-04-21T09:32:43.265Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 11:32, kolodvor TURČIN"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89133",
+    "event_time": "2026-04-21T11:31:00",
+    "seen_at": "2026-04-21T09:32:43.266Z",
+    "raw": "Br. Vlaka 89133 odlazak      21.04.26. 11:31, kolodvor STARI MIKANOVCI"
   }
 ]
