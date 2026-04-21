@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44787",
-    "event_time": "2026-04-18T11:43:00",
-    "seen_at": "2026-04-18T09:45:01.265Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:43, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DRIVENIK",
-    "train_number": "81969",
-    "event_time": "2026-04-18T11:50:00",
-    "seen_at": "2026-04-18T09:50:40.810Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:50, kolodvor DRIVENIK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89112",
-    "event_time": "2026-04-18T11:51:00",
-    "seen_at": "2026-04-18T09:51:27.759Z",
-    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:51, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820620247",
     "type": "Dolazak",
     "station": "ČAKOVEC",
     "train_number": "44787",
@@ -16054,5 +16027,41 @@
     "event_time": "2026-04-21T11:43:00",
     "seen_at": "2026-04-21T09:43:32.207Z",
     "raw": "Br. Vlaka 89133 odlazak      21.04.26. 11:43, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "82330",
+    "event_time": "2026-04-21T11:35:00",
+    "seen_at": "2026-04-21T09:45:17.212Z",
+    "raw": "Br. Vlaka 82330 dolazak      21.04.26. 11:35, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81956",
+    "event_time": "2026-04-21T11:47:00",
+    "seen_at": "2026-04-21T09:49:30.894Z",
+    "raw": "Br. Vlaka 81956 odlazak      21.04.26. 11:47, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44781",
+    "event_time": "2026-04-21T11:53:00",
+    "seen_at": "2026-04-21T09:53:20.229Z",
+    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:53, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44781",
+    "event_time": "2026-04-21T11:53:00",
+    "seen_at": "2026-04-21T09:53:20.229Z",
+    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:53, kolodvor DONJI KRALJEVEC"
   }
 ]
