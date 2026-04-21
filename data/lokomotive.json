@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44787",
-    "event_time": "2026-04-18T11:52:00",
-    "seen_at": "2026-04-18T09:54:09.167Z",
-    "raw": "Br. Vlaka 44787 dolazak      18.04.26. 11:52, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44787",
-    "event_time": "2026-04-18T11:53:00",
-    "seen_at": "2026-04-18T09:54:33.261Z",
-    "raw": "Br. Vlaka 44787 odlazak      18.04.26. 11:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "46896",
-    "event_time": "2026-04-18T11:55:00",
-    "seen_at": "2026-04-18T09:55:53.655Z",
-    "raw": "Br. Vlaka 46896 odlazak      18.04.26. 11:55, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89112",
-    "event_time": "2026-04-18T11:57:00",
-    "seen_at": "2026-04-18T09:57:25.951Z",
-    "raw": "Br. Vlaka 89112 odlazak      18.04.26. 11:57, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "FUŽINE",
-    "train_number": "81969",
-    "event_time": "2026-04-18T11:59:00",
-    "seen_at": "2026-04-18T10:00:05.044Z",
-    "raw": "Br. Vlaka 81969 odlazak      18.04.26. 11:59, kolodvor FUŽINE"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -16063,5 +16018,104 @@
     "event_time": "2026-04-21T11:53:00",
     "seen_at": "2026-04-21T09:53:20.229Z",
     "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:53, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89133",
+    "event_time": "2026-04-21T11:54:00",
+    "seen_at": "2026-04-21T09:55:26.291Z",
+    "raw": "Br. Vlaka 89133 dolazak      21.04.26. 11:54, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-21T11:54:00",
+    "seen_at": "2026-04-21T09:55:49.317Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81111",
+    "event_time": "2026-04-21T11:25:00",
+    "seen_at": "2026-04-21T10:00:24.201Z",
+    "raw": "Br. Vlaka 81111 promjena sas 21.04.26. 11:25, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82321",
+    "event_time": "2026-04-21T11:59:00",
+    "seen_at": "2026-04-21T10:01:33.563Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 11:59, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82321",
+    "event_time": "2026-04-21T11:59:00",
+    "seen_at": "2026-04-21T10:01:33.563Z",
+    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 11:59, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-21T11:59:00",
+    "seen_at": "2026-04-21T10:01:56.528Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 11:59, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "44789",
+    "event_time": "2026-04-21T11:59:00",
+    "seen_at": "2026-04-21T10:01:56.528Z",
+    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 11:59, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44781",
+    "event_time": "2026-04-21T12:00:00",
+    "seen_at": "2026-04-21T10:02:19.442Z",
+    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 12:00, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44781",
+    "event_time": "2026-04-21T12:00:00",
+    "seen_at": "2026-04-21T10:02:19.442Z",
+    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 12:00, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-04-21T11:58:00",
+    "seen_at": "2026-04-21T10:03:28.857Z",
+    "raw": "Br. Vlaka 47944 odlazak      21.04.26. 11:58, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-04-21T11:58:00",
+    "seen_at": "2026-04-21T10:03:28.857Z",
+    "raw": "Br. Vlaka 47944 odlazak      21.04.26. 11:58, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
