@@ -1,95 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "82512",
-    "event_time": "2026-04-19T03:56:00",
-    "seen_at": "2026-04-19T02:00:55.172Z",
-    "raw": "Br. Vlaka 82512 dolazak      19.04.26. 03:56, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "82512",
-    "event_time": "2026-04-19T03:56:00",
-    "seen_at": "2026-04-19T02:00:55.173Z",
-    "raw": "Br. Vlaka 82512 dolazak      19.04.26. 03:56, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-19T03:56:00",
-    "seen_at": "2026-04-19T02:01:18.292Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-19T03:56:00",
-    "seen_at": "2026-04-19T02:01:18.293Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "49996",
-    "event_time": "2026-04-19T00:05:00",
-    "seen_at": "2026-04-19T02:01:41.082Z",
-    "raw": "Br. Vlaka 49996 promjena sas 19.04.26. 00:05, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "49996",
-    "event_time": "2026-04-19T00:05:00",
-    "seen_at": "2026-04-19T02:01:41.083Z",
-    "raw": "Br. Vlaka 49996 promjena sas 19.04.26. 00:05, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-19T04:01:00",
-    "seen_at": "2026-04-19T02:04:21.446Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 04:01, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-19T04:01:00",
-    "seen_at": "2026-04-19T02:04:21.446Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 04:01, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89122",
-    "event_time": "2026-04-19T04:02:00",
-    "seen_at": "2026-04-19T02:05:09.169Z",
-    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:02, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89122",
-    "event_time": "2026-04-19T04:02:00",
-    "seen_at": "2026-04-19T02:05:09.170Z",
-    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:02, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "NOVSKA",
@@ -15712,5 +15622,59 @@
     "event_time": "2026-04-22T03:58:00",
     "seen_at": "2026-04-22T01:59:11.807Z",
     "raw": "Br. Vlaka 82158 formiran     22.04.26. 03:58, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:53:00",
+    "seen_at": "2026-04-22T01:59:47.496Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:53, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:53:00",
+    "seen_at": "2026-04-22T01:59:47.498Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:53, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:43:00",
+    "seen_at": "2026-04-22T02:08:18.902Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:43, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:43:00",
+    "seen_at": "2026-04-22T02:08:18.903Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:43, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:56:00",
+    "seen_at": "2026-04-22T02:08:42.099Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:56, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:56:00",
+    "seen_at": "2026-04-22T02:08:42.100Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:56, kolodvor BEDEKOVČINA"
   }
 ]
