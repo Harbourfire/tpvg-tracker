@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "69327",
-    "event_time": "2026-04-19T07:38:00",
-    "seen_at": "2026-04-19T05:38:45.229Z",
-    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:38, kolodvor 72302"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "69327",
-    "event_time": "2026-04-19T07:38:00",
-    "seen_at": "2026-04-19T05:38:45.229Z",
-    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:38, kolodvor 72302"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "69327",
-    "event_time": "2026-04-19T07:41:00",
-    "seen_at": "2026-04-19T05:42:22.699Z",
-    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:41, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "69327",
-    "event_time": "2026-04-19T07:41:00",
-    "seen_at": "2026-04-19T05:42:22.699Z",
-    "raw": "Br. Vlaka 69327 odlazak      19.04.26. 07:41, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44789",
-    "event_time": "2026-04-19T07:44:00",
-    "seen_at": "2026-04-19T05:45:01.716Z",
-    "raw": "Br. Vlaka 44789 formiran     19.04.26. 07:44, kolodvor KOTORIBA-GR"
-  },
-  {
     "uic": "927820621195",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -15595,5 +15550,86 @@
     "event_time": "2026-04-22T07:31:00",
     "seen_at": "2026-04-22T05:33:27.241Z",
     "raw": "Br. Vlaka 82158 odlazak      22.04.26. 07:31, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76552",
+    "event_time": "2026-04-22T07:37:00",
+    "seen_at": "2026-04-22T05:39:31.361Z",
+    "raw": "Br. Vlaka 76552 formiran     22.04.26. 07:37, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76552",
+    "event_time": "2026-04-22T07:37:00",
+    "seen_at": "2026-04-22T05:39:55.604Z",
+    "raw": "Br. Vlaka 76552 formiran     22.04.26. 07:37, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-22T07:39:00",
+    "seen_at": "2026-04-22T05:40:19.476Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-22T07:40:00",
+    "seen_at": "2026-04-22T05:41:31.380Z",
+    "raw": "Br. Vlaka 71202 formiran     22.04.26. 07:40, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-22T07:40:00",
+    "seen_at": "2026-04-22T05:41:54.954Z",
+    "raw": "Br. Vlaka 71202 formiran     22.04.26. 07:40, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76552",
+    "event_time": "2026-04-22T07:40:00",
+    "seen_at": "2026-04-22T05:41:54.954Z",
+    "raw": "Br. Vlaka 76552 odlazak      22.04.26. 07:40, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76552",
+    "event_time": "2026-04-22T07:40:00",
+    "seen_at": "2026-04-22T05:41:54.955Z",
+    "raw": "Br. Vlaka 76552 odlazak      22.04.26. 07:40, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T07:40:00",
+    "seen_at": "2026-04-22T05:43:53.333Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-22T07:40:00",
+    "seen_at": "2026-04-22T05:44:17.748Z",
+    "raw": "Br. Vlaka 71202 formiran     22.04.26. 07:40, kolodvor VINKOVCI"
   }
 ]
