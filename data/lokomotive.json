@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "81955",
-    "event_time": "2026-04-19T07:57:00",
-    "seen_at": "2026-04-19T06:01:40.832Z",
-    "raw": "Br. Vlaka 81955 dolazak      19.04.26. 07:57, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "81955",
-    "event_time": "2026-04-19T08:00:00",
-    "seen_at": "2026-04-19T06:02:26.194Z",
-    "raw": "Br. Vlaka 81955 odlazak      19.04.26. 08:00, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -15595,5 +15577,59 @@
     "event_time": "2026-04-22T07:52:00",
     "seen_at": "2026-04-22T05:52:59.714Z",
     "raw": "Br. Vlaka 76552 odlazak      22.04.26. 07:52, kolodvor GARČIN"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "89066",
+    "event_time": "2026-04-22T07:57:00",
+    "seen_at": "2026-04-22T05:58:55.434Z",
+    "raw": "Br. Vlaka 89066 odlazak      22.04.26. 07:57, kolodvor NOVSKA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76552",
+    "event_time": "2026-04-22T08:00:00",
+    "seen_at": "2026-04-22T06:00:50.225Z",
+    "raw": "Br. Vlaka 76552 odlazak      22.04.26. 08:00, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "76552",
+    "event_time": "2026-04-22T08:00:00",
+    "seen_at": "2026-04-22T06:00:50.226Z",
+    "raw": "Br. Vlaka 76552 odlazak      22.04.26. 08:00, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81956",
+    "event_time": "2026-04-22T08:00:00",
+    "seen_at": "2026-04-22T06:01:12.893Z",
+    "raw": "Br. Vlaka 81956 odlazak      22.04.26. 08:00, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44994",
+    "event_time": "2026-04-22T08:00:00",
+    "seen_at": "2026-04-22T06:01:38.542Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 08:00, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "72004",
+    "event_time": "2026-04-22T08:02:00",
+    "seen_at": "2026-04-22T06:02:47.341Z",
+    "raw": "Br. Vlaka 72004 formiran     22.04.26. 08:02, kolodvor ZAPREŠIĆ"
   }
 ]
