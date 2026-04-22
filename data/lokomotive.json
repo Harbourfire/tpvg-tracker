@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "40893",
-    "event_time": "2026-04-20T00:21:00",
-    "seen_at": "2026-04-19T22:21:14.905Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:21, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -15586,5 +15577,68 @@
     "event_time": "2026-04-23T00:10:00",
     "seen_at": "2026-04-22T22:10:39.619Z",
     "raw": "Br. Vlaka 69491 odlazak      23.04.26. 00:10, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "BJELOVAR",
+    "train_number": "89288",
+    "event_time": "2026-04-23T00:12:00",
+    "seen_at": "2026-04-22T22:15:29.245Z",
+    "raw": "Br. Vlaka 89288 odlazak      23.04.26. 00:12, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89893",
+    "event_time": "2026-04-23T00:18:00",
+    "seen_at": "2026-04-22T22:18:57.976Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 00:18, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89893",
+    "event_time": "2026-04-23T00:18:00",
+    "seen_at": "2026-04-22T22:18:57.977Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 00:18, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "69491",
+    "event_time": "2026-04-23T00:19:00",
+    "seen_at": "2026-04-22T22:20:53.980Z",
+    "raw": "Br. Vlaka 69491 odlazak      23.04.26. 00:19, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81982",
+    "event_time": "2026-04-23T00:20:00",
+    "seen_at": "2026-04-22T22:21:40.050Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:20, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81982",
+    "event_time": "2026-04-23T00:20:00",
+    "seen_at": "2026-04-22T22:21:40.050Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:20, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44995",
+    "event_time": "2026-04-23T00:17:00",
+    "seen_at": "2026-04-22T22:22:50.802Z",
+    "raw": "Br. Vlaka 44995 dolazak      23.04.26. 00:17, kolodvor VARAŽDIN"
   }
 ]
