@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "81953",
-    "event_time": "2026-04-19T06:40:00",
-    "seen_at": "2026-04-19T04:40:53.229Z",
-    "raw": "Br. Vlaka 81953 odlazak      19.04.26. 06:40, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-19T06:43:00",
-    "seen_at": "2026-04-19T04:43:34.681Z",
-    "raw": "Br. Vlaka 44996 dolazak      19.04.26. 06:43, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
     "train_number": "81953",
@@ -15550,5 +15532,50 @@
     "event_time": "2026-04-22T06:36:00",
     "seen_at": "2026-04-22T04:40:16.059Z",
     "raw": "Br. Vlaka 82158 odlazak      22.04.26. 06:36, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69782",
+    "event_time": "2026-04-22T06:38:00",
+    "seen_at": "2026-04-22T04:44:24.364Z",
+    "raw": "Br. Vlaka 69782 odlazak      22.04.26. 06:38, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81956",
+    "event_time": "2026-04-22T06:47:00",
+    "seen_at": "2026-04-22T04:47:52.237Z",
+    "raw": "Br. Vlaka 81956 formiran     22.04.26. 06:47, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "89111",
+    "event_time": "2026-04-22T06:46:00",
+    "seen_at": "2026-04-22T04:47:52.238Z",
+    "raw": "Br. Vlaka 89111 odlazak      22.04.26. 06:46, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69782",
+    "event_time": "2026-04-22T06:47:00",
+    "seen_at": "2026-04-22T04:48:15.283Z",
+    "raw": "Br. Vlaka 69782 odlazak      22.04.26. 06:47, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82158",
+    "event_time": "2026-04-22T06:46:00",
+    "seen_at": "2026-04-22T04:48:15.284Z",
+    "raw": "Br. Vlaka 82158 odlazak      22.04.26. 06:46, kolodvor BLATA"
   }
 ]
