@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T01:47:00",
-    "seen_at": "2026-04-19T23:49:50.473Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:47, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-19T23:54:05.302Z",
-    "seen_at": "2026-04-19T23:54:05.302Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "43995",
-    "event_time": "2026-04-20T01:52:00",
-    "seen_at": "2026-04-19T23:54:39.860Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:52, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-19T23:54:39.861Z",
-    "seen_at": "2026-04-19T23:54:39.861Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "40893",
-    "event_time": "2026-04-20T01:54:00",
-    "seen_at": "2026-04-19T23:56:35.243Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:54, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440265",
     "type": "Dolazak",
     "station": "VINKOVCI",
     "train_number": "40893",
@@ -15784,5 +15739,50 @@
     "event_time": "2026-04-23T01:30:00",
     "seen_at": "2026-04-22T23:47:40.827Z",
     "raw": "Br. Vlaka 83833 odlazak      23.04.26. 01:30, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "89893",
+    "event_time": "2026-04-23T01:49:00",
+    "seen_at": "2026-04-22T23:51:04.847Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 01:49, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "81950",
+    "event_time": "2026-04-23T01:50:00",
+    "seen_at": "2026-04-22T23:51:04.847Z",
+    "raw": "Br. Vlaka 81950 formiran     23.04.26. 01:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "89893",
+    "event_time": "2026-04-23T01:49:00",
+    "seen_at": "2026-04-22T23:51:04.848Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 01:49, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44995",
+    "event_time": "2026-04-23T01:50:00",
+    "seen_at": "2026-04-22T23:51:04.848Z",
+    "raw": "Br. Vlaka 44995 odlazak      23.04.26. 01:50, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81950",
+    "event_time": "2026-04-23T01:50:00",
+    "seen_at": "2026-04-22T23:51:28.454Z",
+    "raw": "Br. Vlaka 81950 odlazak      23.04.26. 01:50, kolodvor OSIJEK"
   }
 ]
