@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:59:00",
-    "seen_at": "2026-04-19T09:00:42.789Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:59, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:59:00",
-    "seen_at": "2026-04-19T09:00:42.789Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:59, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "48786",
-    "event_time": "2026-04-19T11:04:00",
-    "seen_at": "2026-04-19T09:06:05.839Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 11:04, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "81954",
-    "event_time": "2026-04-19T11:05:00",
-    "seen_at": "2026-04-19T09:06:28.700Z",
-    "raw": "Br. Vlaka 81954 odlazak      19.04.26. 11:05, kolodvor PLETERNICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -15865,5 +15829,32 @@
     "event_time": "2026-04-22T10:56:00",
     "seen_at": "2026-04-22T08:57:18.159Z",
     "raw": "Br. Vlaka 83821 formiran     22.04.26. 10:56, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69851",
+    "event_time": "2026-04-22T10:57:00",
+    "seen_at": "2026-04-22T08:57:56.017Z",
+    "raw": "Br. Vlaka 69851 dolazak      22.04.26. 10:57, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "83821",
+    "event_time": "2026-04-22T10:59:00",
+    "seen_at": "2026-04-22T08:59:27.966Z",
+    "raw": "Br. Vlaka 83821 odlazak      22.04.26. 10:59, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "82171",
+    "event_time": "2026-04-22T11:02:00",
+    "seen_at": "2026-04-22T09:02:59.174Z",
+    "raw": "Br. Vlaka 82171 odlazak      22.04.26. 11:02, kolodvor ĐAKOVO"
   }
 ]
