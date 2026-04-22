@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-20T00:22:00",
-    "seen_at": "2026-04-19T22:23:32.622Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:22, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-20T00:22:00",
-    "seen_at": "2026-04-19T22:23:32.622Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:22, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "40893",
-    "event_time": "2026-04-20T00:31:00",
-    "seen_at": "2026-04-19T22:32:08.627Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:31, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-20T00:32:00",
-    "seen_at": "2026-04-19T22:32:31.032Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-20T00:32:00",
-    "seen_at": "2026-04-19T22:32:31.032Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "OSIJEK",
@@ -15640,5 +15595,23 @@
     "event_time": "2026-04-23T00:17:00",
     "seen_at": "2026-04-22T22:22:50.802Z",
     "raw": "Br. Vlaka 44995 dolazak      23.04.26. 00:17, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81961",
+    "event_time": "2026-04-23T00:23:00",
+    "seen_at": "2026-04-22T22:24:34.974Z",
+    "raw": "Br. Vlaka 81961 odlazak      23.04.26. 00:23, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69491",
+    "event_time": "2026-04-23T00:25:00",
+    "seen_at": "2026-04-22T22:28:53.685Z",
+    "raw": "Br. Vlaka 69491 odlazak      23.04.26. 00:25, kolodvor IVANKOVO"
   }
 ]
