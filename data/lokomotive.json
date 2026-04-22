@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "40893",
-    "event_time": "2026-04-20T01:09:00",
-    "seen_at": "2026-04-19T23:09:29.923Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:09, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KOTORIBA-GR",
@@ -15604,5 +15595,50 @@
     "event_time": "2026-04-23T00:58:00",
     "seen_at": "2026-04-22T23:00:06.391Z",
     "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:58, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "44995",
+    "event_time": "2026-04-23T00:17:00",
+    "seen_at": "2026-04-22T23:04:21.007Z",
+    "raw": "Br. Vlaka 44995 promjena sas 23.04.26. 00:17, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89893",
+    "event_time": "2026-04-23T01:07:00",
+    "seen_at": "2026-04-22T23:07:29.511Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 01:07, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "89893",
+    "event_time": "2026-04-23T01:07:00",
+    "seen_at": "2026-04-22T23:07:29.511Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 01:07, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:09:00",
+    "seen_at": "2026-04-22T23:10:11.394Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:09, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:09:00",
+    "seen_at": "2026-04-22T23:10:11.394Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:09, kolodvor ZABOK"
   }
 ]
