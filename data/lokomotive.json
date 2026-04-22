@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49996",
-    "event_time": "2026-04-19T10:27:00",
-    "seen_at": "2026-04-19T08:30:06.061Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 10:27, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "81954",
-    "event_time": "2026-04-19T10:25:00",
-    "seen_at": "2026-04-19T08:30:06.061Z",
-    "raw": "Br. Vlaka 81954 dolazak      19.04.26. 10:25, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49996",
-    "event_time": "2026-04-19T10:27:00",
-    "seen_at": "2026-04-19T08:30:06.061Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 10:27, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44995",
-    "event_time": "2026-04-19T10:29:00",
-    "seen_at": "2026-04-19T08:30:06.061Z",
-    "raw": "Br. Vlaka 44995 formiran     19.04.26. 10:29, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82525",
-    "event_time": "2026-04-19T10:28:00",
-    "seen_at": "2026-04-19T08:30:53.199Z",
-    "raw": "Br. Vlaka 82525 odlazak      19.04.26. 10:28, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -15901,5 +15856,77 @@
     "event_time": "2026-04-22T10:27:00",
     "seen_at": "2026-04-22T08:28:33.345Z",
     "raw": "Br. Vlaka 69851 odlazak      22.04.26. 10:27, kolodvor DALJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T10:27:00",
+    "seen_at": "2026-04-22T08:29:31.804Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 10:27, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T10:27:00",
+    "seen_at": "2026-04-22T08:29:31.806Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 10:27, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82177",
+    "event_time": "2026-04-22T10:25:00",
+    "seen_at": "2026-04-22T08:30:20.277Z",
+    "raw": "Br. Vlaka 82177 odlazak      22.04.26. 10:25, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "89066",
+    "event_time": "2026-04-22T10:25:00",
+    "seen_at": "2026-04-22T08:33:54.498Z",
+    "raw": "Br. Vlaka 89066 dolazak      22.04.26. 10:25, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82177",
+    "event_time": "2026-04-22T10:32:00",
+    "seen_at": "2026-04-22T08:34:18.362Z",
+    "raw": "Br. Vlaka 82177 dolazak      22.04.26. 10:32, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T10:25:00",
+    "seen_at": "2026-04-22T08:34:18.362Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "82177",
+    "event_time": "2026-04-22T10:32:00",
+    "seen_at": "2026-04-22T08:35:52.244Z",
+    "raw": "Br. Vlaka 82177 promjena sas 22.04.26. 10:32, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF",
+    "train_number": null,
+    "event_time": "2026-04-22T08:15:00",
+    "seen_at": "2026-04-22T08:37:51.086Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
   }
 ]
