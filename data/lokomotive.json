@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81960",
-    "event_time": "2026-04-20T00:38:00",
-    "seen_at": "2026-04-19T22:38:56.122Z",
-    "raw": "Br. Vlaka 81960 dolazak      20.04.26. 00:38, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-20T00:38:00",
-    "seen_at": "2026-04-19T22:39:27.493Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820622037",
     "type": "Formiran",
     "station": "OSIJEK",
     "train_number": "81969",
@@ -15613,5 +15595,41 @@
     "event_time": "2026-04-23T00:25:00",
     "seen_at": "2026-04-22T22:28:53.685Z",
     "raw": "Br. Vlaka 69491 odlazak      23.04.26. 00:25, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SV. IVAN ŽABNO",
+    "train_number": "89288",
+    "event_time": "2026-04-23T00:33:00",
+    "seen_at": "2026-04-22T22:38:44.462Z",
+    "raw": "Br. Vlaka 89288 odlazak      23.04.26. 00:33, kolodvor SV. IVAN ŽABNO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T00:33:00",
+    "seen_at": "2026-04-22T22:39:30.640Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81982",
+    "event_time": "2026-04-23T00:38:00",
+    "seen_at": "2026-04-22T22:41:47.625Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:38, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81982",
+    "event_time": "2026-04-23T00:38:00",
+    "seen_at": "2026-04-22T22:41:47.625Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:38, kolodvor KONJŠČINA"
   }
 ]
