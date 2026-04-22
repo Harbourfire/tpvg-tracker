@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "40893",
-    "event_time": "2026-04-19T22:34:00",
-    "seen_at": "2026-04-19T20:40:26.687Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 22:34, kolodvor SUNJA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-19T22:42:00",
-    "seen_at": "2026-04-19T20:44:21.866Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 22:42, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-19T22:42:00",
-    "seen_at": "2026-04-19T20:44:21.866Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 22:42, kolodvor PLAŠKI"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "KOTORIBA",
@@ -15568,5 +15541,32 @@
     "event_time": "2026-04-22T22:36:00",
     "seen_at": "2026-04-22T20:36:50.423Z",
     "raw": "Br. Vlaka 61037 dolazak      22.04.26. 22:36, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "83832",
+    "event_time": "2026-04-22T22:35:00",
+    "seen_at": "2026-04-22T20:43:48.273Z",
+    "raw": "Br. Vlaka 83832 dolazak      22.04.26. 22:35, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "81961",
+    "event_time": "2026-04-22T22:43:00",
+    "seen_at": "2026-04-22T20:44:34.802Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 22:43, kolodvor GARČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-22T22:43:00",
+    "seen_at": "2026-04-22T20:44:59.490Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 22:43, kolodvor LIČKA JESENICA"
   }
 ]
