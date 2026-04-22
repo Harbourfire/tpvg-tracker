@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48786",
-    "event_time": "2026-04-19T10:36:00",
-    "seen_at": "2026-04-19T08:41:04.094Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 10:36, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "89921",
-    "event_time": "2026-04-18T21:41:00",
-    "seen_at": "2026-04-19T08:41:04.094Z",
-    "raw": "Br. Vlaka 89921 formiran     18.04.26. 21:41, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "89921",
-    "event_time": "2026-04-18T21:41:00",
-    "seen_at": "2026-04-19T08:41:04.095Z",
-    "raw": "Br. Vlaka 89921 formiran     18.04.26. 21:41, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:40:00",
-    "seen_at": "2026-04-19T08:41:04.096Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:40, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:40:00",
-    "seen_at": "2026-04-19T08:41:04.096Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:40, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82525",
-    "event_time": "2026-04-19T10:40:00",
-    "seen_at": "2026-04-19T08:44:51.539Z",
-    "raw": "Br. Vlaka 82525 odlazak      19.04.26. 10:40, kolodvor TURČIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -15928,5 +15874,32 @@
     "event_time": "2026-04-22T08:15:00",
     "seen_at": "2026-04-22T08:37:51.086Z",
     "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF",
+    "train_number": "72005",
+    "event_time": "2026-04-22T10:38:00",
+    "seen_at": "2026-04-22T08:39:44.719Z",
+    "raw": "Br. Vlaka 72005 formiran     22.04.26. 10:38, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LIPOVLJANI",
+    "train_number": "81956",
+    "event_time": "2026-04-22T10:40:00",
+    "seen_at": "2026-04-22T08:40:31.672Z",
+    "raw": "Br. Vlaka 81956 odlazak      22.04.26. 10:40, kolodvor LIPOVLJANI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "44994",
+    "event_time": "2026-04-22T10:38:00",
+    "seen_at": "2026-04-22T08:43:12.017Z",
+    "raw": "Br. Vlaka 44994 dolazak      22.04.26. 10:38, kolodvor KONJŠČINA"
   }
 ]
