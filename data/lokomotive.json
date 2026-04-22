@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43996",
-    "event_time": "2026-04-18T23:38:00",
-    "seen_at": "2026-04-19T18:25:29.836Z",
-    "raw": "Br. Vlaka 43996 promjena sas 18.04.26. 23:38, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "TOVARNIK",
@@ -15397,5 +15388,59 @@
     "event_time": "2026-04-22T12:37:00",
     "seen_at": "2026-04-22T18:22:56.829Z",
     "raw": "Br. Vlaka 89893 formiran     22.04.26. 12:37, kolodvor 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "44994",
+    "event_time": "2026-04-22T20:21:00",
+    "seen_at": "2026-04-22T18:23:35.247Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 20:21, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47563",
+    "event_time": "2026-04-22T20:22:00",
+    "seen_at": "2026-04-22T18:24:03.682Z",
+    "raw": "Br. Vlaka 47563 odlazak      22.04.26. 20:22, kolodvor 72304"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44994",
+    "event_time": "2026-04-22T20:28:00",
+    "seen_at": "2026-04-22T18:29:04.420Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 20:28, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69491",
+    "event_time": "2026-04-22T20:30:00",
+    "seen_at": "2026-04-22T18:31:22.083Z",
+    "raw": "Br. Vlaka 69491 formiran     22.04.26. 20:30, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47563",
+    "event_time": "2026-04-22T20:28:00",
+    "seen_at": "2026-04-22T18:31:22.084Z",
+    "raw": "Br. Vlaka 47563 dolazak      22.04.26. 20:28, kolodvor 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81960",
+    "event_time": "2026-04-22T20:31:00",
+    "seen_at": "2026-04-22T18:31:44.711Z",
+    "raw": "Br. Vlaka 81960 odlazak      22.04.26. 20:31, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
