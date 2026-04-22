@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-04-19T03:39:00",
-    "seen_at": "2026-04-19T01:41:07.969Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 03:39, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-04-19T03:39:00",
-    "seen_at": "2026-04-19T01:41:07.969Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 03:39, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "49998",
-    "event_time": "2026-04-19T03:42:00",
-    "seen_at": "2026-04-19T01:43:47.265Z",
-    "raw": "Br. Vlaka 49998 dolazak      19.04.26. 03:42, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-18T21:34:00",
-    "seen_at": "2026-04-19T01:44:10.827Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89122",
-    "event_time": "2026-04-19T02:32:00",
-    "seen_at": "2026-04-19T01:44:33.308Z",
-    "raw": "Br. Vlaka 89122 formiran     19.04.26. 02:32, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89122",
-    "event_time": "2026-04-19T02:32:00",
-    "seen_at": "2026-04-19T01:44:33.309Z",
-    "raw": "Br. Vlaka 89122 formiran     19.04.26. 02:32, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-19T03:48:00",
-    "seen_at": "2026-04-19T01:48:55.338Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 03:48, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-19T03:48:00",
-    "seen_at": "2026-04-19T01:48:55.338Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 03:48, kolodvor BLATA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -15748,5 +15676,23 @@
     "event_time": "2026-04-22T03:40:00",
     "seen_at": "2026-04-22T01:40:35.769Z",
     "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:43:00",
+    "seen_at": "2026-04-22T01:43:50.272Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:43, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "48789",
+    "event_time": "2026-04-22T03:43:00",
+    "seen_at": "2026-04-22T01:43:50.273Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:43, kolodvor ZLATAR-BISTRICA"
   }
 ]
