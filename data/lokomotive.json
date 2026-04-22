@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-20T00:03:00",
-    "seen_at": "2026-04-19T22:06:02.954Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:03, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-20T00:03:00",
-    "seen_at": "2026-04-19T22:06:02.954Z",
-    "raw": "Br. Vlaka 63305 odlazak      20.04.26. 00:03, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "40893",
-    "event_time": "2026-04-20T00:09:00",
-    "seen_at": "2026-04-19T22:09:28.706Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:09, kolodvor NOVA GRADIŠKA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "STARO PETROVO SELO",
@@ -15559,5 +15532,59 @@
     "event_time": "2026-04-23T00:01:00",
     "seen_at": "2026-04-22T22:01:56.604Z",
     "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:01, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "69491",
+    "event_time": "2026-04-23T00:04:00",
+    "seen_at": "2026-04-22T22:04:49.016Z",
+    "raw": "Br. Vlaka 69491 odlazak      23.04.26. 00:04, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "44995",
+    "event_time": "2026-04-22T23:59:00",
+    "seen_at": "2026-04-22T22:08:22.842Z",
+    "raw": "Br. Vlaka 44995 dolazak      22.04.26. 23:59, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "44995",
+    "event_time": "2026-04-23T00:02:00",
+    "seen_at": "2026-04-22T22:08:45.724Z",
+    "raw": "Br. Vlaka 44995 odlazak      23.04.26. 00:02, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89893",
+    "event_time": "2026-04-23T00:09:00",
+    "seen_at": "2026-04-22T22:10:16.538Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 00:09, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89893",
+    "event_time": "2026-04-23T00:09:00",
+    "seen_at": "2026-04-22T22:10:16.539Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 00:09, kolodvor 72302"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "69491",
+    "event_time": "2026-04-23T00:10:00",
+    "seen_at": "2026-04-22T22:10:39.619Z",
+    "raw": "Br. Vlaka 69491 odlazak      23.04.26. 00:10, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
