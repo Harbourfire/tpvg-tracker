@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "81964",
-    "event_time": "2026-04-19T18:28:00",
-    "seen_at": "2026-04-19T16:28:42.206Z",
-    "raw": "Br. Vlaka 81964 formiran     19.04.26. 18:28, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-19T18:20:00",
-    "seen_at": "2026-04-19T16:29:27.676Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "40893",
-    "event_time": "2026-04-19T18:31:00",
-    "seen_at": "2026-04-19T16:33:22.918Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 18:31, kolodvor 72303"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "ŽUPANJA",
     "train_number": "81964",
@@ -15325,5 +15298,32 @@
     "event_time": "2026-04-22T16:27:00",
     "seen_at": "2026-04-22T16:25:47.909Z",
     "raw": "Br. Vlaka 63312 formiran     22.04.26. 16:27, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "81959",
+    "event_time": "2026-04-22T18:28:00",
+    "seen_at": "2026-04-22T16:28:50.272Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 18:28, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-22T18:22:00",
+    "seen_at": "2026-04-22T16:32:19.529Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-22T18:35:00",
+    "seen_at": "2026-04-22T16:36:14.489Z",
+    "raw": "Br. Vlaka 63312 odlazak      22.04.26. 18:35, kolodvor VRHOVINE"
   }
 ]
