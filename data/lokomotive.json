@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "43996",
-    "event_time": "2026-04-19T22:33:00",
-    "seen_at": "2026-04-19T20:48:00.574Z",
-    "raw": "Br. Vlaka 43996 dolazak      19.04.26. 22:33, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "43996",
-    "event_time": "2026-04-19T22:46:00",
-    "seen_at": "2026-04-19T20:48:23.440Z",
-    "raw": "Br. Vlaka 43996 odlazak      19.04.26. 22:46, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "81960",
-    "event_time": "2026-04-19T22:46:00",
-    "seen_at": "2026-04-19T20:50:16.676Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 22:46, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-19T22:52:00",
-    "seen_at": "2026-04-19T20:53:41.099Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 22:52, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-04-19T22:52:00",
-    "seen_at": "2026-04-19T20:53:41.099Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 22:52, kolodvor BLATA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -15568,5 +15523,41 @@
     "event_time": "2026-04-22T22:43:00",
     "seen_at": "2026-04-22T20:44:59.490Z",
     "raw": "Br. Vlaka 63305 odlazak      22.04.26. 22:43, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "81961",
+    "event_time": "2026-04-22T22:51:00",
+    "seen_at": "2026-04-22T20:51:29.530Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 22:51, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "44995",
+    "event_time": "2026-04-22T22:51:00",
+    "seen_at": "2026-04-22T20:51:55.921Z",
+    "raw": "Br. Vlaka 44995 formiran     22.04.26. 22:51, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "BJELOVAR",
+    "train_number": "89288",
+    "event_time": "2026-04-22T22:50:00",
+    "seen_at": "2026-04-22T20:52:42.261Z",
+    "raw": "Br. Vlaka 89288 dolazak      22.04.26. 22:50, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "81982",
+    "event_time": "2026-04-22T22:50:00",
+    "seen_at": "2026-04-22T20:53:53.511Z",
+    "raw": "Br. Vlaka 81982 odlazak      22.04.26. 22:50, kolodvor ČAKOVEC"
   }
 ]
