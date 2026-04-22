@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "47981",
-    "event_time": "2026-04-19T17:48:00",
-    "seen_at": "2026-04-19T15:51:37.430Z",
-    "raw": "Br. Vlaka 47981 dolazak      19.04.26. 17:48, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -15154,5 +15145,41 @@
     "event_time": "2026-04-22T17:39:00",
     "seen_at": "2026-04-22T15:40:50.324Z",
     "raw": "Br. Vlaka 89717 odlazak      22.04.26. 17:39, kolodvor CABUNA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44994",
+    "event_time": "2026-04-22T17:48:00",
+    "seen_at": "2026-04-22T15:51:13.288Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 17:48, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "44994",
+    "event_time": "2026-04-22T17:48:00",
+    "seen_at": "2026-04-22T15:51:13.289Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 17:48, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-22T17:51:00",
+    "seen_at": "2026-04-22T15:54:02.148Z",
+    "raw": "Br. Vlaka 63310 dolazak      22.04.26. 17:51, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-22T17:51:00",
+    "seen_at": "2026-04-22T15:54:25.896Z",
+    "raw": "Br. Vlaka 63310 promjena sas 22.04.26. 17:51, kolodvor VRHOVINE"
   }
 ]
