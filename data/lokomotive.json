@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82529",
-    "event_time": "2026-04-19T18:05:00",
-    "seen_at": "2026-04-19T16:08:10.237Z",
-    "raw": "Br. Vlaka 82529 odlazak      19.04.26. 18:05, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ŽUPANJA",
@@ -15181,5 +15172,59 @@
     "event_time": "2026-04-22T17:51:00",
     "seen_at": "2026-04-22T15:54:25.896Z",
     "raw": "Br. Vlaka 63310 promjena sas 22.04.26. 17:51, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SLATINA",
+    "train_number": "89717",
+    "event_time": "2026-04-22T17:53:00",
+    "seen_at": "2026-04-22T15:59:32.694Z",
+    "raw": "Br. Vlaka 89717 dolazak      22.04.26. 17:53, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89717",
+    "event_time": "2026-04-22T17:58:00",
+    "seen_at": "2026-04-22T15:59:56.273Z",
+    "raw": "Br. Vlaka 89717 odlazak      22.04.26. 17:58, kolodvor SLATINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-22T18:00:00",
+    "seen_at": "2026-04-22T16:00:44.493Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.04.26. 18:00, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81959",
+    "event_time": "2026-04-22T17:52:00",
+    "seen_at": "2026-04-22T16:03:31.911Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 17:52, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "49998",
+    "event_time": "2026-04-22T17:53:00",
+    "seen_at": "2026-04-22T16:04:18.311Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 17:53, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T18:03:00",
+    "seen_at": "2026-04-22T16:05:54.721Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 18:03, kolodvor MALA SUBOTICA"
   }
 ]
