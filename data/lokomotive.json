@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OKUČANI",
-    "train_number": "81284",
-    "event_time": "2026-04-19T03:30:00",
-    "seen_at": "2026-04-19T01:31:25.917Z",
-    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 03:30, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43995",
-    "event_time": "2026-04-19T03:34:00",
-    "seen_at": "2026-04-19T01:36:20.736Z",
-    "raw": "Br. Vlaka 43995 dolazak      19.04.26. 03:34, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43995",
-    "event_time": "2026-04-19T03:34:00",
-    "seen_at": "2026-04-19T01:36:20.737Z",
-    "raw": "Br. Vlaka 43995 dolazak      19.04.26. 03:34, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81953",
-    "event_time": "2026-04-19T03:33:00",
-    "seen_at": "2026-04-19T01:40:21.581Z",
-    "raw": "Br. Vlaka 81953 odlazak      19.04.26. 03:33, kolodvor HRVATSKA DUBICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -15703,5 +15667,86 @@
     "event_time": "2026-04-22T03:27:00",
     "seen_at": "2026-04-22T01:27:30.238Z",
     "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:27, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47945",
+    "event_time": "2026-04-22T03:31:00",
+    "seen_at": "2026-04-22T01:31:53.096Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 03:31, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47945",
+    "event_time": "2026-04-22T03:31:00",
+    "seen_at": "2026-04-22T01:31:53.096Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 03:31, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82169",
+    "event_time": "2026-04-22T03:29:00",
+    "seen_at": "2026-04-22T01:33:48.120Z",
+    "raw": "Br. Vlaka 82169 odlazak      22.04.26. 03:29, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-04-22T03:36:00",
+    "seen_at": "2026-04-22T01:39:27.976Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 03:36, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-04-22T03:36:00",
+    "seen_at": "2026-04-22T01:39:27.977Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 03:36, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47945",
+    "event_time": "2026-04-22T03:40:00",
+    "seen_at": "2026-04-22T01:40:13.168Z",
+    "raw": "Br. Vlaka 47945 dolazak      22.04.26. 03:40, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47945",
+    "event_time": "2026-04-22T03:40:00",
+    "seen_at": "2026-04-22T01:40:13.169Z",
+    "raw": "Br. Vlaka 47945 dolazak      22.04.26. 03:40, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-22T03:40:00",
+    "seen_at": "2026-04-22T01:40:35.768Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-22T03:40:00",
+    "seen_at": "2026-04-22T01:40:35.769Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
   }
 ]
