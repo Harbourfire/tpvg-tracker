@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43996",
-    "event_time": "2026-04-19T21:08:00",
-    "seen_at": "2026-04-19T19:11:02.112Z",
-    "raw": "Br. Vlaka 43996 odlazak      19.04.26. 21:08, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "81960",
-    "event_time": "2026-04-19T21:13:00",
-    "seen_at": "2026-04-19T19:16:21.420Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:13, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820620015",
     "type": "Dolazak",
     "station": "ČAKOVEC",
     "train_number": "43996",
@@ -15541,5 +15523,23 @@
     "event_time": "2026-04-22T21:04:00",
     "seen_at": "2026-04-22T19:10:13.037Z",
     "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "89288",
+    "event_time": "2026-04-22T21:11:00",
+    "seen_at": "2026-04-22T19:13:35.265Z",
+    "raw": "Br. Vlaka 89288 odlazak      22.04.26. 21:11, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "61037",
+    "event_time": "2026-04-22T20:01:00",
+    "seen_at": "2026-04-22T19:16:42.615Z",
+    "raw": "Br. Vlaka 61037 promjena sas 22.04.26. 20:01, kolodvor VINKOVCI"
   }
 ]
