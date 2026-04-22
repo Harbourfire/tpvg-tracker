@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "48789",
-    "event_time": "2026-04-19T15:54:00",
-    "seen_at": "2026-04-19T13:55:56.102Z",
-    "raw": "Br. Vlaka 48789 odlazak      19.04.26. 15:54, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89921",
-    "event_time": "2026-04-19T15:55:00",
-    "seen_at": "2026-04-19T13:56:43.010Z",
-    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 15:55, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89921",
-    "event_time": "2026-04-19T15:55:00",
-    "seen_at": "2026-04-19T13:56:43.011Z",
-    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 15:55, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89126",
-    "event_time": "2026-04-19T15:56:00",
-    "seen_at": "2026-04-19T13:57:28.961Z",
-    "raw": "Br. Vlaka 89126 formiran     19.04.26. 15:56, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-18T21:04:00",
-    "seen_at": "2026-04-19T13:57:28.962Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89126",
-    "event_time": "2026-04-19T15:56:00",
-    "seen_at": "2026-04-19T13:57:51.760Z",
-    "raw": "Br. Vlaka 89126 formiran     19.04.26. 15:56, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "40893",
-    "event_time": "2026-04-19T15:58:00",
-    "seen_at": "2026-04-19T13:59:01.257Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 15:58, kolodvor ZAGREB RESNIK"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ZAGREB ŽITNJAK",
@@ -15667,5 +15604,14 @@
     "event_time": "2026-04-19T04:57:00",
     "seen_at": "2026-04-22T13:52:56.156Z",
     "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BANOVA JARUGA",
+    "train_number": "81959",
+    "event_time": "2026-04-22T15:55:00",
+    "seen_at": "2026-04-22T13:58:18.188Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 15:55, kolodvor BANOVA JARUGA"
   }
 ]
