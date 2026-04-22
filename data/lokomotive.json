@@ -1,78 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49996",
-    "event_time": "2026-04-19T04:37:00",
-    "seen_at": "2026-04-19T02:37:33.566Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:37, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49996",
-    "event_time": "2026-04-19T04:37:00",
-    "seen_at": "2026-04-19T02:37:33.567Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:37, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "89122",
-    "event_time": "2026-04-19T04:23:00",
-    "seen_at": "2026-04-19T02:40:37.906Z",
-    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:23, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "LUKA",
-    "train_number": null,
-    "event_time": "2026-04-19T04:30:00",
-    "seen_at": "2026-04-19T02:41:01.124Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74304 LUKA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "LUKA",
-    "train_number": "44996",
-    "event_time": "2026-04-19T04:41:00",
-    "seen_at": "2026-04-19T02:41:47.279Z",
-    "raw": "Br. Vlaka 44996 formiran     19.04.26. 04:41, kolodvor LUKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49996",
-    "event_time": "2026-04-19T04:44:00",
-    "seen_at": "2026-04-19T02:45:03.857Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:44, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49996",
-    "event_time": "2026-04-19T04:44:00",
-    "seen_at": "2026-04-19T02:45:03.858Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:44, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "81284",
-    "event_time": "2026-04-19T04:46:00",
-    "seen_at": "2026-04-19T02:46:35.610Z",
-    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 04:46, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Dolazak",
     "station": "KOTORIBA",
     "train_number": "49996",
@@ -15559,5 +15487,41 @@
     "event_time": "2026-04-22T04:29:00",
     "seen_at": "2026-04-22T02:29:59.530Z",
     "raw": "Br. Vlaka 82169 odlazak      22.04.26. 04:29, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-21T21:04:00",
+    "seen_at": "2026-04-22T02:40:29.441Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-21T23:49:00",
+    "seen_at": "2026-04-22T02:40:52.392Z",
+    "raw": "Br. Vlaka 49998 promjena sas 21.04.26. 23:49, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-21T23:49:00",
+    "seen_at": "2026-04-22T02:41:15.808Z",
+    "raw": "Br. Vlaka 49998 promjena sas 21.04.26. 23:49, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "82169",
+    "event_time": "2026-04-22T04:42:00",
+    "seen_at": "2026-04-22T02:43:35.619Z",
+    "raw": "Br. Vlaka 82169 odlazak      22.04.26. 04:42, kolodvor ZLATAR-BISTRICA"
   }
 ]
