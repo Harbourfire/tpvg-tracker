@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "48786",
-    "event_time": "2026-04-19T11:55:00",
-    "seen_at": "2026-04-19T09:56:47.313Z",
-    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 11:55, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -15874,5 +15865,113 @@
     "event_time": "2026-04-22T11:46:00",
     "seen_at": "2026-04-22T09:47:01.653Z",
     "raw": "Br. Vlaka 83821 dolazak      22.04.26. 11:46, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "44994",
+    "event_time": "2026-04-22T10:38:00",
+    "seen_at": "2026-04-22T09:59:12.372Z",
+    "raw": "Br. Vlaka 44994 promjena sas 22.04.26. 10:38, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T11:55:00",
+    "seen_at": "2026-04-22T09:59:12.373Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T11:55:00",
+    "seen_at": "2026-04-22T09:59:12.373Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KONJŠČINA",
+    "train_number": null,
+    "event_time": "2026-04-21T18:00:00",
+    "seen_at": "2026-04-22T09:59:35.567Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82177",
+    "event_time": "2026-04-22T11:55:00",
+    "seen_at": "2026-04-22T09:59:35.568Z",
+    "raw": "Br. Vlaka 82177 odlazak      22.04.26. 11:55, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "KONJŠČINA",
+    "train_number": "83826",
+    "event_time": "2026-04-22T11:59:00",
+    "seen_at": "2026-04-22T09:59:58.867Z",
+    "raw": "Br. Vlaka 83826 formiran     22.04.26. 11:59, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82171",
+    "event_time": "2026-04-22T12:00:00",
+    "seen_at": "2026-04-22T10:00:22.591Z",
+    "raw": "Br. Vlaka 82171 dolazak      22.04.26. 12:00, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T11:35:00",
+    "seen_at": "2026-04-22T10:00:22.591Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-22T12:00:00",
+    "seen_at": "2026-04-22T10:01:09.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49998",
+    "event_time": "2026-04-22T11:59:00",
+    "seen_at": "2026-04-22T10:02:19.720Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 11:59, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "49998",
+    "event_time": "2026-04-22T11:59:00",
+    "seen_at": "2026-04-22T10:02:19.721Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 11:59, kolodvor TURČIN"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "77227",
+    "event_time": "2026-04-22T12:02:00",
+    "seen_at": "2026-04-22T10:03:29.743Z",
+    "raw": "Br. Vlaka 77227 formiran     22.04.26. 12:02, kolodvor OSIJEK"
   }
 ]
