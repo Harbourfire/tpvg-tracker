@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89250",
-    "event_time": "2026-04-19T13:49:00",
-    "seen_at": "2026-04-19T11:49:31.872Z",
-    "raw": "Br. Vlaka 89250 odlazak      19.04.26. 13:49, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89921",
-    "event_time": "2026-04-19T13:47:00",
-    "seen_at": "2026-04-19T11:50:17.468Z",
-    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 13:47, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89921",
-    "event_time": "2026-04-19T13:47:00",
-    "seen_at": "2026-04-19T11:50:17.468Z",
-    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 13:47, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-19T13:49:00",
-    "seen_at": "2026-04-19T11:51:03.100Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 13:49, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-19T13:49:00",
-    "seen_at": "2026-04-19T11:51:03.101Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 13:49, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-19T13:52:00",
-    "seen_at": "2026-04-19T11:52:44.762Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16117,5 +16063,41 @@
     "event_time": "2026-04-22T13:41:00",
     "seen_at": "2026-04-22T11:42:30.234Z",
     "raw": "Br. Vlaka 89721 odlazak      22.04.26. 13:41, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "58260",
+    "event_time": "2026-04-22T13:04:00",
+    "seen_at": "2026-04-22T11:50:34.226Z",
+    "raw": "Br. Vlaka 58260 formiran     22.04.26. 13:04, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "LUPOGLAV",
+    "train_number": "58260",
+    "event_time": "2026-04-22T13:04:00",
+    "seen_at": "2026-04-22T11:50:34.226Z",
+    "raw": "Br. Vlaka 58260 formiran     22.04.26. 13:04, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "77227",
+    "event_time": "2026-04-22T13:50:00",
+    "seen_at": "2026-04-22T11:50:57.043Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.04.26. 13:50, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "81959",
+    "event_time": "2026-04-22T13:53:00",
+    "seen_at": "2026-04-22T11:53:37.287Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 13:53, kolodvor IVANIĆ GRAD"
   }
 ]
