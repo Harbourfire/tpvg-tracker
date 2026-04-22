@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "48789",
-    "event_time": "2026-04-19T22:53:00",
-    "seen_at": "2026-04-19T20:56:55.731Z",
-    "raw": "Br. Vlaka 48789 odlazak      19.04.26. 22:53, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "48789",
-    "event_time": "2026-04-19T22:53:00",
-    "seen_at": "2026-04-19T20:56:55.732Z",
-    "raw": "Br. Vlaka 48789 odlazak      19.04.26. 22:53, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "43996",
-    "event_time": "2026-04-19T22:52:00",
-    "seen_at": "2026-04-19T20:59:35.003Z",
-    "raw": "Br. Vlaka 43996 dolazak      19.04.26. 22:52, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "43996",
-    "event_time": "2026-04-19T22:46:00",
-    "seen_at": "2026-04-19T21:00:21.369Z",
-    "raw": "Br. Vlaka 43996 odlazak      19.04.26. 22:46, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-19T22:52:00",
-    "seen_at": "2026-04-19T21:01:06.808Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-19T23:01:00",
-    "seen_at": "2026-04-19T21:02:14.753Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 23:01, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-19T23:01:00",
-    "seen_at": "2026-04-19T21:02:14.753Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 23:01, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81960",
-    "event_time": "2026-04-19T23:03:00",
-    "seen_at": "2026-04-19T21:04:08.228Z",
-    "raw": "Br. Vlaka 81960 dolazak      19.04.26. 23:03, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "HRVATSKA DUBICA",
@@ -15559,5 +15487,50 @@
     "event_time": "2026-04-22T22:50:00",
     "seen_at": "2026-04-22T20:53:53.511Z",
     "raw": "Br. Vlaka 81982 odlazak      22.04.26. 22:50, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81961",
+    "event_time": "2026-04-22T22:57:00",
+    "seen_at": "2026-04-22T20:59:11.499Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 22:57, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-04-22T23:00:00",
+    "seen_at": "2026-04-22T21:01:33.234Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 23:00, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "BIZOVAC",
+    "train_number": "83832",
+    "event_time": "2026-04-22T22:35:00",
+    "seen_at": "2026-04-22T21:03:57.824Z",
+    "raw": "Br. Vlaka 83832 promjena sas 22.04.26. 22:35, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "81982",
+    "event_time": "2026-04-22T23:05:00",
+    "seen_at": "2026-04-22T21:06:20.070Z",
+    "raw": "Br. Vlaka 81982 dolazak      22.04.26. 23:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "81961",
+    "event_time": "2026-04-22T23:05:00",
+    "seen_at": "2026-04-22T21:06:20.070Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 23:05, kolodvor STARI MIKANOVCI"
   }
 ]
