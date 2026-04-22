@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "TOVARNIK",
-    "train_number": "81960",
-    "event_time": "2026-04-19T19:50:00",
-    "seen_at": "2026-04-19T18:47:56.365Z",
-    "raw": "Br. Vlaka 81960 formiran     19.04.26. 19:50, kolodvor TOVARNIK"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -15469,5 +15460,50 @@
     "event_time": "2026-04-22T20:23:00",
     "seen_at": "2026-04-22T18:41:39.744Z",
     "raw": "Br. Vlaka 83832 odlazak      22.04.26. 20:23, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-04-22T20:42:00",
+    "seen_at": "2026-04-22T18:42:41.692Z",
+    "raw": "Br. Vlaka 44994 dolazak      22.04.26. 20:42, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "JOSIPOVAC",
+    "train_number": "83832",
+    "event_time": "2026-04-22T20:37:00",
+    "seen_at": "2026-04-22T18:43:07.783Z",
+    "raw": "Br. Vlaka 83832 dolazak      22.04.26. 20:37, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "44994",
+    "event_time": "2026-04-22T20:44:00",
+    "seen_at": "2026-04-22T18:45:06.603Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 20:44, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89288",
+    "event_time": "2026-04-22T20:46:00",
+    "seen_at": "2026-04-22T18:46:40.453Z",
+    "raw": "Br. Vlaka 89288 odlazak      22.04.26. 20:46, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "81960",
+    "event_time": "2026-04-22T20:45:00",
+    "seen_at": "2026-04-22T18:47:30.252Z",
+    "raw": "Br. Vlaka 81960 odlazak      22.04.26. 20:45, kolodvor STARO PETROVO SELO"
   }
 ]
