@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81284",
-    "event_time": "2026-04-19T05:19:00",
-    "seen_at": "2026-04-19T03:26:57.396Z",
-    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 05:19, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "81284",
-    "event_time": "2026-04-19T05:22:00",
-    "seen_at": "2026-04-19T03:28:52.241Z",
-    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 05:22, kolodvor HRVATSKA DUBICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-19T05:31:00",
-    "seen_at": "2026-04-19T03:31:48.419Z",
-    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 05:31, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48786",
-    "event_time": "2026-04-19T05:31:00",
-    "seen_at": "2026-04-19T03:32:35.276Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 05:31, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "81953",
-    "event_time": "2026-04-19T05:32:00",
-    "seen_at": "2026-04-19T03:32:58.423Z",
-    "raw": "Br. Vlaka 81953 odlazak      19.04.26. 05:32, kolodvor NOVSKA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "NOVI DVORI",
@@ -15496,5 +15451,32 @@
     "event_time": "2026-04-22T05:20:00",
     "seen_at": "2026-04-22T03:21:11.661Z",
     "raw": "Br. Vlaka 82158 odlazak      22.04.26. 05:20, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-22T04:11:00",
+    "seen_at": "2026-04-22T03:26:17.683Z",
+    "raw": "Br. Vlaka 48789 promjena sas 22.04.26. 04:11, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-04-22T05:31:00",
+    "seen_at": "2026-04-22T03:32:23.512Z",
+    "raw": "Br. Vlaka 47563 odlazak      22.04.26. 05:31, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47563",
+    "event_time": "2026-04-22T05:31:00",
+    "seen_at": "2026-04-22T03:32:23.513Z",
+    "raw": "Br. Vlaka 47563 odlazak      22.04.26. 05:31, kolodvor SAVSKI MAROF"
   }
 ]
