@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "HRVATSKA DUBICA",
-    "train_number": "40893",
-    "event_time": "2026-04-19T23:03:00",
-    "seen_at": "2026-04-19T21:06:41.164Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 23:03, kolodvor HRVATSKA DUBICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -15532,5 +15523,68 @@
     "event_time": "2026-04-22T23:05:00",
     "seen_at": "2026-04-22T21:06:20.070Z",
     "raw": "Br. Vlaka 81961 odlazak      22.04.26. 23:05, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-22T15:15:00",
+    "seen_at": "2026-04-22T21:06:58.510Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81982",
+    "event_time": "2026-04-22T23:05:00",
+    "seen_at": "2026-04-22T21:07:22.121Z",
+    "raw": "Br. Vlaka 81982 promjena sas 22.04.26. 23:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81982",
+    "event_time": "2026-04-22T23:05:00",
+    "seen_at": "2026-04-22T21:07:22.121Z",
+    "raw": "Br. Vlaka 81982 promjena sas 22.04.26. 23:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "83832",
+    "event_time": "2026-04-22T23:03:00",
+    "seen_at": "2026-04-22T21:08:09.670Z",
+    "raw": "Br. Vlaka 83832 odlazak      22.04.26. 23:03, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-22T23:08:00",
+    "seen_at": "2026-04-22T21:10:54.794Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 23:08, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "81961",
+    "event_time": "2026-04-22T23:11:00",
+    "seen_at": "2026-04-22T21:13:41.081Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 23:11, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-21T09:24:00",
+    "seen_at": "2026-04-22T21:14:51.737Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
