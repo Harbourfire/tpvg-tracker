@@ -2,24 +2,6 @@
   {
     "uic": "927820620015",
     "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "48786",
-    "event_time": "2026-04-19T12:25:00",
-    "seen_at": "2026-04-19T10:26:49.082Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 12:25, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89170",
-    "event_time": "2026-04-19T12:21:00",
-    "seen_at": "2026-04-19T10:26:49.082Z",
-    "raw": "Br. Vlaka 89170 odlazak      19.04.26. 12:21, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
     "station": "MALA SUBOTICA",
     "train_number": "48786",
     "event_time": "2026-04-19T12:32:00",
@@ -15964,5 +15946,59 @@
     "event_time": "2026-04-22T12:21:00",
     "seen_at": "2026-04-22T10:23:21.280Z",
     "raw": "Br. Vlaka 82177 odlazak      22.04.26. 12:21, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-21T03:00:00",
+    "seen_at": "2026-04-22T10:24:21.128Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-21T03:00:00",
+    "seen_at": "2026-04-22T10:24:21.130Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89721",
+    "event_time": "2026-04-22T10:46:00",
+    "seen_at": "2026-04-22T10:24:45.395Z",
+    "raw": "Br. Vlaka 89721 formiran     22.04.26. 10:46, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89721",
+    "event_time": "2026-04-22T10:46:00",
+    "seen_at": "2026-04-22T10:24:45.397Z",
+    "raw": "Br. Vlaka 89721 formiran     22.04.26. 10:46, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "83826",
+    "event_time": "2026-04-22T12:12:00",
+    "seen_at": "2026-04-22T10:29:27.894Z",
+    "raw": "Br. Vlaka 83826 odlazak      22.04.26. 12:12, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "83826",
+    "event_time": "2026-04-22T12:30:00",
+    "seen_at": "2026-04-22T10:31:51.785Z",
+    "raw": "Br. Vlaka 83826 odlazak      22.04.26. 12:30, kolodvor BUDINŠĆINA"
   }
 ]
