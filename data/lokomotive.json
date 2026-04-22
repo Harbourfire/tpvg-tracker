@@ -2,42 +2,6 @@
   {
     "uic": "927820440265",
     "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T01:30:00",
-    "seen_at": "2026-04-19T23:31:31.589Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:30, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "43995",
-    "event_time": "2026-04-20T01:34:00",
-    "seen_at": "2026-04-19T23:35:53.646Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:34, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-19T12:04:00",
-    "seen_at": "2026-04-19T23:39:20.204Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-19T12:04:00",
-    "seen_at": "2026-04-19T23:39:20.205Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": "40893",
     "event_time": "2026-04-20T01:40:00",
@@ -15694,5 +15658,59 @@
     "event_time": "2026-04-23T01:27:00",
     "seen_at": "2026-04-22T23:27:42.732Z",
     "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:27, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "89288",
+    "event_time": "2026-04-23T01:33:00",
+    "seen_at": "2026-04-22T23:33:28.123Z",
+    "raw": "Br. Vlaka 89288 odlazak      23.04.26. 01:33, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:32:00",
+    "seen_at": "2026-04-22T23:35:26.688Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:32, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:32:00",
+    "seen_at": "2026-04-22T23:35:26.689Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:32, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "VALPOVO",
+    "train_number": "83833",
+    "event_time": "2026-04-23T01:38:00",
+    "seen_at": "2026-04-22T23:38:34.471Z",
+    "raw": "Br. Vlaka 83833 formiran     23.04.26. 01:38, kolodvor VALPOVO"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "89893",
+    "event_time": "2026-04-23T01:39:00",
+    "seen_at": "2026-04-22T23:39:44.773Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 01:39, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "89893",
+    "event_time": "2026-04-23T01:39:00",
+    "seen_at": "2026-04-22T23:39:44.774Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 01:39, kolodvor DUGO SELO"
   }
 ]
