@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81953",
-    "event_time": "2026-04-19T06:54:00",
-    "seen_at": "2026-04-19T04:56:26.666Z",
-    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 06:54, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-19T06:54:00",
-    "seen_at": "2026-04-19T04:58:42.304Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820440125",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -15577,5 +15559,32 @@
     "event_time": "2026-04-22T06:46:00",
     "seen_at": "2026-04-22T04:48:15.284Z",
     "raw": "Br. Vlaka 82158 odlazak      22.04.26. 06:46, kolodvor BLATA"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71205",
+    "event_time": "2026-04-22T06:51:00",
+    "seen_at": "2026-04-22T04:51:58.953Z",
+    "raw": "Br. Vlaka 71205 formiran     22.04.26. 06:51, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "69782",
+    "event_time": "2026-04-22T06:55:00",
+    "seen_at": "2026-04-22T04:56:56.624Z",
+    "raw": "Br. Vlaka 69782 odlazak      22.04.26. 06:55, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-22T06:57:00",
+    "seen_at": "2026-04-22T04:58:50.391Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
