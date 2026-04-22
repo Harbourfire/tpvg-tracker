@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ŽUPANJA",
-    "train_number": null,
-    "event_time": "2026-04-19T18:23:00",
-    "seen_at": "2026-04-19T16:24:09.928Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
-  },
-  {
-    "uic": "927820622037",
     "type": "Formiran",
     "station": "ŽUPANJA",
     "train_number": "81964",
@@ -15298,5 +15289,41 @@
     "event_time": "2026-04-21T18:00:00",
     "seen_at": "2026-04-22T16:17:34.526Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "89717",
+    "event_time": "2026-04-22T18:22:00",
+    "seen_at": "2026-04-22T16:23:24.623Z",
+    "raw": "Br. Vlaka 89717 dolazak      22.04.26. 18:22, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "VRHOVINE",
+    "train_number": null,
+    "event_time": "2026-04-22T18:22:00",
+    "seen_at": "2026-04-22T16:25:01.151Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T18:23:00",
+    "seen_at": "2026-04-22T16:25:24.392Z",
+    "raw": "Br. Vlaka 49998 dolazak      22.04.26. 18:23, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-22T16:27:00",
+    "seen_at": "2026-04-22T16:25:47.909Z",
+    "raw": "Br. Vlaka 63312 formiran     22.04.26. 16:27, kolodvor VRHOVINE"
   }
 ]
