@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-19T02:16:00",
-    "seen_at": "2026-04-19T00:18:02.179Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 02:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-19T02:16:00",
-    "seen_at": "2026-04-19T00:18:02.179Z",
-    "raw": "Br. Vlaka 63306 odlazak      19.04.26. 02:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-19T02:22:00",
-    "seen_at": "2026-04-19T00:22:33.475Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 02:22, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-19T02:22:00",
-    "seen_at": "2026-04-19T00:22:33.477Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 02:22, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81284",
-    "event_time": "2026-04-19T02:21:00",
-    "seen_at": "2026-04-19T00:22:56.213Z",
-    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 02:21, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820440141",
     "type": "Formiran",
     "station": "KONJŠČINA",
@@ -15982,5 +15937,32 @@
     "event_time": "2026-04-22T02:08:00",
     "seen_at": "2026-04-22T00:08:16.967Z",
     "raw": "Br. Vlaka 48789 odlazak      22.04.26. 02:08, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "48789",
+    "event_time": "2026-04-22T02:17:00",
+    "seen_at": "2026-04-22T00:19:42.665Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 02:17, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "48789",
+    "event_time": "2026-04-22T02:17:00",
+    "seen_at": "2026-04-22T00:19:42.667Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 02:17, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82169",
+    "event_time": "2026-04-22T02:23:00",
+    "seen_at": "2026-04-22T00:23:10.337Z",
+    "raw": "Br. Vlaka 82169 formiran     22.04.26. 02:23, kolodvor VARAŽDIN"
   }
 ]
