@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-19T13:26:00",
-    "seen_at": "2026-04-19T11:26:32.143Z",
-    "raw": "Br. Vlaka 63310 formiran     19.04.26. 13:26, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-19T13:26:00",
-    "seen_at": "2026-04-19T11:26:32.143Z",
-    "raw": "Br. Vlaka 63310 formiran     19.04.26. 13:26, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "81959",
-    "event_time": "2026-04-19T13:27:00",
-    "seen_at": "2026-04-19T11:28:24.523Z",
-    "raw": "Br. Vlaka 81959 odlazak      19.04.26. 13:27, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-19T13:28:00",
-    "seen_at": "2026-04-19T11:28:46.879Z",
-    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:28, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-19T13:28:00",
-    "seen_at": "2026-04-19T11:28:46.879Z",
-    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:28, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
     "type": "Odlazak",
     "station": "GOSPIĆ",
     "train_number": "63310",
@@ -16054,5 +16009,122 @@
     "event_time": "2026-04-22T13:18:00",
     "seen_at": "2026-04-22T11:19:01.027Z",
     "raw": "Br. Vlaka 81956 odlazak      22.04.26. 13:18, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "83826",
+    "event_time": "2026-04-22T12:58:00",
+    "seen_at": "2026-04-22T11:22:21.208Z",
+    "raw": "Br. Vlaka 83826 dolazak      22.04.26. 12:58, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47939",
+    "event_time": "2026-04-22T13:08:00",
+    "seen_at": "2026-04-22T11:22:21.209Z",
+    "raw": "Br. Vlaka 47939 odlazak      22.04.26. 13:08, kolodvor ROČ"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ROČ",
+    "train_number": "47939",
+    "event_time": "2026-04-22T13:08:00",
+    "seen_at": "2026-04-22T11:22:21.209Z",
+    "raw": "Br. Vlaka 47939 odlazak      22.04.26. 13:08, kolodvor ROČ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "83826",
+    "event_time": "2026-04-22T13:19:00",
+    "seen_at": "2026-04-22T11:22:44.858Z",
+    "raw": "Br. Vlaka 83826 odlazak      22.04.26. 13:19, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "47939",
+    "event_time": "2026-04-22T13:20:00",
+    "seen_at": "2026-04-22T11:22:44.859Z",
+    "raw": "Br. Vlaka 47939 dolazak      22.04.26. 13:20, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "LUPOGLAV",
+    "train_number": "47939",
+    "event_time": "2026-04-22T13:20:00",
+    "seen_at": "2026-04-22T11:22:44.859Z",
+    "raw": "Br. Vlaka 47939 dolazak      22.04.26. 13:20, kolodvor LUPOGLAV"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "83825",
+    "event_time": "2026-04-22T13:22:00",
+    "seen_at": "2026-04-22T11:23:08.999Z",
+    "raw": "Br. Vlaka 83825 odlazak      22.04.26. 13:22, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-22T13:20:00",
+    "seen_at": "2026-04-22T11:23:09.000Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "LUPOGLAV",
+    "train_number": null,
+    "event_time": "2026-04-22T13:20:00",
+    "seen_at": "2026-04-22T11:23:09.000Z",
+    "raw": "Trenutna pozicija je u kolodvoru 77400 LUPOGLAV"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89721",
+    "event_time": "2026-04-22T13:14:00",
+    "seen_at": "2026-04-22T11:26:37.461Z",
+    "raw": "Br. Vlaka 89721 dolazak      22.04.26. 13:14, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "TURČIN",
+    "train_number": "89721",
+    "event_time": "2026-04-22T13:14:00",
+    "seen_at": "2026-04-22T11:26:37.463Z",
+    "raw": "Br. Vlaka 89721 dolazak      22.04.26. 13:14, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82177",
+    "event_time": "2026-04-22T13:27:00",
+    "seen_at": "2026-04-22T11:28:56.795Z",
+    "raw": "Br. Vlaka 82177 odlazak      22.04.26. 13:27, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "77227",
+    "event_time": "2026-04-22T13:27:00",
+    "seen_at": "2026-04-22T11:29:43.285Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.04.26. 13:27, kolodvor IVANKOVO"
   }
 ]
