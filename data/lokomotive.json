@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "43995",
-    "event_time": "2026-04-20T00:52:00",
-    "seen_at": "2026-04-19T22:52:52.465Z",
-    "raw": "Br. Vlaka 43995 formiran     20.04.26. 00:52, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-20T00:53:00",
-    "seen_at": "2026-04-19T22:53:59.901Z",
-    "raw": "Br. Vlaka 63306 formiran     20.04.26. 00:53, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-20T00:53:00",
-    "seen_at": "2026-04-19T22:53:59.901Z",
-    "raw": "Br. Vlaka 63306 formiran     20.04.26. 00:53, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-20T00:55:00",
-    "seen_at": "2026-04-19T22:56:16.067Z",
-    "raw": "Br. Vlaka 48789 odlazak      20.04.26. 00:55, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-20T00:55:00",
-    "seen_at": "2026-04-19T22:56:16.067Z",
-    "raw": "Br. Vlaka 48789 odlazak      20.04.26. 00:55, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "40893",
-    "event_time": "2026-04-20T00:56:00",
-    "seen_at": "2026-04-19T22:58:46.533Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 00:56, kolodvor SIBINJ"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -15631,5 +15577,32 @@
     "event_time": "2026-04-23T00:48:00",
     "seen_at": "2026-04-22T22:51:05.571Z",
     "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:48, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "89288",
+    "event_time": "2026-04-23T00:52:00",
+    "seen_at": "2026-04-22T22:52:34.158Z",
+    "raw": "Br. Vlaka 89288 odlazak      23.04.26. 00:52, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81982",
+    "event_time": "2026-04-23T00:58:00",
+    "seen_at": "2026-04-22T23:00:06.391Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:58, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "81982",
+    "event_time": "2026-04-23T00:58:00",
+    "seen_at": "2026-04-22T23:00:06.391Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 00:58, kolodvor BEDEKOVČINA"
   }
 ]
