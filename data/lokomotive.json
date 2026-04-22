@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "48786",
-    "event_time": "2026-04-19T14:01:00",
-    "seen_at": "2026-04-19T12:09:01.893Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 14:01, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "48786",
-    "event_time": "2026-04-19T14:07:00",
-    "seen_at": "2026-04-19T12:09:25.058Z",
-    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 14:07, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-19T14:07:00",
-    "seen_at": "2026-04-19T12:09:48.140Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -16099,5 +16072,50 @@
     "event_time": "2026-04-22T14:05:00",
     "seen_at": "2026-04-22T12:07:07.533Z",
     "raw": "Br. Vlaka 89721 odlazak      22.04.26. 14:05, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVOSELEC",
+    "train_number": "81959",
+    "event_time": "2026-04-22T14:08:00",
+    "seen_at": "2026-04-22T12:10:51.746Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 14:08, kolodvor NOVOSELEC"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "GARČIN",
+    "train_number": "77227",
+    "event_time": "2026-04-22T14:11:00",
+    "seen_at": "2026-04-22T12:11:14.740Z",
+    "raw": "Br. Vlaka 77227 dolazak      22.04.26. 14:11, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-22T13:51:00",
+    "seen_at": "2026-04-22T12:11:37.682Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "49998",
+    "event_time": "2026-04-22T12:07:00",
+    "seen_at": "2026-04-22T12:13:55.431Z",
+    "raw": "Br. Vlaka 49998 promjena sas 22.04.26. 12:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LUDINA",
+    "train_number": "81959",
+    "event_time": "2026-04-22T14:14:00",
+    "seen_at": "2026-04-22T12:15:03.880Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 14:14, kolodvor LUDINA"
   }
 ]
