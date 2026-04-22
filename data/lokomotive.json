@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81979",
-    "event_time": "2026-04-19T09:42:00",
-    "seen_at": "2026-04-19T07:43:23.431Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:42, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "81979",
-    "event_time": "2026-04-19T09:42:00",
-    "seen_at": "2026-04-19T07:43:23.431Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:42, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81979",
-    "event_time": "2026-04-19T09:47:00",
-    "seen_at": "2026-04-19T07:49:42.398Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:47, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "81979",
-    "event_time": "2026-04-19T09:47:00",
-    "seen_at": "2026-04-19T07:49:42.398Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 09:47, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "VELIKA",
@@ -15847,5 +15811,59 @@
     "event_time": "2026-04-22T09:40:00",
     "seen_at": "2026-04-22T07:41:12.467Z",
     "raw": "Br. Vlaka 89066 odlazak      22.04.26. 09:40, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "76552",
+    "event_time": "2026-04-22T09:17:00",
+    "seen_at": "2026-04-22T07:43:01.344Z",
+    "raw": "Br. Vlaka 76552 dolazak      22.04.26. 09:17, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "76552",
+    "event_time": "2026-04-22T09:17:00",
+    "seen_at": "2026-04-22T07:43:01.345Z",
+    "raw": "Br. Vlaka 76552 dolazak      22.04.26. 09:17, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-22T09:17:00",
+    "seen_at": "2026-04-22T07:43:24.854Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-22T09:17:00",
+    "seen_at": "2026-04-22T07:43:24.855Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "44994",
+    "event_time": "2026-04-22T09:42:00",
+    "seen_at": "2026-04-22T07:48:30.452Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 09:42, kolodvor ZABOK"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "89066",
+    "event_time": "2026-04-22T09:48:00",
+    "seen_at": "2026-04-22T07:49:16.446Z",
+    "raw": "Br. Vlaka 89066 odlazak      22.04.26. 09:48, kolodvor ANDRIJEVCI"
   }
 ]
