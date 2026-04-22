@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "81957",
-    "event_time": "2026-04-19T09:32:00",
-    "seen_at": "2026-04-19T07:34:01.958Z",
-    "raw": "Br. Vlaka 81957 odlazak      19.04.26. 09:32, kolodvor POŽEGA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -15802,5 +15793,59 @@
     "event_time": "2026-04-22T09:29:00",
     "seen_at": "2026-04-22T07:29:44.246Z",
     "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T23:48:00",
+    "seen_at": "2026-04-22T07:34:16.361Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T23:48:00",
+    "seen_at": "2026-04-22T07:34:16.362Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "VIROVITICA",
+    "train_number": "89717",
+    "event_time": "2026-04-22T09:35:00",
+    "seen_at": "2026-04-22T07:36:57.624Z",
+    "raw": "Br. Vlaka 89717 formiran     22.04.26. 09:35, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T09:39:00",
+    "seen_at": "2026-04-22T07:40:03.210Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 09:39, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T09:39:00",
+    "seen_at": "2026-04-22T07:40:03.211Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 09:39, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89066",
+    "event_time": "2026-04-22T09:40:00",
+    "seen_at": "2026-04-22T07:41:12.467Z",
+    "raw": "Br. Vlaka 89066 odlazak      22.04.26. 09:40, kolodvor GARČIN"
   }
 ]
