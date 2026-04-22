@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "48786",
-    "event_time": "2026-04-19T11:25:00",
-    "seen_at": "2026-04-19T09:27:29.570Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 11:25, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82525",
-    "event_time": "2026-04-19T11:26:00",
-    "seen_at": "2026-04-19T09:28:02.182Z",
-    "raw": "Br. Vlaka 82525 odlazak      19.04.26. 11:26, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-19T11:27:00",
-    "seen_at": "2026-04-19T09:28:32.744Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-19T11:27:00",
-    "seen_at": "2026-04-19T09:28:32.744Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44995",
-    "event_time": "2026-04-19T11:31:00",
-    "seen_at": "2026-04-19T09:33:03.832Z",
-    "raw": "Br. Vlaka 44995 odlazak      19.04.26. 11:31, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -15874,5 +15829,59 @@
     "event_time": "2026-04-22T11:21:00",
     "seen_at": "2026-04-22T09:22:17.498Z",
     "raw": "Br. Vlaka 82171 odlazak      22.04.26. 11:21, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-22T11:27:00",
+    "seen_at": "2026-04-22T09:28:50.541Z",
+    "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:27, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-22T11:27:00",
+    "seen_at": "2026-04-22T09:28:50.542Z",
+    "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:27, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-22T11:32:00",
+    "seen_at": "2026-04-22T09:34:41.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "83821",
+    "event_time": "2026-04-22T11:34:00",
+    "seen_at": "2026-04-22T09:35:04.553Z",
+    "raw": "Br. Vlaka 83821 odlazak      22.04.26. 11:34, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-22T11:35:00",
+    "seen_at": "2026-04-22T09:35:51.337Z",
+    "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:35, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-22T11:35:00",
+    "seen_at": "2026-04-22T09:35:51.337Z",
+    "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:35, kolodvor STARI MIKANOVCI"
   }
 ]
