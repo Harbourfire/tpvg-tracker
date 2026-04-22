@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82512",
-    "event_time": "2026-04-19T02:36:00",
-    "seen_at": "2026-04-19T00:37:01.022Z",
-    "raw": "Br. Vlaka 82512 odlazak      19.04.26. 02:36, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82512",
-    "event_time": "2026-04-19T02:36:00",
-    "seen_at": "2026-04-19T00:37:01.023Z",
-    "raw": "Br. Vlaka 82512 odlazak      19.04.26. 02:36, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89923",
-    "event_time": "2026-04-19T02:17:00",
-    "seen_at": "2026-04-19T00:38:55.585Z",
-    "raw": "Br. Vlaka 89923 odlazak      19.04.26. 02:17, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89923",
-    "event_time": "2026-04-19T02:21:00",
-    "seen_at": "2026-04-19T00:39:19.013Z",
-    "raw": "Br. Vlaka 89923 odlazak      19.04.26. 02:21, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89923",
-    "event_time": "2026-04-19T02:33:00",
-    "seen_at": "2026-04-19T00:39:42.081Z",
-    "raw": "Br. Vlaka 89923 odlazak      19.04.26. 02:33, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89923",
-    "event_time": "2026-04-19T02:40:00",
-    "seen_at": "2026-04-19T00:41:36.795Z",
-    "raw": "Br. Vlaka 89923 odlazak      19.04.26. 02:40, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-19T02:42:00",
-    "seen_at": "2026-04-19T00:44:07.880Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 02:42, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-19T02:42:00",
-    "seen_at": "2026-04-19T00:44:07.882Z",
-    "raw": "Br. Vlaka 43995 odlazak      19.04.26. 02:42, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -15901,5 +15829,59 @@
     "event_time": "2026-04-22T02:23:00",
     "seen_at": "2026-04-22T00:23:10.337Z",
     "raw": "Br. Vlaka 82169 formiran     22.04.26. 02:23, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-04-22T02:38:00",
+    "seen_at": "2026-04-22T00:40:03.758Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 02:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-04-22T02:38:00",
+    "seen_at": "2026-04-22T00:40:03.759Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 02:38, kolodvor 72303"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "48789",
+    "event_time": "2026-04-22T02:40:00",
+    "seen_at": "2026-04-22T00:41:59.895Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 02:40, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "48789",
+    "event_time": "2026-04-22T02:40:00",
+    "seen_at": "2026-04-22T00:41:59.896Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 02:40, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47945",
+    "event_time": "2026-04-22T02:43:00",
+    "seen_at": "2026-04-22T00:44:16.722Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 02:43, kolodvor 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47945",
+    "event_time": "2026-04-22T02:43:00",
+    "seen_at": "2026-04-22T00:44:16.723Z",
+    "raw": "Br. Vlaka 47945 odlazak      22.04.26. 02:43, kolodvor 72304"
   }
 ]
