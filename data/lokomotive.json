@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-04-19T09:52:00",
-    "seen_at": "2026-04-19T08:04:53.273Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:03:00",
-    "seen_at": "2026-04-19T08:04:53.273Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:03:00",
-    "seen_at": "2026-04-19T08:04:53.273Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "81954",
-    "event_time": "2026-04-19T10:05:00",
-    "seen_at": "2026-04-19T08:05:16.692Z",
-    "raw": "Br. Vlaka 81954 formiran     19.04.26. 10:05, kolodvor VELIKA"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-16T10:07:00",
-    "seen_at": "2026-04-19T08:07:55.414Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-19T09:23:00",
-    "seen_at": "2026-04-19T08:09:04.190Z",
-    "raw": "Br. Vlaka 44789 promjena sas 19.04.26. 09:23, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-18T21:04:00",
-    "seen_at": "2026-04-19T08:09:26.814Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820620247",
     "type": "Formiran",
     "station": "VARAŽDIN",
@@ -15883,5 +15820,32 @@
     "event_time": "2026-04-22T09:56:00",
     "seen_at": "2026-04-22T07:57:29.598Z",
     "raw": "Br. Vlaka 89066 odlazak      22.04.26. 09:56, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "81956",
+    "event_time": "2026-04-22T09:59:00",
+    "seen_at": "2026-04-22T08:01:07.333Z",
+    "raw": "Br. Vlaka 81956 dolazak      22.04.26. 09:59, kolodvor NOVSKA"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "89066",
+    "event_time": "2026-04-22T10:04:00",
+    "seen_at": "2026-04-22T08:04:33.454Z",
+    "raw": "Br. Vlaka 89066 odlazak      22.04.26. 10:04, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-16T10:07:00",
+    "seen_at": "2026-04-22T08:08:23.244Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
