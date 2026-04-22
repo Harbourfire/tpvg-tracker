@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-19T11:04:00",
-    "seen_at": "2026-04-19T09:47:23.042Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "TURČIN",
-    "train_number": "48786",
-    "event_time": "2026-04-19T11:46:00",
-    "seen_at": "2026-04-19T09:50:03.808Z",
-    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 11:46, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "89167",
-    "event_time": "2026-04-19T09:23:00",
-    "seen_at": "2026-04-19T09:50:03.809Z",
-    "raw": "Br. Vlaka 89167 formiran     19.04.26. 09:23, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "48786",
-    "event_time": "2026-04-19T11:47:00",
-    "seen_at": "2026-04-19T09:50:26.613Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 11:47, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89167",
-    "event_time": "2026-04-19T11:50:00",
-    "seen_at": "2026-04-19T09:50:26.614Z",
-    "raw": "Br. Vlaka 89167 odlazak      19.04.26. 11:50, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "89540",
-    "event_time": "2026-04-19T09:01:00",
-    "seen_at": "2026-04-19T09:52:20.283Z",
-    "raw": "Br. Vlaka 89540 odlazak      19.04.26. 09:01, kolodvor DARDA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82525",
-    "event_time": "2026-04-19T11:51:00",
-    "seen_at": "2026-04-19T09:53:07.713Z",
-    "raw": "Br. Vlaka 82525 odlazak      19.04.26. 11:51, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -15901,5 +15838,41 @@
     "event_time": "2026-04-22T11:37:00",
     "seen_at": "2026-04-22T09:41:29.218Z",
     "raw": "Br. Vlaka 49998 odlazak      22.04.26. 11:37, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "82171",
+    "event_time": "2026-04-22T11:44:00",
+    "seen_at": "2026-04-22T09:45:52.528Z",
+    "raw": "Br. Vlaka 82171 odlazak      22.04.26. 11:44, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-22T11:44:00",
+    "seen_at": "2026-04-22T09:45:52.530Z",
+    "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:44, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-22T11:44:00",
+    "seen_at": "2026-04-22T09:45:52.530Z",
+    "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:44, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "83821",
+    "event_time": "2026-04-22T11:46:00",
+    "seen_at": "2026-04-22T09:47:01.653Z",
+    "raw": "Br. Vlaka 83821 dolazak      22.04.26. 11:46, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
