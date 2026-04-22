@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44996",
-    "event_time": "2026-04-19T06:15:00",
-    "seen_at": "2026-04-19T04:15:58.125Z",
-    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 06:15, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -15550,5 +15541,68 @@
     "event_time": "2026-04-22T06:06:00",
     "seen_at": "2026-04-22T04:06:57.313Z",
     "raw": "Br. Vlaka 47563 odlazak      22.04.26. 06:06, kolodvor 72304"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "89111",
+    "event_time": "2026-04-22T06:11:00",
+    "seen_at": "2026-04-22T04:13:22.175Z",
+    "raw": "Br. Vlaka 89111 odlazak      22.04.26. 06:11, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47563",
+    "event_time": "2026-04-22T06:12:00",
+    "seen_at": "2026-04-22T04:14:07.551Z",
+    "raw": "Br. Vlaka 47563 dolazak      22.04.26. 06:12, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47563",
+    "event_time": "2026-04-22T06:12:00",
+    "seen_at": "2026-04-22T04:14:07.552Z",
+    "raw": "Br. Vlaka 47563 dolazak      22.04.26. 06:12, kolodvor 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "48789",
+    "event_time": "2026-04-22T06:12:00",
+    "seen_at": "2026-04-22T04:14:30.575Z",
+    "raw": "Br. Vlaka 48789 odlazak      22.04.26. 06:12, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "89111",
+    "event_time": "2026-04-22T06:18:00",
+    "seen_at": "2026-04-22T04:19:03.789Z",
+    "raw": "Br. Vlaka 89111 odlazak      22.04.26. 06:18, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48789",
+    "event_time": "2026-04-22T06:19:00",
+    "seen_at": "2026-04-22T04:19:26.444Z",
+    "raw": "Br. Vlaka 48789 dolazak      22.04.26. 06:19, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82158",
+    "event_time": "2026-04-22T06:15:00",
+    "seen_at": "2026-04-22T04:19:26.445Z",
+    "raw": "Br. Vlaka 82158 odlazak      22.04.26. 06:15, kolodvor RUDOPOLJE"
   }
 ]
