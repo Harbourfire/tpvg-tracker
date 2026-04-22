@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81955",
-    "event_time": "2026-04-19T07:02:00",
-    "seen_at": "2026-04-19T05:09:34.269Z",
-    "raw": "Br. Vlaka 81955 formiran     19.04.26. 07:02, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
     "train_number": "81955",
@@ -15604,5 +15595,23 @@
     "event_time": "2026-04-22T04:13:00",
     "seen_at": "2026-04-22T05:05:31.491Z",
     "raw": "Br. Vlaka 44994 promjena sas 22.04.26. 04:13, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82158",
+    "event_time": "2026-04-22T07:14:00",
+    "seen_at": "2026-04-22T05:16:27.345Z",
+    "raw": "Br. Vlaka 82158 odlazak      22.04.26. 07:14, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-22T07:04:00",
+    "seen_at": "2026-04-22T05:17:36.239Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
