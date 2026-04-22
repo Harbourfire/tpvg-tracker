@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-19T23:37:00",
-    "seen_at": "2026-04-19T21:38:26.831Z",
-    "raw": "Br. Vlaka 48789 dolazak      19.04.26. 23:37, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-19T23:37:00",
-    "seen_at": "2026-04-19T21:38:26.832Z",
-    "raw": "Br. Vlaka 48789 dolazak      19.04.26. 23:37, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-19T23:37:00",
-    "seen_at": "2026-04-19T21:38:26.832Z",
-    "raw": "Br. Vlaka 63305 dolazak      19.04.26. 23:37, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-19T23:37:00",
-    "seen_at": "2026-04-19T21:38:26.832Z",
-    "raw": "Br. Vlaka 63305 dolazak      19.04.26. 23:37, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81960",
-    "event_time": "2026-04-19T23:38:00",
-    "seen_at": "2026-04-19T21:39:12.576Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 23:38, kolodvor ĐAKOVO"
-  },
-  {
     "uic": "928012230100",
     "type": "Promjena sastava",
     "station": "LIČKO LEŠĆE",
@@ -15568,5 +15523,41 @@
     "event_time": "2026-04-22T23:34:00",
     "seen_at": "2026-04-22T21:34:29.483Z",
     "raw": "Br. Vlaka 81982 odlazak      22.04.26. 23:34, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81982",
+    "event_time": "2026-04-22T23:42:00",
+    "seen_at": "2026-04-22T21:44:07.153Z",
+    "raw": "Br. Vlaka 81982 odlazak      22.04.26. 23:42, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81982",
+    "event_time": "2026-04-22T23:42:00",
+    "seen_at": "2026-04-22T21:44:07.154Z",
+    "raw": "Br. Vlaka 81982 odlazak      22.04.26. 23:42, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-22T23:43:00",
+    "seen_at": "2026-04-22T21:44:30.113Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 23:43, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "44995",
+    "event_time": "2026-04-22T23:44:00",
+    "seen_at": "2026-04-22T21:44:53.580Z",
+    "raw": "Br. Vlaka 44995 odlazak      22.04.26. 23:44, kolodvor DONJI KRALJEVEC"
   }
 ]
