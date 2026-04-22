@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81954",
-    "event_time": "2026-04-19T11:35:00",
-    "seen_at": "2026-04-19T09:36:04.273Z",
-    "raw": "Br. Vlaka 81954 dolazak      19.04.26. 11:35, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-19T11:35:00",
-    "seen_at": "2026-04-19T09:36:26.811Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81959",
-    "event_time": "2026-04-19T11:36:00",
-    "seen_at": "2026-04-19T09:37:23.886Z",
-    "raw": "Br. Vlaka 81959 formiran     19.04.26. 11:36, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44995",
-    "event_time": "2026-04-19T11:40:00",
-    "seen_at": "2026-04-19T09:40:26.580Z",
-    "raw": "Br. Vlaka 44995 dolazak      19.04.26. 11:40, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "ČAKOVEC",
@@ -15883,5 +15847,59 @@
     "event_time": "2026-04-22T11:35:00",
     "seen_at": "2026-04-22T09:35:51.337Z",
     "raw": "Br. Vlaka 71203 odlazak      22.04.26. 11:35, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-22T11:19:00",
+    "seen_at": "2026-04-22T09:36:49.574Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "82171",
+    "event_time": "2026-04-22T11:37:00",
+    "seen_at": "2026-04-22T09:38:22.760Z",
+    "raw": "Br. Vlaka 82171 odlazak      22.04.26. 11:37, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "49998",
+    "event_time": "2026-04-22T11:05:00",
+    "seen_at": "2026-04-22T09:40:41.909Z",
+    "raw": "Br. Vlaka 49998 dolazak      22.04.26. 11:05, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "49998",
+    "event_time": "2026-04-22T11:05:00",
+    "seen_at": "2026-04-22T09:40:41.911Z",
+    "raw": "Br. Vlaka 49998 dolazak      22.04.26. 11:05, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49998",
+    "event_time": "2026-04-22T11:37:00",
+    "seen_at": "2026-04-22T09:41:29.216Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 11:37, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49998",
+    "event_time": "2026-04-22T11:37:00",
+    "seen_at": "2026-04-22T09:41:29.218Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 11:37, kolodvor NOVI MAROF"
   }
 ]
