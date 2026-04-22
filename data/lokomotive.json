@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "44996",
-    "event_time": "2026-04-19T05:11:00",
-    "seen_at": "2026-04-19T03:22:46.182Z",
-    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 05:11, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44996",
-    "event_time": "2026-04-19T05:18:00",
-    "seen_at": "2026-04-19T03:23:09.547Z",
-    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 05:18, kolodvor ZABOK"
-  },
-  {
     "uic": "927820622029",
     "type": "Dolazak",
     "station": "HRVATSKA DUBICA",
@@ -15487,5 +15469,32 @@
     "event_time": "2026-04-22T05:07:00",
     "seen_at": "2026-04-22T03:09:02.868Z",
     "raw": "Br. Vlaka 82158 odlazak      22.04.26. 05:07, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-22T05:12:00",
+    "seen_at": "2026-04-22T03:15:28.644Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82158",
+    "event_time": "2026-04-22T05:20:00",
+    "seen_at": "2026-04-22T03:21:11.661Z",
+    "raw": "Br. Vlaka 82158 odlazak      22.04.26. 05:20, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82158",
+    "event_time": "2026-04-22T05:20:00",
+    "seen_at": "2026-04-22T03:21:11.661Z",
+    "raw": "Br. Vlaka 82158 odlazak      22.04.26. 05:20, kolodvor PERUŠIĆ"
   }
 ]
