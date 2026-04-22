@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-19T13:34:00",
-    "seen_at": "2026-04-19T11:35:01.689Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 13:34, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-19T13:34:00",
-    "seen_at": "2026-04-19T11:35:01.689Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 13:34, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-19T13:35:00",
-    "seen_at": "2026-04-19T11:36:57.472Z",
-    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 13:35, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-19T13:35:00",
-    "seen_at": "2026-04-19T11:36:57.473Z",
-    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 13:35, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89250",
-    "event_time": "2026-04-19T13:36:00",
-    "seen_at": "2026-04-19T11:37:43.661Z",
-    "raw": "Br. Vlaka 89250 odlazak      19.04.26. 13:36, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44789",
-    "event_time": "2026-04-19T13:37:00",
-    "seen_at": "2026-04-19T11:39:17.549Z",
-    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:37, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44789",
-    "event_time": "2026-04-19T13:37:00",
-    "seen_at": "2026-04-19T11:39:17.549Z",
-    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:37, kolodvor TURČIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -16126,5 +16063,50 @@
     "event_time": "2026-04-22T13:27:00",
     "seen_at": "2026-04-22T11:29:43.285Z",
     "raw": "Br. Vlaka 77227 odlazak      22.04.26. 13:27, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "83825",
+    "event_time": "2026-04-22T13:31:00",
+    "seen_at": "2026-04-22T11:32:38.794Z",
+    "raw": "Br. Vlaka 83825 dolazak      22.04.26. 13:31, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "STARI MIKANOVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T13:31:00",
+    "seen_at": "2026-04-22T11:33:24.705Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71103 STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "81956",
+    "event_time": "2026-04-22T13:28:00",
+    "seen_at": "2026-04-22T11:33:47.524Z",
+    "raw": "Br. Vlaka 81956 dolazak      22.04.26. 13:28, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-22T13:28:00",
+    "seen_at": "2026-04-22T11:34:10.150Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": "81959",
+    "event_time": "2026-04-22T13:27:00",
+    "seen_at": "2026-04-22T11:36:26.414Z",
+    "raw": "Br. Vlaka 81959 formiran     22.04.26. 13:27, kolodvor IVANIĆ GRAD"
   }
 ]
