@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "40893",
-    "event_time": "2026-04-19T18:57:00",
-    "seen_at": "2026-04-19T16:57:23.538Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 18:57, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89126",
-    "event_time": "2026-04-19T19:02:00",
-    "seen_at": "2026-04-19T17:05:31.582Z",
-    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 19:02, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89126",
-    "event_time": "2026-04-19T19:02:00",
-    "seen_at": "2026-04-19T17:05:31.582Z",
-    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 19:02, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89126",
-    "event_time": "2026-04-19T19:02:00",
-    "seen_at": "2026-04-19T17:05:31.583Z",
-    "raw": "Br. Vlaka 89126 dolazak      19.04.26. 19:02, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -15307,5 +15271,32 @@
     "event_time": "2026-04-10T18:52:00",
     "seen_at": "2026-04-22T16:56:51.652Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "89288",
+    "event_time": "2026-04-22T13:53:00",
+    "seen_at": "2026-04-22T17:01:22.977Z",
+    "raw": "Br. Vlaka 89288 formiran     22.04.26. 13:53, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71206",
+    "event_time": "2026-04-22T19:02:00",
+    "seen_at": "2026-04-22T17:03:18.887Z",
+    "raw": "Br. Vlaka 71206 formiran     22.04.26. 19:02, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71205",
+    "event_time": "2026-04-22T19:03:00",
+    "seen_at": "2026-04-22T17:04:06.305Z",
+    "raw": "Br. Vlaka 71205 formiran     22.04.26. 19:03, kolodvor SLAVONSKI BROD"
   }
 ]
