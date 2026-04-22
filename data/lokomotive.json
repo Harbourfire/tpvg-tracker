@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "81960",
-    "event_time": "2026-04-19T21:32:00",
-    "seen_at": "2026-04-19T19:51:56.404Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:32, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "81960",
-    "event_time": "2026-04-19T21:47:00",
-    "seen_at": "2026-04-19T19:52:19.336Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:47, kolodvor JANKOVCI"
-  },
-  {
     "uic": "927820621195",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -15595,5 +15577,59 @@
     "event_time": "2026-04-22T21:47:00",
     "seen_at": "2026-04-22T19:48:09.976Z",
     "raw": "Br. Vlaka 81961 odlazak      22.04.26. 21:47, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "61037",
+    "event_time": "2026-04-22T21:47:00",
+    "seen_at": "2026-04-22T19:49:59.417Z",
+    "raw": "Br. Vlaka 61037 odlazak      22.04.26. 21:47, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89893",
+    "event_time": "2026-04-22T21:53:00",
+    "seen_at": "2026-04-22T19:53:52.748Z",
+    "raw": "Br. Vlaka 89893 dolazak      22.04.26. 21:53, kolodvor 72302"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89893",
+    "event_time": "2026-04-22T21:53:00",
+    "seen_at": "2026-04-22T19:53:52.748Z",
+    "raw": "Br. Vlaka 89893 dolazak      22.04.26. 21:53, kolodvor 72302"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KLOŠTAR",
+    "train_number": "89288",
+    "event_time": "2026-04-22T21:46:00",
+    "seen_at": "2026-04-22T19:57:43.049Z",
+    "raw": "Br. Vlaka 89288 dolazak      22.04.26. 21:46, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "43995",
+    "event_time": "2026-04-22T21:58:00",
+    "seen_at": "2026-04-22T19:58:28.752Z",
+    "raw": "Br. Vlaka 43995 odlazak      22.04.26. 21:58, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81961",
+    "event_time": "2026-04-22T21:58:00",
+    "seen_at": "2026-04-22T19:58:51.597Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 21:58, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
