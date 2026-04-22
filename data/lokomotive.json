@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "48789",
-    "event_time": "2026-04-19T16:10:00",
-    "seen_at": "2026-04-19T20:01:34.680Z",
-    "raw": "Br. Vlaka 48789 promjena sas 19.04.26. 16:10, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "48789",
-    "event_time": "2026-04-19T16:10:00",
-    "seen_at": "2026-04-19T20:01:57.562Z",
-    "raw": "Br. Vlaka 48789 promjena sas 19.04.26. 16:10, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "43996",
-    "event_time": "2026-04-19T22:01:00",
-    "seen_at": "2026-04-19T20:02:20.384Z",
-    "raw": "Br. Vlaka 43996 odlazak      19.04.26. 22:01, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "81960",
-    "event_time": "2026-04-19T21:57:00",
-    "seen_at": "2026-04-19T20:07:38.887Z",
-    "raw": "Br. Vlaka 81960 dolazak      19.04.26. 21:57, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -15631,5 +15595,41 @@
     "event_time": "2026-04-22T21:58:00",
     "seen_at": "2026-04-22T19:58:51.597Z",
     "raw": "Br. Vlaka 81961 odlazak      22.04.26. 21:58, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-22T21:59:00",
+    "seen_at": "2026-04-22T20:00:45.359Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 21:59, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "43995",
+    "event_time": "2026-04-22T22:05:00",
+    "seen_at": "2026-04-22T20:06:42.231Z",
+    "raw": "Br. Vlaka 43995 odlazak      22.04.26. 22:05, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-22T22:06:00",
+    "seen_at": "2026-04-22T20:08:16.154Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 22:06, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "81961",
+    "event_time": "2026-04-22T22:07:00",
+    "seen_at": "2026-04-22T20:08:39.455Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 22:07, kolodvor ORIOVAC"
   }
 ]
