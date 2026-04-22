@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "81960",
-    "event_time": "2026-04-19T22:30:00",
-    "seen_at": "2026-04-19T20:31:20.401Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 22:30, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-19T22:25:00",
-    "seen_at": "2026-04-19T20:35:09.925Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 22:25, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-19T22:25:00",
-    "seen_at": "2026-04-19T20:35:09.925Z",
-    "raw": "Br. Vlaka 63305 odlazak      19.04.26. 22:25, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "SUNJA",
@@ -15568,5 +15541,32 @@
     "event_time": "2026-04-22T22:21:00",
     "seen_at": "2026-04-22T20:27:03.156Z",
     "raw": "Br. Vlaka 81961 odlazak      22.04.26. 22:21, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81961",
+    "event_time": "2026-04-22T22:31:00",
+    "seen_at": "2026-04-22T20:34:10.367Z",
+    "raw": "Br. Vlaka 81961 odlazak      22.04.26. 22:31, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-22T22:34:00",
+    "seen_at": "2026-04-22T20:34:55.801Z",
+    "raw": "Br. Vlaka 63305 odlazak      22.04.26. 22:34, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "61037",
+    "event_time": "2026-04-22T22:36:00",
+    "seen_at": "2026-04-22T20:36:50.423Z",
+    "raw": "Br. Vlaka 61037 dolazak      22.04.26. 22:36, kolodvor OSIJEK"
   }
 ]
