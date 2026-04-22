@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-19T12:01:00",
-    "seen_at": "2026-04-19T10:04:23.949Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-19T12:05:00",
-    "seen_at": "2026-04-19T10:06:55.437Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "89170",
-    "event_time": "2026-04-19T12:07:00",
-    "seen_at": "2026-04-19T10:07:41.403Z",
-    "raw": "Br. Vlaka 89170 formiran     19.04.26. 12:07, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "48786",
-    "event_time": "2026-04-19T12:09:00",
-    "seen_at": "2026-04-19T10:09:33.727Z",
-    "raw": "Br. Vlaka 48786 odlazak      19.04.26. 12:09, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -15973,5 +15937,41 @@
     "event_time": "2026-04-22T12:02:00",
     "seen_at": "2026-04-22T10:03:29.743Z",
     "raw": "Br. Vlaka 77227 formiran     22.04.26. 12:02, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49998",
+    "event_time": "2026-04-22T12:07:00",
+    "seen_at": "2026-04-22T10:08:16.742Z",
+    "raw": "Br. Vlaka 49998 dolazak      22.04.26. 12:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "49998",
+    "event_time": "2026-04-22T12:07:00",
+    "seen_at": "2026-04-22T10:08:16.743Z",
+    "raw": "Br. Vlaka 49998 dolazak      22.04.26. 12:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82177",
+    "event_time": "2026-04-22T12:10:00",
+    "seen_at": "2026-04-22T10:12:30.531Z",
+    "raw": "Br. Vlaka 82177 odlazak      22.04.26. 12:10, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KUTINA",
+    "train_number": "81956",
+    "event_time": "2026-04-22T12:09:00",
+    "seen_at": "2026-04-22T10:12:54.169Z",
+    "raw": "Br. Vlaka 81956 odlazak      22.04.26. 12:09, kolodvor KUTINA"
   }
 ]
