@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "81954",
-    "event_time": "2026-04-19T10:10:00",
-    "seen_at": "2026-04-19T08:21:57.107Z",
-    "raw": "Br. Vlaka 81954 odlazak      19.04.26. 10:10, kolodvor VELIKA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:14:00",
-    "seen_at": "2026-04-19T08:21:57.108Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:14, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:14:00",
-    "seen_at": "2026-04-19T08:21:57.108Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:14, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:21:00",
-    "seen_at": "2026-04-19T08:23:08.368Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:21, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "81979",
-    "event_time": "2026-04-19T10:21:00",
-    "seen_at": "2026-04-19T08:23:08.368Z",
-    "raw": "Br. Vlaka 81979 odlazak      19.04.26. 10:21, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -15892,5 +15847,59 @@
     "event_time": "2026-04-22T10:17:00",
     "seen_at": "2026-04-22T08:19:10.223Z",
     "raw": "Br. Vlaka 69851 odlazak      22.04.26. 10:17, kolodvor ERDUT"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Formiran",
+    "station": "ANDRIJEVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-22T10:21:00",
+    "seen_at": "2026-04-22T08:22:05.002Z",
+    "raw": "Br. Vlaka 71203 formiran     22.04.26. 10:21, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "ANDRIJEVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-22T10:21:00",
+    "seen_at": "2026-04-22T08:22:28.341Z",
+    "raw": "Br. Vlaka 71203 formiran     22.04.26. 10:21, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "44994",
+    "event_time": "2026-04-22T10:21:00",
+    "seen_at": "2026-04-22T08:25:30.613Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 10:21, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "81956",
+    "event_time": "2026-04-22T10:23:00",
+    "seen_at": "2026-04-22T08:25:53.341Z",
+    "raw": "Br. Vlaka 81956 odlazak      22.04.26. 10:23, kolodvor NOVSKA"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-22T10:17:00",
+    "seen_at": "2026-04-22T08:28:10.510Z",
+    "raw": "Br. Vlaka 71204 formiran     22.04.26. 10:17, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69851",
+    "event_time": "2026-04-22T10:27:00",
+    "seen_at": "2026-04-22T08:28:33.345Z",
+    "raw": "Br. Vlaka 69851 odlazak      22.04.26. 10:27, kolodvor DALJ"
   }
 ]
