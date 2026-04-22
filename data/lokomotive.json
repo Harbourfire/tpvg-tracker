@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "81967",
-    "event_time": "2026-04-19T19:40:00",
-    "seen_at": "2026-04-19T17:41:44.329Z",
-    "raw": "Br. Vlaka 81967 odlazak      19.04.26. 19:40, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "40893",
-    "event_time": "2026-04-19T19:41:00",
-    "seen_at": "2026-04-19T17:42:06.847Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 19:41, kolodvor SISAK"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -15280,5 +15262,77 @@
     "event_time": "2026-04-22T19:29:00",
     "seen_at": "2026-04-22T17:30:17.252Z",
     "raw": "Br. Vlaka 63310 odlazak      22.04.26. 19:29, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47563",
+    "event_time": "2026-04-22T19:32:00",
+    "seen_at": "2026-04-22T17:35:40.642Z",
+    "raw": "Br. Vlaka 47563 odlazak      22.04.26. 19:32, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-22T19:37:00",
+    "seen_at": "2026-04-22T17:38:00.310Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.04.26. 19:37, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T19:36:00",
+    "seen_at": "2026-04-22T17:38:23.716Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 19:36, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47563",
+    "event_time": "2026-04-22T19:38:00",
+    "seen_at": "2026-04-22T17:39:10.204Z",
+    "raw": "Br. Vlaka 47563 odlazak      22.04.26. 19:38, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "48513",
+    "event_time": "2026-04-22T19:31:00",
+    "seen_at": "2026-04-22T17:39:10.204Z",
+    "raw": "Br. Vlaka 48513 odlazak      22.04.26. 19:31, kolodvor 77424"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET granica",
+    "train_number": "48513",
+    "event_time": "2026-04-22T19:31:00",
+    "seen_at": "2026-04-22T17:39:10.204Z",
+    "raw": "Br. Vlaka 48513 odlazak      22.04.26. 19:31, kolodvor 77424"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "48513",
+    "event_time": "2026-04-22T19:38:00",
+    "seen_at": "2026-04-22T17:39:33.471Z",
+    "raw": "Br. Vlaka 48513 dolazak      22.04.26. 19:38, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "BUZET",
+    "train_number": "48513",
+    "event_time": "2026-04-22T19:38:00",
+    "seen_at": "2026-04-22T17:39:33.472Z",
+    "raw": "Br. Vlaka 48513 dolazak      22.04.26. 19:38, kolodvor BUZET"
   }
 ]
