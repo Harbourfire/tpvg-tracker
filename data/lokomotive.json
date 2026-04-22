@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-13T07:05:00",
-    "seen_at": "2026-04-19T05:08:26.385Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -15586,5 +15577,32 @@
     "event_time": "2026-04-22T06:57:00",
     "seen_at": "2026-04-22T04:58:50.391Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "82158",
+    "event_time": "2026-04-22T06:58:00",
+    "seen_at": "2026-04-22T04:59:46.302Z",
+    "raw": "Br. Vlaka 82158 dolazak      22.04.26. 06:58, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T21:04:00",
+    "seen_at": "2026-04-22T05:04:00.809Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44994",
+    "event_time": "2026-04-22T04:13:00",
+    "seen_at": "2026-04-22T05:05:31.491Z",
+    "raw": "Br. Vlaka 44994 promjena sas 22.04.26. 04:13, kolodvor ZAPREŠIĆ"
   }
 ]
