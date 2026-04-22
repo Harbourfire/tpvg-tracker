@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89921",
-    "event_time": "2026-04-19T12:53:00",
-    "seen_at": "2026-04-19T10:53:42.187Z",
-    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 12:53, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89921",
-    "event_time": "2026-04-19T12:53:00",
-    "seen_at": "2026-04-19T10:53:42.188Z",
-    "raw": "Br. Vlaka 89921 odlazak      19.04.26. 12:53, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "48786",
-    "event_time": "2026-04-19T12:51:00",
-    "seen_at": "2026-04-19T10:54:05.123Z",
-    "raw": "Br. Vlaka 48786 dolazak      19.04.26. 12:51, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89170",
-    "event_time": "2026-04-19T12:55:00",
-    "seen_at": "2026-04-19T10:57:00.939Z",
-    "raw": "Br. Vlaka 89170 odlazak      19.04.26. 12:55, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "81959",
-    "event_time": "2026-04-19T12:55:00",
-    "seen_at": "2026-04-19T10:57:00.939Z",
-    "raw": "Br. Vlaka 81959 odlazak      19.04.26. 12:55, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-16T12:55:00",
-    "seen_at": "2026-04-19T10:57:00.940Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -16018,5 +15964,32 @@
     "event_time": "2026-04-22T12:47:00",
     "seen_at": "2026-04-22T10:49:56.518Z",
     "raw": "Br. Vlaka 81956 odlazak      22.04.26. 12:47, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "83825",
+    "event_time": "2026-04-22T12:55:00",
+    "seen_at": "2026-04-22T10:55:56.757Z",
+    "raw": "Br. Vlaka 83825 odlazak      22.04.26. 12:55, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82177",
+    "event_time": "2026-04-22T12:55:00",
+    "seen_at": "2026-04-22T10:56:43.511Z",
+    "raw": "Br. Vlaka 82177 odlazak      22.04.26. 12:55, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "LUDINA",
+    "train_number": "81956",
+    "event_time": "2026-04-22T12:57:00",
+    "seen_at": "2026-04-22T10:58:16.701Z",
+    "raw": "Br. Vlaka 81956 odlazak      22.04.26. 12:57, kolodvor LUDINA"
   }
 ]
