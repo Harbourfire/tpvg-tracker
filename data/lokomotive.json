@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-19T06:43:00",
-    "seen_at": "2026-04-19T05:47:18.653Z",
-    "raw": "Br. Vlaka 44996 promjena sas 19.04.26. 06:43, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "69327",
-    "event_time": "2026-04-19T07:48:00",
-    "seen_at": "2026-04-19T05:50:43.978Z",
-    "raw": "Br. Vlaka 69327 dolazak      19.04.26. 07:48, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "69327",
-    "event_time": "2026-04-19T07:48:00",
-    "seen_at": "2026-04-19T05:50:43.978Z",
-    "raw": "Br. Vlaka 69327 dolazak      19.04.26. 07:48, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620262",
-    "type": "Rasformiran",
-    "station": "SESVETE",
-    "train_number": null,
-    "event_time": "2026-04-19T07:48:00",
-    "seen_at": "2026-04-19T05:51:06.532Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
-  },
-  {
-    "uic": "927820620387",
-    "type": "Rasformiran",
-    "station": "SESVETE",
-    "train_number": null,
-    "event_time": "2026-04-19T07:48:00",
-    "seen_at": "2026-04-19T05:51:06.532Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44996",
-    "event_time": "2026-04-19T07:50:00",
-    "seen_at": "2026-04-19T05:55:36.509Z",
-    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 07:50, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "PLETERNICA",
@@ -15631,5 +15577,23 @@
     "event_time": "2026-04-22T07:40:00",
     "seen_at": "2026-04-22T05:44:17.748Z",
     "raw": "Br. Vlaka 71202 formiran     22.04.26. 07:40, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "76552",
+    "event_time": "2026-04-22T07:52:00",
+    "seen_at": "2026-04-22T05:52:59.712Z",
+    "raw": "Br. Vlaka 76552 odlazak      22.04.26. 07:52, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "76552",
+    "event_time": "2026-04-22T07:52:00",
+    "seen_at": "2026-04-22T05:52:59.714Z",
+    "raw": "Br. Vlaka 76552 odlazak      22.04.26. 07:52, kolodvor GARČIN"
   }
 ]
