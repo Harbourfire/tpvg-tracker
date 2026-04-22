@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "43996",
-    "event_time": "2026-04-19T21:25:00",
-    "seen_at": "2026-04-19T19:27:15.462Z",
-    "raw": "Br. Vlaka 43996 dolazak      19.04.26. 21:25, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "81960",
-    "event_time": "2026-04-19T21:29:00",
-    "seen_at": "2026-04-19T19:29:31.215Z",
-    "raw": "Br. Vlaka 81960 odlazak      19.04.26. 21:29, kolodvor ĐELETOVCI"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "TOVARNIK",
@@ -15541,5 +15523,32 @@
     "event_time": "2026-04-22T20:01:00",
     "seen_at": "2026-04-22T19:16:42.615Z",
     "raw": "Br. Vlaka 61037 promjena sas 22.04.26. 20:01, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "89288",
+    "event_time": "2026-04-22T21:19:00",
+    "seen_at": "2026-04-22T19:21:35.807Z",
+    "raw": "Br. Vlaka 89288 odlazak      22.04.26. 21:19, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "81961",
+    "event_time": "2026-04-22T21:26:00",
+    "seen_at": "2026-04-22T19:26:20.694Z",
+    "raw": "Br. Vlaka 81961 formiran     22.04.26. 21:26, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ŠPIŠIĆ BUKOVICA",
+    "train_number": "89288",
+    "event_time": "2026-04-22T21:27:00",
+    "seen_at": "2026-04-22T19:29:04.239Z",
+    "raw": "Br. Vlaka 89288 odlazak      22.04.26. 21:27, kolodvor ŠPIŠIĆ BUKOVICA"
   }
 ]
