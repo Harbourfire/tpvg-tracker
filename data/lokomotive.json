@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "82525",
-    "event_time": "2026-04-19T10:09:00",
-    "seen_at": "2026-04-19T08:09:49.620Z",
-    "raw": "Br. Vlaka 82525 formiran     19.04.26. 10:09, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VELIKA",
@@ -15847,5 +15838,59 @@
     "event_time": "2026-04-16T10:07:00",
     "seen_at": "2026-04-22T08:08:23.244Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T10:08:00",
+    "seen_at": "2026-04-22T08:11:47.893Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 10:08, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49998",
+    "event_time": "2026-04-22T10:08:00",
+    "seen_at": "2026-04-22T08:11:47.894Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 10:08, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82177",
+    "event_time": "2026-04-22T10:13:00",
+    "seen_at": "2026-04-22T08:14:07.059Z",
+    "raw": "Br. Vlaka 82177 formiran     22.04.26. 10:13, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "ĐAKOVO",
+    "train_number": "82171",
+    "event_time": "2026-04-22T10:15:00",
+    "seen_at": "2026-04-22T08:16:03.596Z",
+    "raw": "Br. Vlaka 82171 formiran     22.04.26. 10:15, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89066",
+    "event_time": "2026-04-22T10:13:00",
+    "seen_at": "2026-04-22T08:16:03.598Z",
+    "raw": "Br. Vlaka 89066 odlazak      22.04.26. 10:13, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-22T10:17:00",
+    "seen_at": "2026-04-22T08:19:10.223Z",
+    "raw": "Br. Vlaka 69851 odlazak      22.04.26. 10:17, kolodvor ERDUT"
   }
 ]
