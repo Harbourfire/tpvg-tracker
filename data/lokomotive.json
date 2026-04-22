@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "43995",
-    "event_time": "2026-04-20T01:14:00",
-    "seen_at": "2026-04-19T23:21:21.900Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:14, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "43995",
-    "event_time": "2026-04-20T01:19:00",
-    "seen_at": "2026-04-19T23:21:45.590Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 01:19, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "40893",
-    "event_time": "2026-04-20T01:22:00",
-    "seen_at": "2026-04-19T23:22:32.212Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 01:22, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "48789",
-    "event_time": "2026-04-20T01:07:00",
-    "seen_at": "2026-04-19T23:30:23.908Z",
-    "raw": "Br. Vlaka 48789 dolazak      20.04.26. 01:07, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "48789",
-    "event_time": "2026-04-20T01:07:00",
-    "seen_at": "2026-04-19T23:30:23.908Z",
-    "raw": "Br. Vlaka 48789 dolazak      20.04.26. 01:07, kolodvor ZABOK"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -15685,5 +15640,59 @@
     "event_time": "2026-04-23T01:18:00",
     "seen_at": "2026-04-22T23:18:54.640Z",
     "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:18, kolodvor LUKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T01:22:00",
+    "seen_at": "2026-04-22T23:22:13.494Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:23:00",
+    "seen_at": "2026-04-22T23:24:35.104Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:23, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:23:00",
+    "seen_at": "2026-04-22T23:24:35.105Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:23, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VALPOVO",
+    "train_number": null,
+    "event_time": "2026-04-22T23:38:00",
+    "seen_at": "2026-04-22T23:25:00.480Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71992 VALPOVO"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:27:00",
+    "seen_at": "2026-04-22T23:27:42.732Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:27, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "81982",
+    "event_time": "2026-04-23T01:27:00",
+    "seen_at": "2026-04-22T23:27:42.732Z",
+    "raw": "Br. Vlaka 81982 odlazak      23.04.26. 01:27, kolodvor ZAPREŠIĆ"
   }
 ]
