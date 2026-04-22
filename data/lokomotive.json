@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-19T19:26:00",
-    "seen_at": "2026-04-19T17:26:33.988Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "40893",
-    "event_time": "2026-04-19T19:27:00",
-    "seen_at": "2026-04-19T17:28:28.747Z",
-    "raw": "Br. Vlaka 40893 odlazak      19.04.26. 19:27, kolodvor GREDA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81967",
-    "event_time": "2026-04-19T17:16:00",
-    "seen_at": "2026-04-19T17:33:35.880Z",
-    "raw": "Br. Vlaka 81967 promjena sas 19.04.26. 17:16, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "VINKOVCI",
     "train_number": "81967",
@@ -15289,5 +15262,23 @@
     "event_time": "2026-04-22T19:16:00",
     "seen_at": "2026-04-22T17:18:03.974Z",
     "raw": "Br. Vlaka 81959 odlazak      22.04.26. 19:16, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-22T19:27:00",
+    "seen_at": "2026-04-22T17:27:35.628Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-22T19:29:00",
+    "seen_at": "2026-04-22T17:30:17.252Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.04.26. 19:29, kolodvor LIČKA JESENICA"
   }
 ]
