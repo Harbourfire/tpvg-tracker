@@ -15226,5 +15226,77 @@
     "event_time": "2026-04-22T18:03:00",
     "seen_at": "2026-04-22T16:05:54.721Z",
     "raw": "Br. Vlaka 49998 odlazak      22.04.26. 18:03, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-04-22T18:02:00",
+    "seen_at": "2026-04-22T16:09:18.959Z",
+    "raw": "Br. Vlaka 44994 dolazak      22.04.26. 18:02, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-04-22T18:02:00",
+    "seen_at": "2026-04-22T16:09:18.960Z",
+    "raw": "Br. Vlaka 44994 dolazak      22.04.26. 18:02, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "81959",
+    "event_time": "2026-04-22T18:10:00",
+    "seen_at": "2026-04-22T16:10:28.977Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 18:10, kolodvor OKUČANI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-22T18:09:00",
+    "seen_at": "2026-04-22T16:11:15.390Z",
+    "raw": "Br. Vlaka 63310 promjena sas 22.04.26. 18:09, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-04-22T16:27:00",
+    "seen_at": "2026-04-22T16:11:38.487Z",
+    "raw": "Br. Vlaka 69177 formiran     22.04.26. 16:27, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "49998",
+    "event_time": "2026-04-22T18:11:00",
+    "seen_at": "2026-04-22T16:12:24.487Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 18:11, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-04-22T18:15:00",
+    "seen_at": "2026-04-22T16:16:48.666Z",
+    "raw": "Br. Vlaka 69177 odlazak      22.04.26. 18:15, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-21T18:00:00",
+    "seen_at": "2026-04-22T16:17:34.526Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
