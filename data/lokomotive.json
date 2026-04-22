@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "NOVSKA",
-    "train_number": "81953",
-    "event_time": "2026-04-19T04:08:00",
-    "seen_at": "2026-04-19T02:09:08.901Z",
-    "raw": "Br. Vlaka 81953 dolazak      19.04.26. 04:08, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "NOVSKA",
-    "train_number": "81284",
-    "event_time": "2026-04-19T04:14:00",
-    "seen_at": "2026-04-19T02:14:54.783Z",
-    "raw": "Br. Vlaka 81284 dolazak      19.04.26. 04:14, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "49996",
-    "event_time": "2026-04-19T04:13:00",
-    "seen_at": "2026-04-19T02:15:50.196Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:13, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "49996",
-    "event_time": "2026-04-19T04:13:00",
-    "seen_at": "2026-04-19T02:15:50.197Z",
-    "raw": "Br. Vlaka 49996 odlazak      19.04.26. 04:13, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89122",
-    "event_time": "2026-04-19T04:09:00",
-    "seen_at": "2026-04-19T02:17:21.914Z",
-    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:09, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89122",
-    "event_time": "2026-04-19T04:09:00",
-    "seen_at": "2026-04-19T02:17:21.916Z",
-    "raw": "Br. Vlaka 89122 odlazak      19.04.26. 04:09, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -15676,5 +15622,50 @@
     "event_time": "2026-04-22T03:56:00",
     "seen_at": "2026-04-22T02:08:42.100Z",
     "raw": "Br. Vlaka 48789 odlazak      22.04.26. 03:56, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-21T23:48:00",
+    "seen_at": "2026-04-22T02:09:41.605Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47563",
+    "event_time": "2026-04-21T12:27:00",
+    "seen_at": "2026-04-22T02:10:50.983Z",
+    "raw": "Br. Vlaka 47563 formiran     21.04.26. 12:27, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-22T04:11:00",
+    "seen_at": "2026-04-22T02:12:22.462Z",
+    "raw": "Br. Vlaka 48789 dolazak      22.04.26. 04:11, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-22T04:11:00",
+    "seen_at": "2026-04-22T02:12:22.463Z",
+    "raw": "Br. Vlaka 48789 dolazak      22.04.26. 04:11, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82169",
+    "event_time": "2026-04-22T04:16:00",
+    "seen_at": "2026-04-22T02:16:58.884Z",
+    "raw": "Br. Vlaka 82169 odlazak      22.04.26. 04:16, kolodvor BUDINŠĆINA"
   }
 ]
