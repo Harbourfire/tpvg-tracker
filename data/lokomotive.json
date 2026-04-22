@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89126",
-    "event_time": "2026-04-19T18:53:00",
-    "seen_at": "2026-04-19T16:53:15.395Z",
-    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 18:53, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89126",
-    "event_time": "2026-04-19T18:53:00",
-    "seen_at": "2026-04-19T16:53:15.396Z",
-    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 18:53, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89126",
-    "event_time": "2026-04-19T18:53:00",
-    "seen_at": "2026-04-19T16:53:38.301Z",
-    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 18:53, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622011",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-10T18:52:00",
-    "seen_at": "2026-04-19T16:56:15.904Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "TUROPOLJE",
@@ -15325,5 +15289,23 @@
     "event_time": "2026-04-22T18:09:00",
     "seen_at": "2026-04-22T16:46:33.154Z",
     "raw": "Br. Vlaka 63310 promjena sas 22.04.26. 18:09, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "81959",
+    "event_time": "2026-04-22T18:51:00",
+    "seen_at": "2026-04-22T16:51:48.564Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 18:51, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T18:52:00",
+    "seen_at": "2026-04-22T16:56:51.652Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
