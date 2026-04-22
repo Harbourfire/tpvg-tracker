@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44996",
-    "event_time": "2026-04-19T09:10:00",
-    "seen_at": "2026-04-19T07:14:38.390Z",
-    "raw": "Br. Vlaka 44996 odlazak      19.04.26. 09:10, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81284",
-    "event_time": "2026-04-19T09:14:00",
-    "seen_at": "2026-04-19T07:15:02.561Z",
-    "raw": "Br. Vlaka 81284 odlazak      19.04.26. 09:14, kolodvor VELIKA GORICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-19T09:15:00",
-    "seen_at": "2026-04-19T07:15:25.818Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
@@ -15739,5 +15712,86 @@
     "event_time": "2026-04-22T09:08:00",
     "seen_at": "2026-04-22T07:08:55.380Z",
     "raw": "Br. Vlaka 71202 odlazak      22.04.26. 09:08, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-22T09:12:00",
+    "seen_at": "2026-04-22T07:13:52.153Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 09:12, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "49998",
+    "event_time": "2026-04-22T09:12:00",
+    "seen_at": "2026-04-22T07:13:52.154Z",
+    "raw": "Br. Vlaka 49998 odlazak      22.04.26. 09:12, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "49826",
+    "event_time": "2026-04-22T09:01:00",
+    "seen_at": "2026-04-22T07:15:25.272Z",
+    "raw": "Br. Vlaka 49826 promjena sas 22.04.26. 09:01, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-04-22T06:08:00",
+    "seen_at": "2026-04-22T07:15:48.293Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "ERDUT",
+    "train_number": "69851",
+    "event_time": "2026-04-22T00:48:00",
+    "seen_at": "2026-04-22T07:16:58.046Z",
+    "raw": "Br. Vlaka 69851 formiran     22.04.26. 00:48, kolodvor ERDUT"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71205",
+    "event_time": "2026-04-22T09:17:00",
+    "seen_at": "2026-04-22T07:18:30.089Z",
+    "raw": "Br. Vlaka 71205 odlazak      22.04.26. 09:17, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89066",
+    "event_time": "2026-04-22T09:18:00",
+    "seen_at": "2026-04-22T07:20:02.024Z",
+    "raw": "Br. Vlaka 89066 odlazak      22.04.26. 09:18, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ANDRIJEVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T09:16:00",
+    "seen_at": "2026-04-22T07:21:12.647Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72802 ANDRIJEVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "ANDRIJEVCI",
+    "train_number": null,
+    "event_time": "2026-04-22T09:16:00",
+    "seen_at": "2026-04-22T07:21:12.647Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72802 ANDRIJEVCI"
   }
 ]
