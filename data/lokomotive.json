@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44789",
-    "event_time": "2026-04-19T13:59:00",
-    "seen_at": "2026-04-19T12:00:40.981Z",
-    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:59, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44789",
-    "event_time": "2026-04-19T13:59:00",
-    "seen_at": "2026-04-19T12:00:40.982Z",
-    "raw": "Br. Vlaka 44789 odlazak      19.04.26. 13:59, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "40893",
-    "event_time": "2026-04-18T22:42:00",
-    "seen_at": "2026-04-19T12:04:42.599Z",
-    "raw": "Br. Vlaka 40893 formiran     18.04.26. 22:42, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "81959",
-    "event_time": "2026-04-19T14:04:00",
-    "seen_at": "2026-04-19T12:05:08.049Z",
-    "raw": "Br. Vlaka 81959 odlazak      19.04.26. 14:04, kolodvor GARČIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-19T14:06:00",
-    "seen_at": "2026-04-19T12:06:41.903Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:06, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-19T14:06:00",
-    "seen_at": "2026-04-19T12:06:41.903Z",
-    "raw": "Br. Vlaka 63310 odlazak      19.04.26. 14:06, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -16099,5 +16045,59 @@
     "event_time": "2026-04-22T13:53:00",
     "seen_at": "2026-04-22T11:53:37.287Z",
     "raw": "Br. Vlaka 81959 odlazak      22.04.26. 13:53, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DEANOVEC",
+    "train_number": "81959",
+    "event_time": "2026-04-22T14:01:00",
+    "seen_at": "2026-04-22T12:01:34.580Z",
+    "raw": "Br. Vlaka 81959 odlazak      22.04.26. 14:01, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "77227",
+    "event_time": "2026-04-22T14:01:00",
+    "seen_at": "2026-04-22T12:03:07.834Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.04.26. 14:01, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "89721",
+    "event_time": "2026-04-22T14:00:00",
+    "seen_at": "2026-04-22T12:06:44.487Z",
+    "raw": "Br. Vlaka 89721 dolazak      22.04.26. 14:00, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "89721",
+    "event_time": "2026-04-22T14:00:00",
+    "seen_at": "2026-04-22T12:06:44.489Z",
+    "raw": "Br. Vlaka 89721 dolazak      22.04.26. 14:00, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89721",
+    "event_time": "2026-04-22T14:05:00",
+    "seen_at": "2026-04-22T12:07:07.532Z",
+    "raw": "Br. Vlaka 89721 odlazak      22.04.26. 14:05, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "89721",
+    "event_time": "2026-04-22T14:05:00",
+    "seen_at": "2026-04-22T12:07:07.533Z",
+    "raw": "Br. Vlaka 89721 odlazak      22.04.26. 14:05, kolodvor NOVI MAROF"
   }
 ]
