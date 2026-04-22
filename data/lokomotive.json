@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "89170",
-    "event_time": "2026-04-19T12:13:00",
-    "seen_at": "2026-04-19T10:14:39.862Z",
-    "raw": "Br. Vlaka 89170 odlazak      19.04.26. 12:13, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-19T09:23:00",
-    "seen_at": "2026-04-19T10:17:22.400Z",
-    "raw": "Br. Vlaka 44789 promjena sas 19.04.26. 09:23, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -15973,5 +15955,14 @@
     "event_time": "2026-04-22T12:09:00",
     "seen_at": "2026-04-22T10:12:54.169Z",
     "raw": "Br. Vlaka 81956 odlazak      22.04.26. 12:09, kolodvor KUTINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82177",
+    "event_time": "2026-04-22T12:21:00",
+    "seen_at": "2026-04-22T10:23:21.280Z",
+    "raw": "Br. Vlaka 82177 odlazak      22.04.26. 12:21, kolodvor BLATA"
   }
 ]
