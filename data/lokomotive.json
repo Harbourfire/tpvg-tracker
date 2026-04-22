@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89126",
-    "event_time": "2026-04-19T19:51:00",
-    "seen_at": "2026-04-19T17:52:16.941Z",
-    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 19:51, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89126",
-    "event_time": "2026-04-19T19:51:00",
-    "seen_at": "2026-04-19T17:52:16.942Z",
-    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 19:51, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89126",
-    "event_time": "2026-04-19T19:51:00",
-    "seen_at": "2026-04-19T17:52:16.943Z",
-    "raw": "Br. Vlaka 89126 odlazak      19.04.26. 19:51, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "JANKOVCI",
@@ -15334,5 +15307,77 @@
     "event_time": "2026-04-22T19:38:00",
     "seen_at": "2026-04-22T17:39:33.472Z",
     "raw": "Br. Vlaka 48513 dolazak      22.04.26. 19:38, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "48513",
+    "event_time": "2026-04-22T19:41:00",
+    "seen_at": "2026-04-22T17:45:15.021Z",
+    "raw": "Br. Vlaka 48513 odlazak      22.04.26. 19:41, kolodvor BUZET"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "BUZET",
+    "train_number": "48513",
+    "event_time": "2026-04-22T19:41:00",
+    "seen_at": "2026-04-22T17:45:15.021Z",
+    "raw": "Br. Vlaka 48513 odlazak      22.04.26. 19:41, kolodvor BUZET"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89288",
+    "event_time": "2026-04-22T19:44:00",
+    "seen_at": "2026-04-22T17:46:01.987Z",
+    "raw": "Br. Vlaka 89288 odlazak      22.04.26. 19:44, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81960",
+    "event_time": "2026-04-22T14:36:00",
+    "seen_at": "2026-04-22T17:47:59.594Z",
+    "raw": "Br. Vlaka 81960 formiran     22.04.26. 14:36, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63310",
+    "event_time": "2026-04-22T19:47:00",
+    "seen_at": "2026-04-22T17:50:43.721Z",
+    "raw": "Br. Vlaka 63310 odlazak      22.04.26. 19:47, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "81960",
+    "event_time": "2026-04-22T19:43:00",
+    "seen_at": "2026-04-22T17:51:07.254Z",
+    "raw": "Br. Vlaka 81960 odlazak      22.04.26. 19:43, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-22T19:42:00",
+    "seen_at": "2026-04-22T17:53:07.027Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "44994",
+    "event_time": "2026-04-22T19:50:00",
+    "seen_at": "2026-04-22T17:54:16.811Z",
+    "raw": "Br. Vlaka 44994 odlazak      22.04.26. 19:50, kolodvor VARAŽDIN"
   }
 ]
