@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-19T13:15:00",
-    "seen_at": "2026-04-19T11:15:21.758Z",
-    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 13:15, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-19T13:15:00",
-    "seen_at": "2026-04-19T11:15:21.759Z",
-    "raw": "Br. Vlaka 89921 dolazak      19.04.26. 13:15, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -16027,5 +16009,50 @@
     "event_time": "2026-04-22T13:09:00",
     "seen_at": "2026-04-22T11:10:09.142Z",
     "raw": "Br. Vlaka 82177 odlazak      22.04.26. 13:09, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "83825",
+    "event_time": "2026-04-22T13:14:00",
+    "seen_at": "2026-04-22T11:15:05.368Z",
+    "raw": "Br. Vlaka 83825 odlazak      22.04.26. 13:14, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89721",
+    "event_time": "2026-04-22T13:07:00",
+    "seen_at": "2026-04-22T11:17:03.428Z",
+    "raw": "Br. Vlaka 89721 odlazak      22.04.26. 13:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89721",
+    "event_time": "2026-04-22T13:07:00",
+    "seen_at": "2026-04-22T11:17:03.429Z",
+    "raw": "Br. Vlaka 89721 odlazak      22.04.26. 13:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "77227",
+    "event_time": "2026-04-22T13:17:00",
+    "seen_at": "2026-04-22T11:17:50.904Z",
+    "raw": "Br. Vlaka 77227 odlazak      22.04.26. 13:17, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DEANOVEC",
+    "train_number": "81956",
+    "event_time": "2026-04-22T13:18:00",
+    "seen_at": "2026-04-22T11:19:01.027Z",
+    "raw": "Br. Vlaka 81956 odlazak      22.04.26. 13:18, kolodvor DEANOVEC"
   }
 ]
