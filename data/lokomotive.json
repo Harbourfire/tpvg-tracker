@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "JANKOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T04:10:00",
-    "seen_at": "2026-04-20T02:10:30.117Z",
-    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 04:10, kolodvor JANKOVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -16108,5 +16099,41 @@
     "event_time": "2026-04-23T04:00:00",
     "seen_at": "2026-04-23T02:02:07.183Z",
     "raw": "Br. Vlaka 47944 odlazak      23.04.26. 04:00, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47944",
+    "event_time": "2026-04-23T04:05:00",
+    "seen_at": "2026-04-23T02:05:55.610Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.04.26. 04:05, kolodvor 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-04-23T04:12:00",
+    "seen_at": "2026-04-23T02:14:03.039Z",
+    "raw": "Br. Vlaka 47944 dolazak      23.04.26. 04:12, kolodvor 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82502",
+    "event_time": "2026-04-23T04:13:00",
+    "seen_at": "2026-04-23T02:14:26.288Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 04:13, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82502",
+    "event_time": "2026-04-23T04:13:00",
+    "seen_at": "2026-04-23T02:14:26.288Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 04:13, kolodvor VRHOVINE"
   }
 ]
