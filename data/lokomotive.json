@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-20T03:52:00",
-    "seen_at": "2026-04-20T01:52:57.865Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 03:52, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63306",
-    "event_time": "2026-04-20T03:52:00",
-    "seen_at": "2026-04-20T01:52:57.865Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 03:52, kolodvor BLATA"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16072,5 +16054,41 @@
     "event_time": "2026-04-23T03:42:00",
     "seen_at": "2026-04-23T01:42:51.481Z",
     "raw": "Br. Vlaka 47944 odlazak      23.04.26. 03:42, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47944",
+    "event_time": "2026-04-23T03:46:00",
+    "seen_at": "2026-04-23T01:46:31.454Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.04.26. 03:46, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-04-23T03:45:00",
+    "seen_at": "2026-04-23T01:47:42.174Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 03:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-04-23T03:45:00",
+    "seen_at": "2026-04-23T01:47:42.175Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 03:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47944",
+    "event_time": "2026-04-23T03:52:00",
+    "seen_at": "2026-04-23T01:53:57.382Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.04.26. 03:52, kolodvor ZAGREB ZAP. KOL."
   }
 ]
