@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SPAČVA",
-    "train_number": "82331",
-    "event_time": "2026-04-20T10:14:00",
-    "seen_at": "2026-04-20T08:15:35.226Z",
-    "raw": "Br. Vlaka 82331 dolazak      20.04.26. 10:14, kolodvor SPAČVA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-20T10:17:00",
-    "seen_at": "2026-04-20T08:17:52.646Z",
-    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 10:17, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Dolazak",
-    "station": "LOVINAC",
-    "train_number": "89021",
-    "event_time": "2026-04-20T10:17:00",
-    "seen_at": "2026-04-20T08:20:55.420Z",
-    "raw": "Br. Vlaka 89021 dolazak      20.04.26. 10:17, kolodvor LOVINAC"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -16243,5 +16216,23 @@
     "event_time": "2026-04-23T10:10:00",
     "seen_at": "2026-04-23T08:11:37.331Z",
     "raw": "Br. Vlaka 71203 odlazak      23.04.26. 10:10, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "71207",
+    "event_time": "2026-04-23T10:15:00",
+    "seen_at": "2026-04-23T08:17:02.444Z",
+    "raw": "Br. Vlaka 71207 odlazak      23.04.26. 10:15, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-04-23T10:21:00",
+    "seen_at": "2026-04-23T08:21:44.386Z",
+    "raw": "Br. Vlaka 69175 odlazak      23.04.26. 10:21, kolodvor JOSIPDOL"
   }
 ]
