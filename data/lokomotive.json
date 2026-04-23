@@ -2,51 +2,6 @@
   {
     "uic": "997894215638",
     "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "89021",
-    "event_time": "2026-04-20T09:42:00",
-    "seen_at": "2026-04-20T07:43:51.852Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:42, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-20T09:46:00",
-    "seen_at": "2026-04-20T07:46:49.092Z",
-    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 09:46, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:48:00",
-    "seen_at": "2026-04-20T07:49:05.460Z",
-    "raw": "Br. Vlaka 43995 dolazak      20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:48:00",
-    "seen_at": "2026-04-20T07:49:05.461Z",
-    "raw": "Br. Vlaka 43995 dolazak      20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-04-20T09:47:00",
-    "seen_at": "2026-04-20T07:50:36.561Z",
-    "raw": "Br. Vlaka 49827 odlazak      20.04.26. 09:47, kolodvor ERDUT"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
     "station": "GOSPIĆ",
     "train_number": "89021",
     "event_time": "2026-04-20T09:54:00",
@@ -16225,5 +16180,50 @@
     "event_time": "2026-04-23T09:41:00",
     "seen_at": "2026-04-23T07:42:59.858Z",
     "raw": "Br. Vlaka 81951 odlazak      23.04.26. 09:41, kolodvor KOŠKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "83821",
+    "event_time": "2026-04-23T09:27:00",
+    "seen_at": "2026-04-23T07:47:03.294Z",
+    "raw": "Br. Vlaka 83821 dolazak      23.04.26. 09:27, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-23T09:27:00",
+    "seen_at": "2026-04-23T07:48:12.992Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-23T07:48:12.995Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "ORIOVAC",
+    "train_number": null,
+    "event_time": "2026-04-23T09:48:00",
+    "seen_at": "2026-04-23T07:50:09.617Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "48789",
+    "event_time": "2026-04-23T09:37:00",
+    "seen_at": "2026-04-23T07:53:17.798Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 09:37, kolodvor KOTORIBA-GR"
   }
 ]
