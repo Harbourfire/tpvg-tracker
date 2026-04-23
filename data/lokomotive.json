@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "89021",
-    "event_time": "2026-04-20T09:09:00",
-    "seen_at": "2026-04-20T07:09:42.469Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:09, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T09:08:00",
-    "seen_at": "2026-04-20T07:10:05.323Z",
-    "raw": "Br. Vlaka 82321 formiran     20.04.26. 09:08, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T09:08:00",
-    "seen_at": "2026-04-20T07:10:27.834Z",
-    "raw": "Br. Vlaka 82321 formiran     20.04.26. 09:08, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "ZABOK",
@@ -16171,5 +16144,59 @@
     "event_time": "2026-04-23T09:01:00",
     "seen_at": "2026-04-23T07:01:54.871Z",
     "raw": "Br. Vlaka 83821 odlazak      23.04.26. 09:01, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Formiran",
+    "station": "ĐAKOVO",
+    "train_number": "79900",
+    "event_time": "2026-04-23T09:04:00",
+    "seen_at": "2026-04-23T07:05:36.451Z",
+    "raw": "Br. Vlaka 79900 formiran     23.04.26. 09:04, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69770",
+    "event_time": "2026-04-23T09:04:00",
+    "seen_at": "2026-04-23T07:06:23.557Z",
+    "raw": "Br. Vlaka 69770 odlazak      23.04.26. 09:04, kolodvor DARDA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-04-23T08:41:00",
+    "seen_at": "2026-04-23T07:10:15.703Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89727",
+    "event_time": "2026-04-23T09:11:00",
+    "seen_at": "2026-04-23T07:12:57.719Z",
+    "raw": "Br. Vlaka 89727 odlazak      23.04.26. 09:11, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "83821",
+    "event_time": "2026-04-23T09:11:00",
+    "seen_at": "2026-04-23T07:13:43.570Z",
+    "raw": "Br. Vlaka 83821 odlazak      23.04.26. 09:11, kolodvor POŽEGA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "82723",
+    "event_time": "2026-04-23T09:10:00",
+    "seen_at": "2026-04-23T07:14:33.324Z",
+    "raw": "Br. Vlaka 82723 odlazak      23.04.26. 09:10, kolodvor ĐAKOVO"
   }
 ]
