@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T04:02:00",
-    "seen_at": "2026-04-20T02:02:43.196Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 04:02, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-20T04:03:00",
-    "seen_at": "2026-04-20T02:04:36.175Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 04:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-20T04:03:00",
-    "seen_at": "2026-04-20T02:04:36.175Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 04:03, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440265",
     "type": "Dolazak",
     "station": "JANKOVCI",
     "train_number": "40893",
@@ -16090,5 +16063,50 @@
     "event_time": "2026-04-23T03:52:00",
     "seen_at": "2026-04-23T01:53:57.382Z",
     "raw": "Br. Vlaka 47944 odlazak      23.04.26. 03:52, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82502",
+    "event_time": "2026-04-23T03:56:00",
+    "seen_at": "2026-04-23T01:57:43.234Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 03:56, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82502",
+    "event_time": "2026-04-23T03:56:00",
+    "seen_at": "2026-04-23T01:57:43.234Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 03:56, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89893",
+    "event_time": "2026-04-23T03:58:00",
+    "seen_at": "2026-04-23T02:00:05.311Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 03:58, kolodvor 73164"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89893",
+    "event_time": "2026-04-23T03:58:00",
+    "seen_at": "2026-04-23T02:00:05.312Z",
+    "raw": "Br. Vlaka 89893 odlazak      23.04.26. 03:58, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47944",
+    "event_time": "2026-04-23T04:00:00",
+    "seen_at": "2026-04-23T02:02:07.183Z",
+    "raw": "Br. Vlaka 47944 odlazak      23.04.26. 04:00, kolodvor ZAGREB KLARA"
   }
 ]
