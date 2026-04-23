@@ -1,86 +1,5 @@
 [
   {
-    "uic": "987893113470",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-17T14:20:00",
-    "seen_at": "2026-04-20T12:20:53.412Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-20T14:00:00",
-    "seen_at": "2026-04-20T12:21:16.514Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89755",
-    "event_time": "2026-04-20T14:22:00",
-    "seen_at": "2026-04-20T12:22:47.714Z",
-    "raw": "Br. Vlaka 89755 odlazak      20.04.26. 14:22, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T14:21:00",
-    "seen_at": "2026-04-20T12:23:34.538Z",
-    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 14:21, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T14:21:00",
-    "seen_at": "2026-04-20T12:23:34.539Z",
-    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 14:21, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T14:22:00",
-    "seen_at": "2026-04-20T12:24:42.592Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 14:22, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T14:22:00",
-    "seen_at": "2026-04-20T12:24:42.593Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 14:22, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "76501",
-    "event_time": "2026-04-20T14:26:00",
-    "seen_at": "2026-04-20T12:26:13.629Z",
-    "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:26, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89755",
-    "event_time": "2026-04-20T14:26:00",
-    "seen_at": "2026-04-20T12:28:46.170Z",
-    "raw": "Br. Vlaka 89755 odlazak      20.04.26. 14:26, kolodvor 72302"
-  },
-  {
     "uic": "927820440141",
     "type": "Rasformiran",
     "station": "KOTORIBA-GR",
@@ -15658,5 +15577,23 @@
     "event_time": "2026-04-23T14:19:00",
     "seen_at": "2026-04-23T12:19:58.452Z",
     "raw": "Br. Vlaka 82331 odlazak      23.04.26. 14:19, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-23T12:21:44.416Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-23T14:27:00",
+    "seen_at": "2026-04-23T12:28:00.683Z",
+    "raw": "Br. Vlaka 63310 odlazak      23.04.26. 14:27, kolodvor PERUŠIĆ"
   }
 ]
