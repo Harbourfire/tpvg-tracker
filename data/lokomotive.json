@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "81105",
-    "event_time": "2026-04-20T19:03:00",
-    "seen_at": "2026-04-20T17:06:37.840Z",
-    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 19:03, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "82131",
-    "event_time": "2026-04-20T18:58:00",
-    "seen_at": "2026-04-20T17:08:55.784Z",
-    "raw": "Br. Vlaka 82131 dolazak      20.04.26. 18:58, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "82131",
-    "event_time": "2026-04-20T18:58:00",
-    "seen_at": "2026-04-20T17:08:55.785Z",
-    "raw": "Br. Vlaka 82131 dolazak      20.04.26. 18:58, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82131",
-    "event_time": "2026-04-20T19:07:00",
-    "seen_at": "2026-04-20T17:09:19.050Z",
-    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 19:07, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82131",
-    "event_time": "2026-04-20T19:07:00",
-    "seen_at": "2026-04-20T17:09:19.051Z",
-    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 19:07, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ČAČINCI",
-    "train_number": "89408",
-    "event_time": "2026-04-20T19:08:00",
-    "seen_at": "2026-04-20T17:11:49.596Z",
-    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 19:08, kolodvor ČAČINCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -15289,5 +15235,68 @@
     "event_time": "2026-04-23T18:45:00",
     "seen_at": "2026-04-23T16:52:48.075Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-23T19:03:00",
+    "seen_at": "2026-04-23T17:06:17.905Z",
+    "raw": "Br. Vlaka 48789 dolazak      23.04.26. 19:03, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-23T19:03:00",
+    "seen_at": "2026-04-23T17:06:17.906Z",
+    "raw": "Br. Vlaka 48789 dolazak      23.04.26. 19:03, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-23T12:04:00",
+    "seen_at": "2026-04-23T17:07:49.330Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-23T12:04:00",
+    "seen_at": "2026-04-23T17:07:49.330Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "BJELOVAR",
+    "train_number": "81952",
+    "event_time": "2026-04-23T19:02:00",
+    "seen_at": "2026-04-23T17:08:12.593Z",
+    "raw": "Br. Vlaka 81952 dolazak      23.04.26. 19:02, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-23T11:44:00",
+    "seen_at": "2026-04-23T17:08:58.303Z",
+    "raw": "Br. Vlaka 44996 promjena sas 23.04.26. 11:44, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-23T11:44:00",
+    "seen_at": "2026-04-23T17:08:58.304Z",
+    "raw": "Br. Vlaka 44996 promjena sas 23.04.26. 11:44, kolodvor ZABOK"
   }
 ]
