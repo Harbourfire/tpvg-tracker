@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "49827",
-    "event_time": "2026-04-20T10:23:00",
-    "seen_at": "2026-04-20T08:24:14.886Z",
-    "raw": "Br. Vlaka 49827 dolazak      20.04.26. 10:23, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-17T10:23:00",
-    "seen_at": "2026-04-20T08:31:10.553Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "987891113316",
     "type": "Dolazak",
     "station": "GARČIN",
@@ -16234,5 +16216,59 @@
     "event_time": "2026-04-23T10:21:00",
     "seen_at": "2026-04-23T08:21:44.386Z",
     "raw": "Br. Vlaka 69175 odlazak      23.04.26. 10:21, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "NAŠICE",
+    "train_number": null,
+    "event_time": "2026-04-23T10:01:00",
+    "seen_at": "2026-04-23T08:25:27.168Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73901 NAŠICE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-23T08:26:12.835Z",
+    "raw": "Br. Vlaka 71203 dolazak      23.04.26. 10:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-23T08:26:12.836Z",
+    "raw": "Br. Vlaka 71203 dolazak      23.04.26. 10:20, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-23T08:26:35.613Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-23T08:26:35.614Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "71207",
+    "event_time": "2026-04-23T10:27:00",
+    "seen_at": "2026-04-23T08:28:30.922Z",
+    "raw": "Br. Vlaka 71207 odlazak      23.04.26. 10:27, kolodvor SIBINJ"
   }
 ]
