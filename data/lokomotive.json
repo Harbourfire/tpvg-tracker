@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "82146",
-    "event_time": "2026-04-20T16:54:00",
-    "seen_at": "2026-04-20T14:57:19.481Z",
-    "raw": "Br. Vlaka 82146 dolazak      20.04.26. 16:54, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "82146",
-    "event_time": "2026-04-20T16:54:00",
-    "seen_at": "2026-04-20T14:57:19.481Z",
-    "raw": "Br. Vlaka 82146 dolazak      20.04.26. 16:54, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440141",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -15415,5 +15397,23 @@
     "event_time": "2026-04-23T16:45:00",
     "seen_at": "2026-04-23T14:46:32.465Z",
     "raw": "Br. Vlaka 63310 dolazak      23.04.26. 16:45, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T16:52:00",
+    "seen_at": "2026-04-23T14:58:59.702Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-23T17:02:00",
+    "seen_at": "2026-04-23T15:03:26.403Z",
+    "raw": "Br. Vlaka 63310 odlazak      23.04.26. 17:02, kolodvor LIČKA JESENICA"
   }
 ]
