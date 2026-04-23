@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "81952",
-    "event_time": "2026-04-20T13:52:00",
-    "seen_at": "2026-04-20T12:14:10.328Z",
-    "raw": "Br. Vlaka 81952 dolazak      20.04.26. 13:52, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "81952",
-    "event_time": "2026-04-20T13:59:00",
-    "seen_at": "2026-04-20T12:15:20.198Z",
-    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 13:59, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
     "uic": "987893113470",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -15649,5 +15631,32 @@
     "event_time": "2026-04-23T13:00:00",
     "seen_at": "2026-04-23T12:11:17.887Z",
     "raw": "Br. Vlaka 47981 promjena sas 23.04.26. 13:00, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VUKOVAR",
+    "train_number": "69861",
+    "event_time": "2026-04-23T06:22:00",
+    "seen_at": "2026-04-23T12:12:38.772Z",
+    "raw": "Br. Vlaka 69861 formiran     23.04.26. 06:22, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-23T14:13:00",
+    "seen_at": "2026-04-23T12:13:47.950Z",
+    "raw": "Br. Vlaka 63310 odlazak      23.04.26. 14:13, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "82331",
+    "event_time": "2026-04-23T14:19:00",
+    "seen_at": "2026-04-23T12:19:58.452Z",
+    "raw": "Br. Vlaka 82331 odlazak      23.04.26. 14:19, kolodvor BUDINŠĆINA"
   }
 ]
