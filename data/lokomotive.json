@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-20T04:18:00",
-    "seen_at": "2026-04-20T02:21:20.915Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 04:18, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-20T04:18:00",
-    "seen_at": "2026-04-20T02:21:20.915Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 04:18, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-20T04:20:00",
-    "seen_at": "2026-04-20T02:23:14.888Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230100",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
     "train_number": null,
@@ -16135,5 +16108,41 @@
     "event_time": "2026-04-23T04:13:00",
     "seen_at": "2026-04-23T02:14:26.288Z",
     "raw": "Br. Vlaka 82502 odlazak      23.04.26. 04:13, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89893",
+    "event_time": "2026-04-23T04:11:00",
+    "seen_at": "2026-04-23T02:17:25.564Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 04:11, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89893",
+    "event_time": "2026-04-23T04:11:00",
+    "seen_at": "2026-04-23T02:17:25.565Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 04:11, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T04:11:00",
+    "seen_at": "2026-04-23T02:17:49.342Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T04:11:00",
+    "seen_at": "2026-04-23T02:17:49.343Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
   }
 ]
