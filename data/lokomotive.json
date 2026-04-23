@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89408",
-    "event_time": "2026-04-20T15:22:00",
-    "seen_at": "2026-04-20T13:22:27.994Z",
-    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:22, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ERDUT",
-    "train_number": "81953",
-    "event_time": "2026-04-20T15:24:00",
-    "seen_at": "2026-04-20T13:26:13.541Z",
-    "raw": "Br. Vlaka 81953 odlazak      20.04.26. 15:24, kolodvor ERDUT"
-  },
-  {
     "uic": "927820620171",
     "type": "Promjena sastava",
     "station": "NOVA KAPELA-BATRINA",
@@ -15532,5 +15514,68 @@
     "event_time": "2026-04-23T15:17:00",
     "seen_at": "2026-04-23T13:17:34.020Z",
     "raw": "Br. Vlaka 63310 odlazak      23.04.26. 15:17, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89729",
+    "event_time": "2026-04-23T15:19:00",
+    "seen_at": "2026-04-23T13:19:27.105Z",
+    "raw": "Br. Vlaka 89729 odlazak      23.04.26. 15:19, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-23T13:21:48.605Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "47981",
+    "event_time": "2026-04-23T15:22:00",
+    "seen_at": "2026-04-23T13:22:39.736Z",
+    "raw": "Br. Vlaka 47981 dolazak      23.04.26. 15:22, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "SUHOPOLJE",
+    "train_number": "81952",
+    "event_time": "2026-04-23T15:14:00",
+    "seen_at": "2026-04-23T13:22:39.736Z",
+    "raw": "Br. Vlaka 81952 odlazak      23.04.26. 15:14, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89756",
+    "event_time": "2026-04-23T15:27:00",
+    "seen_at": "2026-04-23T13:27:22.150Z",
+    "raw": "Br. Vlaka 89756 odlazak      23.04.26. 15:27, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-23T15:27:00",
+    "seen_at": "2026-04-23T13:27:22.151Z",
+    "raw": "Br. Vlaka 63310 dolazak      23.04.26. 15:27, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "81952",
+    "event_time": "2026-04-23T15:25:00",
+    "seen_at": "2026-04-23T13:27:45.378Z",
+    "raw": "Br. Vlaka 81952 odlazak      23.04.26. 15:25, kolodvor VIROVITICA"
   }
 ]
