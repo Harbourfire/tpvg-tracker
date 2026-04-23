@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-20T08:46:00",
-    "seen_at": "2026-04-20T06:46:25.098Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:46, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "43995",
-    "event_time": "2026-04-20T08:46:00",
-    "seen_at": "2026-04-20T06:46:25.098Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:46, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69770",
-    "event_time": "2026-04-20T06:06:00",
-    "seen_at": "2026-04-20T06:46:49.020Z",
-    "raw": "Br. Vlaka 69770 formiran     20.04.26. 06:06, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "82328",
-    "event_time": "2026-04-20T08:47:00",
-    "seen_at": "2026-04-20T06:47:12.833Z",
-    "raw": "Br. Vlaka 82328 formiran     20.04.26. 08:47, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-20T08:30:00",
-    "seen_at": "2026-04-20T06:47:48.977Z",
-    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 08:30, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-04-20T08:39:00",
-    "seen_at": "2026-04-20T06:48:11.894Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "69852",
-    "event_time": "2026-04-20T08:49:00",
-    "seen_at": "2026-04-20T06:50:50.365Z",
-    "raw": "Br. Vlaka 69852 odlazak      20.04.26. 08:49, kolodvor DALJ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "43995",
-    "event_time": "2026-04-20T08:53:00",
-    "seen_at": "2026-04-20T06:54:39.349Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:53, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "43995",
-    "event_time": "2026-04-20T08:53:00",
-    "seen_at": "2026-04-20T06:54:39.350Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:53, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -16252,5 +16171,32 @@
     "event_time": "2026-04-23T08:45:00",
     "seen_at": "2026-04-23T06:45:49.593Z",
     "raw": "Br. Vlaka 49826 odlazak      23.04.26. 08:45, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "83821",
+    "event_time": "2026-04-23T08:50:00",
+    "seen_at": "2026-04-23T06:52:41.585Z",
+    "raw": "Br. Vlaka 83821 odlazak      23.04.26. 08:50, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "ĐAKOVO",
+    "train_number": null,
+    "event_time": "2026-04-23T08:50:00",
+    "seen_at": "2026-04-23T06:53:51.429Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71808 ĐAKOVO"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "82723",
+    "event_time": "2026-04-23T08:51:00",
+    "seen_at": "2026-04-23T06:55:02.141Z",
+    "raw": "Br. Vlaka 82723 odlazak      23.04.26. 08:51, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
