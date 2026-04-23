@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "81105",
-    "event_time": "2026-04-20T19:29:00",
-    "seen_at": "2026-04-20T17:33:20.117Z",
-    "raw": "Br. Vlaka 81105 odlazak      20.04.26. 19:29, kolodvor TURČIN"
-  },
-  {
     "uic": "927820440125",
     "type": "Dolazak",
     "station": "KONJŠČINA",
@@ -15190,5 +15181,14 @@
     "event_time": "2026-04-23T19:19:00",
     "seen_at": "2026-04-23T17:21:41.701Z",
     "raw": "Br. Vlaka 89748 odlazak      23.04.26. 19:19, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "89748",
+    "event_time": "2026-04-23T19:34:00",
+    "seen_at": "2026-04-23T17:34:56.350Z",
+    "raw": "Br. Vlaka 89748 odlazak      23.04.26. 19:34, kolodvor KRIŽEVCI"
   }
 ]
