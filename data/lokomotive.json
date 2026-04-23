@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "GARČIN",
-    "train_number": "76502",
-    "event_time": "2026-04-20T10:28:00",
-    "seen_at": "2026-04-20T08:33:44.748Z",
-    "raw": "Br. Vlaka 76502 dolazak      20.04.26. 10:28, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "69770",
-    "event_time": "2026-04-20T10:26:00",
-    "seen_at": "2026-04-20T08:35:42.304Z",
-    "raw": "Br. Vlaka 69770 odlazak      20.04.26. 10:26, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -16270,5 +16252,41 @@
     "event_time": "2026-04-23T10:27:00",
     "seen_at": "2026-04-23T08:28:30.922Z",
     "raw": "Br. Vlaka 71207 odlazak      23.04.26. 10:27, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "NAŠICE",
+    "train_number": "81952",
+    "event_time": "2026-04-23T10:21:00",
+    "seen_at": "2026-04-23T08:35:37.808Z",
+    "raw": "Br. Vlaka 81952 formiran     23.04.26. 10:21, kolodvor NAŠICE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "69175",
+    "event_time": "2026-04-23T10:37:00",
+    "seen_at": "2026-04-23T08:37:32.669Z",
+    "raw": "Br. Vlaka 69175 odlazak      23.04.26. 10:37, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71207",
+    "event_time": "2026-04-23T10:38:00",
+    "seen_at": "2026-04-23T08:38:18.849Z",
+    "raw": "Br. Vlaka 71207 dolazak      23.04.26. 10:38, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T10:38:00",
+    "seen_at": "2026-04-23T08:39:28.002Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
