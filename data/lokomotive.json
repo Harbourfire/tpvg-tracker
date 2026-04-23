@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "69612",
-    "event_time": "2026-04-20T06:49:00",
-    "seen_at": "2026-04-20T04:51:55.450Z",
-    "raw": "Br. Vlaka 69612 odlazak      20.04.26. 06:49, kolodvor 72302"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-04-20T06:55:00",
-    "seen_at": "2026-04-20T04:56:00.928Z",
-    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 06:55, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "69612",
-    "event_time": "2026-04-20T06:55:00",
-    "seen_at": "2026-04-20T04:56:00.929Z",
-    "raw": "Br. Vlaka 69612 dolazak      20.04.26. 06:55, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-20T06:55:00",
-    "seen_at": "2026-04-20T04:56:23.560Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-04-20T05:19:00",
-    "seen_at": "2026-04-20T04:58:17.043Z",
-    "raw": "Br. Vlaka 69326 formiran     20.04.26. 05:19, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -16360,5 +16315,32 @@
     "event_time": "2026-04-23T06:48:00",
     "seen_at": "2026-04-23T04:50:03.773Z",
     "raw": "Br. Vlaka 76552 odlazak      23.04.26. 06:48, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "82503",
+    "event_time": "2026-04-23T06:50:00",
+    "seen_at": "2026-04-23T04:51:06.075Z",
+    "raw": "Br. Vlaka 82503 odlazak      23.04.26. 06:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:56:00",
+    "seen_at": "2026-04-23T04:57:45.514Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:56, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:56:00",
+    "seen_at": "2026-04-23T04:57:45.514Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:56, kolodvor LEPAVINA"
   }
 ]
