@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-19T21:30:00",
-    "seen_at": "2026-04-20T03:42:17.049Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-19T21:30:00",
-    "seen_at": "2026-04-20T03:42:17.049Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89175",
-    "event_time": "2026-04-20T05:40:00",
-    "seen_at": "2026-04-20T03:42:40.522Z",
-    "raw": "Br. Vlaka 89175 formiran     20.04.26. 05:40, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-20T02:09:00",
-    "seen_at": "2026-04-20T03:43:03.697Z",
-    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 02:09, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-20T02:09:00",
-    "seen_at": "2026-04-20T03:43:03.698Z",
-    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 02:09, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "JANKOVCI",
@@ -16189,5 +16144,23 @@
     "event_time": "2026-04-23T05:25:00",
     "seen_at": "2026-04-23T03:31:31.316Z",
     "raw": "Br. Vlaka 82502 odlazak      23.04.26. 05:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48795",
+    "event_time": "2026-04-23T05:35:00",
+    "seen_at": "2026-04-23T03:36:06.571Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 05:35, kolodvor 73164"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48795",
+    "event_time": "2026-04-23T05:35:00",
+    "seen_at": "2026-04-23T03:36:30.409Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 05:35, kolodvor 73164"
   }
 ]
