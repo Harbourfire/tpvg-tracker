@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44787",
-    "event_time": "2026-04-20T16:08:00",
-    "seen_at": "2026-04-20T14:10:28.505Z",
-    "raw": "Br. Vlaka 44787 dolazak      20.04.26. 16:08, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44787",
-    "event_time": "2026-04-20T16:08:00",
-    "seen_at": "2026-04-20T14:10:28.506Z",
-    "raw": "Br. Vlaka 44787 dolazak      20.04.26. 16:08, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -15460,5 +15442,32 @@
     "event_time": "2026-04-23T16:02:00",
     "seen_at": "2026-04-23T14:04:38.569Z",
     "raw": "Br. Vlaka 81952 dolazak      23.04.26. 16:02, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63312",
+    "event_time": "2026-04-23T16:10:00",
+    "seen_at": "2026-04-23T14:10:54.063Z",
+    "raw": "Br. Vlaka 63312 dolazak      23.04.26. 16:10, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-23T16:10:00",
+    "seen_at": "2026-04-23T14:12:32.560Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-23T15:27:00",
+    "seen_at": "2026-04-23T14:12:55.900Z",
+    "raw": "Br. Vlaka 63310 promjena sas 23.04.26. 15:27, kolodvor RUDOPOLJE"
   }
 ]
