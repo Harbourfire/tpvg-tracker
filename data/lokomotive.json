@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43995",
-    "event_time": "2026-04-20T08:17:00",
-    "seen_at": "2026-04-20T06:20:32.705Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:17, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "43995",
-    "event_time": "2026-04-20T08:17:00",
-    "seen_at": "2026-04-20T06:20:32.705Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 08:17, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-20T08:20:00",
-    "seen_at": "2026-04-20T06:20:55.745Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "89021",
-    "event_time": "2026-04-20T08:20:00",
-    "seen_at": "2026-04-20T06:21:18.727Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 08:20, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "69750",
-    "event_time": "2026-04-20T05:28:00",
-    "seen_at": "2026-04-20T06:22:51.141Z",
-    "raw": "Br. Vlaka 69750 formiran     20.04.26. 05:28, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "76503",
-    "event_time": "2026-04-20T08:23:00",
-    "seen_at": "2026-04-20T06:23:13.989Z",
-    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 08:23, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987891032045",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "71205",
-    "event_time": "2026-04-20T08:25:00",
-    "seen_at": "2026-04-20T06:25:32.716Z",
-    "raw": "Br. Vlaka 71205 odlazak      20.04.26. 08:25, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -16351,5 +16288,14 @@
     "event_time": "2026-04-23T08:13:00",
     "seen_at": "2026-04-23T06:13:59.553Z",
     "raw": "Br. Vlaka 79901 odlazak      23.04.26. 08:13, kolodvor OSIJEK"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "79901",
+    "event_time": "2026-04-23T08:15:00",
+    "seen_at": "2026-04-23T06:23:38.586Z",
+    "raw": "Br. Vlaka 79901 odlazak      23.04.26. 08:15, kolodvor OSIJEK"
   }
 ]
