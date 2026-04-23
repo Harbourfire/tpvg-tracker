@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894215711",
-    "type": "Rasformiran",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": null,
-    "event_time": "2026-04-20T12:34:00",
-    "seen_at": "2026-04-20T10:36:44.358Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "ZRMANJA",
-    "train_number": "89021",
-    "event_time": "2026-04-20T12:40:00",
-    "seen_at": "2026-04-20T10:40:56.476Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:40, kolodvor ZRMANJA"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "BRČKO - izvan HŽ",
@@ -15829,5 +15811,50 @@
     "event_time": "2026-04-23T12:19:00",
     "seen_at": "2026-04-23T10:29:42.232Z",
     "raw": "Br. Vlaka 81952 odlazak      23.04.26. 12:19, kolodvor NAŠICE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-23T12:21:00",
+    "seen_at": "2026-04-23T10:37:22.928Z",
+    "raw": "Br. Vlaka 48789 promjena sas 23.04.26. 12:21, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-23T12:04:00",
+    "seen_at": "2026-04-23T10:37:46.086Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "82331",
+    "event_time": "2026-04-23T12:37:00",
+    "seen_at": "2026-04-23T10:38:09.570Z",
+    "raw": "Br. Vlaka 82331 formiran     23.04.26. 12:37, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81115",
+    "event_time": "2026-04-22T21:16:00",
+    "seen_at": "2026-04-23T10:39:19.525Z",
+    "raw": "Br. Vlaka 81115 promjena sas 22.04.26. 21:16, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82509",
+    "event_time": "2026-04-23T12:38:00",
+    "seen_at": "2026-04-23T10:39:42.783Z",
+    "raw": "Br. Vlaka 82509 odlazak      23.04.26. 12:38, kolodvor LIČKO LEŠĆE"
   }
 ]
