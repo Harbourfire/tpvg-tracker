@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T02:04:00",
-    "seen_at": "2026-04-20T00:05:33.827Z",
-    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 02:04, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -15784,5 +15775,14 @@
     "event_time": "2026-04-23T01:50:00",
     "seen_at": "2026-04-22T23:51:28.454Z",
     "raw": "Br. Vlaka 81950 odlazak      23.04.26. 01:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89288",
+    "event_time": "2026-04-23T02:02:00",
+    "seen_at": "2026-04-23T00:03:51.805Z",
+    "raw": "Br. Vlaka 89288 odlazak      23.04.26. 02:02, kolodvor ZAGREB ZAP. KOL."
   }
 ]
