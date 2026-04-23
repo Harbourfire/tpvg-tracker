@@ -16198,5 +16198,50 @@
     "event_time": "2026-04-23T05:50:00",
     "seen_at": "2026-04-23T03:52:06.388Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "82503",
+    "event_time": "2026-04-23T05:42:00",
+    "seen_at": "2026-04-23T03:56:34.552Z",
+    "raw": "Br. Vlaka 82503 promjena sas 23.04.26. 05:42, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T05:55:00",
+    "seen_at": "2026-04-23T03:56:57.759Z",
+    "raw": "Br. Vlaka 48795 dolazak      23.04.26. 05:55, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T05:55:00",
+    "seen_at": "2026-04-23T03:56:57.760Z",
+    "raw": "Br. Vlaka 48795 dolazak      23.04.26. 05:55, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-23T03:37:00",
+    "seen_at": "2026-04-23T04:01:43.467Z",
+    "raw": "Br. Vlaka 69006 formiran     23.04.26. 03:37, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-04-23T03:37:00",
+    "seen_at": "2026-04-23T04:02:06.918Z",
+    "raw": "Br. Vlaka 69006 formiran     23.04.26. 03:37, kolodvor OŠTARIJE"
   }
 ]
