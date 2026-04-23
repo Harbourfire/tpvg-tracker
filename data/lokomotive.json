@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69852",
-    "event_time": "2026-04-20T08:10:00",
-    "seen_at": "2026-04-20T06:11:08.207Z",
-    "raw": "Br. Vlaka 69852 odlazak      20.04.26. 08:10, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76503",
-    "event_time": "2026-04-20T08:12:00",
-    "seen_at": "2026-04-20T06:13:29.168Z",
-    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 08:12, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-20T08:11:00",
-    "seen_at": "2026-04-20T06:14:37.615Z",
-    "raw": "Br. Vlaka 66853 odlazak      20.04.26. 08:11, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -16342,5 +16315,41 @@
     "event_time": "2026-04-23T06:50:00",
     "seen_at": "2026-04-23T06:04:10.033Z",
     "raw": "Br. Vlaka 82507 formiran     23.04.26. 06:50, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-23T07:50:00",
+    "seen_at": "2026-04-23T06:10:08.642Z",
+    "raw": "Br. Vlaka 71203 formiran     23.04.26. 07:50, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-23T07:50:00",
+    "seen_at": "2026-04-23T06:10:55.400Z",
+    "raw": "Br. Vlaka 71203 formiran     23.04.26. 07:50, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-23T08:12:00",
+    "seen_at": "2026-04-23T06:12:49.855Z",
+    "raw": "Br. Vlaka 71204 formiran     23.04.26. 08:12, kolodvor GARČIN"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "79901",
+    "event_time": "2026-04-23T08:13:00",
+    "seen_at": "2026-04-23T06:13:59.553Z",
+    "raw": "Br. Vlaka 79901 odlazak      23.04.26. 08:13, kolodvor OSIJEK"
   }
 ]
