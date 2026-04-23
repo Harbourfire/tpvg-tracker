@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-20T17:20:00",
-    "seen_at": "2026-04-20T15:58:25.051Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "KOTORIBA-GR",
@@ -15280,5 +15271,32 @@
     "event_time": "2026-04-23T17:40:00",
     "seen_at": "2026-04-23T15:43:51.539Z",
     "raw": "Br. Vlaka 63310 dolazak      23.04.26. 17:40, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89748",
+    "event_time": "2026-04-23T18:03:00",
+    "seen_at": "2026-04-23T16:05:12.707Z",
+    "raw": "Br. Vlaka 89748 odlazak      23.04.26. 18:03, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:04:00",
+    "seen_at": "2026-04-23T16:05:35.609Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 18:04, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:04:00",
+    "seen_at": "2026-04-23T16:05:35.610Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 18:04, kolodvor BUDINŠĆINA"
   }
 ]
