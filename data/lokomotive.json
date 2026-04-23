@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-20T12:03:00",
-    "seen_at": "2026-04-20T09:49:42.903Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "987891032060",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-20T11:48:00",
-    "seen_at": "2026-04-20T09:50:05.587Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-20T11:50:00",
-    "seen_at": "2026-04-20T09:51:36.434Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:50, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-20T11:50:00",
-    "seen_at": "2026-04-20T09:51:36.434Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 11:50, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "89021",
-    "event_time": "2026-04-20T11:49:00",
-    "seen_at": "2026-04-20T09:52:22.127Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 11:49, kolodvor LOVINAC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T11:53:00",
-    "seen_at": "2026-04-20T09:55:03.009Z",
-    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 11:53, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T11:53:00",
-    "seen_at": "2026-04-20T09:55:03.010Z",
-    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 11:53, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -15964,5 +15901,41 @@
     "event_time": "2026-04-23T11:41:00",
     "seen_at": "2026-04-23T09:44:55.782Z",
     "raw": "Br. Vlaka 48789 odlazak      23.04.26. 11:41, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-04-23T10:17:00",
+    "seen_at": "2026-04-23T09:48:38.815Z",
+    "raw": "Br. Vlaka 49827 promjena sas 23.04.26. 10:17, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-04-23T11:42:00",
+    "seen_at": "2026-04-23T09:49:02.907Z",
+    "raw": "Br. Vlaka 49827 odlazak      23.04.26. 11:42, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T11:49:00",
+    "seen_at": "2026-04-23T09:53:18.300Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 11:49, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82509",
+    "event_time": "2026-04-23T11:52:00",
+    "seen_at": "2026-04-23T09:54:28.657Z",
+    "raw": "Br. Vlaka 82509 formiran     23.04.26. 11:52, kolodvor LIČKO LEŠĆE"
   }
 ]
