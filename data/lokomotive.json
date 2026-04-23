@@ -2,51 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-20T13:53:00",
-    "seen_at": "2026-04-20T11:53:14.210Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-20T13:53:00",
-    "seen_at": "2026-04-20T11:53:14.211Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:53, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82146",
-    "event_time": "2026-04-20T13:57:00",
-    "seen_at": "2026-04-20T11:57:09.655Z",
-    "raw": "Br. Vlaka 82146 formiran     20.04.26. 13:57, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "82146",
-    "event_time": "2026-04-20T13:57:00",
-    "seen_at": "2026-04-20T11:57:09.656Z",
-    "raw": "Br. Vlaka 82146 formiran     20.04.26. 13:57, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "TOVARNIK granica",
-    "train_number": "89408",
-    "event_time": "2026-04-20T12:25:00",
-    "seen_at": "2026-04-20T11:58:45.776Z",
-    "raw": "Br. Vlaka 89408 formiran     20.04.26. 12:25, kolodvor 71020"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "MALA SUBOTICA",
     "train_number": "44998",
     "event_time": "2026-04-20T14:02:00",
@@ -15667,5 +15622,59 @@
     "event_time": "2026-04-23T13:43:00",
     "seen_at": "2026-04-23T11:45:55.438Z",
     "raw": "Br. Vlaka 81952 dolazak      23.04.26. 13:43, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-04-23T12:14:00",
+    "seen_at": "2026-04-23T11:53:16.547Z",
+    "raw": "Br. Vlaka 49827 dolazak      23.04.26. 12:14, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82504",
+    "event_time": "2026-04-23T13:53:00",
+    "seen_at": "2026-04-23T11:53:40.364Z",
+    "raw": "Br. Vlaka 82504 odlazak      23.04.26. 13:53, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-04-23T13:29:00",
+    "seen_at": "2026-04-23T11:54:03.495Z",
+    "raw": "Br. Vlaka 49827 odlazak      23.04.26. 13:29, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "49827",
+    "event_time": "2026-04-23T13:49:00",
+    "seen_at": "2026-04-23T11:55:13.842Z",
+    "raw": "Br. Vlaka 49827 dolazak      23.04.26. 13:49, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82331",
+    "event_time": "2026-04-23T13:55:00",
+    "seen_at": "2026-04-23T11:57:12.739Z",
+    "raw": "Br. Vlaka 82331 odlazak      23.04.26. 13:55, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-23T11:58:23.950Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
