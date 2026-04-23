@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:15:00",
-    "seen_at": "2026-04-20T07:15:21.871Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:15, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:15:00",
-    "seen_at": "2026-04-20T07:15:21.872Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:15, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T09:18:00",
-    "seen_at": "2026-04-20T07:18:44.976Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 09:18, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:19:00",
-    "seen_at": "2026-04-20T07:19:54.937Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:19, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:19:00",
-    "seen_at": "2026-04-20T07:19:54.937Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:19, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-20T09:19:00",
-    "seen_at": "2026-04-20T07:20:17.467Z",
-    "raw": "Br. Vlaka 76502 formiran     20.04.26. 09:19, kolodvor VINKOVCI"
-  },
-  {
     "uic": "987891113316",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16198,5 +16144,77 @@
     "event_time": "2026-04-23T09:10:00",
     "seen_at": "2026-04-23T07:14:33.324Z",
     "raw": "Br. Vlaka 82723 odlazak      23.04.26. 09:10, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89727",
+    "event_time": "2026-04-23T09:16:00",
+    "seen_at": "2026-04-23T07:17:21.150Z",
+    "raw": "Br. Vlaka 89727 odlazak      23.04.26. 09:16, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "48789",
+    "event_time": "2026-04-23T09:16:00",
+    "seen_at": "2026-04-23T07:17:44.314Z",
+    "raw": "Br. Vlaka 48789 formiran     23.04.26. 09:16, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "49826",
+    "event_time": "2026-04-23T09:15:00",
+    "seen_at": "2026-04-23T07:18:53.937Z",
+    "raw": "Br. Vlaka 49826 odlazak      23.04.26. 09:15, kolodvor DALJ"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71206",
+    "event_time": "2026-04-23T09:18:00",
+    "seen_at": "2026-04-23T07:19:17.153Z",
+    "raw": "Br. Vlaka 71206 odlazak      23.04.26. 09:18, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "89727",
+    "event_time": "2026-04-23T09:19:00",
+    "seen_at": "2026-04-23T07:19:40.562Z",
+    "raw": "Br. Vlaka 89727 odlazak      23.04.26. 09:19, kolodvor LUKA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "BELIŠĆE",
+    "train_number": null,
+    "event_time": "2026-04-23T08:10:00",
+    "seen_at": "2026-04-23T07:21:14.071Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71790 BELIŠĆE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "ŽUPANJA",
+    "train_number": "69820",
+    "event_time": "2026-04-23T06:22:00",
+    "seen_at": "2026-04-23T07:21:37.807Z",
+    "raw": "Br. Vlaka 69820 formiran     23.04.26. 06:22, kolodvor ŽUPANJA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "69770",
+    "event_time": "2026-04-23T09:20:00",
+    "seen_at": "2026-04-23T07:22:01.026Z",
+    "raw": "Br. Vlaka 69770 dolazak      23.04.26. 09:20, kolodvor BELI MANASTIR"
   }
 ]
