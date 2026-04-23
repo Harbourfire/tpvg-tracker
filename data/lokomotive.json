@@ -2,33 +2,6 @@
   {
     "uic": "927820621195",
     "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89175",
-    "event_time": "2026-04-20T06:08:00",
-    "seen_at": "2026-04-20T04:18:13.883Z",
-    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:08, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89175",
-    "event_time": "2026-04-20T06:17:00",
-    "seen_at": "2026-04-20T04:18:59.685Z",
-    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:17, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ĐELETOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T06:13:00",
-    "seen_at": "2026-04-20T04:19:45.651Z",
-    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 06:13, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
     "station": "NOVI MAROF",
     "train_number": "89175",
     "event_time": "2026-04-20T06:35:00",
@@ -16243,5 +16216,32 @@
     "event_time": "2026-04-23T06:10:00",
     "seen_at": "2026-04-23T04:12:00.774Z",
     "raw": "Br. Vlaka 69770 formiran     23.04.26. 06:10, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T07:24:00",
+    "seen_at": "2026-04-23T04:16:27.286Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:13:00",
+    "seen_at": "2026-04-23T04:19:53.052Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:13, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:13:00",
+    "seen_at": "2026-04-23T04:19:53.053Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:13, kolodvor KOPRIVNICA"
   }
 ]
