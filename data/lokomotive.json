@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89408",
-    "event_time": "2026-04-20T15:48:00",
-    "seen_at": "2026-04-20T13:48:48.253Z",
-    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 15:48, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44787",
-    "event_time": "2026-04-20T15:42:00",
-    "seen_at": "2026-04-20T13:49:10.992Z",
-    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 15:42, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44787",
-    "event_time": "2026-04-20T15:42:00",
-    "seen_at": "2026-04-20T13:49:10.993Z",
-    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 15:42, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-20T15:46:00",
-    "seen_at": "2026-04-20T13:49:10.993Z",
-    "raw": "Br. Vlaka 44789 odlazak      20.04.26. 15:46, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44787",
-    "event_time": "2026-04-20T15:48:00",
-    "seen_at": "2026-04-20T13:49:56.312Z",
-    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 15:48, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44787",
-    "event_time": "2026-04-20T15:48:00",
-    "seen_at": "2026-04-20T13:49:56.313Z",
-    "raw": "Br. Vlaka 44787 odlazak      20.04.26. 15:48, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -15514,5 +15460,32 @@
     "event_time": "2026-04-23T15:41:00",
     "seen_at": "2026-04-23T13:43:14.747Z",
     "raw": "Br. Vlaka 81952 odlazak      23.04.26. 15:41, kolodvor ŠPIŠIĆ BUKOVICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "69177",
+    "event_time": "2026-04-23T15:45:00",
+    "seen_at": "2026-04-23T13:50:13.730Z",
+    "raw": "Br. Vlaka 69177 dolazak      23.04.26. 15:45, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "VRHOVINE",
+    "train_number": null,
+    "event_time": "2026-04-23T15:45:00",
+    "seen_at": "2026-04-23T13:50:37.481Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-23T12:25:00",
+    "seen_at": "2026-04-23T13:51:00.875Z",
+    "raw": "Br. Vlaka 63312 formiran     23.04.26. 12:25, kolodvor VRHOVINE"
   }
 ]
