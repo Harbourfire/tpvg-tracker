@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-20T11:25:00",
-    "seen_at": "2026-04-20T10:21:20.817Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "82332",
-    "event_time": "2026-04-20T12:15:00",
-    "seen_at": "2026-04-20T10:21:44.877Z",
-    "raw": "Br. Vlaka 82332 odlazak      20.04.26. 12:15, kolodvor OTOK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T12:22:00",
-    "seen_at": "2026-04-20T10:22:55.113Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:22, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44998",
-    "event_time": "2026-04-20T12:22:00",
-    "seen_at": "2026-04-20T10:22:55.113Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:22, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T12:23:00",
-    "seen_at": "2026-04-20T10:24:52.178Z",
-    "raw": "Br. Vlaka 82321 dolazak      20.04.26. 12:23, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T12:23:00",
-    "seen_at": "2026-04-20T10:24:52.178Z",
-    "raw": "Br. Vlaka 82321 dolazak      20.04.26. 12:23, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620171",
     "type": "Dolazak",
     "station": "NOVA KAPELA-BATRINA",
@@ -15865,5 +15811,32 @@
     "event_time": "2026-04-23T12:14:00",
     "seen_at": "2026-04-23T10:14:39.224Z",
     "raw": "Br. Vlaka 49827 dolazak      23.04.26. 12:14, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T10:54:00",
+    "seen_at": "2026-04-23T10:22:25.248Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "74001",
+    "event_time": "2026-04-23T12:20:00",
+    "seen_at": "2026-04-23T10:23:11.636Z",
+    "raw": "Br. Vlaka 74001 formiran     23.04.26. 12:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "74001",
+    "event_time": "2026-04-23T12:24:00",
+    "seen_at": "2026-04-23T10:25:56.340Z",
+    "raw": "Br. Vlaka 74001 odlazak      23.04.26. 12:24, kolodvor OSIJEK"
   }
 ]
