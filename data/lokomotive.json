@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T12:54:00",
-    "seen_at": "2026-04-20T10:55:24.581Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 12:54, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T12:54:00",
-    "seen_at": "2026-04-20T10:55:24.581Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 12:54, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44998",
-    "event_time": "2026-04-20T12:54:00",
-    "seen_at": "2026-04-20T10:57:18.347Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:54, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44998",
-    "event_time": "2026-04-20T12:54:00",
-    "seen_at": "2026-04-20T10:57:18.348Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 12:54, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "81951",
-    "event_time": "2026-04-20T12:57:00",
-    "seen_at": "2026-04-20T10:58:03.650Z",
-    "raw": "Br. Vlaka 81951 formiran     20.04.26. 12:57, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "89021",
-    "event_time": "2026-04-20T12:57:00",
-    "seen_at": "2026-04-20T10:58:49.256Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:57, kolodvor PLAVNO"
-  },
-  {
     "uic": "997894215638",
     "type": "Dolazak",
     "station": "PAĐENE",
@@ -15829,5 +15775,41 @@
     "event_time": "2026-04-23T12:44:00",
     "seen_at": "2026-04-23T10:45:42.663Z",
     "raw": "Br. Vlaka 81952 odlazak      23.04.26. 12:44, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82504",
+    "event_time": "2026-04-23T12:51:00",
+    "seen_at": "2026-04-23T10:56:23.080Z",
+    "raw": "Br. Vlaka 82504 odlazak      23.04.26. 12:51, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82509",
+    "event_time": "2026-04-23T12:56:00",
+    "seen_at": "2026-04-23T10:58:18.323Z",
+    "raw": "Br. Vlaka 82509 odlazak      23.04.26. 12:56, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82504",
+    "event_time": "2026-04-23T13:03:00",
+    "seen_at": "2026-04-23T11:03:26.149Z",
+    "raw": "Br. Vlaka 82504 odlazak      23.04.26. 13:03, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "81952",
+    "event_time": "2026-04-23T13:01:00",
+    "seen_at": "2026-04-23T11:03:26.151Z",
+    "raw": "Br. Vlaka 81952 odlazak      23.04.26. 13:01, kolodvor ZDENCI-ORAHOVICA"
   }
 ]
