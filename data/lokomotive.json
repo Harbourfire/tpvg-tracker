@@ -2,60 +2,6 @@
   {
     "uic": "927820440265",
     "type": "Odlazak",
-    "station": "ĐELETOVCI",
-    "train_number": "89408",
-    "event_time": "2026-04-20T15:06:00",
-    "seen_at": "2026-04-20T13:09:16.712Z",
-    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:06, kolodvor ĐELETOVCI"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76501",
-    "event_time": "2026-04-20T15:10:00",
-    "seen_at": "2026-04-20T13:10:25.116Z",
-    "raw": "Br. Vlaka 76501 dolazak      20.04.26. 15:10, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-20T15:10:00",
-    "seen_at": "2026-04-20T13:10:49.198Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "89408",
-    "event_time": "2026-04-20T15:14:00",
-    "seen_at": "2026-04-20T13:14:13.395Z",
-    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:14, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82146",
-    "event_time": "2026-04-20T15:13:00",
-    "seen_at": "2026-04-20T13:14:13.395Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:13, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82146",
-    "event_time": "2026-04-20T15:13:00",
-    "seen_at": "2026-04-20T13:14:13.395Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:13, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
     "station": "VINKOVCI",
     "train_number": "89408",
     "event_time": "2026-04-20T15:22:00",
@@ -15559,5 +15505,32 @@
     "event_time": "2026-04-23T15:06:00",
     "seen_at": "2026-04-23T13:06:24.258Z",
     "raw": "Br. Vlaka 89729 odlazak      23.04.26. 15:06, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-23T15:07:00",
+    "seen_at": "2026-04-23T13:08:58.196Z",
+    "raw": "Br. Vlaka 63310 promjena sas 23.04.26. 15:07, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "47981",
+    "event_time": "2026-04-23T15:09:00",
+    "seen_at": "2026-04-23T13:11:17.933Z",
+    "raw": "Br. Vlaka 47981 odlazak      23.04.26. 15:09, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-23T15:17:00",
+    "seen_at": "2026-04-23T13:17:34.020Z",
+    "raw": "Br. Vlaka 63310 odlazak      23.04.26. 15:17, kolodvor VRHOVINE"
   }
 ]
