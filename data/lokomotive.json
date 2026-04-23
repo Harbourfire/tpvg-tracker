@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-19T21:04:00",
-    "seen_at": "2026-04-20T08:03:27.211Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-19T21:04:00",
-    "seen_at": "2026-04-20T08:03:50.635Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "49827",
-    "event_time": "2026-04-20T09:57:00",
-    "seen_at": "2026-04-20T08:04:13.575Z",
-    "raw": "Br. Vlaka 49827 odlazak      20.04.26. 09:57, kolodvor DALJ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "44994",
-    "train_number": null,
-    "event_time": "2026-04-20T08:04:36.330Z",
-    "seen_at": "2026-04-20T08:04:36.330Z",
-    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "44994",
-    "train_number": null,
-    "event_time": "2026-04-20T08:04:36.331Z",
-    "seen_at": "2026-04-20T08:04:36.331Z",
-    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "MEDAK",
-    "train_number": "89021",
-    "event_time": "2026-04-20T10:06:00",
-    "seen_at": "2026-04-20T08:07:42.728Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 10:06, kolodvor MEDAK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "82328",
-    "event_time": "2026-04-20T10:03:00",
-    "seen_at": "2026-04-20T08:08:29.096Z",
-    "raw": "Br. Vlaka 82328 odlazak      20.04.26. 10:03, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Formiran",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "76501",
-    "event_time": "2026-04-20T10:07:00",
-    "seen_at": "2026-04-20T08:08:29.097Z",
-    "raw": "Br. Vlaka 76501 formiran     20.04.26. 10:07, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-20T10:10:00",
-    "seen_at": "2026-04-20T08:11:32.517Z",
-    "raw": "Br. Vlaka 76502 dolazak      20.04.26. 10:10, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "SPAČVA",
@@ -16279,5 +16198,50 @@
     "event_time": "2026-04-23T10:02:00",
     "seen_at": "2026-04-23T08:02:54.914Z",
     "raw": "Br. Vlaka 71203 odlazak      23.04.26. 10:02, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "44996",
+    "event_time": "2026-04-23T01:22:00",
+    "seen_at": "2026-04-23T08:04:37.332Z",
+    "raw": "Br. Vlaka 44996 promjena sas 23.04.26. 01:22, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-04-23T08:31:00",
+    "seen_at": "2026-04-23T08:04:37.332Z",
+    "raw": "Br. Vlaka 69175 formiran     23.04.26. 08:31, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Formiran",
+    "station": "ORIOVAC",
+    "train_number": "71207",
+    "event_time": "2026-04-23T10:07:00",
+    "seen_at": "2026-04-23T08:07:42.139Z",
+    "raw": "Br. Vlaka 71207 formiran     23.04.26. 10:07, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-23T10:10:00",
+    "seen_at": "2026-04-23T08:11:37.330Z",
+    "raw": "Br. Vlaka 71203 odlazak      23.04.26. 10:10, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-23T10:10:00",
+    "seen_at": "2026-04-23T08:11:37.331Z",
+    "raw": "Br. Vlaka 71203 odlazak      23.04.26. 10:10, kolodvor IVANKOVO"
   }
 ]
