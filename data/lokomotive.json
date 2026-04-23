@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "46897",
-    "event_time": "2026-04-20T17:44:00",
-    "seen_at": "2026-04-20T15:45:25.986Z",
-    "raw": "Br. Vlaka 46897 dolazak      20.04.26. 17:44, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -15280,5 +15271,32 @@
     "event_time": "2026-04-23T17:23:00",
     "seen_at": "2026-04-23T15:24:56.085Z",
     "raw": "Br. Vlaka 63310 odlazak      23.04.26. 17:23, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "48789",
+    "event_time": "2026-04-23T17:41:00",
+    "seen_at": "2026-04-23T15:42:42.684Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 17:41, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "48789",
+    "event_time": "2026-04-23T17:41:00",
+    "seen_at": "2026-04-23T15:42:42.685Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 17:41, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-04-23T17:40:00",
+    "seen_at": "2026-04-23T15:43:51.539Z",
+    "raw": "Br. Vlaka 63310 dolazak      23.04.26. 17:40, kolodvor JOSIPDOL"
   }
 ]
