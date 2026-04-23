@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "89021",
-    "event_time": "2026-04-20T09:54:00",
-    "seen_at": "2026-04-20T07:56:58.753Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:54, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76502",
-    "event_time": "2026-04-20T09:58:00",
-    "seen_at": "2026-04-20T07:58:33.502Z",
-    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 09:58, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "82331",
-    "event_time": "2026-04-20T10:00:00",
-    "seen_at": "2026-04-20T08:00:53.270Z",
-    "raw": "Br. Vlaka 82331 odlazak      20.04.26. 10:00, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:48:00",
-    "seen_at": "2026-04-20T08:02:51.864Z",
-    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:48:00",
-    "seen_at": "2026-04-20T08:02:51.864Z",
-    "raw": "Br. Vlaka 43995 promjena sas 20.04.26. 09:48, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "ZAGREB ZAPADNI",
@@ -16225,5 +16180,104 @@
     "event_time": "2026-04-23T09:37:00",
     "seen_at": "2026-04-23T07:53:17.798Z",
     "raw": "Br. Vlaka 48789 odlazak      23.04.26. 09:37, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T09:41:00",
+    "seen_at": "2026-04-23T07:53:54.706Z",
+    "raw": "Br. Vlaka 48789 dolazak      23.04.26. 09:41, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "82723",
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-23T07:56:19.773Z",
+    "raw": "Br. Vlaka 82723 dolazak      23.04.26. 09:54, kolodvor OSIJEK"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-23T07:56:42.629Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-23T09:53:00",
+    "seen_at": "2026-04-23T07:56:42.629Z",
+    "raw": "Br. Vlaka 71203 odlazak      23.04.26. 09:53, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-23T09:53:00",
+    "seen_at": "2026-04-23T07:56:42.631Z",
+    "raw": "Br. Vlaka 71203 odlazak      23.04.26. 09:53, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82507",
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-23T07:57:28.025Z",
+    "raw": "Br. Vlaka 82507 odlazak      23.04.26. 09:54, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "79900",
+    "event_time": "2026-04-23T09:58:00",
+    "seen_at": "2026-04-23T08:00:57.004Z",
+    "raw": "Br. Vlaka 79900 odlazak      23.04.26. 09:58, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82507",
+    "event_time": "2026-04-23T10:01:00",
+    "seen_at": "2026-04-23T08:01:43.307Z",
+    "raw": "Br. Vlaka 82507 dolazak      23.04.26. 10:01, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "JOSIPDOL",
+    "train_number": null,
+    "event_time": "2026-04-23T10:01:00",
+    "seen_at": "2026-04-23T08:02:06.859Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76002 JOSIPDOL"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-23T10:02:00",
+    "seen_at": "2026-04-23T08:02:54.912Z",
+    "raw": "Br. Vlaka 71203 odlazak      23.04.26. 10:02, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-23T10:02:00",
+    "seen_at": "2026-04-23T08:02:54.914Z",
+    "raw": "Br. Vlaka 71203 odlazak      23.04.26. 10:02, kolodvor STARI MIKANOVCI"
   }
 ]
