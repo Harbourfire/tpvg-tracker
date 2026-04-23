@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-04-20T06:58:00",
-    "seen_at": "2026-04-20T04:59:48.809Z",
-    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 06:58, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89175",
-    "event_time": "2026-04-20T06:57:00",
-    "seen_at": "2026-04-20T04:59:48.811Z",
-    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:57, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16342,5 +16324,14 @@
     "event_time": "2026-04-23T06:56:00",
     "seen_at": "2026-04-23T04:57:45.514Z",
     "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:56, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-23T06:59:00",
+    "seen_at": "2026-04-23T05:00:45.797Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
