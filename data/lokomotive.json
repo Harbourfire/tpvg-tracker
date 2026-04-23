@@ -1,77 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Dolazak",
-    "station": "PAĐENE",
-    "train_number": "89021",
-    "event_time": "2026-04-20T13:05:00",
-    "seen_at": "2026-04-20T11:07:26.838Z",
-    "raw": "Br. Vlaka 89021 dolazak      20.04.26. 13:05, kolodvor PAĐENE"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "PAĐENE",
-    "train_number": null,
-    "event_time": "2026-04-20T13:05:00",
-    "seen_at": "2026-04-20T11:07:49.761Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76208 PAĐENE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-20T13:05:00",
-    "seen_at": "2026-04-20T11:08:57.905Z",
-    "raw": "Br. Vlaka 45104 odlazak      20.04.26. 13:05, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T13:08:00",
-    "seen_at": "2026-04-20T11:08:57.906Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 13:08, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82321",
-    "event_time": "2026-04-20T13:08:00",
-    "seen_at": "2026-04-20T11:08:57.906Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 13:08, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44998",
-    "event_time": "2026-04-20T13:10:00",
-    "seen_at": "2026-04-20T11:10:56.600Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:10, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44998",
-    "event_time": "2026-04-20T13:10:00",
-    "seen_at": "2026-04-20T11:10:56.601Z",
-    "raw": "Br. Vlaka 44998 odlazak      20.04.26. 13:10, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "81951",
-    "event_time": "2026-04-20T13:10:00",
-    "seen_at": "2026-04-20T11:12:27.513Z",
-    "raw": "Br. Vlaka 81951 odlazak      20.04.26. 13:10, kolodvor VINKOVCI"
-  },
-  {
     "uic": "997894245619",
     "type": "Rasformiran",
     "station": "PERUŠIĆ",
@@ -15811,5 +15739,50 @@
     "event_time": "2026-04-23T13:01:00",
     "seen_at": "2026-04-23T11:03:26.151Z",
     "raw": "Br. Vlaka 81952 odlazak      23.04.26. 13:01, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82331",
+    "event_time": "2026-04-23T13:05:00",
+    "seen_at": "2026-04-23T11:05:58.948Z",
+    "raw": "Br. Vlaka 82331 odlazak      23.04.26. 13:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "PAĐENE",
+    "train_number": null,
+    "event_time": "2026-04-20T13:05:00",
+    "seen_at": "2026-04-23T11:08:17.893Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76208 PAĐENE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "82509",
+    "event_time": "2026-04-23T13:08:00",
+    "seen_at": "2026-04-23T11:09:26.716Z",
+    "raw": "Br. Vlaka 82509 dolazak      23.04.26. 13:08, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-23T13:08:00",
+    "seen_at": "2026-04-23T11:09:49.595Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81115",
+    "event_time": "2026-04-23T13:10:00",
+    "seen_at": "2026-04-23T11:12:29.753Z",
+    "raw": "Br. Vlaka 81115 odlazak      23.04.26. 13:10, kolodvor VINKOVCI"
   }
 ]
