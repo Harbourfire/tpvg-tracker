@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "69612",
-    "event_time": "2026-04-20T05:29:00",
-    "seen_at": "2026-04-20T03:30:13.763Z",
-    "raw": "Br. Vlaka 69612 formiran     20.04.26. 05:29, kolodvor 72303"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -16162,5 +16153,41 @@
     "event_time": "2026-04-23T05:04:00",
     "seen_at": "2026-04-23T03:10:54.065Z",
     "raw": "Br. Vlaka 82502 dolazak      23.04.26. 05:04, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48795",
+    "event_time": "2026-04-23T05:25:00",
+    "seen_at": "2026-04-23T03:31:31.315Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 05:25, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48795",
+    "event_time": "2026-04-23T05:25:00",
+    "seen_at": "2026-04-23T03:31:31.316Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 05:25, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82502",
+    "event_time": "2026-04-23T05:25:00",
+    "seen_at": "2026-04-23T03:31:31.316Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 05:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82502",
+    "event_time": "2026-04-23T05:25:00",
+    "seen_at": "2026-04-23T03:31:31.316Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 05:25, kolodvor PLAŠKI"
   }
 ]
