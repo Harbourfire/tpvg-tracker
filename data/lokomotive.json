@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-20T13:23:00",
-    "seen_at": "2026-04-20T11:25:04.150Z",
-    "raw": "Br. Vlaka 45104 odlazak      20.04.26. 13:23, kolodvor SPAČVA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82321",
-    "event_time": "2026-04-20T13:25:00",
-    "seen_at": "2026-04-20T11:26:11.819Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 13:25, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82321",
-    "event_time": "2026-04-20T13:25:00",
-    "seen_at": "2026-04-20T11:26:11.819Z",
-    "raw": "Br. Vlaka 82321 odlazak      20.04.26. 13:25, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89755",
-    "event_time": "2026-04-20T13:29:00",
-    "seen_at": "2026-04-20T11:30:22.000Z",
-    "raw": "Br. Vlaka 89755 formiran     20.04.26. 13:29, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2026-04-17T13:30:00",
-    "seen_at": "2026-04-20T11:31:43.846Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VUKOVAR-BOROVO NAS.",
@@ -15793,5 +15748,14 @@
     "event_time": "2026-04-23T13:10:00",
     "seen_at": "2026-04-23T11:18:38.192Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81115",
+    "event_time": "2026-04-23T13:27:00",
+    "seen_at": "2026-04-23T11:27:22.859Z",
+    "raw": "Br. Vlaka 81115 odlazak      23.04.26. 13:27, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
