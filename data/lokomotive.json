@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ERDUT",
-    "train_number": "81953",
-    "event_time": "2026-04-20T14:37:00",
-    "seen_at": "2026-04-20T12:58:49.704Z",
-    "raw": "Br. Vlaka 81953 formiran     20.04.26. 14:37, kolodvor ERDUT"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76501",
-    "event_time": "2026-04-20T14:58:00",
-    "seen_at": "2026-04-20T12:59:14.102Z",
-    "raw": "Br. Vlaka 76501 odlazak      20.04.26. 14:58, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "TOVARNIK",
-    "train_number": "89408",
-    "event_time": "2026-04-20T14:56:00",
-    "seen_at": "2026-04-20T12:59:36.863Z",
-    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 14:56, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44789",
-    "event_time": "2026-04-20T15:06:00",
-    "seen_at": "2026-04-20T13:06:14.279Z",
-    "raw": "Br. Vlaka 44789 formiran     20.04.26. 15:06, kolodvor KOTORIBA-GR"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ĐELETOVCI",
@@ -15568,5 +15532,32 @@
     "event_time": "2026-04-23T14:54:00",
     "seen_at": "2026-04-23T12:56:01.747Z",
     "raw": "Br. Vlaka 69861 dolazak      23.04.26. 14:54, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "CABUNA",
+    "train_number": "81952",
+    "event_time": "2026-04-23T14:59:00",
+    "seen_at": "2026-04-23T13:00:50.927Z",
+    "raw": "Br. Vlaka 81952 odlazak      23.04.26. 14:59, kolodvor CABUNA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69861",
+    "event_time": "2026-04-23T15:05:00",
+    "seen_at": "2026-04-23T13:05:37.887Z",
+    "raw": "Br. Vlaka 69861 odlazak      23.04.26. 15:05, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89729",
+    "event_time": "2026-04-23T15:06:00",
+    "seen_at": "2026-04-23T13:06:24.258Z",
+    "raw": "Br. Vlaka 89729 odlazak      23.04.26. 15:06, kolodvor NOVA GRADIŠKA"
   }
 ]
