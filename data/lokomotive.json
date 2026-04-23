@@ -1,68 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "89021",
-    "event_time": "2026-04-20T07:37:00",
-    "seen_at": "2026-04-20T05:39:59.470Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 07:37, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-20T07:35:00",
-    "seen_at": "2026-04-20T05:40:22.101Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 07:35, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "43995",
-    "event_time": "2026-04-20T07:35:00",
-    "seen_at": "2026-04-20T05:40:22.102Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 07:35, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45105",
-    "event_time": "2026-04-20T07:41:00",
-    "seen_at": "2026-04-20T05:42:50.716Z",
-    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 07:41, kolodvor SPAČVA"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Dolazak",
-    "station": "KUKAČA",
-    "train_number": "89021",
-    "event_time": "2026-04-20T07:45:00",
-    "seen_at": "2026-04-20T05:47:05.301Z",
-    "raw": "Br. Vlaka 89021 dolazak      20.04.26. 07:45, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "43995",
-    "event_time": "2026-04-20T07:44:00",
-    "seen_at": "2026-04-20T05:47:51.851Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 07:44, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "43995",
-    "event_time": "2026-04-20T07:44:00",
-    "seen_at": "2026-04-20T05:47:51.851Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 07:44, kolodvor TURČIN"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "STARO PETROVO SELO",
@@ -16378,5 +16315,68 @@
     "event_time": "2026-04-23T07:35:00",
     "seen_at": "2026-04-23T05:35:39.099Z",
     "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71202",
+    "event_time": "2026-04-23T07:40:00",
+    "seen_at": "2026-04-23T05:41:00.871Z",
+    "raw": "Br. Vlaka 71202 dolazak      23.04.26. 07:40, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71202",
+    "event_time": "2026-04-23T07:40:00",
+    "seen_at": "2026-04-23T05:41:00.873Z",
+    "raw": "Br. Vlaka 71202 dolazak      23.04.26. 07:40, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-23T07:40:00",
+    "seen_at": "2026-04-23T05:41:46.582Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-23T07:40:00",
+    "seen_at": "2026-04-23T05:41:46.583Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "81950",
+    "event_time": "2026-04-23T07:30:00",
+    "seen_at": "2026-04-23T05:43:42.465Z",
+    "raw": "Br. Vlaka 81950 odlazak      23.04.26. 07:30, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-23T07:46:00",
+    "seen_at": "2026-04-23T05:47:13.045Z",
+    "raw": "Br. Vlaka 69005 odlazak      23.04.26. 07:46, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-23T07:46:00",
+    "seen_at": "2026-04-23T05:47:13.045Z",
+    "raw": "Br. Vlaka 69005 odlazak      23.04.26. 07:46, kolodvor OGULIN"
   }
 ]
