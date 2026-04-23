@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82333",
-    "event_time": "2026-04-20T12:27:00",
-    "seen_at": "2026-04-20T13:32:03.204Z",
-    "raw": "Br. Vlaka 82333 promjena sas 20.04.26. 12:27, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82146",
-    "event_time": "2026-04-20T15:30:00",
-    "seen_at": "2026-04-20T13:32:03.206Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:30, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82146",
-    "event_time": "2026-04-20T15:30:00",
-    "seen_at": "2026-04-20T13:32:03.206Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:30, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "44789",
-    "event_time": "2026-04-20T15:26:00",
-    "seen_at": "2026-04-20T13:33:13.077Z",
-    "raw": "Br. Vlaka 44789 odlazak      20.04.26. 15:26, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "89408",
-    "event_time": "2026-04-20T15:32:00",
-    "seen_at": "2026-04-20T13:33:36.749Z",
-    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:32, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44789",
-    "event_time": "2026-04-20T15:31:00",
-    "seen_at": "2026-04-20T13:33:36.749Z",
-    "raw": "Br. Vlaka 44789 odlazak      20.04.26. 15:31, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "BELI MANASTIR",
@@ -15577,5 +15523,23 @@
     "event_time": "2026-04-23T15:25:00",
     "seen_at": "2026-04-23T13:27:45.378Z",
     "raw": "Br. Vlaka 81952 odlazak      23.04.26. 15:25, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-04-23T12:25:00",
+    "seen_at": "2026-04-23T13:28:45.223Z",
+    "raw": "Br. Vlaka 69177 formiran     23.04.26. 12:25, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89729",
+    "event_time": "2026-04-23T15:31:00",
+    "seen_at": "2026-04-23T13:31:30.784Z",
+    "raw": "Br. Vlaka 89729 dolazak      23.04.26. 15:31, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
