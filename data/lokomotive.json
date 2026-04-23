@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82333",
-    "event_time": "2026-04-20T12:27:00",
-    "seen_at": "2026-04-20T10:27:54.164Z",
-    "raw": "Br. Vlaka 82333 dolazak      20.04.26. 12:27, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "997894215711",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "75011",
-    "event_time": "2026-04-20T12:29:00",
-    "seen_at": "2026-04-20T10:30:15.597Z",
-    "raw": "Br. Vlaka 75011 odlazak      20.04.26. 12:29, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "89021",
-    "event_time": "2026-04-20T12:30:00",
-    "seen_at": "2026-04-20T10:31:25.451Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 12:30, kolodvor MALOVAN"
-  },
-  {
     "uic": "997894215711",
     "type": "Rasformiran",
     "station": "ZAGREB GL. KOL.",
@@ -15838,5 +15811,23 @@
     "event_time": "2026-04-23T12:24:00",
     "seen_at": "2026-04-23T10:25:56.340Z",
     "raw": "Br. Vlaka 74001 odlazak      23.04.26. 12:24, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-23T12:21:00",
+    "seen_at": "2026-04-23T10:26:33.179Z",
+    "raw": "Br. Vlaka 48789 dolazak      23.04.26. 12:21, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "81952",
+    "event_time": "2026-04-23T12:19:00",
+    "seen_at": "2026-04-23T10:29:42.232Z",
+    "raw": "Br. Vlaka 81952 odlazak      23.04.26. 12:19, kolodvor NAŠICE"
   }
 ]
