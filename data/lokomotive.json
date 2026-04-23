@@ -1,59 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "89021",
-    "event_time": "2026-04-20T07:58:00",
-    "seen_at": "2026-04-20T05:59:12.797Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 07:58, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "69326",
-    "event_time": "2026-04-20T08:01:00",
-    "seen_at": "2026-04-20T06:01:25.926Z",
-    "raw": "Br. Vlaka 69326 dolazak      20.04.26. 08:01, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "NOVA GRADIŠKA",
-    "train_number": null,
-    "event_time": "2026-04-20T08:01:00",
-    "seen_at": "2026-04-20T06:01:49.499Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72604 NOVA GRADIŠKA"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-14T08:00:00",
-    "seen_at": "2026-04-20T06:02:12.360Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76503",
-    "event_time": "2026-04-20T08:03:00",
-    "seen_at": "2026-04-20T06:04:06.483Z",
-    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 08:03, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89021",
-    "event_time": "2026-04-20T08:03:00",
-    "seen_at": "2026-04-20T06:05:13.936Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 08:03, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16378,5 +16324,23 @@
     "event_time": "2026-04-23T07:51:00",
     "seen_at": "2026-04-23T05:53:58.342Z",
     "raw": "Br. Vlaka 89727 formiran     23.04.26. 07:51, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "83821",
+    "event_time": "2026-04-23T07:57:00",
+    "seen_at": "2026-04-23T05:58:20.445Z",
+    "raw": "Br. Vlaka 83821 dolazak      23.04.26. 07:57, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "82507",
+    "event_time": "2026-04-23T06:50:00",
+    "seen_at": "2026-04-23T06:04:10.033Z",
+    "raw": "Br. Vlaka 82507 formiran     23.04.26. 06:50, kolodvor OŠTARIJE"
   }
 ]
