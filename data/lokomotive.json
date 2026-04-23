@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "69326",
-    "event_time": "2026-04-20T07:47:00",
-    "seen_at": "2026-04-20T05:48:14.999Z",
-    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 07:47, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "76503",
-    "event_time": "2026-04-20T07:47:00",
-    "seen_at": "2026-04-20T05:48:38.271Z",
-    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 07:47, kolodvor GARČIN"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "89021",
-    "event_time": "2026-04-20T07:53:00",
-    "seen_at": "2026-04-20T05:53:50.578Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 07:53, kolodvor KUKAČA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76503",
-    "event_time": "2026-04-20T07:55:00",
-    "seen_at": "2026-04-20T05:55:46.537Z",
-    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 07:55, kolodvor ANDRIJEVCI"
-  },
-  {
     "uic": "997894215638",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -16378,5 +16342,41 @@
     "event_time": "2026-04-23T07:46:00",
     "seen_at": "2026-04-23T05:47:13.045Z",
     "raw": "Br. Vlaka 69005 odlazak      23.04.26. 07:46, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "44880",
+    "event_time": "2026-04-23T07:45:00",
+    "seen_at": "2026-04-23T05:48:56.701Z",
+    "raw": "Br. Vlaka 44880 odlazak      23.04.26. 07:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-23T07:52:00",
+    "seen_at": "2026-04-23T05:53:35.583Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-23T07:52:00",
+    "seen_at": "2026-04-23T05:53:35.583Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "ZABOK",
+    "train_number": "89727",
+    "event_time": "2026-04-23T07:51:00",
+    "seen_at": "2026-04-23T05:53:58.342Z",
+    "raw": "Br. Vlaka 89727 formiran     23.04.26. 07:51, kolodvor ZABOK"
   }
 ]
