@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-20T19:17:00",
-    "seen_at": "2026-04-20T17:17:18.881Z",
-    "raw": "Br. Vlaka 69005 odlazak      20.04.26. 19:17, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-20T19:17:00",
-    "seen_at": "2026-04-20T17:17:18.882Z",
-    "raw": "Br. Vlaka 69005 odlazak      20.04.26. 19:17, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "49999",
-    "event_time": "2026-04-20T19:12:00",
-    "seen_at": "2026-04-20T17:22:15.797Z",
-    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 19:12, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "49999",
-    "event_time": "2026-04-20T19:16:00",
-    "seen_at": "2026-04-20T17:22:39.777Z",
-    "raw": "Br. Vlaka 49999 dolazak      20.04.26. 19:16, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49999",
-    "event_time": "2026-04-20T19:17:00",
-    "seen_at": "2026-04-20T17:23:03.115Z",
-    "raw": "Br. Vlaka 49999 odlazak      20.04.26. 19:17, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230100",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "69005",
@@ -15298,5 +15253,14 @@
     "event_time": "2026-04-23T11:44:00",
     "seen_at": "2026-04-23T17:08:58.304Z",
     "raw": "Br. Vlaka 44996 promjena sas 23.04.26. 11:44, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "89748",
+    "event_time": "2026-04-23T19:19:00",
+    "seen_at": "2026-04-23T17:21:41.701Z",
+    "raw": "Br. Vlaka 89748 odlazak      23.04.26. 19:19, kolodvor LEPAVINA"
   }
 ]
