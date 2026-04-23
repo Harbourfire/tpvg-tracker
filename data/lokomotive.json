@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89175",
-    "event_time": "2026-04-20T06:35:00",
-    "seen_at": "2026-04-20T04:36:53.648Z",
-    "raw": "Br. Vlaka 89175 odlazak      20.04.26. 06:35, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -16243,5 +16234,59 @@
     "event_time": "2026-04-23T06:13:00",
     "seen_at": "2026-04-23T04:19:53.053Z",
     "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:13, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:22:00",
+    "seen_at": "2026-04-23T04:32:15.235Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:22, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:22:00",
+    "seen_at": "2026-04-23T04:32:15.236Z",
+    "raw": "Br. Vlaka 48795 odlazak      23.04.26. 06:22, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:32:00",
+    "seen_at": "2026-04-23T04:33:02.099Z",
+    "raw": "Br. Vlaka 48795 dolazak      23.04.26. 06:32, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "48795",
+    "event_time": "2026-04-23T06:32:00",
+    "seen_at": "2026-04-23T04:33:02.100Z",
+    "raw": "Br. Vlaka 48795 dolazak      23.04.26. 06:32, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76552",
+    "event_time": "2026-04-23T06:35:00",
+    "seen_at": "2026-04-23T04:36:53.310Z",
+    "raw": "Br. Vlaka 76552 formiran     23.04.26. 06:35, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76552",
+    "event_time": "2026-04-23T06:38:00",
+    "seen_at": "2026-04-23T04:38:49.538Z",
+    "raw": "Br. Vlaka 76552 odlazak      23.04.26. 06:38, kolodvor SLAVONSKI BROD"
   }
 ]
