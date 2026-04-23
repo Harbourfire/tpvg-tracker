@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-20T18:22:00",
-    "seen_at": "2026-04-20T16:22:53.937Z",
-    "raw": "Br. Vlaka 69006 odlazak      20.04.26. 18:22, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "NAŠICE",
-    "train_number": "89408",
-    "event_time": "2026-04-20T18:24:00",
-    "seen_at": "2026-04-20T16:26:10.428Z",
-    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 18:24, kolodvor NAŠICE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82131",
-    "event_time": "2026-04-20T18:30:00",
-    "seen_at": "2026-04-20T16:31:51.865Z",
-    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 18:30, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82131",
-    "event_time": "2026-04-20T18:30:00",
-    "seen_at": "2026-04-20T16:31:51.866Z",
-    "raw": "Br. Vlaka 82131 odlazak      20.04.26. 18:30, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "OGULIN",
-    "train_number": "69006",
-    "event_time": "2026-04-20T18:28:00",
-    "seen_at": "2026-04-20T16:31:51.866Z",
-    "raw": "Br. Vlaka 69006 dolazak      20.04.26. 18:28, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-20T18:28:00",
-    "seen_at": "2026-04-20T16:32:14.286Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "NAŠICE",
@@ -15298,5 +15244,68 @@
     "event_time": "2026-04-23T18:11:00",
     "seen_at": "2026-04-23T16:14:03.481Z",
     "raw": "Br. Vlaka 81952 odlazak      23.04.26. 18:11, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:22:00",
+    "seen_at": "2026-04-23T16:26:07.530Z",
+    "raw": "Br. Vlaka 48789 dolazak      23.04.26. 18:22, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:22:00",
+    "seen_at": "2026-04-23T16:26:07.530Z",
+    "raw": "Br. Vlaka 48789 dolazak      23.04.26. 18:22, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "89748",
+    "event_time": "2026-04-23T18:18:00",
+    "seen_at": "2026-04-23T16:26:07.531Z",
+    "raw": "Br. Vlaka 89748 dolazak      23.04.26. 18:18, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:22:00",
+    "seen_at": "2026-04-23T16:28:03.444Z",
+    "raw": "Br. Vlaka 48789 promjena sas 23.04.26. 18:22, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:22:00",
+    "seen_at": "2026-04-23T16:28:03.444Z",
+    "raw": "Br. Vlaka 48789 promjena sas 23.04.26. 18:22, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:33:00",
+    "seen_at": "2026-04-23T16:34:36.739Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 18:33, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "48789",
+    "event_time": "2026-04-23T18:33:00",
+    "seen_at": "2026-04-23T16:34:36.740Z",
+    "raw": "Br. Vlaka 48789 odlazak      23.04.26. 18:33, kolodvor KONJŠČINA"
   }
 ]
