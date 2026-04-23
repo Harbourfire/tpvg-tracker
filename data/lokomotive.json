@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-20T07:10:00",
-    "seen_at": "2026-04-20T05:11:27.614Z",
-    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 07:10, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69326",
-    "event_time": "2026-04-20T07:11:00",
-    "seen_at": "2026-04-20T05:11:50.514Z",
-    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 07:11, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "89175",
-    "event_time": "2026-04-20T07:05:00",
-    "seen_at": "2026-04-20T05:14:20.171Z",
-    "raw": "Br. Vlaka 89175 dolazak      20.04.26. 07:05, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-20T07:05:00",
-    "seen_at": "2026-04-20T05:14:42.924Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "ORIOVAC",
@@ -16333,5 +16297,50 @@
     "event_time": "2026-04-23T06:59:00",
     "seen_at": "2026-04-23T05:00:45.797Z",
     "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76552",
+    "event_time": "2026-04-23T07:01:00",
+    "seen_at": "2026-04-23T05:11:03.305Z",
+    "raw": "Br. Vlaka 76552 odlazak      23.04.26. 07:01, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-23T07:12:00",
+    "seen_at": "2026-04-23T05:13:21.254Z",
+    "raw": "Br. Vlaka 71202 odlazak      23.04.26. 07:12, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-23T07:12:00",
+    "seen_at": "2026-04-23T05:13:21.255Z",
+    "raw": "Br. Vlaka 71202 odlazak      23.04.26. 07:12, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48795",
+    "event_time": "2026-04-23T07:15:00",
+    "seen_at": "2026-04-23T05:17:34.431Z",
+    "raw": "Br. Vlaka 48795 dolazak      23.04.26. 07:15, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48795",
+    "event_time": "2026-04-23T07:15:00",
+    "seen_at": "2026-04-23T05:17:34.431Z",
+    "raw": "Br. Vlaka 48795 dolazak      23.04.26. 07:15, kolodvor KRIŽEVCI"
   }
 ]
