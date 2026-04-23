@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "81952",
-    "event_time": "2026-04-20T14:32:00",
-    "seen_at": "2026-04-20T12:53:55.632Z",
-    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 14:32, kolodvor DALJ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "89408",
-    "event_time": "2026-04-20T14:54:00",
-    "seen_at": "2026-04-20T12:55:50.705Z",
-    "raw": "Br. Vlaka 89408 dolazak      20.04.26. 14:54, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ERDUT",
-    "train_number": "81952",
-    "event_time": "2026-04-20T14:43:00",
-    "seen_at": "2026-04-20T12:58:04.183Z",
-    "raw": "Br. Vlaka 81952 dolazak      20.04.26. 14:43, kolodvor ERDUT"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82146",
-    "event_time": "2026-04-20T14:57:00",
-    "seen_at": "2026-04-20T12:58:26.925Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 14:57, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "82146",
-    "event_time": "2026-04-20T14:57:00",
-    "seen_at": "2026-04-20T12:58:26.925Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 14:57, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820622037",
     "type": "Formiran",
     "station": "ERDUT",
     "train_number": "81953",
@@ -15586,5 +15541,32 @@
     "event_time": "2026-04-23T14:47:00",
     "seen_at": "2026-04-23T12:48:29.474Z",
     "raw": "Br. Vlaka 63310 odlazak      23.04.26. 14:47, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "89729",
+    "event_time": "2026-04-23T14:50:00",
+    "seen_at": "2026-04-23T12:50:37.354Z",
+    "raw": "Br. Vlaka 89729 odlazak      23.04.26. 14:50, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VUKOVAR",
+    "train_number": "69861",
+    "event_time": "2026-04-23T14:50:00",
+    "seen_at": "2026-04-23T12:53:18.377Z",
+    "raw": "Br. Vlaka 69861 odlazak      23.04.26. 14:50, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "69861",
+    "event_time": "2026-04-23T14:54:00",
+    "seen_at": "2026-04-23T12:56:01.747Z",
+    "raw": "Br. Vlaka 69861 dolazak      23.04.26. 14:54, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
