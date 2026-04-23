@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-20T04:25:00",
-    "seen_at": "2026-04-20T02:26:32.880Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-20T04:25:00",
-    "seen_at": "2026-04-20T02:26:32.880Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "987891032045",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "71205",
-    "event_time": "2026-04-20T04:27:00",
-    "seen_at": "2026-04-20T02:27:41.827Z",
-    "raw": "Br. Vlaka 71205 formiran     20.04.26. 04:27, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "82331",
-    "event_time": "2026-04-20T01:35:00",
-    "seen_at": "2026-04-20T02:28:04.805Z",
-    "raw": "Br. Vlaka 82331 formiran     20.04.26. 01:35, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76503",
-    "event_time": "2026-04-20T04:28:00",
-    "seen_at": "2026-04-20T02:29:15.447Z",
-    "raw": "Br. Vlaka 76503 formiran     20.04.26. 04:28, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -16144,5 +16099,41 @@
     "event_time": "2026-04-23T04:11:00",
     "seen_at": "2026-04-23T02:17:49.343Z",
     "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82502",
+    "event_time": "2026-04-23T04:25:00",
+    "seen_at": "2026-04-23T02:25:56.042Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 04:25, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82502",
+    "event_time": "2026-04-23T04:25:00",
+    "seen_at": "2026-04-23T02:25:56.042Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 04:25, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48795",
+    "event_time": "2026-04-22T09:37:00",
+    "seen_at": "2026-04-23T02:32:43.820Z",
+    "raw": "Br. Vlaka 48795 formiran     22.04.26. 09:37, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48795",
+    "event_time": "2026-04-22T09:37:00",
+    "seen_at": "2026-04-23T02:33:11.572Z",
+    "raw": "Br. Vlaka 48795 formiran     22.04.26. 09:37, kolodvor KOPRIVNICA GR    A"
   }
 ]
