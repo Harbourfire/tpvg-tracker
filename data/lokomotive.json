@@ -2,24 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-04-20T03:18:00",
-    "seen_at": "2026-04-20T01:20:27.727Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 03:18, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-04-20T03:18:00",
-    "seen_at": "2026-04-20T01:20:27.727Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 03:18, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "63306",
     "event_time": "2026-04-20T03:26:00",
@@ -16027,5 +16009,32 @@
     "event_time": "2026-04-23T03:10:00",
     "seen_at": "2026-04-23T01:16:01.598Z",
     "raw": "Br. Vlaka 44995 dolazak      23.04.26. 03:10, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T03:24:00",
+    "seen_at": "2026-04-23T01:25:28.868Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "82502",
+    "event_time": "2026-04-23T03:24:00",
+    "seen_at": "2026-04-23T01:25:28.869Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 03:24, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "82502",
+    "event_time": "2026-04-23T03:24:00",
+    "seen_at": "2026-04-23T01:25:28.869Z",
+    "raw": "Br. Vlaka 82502 odlazak      23.04.26. 03:24, kolodvor GOSPIĆ"
   }
 ]
