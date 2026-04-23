@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "46897",
-    "event_time": "2026-04-20T15:20:00",
-    "seen_at": "2026-04-20T13:38:57.476Z",
-    "raw": "Br. Vlaka 46897 promjena sas 20.04.26. 15:20, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89408",
-    "event_time": "2026-04-20T15:39:00",
-    "seen_at": "2026-04-20T13:39:20.911Z",
-    "raw": "Br. Vlaka 89408 odlazak      20.04.26. 15:39, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "DALJ",
-    "train_number": "81953",
-    "event_time": "2026-04-20T15:34:00",
-    "seen_at": "2026-04-20T13:40:30.632Z",
-    "raw": "Br. Vlaka 81953 odlazak      20.04.26. 15:34, kolodvor DALJ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-20T05:00:00",
-    "seen_at": "2026-04-20T13:43:38.910Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82146",
-    "event_time": "2026-04-20T15:45:00",
-    "seen_at": "2026-04-20T13:45:46.821Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:45, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82146",
-    "event_time": "2026-04-20T15:45:00",
-    "seen_at": "2026-04-20T13:45:46.821Z",
-    "raw": "Br. Vlaka 82146 odlazak      20.04.26. 15:45, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -15541,5 +15487,32 @@
     "event_time": "2026-04-23T15:31:00",
     "seen_at": "2026-04-23T13:31:30.784Z",
     "raw": "Br. Vlaka 89729 dolazak      23.04.26. 15:31, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-04-23T15:38:00",
+    "seen_at": "2026-04-23T13:38:28.141Z",
+    "raw": "Br. Vlaka 69177 odlazak      23.04.26. 15:38, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89756",
+    "event_time": "2026-04-23T15:38:00",
+    "seen_at": "2026-04-23T13:40:03.534Z",
+    "raw": "Br. Vlaka 89756 odlazak      23.04.26. 15:38, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ŠPIŠIĆ BUKOVICA",
+    "train_number": "81952",
+    "event_time": "2026-04-23T15:41:00",
+    "seen_at": "2026-04-23T13:43:14.747Z",
+    "raw": "Br. Vlaka 81952 odlazak      23.04.26. 15:41, kolodvor ŠPIŠIĆ BUKOVICA"
   }
 ]
