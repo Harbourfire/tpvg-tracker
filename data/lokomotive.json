@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "VUKOVAR",
-    "train_number": null,
-    "event_time": "2026-04-20T13:40:00",
-    "seen_at": "2026-04-20T11:43:47.650Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "VUKOVAR",
-    "train_number": "81952",
-    "event_time": "2026-04-20T13:45:00",
-    "seen_at": "2026-04-20T11:45:40.827Z",
-    "raw": "Br. Vlaka 81952 formiran     20.04.26. 13:45, kolodvor VUKOVAR"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-20T13:49:00",
-    "seen_at": "2026-04-20T11:49:27.779Z",
-    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 13:49, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44998",
-    "event_time": "2026-04-20T13:49:00",
-    "seen_at": "2026-04-20T11:49:27.780Z",
-    "raw": "Br. Vlaka 44998 dolazak      20.04.26. 13:49, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VUKOVAR",
-    "train_number": "81952",
-    "event_time": "2026-04-20T13:47:00",
-    "seen_at": "2026-04-20T11:50:28.481Z",
-    "raw": "Br. Vlaka 81952 odlazak      20.04.26. 13:47, kolodvor VUKOVAR"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -15703,5 +15658,14 @@
     "event_time": "2026-04-23T13:41:00",
     "seen_at": "2026-04-23T11:41:21.552Z",
     "raw": "Br. Vlaka 82504 odlazak      23.04.26. 13:41, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SLATINA",
+    "train_number": "81952",
+    "event_time": "2026-04-23T13:43:00",
+    "seen_at": "2026-04-23T11:45:55.438Z",
+    "raw": "Br. Vlaka 81952 dolazak      23.04.26. 13:43, kolodvor SLATINA"
   }
 ]
