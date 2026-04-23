@@ -1,77 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "76502",
-    "event_time": "2026-04-20T09:25:00",
-    "seen_at": "2026-04-20T07:26:12.707Z",
-    "raw": "Br. Vlaka 76502 odlazak      20.04.26. 09:25, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "89021",
-    "event_time": "2026-04-20T09:24:00",
-    "seen_at": "2026-04-20T07:27:44.420Z",
-    "raw": "Br. Vlaka 89021 odlazak      20.04.26. 09:24, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "TOVARNIK",
-    "train_number": "40893",
-    "event_time": "2026-04-20T09:29:00",
-    "seen_at": "2026-04-20T07:29:39.450Z",
-    "raw": "Br. Vlaka 40893 dolazak      20.04.26. 09:29, kolodvor TOVARNIK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:27:00",
-    "seen_at": "2026-04-20T07:30:02.676Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:27, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:27:00",
-    "seen_at": "2026-04-20T07:30:02.676Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:27, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:31:00",
-    "seen_at": "2026-04-20T07:31:35.719Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:31, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "43995",
-    "event_time": "2026-04-20T09:31:00",
-    "seen_at": "2026-04-20T07:31:35.720Z",
-    "raw": "Br. Vlaka 43995 odlazak      20.04.26. 09:31, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "ERDUT",
-    "train_number": "49827",
-    "event_time": "2026-04-20T08:34:00",
-    "seen_at": "2026-04-20T07:31:59.848Z",
-    "raw": "Br. Vlaka 49827 promjena sas 20.04.26. 08:34, kolodvor ERDUT"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "VINKOVCI",
@@ -16216,5 +16144,95 @@
     "event_time": "2026-04-23T09:20:00",
     "seen_at": "2026-04-23T07:22:01.026Z",
     "raw": "Br. Vlaka 69770 dolazak      23.04.26. 09:20, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-23T09:20:00",
+    "seen_at": "2026-04-23T07:25:21.039Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "BELIŠĆE",
+    "train_number": "81951",
+    "event_time": "2026-04-23T06:36:00",
+    "seen_at": "2026-04-23T07:25:21.039Z",
+    "raw": "Br. Vlaka 81951 formiran     23.04.26. 06:36, kolodvor BELIŠĆE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89727",
+    "event_time": "2026-04-23T09:25:00",
+    "seen_at": "2026-04-23T07:26:07.832Z",
+    "raw": "Br. Vlaka 89727 odlazak      23.04.26. 09:25, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "ERDUT",
+    "train_number": "49826",
+    "event_time": "2026-04-23T09:28:00",
+    "seen_at": "2026-04-23T07:29:20.677Z",
+    "raw": "Br. Vlaka 49826 dolazak      23.04.26. 09:28, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89727",
+    "event_time": "2026-04-23T09:29:00",
+    "seen_at": "2026-04-23T07:29:20.678Z",
+    "raw": "Br. Vlaka 89727 odlazak      23.04.26. 09:29, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BELIŠĆE",
+    "train_number": "81951",
+    "event_time": "2026-04-23T08:20:00",
+    "seen_at": "2026-04-23T07:31:16.655Z",
+    "raw": "Br. Vlaka 81951 odlazak      23.04.26. 08:20, kolodvor BELIŠĆE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "81951",
+    "event_time": "2026-04-23T08:57:00",
+    "seen_at": "2026-04-23T07:31:39.832Z",
+    "raw": "Br. Vlaka 81951 dolazak      23.04.26. 08:57, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "81951",
+    "event_time": "2026-04-23T09:18:00",
+    "seen_at": "2026-04-23T07:32:03.308Z",
+    "raw": "Br. Vlaka 81951 odlazak      23.04.26. 09:18, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "ERDUT",
+    "train_number": null,
+    "event_time": "2026-04-23T06:08:00",
+    "seen_at": "2026-04-23T07:32:03.308Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89727",
+    "event_time": "2026-04-23T09:33:00",
+    "seen_at": "2026-04-23T07:33:15.430Z",
+    "raw": "Br. Vlaka 89727 odlazak      23.04.26. 09:33, kolodvor PODSUSED tvornica"
   }
 ]
