@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "40893",
-    "event_time": "2026-04-20T06:06:00",
-    "seen_at": "2026-04-20T04:06:25.476Z",
-    "raw": "Br. Vlaka 40893 odlazak      20.04.26. 06:06, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-20T06:06:00",
-    "seen_at": "2026-04-20T04:06:48.452Z",
-    "raw": "Br. Vlaka 66853 formiran     20.04.26. 06:06, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -16243,5 +16225,23 @@
     "event_time": "2026-04-23T03:37:00",
     "seen_at": "2026-04-23T04:02:06.918Z",
     "raw": "Br. Vlaka 69006 formiran     23.04.26. 03:37, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-22T08:00:00",
+    "seen_at": "2026-04-23T04:09:19.272Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69770",
+    "event_time": "2026-04-23T06:10:00",
+    "seen_at": "2026-04-23T04:12:00.774Z",
+    "raw": "Br. Vlaka 69770 formiran     23.04.26. 06:10, kolodvor OSIJEK"
   }
 ]
