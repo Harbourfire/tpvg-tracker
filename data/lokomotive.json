@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-20T07:28:00",
-    "seen_at": "2026-04-20T05:29:03.217Z",
-    "raw": "Br. Vlaka 45105 odlazak      20.04.26. 07:28, kolodvor OTOK"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76503",
-    "event_time": "2026-04-20T07:34:00",
-    "seen_at": "2026-04-20T05:35:47.438Z",
-    "raw": "Br. Vlaka 76503 odlazak      20.04.26. 07:34, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69326",
-    "event_time": "2026-04-20T07:35:00",
-    "seen_at": "2026-04-20T05:36:10.791Z",
-    "raw": "Br. Vlaka 69326 odlazak      20.04.26. 07:35, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "997894215638",
     "type": "Odlazak",
     "station": "GORNJE DUBRAVE",
@@ -16360,5 +16333,50 @@
     "event_time": "2026-04-23T07:27:00",
     "seen_at": "2026-04-23T05:27:55.678Z",
     "raw": "Br. Vlaka 83821 odlazak      23.04.26. 07:27, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "49826",
+    "event_time": "2026-04-23T07:29:00",
+    "seen_at": "2026-04-23T05:30:04.347Z",
+    "raw": "Br. Vlaka 49826 formiran     23.04.26. 07:29, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-23T07:30:00",
+    "seen_at": "2026-04-23T05:32:06.761Z",
+    "raw": "Br. Vlaka 71202 odlazak      23.04.26. 07:30, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-23T07:30:00",
+    "seen_at": "2026-04-23T05:32:06.762Z",
+    "raw": "Br. Vlaka 71202 odlazak      23.04.26. 07:30, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Dolazak",
+    "station": "GARČIN",
+    "train_number": "71205",
+    "event_time": "2026-04-23T07:35:00",
+    "seen_at": "2026-04-23T05:35:15.255Z",
+    "raw": "Br. Vlaka 71205 dolazak      23.04.26. 07:35, kolodvor GARČIN"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "GARČIN",
+    "train_number": null,
+    "event_time": "2026-04-23T07:35:00",
+    "seen_at": "2026-04-23T05:35:39.099Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
   }
 ]
