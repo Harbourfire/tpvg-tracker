@@ -2,24 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-20T02:47:00",
-    "seen_at": "2026-04-20T00:48:31.914Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 02:47, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-20T02:47:00",
-    "seen_at": "2026-04-20T00:48:31.914Z",
-    "raw": "Br. Vlaka 63306 odlazak      20.04.26. 02:47, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "63306",
     "event_time": "2026-04-20T03:04:00",
@@ -15946,5 +15928,59 @@
     "event_time": "2026-04-23T02:45:00",
     "seen_at": "2026-04-23T00:46:25.668Z",
     "raw": "Br. Vlaka 44995 odlazak      23.04.26. 02:45, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-04-23T02:47:00",
+    "seen_at": "2026-04-23T00:47:54.232Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 02:47, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-04-23T02:47:00",
+    "seen_at": "2026-04-23T00:47:54.232Z",
+    "raw": "Br. Vlaka 89893 dolazak      23.04.26. 02:47, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "83833",
+    "event_time": "2026-04-23T02:45:00",
+    "seen_at": "2026-04-23T00:52:39.029Z",
+    "raw": "Br. Vlaka 83833 odlazak      23.04.26. 02:45, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82502",
+    "event_time": "2026-04-23T02:52:00",
+    "seen_at": "2026-04-23T00:52:39.030Z",
+    "raw": "Br. Vlaka 82502 formiran     23.04.26. 02:52, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82502",
+    "event_time": "2026-04-23T02:52:00",
+    "seen_at": "2026-04-23T00:52:39.030Z",
+    "raw": "Br. Vlaka 82502 formiran     23.04.26. 02:52, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "81950",
+    "event_time": "2026-04-23T02:43:00",
+    "seen_at": "2026-04-23T00:54:36.690Z",
+    "raw": "Br. Vlaka 81950 dolazak      23.04.26. 02:43, kolodvor BIZOVAC"
   }
 ]
