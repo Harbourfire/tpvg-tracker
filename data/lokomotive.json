@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82530",
-    "event_time": "2026-04-21T15:56:00",
-    "seen_at": "2026-04-21T13:57:46.164Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:56, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82530",
-    "event_time": "2026-04-21T15:56:00",
-    "seen_at": "2026-04-21T13:57:46.164Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:56, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "81290",
-    "event_time": "2026-04-21T15:59:00",
-    "seen_at": "2026-04-21T14:00:05.438Z",
-    "raw": "Br. Vlaka 81290 formiran     21.04.26. 15:59, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "78002",
-    "event_time": "2026-04-21T16:02:00",
-    "seen_at": "2026-04-21T14:03:28.225Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 16:02, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SUNJA",
-    "train_number": "81111",
-    "event_time": "2026-04-21T16:04:00",
-    "seen_at": "2026-04-21T14:05:45.647Z",
-    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 16:04, kolodvor SUNJA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "ZAPREŠIĆ",
@@ -90457,5 +90412,23 @@
     "event_time": "2026-04-24T15:50:00",
     "seen_at": "2026-04-24T13:51:58.575Z",
     "raw": "Br. Vlaka 48789 odlazak      24.04.26. 15:50, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-24T15:58:00",
+    "seen_at": "2026-04-24T13:58:54.844Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.04.26. 15:58, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "48789",
+    "event_time": "2026-04-24T15:59:00",
+    "seen_at": "2026-04-24T13:59:17.937Z",
+    "raw": "Br. Vlaka 48789 dolazak      24.04.26. 15:59, kolodvor ČAKOVEC"
   }
 ]
