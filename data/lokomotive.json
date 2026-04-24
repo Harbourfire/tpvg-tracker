@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "81954",
-    "event_time": "2026-04-21T08:54:00",
-    "seen_at": "2026-04-21T07:22:31.390Z",
-    "raw": "Br. Vlaka 81954 promjena sas 21.04.26. 08:54, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-21T08:54:00",
-    "seen_at": "2026-04-21T07:22:54.296Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "ČAKOVEC",
@@ -91591,5 +91573,32 @@
     "event_time": "2026-04-24T09:06:00",
     "seen_at": "2026-04-24T07:18:15.238Z",
     "raw": "Trenutna pozicija je u kolodvoru 71208 ERDUT"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-24T09:20:00",
+    "seen_at": "2026-04-24T07:24:20.988Z",
+    "raw": "Br. Vlaka 45105 odlazak      24.04.26. 09:20, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-24T09:20:00",
+    "seen_at": "2026-04-24T07:27:50.350Z",
+    "raw": "Br. Vlaka 49999 odlazak      24.04.26. 09:20, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "49999",
+    "event_time": "2026-04-24T09:20:00",
+    "seen_at": "2026-04-24T07:27:50.351Z",
+    "raw": "Br. Vlaka 49999 odlazak      24.04.26. 09:20, kolodvor KONJŠČINA"
   }
 ]
