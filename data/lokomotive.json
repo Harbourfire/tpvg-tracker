@@ -1,95 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44781",
-    "event_time": "2026-04-21T10:18:00",
-    "seen_at": "2026-04-21T08:56:05.928Z",
-    "raw": "Br. Vlaka 44781 formiran     21.04.26. 10:18, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "928012230050",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-21T15:05:00",
-    "seen_at": "2026-04-21T08:56:29.505Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89724",
-    "event_time": "2026-04-21T10:56:00",
-    "seen_at": "2026-04-21T08:56:52.616Z",
-    "raw": "Br. Vlaka 89724 formiran     21.04.26. 10:56, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44781",
-    "event_time": "2026-04-21T10:18:00",
-    "seen_at": "2026-04-21T08:56:52.616Z",
-    "raw": "Br. Vlaka 44781 formiran     21.04.26. 10:18, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "997894853487",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-15T10:57:00",
-    "seen_at": "2026-04-21T08:58:40.596Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "89133",
-    "event_time": "2026-04-21T10:59:00",
-    "seen_at": "2026-04-21T09:00:13.498Z",
-    "raw": "Br. Vlaka 89133 odlazak      21.04.26. 10:59, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44787",
-    "event_time": "2026-04-21T11:00:00",
-    "seen_at": "2026-04-21T09:01:01.899Z",
-    "raw": "Br. Vlaka 44787 odlazak      21.04.26. 11:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44787",
-    "event_time": "2026-04-21T11:00:00",
-    "seen_at": "2026-04-21T09:01:01.900Z",
-    "raw": "Br. Vlaka 44787 odlazak      21.04.26. 11:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82321",
-    "event_time": "2026-04-21T10:46:00",
-    "seen_at": "2026-04-21T09:02:13.241Z",
-    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 10:46, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82321",
-    "event_time": "2026-04-21T10:46:00",
-    "seen_at": "2026-04-21T09:02:13.241Z",
-    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 10:46, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "987821320346",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -91312,5 +91222,32 @@
     "event_time": "2026-04-24T10:52:00",
     "seen_at": "2026-04-24T08:53:04.348Z",
     "raw": "Br. Vlaka 89033 odlazak      24.04.26. 10:52, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-24T10:59:00",
+    "seen_at": "2026-04-24T08:59:27.153Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89702",
+    "event_time": "2026-04-24T10:59:00",
+    "seen_at": "2026-04-24T09:01:21.729Z",
+    "raw": "Br. Vlaka 89702 odlazak      24.04.26. 10:59, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81991",
+    "event_time": "2026-04-24T11:01:00",
+    "seen_at": "2026-04-24T09:02:53.543Z",
+    "raw": "Br. Vlaka 81991 odlazak      24.04.26. 11:01, kolodvor BLATA"
   }
 ]
