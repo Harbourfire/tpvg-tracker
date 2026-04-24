@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-20T16:03:00",
-    "seen_at": "2026-04-21T00:40:58.818Z",
-    "raw": "Br. Vlaka 44789 promjena sas 20.04.26. 16:03, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44789",
-    "event_time": "2026-04-21T02:38:00",
-    "seen_at": "2026-04-21T00:41:44.173Z",
-    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 02:38, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82156",
-    "event_time": "2026-04-21T02:44:00",
-    "seen_at": "2026-04-21T00:46:54.087Z",
-    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:44, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82156",
-    "event_time": "2026-04-21T02:44:00",
-    "seen_at": "2026-04-21T00:46:54.087Z",
-    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:44, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-21T02:56:00",
-    "seen_at": "2026-04-21T00:57:59.463Z",
-    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 02:56, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82156",
-    "event_time": "2026-04-21T02:56:00",
-    "seen_at": "2026-04-21T00:58:44.947Z",
-    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:56, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82156",
-    "event_time": "2026-04-21T02:56:00",
-    "seen_at": "2026-04-21T00:58:44.947Z",
-    "raw": "Br. Vlaka 82156 odlazak      21.04.26. 02:56, kolodvor BLATA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-21T02:56:00",
-    "seen_at": "2026-04-21T01:00:15.686Z",
-    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 02:56, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "82159",
-    "event_time": "2026-04-21T03:00:00",
-    "seen_at": "2026-04-21T01:00:38.503Z",
-    "raw": "Br. Vlaka 82159 formiran     21.04.26. 03:00, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -43567,5 +43486,4622 @@
     "event_time": "2026-02-10T17:10:00",
     "seen_at": "2026-04-24T00:34:52.078Z",
     "raw": "Trenutna pozicija je u kolodvoru 76260 KNIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-04-03T08:56:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-04-03T08:56:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-04-03T08:56:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-21T18:46:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:36:28.927Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T23:48:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:37:56.164Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.359Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-17T14:20:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T00:39:22.360Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-20T16:23:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:40:49.630Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:42:16.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:42:16.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:42:16.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:42:16.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:42:16.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-03-25T10:12:00",
+    "seen_at": "2026-04-24T00:42:16.689Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:43:42.918Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T00:43:42.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "IVANIĆ GRAD",
+    "train_number": null,
+    "event_time": "2026-04-02T10:15:00",
+    "seen_at": "2026-04-24T00:45:09.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72514 IVANIĆ GRAD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-03-26T14:53:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Formiran",
+    "station": "PLOČE",
+    "train_number": "48102",
+    "event_time": "2026-04-23T20:17:00",
+    "seen_at": "2026-04-24T00:46:28.845Z",
+    "raw": "Br. Vlaka 48102 formiran     23.04.26. 20:17, kolodvor PLOČE"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Formiran",
+    "station": "PLOČE",
+    "train_number": "48102",
+    "event_time": "2026-04-23T20:17:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka 48102 formiran     23.04.26. 20:17, kolodvor PLOČE"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Formiran",
+    "station": "PLOČE",
+    "train_number": "48102",
+    "event_time": "2026-04-23T20:17:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka 48102 formiran     23.04.26. 20:17, kolodvor PLOČE"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Formiran",
+    "station": "PLOČE",
+    "train_number": "48102",
+    "event_time": "2026-04-23T20:17:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka 48102 formiran     23.04.26. 20:17, kolodvor PLOČE"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Formiran",
+    "station": "PLOČE",
+    "train_number": "48102",
+    "event_time": "2026-04-23T20:17:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka 48102 formiran     23.04.26. 20:17, kolodvor PLOČE"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032086",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032094",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032144",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032433",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-03T05:54:00",
+    "seen_at": "2026-04-24T00:46:28.846Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:47:47.830Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:47:47.830Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:47:47.830Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "RIJEKA",
+    "train_number": null,
+    "event_time": "2026-04-23T19:06:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75560 RIJEKA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82330",
+    "event_time": "2026-04-24T02:14:00",
+    "seen_at": "2026-04-24T00:47:47.831Z",
+    "raw": "Br. Vlaka 82330 odlazak      24.04.26. 02:14, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T18:52:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T18:52:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T18:52:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-10T18:52:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:49:15.301Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-04-23T04:04:00",
+    "seen_at": "2026-04-24T00:49:15.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T10:20:00",
+    "seen_at": "2026-04-24T00:50:41.577Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-21T15:05:00",
+    "seen_at": "2026-04-24T00:50:41.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T10:42:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-15T10:42:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.772Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T16:17:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-03-30T08:52:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-23T09:46:00",
+    "seen_at": "2026-04-24T00:52:07.773Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-24T01:32:00",
+    "seen_at": "2026-04-24T00:53:14.297Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-24T01:32:00",
+    "seen_at": "2026-04-24T00:53:14.298Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "89760",
+    "event_time": "2026-04-24T02:17:00",
+    "seen_at": "2026-04-24T00:54:40.638Z",
+    "raw": "Br. Vlaka 89760 formiran     24.04.26. 02:17, kolodvor KNIN"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "89760",
+    "event_time": "2026-04-24T02:17:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Br. Vlaka 89760 formiran     24.04.26. 02:17, kolodvor KNIN"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "KNIN",
+    "train_number": "89760",
+    "event_time": "2026-04-24T02:17:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Br. Vlaka 89760 formiran     24.04.26. 02:17, kolodvor KNIN"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T00:54:40.639Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "49997",
+    "event_time": "2026-04-24T02:50:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Br. Vlaka 49997 odlazak      24.04.26. 02:50, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "49997",
+    "event_time": "2026-04-24T02:50:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Br. Vlaka 49997 odlazak      24.04.26. 02:50, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-23T09:54:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.193Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T00:55:59.194Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T12:17:00",
+    "seen_at": "2026-04-24T00:57:27.269Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T12:17:00",
+    "seen_at": "2026-04-24T00:57:27.269Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T12:17:00",
+    "seen_at": "2026-04-24T00:57:27.269Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T12:17:00",
+    "seen_at": "2026-04-24T00:57:27.269Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2023-02-26T12:17:00",
+    "seen_at": "2026-04-24T00:57:27.269Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.602Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-09-08T23:34:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI ŠAMAC granica",
+    "train_number": null,
+    "event_time": "2026-03-31T18:57:00",
+    "seen_at": "2026-04-24T00:58:53.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 78804 78804"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T07:24:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-23T07:24:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-03-05T16:22:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2025-03-05T16:22:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "48980",
+    "event_time": "2026-04-24T02:34:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Br. Vlaka 48980 formiran     24.04.26. 02:34, kolodvor 73164"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "48980",
+    "event_time": "2026-04-24T02:34:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Br. Vlaka 48980 formiran     24.04.26. 02:34, kolodvor 73164"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "48980",
+    "event_time": "2026-04-24T02:34:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Br. Vlaka 48980 formiran     24.04.26. 02:34, kolodvor 73164"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA",
+    "train_number": null,
+    "event_time": "2025-12-11T09:53:00",
+    "seen_at": "2026-04-24T01:00:19.947Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.866Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-23T01:56:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891114868",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032060",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032086",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032144",
+    "type": "Formiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "3050",
+    "event_time": "2026-04-24T00:27:00",
+    "seen_at": "2026-04-24T01:01:47.867Z",
+    "raw": "Br. Vlaka .3050 formiran     24.04.26. 00:27, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-22T09:17:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2020-12-25T14:04:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T01:02:58.631Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "49999",
+    "event_time": "2026-04-24T02:31:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Br. Vlaka 49999 formiran     24.04.26. 02:31, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T23:06:00",
+    "seen_at": "2026-04-24T01:02:58.632Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "DUGO SELO",
+    "train_number": null,
+    "event_time": "2026-04-02T08:54:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "DUGO SELO",
+    "train_number": null,
+    "event_time": "2026-04-02T08:54:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "DUGO SELO",
+    "train_number": null,
+    "event_time": "2026-04-02T08:54:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "DUGO SELO",
+    "train_number": null,
+    "event_time": "2026-04-02T08:54:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "DUGO SELO",
+    "train_number": null,
+    "event_time": "2026-04-02T08:54:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72517 DUGO SELO"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032078",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-15T16:23:00",
+    "seen_at": "2026-04-24T01:04:24.852Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620262",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620387",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.304Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440067",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-19T04:57:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987893113462",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894853412",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894856753",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997890210013",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215711",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215729",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894215612",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987895155610",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-03-24T06:45:00",
+    "seen_at": "2026-04-24T01:05:30.305Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2021-09-14T15:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987821323035",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2025-11-12T16:42:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987893113470",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894100012",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894853487",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894855706",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891213462",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894853180",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987893119048",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215646",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "997894215687",
+    "type": "Rasformiran",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": null,
+    "event_time": "2026-04-16T07:00:00",
+    "seen_at": "2026-04-24T01:06:56.655Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72480 ZAGREB GL. KOL."
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-31T10:39:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-03-31T10:39:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "987821320346",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230050",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820623019",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820623027",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T15:15:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997896853188",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "997894853461",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891113472",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891113167",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987891003319",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-02-27T12:25:00",
+    "seen_at": "2026-04-24T01:08:22.837Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-23T12:03:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987891113068",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891114868",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032045",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032086",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-21T03:26:00",
+    "seen_at": "2026-04-24T01:08:22.838Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
