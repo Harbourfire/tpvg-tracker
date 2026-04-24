@@ -1654,5 +1654,41 @@
     "event_time": "2026-04-25T00:52:00",
     "seen_at": "2026-04-24T22:52:26.616Z",
     "raw": "Br. Vlaka 43999 dolazak      25.04.26. 00:52, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-25T00:56:00",
+    "seen_at": "2026-04-24T22:57:33.558Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89894",
+    "event_time": "2026-04-24T18:42:00",
+    "seen_at": "2026-04-24T22:57:56.245Z",
+    "raw": "Br. Vlaka 89894 formiran     24.04.26. 18:42, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "48913",
+    "event_time": "2026-04-25T00:56:00",
+    "seen_at": "2026-04-24T23:00:35.942Z",
+    "raw": "Br. Vlaka 48913 odlazak      25.04.26. 00:56, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "48789",
+    "event_time": "2026-04-24T15:59:00",
+    "seen_at": "2026-04-24T23:04:24.129Z",
+    "raw": "Br. Vlaka 48789 promjena sas 24.04.26. 15:59, kolodvor ČAKOVEC"
   }
 ]
