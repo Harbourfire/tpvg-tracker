@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89180",
-    "event_time": "2026-04-21T09:57:00",
-    "seen_at": "2026-04-21T07:58:30.130Z",
-    "raw": "Br. Vlaka 89180 odlazak      21.04.26. 09:57, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Dolazak",
-    "station": "NOVSKA",
-    "train_number": "71101",
-    "event_time": "2026-04-21T09:57:00",
-    "seen_at": "2026-04-21T07:58:30.131Z",
-    "raw": "Br. Vlaka 71101 dolazak      21.04.26. 09:57, kolodvor NOVSKA"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2026-04-21T09:57:00",
-    "seen_at": "2026-04-21T07:59:15.571Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89940",
-    "event_time": "2026-04-21T10:00:00",
-    "seen_at": "2026-04-21T08:01:04.027Z",
-    "raw": "Br. Vlaka 89940 odlazak      21.04.26. 10:00, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89940",
-    "event_time": "2026-04-21T10:00:00",
-    "seen_at": "2026-04-21T08:01:04.028Z",
-    "raw": "Br. Vlaka 89940 odlazak      21.04.26. 10:00, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89177",
-    "event_time": "2026-04-21T10:02:00",
-    "seen_at": "2026-04-21T08:03:47.808Z",
-    "raw": "Br. Vlaka 89177 odlazak      21.04.26. 10:02, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89177",
-    "event_time": "2026-04-21T10:02:00",
-    "seen_at": "2026-04-21T08:03:47.808Z",
-    "raw": "Br. Vlaka 89177 odlazak      21.04.26. 10:02, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987891032078",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-21T10:05:00",
-    "seen_at": "2026-04-21T08:05:45.918Z",
-    "raw": "Br. Vlaka 71203 odlazak      21.04.26. 10:05, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -91582,5 +91510,32 @@
     "event_time": "2026-04-24T09:50:00",
     "seen_at": "2026-04-24T07:51:39.866Z",
     "raw": "Br. Vlaka 49999 odlazak      24.04.26. 09:50, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76500",
+    "event_time": "2026-04-24T09:57:00",
+    "seen_at": "2026-04-24T07:58:44.560Z",
+    "raw": "Br. Vlaka 76500 odlazak      24.04.26. 09:57, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-24T10:02:00",
+    "seen_at": "2026-04-24T08:02:10.814Z",
+    "raw": "Br. Vlaka 49999 dolazak      24.04.26. 10:02, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "49999",
+    "event_time": "2026-04-24T10:02:00",
+    "seen_at": "2026-04-24T08:02:10.815Z",
+    "raw": "Br. Vlaka 49999 dolazak      24.04.26. 10:02, kolodvor ZABOK"
   }
 ]
