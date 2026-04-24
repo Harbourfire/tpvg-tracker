@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81956",
-    "event_time": "2026-04-21T12:38:00",
-    "seen_at": "2026-04-21T10:39:58.599Z",
-    "raw": "Br. Vlaka 81956 odlazak      21.04.26. 12:38, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82321",
-    "event_time": "2026-04-21T12:37:00",
-    "seen_at": "2026-04-21T10:39:58.600Z",
-    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 12:37, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82321",
-    "event_time": "2026-04-21T12:37:00",
-    "seen_at": "2026-04-21T10:39:58.600Z",
-    "raw": "Br. Vlaka 82321 odlazak      21.04.26. 12:37, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89139",
-    "event_time": "2026-04-21T12:36:00",
-    "seen_at": "2026-04-21T10:44:21.023Z",
-    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:36, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89139",
-    "event_time": "2026-04-21T12:36:00",
-    "seen_at": "2026-04-21T10:44:21.024Z",
-    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:36, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "BLATA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T12:44:00",
-    "seen_at": "2026-04-21T10:44:43.708Z",
-    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 12:44, kolodvor BLATA"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T12:45:00",
-    "seen_at": "2026-04-21T10:45:29.204Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 12:45, kolodvor BLATA"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -90826,5 +90763,14 @@
     "event_time": "2026-04-24T12:36:00",
     "seen_at": "2026-04-24T10:38:04.633Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-24T12:39:00",
+    "seen_at": "2026-04-24T10:39:24.807Z",
+    "raw": "Br. Vlaka 63310 formiran     24.04.26. 12:39, kolodvor GOSPIĆ"
   }
 ]
