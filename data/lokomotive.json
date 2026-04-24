@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "81111",
-    "event_time": "2026-04-21T15:29:00",
-    "seen_at": "2026-04-21T13:30:21.749Z",
-    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 15:29, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "KARLOVAC",
-    "train_number": "78002",
-    "event_time": "2026-04-21T15:23:00",
-    "seen_at": "2026-04-21T13:30:45.051Z",
-    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 15:23, kolodvor KARLOVAC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -90430,5 +90412,41 @@
     "event_time": "2026-04-24T15:22:00",
     "seen_at": "2026-04-24T13:23:31.440Z",
     "raw": "Br. Vlaka 48789 dolazak      24.04.26. 15:22, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "49827",
+    "event_time": "2026-04-24T15:25:00",
+    "seen_at": "2026-04-24T13:30:38.892Z",
+    "raw": "Br. Vlaka 49827 dolazak      24.04.26. 15:25, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-24T14:52:00",
+    "seen_at": "2026-04-24T13:32:35.440Z",
+    "raw": "Br. Vlaka 63310 promjena sas 24.04.26. 14:52, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-24T12:03:00",
+    "seen_at": "2026-04-24T13:34:07.322Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "KOTORIBA",
+    "train_number": "48789",
+    "event_time": "2026-04-24T15:28:00",
+    "seen_at": "2026-04-24T13:34:30.569Z",
+    "raw": "Br. Vlaka 48789 odlazak      24.04.26. 15:28, kolodvor KOTORIBA"
   }
 ]
