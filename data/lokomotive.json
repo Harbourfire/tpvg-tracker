@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44781",
-    "event_time": "2026-04-21T11:53:00",
-    "seen_at": "2026-04-21T09:53:20.229Z",
-    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:53, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44781",
-    "event_time": "2026-04-21T11:53:00",
-    "seen_at": "2026-04-21T09:53:20.229Z",
-    "raw": "Br. Vlaka 44781 odlazak      21.04.26. 11:53, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "89133",
-    "event_time": "2026-04-21T11:54:00",
-    "seen_at": "2026-04-21T09:55:26.291Z",
-    "raw": "Br. Vlaka 89133 dolazak      21.04.26. 11:54, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987821320346",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-21T11:54:00",
-    "seen_at": "2026-04-21T09:55:49.317Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81111",
-    "event_time": "2026-04-21T11:25:00",
-    "seen_at": "2026-04-21T10:00:24.201Z",
-    "raw": "Br. Vlaka 81111 promjena sas 21.04.26. 11:25, kolodvor 72303"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -91051,5 +91006,23 @@
     "event_time": "2026-04-24T11:38:00",
     "seen_at": "2026-04-24T09:43:20.871Z",
     "raw": "Br. Vlaka 81991 odlazak      24.04.26. 11:38, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81991",
+    "event_time": "2026-04-24T11:51:00",
+    "seen_at": "2026-04-24T09:52:37.084Z",
+    "raw": "Br. Vlaka 81991 odlazak      24.04.26. 11:51, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81989",
+    "event_time": "2026-04-24T11:54:00",
+    "seen_at": "2026-04-24T09:55:17.013Z",
+    "raw": "Br. Vlaka 81989 odlazak      24.04.26. 11:54, kolodvor ZAGREB KLARA"
   }
 ]
