@@ -2,69 +2,6 @@
   {
     "uic": "927820620015",
     "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:52:00",
-    "seen_at": "2026-04-21T11:54:22.532Z",
-    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:52, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:52:00",
-    "seen_at": "2026-04-21T11:54:22.532Z",
-    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:52, kolodvor ZABOK"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "78002",
-    "event_time": "2026-04-21T13:48:00",
-    "seen_at": "2026-04-21T11:56:41.219Z",
-    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 13:48, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "78002",
-    "event_time": "2026-04-21T13:55:00",
-    "seen_at": "2026-04-21T11:57:27.294Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 13:55, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "GARČIN",
-    "train_number": "81956",
-    "event_time": "2026-04-21T13:58:00",
-    "seen_at": "2026-04-21T11:58:55.228Z",
-    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 13:58, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "82330",
-    "event_time": "2026-04-21T14:01:00",
-    "seen_at": "2026-04-21T12:02:00.716Z",
-    "raw": "Br. Vlaka 82330 odlazak      21.04.26. 14:01, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T14:02:00",
-    "seen_at": "2026-04-21T12:02:47.147Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:02, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
     "station": "VELIKO TRGOVIŠĆE",
     "train_number": "44789",
     "event_time": "2026-04-21T14:03:00",
@@ -90547,5 +90484,23 @@
     "event_time": "2026-04-24T13:49:00",
     "seen_at": "2026-04-24T11:50:32.598Z",
     "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-24T13:52:00",
+    "seen_at": "2026-04-24T11:53:51.391Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.04.26. 13:52, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "81219",
+    "event_time": "2026-04-24T13:29:00",
+    "seen_at": "2026-04-24T11:54:39.066Z",
+    "raw": "Br. Vlaka 81219 promjena sas 24.04.26. 13:29, kolodvor OSIJEK"
   }
 ]
