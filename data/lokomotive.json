@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89133",
-    "event_time": "2026-04-21T10:42:00",
-    "seen_at": "2026-04-21T08:48:37.340Z",
-    "raw": "Br. Vlaka 89133 odlazak      21.04.26. 10:42, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891213462",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-15T10:42:00",
-    "seen_at": "2026-04-21T08:48:37.341Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "987891113472",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-15T10:42:00",
-    "seen_at": "2026-04-21T08:48:37.341Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "81956",
-    "event_time": "2026-04-21T10:08:00",
-    "seen_at": "2026-04-21T08:49:23.517Z",
-    "raw": "Br. Vlaka 81956 formiran     21.04.26. 10:08, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-21T10:51:00",
-    "seen_at": "2026-04-21T08:51:22.530Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230076",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -91276,5 +91231,86 @@
     "event_time": "2026-04-24T10:44:00",
     "seen_at": "2026-04-24T08:44:11.969Z",
     "raw": "Br. Vlaka 81989 formiran     24.04.26. 10:44, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89702",
+    "event_time": "2026-04-24T10:47:00",
+    "seen_at": "2026-04-24T08:47:32.732Z",
+    "raw": "Br. Vlaka 89702 formiran     24.04.26. 10:47, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-23T23:34:00",
+    "seen_at": "2026-04-24T08:47:56.793Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-23T23:34:00",
+    "seen_at": "2026-04-24T08:48:21.223Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-24T08:48:45.151Z",
+    "seen_at": "2026-04-24T08:48:45.151Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-24T08:48:45.152Z",
+    "seen_at": "2026-04-24T08:48:45.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89288",
+    "event_time": "2026-04-24T10:49:00",
+    "seen_at": "2026-04-24T08:49:55.588Z",
+    "raw": "Br. Vlaka 89288 formiran     24.04.26. 10:49, kolodvor 72303"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89033",
+    "event_time": "2026-04-24T10:45:00",
+    "seen_at": "2026-04-24T08:50:42.014Z",
+    "raw": "Br. Vlaka 89033 odlazak      24.04.26. 10:45, kolodvor 72302"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81991",
+    "event_time": "2026-04-24T10:49:00",
+    "seen_at": "2026-04-24T08:51:29.225Z",
+    "raw": "Br. Vlaka 81991 odlazak      24.04.26. 10:49, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89033",
+    "event_time": "2026-04-24T10:52:00",
+    "seen_at": "2026-04-24T08:53:04.348Z",
+    "raw": "Br. Vlaka 89033 odlazak      24.04.26. 10:52, kolodvor ZAGREB RESNIK"
   }
 ]
