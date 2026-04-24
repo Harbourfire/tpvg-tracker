@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T15:02:00",
-    "seen_at": "2026-04-21T13:04:54.512Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 15:02, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "DUGA RESA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T14:45:00",
-    "seen_at": "2026-04-21T13:05:17.800Z",
-    "raw": "Br. Vlaka 78002 dolazak      21.04.26. 14:45, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T15:02:00",
-    "seen_at": "2026-04-21T13:05:40.844Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 15:02, kolodvor DUGA RESA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -90412,5 +90385,50 @@
     "event_time": "2026-04-24T14:51:00",
     "seen_at": "2026-04-24T12:53:55.631Z",
     "raw": "Br. Vlaka 66854 formiran     24.04.26. 14:51, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-24T20:04:00",
+    "seen_at": "2026-04-24T13:04:00.048Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-04-24T15:02:00",
+    "seen_at": "2026-04-24T13:04:47.208Z",
+    "raw": "Br. Vlaka 69177 odlazak      24.04.26. 15:02, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-24T15:03:00",
+    "seen_at": "2026-04-24T13:05:11.251Z",
+    "raw": "Br. Vlaka 45104 dolazak      24.04.26. 15:03, kolodvor OTOK"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-04-24T15:00:00",
+    "seen_at": "2026-04-24T13:05:11.251Z",
+    "raw": "Br. Vlaka 49827 dolazak      24.04.26. 15:00, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "49827",
+    "event_time": "2026-04-24T15:08:00",
+    "seen_at": "2026-04-24T13:09:32.238Z",
+    "raw": "Br. Vlaka 49827 odlazak      24.04.26. 15:08, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
