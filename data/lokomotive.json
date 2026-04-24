@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "78002",
-    "event_time": "2026-04-21T08:23:00",
-    "seen_at": "2026-04-21T06:24:23.338Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 08:23, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89714",
-    "event_time": "2026-04-21T08:28:00",
-    "seen_at": "2026-04-21T06:29:01.291Z",
-    "raw": "Br. Vlaka 89714 formiran     21.04.26. 08:28, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "DARDA",
@@ -91546,5 +91528,32 @@
     "event_time": "2026-04-24T08:22:00",
     "seen_at": "2026-04-24T06:22:40.044Z",
     "raw": "Br. Vlaka 69852 odlazak      24.04.26. 08:22, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49999",
+    "event_time": "2026-04-24T08:20:00",
+    "seen_at": "2026-04-24T06:26:30.243Z",
+    "raw": "Br. Vlaka 49999 odlazak      24.04.26. 08:20, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-23T21:04:00",
+    "seen_at": "2026-04-24T06:26:30.244Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "49999",
+    "event_time": "2026-04-24T08:20:00",
+    "seen_at": "2026-04-24T06:26:30.244Z",
+    "raw": "Br. Vlaka 49999 odlazak      24.04.26. 08:20, kolodvor NOVI MAROF"
   }
 ]
