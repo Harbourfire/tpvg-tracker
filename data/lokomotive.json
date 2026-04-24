@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82333",
-    "event_time": "2026-04-21T08:59:00",
-    "seen_at": "2026-04-21T07:00:01.239Z",
-    "raw": "Br. Vlaka 82333 odlazak      21.04.26. 08:59, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "KONJŠČINA",
@@ -91591,5 +91582,32 @@
     "event_time": "2026-04-24T08:48:00",
     "seen_at": "2026-04-24T06:49:29.123Z",
     "raw": "Br. Vlaka 49999 odlazak      24.04.26. 08:48, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820622011",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-24T08:48:00",
+    "seen_at": "2026-04-24T06:53:05.669Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "69852",
+    "event_time": "2026-04-24T08:54:00",
+    "seen_at": "2026-04-24T06:57:40.971Z",
+    "raw": "Br. Vlaka 69852 odlazak      24.04.26. 08:54, kolodvor DALJ"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "89760",
+    "event_time": "2026-04-24T08:57:00",
+    "seen_at": "2026-04-24T06:59:12.445Z",
+    "raw": "Br. Vlaka 89760 odlazak      24.04.26. 08:57, kolodvor GOSPIĆ"
   }
 ]
