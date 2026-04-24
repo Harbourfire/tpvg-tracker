@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81956",
-    "event_time": "2026-04-21T14:35:00",
-    "seen_at": "2026-04-21T12:45:12.294Z",
-    "raw": "Br. Vlaka 81956 dolazak      21.04.26. 14:35, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "81956",
-    "event_time": "2026-04-21T14:43:00",
-    "seen_at": "2026-04-21T12:46:13.057Z",
-    "raw": "Br. Vlaka 81956 odlazak      21.04.26. 14:43, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891032060",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "71204",
-    "event_time": "2026-04-21T14:47:00",
-    "seen_at": "2026-04-21T12:47:45.520Z",
-    "raw": "Br. Vlaka 71204 dolazak      21.04.26. 14:47, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891032060",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-21T14:47:00",
-    "seen_at": "2026-04-21T12:48:53.558Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620247",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
@@ -90430,5 +90394,50 @@
     "event_time": "2026-04-24T14:31:00",
     "seen_at": "2026-04-24T12:34:31.796Z",
     "raw": "Br. Vlaka 63310 promjena sas 24.04.26. 14:31, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "DALJ",
+    "train_number": "49827",
+    "event_time": "2026-04-24T14:39:00",
+    "seen_at": "2026-04-24T12:41:16.206Z",
+    "raw": "Br. Vlaka 49827 odlazak      24.04.26. 14:39, kolodvor DALJ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-24T14:41:00",
+    "seen_at": "2026-04-24T12:42:26.194Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.04.26. 14:41, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "81219",
+    "event_time": "2026-04-24T14:14:00",
+    "seen_at": "2026-04-24T12:43:12.244Z",
+    "raw": "Br. Vlaka 81219 dolazak      24.04.26. 14:14, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-24T14:14:00",
+    "seen_at": "2026-04-24T12:43:35.136Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-24T14:46:00",
+    "seen_at": "2026-04-24T12:48:12.089Z",
+    "raw": "Br. Vlaka 45104 odlazak      24.04.26. 14:46, kolodvor SPAČVA"
   }
 ]
