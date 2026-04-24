@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-21T09:02:00",
-    "seen_at": "2026-04-21T07:02:44.750Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -91609,5 +91600,14 @@
     "event_time": "2026-04-24T08:57:00",
     "seen_at": "2026-04-24T06:59:12.445Z",
     "raw": "Br. Vlaka 89760 odlazak      24.04.26. 08:57, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81991",
+    "event_time": "2026-04-24T08:14:00",
+    "seen_at": "2026-04-24T07:02:48.585Z",
+    "raw": "Br. Vlaka 81991 formiran     24.04.26. 08:14, kolodvor OŠTARIJE"
   }
 ]
