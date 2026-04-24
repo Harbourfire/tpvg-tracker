@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "DARDA",
-    "train_number": "81955",
-    "event_time": "2026-04-21T10:10:00",
-    "seen_at": "2026-04-21T08:17:40.143Z",
-    "raw": "Br. Vlaka 81955 dolazak      21.04.26. 10:10, kolodvor DARDA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "89180",
-    "event_time": "2026-04-21T10:18:00",
-    "seen_at": "2026-04-21T08:18:49.219Z",
-    "raw": "Br. Vlaka 89180 odlazak      21.04.26. 10:18, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "987891032078",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-21T10:20:00",
-    "seen_at": "2026-04-21T08:23:13.144Z",
-    "raw": "Br. Vlaka 71203 dolazak      21.04.26. 10:20, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891032078",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-21T10:20:00",
-    "seen_at": "2026-04-21T08:24:00.023Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820622037",
     "type": "Odlazak",
     "station": "DARDA",
     "train_number": "81955",
@@ -91447,5 +91411,14 @@
     "event_time": "2026-04-24T10:13:00",
     "seen_at": "2026-04-24T08:14:39.354Z",
     "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "81991",
+    "event_time": "2026-04-24T10:25:00",
+    "seen_at": "2026-04-24T08:25:29.047Z",
+    "raw": "Br. Vlaka 81991 odlazak      24.04.26. 10:25, kolodvor OŠTARIJE"
   }
 ]
