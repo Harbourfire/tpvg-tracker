@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "OKUČANI",
-    "train_number": null,
-    "event_time": "2026-04-21T14:33:00",
-    "seen_at": "2026-04-21T12:33:54.439Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72606 OKUČANI"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "ZVEČAJ",
-    "train_number": "78002",
-    "event_time": "2026-04-21T14:33:00",
-    "seen_at": "2026-04-21T12:33:54.443Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:33, kolodvor ZVEČAJ"
-  },
-  {
-    "uic": "987891032060",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "71204",
-    "event_time": "2026-04-21T14:33:00",
-    "seen_at": "2026-04-21T12:33:54.443Z",
-    "raw": "Br. Vlaka 71204 odlazak      21.04.26. 14:33, kolodvor GARČIN"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -90430,5 +90403,32 @@
     "event_time": "2026-04-24T14:29:00",
     "seen_at": "2026-04-24T12:30:05.758Z",
     "raw": "Br. Vlaka 49827 odlazak      24.04.26. 14:29, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-24T14:30:00",
+    "seen_at": "2026-04-24T12:31:51.388Z",
+    "raw": "Br. Vlaka 45104 odlazak      24.04.26. 14:30, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-24T14:31:00",
+    "seen_at": "2026-04-24T12:33:46.022Z",
+    "raw": "Br. Vlaka 63310 dolazak      24.04.26. 14:31, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-24T14:31:00",
+    "seen_at": "2026-04-24T12:34:31.796Z",
+    "raw": "Br. Vlaka 63310 promjena sas 24.04.26. 14:31, kolodvor VRHOVINE"
   }
 ]
