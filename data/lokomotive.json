@@ -1357,5 +1357,59 @@
     "event_time": "2026-04-24T23:19:00",
     "seen_at": "2026-04-24T21:24:45.087Z",
     "raw": "Br. Vlaka 45581 promjena sas 24.04.26. 23:19, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "48913",
+    "event_time": "2026-04-24T23:33:00",
+    "seen_at": "2026-04-24T21:33:20.363Z",
+    "raw": "Br. Vlaka 48913 odlazak      24.04.26. 23:33, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "45990",
+    "event_time": "2026-04-24T23:31:00",
+    "seen_at": "2026-04-24T21:33:20.363Z",
+    "raw": "Br. Vlaka 45990 dolazak      24.04.26. 23:31, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "45990",
+    "event_time": "2026-04-24T23:32:00",
+    "seen_at": "2026-04-24T21:33:43.851Z",
+    "raw": "Br. Vlaka 45990 odlazak      24.04.26. 23:32, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-24T23:37:00",
+    "seen_at": "2026-04-24T21:38:15.923Z",
+    "raw": "Br. Vlaka 63305 dolazak      24.04.26. 23:37, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-24T23:37:00",
+    "seen_at": "2026-04-24T21:40:09.141Z",
+    "raw": "Br. Vlaka 63305 promjena sas 24.04.26. 23:37, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "82185",
+    "event_time": "2026-04-24T23:32:00",
+    "seen_at": "2026-04-24T21:40:31.804Z",
+    "raw": "Br. Vlaka 82185 odlazak      24.04.26. 23:32, kolodvor BIZOVAC"
   }
 ]
