@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82530",
-    "event_time": "2026-04-21T16:47:00",
-    "seen_at": "2026-04-21T14:50:39.988Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:47, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82530",
-    "event_time": "2026-04-21T16:47:00",
-    "seen_at": "2026-04-21T14:50:39.988Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:47, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44996",
-    "event_time": "2026-04-21T16:50:00",
-    "seen_at": "2026-04-21T14:51:48.674Z",
-    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:50, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44996",
-    "event_time": "2026-04-21T16:50:00",
-    "seen_at": "2026-04-21T14:51:48.675Z",
-    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:50, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "81290",
-    "event_time": "2026-04-21T16:49:00",
-    "seen_at": "2026-04-21T14:51:48.676Z",
-    "raw": "Br. Vlaka 81290 dolazak      21.04.26. 16:49, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "997894856753",
-    "type": "Promjena sastava",
-    "station": "NOVSKA",
-    "train_number": "89066",
-    "event_time": "2026-04-21T16:28:00",
-    "seen_at": "2026-04-21T14:52:58.587Z",
-    "raw": "Br. Vlaka 89066 promjena sas 21.04.26. 16:28, kolodvor NOVSKA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "BEDEKOVČINA",
@@ -90277,5 +90223,14 @@
     "event_time": "2026-04-24T16:28:00",
     "seen_at": "2026-04-24T14:30:08.446Z",
     "raw": "Br. Vlaka 63310 dolazak      24.04.26. 16:28, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-24T16:43:00",
+    "seen_at": "2026-04-24T14:45:21.352Z",
+    "raw": "Br. Vlaka 63310 odlazak      24.04.26. 16:43, kolodvor BLATA"
   }
 ]
