@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:04:00",
-    "seen_at": "2026-04-21T11:07:02.256Z",
-    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 13:04, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:04:00",
-    "seen_at": "2026-04-21T11:07:02.256Z",
-    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 13:04, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "TUROPOLJE",
-    "train_number": "81111",
-    "event_time": "2026-04-21T13:06:00",
-    "seen_at": "2026-04-21T11:07:02.256Z",
-    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 13:06, kolodvor TUROPOLJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:04:00",
-    "seen_at": "2026-04-21T11:08:36.828Z",
-    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 13:04, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:04:00",
-    "seen_at": "2026-04-21T11:08:36.828Z",
-    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 13:04, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "LEKENIK",
-    "train_number": "81111",
-    "event_time": "2026-04-21T13:13:00",
-    "seen_at": "2026-04-21T11:14:47.936Z",
-    "raw": "Br. Vlaka 81111 odlazak      21.04.26. 13:13, kolodvor LEKENIK"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "PLETERNICA",
@@ -90628,5 +90574,14 @@
     "event_time": "2026-04-24T20:30:00",
     "seen_at": "2026-04-24T10:53:08.779Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "89922",
+    "event_time": "2026-04-24T13:14:00",
+    "seen_at": "2026-04-24T11:14:53.685Z",
+    "raw": "Br. Vlaka 89922 formiran     24.04.26. 13:14, kolodvor ČAKOVEC"
   }
 ]
