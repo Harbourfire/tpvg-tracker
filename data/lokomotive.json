@@ -1492,5 +1492,41 @@
     "event_time": "2026-04-25T00:04:00",
     "seen_at": "2026-04-24T22:05:22.579Z",
     "raw": "Br. Vlaka 82185 odlazak      25.04.26. 00:04, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-25T00:08:00",
+    "seen_at": "2026-04-24T22:09:42.558Z",
+    "raw": "Br. Vlaka 63305 odlazak      25.04.26. 00:08, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "45990",
+    "event_time": "2026-04-25T00:08:00",
+    "seen_at": "2026-04-24T22:11:15.638Z",
+    "raw": "Br. Vlaka 45990 odlazak      25.04.26. 00:08, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "82185",
+    "event_time": "2026-04-25T00:15:00",
+    "seen_at": "2026-04-24T22:15:31.650Z",
+    "raw": "Br. Vlaka 82185 dolazak      25.04.26. 00:15, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-25T00:15:00",
+    "seen_at": "2026-04-24T22:15:55.108Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
