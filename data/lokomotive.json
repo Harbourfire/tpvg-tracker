@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89139",
-    "event_time": "2026-04-21T12:29:00",
-    "seen_at": "2026-04-21T10:33:48.520Z",
-    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:29, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89139",
-    "event_time": "2026-04-21T12:29:00",
-    "seen_at": "2026-04-21T10:33:48.521Z",
-    "raw": "Br. Vlaka 89139 odlazak      21.04.26. 12:29, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "78002",
-    "event_time": "2026-04-21T12:32:00",
-    "seen_at": "2026-04-21T10:34:57.640Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 12:32, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "VELIKA GORICA",
-    "train_number": "81111",
-    "event_time": "2026-04-21T12:37:00",
-    "seen_at": "2026-04-21T10:37:38.468Z",
-    "raw": "Br. Vlaka 81111 dolazak      21.04.26. 12:37, kolodvor VELIKA GORICA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ĐAKOVO",
@@ -90844,5 +90808,23 @@
     "event_time": "2026-04-24T12:22:00",
     "seen_at": "2026-04-24T10:24:08.512Z",
     "raw": "Br. Vlaka 81991 odlazak      24.04.26. 12:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81219",
+    "event_time": "2026-04-24T12:32:00",
+    "seen_at": "2026-04-24T10:36:10.872Z",
+    "raw": "Br. Vlaka 81219 odlazak      24.04.26. 12:32, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-24T12:36:00",
+    "seen_at": "2026-04-24T10:38:04.633Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
