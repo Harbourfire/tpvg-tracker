@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44996",
-    "event_time": "2026-04-21T16:00:00",
-    "seen_at": "2026-04-21T14:08:04.170Z",
-    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44996",
-    "event_time": "2026-04-21T16:00:00",
-    "seen_at": "2026-04-21T14:08:04.171Z",
-    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44996",
-    "event_time": "2026-04-21T16:06:00",
-    "seen_at": "2026-04-21T14:08:49.989Z",
-    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:06, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44996",
-    "event_time": "2026-04-21T16:06:00",
-    "seen_at": "2026-04-21T14:08:49.990Z",
-    "raw": "Br. Vlaka 44996 odlazak      21.04.26. 16:06, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82530",
-    "event_time": "2026-04-21T16:08:00",
-    "seen_at": "2026-04-21T14:08:49.990Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:08, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82530",
-    "event_time": "2026-04-21T16:08:00",
-    "seen_at": "2026-04-21T14:08:49.991Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 16:08, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620015",
     "type": "Dolazak",
     "station": "LUKA",
     "train_number": "44996",
@@ -90430,5 +90376,23 @@
     "event_time": "2026-04-24T15:59:00",
     "seen_at": "2026-04-24T13:59:17.937Z",
     "raw": "Br. Vlaka 48789 dolazak      24.04.26. 15:59, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-24T16:08:00",
+    "seen_at": "2026-04-24T14:09:19.951Z",
+    "raw": "Br. Vlaka 45104 dolazak      24.04.26. 16:08, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-24T15:06:00",
+    "seen_at": "2026-04-24T14:10:52.880Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
