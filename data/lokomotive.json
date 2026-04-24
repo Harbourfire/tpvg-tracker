@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44789",
-    "event_time": "2026-04-21T14:23:00",
-    "seen_at": "2026-04-21T12:23:45.403Z",
-    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 14:23, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44789",
-    "event_time": "2026-04-21T14:23:00",
-    "seen_at": "2026-04-21T12:23:45.403Z",
-    "raw": "Br. Vlaka 44789 dolazak      21.04.26. 14:23, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "78002",
-    "event_time": "2026-04-21T14:24:00",
-    "seen_at": "2026-04-21T12:24:53.776Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 14:24, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "OKUČANI",
@@ -90430,5 +90403,32 @@
     "event_time": "2026-04-24T14:13:00",
     "seen_at": "2026-04-24T12:14:16.249Z",
     "raw": "Br. Vlaka 63310 odlazak      24.04.26. 14:13, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89288",
+    "event_time": "2026-04-24T10:49:00",
+    "seen_at": "2026-04-24T12:24:43.523Z",
+    "raw": "Br. Vlaka 89288 formiran     24.04.26. 10:49, kolodvor 72303"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89288",
+    "event_time": "2026-04-24T10:49:00",
+    "seen_at": "2026-04-24T12:25:06.382Z",
+    "raw": "Br. Vlaka 89288 formiran     24.04.26. 10:49, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-04-24T14:29:00",
+    "seen_at": "2026-04-24T12:30:05.758Z",
+    "raw": "Br. Vlaka 49827 odlazak      24.04.26. 14:29, kolodvor ERDUT"
   }
 ]
