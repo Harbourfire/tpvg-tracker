@@ -1,77 +1,5 @@
 [
   {
-    "uic": "987821320346",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "89133",
-    "event_time": "2026-04-21T11:07:00",
-    "seen_at": "2026-04-21T09:07:55.481Z",
-    "raw": "Br. Vlaka 89133 odlazak      21.04.26. 11:07, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44787",
-    "event_time": "2026-04-21T11:07:00",
-    "seen_at": "2026-04-21T09:08:18.666Z",
-    "raw": "Br. Vlaka 44787 odlazak      21.04.26. 11:07, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "44787",
-    "event_time": "2026-04-21T11:07:00",
-    "seen_at": "2026-04-21T09:08:18.667Z",
-    "raw": "Br. Vlaka 44787 odlazak      21.04.26. 11:07, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-20T12:04:00",
-    "seen_at": "2026-04-21T09:09:04.358Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "44789",
-    "event_time": "2026-04-21T02:56:00",
-    "seen_at": "2026-04-21T09:09:28.137Z",
-    "raw": "Br. Vlaka 44789 promjena sas 21.04.26. 02:56, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "89724",
-    "event_time": "2026-04-21T11:08:00",
-    "seen_at": "2026-04-21T09:11:23.188Z",
-    "raw": "Br. Vlaka 89724 odlazak      21.04.26. 11:08, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-21T11:11:00",
-    "seen_at": "2026-04-21T09:11:46.568Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-21T11:11:00",
-    "seen_at": "2026-04-21T09:11:46.569Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -91249,5 +91177,23 @@
     "event_time": "2026-04-24T11:01:00",
     "seen_at": "2026-04-24T09:02:53.543Z",
     "raw": "Br. Vlaka 81991 odlazak      24.04.26. 11:01, kolodvor BLATA"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-24T10:00:00",
+    "seen_at": "2026-04-24T09:11:37.942Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81991",
+    "event_time": "2026-04-24T11:11:00",
+    "seen_at": "2026-04-24T09:12:24.698Z",
+    "raw": "Br. Vlaka 81991 odlazak      24.04.26. 11:11, kolodvor LIČKA JESENICA"
   }
 ]
