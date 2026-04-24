@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894215612",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-09T15:15:00",
-    "seen_at": "2026-04-21T13:24:09.346Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82530",
-    "event_time": "2026-04-21T15:23:00",
-    "seen_at": "2026-04-21T13:24:32.739Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:23, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82530",
-    "event_time": "2026-04-21T15:23:00",
-    "seen_at": "2026-04-21T13:24:32.739Z",
-    "raw": "Br. Vlaka 82530 odlazak      21.04.26. 15:23, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
@@ -90439,5 +90412,23 @@
     "event_time": "2026-04-24T12:39:00",
     "seen_at": "2026-04-24T13:15:33.784Z",
     "raw": "Br. Vlaka 63312 formiran     24.04.26. 12:39, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63312",
+    "event_time": "2026-04-24T15:21:00",
+    "seen_at": "2026-04-24T13:21:59.062Z",
+    "raw": "Br. Vlaka 63312 odlazak      24.04.26. 15:21, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "48789",
+    "event_time": "2026-04-24T15:22:00",
+    "seen_at": "2026-04-24T13:23:31.440Z",
+    "raw": "Br. Vlaka 48789 dolazak      24.04.26. 15:22, kolodvor KOTORIBA"
   }
 ]
