@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81956",
-    "event_time": "2026-04-21T13:28:00",
-    "seen_at": "2026-04-21T11:29:26.740Z",
-    "raw": "Br. Vlaka 81956 odlazak      21.04.26. 13:28, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "78002",
-    "event_time": "2026-04-21T13:27:00",
-    "seen_at": "2026-04-21T11:29:26.741Z",
-    "raw": "Br. Vlaka 78002 odlazak      21.04.26. 13:27, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:28:00",
-    "seen_at": "2026-04-21T11:30:38.482Z",
-    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:28, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44789",
-    "event_time": "2026-04-21T13:28:00",
-    "seen_at": "2026-04-21T11:30:38.483Z",
-    "raw": "Br. Vlaka 44789 odlazak      21.04.26. 13:28, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "ČAKOVEC",
@@ -90556,5 +90520,41 @@
     "event_time": "2026-04-24T13:16:00",
     "seen_at": "2026-04-24T11:17:01.538Z",
     "raw": "Br. Vlaka 89922 odlazak      24.04.26. 13:16, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89922",
+    "event_time": "2026-04-24T13:25:00",
+    "seen_at": "2026-04-24T11:26:57.474Z",
+    "raw": "Br. Vlaka 89922 odlazak      24.04.26. 13:25, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Promjena sastava",
+    "station": "ERDUT",
+    "train_number": "49827",
+    "event_time": "2026-04-24T12:49:00",
+    "seen_at": "2026-04-24T11:28:51.964Z",
+    "raw": "Br. Vlaka 49827 promjena sas 24.04.26. 12:49, kolodvor ERDUT"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89922",
+    "event_time": "2026-04-24T13:32:00",
+    "seen_at": "2026-04-24T11:32:39.871Z",
+    "raw": "Br. Vlaka 89922 odlazak      24.04.26. 13:32, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "81219",
+    "event_time": "2026-04-24T13:29:00",
+    "seen_at": "2026-04-24T11:33:02.365Z",
+    "raw": "Br. Vlaka 81219 dolazak      24.04.26. 13:29, kolodvor OSIJEK"
   }
 ]
