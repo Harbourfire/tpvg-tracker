@@ -2617,5 +2617,86 @@
     "event_time": "2026-04-24T17:15:00",
     "seen_at": "2026-04-25T04:22:19.457Z",
     "raw": "Br. Vlaka 45584 formiran     24.04.26. 17:15, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82187",
+    "event_time": "2026-04-25T07:30:00",
+    "seen_at": "2026-04-25T05:32:34.295Z",
+    "raw": "Br. Vlaka 82187 odlazak      25.04.26. 07:30, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-25T07:32:00",
+    "seen_at": "2026-04-25T05:32:57.022Z",
+    "raw": "Br. Vlaka 45105 formiran     25.04.26. 07:32, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-24T22:22:00",
+    "seen_at": "2026-04-25T05:34:05.423Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-24T22:22:00",
+    "seen_at": "2026-04-25T05:34:05.424Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-04-25T07:34:00",
+    "seen_at": "2026-04-25T05:34:28.538Z",
+    "raw": "Br. Vlaka 66853 formiran     25.04.26. 07:34, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-25T02:32:00",
+    "seen_at": "2026-04-25T05:34:51.437Z",
+    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 02:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "48789",
+    "event_time": "2026-04-25T02:32:00",
+    "seen_at": "2026-04-25T05:35:14.228Z",
+    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 02:32, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "45584",
+    "event_time": "2026-04-25T07:33:00",
+    "seen_at": "2026-04-25T05:35:14.228Z",
+    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 07:33, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "VIROVITICA",
+    "train_number": "45584",
+    "event_time": "2026-04-25T07:33:00",
+    "seen_at": "2026-04-25T05:35:14.229Z",
+    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 07:33, kolodvor VIROVITICA"
   }
 ]
