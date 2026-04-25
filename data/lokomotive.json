@@ -4012,5 +4012,32 @@
     "event_time": "2026-04-25T14:47:00",
     "seen_at": "2026-04-25T12:51:15.267Z",
     "raw": "Br. Vlaka 44996 odlazak      25.04.26. 14:47, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "45101",
+    "event_time": "2026-04-25T14:58:00",
+    "seen_at": "2026-04-25T13:00:30.190Z",
+    "raw": "Br. Vlaka 45101 dolazak      25.04.26. 14:58, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "SPAČVA",
+    "train_number": null,
+    "event_time": "2026-04-25T14:58:00",
+    "seen_at": "2026-04-25T13:00:53.367Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71304 SPAČVA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "SPAČVA",
+    "train_number": "89164",
+    "event_time": "2026-04-25T14:24:00",
+    "seen_at": "2026-04-25T13:01:16.588Z",
+    "raw": "Br. Vlaka 89164 formiran     25.04.26. 14:24, kolodvor SPAČVA"
   }
 ]
