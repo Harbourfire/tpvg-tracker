@@ -3355,5 +3355,86 @@
     "event_time": "2026-04-25T11:10:00",
     "seen_at": "2026-04-25T09:11:41.651Z",
     "raw": "Br. Vlaka 82321 promjena sas 25.04.26. 11:10, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82328",
+    "event_time": "2026-04-25T11:16:00",
+    "seen_at": "2026-04-25T09:17:37.671Z",
+    "raw": "Br. Vlaka 82328 odlazak      25.04.26. 11:16, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-25T11:19:00",
+    "seen_at": "2026-04-25T09:19:57.099Z",
+    "raw": "Br. Vlaka 48789 dolazak      25.04.26. 11:19, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "48789",
+    "event_time": "2026-04-25T11:19:00",
+    "seen_at": "2026-04-25T09:19:57.099Z",
+    "raw": "Br. Vlaka 48789 dolazak      25.04.26. 11:19, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-24T20:04:00",
+    "seen_at": "2026-04-25T09:21:06.168Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-24T20:04:00",
+    "seen_at": "2026-04-25T09:21:06.168Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-25T11:20:00",
+    "seen_at": "2026-04-25T09:23:24.374Z",
+    "raw": "Br. Vlaka 44996 promjena sas 25.04.26. 11:20, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "ZABOK",
+    "train_number": "44996",
+    "event_time": "2026-04-25T11:20:00",
+    "seen_at": "2026-04-25T09:23:24.374Z",
+    "raw": "Br. Vlaka 44996 promjena sas 25.04.26. 11:20, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45584",
+    "event_time": "2026-04-25T11:22:00",
+    "seen_at": "2026-04-25T09:25:19.767Z",
+    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 11:22, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45584",
+    "event_time": "2026-04-25T11:22:00",
+    "seen_at": "2026-04-25T09:25:19.768Z",
+    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 11:22, kolodvor KOPRIVNICA"
   }
 ]
