@@ -3868,5 +3868,50 @@
     "event_time": "2026-04-25T13:34:00",
     "seen_at": "2026-04-25T11:36:32.666Z",
     "raw": "Br. Vlaka 44996 odlazak      25.04.26. 13:34, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Promjena sastava",
+    "station": "BELI MANASTIR",
+    "train_number": "46896",
+    "event_time": "2026-04-25T12:15:00",
+    "seen_at": "2026-04-25T12:01:14.151Z",
+    "raw": "Br. Vlaka 46896 promjena sas 25.04.26. 12:15, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-04-24T20:17:00",
+    "seen_at": "2026-04-25T12:01:36.967Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "47981",
+    "event_time": "2026-04-25T14:00:00",
+    "seen_at": "2026-04-25T12:01:59.745Z",
+    "raw": "Br. Vlaka 47981 odlazak      25.04.26. 14:00, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "44996",
+    "event_time": "2026-04-25T14:02:00",
+    "seen_at": "2026-04-25T12:03:08.856Z",
+    "raw": "Br. Vlaka 44996 dolazak      25.04.26. 14:02, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "NOVI MAROF",
+    "train_number": "44996",
+    "event_time": "2026-04-25T14:02:00",
+    "seen_at": "2026-04-25T12:03:08.856Z",
+    "raw": "Br. Vlaka 44996 dolazak      25.04.26. 14:02, kolodvor NOVI MAROF"
   }
 ]
