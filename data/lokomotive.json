@@ -4858,5 +4858,41 @@
     "event_time": "2026-04-25T19:36:00",
     "seen_at": "2026-04-25T17:36:58.656Z",
     "raw": "Br. Vlaka 89021 odlazak      25.04.26. 19:36, kolodvor LUDINA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "44995",
+    "event_time": "2026-04-25T19:33:00",
+    "seen_at": "2026-04-25T17:37:35.215Z",
+    "raw": "Br. Vlaka 44995 dolazak      25.04.26. 19:33, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "POPOVAČA",
+    "train_number": "89021",
+    "event_time": "2026-04-25T19:42:00",
+    "seen_at": "2026-04-25T17:42:14.098Z",
+    "raw": "Br. Vlaka 89021 odlazak      25.04.26. 19:42, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-25T12:16:00",
+    "seen_at": "2026-04-25T17:44:38.603Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ZAPREŠIĆ",
+    "train_number": "49998",
+    "event_time": "2026-04-25T19:24:00",
+    "seen_at": "2026-04-25T17:45:25.366Z",
+    "raw": "Br. Vlaka 49998 promjena sas 25.04.26. 19:24, kolodvor ZAPREŠIĆ"
   }
 ]
