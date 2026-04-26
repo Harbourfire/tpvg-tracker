@@ -6946,5 +6946,68 @@
     "event_time": "2026-04-26T05:47:00",
     "seen_at": "2026-04-26T03:48:02.155Z",
     "raw": "Br. Vlaka 89176 odlazak      26.04.26. 05:47, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "MALOVAN",
+    "train_number": "89157",
+    "event_time": "2026-04-26T05:49:00",
+    "seen_at": "2026-04-26T03:51:16.133Z",
+    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 05:49, kolodvor MALOVAN"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "LIPOVLJANI",
+    "train_number": "89178",
+    "event_time": "2026-04-26T05:51:00",
+    "seen_at": "2026-04-26T03:52:01.594Z",
+    "raw": "Br. Vlaka 89178 odlazak      26.04.26. 05:51, kolodvor LIPOVLJANI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "89176",
+    "event_time": "2026-04-26T05:53:00",
+    "seen_at": "2026-04-26T03:54:40.057Z",
+    "raw": "Br. Vlaka 89176 dolazak      26.04.26. 05:53, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "KRIŽEVCI",
+    "train_number": null,
+    "event_time": "2026-04-26T05:54:00",
+    "seen_at": "2026-04-26T03:54:40.059Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-26T05:53:00",
+    "seen_at": "2026-04-26T03:55:02.802Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "43997",
+    "event_time": "2026-04-26T04:34:00",
+    "seen_at": "2026-04-26T03:56:10.694Z",
+    "raw": "Br. Vlaka 43997 promjena sas 26.04.26. 04:34, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "43997",
+    "event_time": "2026-04-26T04:34:00",
+    "seen_at": "2026-04-26T03:56:10.694Z",
+    "raw": "Br. Vlaka 43997 promjena sas 26.04.26. 04:34, kolodvor VARAŽDIN"
   }
 ]
