@@ -7729,5 +7729,77 @@
     "event_time": "2026-04-25T23:49:00",
     "seen_at": "2026-04-26T08:20:41.508Z",
     "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "69350",
+    "event_time": "2026-04-26T10:24:00",
+    "seen_at": "2026-04-26T08:27:49.208Z",
+    "raw": "Br. Vlaka 69350 dolazak      26.04.26. 10:24, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "KRIŽEVCI",
+    "train_number": null,
+    "event_time": "2026-04-26T10:24:00",
+    "seen_at": "2026-04-26T08:28:11.825Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-26T10:24:00",
+    "seen_at": "2026-04-26T08:28:57.614Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "41998",
+    "event_time": "2026-04-26T10:28:00",
+    "seen_at": "2026-04-26T08:29:43.083Z",
+    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 10:28, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "KRIŽEVCI",
+    "train_number": "79903",
+    "event_time": "2026-04-26T10:29:00",
+    "seen_at": "2026-04-26T08:30:28.805Z",
+    "raw": "Br. Vlaka 79903 formiran     26.04.26. 10:29, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "79903",
+    "event_time": "2026-04-26T10:26:00",
+    "seen_at": "2026-04-26T08:30:51.498Z",
+    "raw": "Br. Vlaka 79903 odlazak      26.04.26. 10:26, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82199",
+    "event_time": "2026-04-26T10:31:00",
+    "seen_at": "2026-04-26T08:31:37.951Z",
+    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 10:31, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82199",
+    "event_time": "2026-04-26T10:31:00",
+    "seen_at": "2026-04-26T08:31:37.952Z",
+    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 10:31, kolodvor OŠTARIJE"
   }
 ]
