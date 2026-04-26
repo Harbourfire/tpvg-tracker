@@ -6784,5 +6784,50 @@
     "event_time": "2026-04-26T05:00:00",
     "seen_at": "2026-04-26T03:01:40.263Z",
     "raw": "Br. Vlaka 89168 odlazak      26.04.26. 05:00, kolodvor KUKAČA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "79901",
+    "event_time": "2026-04-26T05:01:00",
+    "seen_at": "2026-04-26T03:02:41.243Z",
+    "raw": "Br. Vlaka 79901 dolazak      26.04.26. 05:01, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89176",
+    "event_time": "2026-04-26T05:03:00",
+    "seen_at": "2026-04-26T03:03:29.158Z",
+    "raw": "Br. Vlaka 89176 odlazak      26.04.26. 05:03, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "89168",
+    "event_time": "2026-04-26T05:07:00",
+    "seen_at": "2026-04-26T03:08:09.943Z",
+    "raw": "Br. Vlaka 89168 dolazak      26.04.26. 05:07, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-26T05:07:00",
+    "seen_at": "2026-04-26T03:08:33.152Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "89176",
+    "event_time": "2026-04-26T05:11:00",
+    "seen_at": "2026-04-26T03:11:40.256Z",
+    "raw": "Br. Vlaka 89176 odlazak      26.04.26. 05:11, kolodvor BUDINŠĆINA"
   }
 ]
