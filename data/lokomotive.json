@@ -10060,5 +10060,59 @@
     "event_time": "2026-04-26T22:31:00",
     "seen_at": "2026-04-26T20:34:50.501Z",
     "raw": "Br. Vlaka 41998 odlazak      26.04.26. 22:31, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-26T14:30:00",
+    "seen_at": "2026-04-26T20:38:02.879Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-26T14:30:00",
+    "seen_at": "2026-04-26T20:38:02.879Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81230",
+    "event_time": "2026-04-26T20:28:00",
+    "seen_at": "2026-04-26T20:38:25.801Z",
+    "raw": "Br. Vlaka 81230 promjena sas 26.04.26. 20:28, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Promjena sastava",
+    "station": "VARAŽDIN",
+    "train_number": "81230",
+    "event_time": "2026-04-26T20:28:00",
+    "seen_at": "2026-04-26T20:38:25.802Z",
+    "raw": "Br. Vlaka 81230 promjena sas 26.04.26. 20:28, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-26T22:38:00",
+    "seen_at": "2026-04-26T20:42:37.801Z",
+    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 22:38, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-04-26T22:38:00",
+    "seen_at": "2026-04-26T20:42:37.801Z",
+    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 22:38, kolodvor BLATA"
   }
 ]
