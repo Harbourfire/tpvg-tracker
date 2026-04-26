@@ -7702,5 +7702,32 @@
     "event_time": "2026-04-26T10:11:00",
     "seen_at": "2026-04-26T08:12:37.239Z",
     "raw": "Br. Vlaka 69350 odlazak      26.04.26. 10:11, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "41998",
+    "event_time": "2026-04-26T10:16:00",
+    "seen_at": "2026-04-26T08:16:45.548Z",
+    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 10:16, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Dolazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "43997",
+    "event_time": "2026-04-26T10:18:00",
+    "seen_at": "2026-04-26T08:18:43.622Z",
+    "raw": "Br. Vlaka 43997 dolazak      26.04.26. 10:18, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": null,
+    "event_time": "2026-04-25T23:49:00",
+    "seen_at": "2026-04-26T08:20:41.508Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
   }
 ]
