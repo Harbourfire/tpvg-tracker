@@ -6595,5 +6595,50 @@
     "event_time": "2026-04-26T04:17:00",
     "seen_at": "2026-04-26T02:18:57.743Z",
     "raw": "Br. Vlaka 43997 odlazak      26.04.26. 04:17, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZABOK",
+    "train_number": null,
+    "event_time": "2026-04-25T18:14:00",
+    "seen_at": "2026-04-26T02:26:58.132Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "79901",
+    "event_time": "2026-04-26T04:25:00",
+    "seen_at": "2026-04-26T02:26:58.134Z",
+    "raw": "Br. Vlaka 79901 odlazak      26.04.26. 04:25, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "ZABOK",
+    "train_number": "89176",
+    "event_time": "2026-04-26T04:24:00",
+    "seen_at": "2026-04-26T02:27:21.245Z",
+    "raw": "Br. Vlaka 89176 formiran     26.04.26. 04:24, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "82501",
+    "event_time": "2026-04-26T04:26:00",
+    "seen_at": "2026-04-26T02:27:21.246Z",
+    "raw": "Br. Vlaka 82501 odlazak      26.04.26. 04:26, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "79901",
+    "event_time": "2026-04-26T04:31:00",
+    "seen_at": "2026-04-26T02:31:34.679Z",
+    "raw": "Br. Vlaka 79901 dolazak      26.04.26. 04:31, kolodvor SESVETE"
   }
 ]
