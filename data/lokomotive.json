@@ -10276,5 +10276,41 @@
     "event_time": "2026-04-26T23:20:00",
     "seen_at": "2026-04-26T21:21:16.627Z",
     "raw": "Br. Vlaka 49998 odlazak      26.04.26. 23:20, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-26T23:27:00",
+    "seen_at": "2026-04-26T21:29:12.890Z",
+    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 23:27, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-26T23:27:00",
+    "seen_at": "2026-04-26T21:29:12.891Z",
+    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 23:27, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "KOTORIBA-GR",
+    "train_number": "49998",
+    "event_time": "2026-04-26T23:25:00",
+    "seen_at": "2026-04-26T21:31:10.233Z",
+    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 23:25, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "KOTORIBA-GR",
+    "train_number": null,
+    "event_time": "2026-04-26T23:25:00",
+    "seen_at": "2026-04-26T21:31:33.613Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
   }
 ]
