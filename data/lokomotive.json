@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "89894",
-    "event_time": "2026-04-25T01:44:00",
-    "seen_at": "2026-04-24T23:44:19.761Z",
-    "raw": "Br. Vlaka 89894 odlazak      25.04.26. 01:44, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "89751",
-    "event_time": "2026-04-25T01:31:00",
-    "seen_at": "2026-04-24T23:45:06.362Z",
-    "raw": "Br. Vlaka 89751 odlazak      25.04.26. 01:31, kolodvor ĐAKOVO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-25T01:43:00",
-    "seen_at": "2026-04-24T23:45:29.662Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "45581",
-    "event_time": "2026-04-25T01:47:00",
-    "seen_at": "2026-04-24T23:47:50.379Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 01:47, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "45581",
-    "event_time": "2026-04-25T01:47:00",
-    "seen_at": "2026-04-24T23:47:50.380Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 01:47, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81989",
-    "event_time": "2026-04-24T21:56:00",
-    "seen_at": "2026-04-24T23:48:13.980Z",
-    "raw": "Br. Vlaka 81989 promjena sas 24.04.26. 21:56, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-25T01:47:00",
-    "seen_at": "2026-04-24T23:50:11.645Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -13417,5 +13354,32 @@
     "event_time": "2026-04-28T01:33:00",
     "seen_at": "2026-04-27T23:34:33.235Z",
     "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:33, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-28T01:43:00",
+    "seen_at": "2026-04-27T23:43:50.012Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:43, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-28T01:43:00",
+    "seen_at": "2026-04-27T23:43:50.012Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:43, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-25T01:47:00",
+    "seen_at": "2026-04-27T23:50:43.680Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
   }
 ]
