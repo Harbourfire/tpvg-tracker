@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "48913",
-    "event_time": "2026-04-25T01:19:00",
-    "seen_at": "2026-04-24T23:19:25.137Z",
-    "raw": "Br. Vlaka 48913 odlazak      25.04.26. 01:19, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "45581",
-    "event_time": "2026-04-25T01:20:00",
-    "seen_at": "2026-04-24T23:22:08.379Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 01:20, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "45581",
-    "event_time": "2026-04-25T01:20:00",
-    "seen_at": "2026-04-24T23:22:08.380Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 01:20, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -13453,5 +13426,77 @@
     "event_time": "2026-04-28T01:03:00",
     "seen_at": "2026-04-27T23:08:39.589Z",
     "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:03, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "82104",
+    "event_time": "2026-04-28T01:13:00",
+    "seen_at": "2026-04-27T23:14:36.321Z",
+    "raw": "Br. Vlaka 82104 odlazak      28.04.26. 01:13, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-28T00:55:00",
+    "seen_at": "2026-04-27T23:16:09.583Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-04-28T01:19:00",
+    "seen_at": "2026-04-27T23:20:18.772Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:19, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63306",
+    "event_time": "2026-04-28T01:19:00",
+    "seen_at": "2026-04-27T23:20:18.772Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:19, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "81970",
+    "event_time": "2026-04-28T01:20:00",
+    "seen_at": "2026-04-27T23:21:04.361Z",
+    "raw": "Br. Vlaka 81970 formiran     28.04.26. 01:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "81970",
+    "event_time": "2026-04-28T01:20:00",
+    "seen_at": "2026-04-27T23:21:04.362Z",
+    "raw": "Br. Vlaka 81970 formiran     28.04.26. 01:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81970",
+    "event_time": "2026-04-28T01:22:00",
+    "seen_at": "2026-04-27T23:22:58.419Z",
+    "raw": "Br. Vlaka 81970 odlazak      28.04.26. 01:22, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81970",
+    "event_time": "2026-04-28T01:22:00",
+    "seen_at": "2026-04-27T23:22:58.420Z",
+    "raw": "Br. Vlaka 81970 odlazak      28.04.26. 01:22, kolodvor OSIJEK"
   }
 ]
