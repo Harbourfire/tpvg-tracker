@@ -13363,5 +13363,68 @@
     "event_time": "2026-04-27T12:35:00",
     "seen_at": "2026-04-27T10:35:38.364Z",
     "raw": "Br. Vlaka 82107 odlazak      27.04.26. 12:35, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "75011",
+    "event_time": "2026-04-27T12:34:00",
+    "seen_at": "2026-04-27T10:36:59.827Z",
+    "raw": "Br. Vlaka 75011 odlazak      27.04.26. 12:34, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "75011",
+    "event_time": "2026-04-27T12:42:00",
+    "seen_at": "2026-04-27T10:42:48.194Z",
+    "raw": "Br. Vlaka 75011 dolazak      27.04.26. 12:42, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47565",
+    "event_time": "2026-04-27T12:39:00",
+    "seen_at": "2026-04-27T10:43:11.217Z",
+    "raw": "Br. Vlaka 47565 odlazak      27.04.26. 12:39, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82102",
+    "event_time": "2026-04-27T12:43:00",
+    "seen_at": "2026-04-27T10:43:57.401Z",
+    "raw": "Br. Vlaka 82102 formiran     27.04.26. 12:43, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82102",
+    "event_time": "2026-04-27T12:43:00",
+    "seen_at": "2026-04-27T10:43:57.401Z",
+    "raw": "Br. Vlaka 82102 formiran     27.04.26. 12:43, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47565",
+    "event_time": "2026-04-27T12:43:00",
+    "seen_at": "2026-04-27T10:44:20.461Z",
+    "raw": "Br. Vlaka 47565 odlazak      27.04.26. 12:43, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "SESVETE",
+    "train_number": null,
+    "event_time": "2026-04-27T12:42:00",
+    "seen_at": "2026-04-27T10:44:20.462Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72402 SESVETE"
   }
 ]
