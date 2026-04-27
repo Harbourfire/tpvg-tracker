@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "45990",
-    "event_time": "2026-04-24T23:59:00",
-    "seen_at": "2026-04-24T21:59:49.851Z",
-    "raw": "Br. Vlaka 45990 odlazak      24.04.26. 23:59, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "82185",
-    "event_time": "2026-04-25T00:04:00",
-    "seen_at": "2026-04-24T22:05:22.579Z",
-    "raw": "Br. Vlaka 82185 odlazak      25.04.26. 00:04, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -13516,5 +13498,41 @@
     "event_time": "2026-04-27T23:52:00",
     "seen_at": "2026-04-27T21:55:04.387Z",
     "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:52, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:58:00",
+    "seen_at": "2026-04-27T21:58:49.769Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:58, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZLATAR-BISTRICA",
+    "train_number": "89148",
+    "event_time": "2026-04-28T00:04:00",
+    "seen_at": "2026-04-27T22:04:42.879Z",
+    "raw": "Br. Vlaka 89148 odlazak      28.04.26. 00:04, kolodvor ZLATAR-BISTRICA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-04-28T00:04:00",
+    "seen_at": "2026-04-27T22:05:53.383Z",
+    "raw": "Br. Vlaka 45130 odlazak      28.04.26. 00:04, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "81285",
+    "event_time": "2026-04-28T00:02:00",
+    "seen_at": "2026-04-27T22:06:16.766Z",
+    "raw": "Br. Vlaka 81285 dolazak      28.04.26. 00:02, kolodvor ČAČINCI"
   }
 ]
