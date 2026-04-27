@@ -13237,5 +13237,95 @@
     "event_time": "2026-04-27T12:10:00",
     "seen_at": "2026-04-27T10:10:41.824Z",
     "raw": "Br. Vlaka 76600 odlazak      27.04.26. 12:10, kolodvor GARČIN"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "75011",
+    "event_time": "2026-04-27T12:16:00",
+    "seen_at": "2026-04-27T10:17:12.853Z",
+    "raw": "Br. Vlaka 75011 odlazak      27.04.26. 12:16, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OKUČANI",
+    "train_number": "82107",
+    "event_time": "2026-04-27T12:19:00",
+    "seen_at": "2026-04-27T10:20:05.245Z",
+    "raw": "Br. Vlaka 82107 formiran     27.04.26. 12:19, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "82107",
+    "event_time": "2026-04-27T12:16:00",
+    "seen_at": "2026-04-27T10:21:42.100Z",
+    "raw": "Br. Vlaka 82107 odlazak      27.04.26. 12:16, kolodvor OKUČANI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82515",
+    "event_time": "2026-04-27T12:22:00",
+    "seen_at": "2026-04-27T10:23:16.962Z",
+    "raw": "Br. Vlaka 82515 odlazak      27.04.26. 12:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82515",
+    "event_time": "2026-04-27T12:22:00",
+    "seen_at": "2026-04-27T10:23:16.962Z",
+    "raw": "Br. Vlaka 82515 odlazak      27.04.26. 12:22, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "75011",
+    "event_time": "2026-04-27T12:22:00",
+    "seen_at": "2026-04-27T10:23:16.963Z",
+    "raw": "Br. Vlaka 75011 odlazak      27.04.26. 12:22, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "89301",
+    "event_time": "2026-04-27T12:20:00",
+    "seen_at": "2026-04-27T10:23:16.963Z",
+    "raw": "Br. Vlaka 89301 dolazak      27.04.26. 12:20, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "PLETERNICA",
+    "train_number": null,
+    "event_time": "2026-04-27T12:20:00",
+    "seen_at": "2026-04-27T10:23:40.794Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73601 PLETERNICA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76600",
+    "event_time": "2026-04-27T12:22:00",
+    "seen_at": "2026-04-27T10:26:01.264Z",
+    "raw": "Br. Vlaka 76600 dolazak      27.04.26. 12:22, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-27T12:22:00",
+    "seen_at": "2026-04-27T10:26:25.419Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
