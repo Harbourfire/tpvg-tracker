@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-25T00:08:00",
-    "seen_at": "2026-04-24T22:09:42.558Z",
-    "raw": "Br. Vlaka 63305 odlazak      25.04.26. 00:08, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45990",
-    "event_time": "2026-04-25T00:08:00",
-    "seen_at": "2026-04-24T22:11:15.638Z",
-    "raw": "Br. Vlaka 45990 odlazak      25.04.26. 00:08, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "82185",
-    "event_time": "2026-04-25T00:15:00",
-    "seen_at": "2026-04-24T22:15:31.650Z",
-    "raw": "Br. Vlaka 82185 dolazak      25.04.26. 00:15, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-25T00:15:00",
-    "seen_at": "2026-04-24T22:15:55.108Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -13534,5 +13498,32 @@
     "event_time": "2026-04-28T00:02:00",
     "seen_at": "2026-04-27T22:06:16.766Z",
     "raw": "Br. Vlaka 81285 dolazak      28.04.26. 00:02, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "89148",
+    "event_time": "2026-04-28T00:10:00",
+    "seen_at": "2026-04-27T22:10:48.897Z",
+    "raw": "Br. Vlaka 89148 odlazak      28.04.26. 00:10, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-28T00:13:00",
+    "seen_at": "2026-04-27T22:13:29.790Z",
+    "raw": "Br. Vlaka 63306 formiran     28.04.26. 00:13, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-28T00:13:00",
+    "seen_at": "2026-04-27T22:13:29.790Z",
+    "raw": "Br. Vlaka 63306 formiran     28.04.26. 00:13, kolodvor GOSPIĆ"
   }
 ]
