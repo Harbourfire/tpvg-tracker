@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Formiran",
-    "station": "VALPOVO",
-    "train_number": "82185",
-    "event_time": "2026-04-24T20:53:00",
-    "seen_at": "2026-04-24T18:54:04.744Z",
-    "raw": "Br. Vlaka 82185 formiran     24.04.26. 20:53, kolodvor VALPOVO"
-  },
-  {
-    "uic": "927820622029",
     "type": "Odlazak",
     "station": "VALPOVO",
     "train_number": "82185",
@@ -13714,5 +13705,14 @@
     "event_time": "2026-04-27T20:45:00",
     "seen_at": "2026-04-27T18:45:48.069Z",
     "raw": "Br. Vlaka 61004 formiran     27.04.26. 20:45, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-04-27T20:50:00",
+    "seen_at": "2026-04-27T18:50:57.877Z",
+    "raw": "Br. Vlaka 61004 odlazak      27.04.26. 20:50, kolodvor OSIJEK DONJI GRAD"
   }
 ]
