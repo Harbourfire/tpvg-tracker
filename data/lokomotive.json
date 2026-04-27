@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81122",
-    "event_time": "2026-04-24T22:08:00",
-    "seen_at": "2026-04-24T20:09:10.927Z",
-    "raw": "Br. Vlaka 81122 odlazak      24.04.26. 22:08, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89288",
-    "event_time": "2026-04-24T22:06:00",
-    "seen_at": "2026-04-24T20:09:10.927Z",
-    "raw": "Br. Vlaka 89288 odlazak      24.04.26. 22:06, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81122",
-    "event_time": "2026-04-24T22:08:00",
-    "seen_at": "2026-04-24T20:09:10.927Z",
-    "raw": "Br. Vlaka 81122 odlazak      24.04.26. 22:08, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89288",
-    "event_time": "2026-04-24T22:06:00",
-    "seen_at": "2026-04-24T20:09:10.927Z",
-    "raw": "Br. Vlaka 89288 odlazak      24.04.26. 22:06, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -13642,5 +13606,68 @@
     "event_time": "2026-04-27T21:55:00",
     "seen_at": "2026-04-27T19:55:21.887Z",
     "raw": "Br. Vlaka 82101 odlazak      27.04.26. 21:55, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-27T22:04:00",
+    "seen_at": "2026-04-27T20:05:07.580Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:04, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-04-27T22:04:00",
+    "seen_at": "2026-04-27T20:05:07.580Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:04, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "45130",
+    "event_time": "2026-04-27T16:46:00",
+    "seen_at": "2026-04-27T20:06:16.528Z",
+    "raw": "Br. Vlaka 45130 promjena sas 27.04.26. 16:46, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "82101",
+    "event_time": "2026-04-27T22:05:00",
+    "seen_at": "2026-04-27T20:10:29.606Z",
+    "raw": "Br. Vlaka 82101 dolazak      27.04.26. 22:05, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "ZABOK",
+    "train_number": "82101",
+    "event_time": "2026-04-27T22:05:00",
+    "seen_at": "2026-04-27T20:10:29.606Z",
+    "raw": "Br. Vlaka 82101 dolazak      27.04.26. 22:05, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-27T22:09:00",
+    "seen_at": "2026-04-27T20:10:52.759Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:09, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-04-27T22:09:00",
+    "seen_at": "2026-04-27T20:10:52.759Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:09, kolodvor JOSIPDOL"
   }
 ]
