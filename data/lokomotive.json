@@ -13048,5 +13048,68 @@
     "event_time": "2026-04-27T11:37:00",
     "seen_at": "2026-04-27T09:38:33.363Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "76600",
+    "event_time": "2026-04-27T11:38:00",
+    "seen_at": "2026-04-27T09:39:15.246Z",
+    "raw": "Br. Vlaka 76600 odlazak      27.04.26. 11:38, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69751",
+    "event_time": "2026-04-27T11:38:00",
+    "seen_at": "2026-04-27T09:39:38.720Z",
+    "raw": "Br. Vlaka 69751 formiran     27.04.26. 11:38, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "69751",
+    "event_time": "2026-04-27T11:39:00",
+    "seen_at": "2026-04-27T09:40:01.638Z",
+    "raw": "Br. Vlaka 69751 odlazak      27.04.26. 11:39, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89250",
+    "event_time": "2026-04-27T11:40:00",
+    "seen_at": "2026-04-27T09:40:25.333Z",
+    "raw": "Br. Vlaka 89250 odlazak      27.04.26. 11:40, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "76600",
+    "event_time": "2026-04-27T11:46:00",
+    "seen_at": "2026-04-27T09:46:38.326Z",
+    "raw": "Br. Vlaka 76600 odlazak      27.04.26. 11:46, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69751",
+    "event_time": "2026-04-27T11:42:00",
+    "seen_at": "2026-04-27T09:47:01.409Z",
+    "raw": "Br. Vlaka 69751 dolazak      27.04.26. 11:42, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-27T11:42:00",
+    "seen_at": "2026-04-27T09:48:10.089Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
   }
 ]
