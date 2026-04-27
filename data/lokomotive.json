@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-04-24T23:05:00",
-    "seen_at": "2026-04-24T21:21:04.832Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-04-24T23:05:00",
-    "seen_at": "2026-04-24T21:21:04.832Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-24T23:23:00",
-    "seen_at": "2026-04-24T21:23:37.137Z",
-    "raw": "Br. Vlaka 63305 odlazak      24.04.26. 23:23, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF",
-    "train_number": "45581",
-    "event_time": "2026-04-24T23:19:00",
-    "seen_at": "2026-04-24T21:24:22.398Z",
-    "raw": "Br. Vlaka 45581 promjena sas 24.04.26. 23:19, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "SAVSKI MAROF",
-    "train_number": "45581",
-    "event_time": "2026-04-24T23:19:00",
-    "seen_at": "2026-04-24T21:24:45.087Z",
-    "raw": "Br. Vlaka 45581 promjena sas 24.04.26. 23:19, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "KRIŽEVCI",
@@ -13561,5 +13516,23 @@
     "event_time": "2026-04-27T23:17:00",
     "seen_at": "2026-04-27T21:18:00.292Z",
     "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:17, kolodvor NAŠICE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "PODSUSED tvornica",
+    "train_number": "89148",
+    "event_time": "2026-04-27T22:25:00",
+    "seen_at": "2026-04-27T21:20:34.568Z",
+    "raw": "Br. Vlaka 89148 formiran     27.04.26. 22:25, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:26:00",
+    "seen_at": "2026-04-27T21:27:27.337Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:26, kolodvor PODSUSED tvornica"
   }
 ]
