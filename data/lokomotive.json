@@ -13543,5 +13543,41 @@
     "event_time": "2026-04-27T13:20:00",
     "seen_at": "2026-04-27T11:20:15.613Z",
     "raw": "Br. Vlaka 47565 dolazak      27.04.26. 13:20, kolodvor 72303"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89921",
+    "event_time": "2026-04-27T13:24:00",
+    "seen_at": "2026-04-27T11:26:58.958Z",
+    "raw": "Br. Vlaka 89921 odlazak      27.04.26. 13:24, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-27T14:50:00",
+    "seen_at": "2026-04-27T11:27:21.700Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48799",
+    "event_time": "2026-04-27T10:44:00",
+    "seen_at": "2026-04-27T11:27:44.777Z",
+    "raw": "Br. Vlaka 48799 promjena sas 27.04.26. 10:44, kolodvor 72303"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89921",
+    "event_time": "2026-04-27T13:32:00",
+    "seen_at": "2026-04-27T11:33:09.840Z",
+    "raw": "Br. Vlaka 89921 dolazak      27.04.26. 13:32, kolodvor MALA SUBOTICA"
   }
 ]
