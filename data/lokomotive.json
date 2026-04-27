@@ -13507,5 +13507,41 @@
     "event_time": "2026-04-27T13:11:00",
     "seen_at": "2026-04-27T11:13:48.313Z",
     "raw": "Br. Vlaka 89921 odlazak      27.04.26. 13:11, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47565",
+    "event_time": "2026-04-27T13:14:00",
+    "seen_at": "2026-04-27T11:16:21.259Z",
+    "raw": "Br. Vlaka 47565 odlazak      27.04.26. 13:14, kolodvor 72304"
+  },
+  {
+    "uic": "927820620197",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-27T11:18:17.785Z",
+    "seen_at": "2026-04-27T11:18:17.785Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-27T11:18:41.561Z",
+    "seen_at": "2026-04-27T11:18:41.561Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47565",
+    "event_time": "2026-04-27T13:20:00",
+    "seen_at": "2026-04-27T11:20:15.613Z",
+    "raw": "Br. Vlaka 47565 dolazak      27.04.26. 13:20, kolodvor 72303"
   }
 ]
