@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "69785",
-    "event_time": "2026-04-24T18:20:00",
-    "seen_at": "2026-04-24T18:40:17.060Z",
-    "raw": "Br. Vlaka 69785 formiran     24.04.26. 18:20, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81122",
-    "event_time": "2026-04-24T20:47:00",
-    "seen_at": "2026-04-24T18:48:30.877Z",
-    "raw": "Br. Vlaka 81122 odlazak      24.04.26. 20:47, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81122",
-    "event_time": "2026-04-24T20:47:00",
-    "seen_at": "2026-04-24T18:48:30.877Z",
-    "raw": "Br. Vlaka 81122 odlazak      24.04.26. 20:47, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820622029",
     "type": "Formiran",
     "station": "VALPOVO",
@@ -13705,5 +13678,41 @@
     "event_time": "2026-04-27T20:19:00",
     "seen_at": "2026-04-27T18:21:15.876Z",
     "raw": "Br. Vlaka 81285 odlazak      27.04.26. 20:19, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82101",
+    "event_time": "2026-04-27T20:41:00",
+    "seen_at": "2026-04-27T18:43:31.667Z",
+    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 20:41, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "NOVI MAROF",
+    "train_number": "82101",
+    "event_time": "2026-04-27T20:41:00",
+    "seen_at": "2026-04-27T18:43:31.668Z",
+    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 20:41, kolodvor NOVI MAROF"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "BIZOVAC",
+    "train_number": "81285",
+    "event_time": "2026-04-27T20:43:00",
+    "seen_at": "2026-04-27T18:45:02.385Z",
+    "raw": "Br. Vlaka 81285 dolazak      27.04.26. 20:43, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "61004",
+    "event_time": "2026-04-27T20:45:00",
+    "seen_at": "2026-04-27T18:45:48.069Z",
+    "raw": "Br. Vlaka 61004 formiran     27.04.26. 20:45, kolodvor OSIJEK DONJI GRAD"
   }
 ]
