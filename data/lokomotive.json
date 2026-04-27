@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "48913",
-    "event_time": "2026-04-24T23:12:00",
-    "seen_at": "2026-04-24T21:12:38.262Z",
-    "raw": "Br. Vlaka 48913 odlazak      24.04.26. 23:12, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "45990",
-    "event_time": "2026-04-24T23:12:00",
-    "seen_at": "2026-04-24T21:13:40.444Z",
-    "raw": "Br. Vlaka 45990 dolazak      24.04.26. 23:12, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "45990",
-    "event_time": "2026-04-24T23:13:00",
-    "seen_at": "2026-04-24T21:14:08.479Z",
-    "raw": "Br. Vlaka 45990 odlazak      24.04.26. 23:13, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-24T23:16:00",
-    "seen_at": "2026-04-24T21:16:50.150Z",
-    "raw": "Br. Vlaka 63305 odlazak      24.04.26. 23:16, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "45581",
-    "event_time": "2026-04-24T23:15:00",
-    "seen_at": "2026-04-24T21:18:23.244Z",
-    "raw": "Br. Vlaka 45581 odlazak      24.04.26. 23:15, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "45581",
-    "event_time": "2026-04-24T23:15:00",
-    "seen_at": "2026-04-24T21:18:23.245Z",
-    "raw": "Br. Vlaka 45581 odlazak      24.04.26. 23:15, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "45581",
-    "event_time": "2026-04-24T23:19:00",
-    "seen_at": "2026-04-24T21:19:32.959Z",
-    "raw": "Br. Vlaka 45581 dolazak      24.04.26. 23:19, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "45581",
-    "event_time": "2026-04-24T23:19:00",
-    "seen_at": "2026-04-24T21:19:32.960Z",
-    "raw": "Br. Vlaka 45581 dolazak      24.04.26. 23:19, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820440141",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF",
@@ -13606,5 +13534,32 @@
     "event_time": "2026-04-27T23:03:00",
     "seen_at": "2026-04-27T21:04:38.578Z",
     "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:03, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-27T23:16:00",
+    "seen_at": "2026-04-27T21:17:13.961Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:16, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-27T23:16:00",
+    "seen_at": "2026-04-27T21:17:13.961Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:16, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "81285",
+    "event_time": "2026-04-27T23:17:00",
+    "seen_at": "2026-04-27T21:18:00.292Z",
+    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:17, kolodvor NAŠICE"
   }
 ]
