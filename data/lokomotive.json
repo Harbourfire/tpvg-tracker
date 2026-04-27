@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "48913",
-    "event_time": "2026-04-24T23:33:00",
-    "seen_at": "2026-04-24T21:33:20.363Z",
-    "raw": "Br. Vlaka 48913 odlazak      24.04.26. 23:33, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "45990",
-    "event_time": "2026-04-24T23:31:00",
-    "seen_at": "2026-04-24T21:33:20.363Z",
-    "raw": "Br. Vlaka 45990 dolazak      24.04.26. 23:31, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "45990",
-    "event_time": "2026-04-24T23:32:00",
-    "seen_at": "2026-04-24T21:33:43.851Z",
-    "raw": "Br. Vlaka 45990 odlazak      24.04.26. 23:32, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-24T23:37:00",
-    "seen_at": "2026-04-24T21:38:15.923Z",
-    "raw": "Br. Vlaka 63305 dolazak      24.04.26. 23:37, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "928012230100",
     "type": "Promjena sastava",
     "station": "LIČKO LEŠĆE",
@@ -13534,5 +13498,50 @@
     "event_time": "2026-04-27T23:26:00",
     "seen_at": "2026-04-27T21:27:27.337Z",
     "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:26, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:32:00",
+    "seen_at": "2026-04-27T21:32:40.040Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:32, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-27T23:32:00",
+    "seen_at": "2026-04-27T21:34:35.376Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:32, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-27T23:32:00",
+    "seen_at": "2026-04-27T21:34:35.377Z",
+    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:32, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "NOVI DVORI",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:36:00",
+    "seen_at": "2026-04-27T21:37:18.450Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:36, kolodvor NOVI DVORI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "81285",
+    "event_time": "2026-04-27T23:36:00",
+    "seen_at": "2026-04-27T21:37:18.450Z",
+    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:36, kolodvor ĐURĐENOVAC"
   }
 ]
