@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48913",
-    "event_time": "2026-04-24T23:49:00",
-    "seen_at": "2026-04-24T21:49:27.643Z",
-    "raw": "Br. Vlaka 48913 dolazak      24.04.26. 23:49, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "45990",
-    "event_time": "2026-04-24T23:52:00",
-    "seen_at": "2026-04-24T21:52:48.632Z",
-    "raw": "Br. Vlaka 45990 odlazak      24.04.26. 23:52, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48913",
-    "event_time": "2026-04-24T23:52:00",
-    "seen_at": "2026-04-24T21:54:45.985Z",
-    "raw": "Br. Vlaka 48913 odlazak      24.04.26. 23:52, kolodvor VRBOVEC"
-  },
-  {
     "uic": "927820440240",
     "type": "Odlazak",
     "station": "GRADEC",
@@ -13507,5 +13480,41 @@
     "event_time": "2026-04-27T23:45:00",
     "seen_at": "2026-04-27T21:45:47.188Z",
     "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:45, kolodvor VELIKO TRGOVIŠĆE"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ZABOK",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:48:00",
+    "seen_at": "2026-04-27T21:49:56.660Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:48, kolodvor ZABOK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-27T23:47:00",
+    "seen_at": "2026-04-27T21:49:56.661Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-27T23:47:00",
+    "seen_at": "2026-04-27T21:49:56.661Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "81285",
+    "event_time": "2026-04-27T23:52:00",
+    "seen_at": "2026-04-27T21:55:04.387Z",
+    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:52, kolodvor ZDENCI-ORAHOVICA"
   }
 ]
