@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45990",
-    "event_time": "2026-04-25T00:35:00",
-    "seen_at": "2026-04-24T22:37:50.076Z",
-    "raw": "Br. Vlaka 45990 odlazak      25.04.26. 00:35, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-25T00:40:00",
-    "seen_at": "2026-04-24T22:40:53.643Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "43999",
-    "event_time": "2026-04-25T00:42:00",
-    "seen_at": "2026-04-24T22:43:56.055Z",
-    "raw": "Br. Vlaka 43999 odlazak      25.04.26. 00:42, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "45990",
-    "event_time": "2026-04-25T00:46:00",
-    "seen_at": "2026-04-24T22:47:53.852Z",
-    "raw": "Br. Vlaka 45990 odlazak      25.04.26. 00:46, kolodvor 73164"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "89751",
-    "event_time": "2026-04-25T00:52:00",
-    "seen_at": "2026-04-24T22:52:26.616Z",
-    "raw": "Br. Vlaka 89751 odlazak      25.04.26. 00:52, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "43999",
-    "event_time": "2026-04-25T00:52:00",
-    "seen_at": "2026-04-24T22:52:26.616Z",
-    "raw": "Br. Vlaka 43999 dolazak      25.04.26. 00:52, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820440240",
     "type": "Rasformiran",
     "station": "KOPRIVNICA GR    A",
     "train_number": null,
@@ -13489,5 +13435,41 @@
     "event_time": "2026-04-28T00:34:00",
     "seen_at": "2026-04-27T22:35:34.181Z",
     "raw": "Br. Vlaka 82104 odlazak      28.04.26. 00:34, kolodvor ZABOK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "BEDEKOVČINA",
+    "train_number": "82104",
+    "event_time": "2026-04-28T00:46:00",
+    "seen_at": "2026-04-27T22:46:25.223Z",
+    "raw": "Br. Vlaka 82104 odlazak      28.04.26. 00:46, kolodvor BEDEKOVČINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "89148",
+    "event_time": "2026-04-28T00:48:00",
+    "seen_at": "2026-04-27T22:49:32.999Z",
+    "raw": "Br. Vlaka 89148 odlazak      28.04.26. 00:48, kolodvor TURČIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-28T00:51:00",
+    "seen_at": "2026-04-27T22:51:29.789Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 00:51, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-28T00:51:00",
+    "seen_at": "2026-04-27T22:51:29.789Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 00:51, kolodvor GOSPIĆ"
   }
 ]
