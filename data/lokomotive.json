@@ -12697,5 +12697,41 @@
     "event_time": "2026-04-27T10:30:00",
     "seen_at": "2026-04-27T08:31:15.882Z",
     "raw": "Br. Vlaka 48799 odlazak      27.04.26. 10:30, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "79906",
+    "event_time": "2026-04-27T10:30:00",
+    "seen_at": "2026-04-27T08:32:15.519Z",
+    "raw": "Br. Vlaka 79906 dolazak      27.04.26. 10:30, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-27T10:30:00",
+    "seen_at": "2026-04-27T08:33:02.067Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48799",
+    "event_time": "2026-04-27T10:36:00",
+    "seen_at": "2026-04-27T08:37:36.735Z",
+    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 10:36, kolodvor 72302"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "48799",
+    "event_time": "2026-04-27T10:36:00",
+    "seen_at": "2026-04-27T08:37:36.736Z",
+    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 10:36, kolodvor 72302"
   }
 ]
