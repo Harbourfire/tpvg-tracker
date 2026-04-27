@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-24T23:37:00",
-    "seen_at": "2026-04-24T21:40:09.141Z",
-    "raw": "Br. Vlaka 63305 promjena sas 24.04.26. 23:37, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "82185",
-    "event_time": "2026-04-24T23:32:00",
-    "seen_at": "2026-04-24T21:40:31.804Z",
-    "raw": "Br. Vlaka 82185 odlazak      24.04.26. 23:32, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "43999",
-    "event_time": "2026-04-24T23:41:00",
-    "seen_at": "2026-04-24T21:41:26.991Z",
-    "raw": "Br. Vlaka 43999 formiran     24.04.26. 23:41, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48913",
-    "event_time": "2026-04-24T23:42:00",
-    "seen_at": "2026-04-24T21:42:36.405Z",
-    "raw": "Br. Vlaka 48913 odlazak      24.04.26. 23:42, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-24T18:35:00",
-    "seen_at": "2026-04-24T21:47:56.593Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-24T18:35:00",
-    "seen_at": "2026-04-24T21:47:56.593Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
     "uic": "927820622037",
     "type": "Dolazak",
     "station": "VRBOVEC",
@@ -13543,5 +13489,23 @@
     "event_time": "2026-04-27T23:36:00",
     "seen_at": "2026-04-27T21:37:18.450Z",
     "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:36, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "LUKA",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:41:00",
+    "seen_at": "2026-04-27T21:41:26.977Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:41, kolodvor LUKA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VELIKO TRGOVIŠĆE",
+    "train_number": "89148",
+    "event_time": "2026-04-27T23:45:00",
+    "seen_at": "2026-04-27T21:45:47.188Z",
+    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:45, kolodvor VELIKO TRGOVIŠĆE"
   }
 ]
