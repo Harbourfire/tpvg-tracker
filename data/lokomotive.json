@@ -11599,5 +11599,59 @@
     "event_time": "2026-04-27T07:21:00",
     "seen_at": "2026-04-27T05:21:25.128Z",
     "raw": "Br. Vlaka 69326 odlazak      27.04.26. 07:21, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-27T07:23:00",
+    "seen_at": "2026-04-27T05:23:54.983Z",
+    "raw": "Br. Vlaka 45105 odlazak      27.04.26. 07:23, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "89252",
+    "event_time": "2026-04-27T07:26:00",
+    "seen_at": "2026-04-27T05:27:00.533Z",
+    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:26, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-27T07:25:00",
+    "seen_at": "2026-04-27T05:27:23.573Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66853",
+    "event_time": "2026-04-27T07:24:00",
+    "seen_at": "2026-04-27T05:28:56.216Z",
+    "raw": "Br. Vlaka 66853 dolazak      27.04.26. 07:24, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": null,
+    "event_time": "2026-04-27T07:24:00",
+    "seen_at": "2026-04-27T05:29:19.497Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-27T07:29:00",
+    "seen_at": "2026-04-27T05:30:05.666Z",
+    "raw": "Br. Vlaka 71203 formiran     27.04.26. 07:29, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
