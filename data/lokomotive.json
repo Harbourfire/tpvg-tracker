@@ -13849,5 +13849,41 @@
     "event_time": "2026-04-27T15:13:00",
     "seen_at": "2026-04-27T13:21:58.428Z",
     "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82102",
+    "event_time": "2026-04-27T15:35:00",
+    "seen_at": "2026-04-27T13:37:06.316Z",
+    "raw": "Br. Vlaka 82102 dolazak      27.04.26. 15:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82102",
+    "event_time": "2026-04-27T15:35:00",
+    "seen_at": "2026-04-27T13:37:06.316Z",
+    "raw": "Br. Vlaka 82102 dolazak      27.04.26. 15:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "82102",
+    "event_time": "2026-04-27T15:35:00",
+    "seen_at": "2026-04-27T13:40:09.228Z",
+    "raw": "Br. Vlaka 82102 promjena sas 27.04.26. 15:35, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "82102",
+    "event_time": "2026-04-27T15:35:00",
+    "seen_at": "2026-04-27T13:40:09.229Z",
+    "raw": "Br. Vlaka 82102 promjena sas 27.04.26. 15:35, kolodvor JOSIPDOL"
   }
 ]
