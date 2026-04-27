@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "48913",
-    "event_time": "2026-04-24T20:10:00",
-    "seen_at": "2026-04-24T18:10:59.691Z",
-    "raw": "Br. Vlaka 48913 formiran     24.04.26. 20:10, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -13687,5 +13678,41 @@
     "event_time": "2026-04-27T19:55:00",
     "seen_at": "2026-04-27T17:56:30.270Z",
     "raw": "Br. Vlaka 81285 odlazak      27.04.26. 19:55, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82101",
+    "event_time": "2026-04-27T20:07:00",
+    "seen_at": "2026-04-27T18:12:36.355Z",
+    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 20:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "82101",
+    "event_time": "2026-04-27T20:07:00",
+    "seen_at": "2026-04-27T18:12:36.356Z",
+    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 20:07, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82101",
+    "event_time": "2026-04-27T20:17:00",
+    "seen_at": "2026-04-27T18:19:06.899Z",
+    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 20:17, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82101",
+    "event_time": "2026-04-27T20:17:00",
+    "seen_at": "2026-04-27T18:19:06.899Z",
+    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 20:17, kolodvor TURČIN"
   }
 ]
