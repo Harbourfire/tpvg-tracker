@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-24T20:24:00",
-    "seen_at": "2026-04-24T17:55:29.230Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-24T19:50:00",
-    "seen_at": "2026-04-24T17:55:53.121Z",
-    "raw": "Br. Vlaka 63305 formiran     24.04.26. 19:50, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "OSIJEK DONJI GRAD",
@@ -13732,5 +13714,14 @@
     "event_time": "2026-04-24T19:30:00",
     "seen_at": "2026-04-27T17:30:57.295Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81285",
+    "event_time": "2026-04-27T19:55:00",
+    "seen_at": "2026-04-27T17:56:30.270Z",
+    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 19:55, kolodvor OSIJEK"
   }
 ]
