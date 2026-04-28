@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-25T00:21:48.737Z",
-    "seen_at": "2026-04-25T00:21:48.737Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "49996",
-    "train_number": null,
-    "event_time": "2026-04-25T00:22:12.058Z",
-    "seen_at": "2026-04-25T00:22:12.058Z",
-    "raw": "Trenutna pozicija je u kolodvoru 49996 49996"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "89894",
-    "event_time": "2026-04-25T02:22:00",
-    "seen_at": "2026-04-25T00:22:35.417Z",
-    "raw": "Br. Vlaka 89894 odlazak      25.04.26. 02:22, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:22:00",
-    "seen_at": "2026-04-25T00:24:08.957Z",
-    "raw": "Br. Vlaka 45581 dolazak      25.04.26. 02:22, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:22:00",
-    "seen_at": "2026-04-25T00:24:08.957Z",
-    "raw": "Br. Vlaka 45581 dolazak      25.04.26. 02:22, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:23:00",
-    "seen_at": "2026-04-25T00:25:40.805Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 02:23, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:23:00",
-    "seen_at": "2026-04-25T00:25:40.806Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 02:23, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "89894",
-    "event_time": "2026-04-25T02:28:00",
-    "seen_at": "2026-04-25T00:28:45.624Z",
-    "raw": "Br. Vlaka 89894 odlazak      25.04.26. 02:28, kolodvor GRADEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -13345,5 +13273,68 @@
     "event_time": "2026-04-28T02:17:00",
     "seen_at": "2026-04-28T00:18:28.538Z",
     "raw": "Br. Vlaka 81970 dolazak      28.04.26. 02:17, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T01:00:00",
+    "seen_at": "2026-04-28T00:21:19.733Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T01:00:00",
+    "seen_at": "2026-04-28T00:21:19.734Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "82104",
+    "event_time": "2026-04-28T02:23:00",
+    "seen_at": "2026-04-28T00:25:30.810Z",
+    "raw": "Br. Vlaka 82104 odlazak      28.04.26. 02:23, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-28T02:25:00",
+    "seen_at": "2026-04-28T00:27:24.579Z",
+    "raw": "Br. Vlaka 45105 formiran     28.04.26. 02:25, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "47988",
+    "event_time": "2026-04-28T02:28:00",
+    "seen_at": "2026-04-28T00:28:33.474Z",
+    "raw": "Br. Vlaka 47988 formiran     28.04.26. 02:28, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-04-28T02:28:00",
+    "seen_at": "2026-04-28T00:28:33.474Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:28, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-04-28T02:28:00",
+    "seen_at": "2026-04-28T00:28:33.474Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:28, kolodvor JOSIPDOL"
   }
 ]
