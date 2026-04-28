@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82321",
-    "event_time": "2026-04-25T10:48:00",
-    "seen_at": "2026-04-25T08:50:59.765Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 10:48, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82321",
-    "event_time": "2026-04-25T10:48:00",
-    "seen_at": "2026-04-25T08:50:59.765Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 10:48, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66854",
-    "event_time": "2026-04-25T10:52:00",
-    "seen_at": "2026-04-25T08:52:31.405Z",
-    "raw": "Br. Vlaka 66854 odlazak      25.04.26. 10:52, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "KOPRIVNICA",
@@ -13669,5 +13642,95 @@
     "event_time": "2026-04-28T10:43:00",
     "seen_at": "2026-04-28T08:45:47.924Z",
     "raw": "Br. Vlaka 69613 odlazak      28.04.26. 10:43, kolodvor 72302"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:44:00",
+    "seen_at": "2026-04-28T08:48:24.411Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:44, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:44:00",
+    "seen_at": "2026-04-28T08:48:24.411Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:44, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:48:00",
+    "seen_at": "2026-04-28T08:48:47.645Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:48, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:48:00",
+    "seen_at": "2026-04-28T08:48:47.645Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:48, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Formiran",
+    "station": "KOTORIBA-GR",
+    "train_number": "89923",
+    "event_time": "2026-04-28T10:49:00",
+    "seen_at": "2026-04-28T08:50:21.327Z",
+    "raw": "Br. Vlaka 89923 formiran     28.04.26. 10:49, kolodvor KOTORIBA-GR"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81971",
+    "event_time": "2026-04-28T10:49:00",
+    "seen_at": "2026-04-28T08:50:45.472Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 10:49, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81971",
+    "event_time": "2026-04-28T10:49:00",
+    "seen_at": "2026-04-28T08:50:45.473Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 10:49, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:53:00",
+    "seen_at": "2026-04-28T08:53:55.526Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:53, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:53:00",
+    "seen_at": "2026-04-28T08:53:55.527Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:53, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-28T10:50:00",
+    "seen_at": "2026-04-28T08:55:06.133Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
