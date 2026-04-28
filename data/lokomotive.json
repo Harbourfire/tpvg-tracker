@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "46896",
-    "event_time": "2026-04-25T12:15:00",
-    "seen_at": "2026-04-25T12:01:14.151Z",
-    "raw": "Br. Vlaka 46896 promjena sas 25.04.26. 12:15, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-24T20:17:00",
-    "seen_at": "2026-04-25T12:01:36.967Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "47981",
-    "event_time": "2026-04-25T14:00:00",
-    "seen_at": "2026-04-25T12:01:59.745Z",
-    "raw": "Br. Vlaka 47981 odlazak      25.04.26. 14:00, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "44996",
-    "event_time": "2026-04-25T14:02:00",
-    "seen_at": "2026-04-25T12:03:08.856Z",
-    "raw": "Br. Vlaka 44996 dolazak      25.04.26. 14:02, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "44996",
-    "event_time": "2026-04-25T14:02:00",
-    "seen_at": "2026-04-25T12:03:08.856Z",
-    "raw": "Br. Vlaka 44996 dolazak      25.04.26. 14:02, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820621104",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -13885,5 +13840,32 @@
     "event_time": "2026-04-28T13:49:00",
     "seen_at": "2026-04-28T11:50:01.325Z",
     "raw": "Br. Vlaka 83808 odlazak      28.04.26. 13:49, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BELI MANASTIR",
+    "train_number": "69771",
+    "event_time": "2026-04-28T14:00:00",
+    "seen_at": "2026-04-28T12:00:49.125Z",
+    "raw": "Br. Vlaka 69771 odlazak      28.04.26. 14:00, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "83808",
+    "event_time": "2026-04-28T14:02:00",
+    "seen_at": "2026-04-28T12:02:44.211Z",
+    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 14:02, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76501",
+    "event_time": "2026-04-28T14:07:00",
+    "seen_at": "2026-04-28T12:07:27.611Z",
+    "raw": "Br. Vlaka 76501 odlazak      28.04.26. 14:07, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
