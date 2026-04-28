@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T12:48:00",
-    "seen_at": "2026-04-25T10:51:30.068Z",
-    "raw": "Br. Vlaka 44996 dolazak      25.04.26. 12:48, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T12:48:00",
-    "seen_at": "2026-04-25T10:51:30.069Z",
-    "raw": "Br. Vlaka 44996 dolazak      25.04.26. 12:48, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T12:49:00",
-    "seen_at": "2026-04-25T10:51:53.054Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 12:49, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T12:49:00",
-    "seen_at": "2026-04-25T10:51:53.054Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 12:49, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820620254",
     "type": "Odlazak",
     "station": "SPAČVA",
@@ -13948,5 +13912,32 @@
     "event_time": "2026-04-28T12:42:00",
     "seen_at": "2026-04-28T10:42:50.871Z",
     "raw": "Br. Vlaka 89923 odlazak      28.04.26. 12:42, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T12:45:00",
+    "seen_at": "2026-04-28T10:46:33.583Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89721",
+    "event_time": "2026-04-28T12:48:00",
+    "seen_at": "2026-04-28T10:48:52.242Z",
+    "raw": "Br. Vlaka 89721 odlazak      28.04.26. 12:48, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89923",
+    "event_time": "2026-04-28T12:49:00",
+    "seen_at": "2026-04-28T10:49:38.772Z",
+    "raw": "Br. Vlaka 89923 odlazak      28.04.26. 12:49, kolodvor MALA SUBOTICA"
   }
 ]
