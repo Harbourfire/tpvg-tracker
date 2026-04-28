@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44997",
-    "event_time": "2026-04-26T01:28:00",
-    "seen_at": "2026-04-25T23:29:19.597Z",
-    "raw": "Br. Vlaka 44997 odlazak      26.04.26. 01:28, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89157",
-    "event_time": "2026-04-26T01:32:00",
-    "seen_at": "2026-04-25T23:34:14.859Z",
-    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 01:32, kolodvor JASTREBARSKO"
-  },
-  {
     "uic": "927820620197",
     "type": "Dolazak",
     "station": "KOTORIBA",
@@ -12517,5 +12499,23 @@
     "event_time": "2026-04-29T01:18:00",
     "seen_at": "2026-04-28T23:19:37.980Z",
     "raw": "Br. Vlaka 63305 odlazak      29.04.26. 01:18, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-29T01:29:00",
+    "seen_at": "2026-04-28T23:29:46.818Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-29T01:29:00",
+    "seen_at": "2026-04-28T23:29:46.818Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
