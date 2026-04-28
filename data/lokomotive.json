@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "89894",
-    "event_time": "2026-04-25T02:57:00",
-    "seen_at": "2026-04-25T01:01:23.394Z",
-    "raw": "Br. Vlaka 89894 odlazak      25.04.26. 02:57, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-25T03:02:00",
-    "seen_at": "2026-04-25T01:03:18.434Z",
-    "raw": "Br. Vlaka 63306 odlazak      25.04.26. 03:02, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81989",
-    "event_time": "2026-04-25T03:03:00",
-    "seen_at": "2026-04-25T01:04:49.544Z",
-    "raw": "Br. Vlaka 81989 dolazak      25.04.26. 03:03, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-24T12:30:00",
-    "seen_at": "2026-04-25T01:05:12.248Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820440240",
     "type": "Dolazak",
     "station": "DUGO SELO",
     "train_number": "89894",
