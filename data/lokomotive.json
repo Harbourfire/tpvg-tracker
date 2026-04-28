@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T11:34:00",
-    "seen_at": "2026-04-25T09:34:49.920Z",
-    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 11:34, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T11:34:00",
-    "seen_at": "2026-04-25T09:34:49.921Z",
-    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 11:34, kolodvor MUČNA REKA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -13723,5 +13705,68 @@
     "event_time": "2026-04-28T11:25:00",
     "seen_at": "2026-04-28T09:25:32.876Z",
     "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:25, kolodvor 72303"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Dolazak",
+    "station": "ORIOVAC",
+    "train_number": "89716",
+    "event_time": "2026-04-28T11:24:00",
+    "seen_at": "2026-04-28T09:26:36.990Z",
+    "raw": "Br. Vlaka 89716 dolazak      28.04.26. 11:24, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Odlazak",
+    "station": "KUTINA",
+    "train_number": "71101",
+    "event_time": "2026-04-28T11:27:00",
+    "seen_at": "2026-04-28T09:28:34.623Z",
+    "raw": "Br. Vlaka 71101 odlazak      28.04.26. 11:27, kolodvor KUTINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-28T11:08:00",
+    "seen_at": "2026-04-28T09:33:17.127Z",
+    "raw": "Br. Vlaka 45104 odlazak      28.04.26. 11:08, kolodvor 71308"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-04-28T11:17:00",
+    "seen_at": "2026-04-28T09:33:40.541Z",
+    "raw": "Br. Vlaka 45104 dolazak      28.04.26. 11:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89251",
+    "event_time": "2026-04-28T11:32:00",
+    "seen_at": "2026-04-28T09:34:05.764Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:32, kolodvor 72302"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "89251",
+    "event_time": "2026-04-28T11:32:00",
+    "seen_at": "2026-04-28T09:34:05.764Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:32, kolodvor 72302"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Odlazak",
+    "station": "BANOVA JARUGA",
+    "train_number": "71101",
+    "event_time": "2026-04-28T11:35:00",
+    "seen_at": "2026-04-28T09:35:42.742Z",
+    "raw": "Br. Vlaka 71101 odlazak      28.04.26. 11:35, kolodvor BANOVA JARUGA"
   }
 ]
