@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-25T05:28:00",
-    "seen_at": "2026-04-25T03:29:48.200Z",
-    "raw": "Br. Vlaka 69006 odlazak      25.04.26. 05:28, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "48789",
-    "event_time": "2026-04-25T02:32:00",
-    "seen_at": "2026-04-25T03:31:20.049Z",
-    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 02:32, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-24T20:04:00",
-    "seen_at": "2026-04-25T03:32:50.876Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "82187",
-    "event_time": "2026-04-25T05:31:00",
-    "seen_at": "2026-04-25T03:33:13.844Z",
-    "raw": "Br. Vlaka 82187 formiran     25.04.26. 05:31, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-25T05:34:00",
-    "seen_at": "2026-04-25T03:35:07.492Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230100",
     "type": "Formiran",
     "station": "OGULIN",
     "train_number": "69005",
@@ -13084,5 +13039,32 @@
     "event_time": "2026-04-28T05:24:00",
     "seen_at": "2026-04-28T03:24:55.508Z",
     "raw": "Br. Vlaka 79931 odlazak      28.04.26. 05:24, kolodvor DEANOVEC"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "NOVOSELEC",
+    "train_number": "79931",
+    "event_time": "2026-04-28T05:31:00",
+    "seen_at": "2026-04-28T03:32:30.608Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 05:31, kolodvor NOVOSELEC"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71206",
+    "event_time": "2026-04-28T05:36:00",
+    "seen_at": "2026-04-28T03:36:24.453Z",
+    "raw": "Br. Vlaka 71206 formiran     28.04.26. 05:36, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "76500",
+    "event_time": "2026-04-28T05:36:00",
+    "seen_at": "2026-04-28T03:37:58.773Z",
+    "raw": "Br. Vlaka 76500 formiran     28.04.26. 05:36, kolodvor SLAVONSKI BROD"
   }
 ]
