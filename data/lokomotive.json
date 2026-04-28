@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-25T13:31:00",
-    "seen_at": "2026-04-25T11:35:23.962Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T13:34:00",
-    "seen_at": "2026-04-25T11:36:32.666Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 13:34, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T13:34:00",
-    "seen_at": "2026-04-25T11:36:32.666Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 13:34, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620189",
     "type": "Promjena sastava",
     "station": "BELI MANASTIR",
@@ -13885,5 +13858,14 @@
     "event_time": "2026-04-28T13:23:00",
     "seen_at": "2026-04-28T11:24:32.678Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89923",
+    "event_time": "2026-04-28T13:35:00",
+    "seen_at": "2026-04-28T11:35:46.859Z",
+    "raw": "Br. Vlaka 89923 odlazak      28.04.26. 13:35, kolodvor ČAKOVEC"
   }
 ]
