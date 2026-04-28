@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "NOVOSELEC",
-    "train_number": "89021",
-    "event_time": "2026-04-25T19:24:00",
-    "seen_at": "2026-04-25T17:24:41.142Z",
-    "raw": "Br. Vlaka 89021 dolazak      25.04.26. 19:24, kolodvor NOVOSELEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "44995",
-    "event_time": "2026-04-25T19:24:00",
-    "seen_at": "2026-04-25T17:26:13.304Z",
-    "raw": "Br. Vlaka 44995 odlazak      25.04.26. 19:24, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "NOVOSELEC",
-    "train_number": "89021",
-    "event_time": "2026-04-25T19:30:00",
-    "seen_at": "2026-04-25T17:31:07.195Z",
-    "raw": "Br. Vlaka 89021 odlazak      25.04.26. 19:30, kolodvor NOVOSELEC"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -13318,5 +13291,23 @@
     "event_time": "2026-04-28T19:06:00",
     "seen_at": "2026-04-28T17:09:13.167Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89893",
+    "event_time": "2026-04-28T19:25:00",
+    "seen_at": "2026-04-28T17:26:23.971Z",
+    "raw": "Br. Vlaka 89893 odlazak      28.04.26. 19:25, kolodvor 73164"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89893",
+    "event_time": "2026-04-28T19:25:00",
+    "seen_at": "2026-04-28T17:26:23.972Z",
+    "raw": "Br. Vlaka 89893 odlazak      28.04.26. 19:25, kolodvor 73164"
   }
 ]
