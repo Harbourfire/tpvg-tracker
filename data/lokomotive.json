@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82321",
-    "event_time": "2026-04-25T12:04:00",
-    "seen_at": "2026-04-25T10:04:57.327Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 12:04, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82321",
-    "event_time": "2026-04-25T12:04:00",
-    "seen_at": "2026-04-25T10:04:57.327Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 12:04, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82321",
-    "event_time": "2026-04-25T12:11:00",
-    "seen_at": "2026-04-25T10:12:10.323Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 12:11, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82321",
-    "event_time": "2026-04-25T12:11:00",
-    "seen_at": "2026-04-25T10:12:10.323Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 12:11, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "BELI MANASTIR",
@@ -13867,5 +13831,59 @@
     "event_time": "2026-04-28T12:01:00",
     "seen_at": "2026-04-28T10:02:38.382Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-28T12:04:00",
+    "seen_at": "2026-04-28T10:05:56.815Z",
+    "raw": "Br. Vlaka 45104 odlazak      28.04.26. 12:04, kolodvor OTOK"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "71207",
+    "event_time": "2026-04-28T12:03:00",
+    "seen_at": "2026-04-28T10:09:05.461Z",
+    "raw": "Br. Vlaka 71207 odlazak      28.04.26. 12:03, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "SIBINJ",
+    "train_number": "71207",
+    "event_time": "2026-04-28T08:56:00",
+    "seen_at": "2026-04-28T10:11:25.849Z",
+    "raw": "Br. Vlaka 71207 formiran     28.04.26. 08:56, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "71207",
+    "event_time": "2026-04-28T12:08:00",
+    "seen_at": "2026-04-28T10:11:49.425Z",
+    "raw": "Br. Vlaka 71207 odlazak      28.04.26. 12:08, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "79935",
+    "event_time": "2026-04-28T11:55:00",
+    "seen_at": "2026-04-28T10:12:36.652Z",
+    "raw": "Br. Vlaka 79935 odlazak      28.04.26. 11:55, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ĐELETOVCI",
+    "train_number": "79935",
+    "event_time": "2026-04-28T12:05:00",
+    "seen_at": "2026-04-28T10:13:00.506Z",
+    "raw": "Br. Vlaka 79935 odlazak      28.04.26. 12:05, kolodvor ĐELETOVCI"
   }
 ]
