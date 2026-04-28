@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-25T07:41:00",
-    "seen_at": "2026-04-25T05:43:48.437Z",
-    "raw": "Br. Vlaka 66853 odlazak      25.04.26. 07:41, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82187",
-    "event_time": "2026-04-25T07:44:00",
-    "seen_at": "2026-04-25T05:44:34.335Z",
-    "raw": "Br. Vlaka 82187 odlazak      25.04.26. 07:44, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T07:43:00",
-    "seen_at": "2026-04-25T05:44:57.177Z",
-    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 07:43, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T07:43:00",
-    "seen_at": "2026-04-25T05:44:57.177Z",
-    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 07:43, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-25T07:50:00",
-    "seen_at": "2026-04-25T05:50:32.777Z",
-    "raw": "Br. Vlaka 45105 odlazak      25.04.26. 07:50, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "PITOMAČA",
@@ -13174,5 +13129,41 @@
     "event_time": "2026-04-28T07:41:00",
     "seen_at": "2026-04-28T05:41:52.273Z",
     "raw": "Br. Vlaka 71203 formiran     28.04.26. 07:41, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76501",
+    "event_time": "2026-04-28T07:09:00",
+    "seen_at": "2026-04-28T05:48:38.912Z",
+    "raw": "Br. Vlaka 76501 formiran     28.04.26. 07:09, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "79931",
+    "event_time": "2026-04-28T07:49:00",
+    "seen_at": "2026-04-28T05:49:49.359Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 07:49, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "PLETERNICA",
+    "train_number": "82107",
+    "event_time": "2026-04-28T07:51:00",
+    "seen_at": "2026-04-28T05:51:22.889Z",
+    "raw": "Br. Vlaka 82107 dolazak      28.04.26. 07:51, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "44994",
+    "train_number": null,
+    "event_time": "2026-04-28T05:51:46.122Z",
+    "seen_at": "2026-04-28T05:51:46.122Z",
+    "raw": "Trenutna pozicija je u kolodvoru 44994 44994"
   }
 ]
