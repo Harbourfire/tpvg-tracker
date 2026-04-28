@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45101",
-    "event_time": "2026-04-25T14:45:00",
-    "seen_at": "2026-04-25T12:46:12.974Z",
-    "raw": "Br. Vlaka 45101 odlazak      25.04.26. 14:45, kolodvor OTOK"
-  },
-  {
     "uic": "927820621195",
     "type": "Formiran",
     "station": "KOTORIBA-GR",
@@ -13867,5 +13858,14 @@
     "event_time": "2026-04-28T14:32:00",
     "seen_at": "2026-04-28T12:33:09.243Z",
     "raw": "Br. Vlaka 76501 odlazak      28.04.26. 14:32, kolodvor SIBINJ"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-28T14:43:00",
+    "seen_at": "2026-04-28T12:43:26.174Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
