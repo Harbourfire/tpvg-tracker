@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T10:54:00",
-    "seen_at": "2026-04-25T08:58:24.133Z",
-    "raw": "Br. Vlaka 45584 dolazak      25.04.26. 10:54, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T10:54:00",
-    "seen_at": "2026-04-25T08:58:24.134Z",
-    "raw": "Br. Vlaka 45584 dolazak      25.04.26. 10:54, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "66854",
-    "event_time": "2026-04-25T10:59:00",
-    "seen_at": "2026-04-25T08:59:33.951Z",
-    "raw": "Br. Vlaka 66854 dolazak      25.04.26. 10:59, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-25T10:59:00",
-    "seen_at": "2026-04-25T08:59:56.801Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:00:00",
-    "seen_at": "2026-04-25T09:01:28.865Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 11:00, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:00:00",
-    "seen_at": "2026-04-25T09:01:28.865Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 11:00, kolodvor BLATA"
-  },
-  {
     "uic": "927820620189",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -13732,5 +13678,50 @@
     "event_time": "2026-04-28T10:50:00",
     "seen_at": "2026-04-28T08:55:06.133Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "DRENOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T10:57:00",
+    "seen_at": "2026-04-28T08:58:39.055Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71306 DRENOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:59:00",
+    "seen_at": "2026-04-28T09:00:14.272Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:59, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89251",
+    "event_time": "2026-04-28T10:59:00",
+    "seen_at": "2026-04-28T09:00:14.273Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 10:59, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89716",
+    "event_time": "2026-04-28T11:00:00",
+    "seen_at": "2026-04-28T09:00:38.954Z",
+    "raw": "Br. Vlaka 89716 odlazak      28.04.26. 11:00, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "DRENOVCI",
+    "train_number": "79932",
+    "event_time": "2026-04-28T09:42:00",
+    "seen_at": "2026-04-28T09:00:38.954Z",
+    "raw": "Br. Vlaka 79932 formiran     28.04.26. 09:42, kolodvor DRENOVCI"
   }
 ]
