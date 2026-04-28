@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82328",
-    "event_time": "2026-04-25T10:11:00",
-    "seen_at": "2026-04-25T08:11:39.742Z",
-    "raw": "Br. Vlaka 82328 odlazak      25.04.26. 10:11, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T10:13:00",
-    "seen_at": "2026-04-25T08:14:23.460Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 10:13, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T10:13:00",
-    "seen_at": "2026-04-25T08:14:23.460Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 10:13, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -13633,5 +13606,50 @@
     "event_time": "2026-04-28T10:06:00",
     "seen_at": "2026-04-28T08:08:04.961Z",
     "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71203",
+    "event_time": "2026-04-28T10:05:00",
+    "seen_at": "2026-04-28T08:08:50.267Z",
+    "raw": "Br. Vlaka 71203 odlazak      28.04.26. 10:05, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-04-28T10:11:00",
+    "seen_at": "2026-04-28T08:11:59.976Z",
+    "raw": "Br. Vlaka 89893 formiran     28.04.26. 10:11, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69613",
+    "event_time": "2026-04-28T10:10:00",
+    "seen_at": "2026-04-28T08:12:23.806Z",
+    "raw": "Br. Vlaka 69613 odlazak      28.04.26. 10:10, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T10:15:00",
+    "seen_at": "2026-04-28T08:15:53.736Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "69613",
+    "event_time": "2026-04-28T10:16:00",
+    "seen_at": "2026-04-28T08:16:42.129Z",
+    "raw": "Br. Vlaka 69613 odlazak      28.04.26. 10:16, kolodvor PODSUSED tvornica"
   }
 ]
