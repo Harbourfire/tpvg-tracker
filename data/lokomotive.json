@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "49998",
-    "event_time": "2026-04-25T23:02:00",
-    "seen_at": "2026-04-25T21:03:04.468Z",
-    "raw": "Br. Vlaka 49998 odlazak      25.04.26. 23:02, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "49998",
-    "event_time": "2026-04-25T23:02:00",
-    "seen_at": "2026-04-25T21:03:04.468Z",
-    "raw": "Br. Vlaka 49998 odlazak      25.04.26. 23:02, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-25T23:09:00",
-    "seen_at": "2026-04-25T21:10:04.945Z",
-    "raw": "Br. Vlaka 49998 odlazak      25.04.26. 23:09, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-25T23:09:00",
-    "seen_at": "2026-04-25T21:10:04.946Z",
-    "raw": "Br. Vlaka 49998 odlazak      25.04.26. 23:09, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44997",
-    "event_time": "2026-04-25T23:09:00",
-    "seen_at": "2026-04-25T21:11:14.304Z",
-    "raw": "Br. Vlaka 44997 odlazak      25.04.26. 23:09, kolodvor DONJI KRALJEVEC"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "KOPRIVNICA GR    A",
@@ -12985,5 +12940,77 @@
     "event_time": "2026-04-28T22:53:00",
     "seen_at": "2026-04-28T20:53:41.927Z",
     "raw": "Br. Vlaka 69005 odlazak      28.04.26. 22:53, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-28T22:59:00",
+    "seen_at": "2026-04-28T21:07:27.780Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-28T22:59:00",
+    "seen_at": "2026-04-28T21:07:27.781Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "89103",
+    "event_time": "2026-04-28T21:06:00",
+    "seen_at": "2026-04-28T21:07:51.361Z",
+    "raw": "Br. Vlaka 89103 formiran     28.04.26. 21:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "89103",
+    "event_time": "2026-04-28T21:06:00",
+    "seen_at": "2026-04-28T21:07:51.362Z",
+    "raw": "Br. Vlaka 89103 formiran     28.04.26. 21:06, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "89103",
+    "event_time": "2026-04-28T23:02:00",
+    "seen_at": "2026-04-28T21:09:27.886Z",
+    "raw": "Br. Vlaka 89103 odlazak      28.04.26. 23:02, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "89103",
+    "event_time": "2026-04-28T23:02:00",
+    "seen_at": "2026-04-28T21:09:27.886Z",
+    "raw": "Br. Vlaka 89103 odlazak      28.04.26. 23:02, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "89103",
+    "event_time": "2026-04-28T23:08:00",
+    "seen_at": "2026-04-28T21:10:38.660Z",
+    "raw": "Br. Vlaka 89103 odlazak      28.04.26. 23:08, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "89103",
+    "event_time": "2026-04-28T23:08:00",
+    "seen_at": "2026-04-28T21:10:38.660Z",
+    "raw": "Br. Vlaka 89103 odlazak      28.04.26. 23:08, kolodvor JOSIPDOL"
   }
 ]
