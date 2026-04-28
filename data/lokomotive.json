@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:40:00",
-    "seen_at": "2026-04-25T00:43:30.380Z",
-    "raw": "Br. Vlaka 45581 dolazak      25.04.26. 02:40, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:40:00",
-    "seen_at": "2026-04-25T00:43:30.381Z",
-    "raw": "Br. Vlaka 45581 dolazak      25.04.26. 02:40, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:45:00",
-    "seen_at": "2026-04-25T00:46:12.320Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 02:45, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:45:00",
-    "seen_at": "2026-04-25T00:46:12.320Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 02:45, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81989",
-    "event_time": "2026-04-25T02:18:00",
-    "seen_at": "2026-04-25T00:47:21.322Z",
-    "raw": "Br. Vlaka 81989 odlazak      25.04.26. 02:18, kolodvor ĐAKOVO"
-  },
-  {
     "uic": "927820440240",
     "type": "Dolazak",
     "station": "VRBOVEC",
@@ -13318,5 +13273,41 @@
     "event_time": "2026-04-28T02:28:00",
     "seen_at": "2026-04-28T00:28:33.474Z",
     "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:28, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "82104",
+    "event_time": "2026-04-28T02:36:00",
+    "seen_at": "2026-04-28T00:39:37.550Z",
+    "raw": "Br. Vlaka 82104 dolazak      28.04.26. 02:36, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-28T02:36:00",
+    "seen_at": "2026-04-28T00:40:00.724Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-28T02:35:00",
+    "seen_at": "2026-04-28T00:42:19.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-28T02:35:00",
+    "seen_at": "2026-04-28T00:42:19.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
