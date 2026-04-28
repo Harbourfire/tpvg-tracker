@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44995",
-    "event_time": "2026-04-25T17:32:00",
-    "seen_at": "2026-04-25T15:32:37.740Z",
-    "raw": "Br. Vlaka 44995 odlazak      25.04.26. 17:32, kolodvor TURČIN"
-  },
-  {
     "uic": "927820620197",
     "type": "Formiran",
     "station": "KOTORIBA",
@@ -13462,5 +13453,23 @@
     "event_time": "2026-04-28T17:04:00",
     "seen_at": "2026-04-28T15:07:29.107Z",
     "raw": "Br. Vlaka 63310 odlazak      28.04.26. 17:04, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-28T17:27:00",
+    "seen_at": "2026-04-28T15:29:47.223Z",
+    "raw": "Br. Vlaka 63310 dolazak      28.04.26. 17:27, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-28T17:27:00",
+    "seen_at": "2026-04-28T15:29:47.223Z",
+    "raw": "Br. Vlaka 63310 dolazak      28.04.26. 17:27, kolodvor LIČKO LEŠĆE"
   }
 ]
