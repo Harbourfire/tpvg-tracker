@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:14:00",
-    "seen_at": "2026-04-25T00:15:34.636Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 02:14, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45581",
-    "event_time": "2026-04-25T02:14:00",
-    "seen_at": "2026-04-25T00:15:34.637Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 02:14, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "48789",
-    "event_time": "2026-04-25T02:15:00",
-    "seen_at": "2026-04-25T00:19:21.841Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 02:15, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "49996",
@@ -13336,5 +13309,41 @@
     "event_time": "2026-04-28T02:06:00",
     "seen_at": "2026-04-28T00:07:52.615Z",
     "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:06, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-28T02:16:00",
+    "seen_at": "2026-04-28T00:16:56.689Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:16, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-28T02:16:00",
+    "seen_at": "2026-04-28T00:16:56.689Z",
+    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:16, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81970",
+    "event_time": "2026-04-28T02:17:00",
+    "seen_at": "2026-04-28T00:18:28.537Z",
+    "raw": "Br. Vlaka 81970 dolazak      28.04.26. 02:17, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "81970",
+    "event_time": "2026-04-28T02:17:00",
+    "seen_at": "2026-04-28T00:18:28.538Z",
+    "raw": "Br. Vlaka 81970 dolazak      28.04.26. 02:17, kolodvor VINKOVCI"
   }
 ]
