@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "89894",
-    "event_time": "2026-04-25T02:36:00",
-    "seen_at": "2026-04-25T00:53:23.990Z",
-    "raw": "Br. Vlaka 89894 dolazak      25.04.26. 02:36, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-25T02:53:00",
-    "seen_at": "2026-04-25T00:54:33.605Z",
-    "raw": "Br. Vlaka 63306 dolazak      25.04.26. 02:53, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440240",
     "type": "Odlazak",
     "station": "VRBOVEC",
     "train_number": "89894",
@@ -13309,5 +13291,14 @@
     "event_time": "2026-04-28T02:35:00",
     "seen_at": "2026-04-28T00:42:19.565Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "47988",
+    "event_time": "2026-04-28T02:50:00",
+    "seen_at": "2026-04-28T00:51:18.100Z",
+    "raw": "Br. Vlaka 47988 odlazak      28.04.26. 02:50, kolodvor VINKOVCI"
   }
 ]
