@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-25T06:10:00",
-    "seen_at": "2026-04-25T04:11:04.246Z",
-    "raw": "Br. Vlaka 69005 odlazak      25.04.26. 06:10, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-24T20:17:00",
-    "seen_at": "2026-04-25T04:12:59.950Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230100",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
     "train_number": null,
@@ -13084,5 +13066,14 @@
     "event_time": "2026-04-28T06:05:00",
     "seen_at": "2026-04-28T04:05:34.260Z",
     "raw": "Br. Vlaka 79931 odlazak      28.04.26. 06:05, kolodvor POPOVAČA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "MOSLAVAČKA GRAČENICA",
+    "train_number": "79931",
+    "event_time": "2026-04-28T06:12:00",
+    "seen_at": "2026-04-28T04:12:45.805Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 06:12, kolodvor MOSLAVAČKA GRAČENICA"
   }
 ]
