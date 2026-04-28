@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "BREGI",
-    "train_number": "45584",
-    "event_time": "2026-04-25T09:09:00",
-    "seen_at": "2026-04-25T07:10:50.575Z",
-    "raw": "Br. Vlaka 45584 dolazak      25.04.26. 09:09, kolodvor BREGI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "BREGI",
-    "train_number": "45584",
-    "event_time": "2026-04-25T09:09:00",
-    "seen_at": "2026-04-25T07:10:50.576Z",
-    "raw": "Br. Vlaka 45584 dolazak      25.04.26. 09:09, kolodvor BREGI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "82328",
-    "event_time": "2026-04-25T09:13:00",
-    "seen_at": "2026-04-25T07:13:34.290Z",
-    "raw": "Br. Vlaka 82328 formiran     25.04.26. 09:13, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -13399,5 +13372,86 @@
     "event_time": "2026-04-28T09:05:00",
     "seen_at": "2026-04-28T07:08:45.018Z",
     "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69613",
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-04-28T07:11:30.392Z",
+    "raw": "Br. Vlaka 69613 formiran     28.04.26. 09:11, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "82107",
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-04-28T07:11:54.089Z",
+    "raw": "Br. Vlaka 82107 odlazak      28.04.26. 09:11, kolodvor POŽEGA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "79931",
+    "event_time": "2026-04-28T09:07:00",
+    "seen_at": "2026-04-28T07:12:17.872Z",
+    "raw": "Br. Vlaka 79931 dolazak      28.04.26. 09:07, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T09:07:00",
+    "seen_at": "2026-04-28T07:12:41.821Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89009",
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-04-28T07:13:54.804Z",
+    "raw": "Br. Vlaka 89009 dolazak      28.04.26. 09:11, kolodvor 72304"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-04-28T09:13:00",
+    "seen_at": "2026-04-28T07:14:18.781Z",
+    "raw": "Br. Vlaka 45104 formiran     28.04.26. 09:13, kolodvor 71308"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-04-28T07:14:18.783Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "48799",
+    "event_time": "2026-04-28T09:16:00",
+    "seen_at": "2026-04-28T07:17:05.225Z",
+    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:16, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "48799",
+    "event_time": "2026-04-28T09:16:00",
+    "seen_at": "2026-04-28T07:17:05.226Z",
+    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:16, kolodvor ZAGREB KLARA"
   }
 ]
