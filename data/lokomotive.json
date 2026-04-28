@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63306",
-    "event_time": "2026-04-25T04:27:00",
-    "seen_at": "2026-04-25T02:27:55.310Z",
-    "raw": "Br. Vlaka 63306 dolazak      25.04.26. 04:27, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-25T04:27:00",
-    "seen_at": "2026-04-25T02:28:18.107Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
     "type": "Formiran",
     "station": "OŠTARIJE",
     "train_number": "69006",
@@ -13147,5 +13129,14 @@
     "event_time": "2026-04-28T04:09:00",
     "seen_at": "2026-04-28T02:22:05.778Z",
     "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:09, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "79931",
+    "event_time": "2026-04-28T04:25:00",
+    "seen_at": "2026-04-28T02:26:52.080Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:25, kolodvor SESVETE"
   }
 ]
