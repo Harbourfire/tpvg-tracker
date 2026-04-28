@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "46896",
-    "event_time": "2026-04-25T03:24:00",
-    "seen_at": "2026-04-25T01:42:18.035Z",
-    "raw": "Br. Vlaka 46896 promjena sas 25.04.26. 03:24, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -13183,5 +13174,14 @@
     "event_time": "2026-04-28T03:30:00",
     "seen_at": "2026-04-28T01:33:19.143Z",
     "raw": "Br. Vlaka 79931 odlazak      28.04.26. 03:30, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "79931",
+    "event_time": "2026-04-28T03:37:00",
+    "seen_at": "2026-04-28T01:39:45.703Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 03:37, kolodvor PODSUSED tvornica"
   }
 ]
