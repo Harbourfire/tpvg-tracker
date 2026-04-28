@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "46896",
-    "event_time": "2026-04-25T04:50:00",
-    "seen_at": "2026-04-25T09:07:06.567Z",
-    "raw": "Br. Vlaka 46896 promjena sas 25.04.26. 04:50, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T11:06:00",
-    "seen_at": "2026-04-25T09:09:25.261Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 11:06, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T11:06:00",
-    "seen_at": "2026-04-25T09:09:25.262Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 11:06, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:10:00",
-    "seen_at": "2026-04-25T09:10:56.306Z",
-    "raw": "Br. Vlaka 82321 dolazak      25.04.26. 11:10, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:10:00",
-    "seen_at": "2026-04-25T09:10:56.307Z",
-    "raw": "Br. Vlaka 82321 dolazak      25.04.26. 11:10, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:10:00",
-    "seen_at": "2026-04-25T09:11:41.651Z",
-    "raw": "Br. Vlaka 82321 promjena sas 25.04.26. 11:10, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:10:00",
-    "seen_at": "2026-04-25T09:11:41.651Z",
-    "raw": "Br. Vlaka 82321 promjena sas 25.04.26. 11:10, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -13723,5 +13660,68 @@
     "event_time": "2026-04-28T09:42:00",
     "seen_at": "2026-04-28T09:00:38.954Z",
     "raw": "Br. Vlaka 79932 formiran     28.04.26. 09:42, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89251",
+    "event_time": "2026-04-28T11:07:00",
+    "seen_at": "2026-04-28T09:07:22.777Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:07, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89251",
+    "event_time": "2026-04-28T11:07:00",
+    "seen_at": "2026-04-28T09:07:22.777Z",
+    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:07, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "79932",
+    "event_time": "2026-04-28T11:05:00",
+    "seen_at": "2026-04-28T09:08:11.056Z",
+    "raw": "Br. Vlaka 79932 odlazak      28.04.26. 11:05, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81971",
+    "event_time": "2026-04-28T11:09:00",
+    "seen_at": "2026-04-28T09:10:32.935Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 11:09, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81971",
+    "event_time": "2026-04-28T11:09:00",
+    "seen_at": "2026-04-28T09:10:32.935Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 11:09, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Formiran",
+    "station": "KUTINA",
+    "train_number": "71101",
+    "event_time": "2026-04-28T11:09:00",
+    "seen_at": "2026-04-28T09:10:56.130Z",
+    "raw": "Br. Vlaka 71101 formiran     28.04.26. 11:09, kolodvor KUTINA"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89716",
+    "event_time": "2026-04-28T11:12:00",
+    "seen_at": "2026-04-28T09:12:52.666Z",
+    "raw": "Br. Vlaka 89716 odlazak      28.04.26. 11:12, kolodvor SIBINJ"
   }
 ]
