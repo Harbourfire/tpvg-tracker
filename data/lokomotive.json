@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45101",
-    "event_time": "2026-04-25T14:08:00",
-    "seen_at": "2026-04-25T12:09:09.305Z",
-    "raw": "Br. Vlaka 45101 formiran     25.04.26. 14:08, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
     "type": "Odlazak",
     "station": "VINKOVCI",
     "train_number": "45101",
@@ -13867,5 +13858,32 @@
     "event_time": "2026-04-28T14:07:00",
     "seen_at": "2026-04-28T12:07:27.611Z",
     "raw": "Br. Vlaka 76501 odlazak      28.04.26. 14:07, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "69771",
+    "event_time": "2026-04-28T14:14:00",
+    "seen_at": "2026-04-28T12:14:56.661Z",
+    "raw": "Br. Vlaka 69771 odlazak      28.04.26. 14:14, kolodvor DARDA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "83808",
+    "event_time": "2026-04-28T14:14:00",
+    "seen_at": "2026-04-28T12:15:19.977Z",
+    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 14:14, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76501",
+    "event_time": "2026-04-28T14:17:00",
+    "seen_at": "2026-04-28T12:18:31.581Z",
+    "raw": "Br. Vlaka 76501 odlazak      28.04.26. 14:17, kolodvor ORIOVAC"
   }
 ]
