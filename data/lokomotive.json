@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "82328",
-    "event_time": "2026-04-25T09:51:00",
-    "seen_at": "2026-04-25T07:53:37.636Z",
-    "raw": "Br. Vlaka 82328 odlazak      25.04.26. 09:51, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82321",
-    "event_time": "2026-04-25T08:52:00",
-    "seen_at": "2026-04-25T07:54:25.203Z",
-    "raw": "Br. Vlaka 82321 formiran     25.04.26. 08:52, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82321",
-    "event_time": "2026-04-25T08:52:00",
-    "seen_at": "2026-04-25T07:54:25.203Z",
-    "raw": "Br. Vlaka 82321 formiran     25.04.26. 08:52, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T09:49:00",
-    "seen_at": "2026-04-25T07:54:48.331Z",
-    "raw": "Br. Vlaka 48789 dolazak      25.04.26. 09:49, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T09:49:00",
-    "seen_at": "2026-04-25T07:54:48.331Z",
-    "raw": "Br. Vlaka 48789 dolazak      25.04.26. 09:49, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T09:49:00",
-    "seen_at": "2026-04-25T07:55:11.143Z",
-    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 09:49, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T09:49:00",
-    "seen_at": "2026-04-25T07:55:11.143Z",
-    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 09:49, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -13552,5 +13489,77 @@
     "event_time": "2026-04-28T09:48:00",
     "seen_at": "2026-04-28T07:48:40.732Z",
     "raw": "Br. Vlaka 71203 odlazak      28.04.26. 09:48, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "79933",
+    "event_time": "2026-04-28T09:50:00",
+    "seen_at": "2026-04-28T07:50:25.613Z",
+    "raw": "Br. Vlaka 79933 odlazak      28.04.26. 09:50, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-04-28T09:48:00",
+    "seen_at": "2026-04-28T07:51:13.364Z",
+    "raw": "Br. Vlaka 69175 odlazak      28.04.26. 09:48, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-04-28T09:48:00",
+    "seen_at": "2026-04-28T07:51:13.365Z",
+    "raw": "Br. Vlaka 69175 odlazak      28.04.26. 09:48, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-04-28T09:53:00",
+    "seen_at": "2026-04-28T07:54:20.990Z",
+    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:53, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-04-28T09:53:00",
+    "seen_at": "2026-04-28T07:54:20.991Z",
+    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:53, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-28T09:57:00",
+    "seen_at": "2026-04-28T07:57:27.945Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-28T09:57:00",
+    "seen_at": "2026-04-28T07:57:27.946Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71203",
+    "event_time": "2026-04-28T09:57:00",
+    "seen_at": "2026-04-28T07:58:15.558Z",
+    "raw": "Br. Vlaka 71203 odlazak      28.04.26. 09:57, kolodvor STARI MIKANOVCI"
   }
 ]
