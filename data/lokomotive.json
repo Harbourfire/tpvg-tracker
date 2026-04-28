@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T01:36:00",
-    "seen_at": "2026-04-25T23:37:51.268Z",
-    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 01:36, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T01:38:00",
-    "seen_at": "2026-04-25T23:39:23.278Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 01:38, kolodvor KOTORIBA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "DRAGANIĆI",
@@ -12517,5 +12499,23 @@
     "event_time": "2026-04-29T01:29:00",
     "seen_at": "2026-04-28T23:29:46.818Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81972",
+    "event_time": "2026-04-29T01:35:00",
+    "seen_at": "2026-04-28T23:36:03.444Z",
+    "raw": "Br. Vlaka 81972 formiran     29.04.26. 01:35, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "81972",
+    "event_time": "2026-04-29T01:35:00",
+    "seen_at": "2026-04-28T23:36:03.444Z",
+    "raw": "Br. Vlaka 81972 formiran     29.04.26. 01:35, kolodvor GOSPIĆ"
   }
 ]
