@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "82187",
-    "event_time": "2026-04-25T07:30:00",
-    "seen_at": "2026-04-25T05:32:34.295Z",
-    "raw": "Br. Vlaka 82187 odlazak      25.04.26. 07:30, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-25T07:32:00",
-    "seen_at": "2026-04-25T05:32:57.022Z",
-    "raw": "Br. Vlaka 45105 formiran     25.04.26. 07:32, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
@@ -13165,5 +13147,50 @@
     "event_time": "2026-04-28T07:17:00",
     "seen_at": "2026-04-28T05:23:26.373Z",
     "raw": "Br. Vlaka 81286 promjena sas 28.04.26. 07:17, kolodvor 72303"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "71202",
+    "event_time": "2026-04-28T07:25:00",
+    "seen_at": "2026-04-28T05:25:54.960Z",
+    "raw": "Br. Vlaka 71202 odlazak      28.04.26. 07:25, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-28T07:25:00",
+    "seen_at": "2026-04-28T05:26:40.394Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82107",
+    "event_time": "2026-04-28T07:27:00",
+    "seen_at": "2026-04-28T05:28:33.832Z",
+    "raw": "Br. Vlaka 82107 odlazak      28.04.26. 07:27, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "79931",
+    "event_time": "2026-04-28T07:29:00",
+    "seen_at": "2026-04-28T05:30:04.520Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 07:29, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "71202",
+    "event_time": "2026-04-28T07:32:00",
+    "seen_at": "2026-04-28T05:32:45.546Z",
+    "raw": "Br. Vlaka 71202 odlazak      28.04.26. 07:32, kolodvor STARI MIKANOVCI"
   }
 ]
