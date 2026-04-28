@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-24T22:22:00",
-    "seen_at": "2026-04-25T05:34:05.423Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-24T22:22:00",
-    "seen_at": "2026-04-25T05:34:05.424Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-25T07:34:00",
-    "seen_at": "2026-04-25T05:34:28.538Z",
-    "raw": "Br. Vlaka 66853 formiran     25.04.26. 07:34, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "48789",
-    "event_time": "2026-04-25T02:32:00",
-    "seen_at": "2026-04-25T05:34:51.437Z",
-    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 02:32, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "48789",
-    "event_time": "2026-04-25T02:32:00",
-    "seen_at": "2026-04-25T05:35:14.228Z",
-    "raw": "Br. Vlaka 48789 promjena sas 25.04.26. 02:32, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VIROVITICA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T07:33:00",
-    "seen_at": "2026-04-25T05:35:14.228Z",
-    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 07:33, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VIROVITICA",
-    "train_number": "45584",
-    "event_time": "2026-04-25T07:33:00",
-    "seen_at": "2026-04-25T05:35:14.229Z",
-    "raw": "Br. Vlaka 45584 odlazak      25.04.26. 07:33, kolodvor VIROVITICA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "OSIJEK",
@@ -13192,5 +13129,50 @@
     "event_time": "2026-04-28T07:32:00",
     "seen_at": "2026-04-28T05:32:45.546Z",
     "raw": "Br. Vlaka 71202 odlazak      28.04.26. 07:32, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89009",
+    "event_time": "2026-04-28T07:36:00",
+    "seen_at": "2026-04-28T05:37:09.416Z",
+    "raw": "Br. Vlaka 89009 formiran     28.04.26. 07:36, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-04-28T07:39:00",
+    "seen_at": "2026-04-28T05:39:28.909Z",
+    "raw": "Br. Vlaka 45105 odlazak      28.04.26. 07:39, kolodvor OTOK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "79931",
+    "event_time": "2026-04-28T07:40:00",
+    "seen_at": "2026-04-28T05:40:14.909Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 07:40, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-28T07:41:00",
+    "seen_at": "2026-04-28T05:41:24.565Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "71203",
+    "event_time": "2026-04-28T07:41:00",
+    "seen_at": "2026-04-28T05:41:52.273Z",
+    "raw": "Br. Vlaka 71203 formiran     28.04.26. 07:41, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
