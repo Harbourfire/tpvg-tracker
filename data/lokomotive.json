@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:45:00",
-    "seen_at": "2026-04-25T09:46:39.674Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 11:45, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82321",
-    "event_time": "2026-04-25T11:45:00",
-    "seen_at": "2026-04-25T09:46:39.674Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 11:45, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-25T11:47:00",
-    "seen_at": "2026-04-25T09:51:45.362Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "46896",
-    "event_time": "2026-04-25T11:53:00",
-    "seen_at": "2026-04-25T09:54:41.451Z",
-    "raw": "Br. Vlaka 46896 odlazak      25.04.26. 11:53, kolodvor DARDA"
-  },
-  {
     "uic": "927820440141",
     "type": "Dolazak",
     "station": "KRIŽEVCI",
@@ -13786,5 +13750,86 @@
     "event_time": "2026-04-28T11:42:00",
     "seen_at": "2026-04-28T09:42:17.869Z",
     "raw": "Br. Vlaka 71101 odlazak      28.04.26. 11:42, kolodvor LIPOVLJANI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81971",
+    "event_time": "2026-04-28T11:30:00",
+    "seen_at": "2026-04-28T09:46:05.588Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 11:30, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81971",
+    "event_time": "2026-04-28T11:30:00",
+    "seen_at": "2026-04-28T09:46:05.588Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 11:30, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81971",
+    "event_time": "2026-04-28T11:48:00",
+    "seen_at": "2026-04-28T09:49:12.226Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 11:48, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81971",
+    "event_time": "2026-04-28T11:48:00",
+    "seen_at": "2026-04-28T09:49:12.226Z",
+    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 11:48, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-28T11:51:00",
+    "seen_at": "2026-04-28T09:52:43.463Z",
+    "raw": "Br. Vlaka 45104 odlazak      28.04.26. 11:51, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "79932",
+    "event_time": "2026-04-28T11:52:00",
+    "seen_at": "2026-04-28T09:52:43.465Z",
+    "raw": "Br. Vlaka 79932 dolazak      28.04.26. 11:52, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "79935",
+    "event_time": "2026-04-28T10:02:00",
+    "seen_at": "2026-04-28T09:53:06.937Z",
+    "raw": "Br. Vlaka 79935 formiran     28.04.26. 10:02, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "71101",
+    "event_time": "2026-04-28T11:52:00",
+    "seen_at": "2026-04-28T09:53:29.874Z",
+    "raw": "Br. Vlaka 71101 dolazak      28.04.26. 11:52, kolodvor NOVSKA"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2026-04-28T11:52:00",
+    "seen_at": "2026-04-28T09:53:53.086Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
