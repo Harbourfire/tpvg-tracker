@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82500",
-    "event_time": "2026-04-25T19:31:00",
-    "seen_at": "2026-04-25T17:33:28.222Z",
-    "raw": "Br. Vlaka 82500 odlazak      25.04.26. 19:31, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "82500",
-    "event_time": "2026-04-25T19:31:00",
-    "seen_at": "2026-04-25T17:33:28.222Z",
-    "raw": "Br. Vlaka 82500 odlazak      25.04.26. 19:31, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "LUDINA",
-    "train_number": "89021",
-    "event_time": "2026-04-25T19:36:00",
-    "seen_at": "2026-04-25T17:36:58.656Z",
-    "raw": "Br. Vlaka 89021 odlazak      25.04.26. 19:36, kolodvor LUDINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "44995",
-    "event_time": "2026-04-25T19:33:00",
-    "seen_at": "2026-04-25T17:37:35.215Z",
-    "raw": "Br. Vlaka 44995 dolazak      25.04.26. 19:33, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "POPOVAČA",
@@ -13309,5 +13273,23 @@
     "event_time": "2026-04-28T19:25:00",
     "seen_at": "2026-04-28T17:26:23.972Z",
     "raw": "Br. Vlaka 89893 odlazak      28.04.26. 19:25, kolodvor 73164"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89893",
+    "event_time": "2026-04-28T19:38:00",
+    "seen_at": "2026-04-28T17:41:40.390Z",
+    "raw": "Br. Vlaka 89893 dolazak      28.04.26. 19:38, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89893",
+    "event_time": "2026-04-28T19:38:00",
+    "seen_at": "2026-04-28T17:41:40.390Z",
+    "raw": "Br. Vlaka 89893 dolazak      28.04.26. 19:38, kolodvor KOPRIVNICA GR    A"
   }
 ]
