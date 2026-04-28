@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "KOTORIBA-GR",
-    "train_number": "44997",
-    "event_time": "2026-04-25T18:04:00",
-    "seen_at": "2026-04-25T16:05:16.367Z",
-    "raw": "Br. Vlaka 44997 formiran     25.04.26. 18:04, kolodvor KOTORIBA-GR"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -13435,5 +13426,41 @@
     "event_time": "2026-04-28T17:27:00",
     "seen_at": "2026-04-28T15:29:47.223Z",
     "raw": "Br. Vlaka 63310 dolazak      28.04.26. 17:27, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-28T17:54:00",
+    "seen_at": "2026-04-28T15:56:37.763Z",
+    "raw": "Br. Vlaka 63310 odlazak      28.04.26. 17:54, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-28T17:54:00",
+    "seen_at": "2026-04-28T15:56:37.764Z",
+    "raw": "Br. Vlaka 63310 odlazak      28.04.26. 17:54, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-28T18:04:00",
+    "seen_at": "2026-04-28T16:04:47.700Z",
+    "raw": "Br. Vlaka 63310 odlazak      28.04.26. 18:04, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-04-28T18:04:00",
+    "seen_at": "2026-04-28T16:04:47.700Z",
+    "raw": "Br. Vlaka 63310 odlazak      28.04.26. 18:04, kolodvor RUDOPOLJE"
   }
 ]
