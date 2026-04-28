@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-25T13:10:00",
-    "seen_at": "2026-04-25T11:11:51.855Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-25T13:10:00",
-    "seen_at": "2026-04-25T11:11:51.855Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-04-25T13:09:00",
-    "seen_at": "2026-04-25T11:12:38.971Z",
-    "raw": "Br. Vlaka 45104 dolazak      25.04.26. 13:09, kolodvor OTOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-25T13:15:00",
-    "seen_at": "2026-04-25T11:17:59.231Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T13:18:00",
-    "seen_at": "2026-04-25T11:18:59.516Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 13:18, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "44996",
-    "event_time": "2026-04-25T13:18:00",
-    "seen_at": "2026-04-25T11:18:59.516Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 13:18, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440026",
     "type": "Formiran",
     "station": "KOPRIVNICA",
@@ -13921,5 +13867,23 @@
     "event_time": "2026-04-28T13:02:00",
     "seen_at": "2026-04-28T11:03:28.165Z",
     "raw": "Br. Vlaka 83808 odlazak      28.04.26. 13:02, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "83808",
+    "event_time": "2026-04-28T13:12:00",
+    "seen_at": "2026-04-28T11:13:46.072Z",
+    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 13:12, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89721",
+    "event_time": "2026-04-28T13:13:00",
+    "seen_at": "2026-04-28T11:17:40.876Z",
+    "raw": "Br. Vlaka 89721 odlazak      28.04.26. 13:13, kolodvor SIBINJ"
   }
 ]
