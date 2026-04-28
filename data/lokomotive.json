@@ -2,24 +2,6 @@
   {
     "uic": "928012230100",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63306",
-    "event_time": "2026-04-25T03:43:00",
-    "seen_at": "2026-04-25T01:45:20.700Z",
-    "raw": "Br. Vlaka 63306 odlazak      25.04.26. 03:43, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-25T03:42:00",
-    "seen_at": "2026-04-25T01:50:25.914Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
     "station": "BLATA",
     "train_number": "63306",
     "event_time": "2026-04-25T03:53:00",
@@ -13183,5 +13165,23 @@
     "event_time": "2026-04-28T03:37:00",
     "seen_at": "2026-04-28T01:39:45.703Z",
     "raw": "Br. Vlaka 79931 odlazak      28.04.26. 03:37, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "79931",
+    "event_time": "2026-04-28T03:47:00",
+    "seen_at": "2026-04-28T01:47:50.752Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 03:47, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "47988",
+    "event_time": "2026-04-28T03:50:00",
+    "seen_at": "2026-04-28T01:50:33.233Z",
+    "raw": "Br. Vlaka 47988 dolazak      28.04.26. 03:50, kolodvor OSIJEK"
   }
 ]
