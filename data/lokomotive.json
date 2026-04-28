@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-25T04:21:00",
-    "seen_at": "2026-04-25T02:21:58.098Z",
-    "raw": "Br. Vlaka 63306 odlazak      25.04.26. 04:21, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "63306",
@@ -13138,5 +13129,23 @@
     "event_time": "2026-04-28T03:50:00",
     "seen_at": "2026-04-28T01:50:33.233Z",
     "raw": "Br. Vlaka 47988 dolazak      28.04.26. 03:50, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ZAGREB GL. KOL.",
+    "train_number": "79931",
+    "event_time": "2026-04-28T04:01:00",
+    "seen_at": "2026-04-28T02:21:19.837Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:01, kolodvor ZAGREB GL. KOL."
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "79931",
+    "event_time": "2026-04-28T04:09:00",
+    "seen_at": "2026-04-28T02:22:05.778Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:09, kolodvor ZAGREB BORONGAJ"
   }
 ]
