@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "45581",
-    "event_time": "2026-04-25T05:00:00",
-    "seen_at": "2026-04-25T03:01:49.225Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 05:00, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ŠPIŠIĆ BUKOVICA",
-    "train_number": "45581",
-    "event_time": "2026-04-25T05:00:00",
-    "seen_at": "2026-04-25T03:01:49.226Z",
-    "raw": "Br. Vlaka 45581 odlazak      25.04.26. 05:00, kolodvor ŠPIŠIĆ BUKOVICA"
-  },
-  {
-    "uic": "927820440141",
     "type": "Rasformiran",
     "station": "VIROVITICA",
     "train_number": null,
@@ -13093,5 +13075,14 @@
     "event_time": "2026-04-28T05:00:00",
     "seen_at": "2026-04-28T03:00:14.170Z",
     "raw": "Br. Vlaka 79931 odlazak      28.04.26. 05:00, kolodvor 92515"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "79931",
+    "event_time": "2026-04-28T05:09:00",
+    "seen_at": "2026-04-28T03:09:48.983Z",
+    "raw": "Br. Vlaka 79931 dolazak      28.04.26. 05:09, kolodvor IVANIĆ GRAD"
   }
 ]
