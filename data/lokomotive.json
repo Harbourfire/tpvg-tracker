@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-25T12:55:00",
-    "seen_at": "2026-04-25T10:56:26.442Z",
-    "raw": "Br. Vlaka 45104 odlazak      25.04.26. 12:55, kolodvor SPAČVA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82321",
-    "event_time": "2026-04-25T12:58:00",
-    "seen_at": "2026-04-25T10:59:28.992Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 12:58, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82321",
-    "event_time": "2026-04-25T12:58:00",
-    "seen_at": "2026-04-25T10:59:28.992Z",
-    "raw": "Br. Vlaka 82321 odlazak      25.04.26. 12:58, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -13939,5 +13912,23 @@
     "event_time": "2026-04-28T12:49:00",
     "seen_at": "2026-04-28T10:49:38.772Z",
     "raw": "Br. Vlaka 89923 odlazak      28.04.26. 12:49, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "89923",
+    "event_time": "2026-04-28T12:57:00",
+    "seen_at": "2026-04-28T10:57:21.420Z",
+    "raw": "Br. Vlaka 89923 dolazak      28.04.26. 12:57, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89721",
+    "event_time": "2026-04-28T12:59:00",
+    "seen_at": "2026-04-28T11:01:18.594Z",
+    "raw": "Br. Vlaka 89721 odlazak      28.04.26. 12:59, kolodvor ORIOVAC"
   }
 ]
