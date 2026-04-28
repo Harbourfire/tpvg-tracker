@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T09:59:00",
-    "seen_at": "2026-04-25T08:01:29.306Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 09:59, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "48789",
-    "event_time": "2026-04-25T09:59:00",
-    "seen_at": "2026-04-25T08:01:29.306Z",
-    "raw": "Br. Vlaka 48789 odlazak      25.04.26. 09:59, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -13561,5 +13543,95 @@
     "event_time": "2026-04-28T09:57:00",
     "seen_at": "2026-04-28T07:58:15.558Z",
     "raw": "Br. Vlaka 71203 odlazak      28.04.26. 09:57, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "79933",
+    "event_time": "2026-04-28T10:03:00",
+    "seen_at": "2026-04-28T08:04:52.900Z",
+    "raw": "Br. Vlaka 79933 dolazak      28.04.26. 10:03, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-28T23:29:00",
+    "seen_at": "2026-04-28T08:05:40.589Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89251",
+    "event_time": "2026-04-28T08:49:00",
+    "seen_at": "2026-04-28T08:06:04.445Z",
+    "raw": "Br. Vlaka 89251 formiran     28.04.26. 08:49, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Formiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": "69613",
+    "event_time": "2026-04-28T10:05:00",
+    "seen_at": "2026-04-28T08:06:04.445Z",
+    "raw": "Br. Vlaka 69613 formiran     28.04.26. 10:05, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "89251",
+    "event_time": "2026-04-28T08:49:00",
+    "seen_at": "2026-04-28T08:06:28.417Z",
+    "raw": "Br. Vlaka 89251 formiran     28.04.26. 08:49, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89724",
+    "event_time": "2026-04-28T10:06:00",
+    "seen_at": "2026-04-28T08:07:15.852Z",
+    "raw": "Br. Vlaka 89724 formiran     28.04.26. 10:06, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "69175",
+    "event_time": "2026-04-28T10:06:00",
+    "seen_at": "2026-04-28T08:07:40.360Z",
+    "raw": "Br. Vlaka 69175 dolazak      28.04.26. 10:06, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "69175",
+    "event_time": "2026-04-28T10:06:00",
+    "seen_at": "2026-04-28T08:07:40.360Z",
+    "raw": "Br. Vlaka 69175 dolazak      28.04.26. 10:06, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-04-28T10:06:00",
+    "seen_at": "2026-04-28T08:08:04.961Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-04-28T10:06:00",
+    "seen_at": "2026-04-28T08:08:04.961Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
   }
 ]
