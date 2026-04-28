@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44996",
-    "event_time": "2026-04-25T15:09:00",
-    "seen_at": "2026-04-25T13:10:39.211Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 15:09, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44996",
-    "event_time": "2026-04-25T15:09:00",
-    "seen_at": "2026-04-25T13:10:39.212Z",
-    "raw": "Br. Vlaka 44996 odlazak      25.04.26. 15:09, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820620015",
     "type": "Dolazak",
     "station": "VARAŽDIN",
     "train_number": "44996",
@@ -13822,5 +13804,14 @@
     "event_time": "2026-04-28T23:00:00",
     "seen_at": "2026-04-28T12:52:07.293Z",
     "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOPRIVNICA",
+    "train_number": "89893",
+    "event_time": "2026-04-28T15:15:00",
+    "seen_at": "2026-04-28T13:15:54.766Z",
+    "raw": "Br. Vlaka 89893 formiran     28.04.26. 15:15, kolodvor KOPRIVNICA"
   }
 ]
