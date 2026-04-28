@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45584",
-    "event_time": "2026-04-25T11:58:00",
-    "seen_at": "2026-04-25T09:58:34.040Z",
-    "raw": "Br. Vlaka 45584 dolazak      25.04.26. 11:58, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45584",
-    "event_time": "2026-04-25T11:58:00",
-    "seen_at": "2026-04-25T09:58:34.040Z",
-    "raw": "Br. Vlaka 45584 dolazak      25.04.26. 11:58, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "RUDOPOLJE",
@@ -13831,5 +13813,59 @@
     "event_time": "2026-04-28T11:52:00",
     "seen_at": "2026-04-28T09:53:53.086Z",
     "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "79935",
+    "event_time": "2026-04-28T11:45:00",
+    "seen_at": "2026-04-28T09:56:28.025Z",
+    "raw": "Br. Vlaka 79935 odlazak      28.04.26. 11:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "83808",
+    "event_time": "2026-04-28T11:51:00",
+    "seen_at": "2026-04-28T09:57:38.218Z",
+    "raw": "Br. Vlaka 83808 dolazak      28.04.26. 11:51, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "81971",
+    "event_time": "2026-04-28T12:01:00",
+    "seen_at": "2026-04-28T10:02:15.508Z",
+    "raw": "Br. Vlaka 81971 dolazak      28.04.26. 12:01, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "GOSPIĆ",
+    "train_number": "81971",
+    "event_time": "2026-04-28T12:01:00",
+    "seen_at": "2026-04-28T10:02:15.508Z",
+    "raw": "Br. Vlaka 81971 dolazak      28.04.26. 12:01, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-28T12:01:00",
+    "seen_at": "2026-04-28T10:02:38.382Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-28T12:01:00",
+    "seen_at": "2026-04-28T10:02:38.382Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
