@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "POPOVAČA",
-    "train_number": "89021",
-    "event_time": "2026-04-25T19:42:00",
-    "seen_at": "2026-04-25T17:42:14.098Z",
-    "raw": "Br. Vlaka 89021 odlazak      25.04.26. 19:42, kolodvor POPOVAČA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-25T12:16:00",
-    "seen_at": "2026-04-25T17:44:38.603Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "ZAPREŠIĆ",
-    "train_number": "49998",
-    "event_time": "2026-04-25T19:24:00",
-    "seen_at": "2026-04-25T17:45:25.366Z",
-    "raw": "Br. Vlaka 49998 promjena sas 25.04.26. 19:24, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "MOSLAVAČKA GRAČENICA",
-    "train_number": "89021",
-    "event_time": "2026-04-25T19:47:00",
-    "seen_at": "2026-04-25T17:47:53.632Z",
-    "raw": "Br. Vlaka 89021 odlazak      25.04.26. 19:47, kolodvor MOSLAVAČKA GRAČENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82500",
-    "event_time": "2026-04-25T19:45:00",
-    "seen_at": "2026-04-25T17:48:16.326Z",
-    "raw": "Br. Vlaka 82500 odlazak      25.04.26. 19:45, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82500",
-    "event_time": "2026-04-25T19:45:00",
-    "seen_at": "2026-04-25T17:48:16.326Z",
-    "raw": "Br. Vlaka 82500 odlazak      25.04.26. 19:45, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "928012230100",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -13291,5 +13237,41 @@
     "event_time": "2026-04-28T19:38:00",
     "seen_at": "2026-04-28T17:41:40.390Z",
     "raw": "Br. Vlaka 89893 dolazak      28.04.26. 19:38, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-28T19:38:00",
+    "seen_at": "2026-04-28T17:42:17.730Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-28T19:38:00",
+    "seen_at": "2026-04-28T17:42:17.730Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "45999",
+    "event_time": "2026-04-28T10:37:00",
+    "seen_at": "2026-04-28T17:46:29.966Z",
+    "raw": "Br. Vlaka 45999 formiran     28.04.26. 10:37, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "45999",
+    "event_time": "2026-04-28T10:37:00",
+    "seen_at": "2026-04-28T17:46:52.521Z",
+    "raw": "Br. Vlaka 45999 formiran     28.04.26. 10:37, kolodvor KOPRIVNICA GR    A"
   }
 ]
