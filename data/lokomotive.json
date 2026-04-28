@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-25T05:10:00",
-    "seen_at": "2026-04-25T03:11:13.731Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-25T05:10:00",
-    "seen_at": "2026-04-25T03:11:13.732Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
     "uic": "928012230100",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -13084,5 +13066,14 @@
     "event_time": "2026-04-28T05:09:00",
     "seen_at": "2026-04-28T03:09:48.983Z",
     "raw": "Br. Vlaka 79931 dolazak      28.04.26. 05:09, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "79931",
+    "event_time": "2026-04-28T05:17:00",
+    "seen_at": "2026-04-28T03:17:46.042Z",
+    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 05:17, kolodvor IVANIĆ GRAD"
   }
 ]
