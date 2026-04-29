@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "89178",
-    "event_time": "2026-04-26T05:44:00",
-    "seen_at": "2026-04-26T03:44:57.714Z",
-    "raw": "Br. Vlaka 89178 odlazak      26.04.26. 05:44, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "79901",
-    "event_time": "2026-04-26T05:44:00",
-    "seen_at": "2026-04-26T03:44:57.715Z",
-    "raw": "Br. Vlaka 79901 odlazak      26.04.26. 05:44, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89176",
-    "event_time": "2026-04-26T05:47:00",
-    "seen_at": "2026-04-26T03:48:02.155Z",
-    "raw": "Br. Vlaka 89176 odlazak      26.04.26. 05:47, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "89157",
-    "event_time": "2026-04-26T05:49:00",
-    "seen_at": "2026-04-26T03:51:16.133Z",
-    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 05:49, kolodvor MALOVAN"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "89178",
-    "event_time": "2026-04-26T05:51:00",
-    "seen_at": "2026-04-26T03:52:01.594Z",
-    "raw": "Br. Vlaka 89178 odlazak      26.04.26. 05:51, kolodvor LIPOVLJANI"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -11995,5 +11950,23 @@
     "event_time": "2026-04-29T05:29:00",
     "seen_at": "2026-04-29T03:29:50.986Z",
     "raw": "Br. Vlaka 75003 formiran     29.04.26. 05:29, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "ĐURĐEVAC",
+    "train_number": "45999",
+    "event_time": "2026-04-29T05:41:00",
+    "seen_at": "2026-04-29T03:44:28.393Z",
+    "raw": "Br. Vlaka 45999 dolazak      29.04.26. 05:41, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ĐURĐEVAC",
+    "train_number": "45999",
+    "event_time": "2026-04-29T05:41:00",
+    "seen_at": "2026-04-29T03:44:28.393Z",
+    "raw": "Br. Vlaka 45999 dolazak      29.04.26. 05:41, kolodvor ĐURĐEVAC"
   }
 ]
