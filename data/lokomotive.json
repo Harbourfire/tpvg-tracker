@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "KONJŠČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T15:17:00",
-    "seen_at": "2026-04-26T13:19:40.545Z",
-    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 15:17, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "79906",
-    "event_time": "2026-04-26T15:21:00",
-    "seen_at": "2026-04-26T13:21:13.099Z",
-    "raw": "Br. Vlaka 79906 dolazak      26.04.26. 15:21, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-04-26T15:21:00",
-    "seen_at": "2026-04-26T13:22:21.669Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 15:21, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-04-26T15:21:00",
-    "seen_at": "2026-04-26T13:22:21.669Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 15:21, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "KONJŠČINA",
-    "train_number": null,
-    "event_time": "2026-04-26T12:00:00",
-    "seen_at": "2026-04-26T13:24:47.718Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74407 KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Formiran",
-    "station": "KONJŠČINA",
-    "train_number": "82322",
-    "event_time": "2026-04-26T15:24:00",
-    "seen_at": "2026-04-26T13:25:10.598Z",
-    "raw": "Br. Vlaka 82322 formiran     26.04.26. 15:24, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T15:25:00",
-    "seen_at": "2026-04-26T13:25:55.982Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 15:25, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "82322",
-    "event_time": "2026-04-26T15:25:00",
-    "seen_at": "2026-04-26T13:27:26.977Z",
-    "raw": "Br. Vlaka 82322 odlazak      26.04.26. 15:25, kolodvor KONJŠČINA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -11869,5 +11797,23 @@
     "event_time": "2026-04-29T15:18:00",
     "seen_at": "2026-04-29T13:19:13.225Z",
     "raw": "Br. Vlaka 79924 odlazak      29.04.26. 15:18, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "89300",
+    "event_time": "2026-04-29T15:20:00",
+    "seen_at": "2026-04-29T13:21:54.024Z",
+    "raw": "Br. Vlaka 89300 dolazak      29.04.26. 15:20, kolodvor OSIJEK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "79924",
+    "event_time": "2026-04-29T15:25:00",
+    "seen_at": "2026-04-29T13:25:47.576Z",
+    "raw": "Br. Vlaka 79924 odlazak      29.04.26. 15:25, kolodvor GARČIN"
   }
 ]
