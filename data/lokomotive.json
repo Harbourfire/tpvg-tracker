@@ -1,33 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "79906",
-    "event_time": "2026-04-26T16:10:00",
-    "seen_at": "2026-04-26T14:11:39.218Z",
-    "raw": "Br. Vlaka 79906 odlazak      26.04.26. 16:10, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89925",
-    "event_time": "2026-04-26T16:13:00",
-    "seen_at": "2026-04-26T14:14:19.151Z",
-    "raw": "Br. Vlaka 89925 odlazak      26.04.26. 16:13, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "79906",
-    "event_time": "2026-04-26T16:03:00",
-    "seen_at": "2026-04-26T14:15:04.297Z",
-    "raw": "Br. Vlaka 79906 odlazak      26.04.26. 16:03, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "987890033630",
     "type": "Dolazak",
     "station": "ZAGREB GL. KOL.",
     "train_number": "79906",
@@ -11878,5 +11851,59 @@
     "event_time": "2026-04-29T16:00:00",
     "seen_at": "2026-04-29T14:06:13.447Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 16:00, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82522",
+    "event_time": "2026-04-29T16:08:00",
+    "seen_at": "2026-04-29T14:11:12.329Z",
+    "raw": "Br. Vlaka 82522 dolazak      29.04.26. 16:08, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "82522",
+    "event_time": "2026-04-29T16:08:00",
+    "seen_at": "2026-04-29T14:11:12.329Z",
+    "raw": "Br. Vlaka 82522 dolazak      29.04.26. 16:08, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "44690",
+    "event_time": "2026-04-29T16:09:00",
+    "seen_at": "2026-04-29T14:11:59.375Z",
+    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 16:09, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "VIROVITICA",
+    "train_number": "44690",
+    "event_time": "2026-04-29T16:09:00",
+    "seen_at": "2026-04-29T14:11:59.376Z",
+    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 16:09, kolodvor VIROVITICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:14:00",
+    "seen_at": "2026-04-29T14:16:18.352Z",
+    "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:14, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:14:00",
+    "seen_at": "2026-04-29T14:16:18.352Z",
+    "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:14, kolodvor ZAGREB ZAP. KOL."
   }
 ]
