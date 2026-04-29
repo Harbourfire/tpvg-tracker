@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VUKOVAR",
-    "train_number": "81107",
-    "event_time": "2026-04-26T08:16:00",
-    "seen_at": "2026-04-26T06:16:58.762Z",
-    "raw": "Br. Vlaka 81107 formiran     26.04.26. 08:16, kolodvor VUKOVAR"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "VELIKA GORICA",
-    "train_number": "89178",
-    "event_time": "2026-04-26T08:13:00",
-    "seen_at": "2026-04-26T06:17:45.220Z",
-    "raw": "Br. Vlaka 89178 odlazak      26.04.26. 08:13, kolodvor VELIKA GORICA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -11923,5 +11905,23 @@
     "event_time": "2026-04-29T08:09:00",
     "seen_at": "2026-04-29T06:09:33.776Z",
     "raw": "Br. Vlaka 79920 odlazak      29.04.26. 08:09, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "79920",
+    "event_time": "2026-04-29T08:22:00",
+    "seen_at": "2026-04-29T06:22:59.263Z",
+    "raw": "Br. Vlaka 79920 odlazak      29.04.26. 08:22, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76509",
+    "event_time": "2026-04-29T08:23:00",
+    "seen_at": "2026-04-29T06:23:22.486Z",
+    "raw": "Br. Vlaka 76509 odlazak      29.04.26. 08:23, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
