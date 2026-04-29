@@ -2,42 +2,6 @@
   {
     "uic": "927820621104",
     "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "69350",
-    "event_time": "2026-04-26T09:34:00",
-    "seen_at": "2026-04-26T07:35:03.513Z",
-    "raw": "Br. Vlaka 69350 odlazak      26.04.26. 09:34, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GRAČAC",
-    "train_number": "41998",
-    "event_time": "2026-04-26T09:35:00",
-    "seen_at": "2026-04-26T07:36:22.386Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 09:35, kolodvor GRAČAC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZABOK",
-    "train_number": null,
-    "event_time": "2026-04-25T23:49:00",
-    "seen_at": "2026-04-26T07:39:24.289Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74307 ZABOK"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "ZABOK",
-    "train_number": "44786",
-    "event_time": "2026-04-26T07:44:00",
-    "seen_at": "2026-04-26T07:39:46.745Z",
-    "raw": "Br. Vlaka 44786 promjena sas 26.04.26. 07:44, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
     "station": "STARI MIKANOVCI",
     "train_number": "69350",
     "event_time": "2026-04-26T09:44:00",
@@ -11905,5 +11869,23 @@
     "event_time": "2026-04-29T09:31:00",
     "seen_at": "2026-04-29T07:32:34.922Z",
     "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Formiran",
+    "station": "PLETERNICA",
+    "train_number": "89300",
+    "event_time": "2026-04-29T09:34:00",
+    "seen_at": "2026-04-29T07:35:07.221Z",
+    "raw": "Br. Vlaka 89300 formiran     29.04.26. 09:34, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Dolazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "75003",
+    "event_time": "2026-04-29T09:36:00",
+    "seen_at": "2026-04-29T07:41:22.256Z",
+    "raw": "Br. Vlaka 75003 dolazak      29.04.26. 09:36, kolodvor IVANIĆ GRAD"
   }
 ]
