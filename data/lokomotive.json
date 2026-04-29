@@ -1,95 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "44786",
-    "event_time": "2026-04-26T14:10:00",
-    "seen_at": "2026-04-26T12:12:35.312Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 14:10, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI DVORI",
-    "train_number": "49998",
-    "event_time": "2026-04-26T14:10:00",
-    "seen_at": "2026-04-26T12:12:35.313Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 14:10, kolodvor NOVI DVORI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "GRADEC",
-    "train_number": null,
-    "event_time": "2026-04-26T14:14:00",
-    "seen_at": "2026-04-26T12:14:32.887Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73109 GRADEC"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "GRADEC",
-    "train_number": "79905",
-    "event_time": "2026-04-26T14:03:00",
-    "seen_at": "2026-04-26T12:15:19.755Z",
-    "raw": "Br. Vlaka 79905 formiran     26.04.26. 14:03, kolodvor GRADEC"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-26T14:16:00",
-    "seen_at": "2026-04-26T12:18:04.040Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 14:16, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-26T14:16:00",
-    "seen_at": "2026-04-26T12:18:04.040Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 14:16, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "66921",
-    "event_time": "2026-04-26T14:11:00",
-    "seen_at": "2026-04-26T12:18:27.706Z",
-    "raw": "Br. Vlaka 66921 odlazak      26.04.26. 14:11, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-26T14:17:00",
-    "seen_at": "2026-04-26T12:19:01.720Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 14:17, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T14:18:00",
-    "seen_at": "2026-04-26T12:19:01.721Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 14:18, kolodvor LUKA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "79905",
-    "event_time": "2026-04-26T14:17:00",
-    "seen_at": "2026-04-26T12:19:01.722Z",
-    "raw": "Br. Vlaka 79905 odlazak      26.04.26. 14:17, kolodvor GRADEC"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "VELIKO TRGOVIŠĆE",
@@ -11914,5 +11824,41 @@
     "event_time": "2026-04-29T14:03:00",
     "seen_at": "2026-04-29T12:11:43.524Z",
     "raw": "Br. Vlaka 89730 odlazak      29.04.26. 14:03, kolodvor MALA SUBOTICA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "DONJI KRALJEVEC",
+    "train_number": "89730",
+    "event_time": "2026-04-29T14:11:00",
+    "seen_at": "2026-04-29T12:12:27.161Z",
+    "raw": "Br. Vlaka 89730 odlazak      29.04.26. 14:11, kolodvor DONJI KRALJEVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47945",
+    "event_time": "2026-04-29T14:13:00",
+    "seen_at": "2026-04-29T12:14:28.004Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:13, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "47945",
+    "event_time": "2026-04-29T14:13:00",
+    "seen_at": "2026-04-29T12:14:28.005Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:13, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89300",
+    "event_time": "2026-04-29T14:18:00",
+    "seen_at": "2026-04-29T12:20:51.837Z",
+    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 14:18, kolodvor GARČIN"
   }
 ]
