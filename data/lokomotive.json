@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "81230",
-    "event_time": "2026-04-26T23:38:00",
-    "seen_at": "2026-04-26T21:41:02.249Z",
-    "raw": "Br. Vlaka 81230 odlazak      26.04.26. 23:38, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "81230",
-    "event_time": "2026-04-26T23:38:00",
-    "seen_at": "2026-04-26T21:41:02.249Z",
-    "raw": "Br. Vlaka 81230 odlazak      26.04.26. 23:38, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -11698,5 +11680,59 @@
     "event_time": "2026-04-29T23:24:00",
     "seen_at": "2026-04-29T21:24:30.642Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:24, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "44690",
+    "event_time": "2026-04-29T23:32:00",
+    "seen_at": "2026-04-29T21:34:32.683Z",
+    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 23:32, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "VRBOVEC",
+    "train_number": "44690",
+    "event_time": "2026-04-29T23:32:00",
+    "seen_at": "2026-04-29T21:34:32.683Z",
+    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 23:32, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-29T23:39:00",
+    "seen_at": "2026-04-29T21:40:05.137Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:39, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-04-29T23:39:00",
+    "seen_at": "2026-04-29T21:40:05.137Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:39, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "44690",
+    "event_time": "2026-04-29T23:39:00",
+    "seen_at": "2026-04-29T21:42:51.026Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:39, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "44690",
+    "event_time": "2026-04-29T23:39:00",
+    "seen_at": "2026-04-29T21:42:51.026Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:39, kolodvor VRBOVEC"
   }
 ]
