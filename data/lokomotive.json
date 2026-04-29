@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "89157",
-    "event_time": "2026-04-26T02:53:00",
-    "seen_at": "2026-04-26T00:54:17.884Z",
-    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 02:53, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "44997",
-    "event_time": "2026-04-26T02:55:00",
-    "seen_at": "2026-04-26T00:55:26.942Z",
-    "raw": "Br. Vlaka 44997 dolazak      26.04.26. 02:55, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "HORVATI",
-    "train_number": "89168",
-    "event_time": "2026-04-26T02:55:00",
-    "seen_at": "2026-04-26T00:55:26.943Z",
-    "raw": "Br. Vlaka 89168 dolazak      26.04.26. 02:55, kolodvor HORVATI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89168",
-    "event_time": "2026-04-26T02:57:00",
-    "seen_at": "2026-04-26T00:57:44.885Z",
-    "raw": "Br. Vlaka 89168 odlazak      26.04.26. 02:57, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "89157",
-    "event_time": "2026-04-26T02:59:00",
-    "seen_at": "2026-04-26T01:00:42.903Z",
-    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 02:59, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -12355,5 +12310,23 @@
     "event_time": "2026-04-29T02:30:00",
     "seen_at": "2026-04-29T00:33:35.378Z",
     "raw": "Br. Vlaka 81972 dolazak      29.04.26. 02:30, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81972",
+    "event_time": "2026-04-29T02:51:00",
+    "seen_at": "2026-04-29T00:52:52.640Z",
+    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 02:51, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81972",
+    "event_time": "2026-04-29T02:51:00",
+    "seen_at": "2026-04-29T00:52:52.640Z",
+    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 02:51, kolodvor PERUŠIĆ"
   }
 ]
