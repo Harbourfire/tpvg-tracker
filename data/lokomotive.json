@@ -2,78 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-26T14:30:00",
-    "seen_at": "2026-04-26T12:31:27.380Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 14:30, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63310",
-    "event_time": "2026-04-26T14:30:00",
-    "seen_at": "2026-04-26T12:31:27.380Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 14:30, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-25T05:00:00",
-    "seen_at": "2026-04-26T12:32:13.784Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "KRIŽEVCI",
-    "train_number": "79906",
-    "event_time": "2026-04-26T14:31:00",
-    "seen_at": "2026-04-26T12:32:37.973Z",
-    "raw": "Br. Vlaka 79906 formiran     26.04.26. 14:31, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-26T14:31:00",
-    "seen_at": "2026-04-26T12:33:25.983Z",
-    "raw": "Br. Vlaka 44786 dolazak      26.04.26. 14:31, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "49998",
-    "event_time": "2026-04-26T14:33:00",
-    "seen_at": "2026-04-26T12:34:12.877Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 14:33, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48980",
-    "event_time": "2026-04-26T09:41:00",
-    "seen_at": "2026-04-26T12:34:12.877Z",
-    "raw": "Br. Vlaka 48980 promjena sas 26.04.26. 09:41, kolodvor 72303"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "44786",
-    "event_time": "2026-04-26T14:35:00",
-    "seen_at": "2026-04-26T12:37:19.490Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 14:35, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "63310",
     "event_time": "2026-04-26T14:40:00",
@@ -11914,5 +11842,77 @@
     "event_time": "2026-04-29T14:28:00",
     "seen_at": "2026-04-29T12:28:52.620Z",
     "raw": "Br. Vlaka 79924 formiran     29.04.26. 14:28, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-04-29T14:32:00",
+    "seen_at": "2026-04-29T12:33:01.256Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:32, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47945",
+    "event_time": "2026-04-29T14:32:00",
+    "seen_at": "2026-04-29T12:33:01.257Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:32, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "KOTORIBA",
+    "train_number": "89730",
+    "event_time": "2026-04-29T14:24:00",
+    "seen_at": "2026-04-29T12:34:57.790Z",
+    "raw": "Br. Vlaka 89730 dolazak      29.04.26. 14:24, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "KOTORIBA",
+    "train_number": null,
+    "event_time": "2026-04-29T14:24:00",
+    "seen_at": "2026-04-29T12:35:21.101Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82522",
+    "event_time": "2026-04-29T14:34:00",
+    "seen_at": "2026-04-29T12:35:44.322Z",
+    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 14:34, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82522",
+    "event_time": "2026-04-29T14:34:00",
+    "seen_at": "2026-04-29T12:35:44.322Z",
+    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 14:34, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89300",
+    "event_time": "2026-04-29T14:36:00",
+    "seen_at": "2026-04-29T12:37:19.068Z",
+    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 14:36, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "SLAVONSKI ŠAMAC",
+    "train_number": "79924",
+    "event_time": "2026-04-29T14:30:00",
+    "seen_at": "2026-04-29T12:40:50.581Z",
+    "raw": "Br. Vlaka 79924 odlazak      29.04.26. 14:30, kolodvor SLAVONSKI ŠAMAC"
   }
 ]
