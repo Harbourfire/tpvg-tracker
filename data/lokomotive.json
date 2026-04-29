@@ -1,42 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "43997",
-    "event_time": "2026-04-26T10:12:00",
-    "seen_at": "2026-04-26T08:12:37.239Z",
-    "raw": "Br. Vlaka 43997 odlazak      26.04.26. 10:12, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "69350",
-    "event_time": "2026-04-26T10:11:00",
-    "seen_at": "2026-04-26T08:12:37.239Z",
-    "raw": "Br. Vlaka 69350 odlazak      26.04.26. 10:11, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "41998",
-    "event_time": "2026-04-26T10:16:00",
-    "seen_at": "2026-04-26T08:16:45.548Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 10:16, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "43997",
-    "event_time": "2026-04-26T10:18:00",
-    "seen_at": "2026-04-26T08:18:43.622Z",
-    "raw": "Br. Vlaka 43997 dolazak      26.04.26. 10:18, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620197",
     "type": "Rasformiran",
     "station": "ZAGREB ZAPADNI",
     "train_number": null,
@@ -11716,5 +11680,14 @@
     "event_time": "2026-04-29T09:36:00",
     "seen_at": "2026-04-29T07:41:22.256Z",
     "raw": "Br. Vlaka 75003 dolazak      29.04.26. 09:36, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Promjena sastava",
+    "station": "IVANIĆ GRAD",
+    "train_number": "75003",
+    "event_time": "2026-04-29T09:36:00",
+    "seen_at": "2026-04-29T08:19:49.575Z",
+    "raw": "Br. Vlaka 75003 promjena sas 29.04.26. 09:36, kolodvor IVANIĆ GRAD"
   }
 ]
