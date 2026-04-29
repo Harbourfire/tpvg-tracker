@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "41998",
-    "event_time": "2026-04-26T12:46:00",
-    "seen_at": "2026-04-26T10:47:56.249Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 12:46, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "44786",
-    "event_time": "2026-04-26T12:52:00",
-    "seen_at": "2026-04-26T10:54:08.964Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 12:52, kolodvor TURČIN"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -11743,5 +11725,68 @@
     "event_time": "2026-04-29T12:44:00",
     "seen_at": "2026-04-29T10:44:44.454Z",
     "raw": "Br. Vlaka 89300 odlazak      29.04.26. 12:44, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-04-29T05:15:00",
+    "seen_at": "2026-04-29T10:45:24.673Z",
+    "raw": "Br. Vlaka 47945 promjena sas 29.04.26. 05:15, kolodvor 72303"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Formiran",
+    "station": "OKUČANI",
+    "train_number": "82525",
+    "event_time": "2026-04-29T12:45:00",
+    "seen_at": "2026-04-29T10:45:48.757Z",
+    "raw": "Br. Vlaka 82525 formiran     29.04.26. 12:45, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-29T12:44:00",
+    "seen_at": "2026-04-29T10:45:48.758Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ČAČINCI",
+    "train_number": null,
+    "event_time": "2026-04-29T12:44:00",
+    "seen_at": "2026-04-29T10:45:48.758Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "75003",
+    "event_time": "2026-04-29T12:46:00",
+    "seen_at": "2026-04-29T10:46:58.896Z",
+    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 12:46, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81973",
+    "event_time": "2026-04-29T12:46:00",
+    "seen_at": "2026-04-29T10:48:55.061Z",
+    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 12:46, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81973",
+    "event_time": "2026-04-29T12:46:00",
+    "seen_at": "2026-04-29T10:48:55.061Z",
+    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 12:46, kolodvor LIČKO LEŠĆE"
   }
 ]
