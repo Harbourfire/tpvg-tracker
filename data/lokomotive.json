@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82199",
-    "event_time": "2026-04-26T12:26:00",
-    "seen_at": "2026-04-26T10:28:25.064Z",
-    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 12:26, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82199",
-    "event_time": "2026-04-26T12:26:00",
-    "seen_at": "2026-04-26T10:28:25.064Z",
-    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 12:26, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "66921",
-    "event_time": "2026-04-26T02:48:00",
-    "seen_at": "2026-04-26T10:29:11.355Z",
-    "raw": "Br. Vlaka 66921 formiran     26.04.26. 02:48, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "KUKAČA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T12:29:00",
-    "seen_at": "2026-04-26T10:30:43.856Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 12:29, kolodvor KUKAČA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "44786",
-    "event_time": "2026-04-26T12:32:00",
-    "seen_at": "2026-04-26T10:33:27.345Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 12:32, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "GORNJE DUBRAVE",
@@ -11806,5 +11761,41 @@
     "event_time": "2026-04-29T12:22:00",
     "seen_at": "2026-04-29T10:22:34.829Z",
     "raw": "Br. Vlaka 89109 odlazak      29.04.26. 12:22, kolodvor SLATINA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-04-29T12:25:00",
+    "seen_at": "2026-04-29T10:26:21.591Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "ŽUPANJA",
+    "train_number": "79922",
+    "event_time": "2026-04-29T12:26:00",
+    "seen_at": "2026-04-29T10:29:27.228Z",
+    "raw": "Br. Vlaka 79922 formiran     29.04.26. 12:26, kolodvor ŽUPANJA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ŽUPANJA",
+    "train_number": "79922",
+    "event_time": "2026-04-29T12:34:00",
+    "seen_at": "2026-04-29T10:34:48.180Z",
+    "raw": "Br. Vlaka 79922 odlazak      29.04.26. 12:34, kolodvor ŽUPANJA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "75003",
+    "event_time": "2026-04-29T12:34:00",
+    "seen_at": "2026-04-29T10:35:10.808Z",
+    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 12:34, kolodvor NOVA GRADIŠKA"
   }
 ]
