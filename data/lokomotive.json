@@ -2,69 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "GORNJE DUBRAVE",
-    "train_number": "41998",
-    "event_time": "2026-04-26T12:36:00",
-    "seen_at": "2026-04-26T10:37:58.755Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 12:36, kolodvor GORNJE DUBRAVE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "82199",
-    "event_time": "2026-04-26T12:37:00",
-    "seen_at": "2026-04-26T10:37:58.756Z",
-    "raw": "Br. Vlaka 82199 dolazak      26.04.26. 12:37, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "82199",
-    "event_time": "2026-04-26T12:37:00",
-    "seen_at": "2026-04-26T10:37:58.756Z",
-    "raw": "Br. Vlaka 82199 dolazak      26.04.26. 12:37, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-26T12:37:00",
-    "seen_at": "2026-04-26T10:39:10.735Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-26T12:37:00",
-    "seen_at": "2026-04-26T10:39:10.735Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-26T12:41:00",
-    "seen_at": "2026-04-26T10:41:54.719Z",
-    "raw": "Br. Vlaka 63310 formiran     26.04.26. 12:41, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-26T12:41:00",
-    "seen_at": "2026-04-26T10:41:54.719Z",
-    "raw": "Br. Vlaka 63310 formiran     26.04.26. 12:41, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "GENERALSKI STOL",
     "train_number": "41998",
     "event_time": "2026-04-26T12:46:00",
@@ -11797,5 +11734,14 @@
     "event_time": "2026-04-29T12:34:00",
     "seen_at": "2026-04-29T10:35:10.808Z",
     "raw": "Br. Vlaka 75003 odlazak      29.04.26. 12:34, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "89300",
+    "event_time": "2026-04-29T12:44:00",
+    "seen_at": "2026-04-29T10:44:44.454Z",
+    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 12:44, kolodvor PLETERNICA"
   }
 ]
