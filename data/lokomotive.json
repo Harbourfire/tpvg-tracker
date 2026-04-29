@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-26T23:42:00",
-    "seen_at": "2026-04-26T21:43:36.859Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 23:42, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-26T23:42:00",
-    "seen_at": "2026-04-26T21:43:36.859Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 23:42, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "TURČIN",
@@ -11734,5 +11716,32 @@
     "event_time": "2026-04-29T23:39:00",
     "seen_at": "2026-04-29T21:42:51.026Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:39, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-29T23:51:00",
+    "seen_at": "2026-04-29T21:51:48.733Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-29T23:51:00",
+    "seen_at": "2026-04-29T21:51:48.733Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "JOSIPOVAC",
+    "train_number": "89119",
+    "event_time": "2026-04-29T23:50:00",
+    "seen_at": "2026-04-29T21:52:58.957Z",
+    "raw": "Br. Vlaka 89119 odlazak      29.04.26. 23:50, kolodvor JOSIPOVAC"
   }
 ]
