@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "KUKAČA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T12:21:00",
-    "seen_at": "2026-04-26T10:21:38.578Z",
-    "raw": "Br. Vlaka 41998 dolazak      26.04.26. 12:21, kolodvor KUKAČA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "BJELOVAR",
-    "train_number": "79903",
-    "event_time": "2026-04-26T12:19:00",
-    "seen_at": "2026-04-26T10:22:01.704Z",
-    "raw": "Br. Vlaka 79903 odlazak      26.04.26. 12:19, kolodvor BJELOVAR"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -11779,5 +11761,50 @@
     "event_time": "2026-04-29T12:14:00",
     "seen_at": "2026-04-29T10:15:46.978Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "75003",
+    "event_time": "2026-04-29T12:19:00",
+    "seen_at": "2026-04-29T10:19:29.299Z",
+    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 12:19, kolodvor OKUČANI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81973",
+    "event_time": "2026-04-29T12:20:00",
+    "seen_at": "2026-04-29T10:20:38.492Z",
+    "raw": "Br. Vlaka 81973 dolazak      29.04.26. 12:20, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81973",
+    "event_time": "2026-04-29T12:20:00",
+    "seen_at": "2026-04-29T10:20:38.493Z",
+    "raw": "Br. Vlaka 81973 dolazak      29.04.26. 12:20, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89109",
+    "event_time": "2026-04-29T12:22:00",
+    "seen_at": "2026-04-29T10:22:34.829Z",
+    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 12:22, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89109",
+    "event_time": "2026-04-29T12:22:00",
+    "seen_at": "2026-04-29T10:22:34.829Z",
+    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 12:22, kolodvor SLATINA"
   }
 ]
