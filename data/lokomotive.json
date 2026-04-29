@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-04-26T22:55:00",
-    "seen_at": "2026-04-26T20:55:37.347Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-04-26T22:55:00",
-    "seen_at": "2026-04-26T20:55:37.347Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T22:59:00",
-    "seen_at": "2026-04-26T21:01:04.500Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 22:59, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-26T23:02:00",
-    "seen_at": "2026-04-26T21:03:47.247Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 23:02, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-04-26T23:02:00",
-    "seen_at": "2026-04-26T21:03:47.247Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 23:02, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "DONJI KRALJEVEC",
@@ -11716,5 +11671,32 @@
     "event_time": "2026-04-29T22:50:00",
     "seen_at": "2026-04-29T20:53:45.456Z",
     "raw": "Br. Vlaka 63305 dolazak      29.04.26. 22:50, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89119",
+    "event_time": "2026-04-29T22:58:00",
+    "seen_at": "2026-04-29T20:58:46.538Z",
+    "raw": "Br. Vlaka 89119 odlazak      29.04.26. 22:58, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "45992",
+    "event_time": "2026-04-29T22:54:00",
+    "seen_at": "2026-04-29T21:01:57.392Z",
+    "raw": "Br. Vlaka 45992 odlazak      29.04.26. 22:54, kolodvor 72302"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "45992",
+    "event_time": "2026-04-29T23:02:00",
+    "seen_at": "2026-04-29T21:03:56.033Z",
+    "raw": "Br. Vlaka 45992 dolazak      29.04.26. 23:02, kolodvor ZAGREB RESNIK"
   }
 ]
