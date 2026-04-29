@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "PREČEC stajalište",
-    "train_number": "82501",
-    "event_time": "2026-04-26T04:16:00",
-    "seen_at": "2026-04-26T02:17:47.433Z",
-    "raw": "Br. Vlaka 82501 odlazak      26.04.26. 04:16, kolodvor 92515"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "79901",
-    "event_time": "2026-04-26T04:18:00",
-    "seen_at": "2026-04-26T02:18:34.231Z",
-    "raw": "Br. Vlaka 79901 odlazak      26.04.26. 04:18, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "43997",
-    "event_time": "2026-04-26T04:17:00",
-    "seen_at": "2026-04-26T02:18:57.743Z",
-    "raw": "Br. Vlaka 43997 odlazak      26.04.26. 04:17, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "927820620015",
     "type": "Rasformiran",
     "station": "ZABOK",
@@ -12220,5 +12193,23 @@
     "event_time": "2026-04-29T04:13:00",
     "seen_at": "2026-04-29T02:15:31.041Z",
     "raw": "Br. Vlaka 81972 odlazak      29.04.26. 04:13, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "BREGI",
+    "train_number": "45999",
+    "event_time": "2026-04-29T04:13:00",
+    "seen_at": "2026-04-29T02:25:29.440Z",
+    "raw": "Br. Vlaka 45999 dolazak      29.04.26. 04:13, kolodvor BREGI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "BREGI",
+    "train_number": "45999",
+    "event_time": "2026-04-29T04:13:00",
+    "seen_at": "2026-04-29T02:25:29.441Z",
+    "raw": "Br. Vlaka 45999 dolazak      29.04.26. 04:13, kolodvor BREGI"
   }
 ]
