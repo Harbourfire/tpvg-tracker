@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-26T14:40:00",
-    "seen_at": "2026-04-26T12:41:41.888Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 14:40, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63310",
-    "event_time": "2026-04-26T14:40:00",
-    "seen_at": "2026-04-26T12:41:41.889Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 14:40, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "79906",
-    "event_time": "2026-04-26T14:40:00",
-    "seen_at": "2026-04-26T12:42:04.839Z",
-    "raw": "Br. Vlaka 79906 odlazak      26.04.26. 14:40, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "41998",
-    "event_time": "2026-04-26T14:49:00",
-    "seen_at": "2026-04-26T12:49:31.441Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 14:49, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "927820620197",
     "type": "Dolazak",
     "station": "BEDEKOVČINA",
@@ -11914,5 +11878,41 @@
     "event_time": "2026-04-29T14:30:00",
     "seen_at": "2026-04-29T12:40:50.581Z",
     "raw": "Br. Vlaka 79924 odlazak      29.04.26. 14:30, kolodvor SLAVONSKI ŠAMAC"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "79924",
+    "event_time": "2026-04-29T14:40:00",
+    "seen_at": "2026-04-29T12:41:49.846Z",
+    "raw": "Br. Vlaka 79924 dolazak      29.04.26. 14:40, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-29T14:36:00",
+    "seen_at": "2026-04-29T12:42:58.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-29T14:36:00",
+    "seen_at": "2026-04-29T12:42:58.919Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89300",
+    "event_time": "2026-04-29T14:48:00",
+    "seen_at": "2026-04-29T12:49:55.655Z",
+    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 14:48, kolodvor ĐAKOVO"
   }
 ]
