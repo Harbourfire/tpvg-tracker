@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "81128",
-    "event_time": "2026-04-26T18:06:00",
-    "seen_at": "2026-04-26T16:07:02.552Z",
-    "raw": "Br. Vlaka 81128 dolazak      26.04.26. 18:06, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820621195",
     "type": "Formiran",
     "station": "VARAŽDIN",
@@ -11986,5 +11977,23 @@
     "event_time": "2026-04-29T17:54:00",
     "seen_at": "2026-04-29T16:02:36.582Z",
     "raw": "Br. Vlaka 89300 dolazak      29.04.26. 17:54, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ĐURĐEVAC",
+    "train_number": "44690",
+    "event_time": "2026-04-29T18:03:00",
+    "seen_at": "2026-04-29T16:06:03.189Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 18:03, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ĐURĐEVAC",
+    "train_number": "44690",
+    "event_time": "2026-04-29T18:03:00",
+    "seen_at": "2026-04-29T16:06:03.189Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 18:03, kolodvor ĐURĐEVAC"
   }
 ]
