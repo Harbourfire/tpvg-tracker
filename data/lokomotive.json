@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "43997",
-    "event_time": "2026-04-26T09:03:00",
-    "seen_at": "2026-04-26T07:05:11.203Z",
-    "raw": "Br. Vlaka 43997 odlazak      26.04.26. 09:03, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "43997",
-    "event_time": "2026-04-26T09:03:00",
-    "seen_at": "2026-04-26T07:05:11.203Z",
-    "raw": "Br. Vlaka 43997 odlazak      26.04.26. 09:03, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "81107",
-    "event_time": "2026-04-26T09:07:00",
-    "seen_at": "2026-04-26T07:07:32.178Z",
-    "raw": "Br. Vlaka 81107 dolazak      26.04.26. 09:07, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-26T10:00:00",
-    "seen_at": "2026-04-26T07:11:36.085Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "MALOVAN",
@@ -11923,5 +11887,23 @@
     "event_time": "2026-04-29T08:55:00",
     "seen_at": "2026-04-29T06:56:08.736Z",
     "raw": "Br. Vlaka 75003 dolazak      29.04.26. 08:55, kolodvor 92515"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "ORIOVAC",
+    "train_number": "76510",
+    "event_time": "2026-04-29T09:07:00",
+    "seen_at": "2026-04-29T07:10:19.385Z",
+    "raw": "Br. Vlaka 76510 formiran     29.04.26. 09:07, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "79921",
+    "event_time": "2026-04-29T08:57:00",
+    "seen_at": "2026-04-29T07:10:42.751Z",
+    "raw": "Br. Vlaka 79921 dolazak      29.04.26. 08:57, kolodvor VINKOVCI"
   }
 ]
