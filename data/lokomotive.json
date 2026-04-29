@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "41998",
-    "event_time": "2026-04-26T18:50:00",
-    "seen_at": "2026-04-26T16:54:24.743Z",
-    "raw": "Br. Vlaka 41998 dolazak      26.04.26. 18:50, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "41998",
-    "event_time": "2026-04-26T18:50:00",
-    "seen_at": "2026-04-26T16:54:24.743Z",
-    "raw": "Br. Vlaka 41998 dolazak      26.04.26. 18:50, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "89107",
-    "event_time": "2026-04-26T18:54:00",
-    "seen_at": "2026-04-26T16:55:10.412Z",
-    "raw": "Br. Vlaka 89107 dolazak      26.04.26. 18:54, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "NOVI MAROF",
-    "train_number": "89107",
-    "event_time": "2026-04-26T18:54:00",
-    "seen_at": "2026-04-26T16:55:10.413Z",
-    "raw": "Br. Vlaka 89107 dolazak      26.04.26. 18:54, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -11923,5 +11887,23 @@
     "event_time": "2026-04-29T18:41:00",
     "seen_at": "2026-04-29T16:43:02.962Z",
     "raw": "Br. Vlaka 66751 odlazak      29.04.26. 18:41, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "VARAŽDIN",
+    "train_number": "66751",
+    "event_time": "2026-04-29T18:58:00",
+    "seen_at": "2026-04-29T17:00:29.230Z",
+    "raw": "Br. Vlaka 66751 dolazak      29.04.26. 18:58, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-29T18:58:00",
+    "seen_at": "2026-04-29T17:01:38.499Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
