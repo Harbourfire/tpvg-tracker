@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SV. IVAN ŽABNO",
-    "train_number": "79904",
-    "event_time": "2026-04-26T14:00:00",
-    "seen_at": "2026-04-26T12:03:27.610Z",
-    "raw": "Br. Vlaka 79904 odlazak      26.04.26. 14:00, kolodvor SV. IVAN ŽABNO"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-26T14:00:00",
-    "seen_at": "2026-04-26T12:05:23.165Z",
-    "raw": "Br. Vlaka 44786 dolazak      26.04.26. 14:00, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "44786",
-    "event_time": "2026-04-26T14:01:00",
-    "seen_at": "2026-04-26T12:05:46.250Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 14:01, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "49998",
-    "event_time": "2026-04-26T14:05:00",
-    "seen_at": "2026-04-26T12:06:56.892Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 14:05, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "MALA SUBOTICA",
@@ -11896,5 +11860,59 @@
     "event_time": "2026-04-29T13:58:00",
     "seen_at": "2026-04-29T11:58:44.704Z",
     "raw": "Br. Vlaka 47945 odlazak      29.04.26. 13:58, kolodvor 72304"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "KOPANICA-BERAVCI",
+    "train_number": "79923",
+    "event_time": "2026-04-29T14:02:00",
+    "seen_at": "2026-04-29T12:02:49.311Z",
+    "raw": "Br. Vlaka 79923 odlazak      29.04.26. 14:02, kolodvor KOPANICA-BERAVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "89300",
+    "event_time": "2026-04-29T14:03:00",
+    "seen_at": "2026-04-29T12:03:35.967Z",
+    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 14:03, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-04-29T14:04:00",
+    "seen_at": "2026-04-29T12:04:22.012Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:04, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47945",
+    "event_time": "2026-04-29T14:04:00",
+    "seen_at": "2026-04-29T12:04:22.012Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:04, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "89730",
+    "event_time": "2026-04-29T13:55:00",
+    "seen_at": "2026-04-29T12:09:23.466Z",
+    "raw": "Br. Vlaka 89730 odlazak      29.04.26. 13:55, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "MALA SUBOTICA",
+    "train_number": "89730",
+    "event_time": "2026-04-29T14:03:00",
+    "seen_at": "2026-04-29T12:11:43.524Z",
+    "raw": "Br. Vlaka 89730 odlazak      29.04.26. 14:03, kolodvor MALA SUBOTICA"
   }
 ]
