@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "89178",
-    "event_time": "2026-04-26T07:15:00",
-    "seen_at": "2026-04-26T05:16:29.057Z",
-    "raw": "Br. Vlaka 89178 odlazak      26.04.26. 07:15, kolodvor SISAK CAPRAG"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "SISAK",
     "train_number": "89178",
@@ -11842,5 +11833,32 @@
     "event_time": "2026-04-29T06:59:00",
     "seen_at": "2026-04-29T05:03:52.893Z",
     "raw": "Br. Vlaka 45999 odlazak      29.04.26. 06:59, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "76512",
+    "event_time": "2026-04-29T07:09:00",
+    "seen_at": "2026-04-29T05:11:10.226Z",
+    "raw": "Br. Vlaka 76512 odlazak      29.04.26. 07:09, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "KLOŠTAR",
+    "train_number": "45999",
+    "event_time": "2026-04-29T07:11:00",
+    "seen_at": "2026-04-29T05:13:52.279Z",
+    "raw": "Br. Vlaka 45999 dolazak      29.04.26. 07:11, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "KLOŠTAR",
+    "train_number": "45999",
+    "event_time": "2026-04-29T07:11:00",
+    "seen_at": "2026-04-29T05:13:52.280Z",
+    "raw": "Br. Vlaka 45999 dolazak      29.04.26. 07:11, kolodvor KLOŠTAR"
   }
 ]
