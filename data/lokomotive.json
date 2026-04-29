@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44997",
-    "event_time": "2026-04-26T02:32:00",
-    "seen_at": "2026-04-26T00:32:50.678Z",
-    "raw": "Br. Vlaka 44997 odlazak      26.04.26. 02:32, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "GORNJE DUBRAVE",
@@ -12391,5 +12382,23 @@
     "event_time": "2026-04-29T02:17:00",
     "seen_at": "2026-04-29T00:17:32.322Z",
     "raw": "Br. Vlaka 81972 odlazak      29.04.26. 02:17, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81972",
+    "event_time": "2026-04-29T02:30:00",
+    "seen_at": "2026-04-29T00:33:35.378Z",
+    "raw": "Br. Vlaka 81972 dolazak      29.04.26. 02:30, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81972",
+    "event_time": "2026-04-29T02:30:00",
+    "seen_at": "2026-04-29T00:33:35.378Z",
+    "raw": "Br. Vlaka 81972 dolazak      29.04.26. 02:30, kolodvor PERUŠIĆ"
   }
 ]
