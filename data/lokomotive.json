@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49998",
-    "event_time": "2026-04-26T21:02:00",
-    "seen_at": "2026-04-26T19:03:44.951Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 21:02, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "49998",
-    "event_time": "2026-04-26T21:02:00",
-    "seen_at": "2026-04-26T19:03:44.952Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 21:02, kolodvor TURČIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Rasformiran",
     "station": "OŠTARIJE",
@@ -11833,5 +11815,14 @@
     "event_time": "2026-04-29T19:51:00",
     "seen_at": "2026-04-29T18:55:30.712Z",
     "raw": "Br. Vlaka 63305 formiran     29.04.26. 19:51, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "BUDINŠĆINA",
+    "train_number": "81291",
+    "event_time": "2026-04-29T21:02:00",
+    "seen_at": "2026-04-29T19:03:14.498Z",
+    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 21:02, kolodvor BUDINŠĆINA"
   }
 ]
