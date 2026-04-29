@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MALOVAN",
-    "train_number": "41998",
-    "event_time": "2026-04-26T09:13:00",
-    "seen_at": "2026-04-26T07:15:01.497Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 09:13, kolodvor MALOVAN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43997",
-    "event_time": "2026-04-26T09:14:00",
-    "seen_at": "2026-04-26T07:18:18.209Z",
-    "raw": "Br. Vlaka 43997 odlazak      26.04.26. 09:14, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "43997",
-    "event_time": "2026-04-26T09:14:00",
-    "seen_at": "2026-04-26T07:18:18.210Z",
-    "raw": "Br. Vlaka 43997 odlazak      26.04.26. 09:14, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "ZABOK",
@@ -11905,5 +11878,32 @@
     "event_time": "2026-04-29T08:57:00",
     "seen_at": "2026-04-29T07:10:42.751Z",
     "raw": "Br. Vlaka 79921 dolazak      29.04.26. 08:57, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "DUGA RESA",
+    "train_number": "75052",
+    "event_time": "2026-04-29T09:18:00",
+    "seen_at": "2026-04-29T07:19:02.365Z",
+    "raw": "Br. Vlaka 75052 formiran     29.04.26. 09:18, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71206",
+    "event_time": "2026-04-29T09:19:00",
+    "seen_at": "2026-04-29T07:19:48.254Z",
+    "raw": "Br. Vlaka 71206 odlazak      29.04.26. 09:19, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "75052",
+    "event_time": "2026-04-29T09:19:00",
+    "seen_at": "2026-04-29T07:20:34.117Z",
+    "raw": "Br. Vlaka 75052 odlazak      29.04.26. 09:19, kolodvor DUGA RESA"
   }
 ]
