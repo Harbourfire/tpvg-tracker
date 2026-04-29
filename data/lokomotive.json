@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "VARAŽDIN",
-    "train_number": "89107",
-    "event_time": "2026-04-26T17:35:00",
-    "seen_at": "2026-04-26T16:15:21.259Z",
-    "raw": "Br. Vlaka 89107 formiran     26.04.26. 17:35, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-26T18:07:00",
-    "seen_at": "2026-04-26T16:15:44.362Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -11995,5 +11977,32 @@
     "event_time": "2026-04-29T18:03:00",
     "seen_at": "2026-04-29T16:06:03.189Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 18:03, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VIRJE",
+    "train_number": "44690",
+    "event_time": "2026-04-29T18:12:00",
+    "seen_at": "2026-04-29T16:13:48.553Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 18:12, kolodvor VIRJE"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "VIRJE",
+    "train_number": "44690",
+    "event_time": "2026-04-29T18:12:00",
+    "seen_at": "2026-04-29T16:13:48.553Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 18:12, kolodvor VIRJE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "66751",
+    "event_time": "2026-04-29T17:52:00",
+    "seen_at": "2026-04-29T16:20:10.744Z",
+    "raw": "Br. Vlaka 66751 promjena sas 29.04.26. 17:52, kolodvor ČAKOVEC"
   }
 ]
