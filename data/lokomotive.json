@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PLAVNO",
-    "train_number": "41998",
-    "event_time": "2026-04-26T08:35:00",
-    "seen_at": "2026-04-26T06:37:03.743Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 08:35, kolodvor PLAVNO"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "VUKOVAR",
@@ -11896,5 +11887,41 @@
     "event_time": "2026-04-29T07:31:00",
     "seen_at": "2026-04-29T06:30:47.234Z",
     "raw": "Br. Vlaka 79921 formiran     29.04.26. 07:31, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "ORIOVAC",
+    "train_number": null,
+    "event_time": "2026-04-29T08:35:00",
+    "seen_at": "2026-04-29T06:36:04.674Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VUKOVAR",
+    "train_number": "79921",
+    "event_time": "2026-04-29T08:35:00",
+    "seen_at": "2026-04-29T06:36:28.561Z",
+    "raw": "Br. Vlaka 79921 odlazak      29.04.26. 08:35, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "75003",
+    "event_time": "2026-04-29T08:40:00",
+    "seen_at": "2026-04-29T06:40:49.493Z",
+    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 08:40, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "79921",
+    "event_time": "2026-04-29T08:40:00",
+    "seen_at": "2026-04-29T06:41:13.157Z",
+    "raw": "Br. Vlaka 79921 odlazak      29.04.26. 08:40, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
