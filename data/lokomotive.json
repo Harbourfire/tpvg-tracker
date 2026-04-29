@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "41998",
-    "event_time": "2026-04-26T18:44:00",
-    "seen_at": "2026-04-26T16:48:51.980Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 18:44, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "41998",
-    "event_time": "2026-04-26T18:44:00",
-    "seen_at": "2026-04-26T16:48:51.980Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 18:44, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "SESVETE",
     "train_number": "41998",
@@ -11932,5 +11914,14 @@
     "event_time": "2026-04-29T18:28:00",
     "seen_at": "2026-04-29T16:30:07.174Z",
     "raw": "Br. Vlaka 44690 dolazak      29.04.26. 18:28, kolodvor BREGI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ČAKOVEC",
+    "train_number": "66751",
+    "event_time": "2026-04-29T18:41:00",
+    "seen_at": "2026-04-29T16:43:02.962Z",
+    "raw": "Br. Vlaka 66751 odlazak      29.04.26. 18:41, kolodvor ČAKOVEC"
   }
 ]
