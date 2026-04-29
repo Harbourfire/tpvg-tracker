@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-26T16:30:00",
-    "seen_at": "2026-04-26T14:32:38.497Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -11914,5 +11905,32 @@
     "event_time": "2026-04-29T16:24:00",
     "seen_at": "2026-04-29T14:24:51.088Z",
     "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:24, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "KOTORIBA",
+    "train_number": "66751",
+    "event_time": "2026-04-29T16:26:00",
+    "seen_at": "2026-04-29T14:27:07.213Z",
+    "raw": "Br. Vlaka 66751 formiran     29.04.26. 16:26, kolodvor KOTORIBA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:29:00",
+    "seen_at": "2026-04-29T14:32:14.676Z",
+    "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:29, kolodvor 72304"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:29:00",
+    "seen_at": "2026-04-29T14:32:14.676Z",
+    "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:29, kolodvor 72304"
   }
 ]
