@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T23:19:00",
-    "seen_at": "2026-04-26T21:20:07.524Z",
-    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 23:19, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T23:20:00",
-    "seen_at": "2026-04-26T21:21:16.627Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 23:20, kolodvor KOTORIBA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -11707,5 +11689,32 @@
     "event_time": "2026-04-29T23:13:00",
     "seen_at": "2026-04-29T21:14:19.511Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:13, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "89119",
+    "event_time": "2026-04-29T23:19:00",
+    "seen_at": "2026-04-29T21:20:41.410Z",
+    "raw": "Br. Vlaka 89119 odlazak      29.04.26. 23:19, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-29T23:20:00",
+    "seen_at": "2026-04-29T21:21:28.613Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:20, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63305",
+    "event_time": "2026-04-29T23:20:00",
+    "seen_at": "2026-04-29T21:21:28.613Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:20, kolodvor LIČKO LEŠĆE"
   }
 ]
