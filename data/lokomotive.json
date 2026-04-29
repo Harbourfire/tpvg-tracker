@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89925",
-    "event_time": "2026-04-26T16:28:00",
-    "seen_at": "2026-04-26T14:37:13.358Z",
-    "raw": "Br. Vlaka 89925 dolazak      26.04.26. 16:28, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ČAKOVEC",
-    "train_number": null,
-    "event_time": "2026-04-26T16:28:00",
-    "seen_at": "2026-04-26T14:37:36.764Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -11932,5 +11914,23 @@
     "event_time": "2026-04-29T16:29:00",
     "seen_at": "2026-04-29T14:32:14.676Z",
     "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:29, kolodvor 72304"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:36:00",
+    "seen_at": "2026-04-29T14:36:54.121Z",
+    "raw": "Br. Vlaka 47944 dolazak      29.04.26. 16:36, kolodvor 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:36:00",
+    "seen_at": "2026-04-29T14:36:54.121Z",
+    "raw": "Br. Vlaka 47944 dolazak      29.04.26. 16:36, kolodvor 72303"
   }
 ]
