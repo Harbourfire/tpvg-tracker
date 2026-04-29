@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "BJELOVAR",
-    "train_number": "79904",
-    "event_time": "2026-04-26T13:39:00",
-    "seen_at": "2026-04-26T11:43:15.800Z",
-    "raw": "Br. Vlaka 79904 odlazak      26.04.26. 13:39, kolodvor BJELOVAR"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-26T13:47:00",
-    "seen_at": "2026-04-26T11:47:27.998Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 13:47, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-26T13:47:00",
-    "seen_at": "2026-04-26T11:47:27.998Z",
-    "raw": "Br. Vlaka 63310 odlazak      26.04.26. 13:47, kolodvor GOSPIĆ"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -11842,5 +11815,77 @@
     "event_time": "2026-04-29T13:40:00",
     "seen_at": "2026-04-29T11:40:26.960Z",
     "raw": "Br. Vlaka 82525 odlazak      29.04.26. 13:40, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "79922",
+    "event_time": "2026-04-29T13:44:00",
+    "seen_at": "2026-04-29T11:44:16.797Z",
+    "raw": "Br. Vlaka 79922 dolazak      29.04.26. 13:44, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-04-29T13:44:00",
+    "seen_at": "2026-04-29T11:44:40.600Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "79923",
+    "event_time": "2026-04-29T13:35:00",
+    "seen_at": "2026-04-29T11:45:28.561Z",
+    "raw": "Br. Vlaka 79923 formiran     29.04.26. 13:35, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-04-29T13:50:00",
+    "seen_at": "2026-04-29T11:50:39.666Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 13:50, kolodvor 72303"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-04-29T13:50:00",
+    "seen_at": "2026-04-29T11:50:39.666Z",
+    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 13:50, kolodvor 72303"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82522",
+    "event_time": "2026-04-29T13:04:00",
+    "seen_at": "2026-04-29T11:51:03.411Z",
+    "raw": "Br. Vlaka 82522 formiran     29.04.26. 13:04, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82522",
+    "event_time": "2026-04-29T13:04:00",
+    "seen_at": "2026-04-29T11:51:03.411Z",
+    "raw": "Br. Vlaka 82522 formiran     29.04.26. 13:04, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82525",
+    "event_time": "2026-04-29T13:51:00",
+    "seen_at": "2026-04-29T11:51:26.999Z",
+    "raw": "Br. Vlaka 82525 dolazak      29.04.26. 13:51, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
