@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "89176",
-    "event_time": "2026-04-26T05:53:00",
-    "seen_at": "2026-04-26T03:54:40.057Z",
-    "raw": "Br. Vlaka 89176 dolazak      26.04.26. 05:53, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "KRIŽEVCI",
-    "train_number": null,
-    "event_time": "2026-04-26T05:54:00",
-    "seen_at": "2026-04-26T03:54:40.059Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-26T05:53:00",
-    "seen_at": "2026-04-26T03:55:02.802Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43997",
-    "event_time": "2026-04-26T04:34:00",
-    "seen_at": "2026-04-26T03:56:10.694Z",
-    "raw": "Br. Vlaka 43997 promjena sas 26.04.26. 04:34, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "43997",
-    "event_time": "2026-04-26T04:34:00",
-    "seen_at": "2026-04-26T03:56:10.694Z",
-    "raw": "Br. Vlaka 43997 promjena sas 26.04.26. 04:34, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZRMANJA",
-    "train_number": "89157",
-    "event_time": "2026-04-26T05:58:00",
-    "seen_at": "2026-04-26T03:59:44.174Z",
-    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 05:58, kolodvor ZRMANJA"
-  },
-  {
     "uic": "927820440026",
     "type": "Dolazak",
     "station": "NOVSKA",
@@ -11968,5 +11914,14 @@
     "event_time": "2026-04-29T05:41:00",
     "seen_at": "2026-04-29T03:44:28.393Z",
     "raw": "Br. Vlaka 45999 dolazak      29.04.26. 05:41, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89185",
+    "event_time": "2026-04-29T05:57:00",
+    "seen_at": "2026-04-29T03:58:23.469Z",
+    "raw": "Br. Vlaka 89185 formiran     29.04.26. 05:57, kolodvor ZAGREB RESNIK"
   }
 ]
