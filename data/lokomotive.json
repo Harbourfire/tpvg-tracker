@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-26T13:02:00",
-    "seen_at": "2026-04-26T11:04:56.706Z",
-    "raw": "Br. Vlaka 44786 dolazak      26.04.26. 13:02, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "49998",
-    "event_time": "2026-04-26T13:05:00",
-    "seen_at": "2026-04-26T11:06:28.295Z",
-    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 13:05, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T13:05:00",
-    "seen_at": "2026-04-26T11:06:28.295Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 13:05, kolodvor DUGA RESA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "MRZLO POLJE",
@@ -11752,5 +11725,50 @@
     "event_time": "2026-04-29T12:57:00",
     "seen_at": "2026-04-29T10:57:28.784Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81973",
+    "event_time": "2026-04-29T13:04:00",
+    "seen_at": "2026-04-29T11:05:45.587Z",
+    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 13:04, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81973",
+    "event_time": "2026-04-29T13:04:00",
+    "seen_at": "2026-04-29T11:05:45.587Z",
+    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 13:04, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Formiran",
+    "station": "ČAKOVEC",
+    "train_number": "89730",
+    "event_time": "2026-04-29T13:08:00",
+    "seen_at": "2026-04-29T11:09:16.711Z",
+    "raw": "Br. Vlaka 89730 formiran     29.04.26. 13:08, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "82525",
+    "event_time": "2026-04-29T13:09:00",
+    "seen_at": "2026-04-29T11:10:05.294Z",
+    "raw": "Br. Vlaka 82525 odlazak      29.04.26. 13:09, kolodvor OKUČANI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-29T13:12:00",
+    "seen_at": "2026-04-29T11:13:12.233Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
