@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82199",
-    "event_time": "2026-04-26T11:26:00",
-    "seen_at": "2026-04-26T09:28:13.585Z",
-    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 11:26, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T11:24:00",
-    "seen_at": "2026-04-26T09:28:36.386Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 11:24, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82199",
-    "event_time": "2026-04-26T11:26:00",
-    "seen_at": "2026-04-26T09:28:36.386Z",
-    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 11:26, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "44786",
-    "event_time": "2026-04-26T11:30:00",
-    "seen_at": "2026-04-26T09:31:08.146Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 11:30, kolodvor ZABOK"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "BLATA",
@@ -11743,5 +11707,68 @@
     "event_time": "2026-04-29T11:17:00",
     "seen_at": "2026-04-29T09:25:45.053Z",
     "raw": "Br. Vlaka 75003 odlazak      29.04.26. 11:17, kolodvor BANOVA JARUGA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71207",
+    "event_time": "2026-04-29T11:28:00",
+    "seen_at": "2026-04-29T09:28:46.073Z",
+    "raw": "Br. Vlaka 71207 dolazak      29.04.26. 11:28, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-29T11:28:00",
+    "seen_at": "2026-04-29T09:29:09.999Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81973",
+    "event_time": "2026-04-29T11:32:00",
+    "seen_at": "2026-04-29T09:33:01.150Z",
+    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 11:32, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81973",
+    "event_time": "2026-04-29T11:32:00",
+    "seen_at": "2026-04-29T09:33:01.150Z",
+    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 11:32, kolodvor BLATA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Dolazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "76510",
+    "event_time": "2026-04-29T11:28:00",
+    "seen_at": "2026-04-29T09:34:34.810Z",
+    "raw": "Br. Vlaka 76510 dolazak      29.04.26. 11:28, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-29T11:28:00",
+    "seen_at": "2026-04-29T09:34:57.686Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "45992",
+    "event_time": "2026-04-29T11:34:00",
+    "seen_at": "2026-04-29T09:35:44.712Z",
+    "raw": "Br. Vlaka 45992 formiran     29.04.26. 11:34, kolodvor 72303"
   }
 ]
