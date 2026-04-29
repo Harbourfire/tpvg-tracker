@@ -2,42 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82199",
-    "event_time": "2026-04-26T11:48:00",
-    "seen_at": "2026-04-26T09:50:00.265Z",
-    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 11:48, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82199",
-    "event_time": "2026-04-26T11:48:00",
-    "seen_at": "2026-04-26T09:50:00.265Z",
-    "raw": "Br. Vlaka 82199 odlazak      26.04.26. 11:48, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "41998",
-    "event_time": "2026-04-26T11:51:00",
-    "seen_at": "2026-04-26T09:51:56.824Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 11:51, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "44786",
-    "event_time": "2026-04-26T11:51:00",
-    "seen_at": "2026-04-26T09:53:05.797Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 11:51, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "82199",
     "event_time": "2026-04-26T11:56:00",
@@ -11815,5 +11779,23 @@
     "event_time": "2026-04-29T11:39:00",
     "seen_at": "2026-04-29T09:45:20.089Z",
     "raw": "Br. Vlaka 79921 odlazak      29.04.26. 11:39, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Dolazak",
+    "station": "ČAKOVEC",
+    "train_number": "66750",
+    "event_time": "2026-04-29T11:51:00",
+    "seen_at": "2026-04-29T09:51:34.115Z",
+    "raw": "Br. Vlaka 66750 dolazak      29.04.26. 11:51, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ČAKOVEC",
+    "train_number": null,
+    "event_time": "2026-04-29T11:51:00",
+    "seen_at": "2026-04-29T09:52:19.831Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74860 ČAKOVEC"
   }
 ]
