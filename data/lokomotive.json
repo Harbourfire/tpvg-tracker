@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47991",
-    "event_time": "2026-04-26T03:03:00",
-    "seen_at": "2026-04-26T01:04:34.993Z",
-    "raw": "Br. Vlaka 47991 odlazak      26.04.26. 03:03, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "89168",
-    "event_time": "2026-04-26T03:05:00",
-    "seen_at": "2026-04-26T01:06:07.085Z",
-    "raw": "Br. Vlaka 89168 odlazak      26.04.26. 03:05, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "79901",
-    "event_time": "2026-04-26T03:08:00",
-    "seen_at": "2026-04-26T01:08:27.579Z",
-    "raw": "Br. Vlaka 79901 formiran     26.04.26. 03:08, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "ZAGREB RESNIK",
     "train_number": "47991",
@@ -12328,5 +12301,23 @@
     "event_time": "2026-04-29T02:51:00",
     "seen_at": "2026-04-29T00:52:52.640Z",
     "raw": "Br. Vlaka 81972 odlazak      29.04.26. 02:51, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81972",
+    "event_time": "2026-04-29T03:09:00",
+    "seen_at": "2026-04-29T01:10:37.087Z",
+    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 03:09, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "81972",
+    "event_time": "2026-04-29T03:09:00",
+    "seen_at": "2026-04-29T01:10:37.087Z",
+    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 03:09, kolodvor LIČKO LEŠĆE"
   }
 ]
