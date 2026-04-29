@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82322",
-    "event_time": "2026-04-26T15:43:00",
-    "seen_at": "2026-04-26T13:49:16.767Z",
-    "raw": "Br. Vlaka 82322 dolazak      26.04.26. 15:43, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "41998",
-    "event_time": "2026-04-26T15:52:00",
-    "seen_at": "2026-04-26T13:52:21.292Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 15:52, kolodvor 72303"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "41998",
-    "event_time": "2026-04-26T15:52:00",
-    "seen_at": "2026-04-26T13:52:21.292Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 15:52, kolodvor 72303"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "SESVETE",
@@ -11833,5 +11806,50 @@
     "event_time": "2026-04-29T15:44:00",
     "seen_at": "2026-04-29T13:45:12.419Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 15:44, kolodvor CABUNA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "JOSIPOVAC",
+    "train_number": "89300",
+    "event_time": "2026-04-29T15:48:00",
+    "seen_at": "2026-04-29T13:49:17.742Z",
+    "raw": "Br. Vlaka 89300 dolazak      29.04.26. 15:48, kolodvor JOSIPOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82522",
+    "event_time": "2026-04-29T15:51:00",
+    "seen_at": "2026-04-29T13:53:56.166Z",
+    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 15:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82522",
+    "event_time": "2026-04-29T15:51:00",
+    "seen_at": "2026-04-29T13:53:56.166Z",
+    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 15:51, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PČELIĆ",
+    "train_number": "44690",
+    "event_time": "2026-04-29T15:53:00",
+    "seen_at": "2026-04-29T13:56:36.827Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 15:53, kolodvor PČELIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PČELIĆ",
+    "train_number": "44690",
+    "event_time": "2026-04-29T15:53:00",
+    "seen_at": "2026-04-29T13:56:36.827Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 15:53, kolodvor PČELIĆ"
   }
 ]
