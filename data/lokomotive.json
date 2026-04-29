@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "41998",
-    "event_time": "2026-04-26T20:03:00",
-    "seen_at": "2026-04-26T18:04:13.862Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 20:03, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "41998",
-    "event_time": "2026-04-26T20:03:00",
-    "seen_at": "2026-04-26T18:04:13.863Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 20:03, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "KRIŽEVCI",
     "train_number": "41998",
@@ -11797,5 +11779,32 @@
     "event_time": "2026-04-29T19:56:00",
     "seen_at": "2026-04-29T17:56:31.360Z",
     "raw": "Br. Vlaka 44690 odlazak      29.04.26. 19:56, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66854",
+    "event_time": "2026-04-29T20:01:00",
+    "seen_at": "2026-04-29T18:04:10.042Z",
+    "raw": "Br. Vlaka 66854 odlazak      29.04.26. 20:01, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "44690",
+    "event_time": "2026-04-29T20:03:00",
+    "seen_at": "2026-04-29T18:05:42.160Z",
+    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 20:03, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "LEPAVINA",
+    "train_number": "44690",
+    "event_time": "2026-04-29T20:03:00",
+    "seen_at": "2026-04-29T18:05:42.160Z",
+    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 20:03, kolodvor LEPAVINA"
   }
 ]
