@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "41998",
-    "event_time": "2026-04-26T13:40:00",
-    "seen_at": "2026-04-26T11:40:58.430Z",
-    "raw": "Br. Vlaka 41998 dolazak      26.04.26. 13:40, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "VARAŽDIN",
-    "train_number": "44786",
-    "event_time": "2026-04-26T13:41:00",
-    "seen_at": "2026-04-26T11:42:07.253Z",
-    "raw": "Br. Vlaka 44786 odlazak      26.04.26. 13:41, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "BJELOVAR",
@@ -11833,5 +11815,32 @@
     "event_time": "2026-04-29T13:30:00",
     "seen_at": "2026-04-29T11:30:53.120Z",
     "raw": "Br. Vlaka 79922 odlazak      29.04.26. 13:30, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89300",
+    "event_time": "2026-04-29T13:35:00",
+    "seen_at": "2026-04-29T11:35:24.830Z",
+    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 13:35, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "79922",
+    "event_time": "2026-04-29T13:38:00",
+    "seen_at": "2026-04-29T11:38:30.367Z",
+    "raw": "Br. Vlaka 79922 odlazak      29.04.26. 13:38, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "82525",
+    "event_time": "2026-04-29T13:40:00",
+    "seen_at": "2026-04-29T11:40:26.960Z",
+    "raw": "Br. Vlaka 82525 odlazak      29.04.26. 13:40, kolodvor STARO PETROVO SELO"
   }
 ]
