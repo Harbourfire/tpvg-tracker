@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "41998",
-    "event_time": "2026-04-26T19:13:00",
-    "seen_at": "2026-04-26T17:14:22.256Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 19:13, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "41998",
-    "event_time": "2026-04-26T19:13:00",
-    "seen_at": "2026-04-26T17:14:22.256Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 19:13, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "DUGO SELO",
     "train_number": "41998",
@@ -11869,5 +11851,23 @@
     "event_time": "2026-04-29T19:05:00",
     "seen_at": "2026-04-29T17:05:44.722Z",
     "raw": "Br. Vlaka 81291 formiran     29.04.26. 19:05, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "44690",
+    "event_time": "2026-04-29T19:14:00",
+    "seen_at": "2026-04-29T17:15:14.889Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 19:14, kolodvor BREGI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "44690",
+    "event_time": "2026-04-29T19:14:00",
+    "seen_at": "2026-04-29T17:15:14.889Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 19:14, kolodvor BREGI"
   }
 ]
