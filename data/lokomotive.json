@@ -1,51 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "79906",
-    "event_time": "2026-04-26T16:12:00",
-    "seen_at": "2026-04-26T14:18:07.128Z",
-    "raw": "Br. Vlaka 79906 dolazak      26.04.26. 16:12, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "79906",
-    "event_time": "2026-04-26T16:17:00",
-    "seen_at": "2026-04-26T14:19:15.416Z",
-    "raw": "Br. Vlaka 79906 odlazak      26.04.26. 16:17, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "79906",
-    "event_time": "2026-04-26T16:20:00",
-    "seen_at": "2026-04-26T14:20:24.000Z",
-    "raw": "Br. Vlaka 79906 odlazak      26.04.26. 16:20, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89925",
-    "event_time": "2026-04-26T16:20:00",
-    "seen_at": "2026-04-26T14:22:08.528Z",
-    "raw": "Br. Vlaka 89925 odlazak      26.04.26. 16:20, kolodvor MALA SUBOTICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "79906",
-    "event_time": "2026-04-26T16:25:00",
-    "seen_at": "2026-04-26T14:25:59.386Z",
-    "raw": "Br. Vlaka 79906 odlazak      26.04.26. 16:25, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "987890033630",
     "type": "Rasformiran",
     "station": "ZAPREŠIĆ",
     "train_number": null,
@@ -11905,5 +11860,59 @@
     "event_time": "2026-04-29T16:14:00",
     "seen_at": "2026-04-29T14:16:18.352Z",
     "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:14, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82522",
+    "event_time": "2026-04-29T16:13:00",
+    "seen_at": "2026-04-29T14:18:30.885Z",
+    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 16:13, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82522",
+    "event_time": "2026-04-29T16:13:00",
+    "seen_at": "2026-04-29T14:18:30.885Z",
+    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 16:13, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-29T16:21:00",
+    "seen_at": "2026-04-29T14:22:05.798Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-29T16:21:00",
+    "seen_at": "2026-04-29T14:22:05.798Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:24:00",
+    "seen_at": "2026-04-29T14:24:51.088Z",
+    "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:24, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "47944",
+    "event_time": "2026-04-29T16:24:00",
+    "seen_at": "2026-04-29T14:24:51.088Z",
+    "raw": "Br. Vlaka 47944 odlazak      29.04.26. 16:24, kolodvor ZAGREB KLARA"
   }
 ]
