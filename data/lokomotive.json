@@ -1,77 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-26T22:14:00",
-    "seen_at": "2026-04-26T20:15:52.520Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 22:14, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-26T22:14:00",
-    "seen_at": "2026-04-26T20:15:52.520Z",
-    "raw": "Br. Vlaka 63305 odlazak      26.04.26. 22:14, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "47990",
-    "train_number": null,
-    "event_time": "2026-04-26T20:17:25.637Z",
-    "seen_at": "2026-04-26T20:17:25.637Z",
-    "raw": "Trenutna pozicija je u kolodvoru 47990 47990"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "47990",
-    "train_number": null,
-    "event_time": "2026-04-26T20:17:25.638Z",
-    "seen_at": "2026-04-26T20:17:25.638Z",
-    "raw": "Trenutna pozicija je u kolodvoru 47990 47990"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T22:19:00",
-    "seen_at": "2026-04-26T20:20:26.081Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 22:19, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "MUČNA REKA",
-    "train_number": "41998",
-    "event_time": "2026-04-26T22:19:00",
-    "seen_at": "2026-04-26T20:20:26.081Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 22:19, kolodvor MUČNA REKA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81230",
-    "event_time": "2026-04-26T20:28:00",
-    "seen_at": "2026-04-26T20:25:27.768Z",
-    "raw": "Br. Vlaka 81230 promjena sas 26.04.26. 20:28, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81230",
-    "event_time": "2026-04-26T20:28:00",
-    "seen_at": "2026-04-26T20:25:27.768Z",
-    "raw": "Br. Vlaka 81230 promjena sas 26.04.26. 20:28, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -11824,5 +11752,23 @@
     "event_time": "2026-04-29T22:14:00",
     "seen_at": "2026-04-29T20:15:22.719Z",
     "raw": "Br. Vlaka 63305 odlazak      29.04.26. 22:14, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-29T22:23:00",
+    "seen_at": "2026-04-29T20:25:33.086Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 22:23, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-04-29T22:23:00",
+    "seen_at": "2026-04-29T20:25:33.086Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 22:23, kolodvor LIČKA JESENICA"
   }
 ]
