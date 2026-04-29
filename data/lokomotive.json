@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "41998",
-    "event_time": "2026-04-26T20:12:00",
-    "seen_at": "2026-04-26T18:12:32.183Z",
-    "raw": "Br. Vlaka 41998 dolazak      26.04.26. 20:12, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "41998",
-    "event_time": "2026-04-26T20:12:00",
-    "seen_at": "2026-04-26T18:12:32.183Z",
-    "raw": "Br. Vlaka 41998 dolazak      26.04.26. 20:12, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T20:14:00",
-    "seen_at": "2026-04-26T18:18:06.492Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 20:14, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T20:14:00",
-    "seen_at": "2026-04-26T18:18:06.493Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 20:14, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -11806,5 +11770,41 @@
     "event_time": "2026-04-29T20:03:00",
     "seen_at": "2026-04-29T18:05:42.160Z",
     "raw": "Br. Vlaka 44690 dolazak      29.04.26. 20:03, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "81291",
+    "event_time": "2026-04-29T20:08:00",
+    "seen_at": "2026-04-29T18:10:32.828Z",
+    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 20:08, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-29T20:10:00",
+    "seen_at": "2026-04-29T18:12:06.223Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "TURČIN",
+    "train_number": "81291",
+    "event_time": "2026-04-29T20:17:00",
+    "seen_at": "2026-04-29T18:19:02.562Z",
+    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 20:17, kolodvor TURČIN"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "45131",
+    "event_time": "2026-04-29T20:18:00",
+    "seen_at": "2026-04-29T18:19:02.562Z",
+    "raw": "Br. Vlaka 45131 formiran     29.04.26. 20:18, kolodvor OSIJEK"
   }
 ]
