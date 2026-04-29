@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": null,
-    "event_time": "2026-04-25T23:49:00",
-    "seen_at": "2026-04-26T08:20:41.508Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74060 ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69350",
-    "event_time": "2026-04-26T10:24:00",
-    "seen_at": "2026-04-26T08:27:49.208Z",
-    "raw": "Br. Vlaka 69350 dolazak      26.04.26. 10:24, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "KRIŽEVCI",
-    "train_number": null,
-    "event_time": "2026-04-26T10:24:00",
-    "seen_at": "2026-04-26T08:28:11.825Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73107 KRIŽEVCI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-26T10:24:00",
-    "seen_at": "2026-04-26T08:28:57.614Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "41998",
-    "event_time": "2026-04-26T10:28:00",
-    "seen_at": "2026-04-26T08:29:43.083Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 10:28, kolodvor PERUŠIĆ"
-  },
-  {
     "uic": "987890033630",
     "type": "Formiran",
     "station": "KRIŽEVCI",
@@ -11689,5 +11644,23 @@
     "event_time": "2026-04-29T09:36:00",
     "seen_at": "2026-04-29T08:19:49.575Z",
     "raw": "Br. Vlaka 75003 promjena sas 29.04.26. 09:36, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "SIBINJ",
+    "train_number": "71207",
+    "event_time": "2026-04-29T10:22:00",
+    "seen_at": "2026-04-29T08:22:46.512Z",
+    "raw": "Br. Vlaka 71207 formiran     29.04.26. 10:22, kolodvor SIBINJ"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "IVANIĆ GRAD",
+    "train_number": "75003",
+    "event_time": "2026-04-29T10:25:00",
+    "seen_at": "2026-04-29T08:25:28.172Z",
+    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 10:25, kolodvor IVANIĆ GRAD"
   }
 ]
