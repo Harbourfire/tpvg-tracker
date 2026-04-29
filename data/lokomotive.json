@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-27T10:40:00",
-    "seen_at": "2026-04-26T19:13:04.754Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49998",
-    "event_time": "2026-04-26T21:12:00",
-    "seen_at": "2026-04-26T19:16:59.049Z",
-    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 21:12, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "49998",
-    "event_time": "2026-04-26T21:12:00",
-    "seen_at": "2026-04-26T19:16:59.050Z",
-    "raw": "Br. Vlaka 49998 dolazak      26.04.26. 21:12, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "927820620197",
     "type": "Promjena sastava",
     "station": "VARAŽDIN",
@@ -11824,5 +11797,23 @@
     "event_time": "2026-04-29T21:02:00",
     "seen_at": "2026-04-29T19:03:14.498Z",
     "raw": "Br. Vlaka 81291 odlazak      29.04.26. 21:02, kolodvor BUDINŠĆINA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "KONJŠČINA",
+    "train_number": "81291",
+    "event_time": "2026-04-29T21:12:00",
+    "seen_at": "2026-04-29T19:12:38.349Z",
+    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 21:12, kolodvor KONJŠČINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "89119",
+    "event_time": "2026-04-29T21:15:00",
+    "seen_at": "2026-04-29T19:15:51.722Z",
+    "raw": "Br. Vlaka 89119 formiran     29.04.26. 21:15, kolodvor ČAČINCI"
   }
 ]
