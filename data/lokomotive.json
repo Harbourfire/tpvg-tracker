@@ -1,60 +1,6 @@
 [
   {
     "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "49998",
-    "event_time": "2026-04-26T23:06:00",
-    "seen_at": "2026-04-26T21:06:47.139Z",
-    "raw": "Br. Vlaka 49998 odlazak      26.04.26. 23:06, kolodvor DONJI KRALJEVEC"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89872",
-    "event_time": "2026-04-26T13:56:00",
-    "seen_at": "2026-04-26T21:11:53.555Z",
-    "raw": "Br. Vlaka 89872 formiran     26.04.26. 13:56, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89872",
-    "event_time": "2026-04-26T13:56:00",
-    "seen_at": "2026-04-26T21:11:53.556Z",
-    "raw": "Br. Vlaka 89872 formiran     26.04.26. 13:56, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "47982",
-    "event_time": "2026-04-26T19:17:00",
-    "seen_at": "2026-04-26T21:12:40.336Z",
-    "raw": "Br. Vlaka 47982 promjena sas 26.04.26. 19:17, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-26T23:10:00",
-    "seen_at": "2026-04-26T21:13:03.541Z",
-    "raw": "Br. Vlaka 63305 dolazak      26.04.26. 23:10, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-26T23:10:00",
-    "seen_at": "2026-04-26T21:13:03.541Z",
-    "raw": "Br. Vlaka 63305 dolazak      26.04.26. 23:10, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820621195",
     "type": "Dolazak",
     "station": "KOTORIBA",
     "train_number": "49998",
@@ -11698,5 +11644,68 @@
     "event_time": "2026-04-29T23:02:00",
     "seen_at": "2026-04-29T21:03:56.033Z",
     "raw": "Br. Vlaka 45992 dolazak      29.04.26. 23:02, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-29T23:05:00",
+    "seen_at": "2026-04-29T21:05:43.867Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:05, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-04-29T23:05:00",
+    "seen_at": "2026-04-29T21:05:43.867Z",
+    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:05, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "81291",
+    "event_time": "2026-04-29T23:06:00",
+    "seen_at": "2026-04-29T21:06:30.593Z",
+    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 23:06, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-29T20:00:00",
+    "seen_at": "2026-04-29T21:13:09.781Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69784",
+    "event_time": "2026-04-29T20:50:00",
+    "seen_at": "2026-04-29T21:13:55.939Z",
+    "raw": "Br. Vlaka 69784 formiran     29.04.26. 20:50, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "44690",
+    "event_time": "2026-04-29T23:13:00",
+    "seen_at": "2026-04-29T21:14:19.510Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:13, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KRIŽEVCI",
+    "train_number": "44690",
+    "event_time": "2026-04-29T23:13:00",
+    "seen_at": "2026-04-29T21:14:19.511Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:13, kolodvor KRIŽEVCI"
   }
 ]
