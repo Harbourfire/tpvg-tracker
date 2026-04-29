@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "79901",
-    "event_time": "2026-04-26T05:11:00",
-    "seen_at": "2026-04-26T03:14:35.159Z",
-    "raw": "Br. Vlaka 79901 odlazak      26.04.26. 05:11, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "LOVINAC",
-    "train_number": "89157",
-    "event_time": "2026-04-26T05:13:00",
-    "seen_at": "2026-04-26T03:14:58.048Z",
-    "raw": "Br. Vlaka 89157 odlazak      26.04.26. 05:13, kolodvor LOVINAC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KUTINA",
-    "train_number": "82501",
-    "event_time": "2026-04-26T05:12:00",
-    "seen_at": "2026-04-26T03:15:21.054Z",
-    "raw": "Br. Vlaka 82501 odlazak      26.04.26. 05:12, kolodvor KUTINA"
-  },
-  {
     "uic": "927820440026",
     "type": "Rasformiran",
     "station": "BANOVA JARUGA",
@@ -12022,5 +11995,32 @@
     "event_time": "2026-04-29T05:11:00",
     "seen_at": "2026-04-29T03:11:31.227Z",
     "raw": "Br. Vlaka 71206 formiran     29.04.26. 05:11, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "45999",
+    "event_time": "2026-04-29T05:11:00",
+    "seen_at": "2026-04-29T03:18:45.168Z",
+    "raw": "Br. Vlaka 45999 odlazak      29.04.26. 05:11, kolodvor BREGI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Promjena sastava",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47945",
+    "event_time": "2026-04-29T05:15:00",
+    "seen_at": "2026-04-29T03:18:45.168Z",
+    "raw": "Br. Vlaka 47945 promjena sas 29.04.26. 05:15, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "45999",
+    "event_time": "2026-04-29T05:11:00",
+    "seen_at": "2026-04-29T03:18:45.169Z",
+    "raw": "Br. Vlaka 45999 odlazak      29.04.26. 05:11, kolodvor BREGI"
   }
 ]
