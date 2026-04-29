@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43997",
-    "event_time": "2026-04-26T09:25:00",
-    "seen_at": "2026-04-26T07:26:02.717Z",
-    "raw": "Br. Vlaka 43997 dolazak      26.04.26. 09:25, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "43997",
-    "event_time": "2026-04-26T09:25:00",
-    "seen_at": "2026-04-26T07:26:02.717Z",
-    "raw": "Br. Vlaka 43997 dolazak      26.04.26. 09:25, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69350",
-    "event_time": "2026-04-26T09:25:00",
-    "seen_at": "2026-04-26T07:27:06.150Z",
-    "raw": "Br. Vlaka 69350 odlazak      26.04.26. 09:25, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -11905,5 +11878,32 @@
     "event_time": "2026-04-29T09:19:00",
     "seen_at": "2026-04-29T07:20:34.117Z",
     "raw": "Br. Vlaka 75052 odlazak      29.04.26. 09:19, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Odlazak",
+    "station": "PREČEC stajalište",
+    "train_number": "75003",
+    "event_time": "2026-04-29T09:26:00",
+    "seen_at": "2026-04-29T07:26:45.689Z",
+    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 09:26, kolodvor 92515"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Dolazak",
+    "station": "MRZLO POLJE",
+    "train_number": "75052",
+    "event_time": "2026-04-29T09:27:00",
+    "seen_at": "2026-04-29T07:28:19.037Z",
+    "raw": "Br. Vlaka 75052 dolazak      29.04.26. 09:27, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SIBINJ",
+    "train_number": null,
+    "event_time": "2026-04-29T09:31:00",
+    "seen_at": "2026-04-29T07:32:34.922Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
   }
 ]
