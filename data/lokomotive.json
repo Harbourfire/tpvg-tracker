@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T15:17:00",
-    "seen_at": "2026-04-26T17:49:19.425Z",
-    "raw": "Br. Vlaka 49998 promjena sas 26.04.26. 15:17, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "KONJŠČINA",
-    "train_number": "49998",
-    "event_time": "2026-04-26T15:17:00",
-    "seen_at": "2026-04-26T17:49:19.426Z",
-    "raw": "Br. Vlaka 49998 promjena sas 26.04.26. 15:17, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820620197",
     "type": "Odlazak",
     "station": "KONJŠČINA",
     "train_number": "49998",
@@ -11797,5 +11779,41 @@
     "event_time": "2026-04-29T19:25:00",
     "seen_at": "2026-04-29T17:31:37.084Z",
     "raw": "Br. Vlaka 44690 dolazak      29.04.26. 19:25, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "44690",
+    "event_time": "2026-04-29T19:45:00",
+    "seen_at": "2026-04-29T17:45:14.865Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 19:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "44690",
+    "event_time": "2026-04-29T19:45:00",
+    "seen_at": "2026-04-29T17:45:14.866Z",
+    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 19:45, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "66854",
+    "event_time": "2026-04-29T19:49:00",
+    "seen_at": "2026-04-29T17:50:02.056Z",
+    "raw": "Br. Vlaka 66854 formiran     29.04.26. 19:49, kolodvor OSIJEK DONJI GRAD"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "89250",
+    "event_time": "2026-04-29T19:49:00",
+    "seen_at": "2026-04-29T17:50:25.938Z",
+    "raw": "Br. Vlaka 89250 formiran     29.04.26. 19:49, kolodvor 72303"
   }
 ]
