@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "41998",
-    "event_time": "2026-04-26T13:13:00",
-    "seen_at": "2026-04-26T11:14:45.409Z",
-    "raw": "Br. Vlaka 41998 odlazak      26.04.26. 13:13, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "KARLOVAC",
     "train_number": "41998",
@@ -11770,5 +11761,50 @@
     "event_time": "2026-04-29T13:12:00",
     "seen_at": "2026-04-29T11:13:12.233Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-29T13:15:00",
+    "seen_at": "2026-04-29T11:15:50.957Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-29T13:15:00",
+    "seen_at": "2026-04-29T11:15:50.957Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "79922",
+    "event_time": "2026-04-29T13:14:00",
+    "seen_at": "2026-04-29T11:15:50.958Z",
+    "raw": "Br. Vlaka 79922 formiran     29.04.26. 13:14, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "44690",
+    "event_time": "2026-04-29T08:57:00",
+    "seen_at": "2026-04-29T11:18:56.769Z",
+    "raw": "Br. Vlaka 44690 formiran     29.04.26. 08:57, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ČAČINCI",
+    "train_number": "44690",
+    "event_time": "2026-04-29T08:57:00",
+    "seen_at": "2026-04-29T11:18:56.769Z",
+    "raw": "Br. Vlaka 44690 formiran     29.04.26. 08:57, kolodvor ČAČINCI"
   }
 ]
