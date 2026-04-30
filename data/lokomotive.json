@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "71203",
-    "event_time": "2026-04-27T09:50:00",
-    "seen_at": "2026-04-27T07:52:19.074Z",
-    "raw": "Br. Vlaka 71203 odlazak      27.04.26. 09:50, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-27T09:49:00",
-    "seen_at": "2026-04-27T07:52:19.075Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "79906",
-    "event_time": "2026-04-27T09:56:00",
-    "seen_at": "2026-04-27T07:56:49.180Z",
-    "raw": "Br. Vlaka 79906 formiran     27.04.26. 09:56, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "48799",
-    "event_time": "2026-04-27T09:52:00",
-    "seen_at": "2026-04-27T07:57:58.748Z",
-    "raw": "Br. Vlaka 48799 dolazak      27.04.26. 09:52, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "48799",
-    "event_time": "2026-04-27T09:52:00",
-    "seen_at": "2026-04-27T07:57:58.749Z",
-    "raw": "Br. Vlaka 48799 dolazak      27.04.26. 09:52, kolodvor DUGO SELO"
-  },
-  {
     "uic": "987891032144",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -10780,5 +10735,32 @@
     "event_time": "2026-04-30T09:39:00",
     "seen_at": "2026-04-30T07:46:19.544Z",
     "raw": "Br. Vlaka 75065 formiran     30.04.26. 09:39, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "MRZLO POLJE",
+    "train_number": "75065",
+    "event_time": "2026-04-30T09:48:00",
+    "seen_at": "2026-04-30T07:49:45.465Z",
+    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 09:48, kolodvor MRZLO POLJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-04-30T09:51:00",
+    "seen_at": "2026-04-30T07:51:20.284Z",
+    "raw": "Br. Vlaka 45104 odlazak      30.04.26. 09:51, kolodvor OTOK"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "79932",
+    "event_time": "2026-04-30T09:50:00",
+    "seen_at": "2026-04-30T07:51:20.286Z",
+    "raw": "Br. Vlaka 79932 odlazak      30.04.26. 09:50, kolodvor POŽEGA"
   }
 ]
