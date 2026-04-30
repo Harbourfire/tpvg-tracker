@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-26T21:00:00",
-    "seen_at": "2026-04-27T04:31:13.659Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "DRAGANIĆI",
@@ -11320,5 +11311,41 @@
     "event_time": "2026-04-30T05:53:00",
     "seen_at": "2026-04-30T04:23:47.271Z",
     "raw": "Br. Vlaka 79931 formiran     30.04.26. 05:53, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-30T06:26:00",
+    "seen_at": "2026-04-30T04:33:16.011Z",
+    "raw": "Br. Vlaka 69005 odlazak      30.04.26. 06:26, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-30T06:26:00",
+    "seen_at": "2026-04-30T04:33:16.011Z",
+    "raw": "Br. Vlaka 69005 odlazak      30.04.26. 06:26, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-30T06:33:00",
+    "seen_at": "2026-04-30T04:33:39.018Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-04-30T06:33:00",
+    "seen_at": "2026-04-30T04:33:39.018Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
