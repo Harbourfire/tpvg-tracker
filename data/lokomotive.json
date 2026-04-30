@@ -1,86 +1,5 @@
 [
   {
-    "uic": "987891032060",
-    "type": "Rasformiran",
-    "station": "ORIOVAC",
-    "train_number": null,
-    "event_time": "2026-04-27T08:31:00",
-    "seen_at": "2026-04-27T06:31:58.591Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89252",
-    "event_time": "2026-04-27T08:32:00",
-    "seen_at": "2026-04-27T06:33:06.930Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 08:32, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "70064",
-    "event_time": "2026-04-27T08:33:00",
-    "seen_at": "2026-04-27T06:33:52.711Z",
-    "raw": "Br. Vlaka 70064 odlazak      27.04.26. 08:33, kolodvor ZDENČINA"
-  },
-  {
-    "uic": "987891032060",
-    "type": "Formiran",
-    "station": "ORIOVAC",
-    "train_number": "71207",
-    "event_time": "2026-04-27T08:33:00",
-    "seen_at": "2026-04-27T06:33:52.711Z",
-    "raw": "Br. Vlaka 71207 formiran     27.04.26. 08:33, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-27T08:35:00",
-    "seen_at": "2026-04-27T06:35:26.854Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-04-27T08:36:00",
-    "seen_at": "2026-04-27T06:36:13.408Z",
-    "raw": "Br. Vlaka 48799 dolazak      27.04.26. 08:36, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-04-27T08:36:00",
-    "seen_at": "2026-04-27T06:36:36.339Z",
-    "raw": "Br. Vlaka 48799 dolazak      27.04.26. 08:36, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T08:40:00",
-    "seen_at": "2026-04-27T06:40:51.273Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 08:40, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T08:40:00",
-    "seen_at": "2026-04-27T06:40:51.274Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 08:40, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "987891113316",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -10951,5 +10870,23 @@
     "event_time": "2026-04-30T08:29:00",
     "seen_at": "2026-04-30T06:29:54.865Z",
     "raw": "Br. Vlaka 79933 formiran     30.04.26. 08:29, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-27T08:35:00",
+    "seen_at": "2026-04-30T06:36:11.851Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Formiran",
+    "station": "KOPRIVNICA",
+    "train_number": "47990",
+    "event_time": "2026-04-30T08:24:00",
+    "seen_at": "2026-04-30T06:37:48.428Z",
+    "raw": "Br. Vlaka 47990 formiran     30.04.26. 08:24, kolodvor KOPRIVNICA"
   }
 ]
