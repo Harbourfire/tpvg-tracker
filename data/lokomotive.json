@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Formiran",
-    "station": "ZABOK",
-    "train_number": "82104",
-    "event_time": "2026-04-27T22:38:00",
-    "seen_at": "2026-04-27T20:39:16.795Z",
-    "raw": "Br. Vlaka 82104 formiran     27.04.26. 22:38, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "81285",
-    "event_time": "2026-04-27T22:40:00",
-    "seen_at": "2026-04-27T20:40:51.116Z",
-    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 22:40, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "LUKA",
-    "train_number": "82101",
-    "event_time": "2026-04-27T22:41:00",
-    "seen_at": "2026-04-27T20:41:37.787Z",
-    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 22:41, kolodvor LUKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-27T22:41:00",
-    "seen_at": "2026-04-27T20:43:21.702Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:41, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-27T22:41:00",
-    "seen_at": "2026-04-27T20:43:21.702Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:41, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI DVORI",
@@ -10096,5 +10051,14 @@
     "event_time": "2026-04-30T22:29:00",
     "seen_at": "2026-04-30T20:31:48.015Z",
     "raw": "Br. Vlaka 48580 promjena sas 30.04.26. 22:29, kolodvor 72303"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "69785",
+    "event_time": "2026-04-30T22:40:00",
+    "seen_at": "2026-04-30T20:40:38.942Z",
+    "raw": "Br. Vlaka 69785 formiran     30.04.26. 22:40, kolodvor OSIJEK"
   }
 ]
