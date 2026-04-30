@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-27T01:49:00",
-    "seen_at": "2026-04-27T01:10:34.442Z",
-    "raw": "Br. Vlaka 69006 formiran     27.04.26. 01:49, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820440265",
     "type": "Formiran",
     "station": "KOPRIVNICA GR    A",
@@ -11338,5 +11329,32 @@
     "event_time": "2026-04-30T02:57:00",
     "seen_at": "2026-04-30T00:58:43.549Z",
     "raw": "Br. Vlaka 63306 odlazak      30.04.26. 02:57, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "45992",
+    "event_time": "2026-04-30T03:04:00",
+    "seen_at": "2026-04-30T01:07:31.532Z",
+    "raw": "Br. Vlaka 45992 odlazak      30.04.26. 03:04, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-30T03:08:00",
+    "seen_at": "2026-04-30T01:09:04.599Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-04-30T03:08:00",
+    "seen_at": "2026-04-30T01:09:04.599Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:08, kolodvor RUDOPOLJE"
   }
 ]
