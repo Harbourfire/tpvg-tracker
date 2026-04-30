@@ -1,95 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81284",
-    "event_time": "2026-04-27T08:19:00",
-    "seen_at": "2026-04-27T06:22:07.677Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 08:19, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81284",
-    "event_time": "2026-04-27T08:19:00",
-    "seen_at": "2026-04-27T06:22:07.678Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 08:19, kolodvor NOVI MAROF"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "OSIJEK",
-    "train_number": "47982",
-    "event_time": "2026-04-27T01:01:00",
-    "seen_at": "2026-04-27T06:23:18.211Z",
-    "raw": "Br. Vlaka 47982 promjena sas 27.04.26. 01:01, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-26T12:00:00",
-    "seen_at": "2026-04-27T06:24:28.641Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89252",
-    "event_time": "2026-04-27T08:24:00",
-    "seen_at": "2026-04-27T06:25:37.392Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 08:24, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "71208",
-    "event_time": "2026-04-27T08:25:00",
-    "seen_at": "2026-04-27T06:26:24.621Z",
-    "raw": "Br. Vlaka 71208 odlazak      27.04.26. 08:25, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "45940",
-    "event_time": "2026-04-27T08:28:00",
-    "seen_at": "2026-04-27T06:28:29.164Z",
-    "raw": "Br. Vlaka 45940 formiran     27.04.26. 08:28, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48799",
-    "event_time": "2026-04-27T08:28:00",
-    "seen_at": "2026-04-27T06:30:03.247Z",
-    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 08:28, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "48799",
-    "event_time": "2026-04-27T08:28:00",
-    "seen_at": "2026-04-27T06:30:03.248Z",
-    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 08:28, kolodvor GRADEC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "76501",
-    "event_time": "2026-04-27T08:30:00",
-    "seen_at": "2026-04-27T06:31:12.988Z",
-    "raw": "Br. Vlaka 76501 odlazak      27.04.26. 08:30, kolodvor SIBINJ"
-  },
-  {
     "uic": "987891032060",
     "type": "Rasformiran",
     "station": "ORIOVAC",
@@ -11023,5 +10933,23 @@
     "event_time": "2026-04-30T08:09:00",
     "seen_at": "2026-04-30T06:13:15.557Z",
     "raw": "Br. Vlaka 89300 odlazak      30.04.26. 08:09, kolodvor SUHOPOLJE"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "69821",
+    "event_time": "2026-04-30T08:23:00",
+    "seen_at": "2026-04-30T06:24:05.246Z",
+    "raw": "Br. Vlaka 69821 formiran     30.04.26. 08:23, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "PLETERNICA",
+    "train_number": "79933",
+    "event_time": "2026-04-30T08:29:00",
+    "seen_at": "2026-04-30T06:29:54.865Z",
+    "raw": "Br. Vlaka 79933 formiran     30.04.26. 08:29, kolodvor PLETERNICA"
   }
 ]
