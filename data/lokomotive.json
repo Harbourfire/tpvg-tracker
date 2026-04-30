@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82510",
-    "event_time": "2026-04-27T02:05:00",
-    "seen_at": "2026-04-27T00:07:20.794Z",
-    "raw": "Br. Vlaka 82510 odlazak      27.04.26. 02:05, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82510",
-    "event_time": "2026-04-27T02:05:00",
-    "seen_at": "2026-04-27T00:07:20.794Z",
-    "raw": "Br. Vlaka 82510 odlazak      27.04.26. 02:05, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "81284",
-    "event_time": "2026-04-27T02:12:00",
-    "seen_at": "2026-04-27T00:14:03.303Z",
-    "raw": "Br. Vlaka 81284 dolazak      27.04.26. 02:12, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "81284",
-    "event_time": "2026-04-27T02:13:00",
-    "seen_at": "2026-04-27T00:14:29.500Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 02:13, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "BLATA",
     "train_number": "82510",
@@ -11365,5 +11329,41 @@
     "event_time": "2026-04-30T01:55:00",
     "seen_at": "2026-04-29T23:58:01.219Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "44690",
+    "event_time": "2026-04-30T02:05:00",
+    "seen_at": "2026-04-30T00:11:27.500Z",
+    "raw": "Br. Vlaka 44690 odlazak      30.04.26. 02:05, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "44690",
+    "event_time": "2026-04-30T02:05:00",
+    "seen_at": "2026-04-30T00:11:27.500Z",
+    "raw": "Br. Vlaka 44690 odlazak      30.04.26. 02:05, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-30T02:11:00",
+    "seen_at": "2026-04-30T00:12:36.060Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 02:11, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-04-30T02:11:00",
+    "seen_at": "2026-04-30T00:12:36.061Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 02:11, kolodvor GOSPIĆ"
   }
 ]
