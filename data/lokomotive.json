@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-28T01:43:00",
-    "seen_at": "2026-04-27T23:43:50.012Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:43, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-04-28T01:43:00",
-    "seen_at": "2026-04-27T23:43:50.012Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:43, kolodvor RUDOPOLJE"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (PS)",
@@ -9853,5 +9835,14 @@
     "event_time": "2026-05-01T01:33:00",
     "seen_at": "2026-04-30T23:36:23.673Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-05-01T00:14:00",
+    "seen_at": "2026-04-30T23:40:53.458Z",
+    "raw": "Br. Vlaka 63306 formiran     01.05.26. 00:14, kolodvor GOSPIĆ"
   }
 ]
