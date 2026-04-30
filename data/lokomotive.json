@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "HRVATSKI LESKOVAC",
-    "train_number": "89252",
-    "event_time": "2026-04-27T07:26:00",
-    "seen_at": "2026-04-27T05:27:00.533Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:26, kolodvor HRVATSKI LESKOVAC"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-27T07:25:00",
-    "seen_at": "2026-04-27T05:27:23.573Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": "66853",
-    "event_time": "2026-04-27T07:24:00",
-    "seen_at": "2026-04-27T05:28:56.216Z",
-    "raw": "Br. Vlaka 66853 dolazak      27.04.26. 07:24, kolodvor OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "OSIJEK DONJI GRAD",
-    "train_number": null,
-    "event_time": "2026-04-27T07:24:00",
-    "seen_at": "2026-04-27T05:29:19.497Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71603 OSIJEK DONJI GRAD"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "71203",
-    "event_time": "2026-04-27T07:29:00",
-    "seen_at": "2026-04-27T05:30:05.666Z",
-    "raw": "Br. Vlaka 71203 formiran     27.04.26. 07:29, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "69326",
-    "event_time": "2026-04-27T07:31:00",
-    "seen_at": "2026-04-27T05:31:49.666Z",
-    "raw": "Br. Vlaka 69326 odlazak      27.04.26. 07:31, kolodvor STARO PETROVO SELO"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "VARAŽDIN",
@@ -11266,5 +11212,32 @@
     "event_time": "2026-04-30T07:24:00",
     "seen_at": "2026-04-30T05:24:12.619Z",
     "raw": "Br. Vlaka 89300 dolazak      30.04.26. 07:24, kolodvor ČAČINCI"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89870",
+    "event_time": "2026-04-30T07:23:00",
+    "seen_at": "2026-04-30T05:26:19.633Z",
+    "raw": "Br. Vlaka 89870 dolazak      30.04.26. 07:23, kolodvor 73164"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "79931",
+    "event_time": "2026-04-30T07:25:00",
+    "seen_at": "2026-04-30T05:27:06.048Z",
+    "raw": "Br. Vlaka 79931 odlazak      30.04.26. 07:25, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ČAČINCI",
+    "train_number": "89300",
+    "event_time": "2026-04-30T07:27:00",
+    "seen_at": "2026-04-30T05:28:15.374Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 07:27, kolodvor ČAČINCI"
   }
 ]
