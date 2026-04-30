@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-27T12:00:00",
-    "seen_at": "2026-04-27T08:57:44.887Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "69771",
-    "event_time": "2026-04-27T10:28:00",
-    "seen_at": "2026-04-27T08:58:30.721Z",
-    "raw": "Br. Vlaka 69771 formiran     27.04.26. 10:28, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89250",
-    "event_time": "2026-04-27T10:56:00",
-    "seen_at": "2026-04-27T09:01:28.687Z",
-    "raw": "Br. Vlaka 89250 odlazak      27.04.26. 10:56, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89250",
-    "event_time": "2026-04-27T11:02:00",
-    "seen_at": "2026-04-27T09:06:08.455Z",
-    "raw": "Br. Vlaka 89250 odlazak      27.04.26. 11:02, kolodvor 72304"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "ZAGREB KLARA",
@@ -10708,5 +10672,41 @@
     "event_time": "2026-04-30T10:54:00",
     "seen_at": "2026-04-30T08:55:34.647Z",
     "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:54, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "82525",
+    "event_time": "2026-04-30T11:00:00",
+    "seen_at": "2026-04-30T09:00:52.448Z",
+    "raw": "Br. Vlaka 82525 odlazak      30.04.26. 11:00, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "47944",
+    "event_time": "2026-04-30T11:02:00",
+    "seen_at": "2026-04-30T09:02:47.736Z",
+    "raw": "Br. Vlaka 47944 dolazak      30.04.26. 11:02, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "79934",
+    "event_time": "2026-04-30T11:03:00",
+    "seen_at": "2026-04-30T09:03:11.245Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 11:03, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "75065",
+    "event_time": "2026-04-30T10:53:00",
+    "seen_at": "2026-04-30T09:05:30.471Z",
+    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 10:53, kolodvor JASTREBARSKO"
   }
 ]
