@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82102",
-    "event_time": "2026-04-27T13:44:00",
-    "seen_at": "2026-04-27T11:46:07.840Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 13:44, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82102",
-    "event_time": "2026-04-27T13:44:00",
-    "seen_at": "2026-04-27T11:46:07.840Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 13:44, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "89921",
-    "event_time": "2026-04-27T13:47:00",
-    "seen_at": "2026-04-27T11:48:24.027Z",
-    "raw": "Br. Vlaka 89921 odlazak      27.04.26. 13:47, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "927820620015",
     "type": "Dolazak",
     "station": "ČAKOVEC",
@@ -10456,5 +10429,32 @@
     "event_time": "2026-04-30T13:36:00",
     "seen_at": "2026-04-30T11:39:38.614Z",
     "raw": "Br. Vlaka 79934 odlazak      30.04.26. 13:36, kolodvor IVANIĆ GRAD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81197",
+    "event_time": "2026-04-30T12:16:00",
+    "seen_at": "2026-04-30T11:48:36.838Z",
+    "raw": "Br. Vlaka 81197 promjena sas 30.04.26. 12:16, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "PREČEC stajalište",
+    "train_number": "79934",
+    "event_time": "2026-04-30T13:46:00",
+    "seen_at": "2026-04-30T11:49:47.458Z",
+    "raw": "Br. Vlaka 79934 dolazak      30.04.26. 13:46, kolodvor 92515"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Dolazak",
+    "station": "ORIOVAC",
+    "train_number": "71207",
+    "event_time": "2026-04-30T13:35:00",
+    "seen_at": "2026-04-30T11:51:45.277Z",
+    "raw": "Br. Vlaka 71207 dolazak      30.04.26. 13:35, kolodvor ORIOVAC"
   }
 ]
