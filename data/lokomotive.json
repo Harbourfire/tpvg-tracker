@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "89252",
-    "event_time": "2026-04-27T03:47:00",
-    "seen_at": "2026-04-27T01:48:12.034Z",
-    "raw": "Br. Vlaka 89252 formiran     27.04.26. 03:47, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230100",
     "type": "Formiran",
     "station": "OGULIN",
@@ -11374,5 +11365,23 @@
     "event_time": "2026-04-30T03:36:00",
     "seen_at": "2026-04-30T01:38:53.453Z",
     "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:36, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-30T03:47:00",
+    "seen_at": "2026-04-30T01:52:33.560Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:47, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-04-30T03:47:00",
+    "seen_at": "2026-04-30T01:52:33.561Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:47, kolodvor PLAŠKI"
   }
 ]
