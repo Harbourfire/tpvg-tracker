@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47565",
-    "event_time": "2026-04-27T13:08:00",
-    "seen_at": "2026-04-27T11:09:12.665Z",
-    "raw": "Br. Vlaka 47565 odlazak      27.04.26. 13:08, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "KOTORIBA",
@@ -10474,5 +10465,32 @@
     "event_time": "2026-04-30T12:56:00",
     "seen_at": "2026-04-30T10:57:50.181Z",
     "raw": "Br. Vlaka 82127 odlazak      30.04.26. 12:56, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "45788",
+    "event_time": "2026-04-30T13:05:00",
+    "seen_at": "2026-04-30T11:06:11.593Z",
+    "raw": "Br. Vlaka 45788 dolazak      30.04.26. 13:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-30T13:08:00",
+    "seen_at": "2026-04-30T11:08:32.897Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-30T13:08:00",
+    "seen_at": "2026-04-30T11:08:32.898Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
