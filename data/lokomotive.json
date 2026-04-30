@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-27T13:33:00",
-    "seen_at": "2026-04-27T12:28:47.711Z",
-    "raw": "Br. Vlaka 45104 odlazak      27.04.26. 13:33, kolodvor 71308"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:28:00",
-    "seen_at": "2026-04-27T12:28:47.714Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:28, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:28:00",
-    "seen_at": "2026-04-27T12:28:47.714Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:28, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-27T13:42:00",
-    "seen_at": "2026-04-27T12:29:10.446Z",
-    "raw": "Br. Vlaka 45104 dolazak      27.04.26. 13:42, kolodvor DRENOVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -10429,5 +10393,41 @@
     "event_time": "2026-04-30T14:15:00",
     "seen_at": "2026-04-30T12:18:27.747Z",
     "raw": "Br. Vlaka 81197 odlazak      30.04.26. 14:15, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "79934",
+    "event_time": "2026-04-30T14:21:00",
+    "seen_at": "2026-04-30T12:21:36.503Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:21, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-04-30T14:24:00",
+    "seen_at": "2026-04-30T12:24:43.874Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 14:24, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "ZAGREB BORONGAJ",
+    "train_number": "79934",
+    "event_time": "2026-04-30T14:26:00",
+    "seen_at": "2026-04-30T12:27:05.362Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:26, kolodvor ZAGREB BORONGAJ"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Formiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": "89103",
+    "event_time": "2026-04-30T14:27:00",
+    "seen_at": "2026-04-30T12:28:15.408Z",
+    "raw": "Br. Vlaka 89103 formiran     30.04.26. 14:27, kolodvor ZAGREB RESNIK"
   }
 ]
