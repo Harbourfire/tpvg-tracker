@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "48799",
-    "event_time": "2026-04-27T10:23:00",
-    "seen_at": "2026-04-27T08:24:25.219Z",
-    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 10:23, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "48799",
-    "event_time": "2026-04-27T10:23:00",
-    "seen_at": "2026-04-27T08:24:25.220Z",
-    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 10:23, kolodvor SESVETE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71203",
-    "event_time": "2026-04-27T10:24:00",
-    "seen_at": "2026-04-27T08:26:19.569Z",
-    "raw": "Br. Vlaka 71203 odlazak      27.04.26. 10:24, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "47984",
-    "event_time": "2026-04-27T10:26:00",
-    "seen_at": "2026-04-27T08:26:42.921Z",
-    "raw": "Br. Vlaka 47984 formiran     27.04.26. 10:26, kolodvor BELI MANASTIR"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
@@ -10726,5 +10690,32 @@
     "event_time": "2026-04-30T10:14:00",
     "seen_at": "2026-04-30T08:17:12.934Z",
     "raw": "Br. Vlaka 79932 odlazak      30.04.26. 10:14, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-04-30T10:18:00",
+    "seen_at": "2026-04-30T08:19:44.780Z",
+    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:18, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-04-30T10:18:00",
+    "seen_at": "2026-04-30T08:19:44.780Z",
+    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:18, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-30T10:10:00",
+    "seen_at": "2026-04-30T08:21:19.365Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
