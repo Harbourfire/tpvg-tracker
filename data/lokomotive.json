@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-27T07:14:00",
-    "seen_at": "2026-04-27T05:15:05.648Z",
-    "raw": "Br. Vlaka 66853 formiran     27.04.26. 07:14, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-27T07:15:00",
-    "seen_at": "2026-04-27T05:15:53.770Z",
-    "raw": "Br. Vlaka 71202 odlazak      27.04.26. 07:15, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "66853",
-    "event_time": "2026-04-27T07:16:00",
-    "seen_at": "2026-04-27T05:16:41.493Z",
-    "raw": "Br. Vlaka 66853 odlazak      27.04.26. 07:16, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-27T07:17:00",
-    "seen_at": "2026-04-27T05:17:52.539Z",
-    "raw": "Br. Vlaka 45105 formiran     27.04.26. 07:17, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "HORVATI",
-    "train_number": "89252",
-    "event_time": "2026-04-27T07:20:00",
-    "seen_at": "2026-04-27T05:21:00.919Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:20, kolodvor HORVATI"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "69326",
-    "event_time": "2026-04-27T07:21:00",
-    "seen_at": "2026-04-27T05:21:25.128Z",
-    "raw": "Br. Vlaka 69326 odlazak      27.04.26. 07:21, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-27T07:23:00",
-    "seen_at": "2026-04-27T05:23:54.983Z",
-    "raw": "Br. Vlaka 45105 odlazak      27.04.26. 07:23, kolodvor VINKOVCI"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -11311,5 +11248,23 @@
     "event_time": "2026-04-30T07:08:00",
     "seen_at": "2026-04-30T05:08:21.867Z",
     "raw": "Br. Vlaka 45105 odlazak      30.04.26. 07:08, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ZDENCI-ORAHOVICA",
+    "train_number": "89300",
+    "event_time": "2026-04-30T07:16:00",
+    "seen_at": "2026-04-30T05:18:42.486Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 07:16, kolodvor ZDENCI-ORAHOVICA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Dolazak",
+    "station": "ČAČINCI",
+    "train_number": "89300",
+    "event_time": "2026-04-30T07:24:00",
+    "seen_at": "2026-04-30T05:24:12.619Z",
+    "raw": "Br. Vlaka 89300 dolazak      30.04.26. 07:24, kolodvor ČAČINCI"
   }
 ]
