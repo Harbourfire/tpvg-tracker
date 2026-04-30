@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "MALA SUBOTICA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T02:02:00",
-    "seen_at": "2026-04-27T00:03:50.985Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 02:02, kolodvor MALA SUBOTICA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -11365,5 +11356,14 @@
     "event_time": "2026-04-30T01:17:00",
     "seen_at": "2026-04-29T23:17:43.931Z",
     "raw": "Br. Vlaka 69784 odlazak      30.04.26. 01:17, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-30T01:55:00",
+    "seen_at": "2026-04-29T23:58:01.219Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
