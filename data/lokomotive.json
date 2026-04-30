@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "45130",
-    "event_time": "2026-04-27T16:46:00",
-    "seen_at": "2026-04-27T20:06:16.528Z",
-    "raw": "Br. Vlaka 45130 promjena sas 27.04.26. 16:46, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "82101",
-    "event_time": "2026-04-27T22:05:00",
-    "seen_at": "2026-04-27T20:10:29.606Z",
-    "raw": "Br. Vlaka 82101 dolazak      27.04.26. 22:05, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "82101",
-    "event_time": "2026-04-27T22:05:00",
-    "seen_at": "2026-04-27T20:10:29.606Z",
-    "raw": "Br. Vlaka 82101 dolazak      27.04.26. 22:05, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-27T22:09:00",
-    "seen_at": "2026-04-27T20:10:52.759Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:09, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-04-27T22:09:00",
-    "seen_at": "2026-04-27T20:10:52.759Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 22:09, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820621195",
     "type": "Rasformiran",
     "station": "ZABOK",
@@ -10177,5 +10132,14 @@
     "event_time": "2026-04-30T21:36:00",
     "seen_at": "2026-04-30T19:38:32.873Z",
     "raw": "Br. Vlaka 82121 dolazak      30.04.26. 21:36, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47990",
+    "event_time": "2026-04-30T22:12:00",
+    "seen_at": "2026-04-30T20:12:46.500Z",
+    "raw": "Br. Vlaka 47990 odlazak      30.04.26. 22:12, kolodvor KOPRIVNICA"
   }
 ]
