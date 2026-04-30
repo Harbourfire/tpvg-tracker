@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "69771",
-    "event_time": "2026-04-27T11:26:00",
-    "seen_at": "2026-04-27T09:28:01.647Z",
-    "raw": "Br. Vlaka 69771 odlazak      27.04.26. 11:26, kolodvor DARDA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "76600",
-    "event_time": "2026-04-27T11:28:00",
-    "seen_at": "2026-04-27T09:28:24.829Z",
-    "raw": "Br. Vlaka 76600 odlazak      27.04.26. 11:28, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89250",
-    "event_time": "2026-04-27T11:30:00",
-    "seen_at": "2026-04-27T09:31:50.665Z",
-    "raw": "Br. Vlaka 89250 odlazak      27.04.26. 11:30, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987891032060",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-27T11:31:00",
-    "seen_at": "2026-04-27T09:32:37.310Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82515",
-    "event_time": "2026-04-27T11:32:00",
-    "seen_at": "2026-04-27T09:33:24.759Z",
-    "raw": "Br. Vlaka 82515 odlazak      27.04.26. 11:32, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82515",
-    "event_time": "2026-04-27T11:32:00",
-    "seen_at": "2026-04-27T09:33:24.759Z",
-    "raw": "Br. Vlaka 82515 odlazak      27.04.26. 11:32, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -10663,5 +10609,50 @@
     "event_time": "2026-04-30T11:20:00",
     "seen_at": "2026-04-30T09:24:03.114Z",
     "raw": "Br. Vlaka 75065 odlazak      30.04.26. 11:20, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-30T11:25:00",
+    "seen_at": "2026-04-30T09:28:34.206Z",
+    "raw": "Br. Vlaka 71204 odlazak      30.04.26. 11:25, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "PLETERNICA",
+    "train_number": "82525",
+    "event_time": "2026-04-30T11:27:00",
+    "seen_at": "2026-04-30T09:29:19.926Z",
+    "raw": "Br. Vlaka 82525 odlazak      30.04.26. 11:27, kolodvor PLETERNICA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "79934",
+    "event_time": "2026-04-30T11:29:00",
+    "seen_at": "2026-04-30T09:30:06.178Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 11:29, kolodvor OKUČANI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "75065",
+    "event_time": "2026-04-30T11:30:00",
+    "seen_at": "2026-04-30T09:32:25.360Z",
+    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 11:30, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-27T11:31:00",
+    "seen_at": "2026-04-30T09:33:11.179Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
