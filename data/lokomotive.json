@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T09:10:00",
-    "seen_at": "2026-04-27T07:13:02.128Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 09:10, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T09:10:00",
-    "seen_at": "2026-04-27T07:13:02.129Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 09:10, kolodvor ZLATAR-BISTRICA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "76501",
-    "event_time": "2026-04-27T09:13:00",
-    "seen_at": "2026-04-27T07:13:25.024Z",
-    "raw": "Br. Vlaka 76501 odlazak      27.04.26. 09:13, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "45940",
-    "event_time": "2026-04-27T09:12:00",
-    "seen_at": "2026-04-27T07:14:10.718Z",
-    "raw": "Br. Vlaka 45940 odlazak      27.04.26. 09:12, kolodvor DARDA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82515",
-    "event_time": "2026-04-27T08:21:00",
-    "seen_at": "2026-04-27T07:19:00.002Z",
-    "raw": "Br. Vlaka 82515 formiran     27.04.26. 08:21, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82515",
-    "event_time": "2026-04-27T08:21:00",
-    "seen_at": "2026-04-27T07:19:24.165Z",
-    "raw": "Br. Vlaka 82515 formiran     27.04.26. 08:21, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "79905",
-    "event_time": "2026-04-27T09:18:00",
-    "seen_at": "2026-04-27T07:19:24.167Z",
-    "raw": "Br. Vlaka 79905 formiran     27.04.26. 09:18, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "997894245619",
     "type": "Odlazak",
     "station": "KARLOVAC",
@@ -10861,5 +10798,59 @@
     "event_time": "2026-04-30T09:03:00",
     "seen_at": "2026-04-30T07:04:23.386Z",
     "raw": "Br. Vlaka 79933 odlazak      30.04.26. 09:03, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "89250",
+    "event_time": "2026-04-30T09:10:00",
+    "seen_at": "2026-04-30T07:11:10.944Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:10, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-30T08:56:00",
+    "seen_at": "2026-04-30T07:13:08.158Z",
+    "raw": "Br. Vlaka 69175 formiran     30.04.26. 08:56, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-04-30T08:56:00",
+    "seen_at": "2026-04-30T07:13:08.158Z",
+    "raw": "Br. Vlaka 69175 formiran     30.04.26. 08:56, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71205",
+    "event_time": "2026-04-30T09:13:00",
+    "seen_at": "2026-04-30T07:15:51.314Z",
+    "raw": "Br. Vlaka 71205 odlazak      30.04.26. 09:13, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "POŽEGA",
+    "train_number": "79933",
+    "event_time": "2026-04-30T09:13:00",
+    "seen_at": "2026-04-30T07:15:51.315Z",
+    "raw": "Br. Vlaka 79933 odlazak      30.04.26. 09:13, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "89250",
+    "event_time": "2026-04-30T09:18:00",
+    "seen_at": "2026-04-30T07:18:58.032Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:18, kolodvor ZAPREŠIĆ"
   }
 ]
