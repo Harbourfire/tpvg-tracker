@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891032144",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "79905",
-    "event_time": "2026-04-27T09:41:00",
-    "seen_at": "2026-04-27T07:42:18.370Z",
-    "raw": "Br. Vlaka 79905 odlazak      27.04.26. 09:41, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "45940",
-    "event_time": "2026-04-27T09:38:00",
-    "seen_at": "2026-04-27T07:43:04.913Z",
-    "raw": "Br. Vlaka 45940 dolazak      27.04.26. 09:38, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Promjena sastava",
-    "station": "BELI MANASTIR",
-    "train_number": "45940",
-    "event_time": "2026-04-27T09:38:00",
-    "seen_at": "2026-04-27T07:43:51.152Z",
-    "raw": "Br. Vlaka 45940 promjena sas 27.04.26. 09:38, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-27T09:37:00",
-    "seen_at": "2026-04-27T07:44:25.159Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-27T09:48:00",
-    "seen_at": "2026-04-27T07:48:44.737Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
@@ -10798,5 +10753,32 @@
     "event_time": "2026-04-30T09:37:00",
     "seen_at": "2026-04-30T07:38:38.285Z",
     "raw": "Br. Vlaka 45104 odlazak      30.04.26. 09:37, kolodvor SPAČVA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "VELIKA",
+    "train_number": "79932",
+    "event_time": "2026-04-30T09:35:00",
+    "seen_at": "2026-04-30T07:41:14.670Z",
+    "raw": "Br. Vlaka 79932 odlazak      30.04.26. 09:35, kolodvor VELIKA"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "MRZLO POLJE",
+    "train_number": null,
+    "event_time": "2026-04-29T09:27:00",
+    "seen_at": "2026-04-30T07:45:56.186Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75101 MRZLO POLJE"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Formiran",
+    "station": "MRZLO POLJE",
+    "train_number": "75065",
+    "event_time": "2026-04-30T09:39:00",
+    "seen_at": "2026-04-30T07:46:19.544Z",
+    "raw": "Br. Vlaka 75065 formiran     30.04.26. 09:39, kolodvor MRZLO POLJE"
   }
 ]
