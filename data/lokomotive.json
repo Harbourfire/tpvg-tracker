@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89252",
-    "event_time": "2026-04-27T06:52:00",
-    "seen_at": "2026-04-27T04:56:59.673Z",
-    "raw": "Br. Vlaka 89252 dolazak      27.04.26. 06:52, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "69326",
-    "event_time": "2026-04-27T06:58:00",
-    "seen_at": "2026-04-27T04:59:17.501Z",
-    "raw": "Br. Vlaka 69326 odlazak      27.04.26. 06:58, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-27T07:00:00",
-    "seen_at": "2026-04-27T05:00:26.521Z",
-    "raw": "Br. Vlaka 71202 odlazak      27.04.26. 07:00, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81284",
-    "event_time": "2026-04-27T02:27:00",
-    "seen_at": "2026-04-27T05:04:30.049Z",
-    "raw": "Br. Vlaka 81284 promjena sas 27.04.26. 02:27, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Promjena sastava",
-    "station": "VARAŽDIN",
-    "train_number": "81284",
-    "event_time": "2026-04-27T02:27:00",
-    "seen_at": "2026-04-27T05:04:30.050Z",
-    "raw": "Br. Vlaka 81284 promjena sas 27.04.26. 02:27, kolodvor VARAŽDIN"
-  },
-  {
     "uic": "987891162040",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -11365,5 +11320,14 @@
     "event_time": "2026-04-30T06:26:00",
     "seen_at": "2026-04-30T04:46:15.543Z",
     "raw": "Br. Vlaka 89870 formiran     30.04.26. 06:26, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "NAŠICE",
+    "train_number": "89300",
+    "event_time": "2026-04-30T06:56:00",
+    "seen_at": "2026-04-30T04:57:33.410Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 06:56, kolodvor NAŠICE"
   }
 ]
