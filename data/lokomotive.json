@@ -1,68 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "70064",
-    "event_time": "2026-04-27T09:20:00",
-    "seen_at": "2026-04-27T07:20:11.305Z",
-    "raw": "Br. Vlaka 70064 odlazak      27.04.26. 09:20, kolodvor KARLOVAC"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "79905",
-    "event_time": "2026-04-27T09:20:00",
-    "seen_at": "2026-04-27T07:21:21.682Z",
-    "raw": "Br. Vlaka 79905 odlazak      27.04.26. 09:20, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T09:21:00",
-    "seen_at": "2026-04-27T07:22:31.196Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 09:21, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "81284",
-    "event_time": "2026-04-27T09:21:00",
-    "seen_at": "2026-04-27T07:22:31.197Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 09:21, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "72004",
-    "event_time": "2026-04-27T09:22:00",
-    "seen_at": "2026-04-27T07:23:17.599Z",
-    "raw": "Br. Vlaka 72004 odlazak      27.04.26. 09:22, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "76501",
-    "event_time": "2026-04-27T09:24:00",
-    "seen_at": "2026-04-27T07:24:29.619Z",
-    "raw": "Br. Vlaka 76501 odlazak      27.04.26. 09:24, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "70064",
-    "event_time": "2026-04-27T09:26:00",
-    "seen_at": "2026-04-27T07:28:56.898Z",
-    "raw": "Br. Vlaka 70064 odlazak      27.04.26. 09:26, kolodvor MRZLO POLJE"
-  },
-  {
     "uic": "997894215703",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF",
@@ -10852,5 +10789,59 @@
     "event_time": "2026-04-30T09:18:00",
     "seen_at": "2026-04-30T07:18:58.032Z",
     "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:18, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "89250",
+    "event_time": "2026-04-30T09:23:00",
+    "seen_at": "2026-04-30T07:27:07.078Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:23, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-04-30T09:26:00",
+    "seen_at": "2026-04-30T07:27:53.940Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-04-29T19:25:00",
+    "seen_at": "2026-04-30T07:28:17.400Z",
+    "raw": "Br. Vlaka 47944 formiran     29.04.26. 19:25, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "VELIKA",
+    "train_number": "79933",
+    "event_time": "2026-04-30T09:27:00",
+    "seen_at": "2026-04-30T07:28:17.402Z",
+    "raw": "Br. Vlaka 79933 dolazak      30.04.26. 09:27, kolodvor VELIKA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "ŽUPANJA",
+    "train_number": null,
+    "event_time": "2026-04-30T09:28:00",
+    "seen_at": "2026-04-30T07:28:40.594Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "VELIKA",
+    "train_number": null,
+    "event_time": "2026-04-30T09:27:00",
+    "seen_at": "2026-04-30T07:29:04.302Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
   }
 ]
