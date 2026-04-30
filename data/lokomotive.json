@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "70064",
-    "event_time": "2026-04-27T08:54:00",
-    "seen_at": "2026-04-27T07:04:02.259Z",
-    "raw": "Br. Vlaka 70064 dolazak      27.04.26. 08:54, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "76501",
-    "event_time": "2026-04-27T09:04:00",
-    "seen_at": "2026-04-27T07:04:24.928Z",
-    "raw": "Br. Vlaka 76501 odlazak      27.04.26. 09:04, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "70064",
-    "event_time": "2026-04-27T09:07:00",
-    "seen_at": "2026-04-27T07:08:49.838Z",
-    "raw": "Br. Vlaka 70064 odlazak      27.04.26. 09:07, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "927820620197",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -10852,5 +10825,41 @@
     "event_time": "2026-04-30T08:59:00",
     "seen_at": "2026-04-30T07:00:13.086Z",
     "raw": "Br. Vlaka 45104 formiran     30.04.26. 08:59, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-29T15:00:00",
+    "seen_at": "2026-04-30T07:03:13.699Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ZAPADNI",
+    "train_number": "89250",
+    "event_time": "2026-04-30T09:03:00",
+    "seen_at": "2026-04-30T07:03:13.699Z",
+    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:03, kolodvor ZAGREB ZAP. KOL."
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-04-29T15:00:00",
+    "seen_at": "2026-04-30T07:03:37.070Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "79933",
+    "event_time": "2026-04-30T09:03:00",
+    "seen_at": "2026-04-30T07:04:23.386Z",
+    "raw": "Br. Vlaka 79933 odlazak      30.04.26. 09:03, kolodvor BLACKO JAKŠIĆ"
   }
 ]
