@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-27T17:34:00",
-    "seen_at": "2026-04-27T19:30:38.059Z",
-    "raw": "Br. Vlaka 63305 formiran     27.04.26. 17:34, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-04-27T17:34:00",
-    "seen_at": "2026-04-27T19:30:38.060Z",
-    "raw": "Br. Vlaka 63305 formiran     27.04.26. 17:34, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -10231,5 +10213,14 @@
     "event_time": "2026-04-30T21:20:00",
     "seen_at": "2026-04-30T19:21:21.611Z",
     "raw": "Br. Vlaka 82121 odlazak      30.04.26. 21:20, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "82121",
+    "event_time": "2026-04-30T21:27:00",
+    "seen_at": "2026-04-30T19:27:57.297Z",
+    "raw": "Br. Vlaka 82121 odlazak      30.04.26. 21:27, kolodvor ANDRIJEVCI"
   }
 ]
