@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89921",
-    "event_time": "2026-04-27T15:02:00",
-    "seen_at": "2026-04-27T13:02:35.924Z",
-    "raw": "Br. Vlaka 89921 odlazak      27.04.26. 15:02, kolodvor ČAKOVEC"
-  },
-  {
     "uic": "928012230035",
     "type": "Dolazak",
     "station": "PLAŠKI",
@@ -10447,5 +10438,14 @@
     "event_time": "2026-04-30T14:56:00",
     "seen_at": "2026-04-30T12:58:47.122Z",
     "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "POŽEGA",
+    "train_number": "82121",
+    "event_time": "2026-04-30T14:56:00",
+    "seen_at": "2026-04-30T13:04:07.527Z",
+    "raw": "Br. Vlaka 82121 dolazak      30.04.26. 14:56, kolodvor POŽEGA"
   }
 ]
