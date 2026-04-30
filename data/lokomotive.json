@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "69326",
-    "event_time": "2026-04-27T06:49:00",
-    "seen_at": "2026-04-27T04:50:10.618Z",
-    "raw": "Br. Vlaka 69326 odlazak      27.04.26. 06:49, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230142",
     "type": "Dolazak",
     "station": "JASTREBARSKO",
@@ -11365,5 +11356,14 @@
     "event_time": "2026-04-30T06:41:00",
     "seen_at": "2026-04-30T04:45:40.615Z",
     "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89870",
+    "event_time": "2026-04-30T06:26:00",
+    "seen_at": "2026-04-30T04:46:15.543Z",
+    "raw": "Br. Vlaka 89870 formiran     30.04.26. 06:26, kolodvor KOPRIVNICA GR    A"
   }
 ]
