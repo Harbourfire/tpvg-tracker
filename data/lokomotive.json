@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71202",
-    "event_time": "2026-04-27T07:07:00",
-    "seen_at": "2026-04-27T05:09:04.478Z",
-    "raw": "Br. Vlaka 71202 odlazak      27.04.26. 07:07, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JASTREBARSKO",
-    "train_number": "89252",
-    "event_time": "2026-04-27T07:08:00",
-    "seen_at": "2026-04-27T05:09:50.915Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:08, kolodvor JASTREBARSKO"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "69326",
-    "event_time": "2026-04-27T07:12:00",
-    "seen_at": "2026-04-27T05:13:32.075Z",
-    "raw": "Br. Vlaka 69326 odlazak      27.04.26. 07:12, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZDENČINA",
-    "train_number": "89252",
-    "event_time": "2026-04-27T07:13:00",
-    "seen_at": "2026-04-27T05:13:55.224Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:13, kolodvor ZDENČINA"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -11329,5 +11293,23 @@
     "event_time": "2026-04-30T06:56:00",
     "seen_at": "2026-04-30T04:57:33.410Z",
     "raw": "Br. Vlaka 89300 odlazak      30.04.26. 06:56, kolodvor NAŠICE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "ĐURĐENOVAC",
+    "train_number": "89300",
+    "event_time": "2026-04-30T07:06:00",
+    "seen_at": "2026-04-30T05:07:35.633Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 07:06, kolodvor ĐURĐENOVAC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-30T07:08:00",
+    "seen_at": "2026-04-30T05:08:21.867Z",
+    "raw": "Br. Vlaka 45105 odlazak      30.04.26. 07:08, kolodvor VINKOVCI"
   }
 ]
