@@ -1,33 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82510",
-    "event_time": "2026-04-27T02:48:00",
-    "seen_at": "2026-04-27T00:49:32.370Z",
-    "raw": "Br. Vlaka 82510 odlazak      27.04.26. 02:48, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82510",
-    "event_time": "2026-04-27T02:48:00",
-    "seen_at": "2026-04-27T00:49:32.370Z",
-    "raw": "Br. Vlaka 82510 odlazak      27.04.26. 02:48, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-27T00:10:00",
-    "seen_at": "2026-04-27T00:52:37.583Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "OŠTARIJE",
     "train_number": "82510",
@@ -11374,5 +11347,32 @@
     "event_time": "2026-04-30T02:43:00",
     "seen_at": "2026-04-30T00:44:46.594Z",
     "raw": "Br. Vlaka 63306 odlazak      30.04.26. 02:43, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44690",
+    "event_time": "2026-04-30T02:47:00",
+    "seen_at": "2026-04-30T00:52:33.488Z",
+    "raw": "Br. Vlaka 44690 dolazak      30.04.26. 02:47, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44690",
+    "event_time": "2026-04-30T02:47:00",
+    "seen_at": "2026-04-30T00:52:33.488Z",
+    "raw": "Br. Vlaka 44690 dolazak      30.04.26. 02:47, kolodvor 72303"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "45992",
+    "event_time": "2026-04-30T02:53:00",
+    "seen_at": "2026-04-30T00:53:21.009Z",
+    "raw": "Br. Vlaka 45992 odlazak      30.04.26. 02:53, kolodvor ZAGREB RESNIK"
   }
 ]
