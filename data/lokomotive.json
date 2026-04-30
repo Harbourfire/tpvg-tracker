@@ -1,86 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF",
-    "train_number": null,
-    "event_time": "2026-04-27T09:30:00",
-    "seen_at": "2026-04-27T07:30:51.537Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74102 SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-27T14:00:00",
-    "seen_at": "2026-04-27T07:34:53.847Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "79905",
-    "event_time": "2026-04-27T09:34:00",
-    "seen_at": "2026-04-27T07:35:17.073Z",
-    "raw": "Br. Vlaka 79905 odlazak      27.04.26. 09:34, kolodvor GARČIN"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "DUGA RESA",
-    "train_number": null,
-    "event_time": "2026-04-27T09:34:00",
-    "seen_at": "2026-04-27T07:35:44.476Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75102 DUGA RESA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-04-27T09:33:00",
-    "seen_at": "2026-04-27T07:36:07.506Z",
-    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 09:33, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "48799",
-    "event_time": "2026-04-27T09:33:00",
-    "seen_at": "2026-04-27T07:36:07.507Z",
-    "raw": "Br. Vlaka 48799 odlazak      27.04.26. 09:33, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820620197",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "81284",
-    "event_time": "2026-04-27T09:35:00",
-    "seen_at": "2026-04-27T07:37:40.466Z",
-    "raw": "Br. Vlaka 81284 dolazak      27.04.26. 09:35, kolodvor ZABOK"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Dolazak",
-    "station": "ZABOK",
-    "train_number": "81284",
-    "event_time": "2026-04-27T09:35:00",
-    "seen_at": "2026-04-27T07:37:40.467Z",
-    "raw": "Br. Vlaka 81284 dolazak      27.04.26. 09:35, kolodvor ZABOK"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "76501",
-    "event_time": "2026-04-27T09:34:00",
-    "seen_at": "2026-04-27T07:38:27.195Z",
-    "raw": "Br. Vlaka 76501 odlazak      27.04.26. 09:34, kolodvor IVANKOVO"
-  },
-  {
     "uic": "987891032144",
     "type": "Odlazak",
     "station": "ANDRIJEVCI",
@@ -10843,5 +10762,41 @@
     "event_time": "2026-04-30T09:27:00",
     "seen_at": "2026-04-30T07:29:04.302Z",
     "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "GARČIN",
+    "train_number": null,
+    "event_time": "2026-04-30T09:30:00",
+    "seen_at": "2026-04-30T07:32:26.307Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "VELIKA",
+    "train_number": "79932",
+    "event_time": "2026-04-30T09:29:00",
+    "seen_at": "2026-04-30T07:32:49.586Z",
+    "raw": "Br. Vlaka 79932 formiran     30.04.26. 09:29, kolodvor VELIKA"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "GARČIN",
+    "train_number": "71204",
+    "event_time": "2026-04-30T09:35:00",
+    "seen_at": "2026-04-30T07:35:31.901Z",
+    "raw": "Br. Vlaka 71204 formiran     30.04.26. 09:35, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-04-30T09:37:00",
+    "seen_at": "2026-04-30T07:38:38.285Z",
+    "raw": "Br. Vlaka 45104 odlazak      30.04.26. 09:37, kolodvor SPAČVA"
   }
 ]
