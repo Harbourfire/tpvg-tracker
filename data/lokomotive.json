@@ -1,42 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82102",
-    "event_time": "2026-04-27T15:04:00",
-    "seen_at": "2026-04-27T13:09:21.701Z",
-    "raw": "Br. Vlaka 82102 dolazak      27.04.26. 15:04, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "82102",
-    "event_time": "2026-04-27T15:04:00",
-    "seen_at": "2026-04-27T13:09:21.701Z",
-    "raw": "Br. Vlaka 82102 dolazak      27.04.26. 15:04, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "81286",
-    "event_time": "2026-04-27T15:10:00",
-    "seen_at": "2026-04-27T13:10:53.120Z",
-    "raw": "Br. Vlaka 81286 dolazak      27.04.26. 15:10, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-27T06:57:00",
-    "seen_at": "2026-04-27T13:11:16.058Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "82102",
@@ -10447,5 +10411,14 @@
     "event_time": "2026-04-30T14:56:00",
     "seen_at": "2026-04-30T13:04:07.527Z",
     "raw": "Br. Vlaka 82121 dolazak      30.04.26. 14:56, kolodvor POŽEGA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63310",
+    "event_time": "2026-04-30T15:09:00",
+    "seen_at": "2026-04-30T13:11:36.068Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 15:09, kolodvor VRHOVINE"
   }
 ]
