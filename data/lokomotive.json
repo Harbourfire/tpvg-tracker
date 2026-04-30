@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "82102",
-    "event_time": "2026-04-27T15:35:00",
-    "seen_at": "2026-04-27T13:40:09.228Z",
-    "raw": "Br. Vlaka 82102 promjena sas 27.04.26. 15:35, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Promjena sastava",
-    "station": "JOSIPDOL",
-    "train_number": "82102",
-    "event_time": "2026-04-27T15:35:00",
-    "seen_at": "2026-04-27T13:40:09.229Z",
-    "raw": "Br. Vlaka 82102 promjena sas 27.04.26. 15:35, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "DRENOVCI",
@@ -10420,5 +10402,23 @@
     "event_time": "2026-04-30T15:37:00",
     "seen_at": "2026-04-30T13:38:18.104Z",
     "raw": "Br. Vlaka 63310 odlazak      30.04.26. 15:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "BLACKO JAKŠIĆ",
+    "train_number": "82121",
+    "event_time": "2026-04-30T15:38:00",
+    "seen_at": "2026-04-30T13:41:00.460Z",
+    "raw": "Br. Vlaka 82121 odlazak      30.04.26. 15:38, kolodvor BLACKO JAKŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-04-30T15:46:00",
+    "seen_at": "2026-04-30T13:47:33.449Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 15:46, kolodvor BLATA"
   }
 ]
