@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82515",
-    "event_time": "2026-04-27T10:51:00",
-    "seen_at": "2026-04-27T08:52:48.011Z",
-    "raw": "Br. Vlaka 82515 odlazak      27.04.26. 10:51, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "82515",
-    "event_time": "2026-04-27T10:51:00",
-    "seen_at": "2026-04-27T08:52:48.011Z",
-    "raw": "Br. Vlaka 82515 odlazak      27.04.26. 10:51, kolodvor LIČKA JESENICA"
-  },
-  {
     "uic": "927820620189",
     "type": "Rasformiran",
     "station": "BELI MANASTIR",
@@ -10672,5 +10654,59 @@
     "event_time": "2026-04-30T10:42:00",
     "seen_at": "2026-04-30T08:47:26.486Z",
     "raw": "Br. Vlaka 47944 odlazak      30.04.26. 10:42, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "47944",
+    "event_time": "2026-04-30T10:47:00",
+    "seen_at": "2026-04-30T08:48:11.225Z",
+    "raw": "Br. Vlaka 47944 odlazak      30.04.26. 10:47, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "79934",
+    "event_time": "2026-04-30T10:50:00",
+    "seen_at": "2026-04-30T08:50:31.883Z",
+    "raw": "Br. Vlaka 79934 formiran     30.04.26. 10:50, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "79934",
+    "event_time": "2026-04-30T10:52:00",
+    "seen_at": "2026-04-30T08:52:28.337Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 10:52, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "47944",
+    "event_time": "2026-04-30T10:55:00",
+    "seen_at": "2026-04-30T08:55:34.646Z",
+    "raw": "Br. Vlaka 47944 odlazak      30.04.26. 10:55, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "69175",
+    "event_time": "2026-04-30T10:54:00",
+    "seen_at": "2026-04-30T08:55:34.646Z",
+    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:54, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "69175",
+    "event_time": "2026-04-30T10:54:00",
+    "seen_at": "2026-04-30T08:55:34.647Z",
+    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:54, kolodvor LIČKA JESENICA"
   }
 ]
