@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-28T00:13:00",
-    "seen_at": "2026-04-27T22:13:29.790Z",
-    "raw": "Br. Vlaka 63306 formiran     28.04.26. 00:13, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-28T00:13:00",
-    "seen_at": "2026-04-27T22:13:29.790Z",
-    "raw": "Br. Vlaka 63306 formiran     28.04.26. 00:13, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "89148",
-    "event_time": "2026-04-28T00:17:00",
-    "seen_at": "2026-04-27T22:17:51.228Z",
-    "raw": "Br. Vlaka 89148 odlazak      28.04.26. 00:17, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "ČAČINCI",
-    "train_number": null,
-    "event_time": "2026-04-28T00:02:00",
-    "seen_at": "2026-04-27T22:18:14.457Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "NOVI MAROF",
@@ -9979,5 +9943,14 @@
     "event_time": "2026-05-01T00:08:00",
     "seen_at": "2026-04-30T22:09:12.339Z",
     "raw": "Br. Vlaka 69785 odlazak      01.05.26. 00:08, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-05-01T00:18:00",
+    "seen_at": "2026-04-30T22:19:36.014Z",
+    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:18, kolodvor BLATA"
   }
 ]
