@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-25T01:47:00",
-    "seen_at": "2026-04-27T23:50:43.680Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKA JESENICA",
@@ -9844,5 +9835,23 @@
     "event_time": "2026-05-01T00:14:00",
     "seen_at": "2026-04-30T23:40:53.458Z",
     "raw": "Br. Vlaka 63306 formiran     01.05.26. 00:14, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81975",
+    "event_time": "2026-05-01T01:45:00",
+    "seen_at": "2026-04-30T23:48:33.429Z",
+    "raw": "Br. Vlaka 81975 odlazak      01.05.26. 01:45, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "47944",
+    "event_time": "2026-05-01T01:56:00",
+    "seen_at": "2026-04-30T23:56:42.183Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 01:56, kolodvor 72302"
   }
 ]
