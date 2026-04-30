@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-28T00:51:00",
-    "seen_at": "2026-04-27T22:51:29.789Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 00:51, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63306",
-    "event_time": "2026-04-28T00:51:00",
-    "seen_at": "2026-04-27T22:51:29.789Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 00:51, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "ZLATAR-BISTRICA",
-    "train_number": "82104",
-    "event_time": "2026-04-28T00:58:00",
-    "seen_at": "2026-04-27T22:59:10.432Z",
-    "raw": "Br. Vlaka 82104 odlazak      28.04.26. 00:58, kolodvor ZLATAR-BISTRICA"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -9934,5 +9907,23 @@
     "event_time": "2026-05-01T00:46:00",
     "seen_at": "2026-04-30T22:47:17.450Z",
     "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:46, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63305",
+    "event_time": "2026-05-01T00:52:00",
+    "seen_at": "2026-04-30T22:54:13.815Z",
+    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:52, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-05-01T00:54:00",
+    "seen_at": "2026-04-30T22:57:24.668Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
