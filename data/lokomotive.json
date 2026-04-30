@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "VELIKO TRGOVIŠĆE",
-    "train_number": "89148",
-    "event_time": "2026-04-27T23:45:00",
-    "seen_at": "2026-04-27T21:45:47.188Z",
-    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:45, kolodvor VELIKO TRGOVIŠĆE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ZABOK",
-    "train_number": "89148",
-    "event_time": "2026-04-27T23:48:00",
-    "seen_at": "2026-04-27T21:49:56.660Z",
-    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:48, kolodvor ZABOK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-27T23:47:00",
-    "seen_at": "2026-04-27T21:49:56.661Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-27T23:47:00",
-    "seen_at": "2026-04-27T21:49:56.661Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820622029",
     "type": "Odlazak",
     "station": "ZDENCI-ORAHOVICA",
@@ -10024,5 +9988,14 @@
     "event_time": "2026-04-30T23:35:00",
     "seen_at": "2026-04-30T21:40:12.865Z",
     "raw": "Br. Vlaka 89872 odlazak      30.04.26. 23:35, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-04-30T23:41:00",
+    "seen_at": "2026-04-30T21:44:26.136Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
   }
 ]
