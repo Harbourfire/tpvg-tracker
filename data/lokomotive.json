@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "82104",
-    "event_time": "2026-04-28T00:46:00",
-    "seen_at": "2026-04-27T22:46:25.223Z",
-    "raw": "Br. Vlaka 82104 odlazak      28.04.26. 00:46, kolodvor BEDEKOVČINA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "89148",
-    "event_time": "2026-04-28T00:48:00",
-    "seen_at": "2026-04-27T22:49:32.999Z",
-    "raw": "Br. Vlaka 89148 odlazak      28.04.26. 00:48, kolodvor TURČIN"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -9943,5 +9925,14 @@
     "event_time": "2026-05-01T00:27:00",
     "seen_at": "2026-04-30T22:28:17.294Z",
     "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:27, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-05-01T00:46:00",
+    "seen_at": "2026-04-30T22:47:17.450Z",
+    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:46, kolodvor RUDOPOLJE"
   }
 ]
