@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:01:00",
-    "seen_at": "2026-04-27T12:02:49.479Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:01, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:01:00",
-    "seen_at": "2026-04-27T12:02:49.479Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:01, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "BRČKO - izvan HŽ",
@@ -10465,5 +10447,23 @@
     "event_time": "2026-04-30T13:55:00",
     "seen_at": "2026-04-30T11:58:40.641Z",
     "raw": "Br. Vlaka 79934 odlazak      30.04.26. 13:55, kolodvor 92515"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "79934",
+    "event_time": "2026-04-30T14:06:00",
+    "seen_at": "2026-04-30T12:07:51.237Z",
+    "raw": "Br. Vlaka 79934 dolazak      30.04.26. 14:06, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "79934",
+    "event_time": "2026-04-30T14:07:00",
+    "seen_at": "2026-04-30T12:08:37.893Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:07, kolodvor DUGO SELO"
   }
 ]
