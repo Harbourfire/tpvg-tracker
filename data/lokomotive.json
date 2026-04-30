@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "69326",
-    "event_time": "2026-04-27T07:44:00",
-    "seen_at": "2026-04-27T05:44:30.674Z",
-    "raw": "Br. Vlaka 69326 odlazak      27.04.26. 07:44, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89252",
-    "event_time": "2026-04-27T07:43:00",
-    "seen_at": "2026-04-27T05:45:16.348Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:43, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620197",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "81284",
-    "event_time": "2026-04-27T07:41:00",
-    "seen_at": "2026-04-27T05:46:02.737Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 07:41, kolodvor TURČIN"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "81284",
-    "event_time": "2026-04-27T07:41:00",
-    "seen_at": "2026-04-27T05:46:02.738Z",
-    "raw": "Br. Vlaka 81284 odlazak      27.04.26. 07:41, kolodvor TURČIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "89252",
-    "event_time": "2026-04-27T07:49:00",
-    "seen_at": "2026-04-27T05:49:30.282Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 07:49, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-27T07:45:00",
-    "seen_at": "2026-04-27T05:50:25.688Z",
-    "raw": "Br. Vlaka 45105 odlazak      27.04.26. 07:45, kolodvor OTOK"
-  },
-  {
     "uic": "997894245619",
     "type": "Odlazak",
     "station": "HRVATSKI LESKOVAC",
@@ -11212,5 +11158,23 @@
     "event_time": "2026-04-30T07:32:00",
     "seen_at": "2026-04-30T05:35:24.758Z",
     "raw": "Br. Vlaka 45105 odlazak      30.04.26. 07:32, kolodvor OTOK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "SLATINA",
+    "train_number": "89300",
+    "event_time": "2026-04-30T07:47:00",
+    "seen_at": "2026-04-30T05:48:13.836Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 07:47, kolodvor SLATINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "SPAČVA",
+    "train_number": null,
+    "event_time": "2026-04-30T07:47:00",
+    "seen_at": "2026-04-30T05:50:09.795Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71304 SPAČVA"
   }
 ]
