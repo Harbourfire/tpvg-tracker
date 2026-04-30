@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820620171",
-    "type": "Formiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-27T14:16:00",
-    "seen_at": "2026-04-27T12:16:45.059Z",
-    "raw": "Br. Vlaka 45104 formiran     27.04.26. 14:16, kolodvor 71308"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:17:00",
-    "seen_at": "2026-04-27T12:17:31.059Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:17, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:17:00",
-    "seen_at": "2026-04-27T12:17:31.060Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:17, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "81286",
-    "event_time": "2026-04-27T14:18:00",
-    "seen_at": "2026-04-27T12:18:17.194Z",
-    "raw": "Br. Vlaka 81286 formiran     27.04.26. 14:18, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81286",
-    "event_time": "2026-04-27T14:19:00",
-    "seen_at": "2026-04-27T12:19:48.925Z",
-    "raw": "Br. Vlaka 81286 odlazak      27.04.26. 14:19, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
     "type": "Odlazak",
     "station": "BRČKO - izvan HŽ",
     "train_number": "45104",
@@ -10465,5 +10420,14 @@
     "event_time": "2026-04-30T14:07:00",
     "seen_at": "2026-04-30T12:08:37.893Z",
     "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:07, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81197",
+    "event_time": "2026-04-30T14:15:00",
+    "seen_at": "2026-04-30T12:18:27.747Z",
+    "raw": "Br. Vlaka 81197 odlazak      30.04.26. 14:15, kolodvor VINKOVCI"
   }
 ]
