@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-27T06:04:00",
-    "seen_at": "2026-04-27T04:05:01.824Z",
-    "raw": "Br. Vlaka 71202 formiran     27.04.26. 06:04, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "DUGA RESA",
-    "train_number": "89252",
-    "event_time": "2026-04-27T06:04:00",
-    "seen_at": "2026-04-27T04:05:24.523Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 06:04, kolodvor DUGA RESA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "48799",
-    "event_time": "2026-04-27T05:20:00",
-    "seen_at": "2026-04-27T04:06:48.897Z",
-    "raw": "Br. Vlaka 48799 dolazak      27.04.26. 05:20, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "48799",
-    "event_time": "2026-04-27T05:20:00",
-    "seen_at": "2026-04-27T04:06:48.898Z",
-    "raw": "Br. Vlaka 48799 dolazak      27.04.26. 05:20, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "997894245619",
     "type": "Formiran",
     "station": "ZAPREŠIĆ",
@@ -11383,5 +11347,41 @@
     "event_time": "2026-04-30T05:52:00",
     "seen_at": "2026-04-30T03:52:14.075Z",
     "raw": "Br. Vlaka 45992 odlazak      30.04.26. 05:52, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "79930",
+    "event_time": "2026-04-30T05:58:00",
+    "seen_at": "2026-04-30T03:58:28.301Z",
+    "raw": "Br. Vlaka 79930 odlazak      30.04.26. 05:58, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-04-30T06:05:00",
+    "seen_at": "2026-04-30T04:05:36.180Z",
+    "raw": "Br. Vlaka 45105 formiran     30.04.26. 06:05, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "BIZOVAC",
+    "train_number": "89300",
+    "event_time": "2026-04-30T06:03:00",
+    "seen_at": "2026-04-30T04:05:36.184Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 06:03, kolodvor BIZOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45992",
+    "event_time": "2026-04-30T06:00:00",
+    "seen_at": "2026-04-30T04:07:10.460Z",
+    "raw": "Br. Vlaka 45992 dolazak      30.04.26. 06:00, kolodvor KOPRIVNICA"
   }
 ]
