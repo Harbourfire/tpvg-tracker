@@ -2,15 +2,6 @@
   {
     "uic": "928012230142",
     "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "89252",
-    "event_time": "2026-04-27T05:37:00",
-    "seen_at": "2026-04-27T03:37:14.827Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 05:37, kolodvor GENERALSKI STOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
     "station": "ZVEČAJ",
     "train_number": "89252",
     "event_time": "2026-04-27T05:45:00",
@@ -11302,5 +11293,77 @@
     "event_time": "2026-04-30T05:23:00",
     "seen_at": "2026-04-30T03:26:02.550Z",
     "raw": "Br. Vlaka 45992 odlazak      30.04.26. 05:23, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "OGULIN",
+    "train_number": "69006",
+    "event_time": "2026-04-30T05:27:00",
+    "seen_at": "2026-04-30T03:28:59.029Z",
+    "raw": "Br. Vlaka 69006 dolazak      30.04.26. 05:27, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Dolazak",
+    "station": "OGULIN",
+    "train_number": "69006",
+    "event_time": "2026-04-30T05:27:00",
+    "seen_at": "2026-04-30T03:28:59.029Z",
+    "raw": "Br. Vlaka 69006 dolazak      30.04.26. 05:27, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-30T05:27:00",
+    "seen_at": "2026-04-30T03:29:25.335Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-04-30T05:27:00",
+    "seen_at": "2026-04-30T03:29:25.335Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "71205",
+    "event_time": "2026-04-30T05:29:00",
+    "seen_at": "2026-04-30T03:29:49.174Z",
+    "raw": "Br. Vlaka 71205 formiran     30.04.26. 05:29, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Formiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": "79930",
+    "event_time": "2026-04-30T05:31:00",
+    "seen_at": "2026-04-30T03:31:24.442Z",
+    "raw": "Br. Vlaka 79930 formiran     30.04.26. 05:31, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-30T02:47:00",
+    "seen_at": "2026-04-30T03:34:09.048Z",
+    "raw": "Br. Vlaka 69005 formiran     30.04.26. 02:47, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-04-30T02:47:00",
+    "seen_at": "2026-04-30T03:34:32.785Z",
+    "raw": "Br. Vlaka 69005 formiran     30.04.26. 02:47, kolodvor OGULIN"
   }
 ]
