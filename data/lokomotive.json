@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:54:00",
-    "seen_at": "2026-04-27T12:55:11.303Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:54, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82102",
-    "event_time": "2026-04-27T14:54:00",
-    "seen_at": "2026-04-27T12:55:11.303Z",
-    "raw": "Br. Vlaka 82102 odlazak      27.04.26. 14:54, kolodvor BLATA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "81286",
-    "event_time": "2026-04-27T14:57:00",
-    "seen_at": "2026-04-27T12:58:01.011Z",
-    "raw": "Br. Vlaka 81286 odlazak      27.04.26. 14:57, kolodvor ĐAKOVO"
-  },
-  {
     "uic": "927820620015",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -10456,5 +10429,23 @@
     "event_time": "2026-04-30T14:49:00",
     "seen_at": "2026-04-30T12:49:59.729Z",
     "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:49, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "63310",
+    "event_time": "2026-04-30T14:55:00",
+    "seen_at": "2026-04-30T12:56:51.339Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 14:55, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-30T14:56:00",
+    "seen_at": "2026-04-30T12:58:47.122Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
   }
 ]
