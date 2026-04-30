@@ -1,59 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-28T01:19:00",
-    "seen_at": "2026-04-27T23:20:18.772Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:19, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-04-28T01:19:00",
-    "seen_at": "2026-04-27T23:20:18.772Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 01:19, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "81970",
-    "event_time": "2026-04-28T01:20:00",
-    "seen_at": "2026-04-27T23:21:04.361Z",
-    "raw": "Br. Vlaka 81970 formiran     28.04.26. 01:20, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "81970",
-    "event_time": "2026-04-28T01:20:00",
-    "seen_at": "2026-04-27T23:21:04.362Z",
-    "raw": "Br. Vlaka 81970 formiran     28.04.26. 01:20, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81970",
-    "event_time": "2026-04-28T01:22:00",
-    "seen_at": "2026-04-27T23:22:58.419Z",
-    "raw": "Br. Vlaka 81970 odlazak      28.04.26. 01:22, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "81970",
-    "event_time": "2026-04-28T01:22:00",
-    "seen_at": "2026-04-27T23:22:58.420Z",
-    "raw": "Br. Vlaka 81970 odlazak      28.04.26. 01:22, kolodvor OSIJEK"
-  },
-  {
     "uic": "927820621195",
     "type": "Odlazak",
     "station": "BUDINŠĆINA",
@@ -9889,5 +9835,32 @@
     "event_time": "2026-05-01T01:05:00",
     "seen_at": "2026-04-30T23:06:53.856Z",
     "raw": "Br. Vlaka 63305 odlazak      01.05.26. 01:05, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81975",
+    "event_time": "2026-05-01T01:21:00",
+    "seen_at": "2026-04-30T23:22:09.188Z",
+    "raw": "Br. Vlaka 81975 promjena sas 01.05.26. 01:21, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-05-01T01:21:00",
+    "seen_at": "2026-04-30T23:24:05.636Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 01:21, kolodvor 72303"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63305",
+    "event_time": "2026-05-01T01:22:00",
+    "seen_at": "2026-04-30T23:24:05.636Z",
+    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 01:22, kolodvor PERUŠIĆ"
   }
 ]
