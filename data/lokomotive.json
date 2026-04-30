@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "ZDENCI-ORAHOVICA",
-    "train_number": "81285",
-    "event_time": "2026-04-27T23:52:00",
-    "seen_at": "2026-04-27T21:55:04.387Z",
-    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:52, kolodvor ZDENCI-ORAHOVICA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BEDEKOVČINA",
-    "train_number": "89148",
-    "event_time": "2026-04-27T23:58:00",
-    "seen_at": "2026-04-27T21:58:49.769Z",
-    "raw": "Br. Vlaka 89148 odlazak      27.04.26. 23:58, kolodvor BEDEKOVČINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ZLATAR-BISTRICA",
@@ -9997,5 +9979,23 @@
     "event_time": "2026-04-30T23:41:00",
     "seen_at": "2026-04-30T21:44:26.136Z",
     "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-30T23:49:00",
+    "seen_at": "2026-04-30T21:54:26.284Z",
+    "raw": "Br. Vlaka 63305 dolazak      30.04.26. 23:49, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "63305",
+    "event_time": "2026-04-30T23:49:00",
+    "seen_at": "2026-04-30T21:56:44.345Z",
+    "raw": "Br. Vlaka 63305 promjena sas 30.04.26. 23:49, kolodvor PLAŠKI"
   }
 ]
