@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "82102",
-    "event_time": "2026-04-27T15:35:00",
-    "seen_at": "2026-04-27T13:37:06.316Z",
-    "raw": "Br. Vlaka 82102 dolazak      27.04.26. 15:35, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "JOSIPDOL",
-    "train_number": "82102",
-    "event_time": "2026-04-27T15:35:00",
-    "seen_at": "2026-04-27T13:37:06.316Z",
-    "raw": "Br. Vlaka 82102 dolazak      27.04.26. 15:35, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230035",
     "type": "Promjena sastava",
     "station": "JOSIPDOL",
     "train_number": "82102",
@@ -10420,5 +10402,23 @@
     "event_time": "2026-04-30T15:28:00",
     "seen_at": "2026-04-30T13:28:49.931Z",
     "raw": "Br. Vlaka 82121 odlazak      30.04.26. 15:28, kolodvor POŽEGA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-30T12:00:00",
+    "seen_at": "2026-04-30T13:30:17.343Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63310",
+    "event_time": "2026-04-30T15:37:00",
+    "seen_at": "2026-04-30T13:38:18.104Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 15:37, kolodvor LIČKA JESENICA"
   }
 ]
