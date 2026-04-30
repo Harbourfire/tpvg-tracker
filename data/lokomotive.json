@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-27T16:45:00",
-    "seen_at": "2026-04-27T14:46:02.111Z",
-    "raw": "Br. Vlaka 45104 odlazak      27.04.26. 16:45, kolodvor DRENOVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -10447,5 +10438,14 @@
     "event_time": "2026-04-30T16:29:00",
     "seen_at": "2026-04-30T14:31:52.981Z",
     "raw": "Br. Vlaka 63310 odlazak      30.04.26. 16:29, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63310",
+    "event_time": "2026-04-30T16:46:00",
+    "seen_at": "2026-04-30T14:46:17.002Z",
+    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 16:46, kolodvor JOSIPDOL"
   }
 ]
