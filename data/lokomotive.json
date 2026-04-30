@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "89252",
-    "event_time": "2026-04-27T06:38:00",
-    "seen_at": "2026-04-27T04:39:03.819Z",
-    "raw": "Br. Vlaka 89252 odlazak      27.04.26. 06:38, kolodvor DRAGANIĆI"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -11347,5 +11338,32 @@
     "event_time": "2026-04-30T06:33:00",
     "seen_at": "2026-04-30T04:33:39.018Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Odlazak",
+    "station": "KOŠKA",
+    "train_number": "89300",
+    "event_time": "2026-04-30T06:41:00",
+    "seen_at": "2026-04-30T04:41:41.814Z",
+    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 06:41, kolodvor KOŠKA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45992",
+    "event_time": "2026-04-30T06:28:00",
+    "seen_at": "2026-04-30T04:44:52.574Z",
+    "raw": "Br. Vlaka 45992 odlazak      30.04.26. 06:28, kolodvor 73164"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-04-30T06:41:00",
+    "seen_at": "2026-04-30T04:45:40.615Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
   }
 ]
