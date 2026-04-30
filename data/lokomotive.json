@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-27T20:58:00",
-    "seen_at": "2026-04-27T19:00:49.228Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82101",
-    "event_time": "2026-04-27T21:05:00",
-    "seen_at": "2026-04-27T19:06:32.948Z",
-    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 21:05, kolodvor BUDINŠĆINA"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "BUDINŠĆINA",
-    "train_number": "82101",
-    "event_time": "2026-04-27T21:05:00",
-    "seen_at": "2026-04-27T19:06:32.949Z",
-    "raw": "Br. Vlaka 82101 odlazak      27.04.26. 21:05, kolodvor BUDINŠĆINA"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "KONJŠČINA",
@@ -10249,5 +10222,23 @@
     "event_time": "2026-04-30T20:48:00",
     "seen_at": "2026-04-30T18:50:42.691Z",
     "raw": "Br. Vlaka 82121 odlazak      30.04.26. 20:48, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Dolazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82121",
+    "event_time": "2026-04-30T20:59:00",
+    "seen_at": "2026-04-30T18:59:46.097Z",
+    "raw": "Br. Vlaka 82121 dolazak      30.04.26. 20:59, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Odlazak",
+    "station": "SLAVONSKI BROD",
+    "train_number": "82121",
+    "event_time": "2026-04-30T21:06:00",
+    "seen_at": "2026-04-30T19:06:54.068Z",
+    "raw": "Br. Vlaka 82121 odlazak      30.04.26. 21:06, kolodvor SLAVONSKI BROD"
   }
 ]
