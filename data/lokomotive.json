@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-04-27T03:25:00",
-    "seen_at": "2026-04-27T01:31:18.385Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -11329,5 +11320,41 @@
     "event_time": "2026-04-30T03:08:00",
     "seen_at": "2026-04-30T01:09:04.599Z",
     "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-04-30T03:26:00",
+    "seen_at": "2026-04-30T01:28:32.460Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:26, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-04-30T03:26:00",
+    "seen_at": "2026-04-30T01:28:32.461Z",
+    "raw": "Br. Vlaka 63306 odlazak      30.04.26. 03:26, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "45992",
+    "event_time": "2026-04-30T03:26:00",
+    "seen_at": "2026-04-30T01:33:06.882Z",
+    "raw": "Br. Vlaka 45992 dolazak      30.04.26. 03:26, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "45992",
+    "event_time": "2026-04-30T03:32:00",
+    "seen_at": "2026-04-30T01:33:29.691Z",
+    "raw": "Br. Vlaka 45992 odlazak      30.04.26. 03:32, kolodvor DUGO SELO"
   }
 ]
