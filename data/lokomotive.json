@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76600",
-    "event_time": "2026-04-27T12:22:00",
-    "seen_at": "2026-04-27T10:26:01.264Z",
-    "raw": "Br. Vlaka 76600 dolazak      27.04.26. 12:22, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-27T12:22:00",
-    "seen_at": "2026-04-27T10:26:25.419Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "75011",
-    "event_time": "2026-04-27T12:28:00",
-    "seen_at": "2026-04-27T10:29:04.070Z",
-    "raw": "Br. Vlaka 75011 odlazak      27.04.26. 12:28, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-27T12:32:00",
-    "seen_at": "2026-04-27T10:33:42.355Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-27T12:32:00",
-    "seen_at": "2026-04-27T10:33:42.355Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "NOVA GRADIŠKA",
@@ -10546,5 +10501,23 @@
     "event_time": "2026-04-30T12:04:00",
     "seen_at": "2026-04-30T10:23:42.331Z",
     "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Odlazak",
+    "station": "MOSLAVAČKA GRAČENICA",
+    "train_number": "79934",
+    "event_time": "2026-04-30T12:28:00",
+    "seen_at": "2026-04-30T10:28:42.285Z",
+    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 12:28, kolodvor MOSLAVAČKA GRAČENICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "48588",
+    "event_time": "2026-04-30T12:25:00",
+    "seen_at": "2026-04-30T10:31:47.964Z",
+    "raw": "Br. Vlaka 48588 odlazak      30.04.26. 12:25, kolodvor OSIJEK"
   }
 ]
