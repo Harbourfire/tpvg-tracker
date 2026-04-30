@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-27T23:16:00",
-    "seen_at": "2026-04-27T21:17:13.961Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:16, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-04-27T23:16:00",
-    "seen_at": "2026-04-27T21:17:13.961Z",
-    "raw": "Br. Vlaka 63305 odlazak      27.04.26. 23:16, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "NAŠICE",
-    "train_number": "81285",
-    "event_time": "2026-04-27T23:17:00",
-    "seen_at": "2026-04-27T21:18:00.292Z",
-    "raw": "Br. Vlaka 81285 odlazak      27.04.26. 23:17, kolodvor NAŠICE"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Formiran",
-    "station": "PODSUSED tvornica",
-    "train_number": "89148",
-    "event_time": "2026-04-27T22:25:00",
-    "seen_at": "2026-04-27T21:20:34.568Z",
-    "raw": "Br. Vlaka 89148 formiran     27.04.26. 22:25, kolodvor PODSUSED tvornica"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -10060,5 +10024,32 @@
     "event_time": "2026-04-30T23:11:00",
     "seen_at": "2026-04-30T21:13:18.663Z",
     "raw": "Br. Vlaka 47944 odlazak      30.04.26. 23:11, kolodvor 72304"
+  },
+  {
+    "uic": "927820621104",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-30T23:13:00",
+    "seen_at": "2026-04-30T21:14:43.274Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "47944",
+    "event_time": "2026-04-30T23:16:00",
+    "seen_at": "2026-04-30T21:16:40.335Z",
+    "raw": "Br. Vlaka 47944 dolazak      30.04.26. 23:16, kolodvor 72303"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-04-30T03:03:00",
+    "seen_at": "2026-04-30T21:17:26.718Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
   }
 ]
