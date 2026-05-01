@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-04-28T12:04:00",
-    "seen_at": "2026-04-28T10:05:56.815Z",
-    "raw": "Br. Vlaka 45104 odlazak      28.04.26. 12:04, kolodvor OTOK"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-04-28T12:03:00",
-    "seen_at": "2026-04-28T10:09:05.461Z",
-    "raw": "Br. Vlaka 71207 odlazak      28.04.26. 12:03, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Formiran",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-04-28T08:56:00",
-    "seen_at": "2026-04-28T10:11:25.849Z",
-    "raw": "Br. Vlaka 71207 formiran     28.04.26. 08:56, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-04-28T12:08:00",
-    "seen_at": "2026-04-28T10:11:49.425Z",
-    "raw": "Br. Vlaka 71207 odlazak      28.04.26. 12:08, kolodvor SIBINJ"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "79935",
-    "event_time": "2026-04-28T11:55:00",
-    "seen_at": "2026-04-28T10:12:36.652Z",
-    "raw": "Br. Vlaka 79935 odlazak      28.04.26. 11:55, kolodvor JANKOVCI"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "ĐELETOVCI",
@@ -9016,5 +8971,86 @@
     "event_time": "2026-05-01T12:02:00",
     "seen_at": "2026-05-01T10:02:40.646Z",
     "raw": "Br. Vlaka 41990 odlazak      01.05.26. 12:02, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-05-01T12:03:00",
+    "seen_at": "2026-05-01T10:03:42.116Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:00:00",
+    "seen_at": "2026-05-01T10:03:42.117Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:00, kolodvor 72303"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:00:00",
+    "seen_at": "2026-05-01T10:03:42.117Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:00, kolodvor 72303"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "44795",
+    "event_time": "2026-05-01T12:05:00",
+    "seen_at": "2026-05-01T10:06:03.347Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 12:05, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:06:00",
+    "seen_at": "2026-05-01T10:06:49.693Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:06, kolodvor 72304"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:06:00",
+    "seen_at": "2026-05-01T10:06:49.693Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:06, kolodvor 72304"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "HRVATSKI LESKOVAC",
+    "train_number": "46657",
+    "event_time": "2026-05-01T12:03:00",
+    "seen_at": "2026-05-01T10:06:49.694Z",
+    "raw": "Br. Vlaka 46657 dolazak      01.05.26. 12:03, kolodvor HRVATSKI LESKOVAC"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "44795",
+    "event_time": "2026-05-01T12:09:00",
+    "seen_at": "2026-05-01T10:09:32.254Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 12:09, kolodvor 72302"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82503",
+    "event_time": "2026-05-01T12:08:00",
+    "seen_at": "2026-05-01T10:09:55.065Z",
+    "raw": "Br. Vlaka 82503 odlazak      01.05.26. 12:08, kolodvor LIČKA JESENICA"
   }
 ]
