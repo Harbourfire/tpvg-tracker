@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "79931",
-    "event_time": "2026-04-28T06:46:00",
-    "seen_at": "2026-04-28T04:46:33.422Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 06:46, kolodvor NOVSKA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76500",
-    "event_time": "2026-04-28T06:50:00",
-    "seen_at": "2026-04-28T04:50:25.203Z",
-    "raw": "Br. Vlaka 76500 odlazak      28.04.26. 06:50, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "987891162040",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -9853,5 +9835,32 @@
     "event_time": "2026-05-01T06:44:00",
     "seen_at": "2026-05-01T04:45:22.482Z",
     "raw": "Br. Vlaka 69782 odlazak      01.05.26. 06:44, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Formiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "44795",
+    "event_time": "2026-05-01T04:03:00",
+    "seen_at": "2026-05-01T04:48:17.281Z",
+    "raw": "Br. Vlaka 44795 formiran     01.05.26. 04:03, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "STARI MIKANOVCI",
+    "train_number": "69782",
+    "event_time": "2026-05-01T06:52:00",
+    "seen_at": "2026-05-01T04:53:42.089Z",
+    "raw": "Br. Vlaka 69782 odlazak      01.05.26. 06:52, kolodvor STARI MIKANOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81197",
+    "event_time": "2026-05-01T06:53:00",
+    "seen_at": "2026-05-01T04:54:05.293Z",
+    "raw": "Br. Vlaka 81197 odlazak      01.05.26. 06:53, kolodvor OSIJEK"
   }
 ]
