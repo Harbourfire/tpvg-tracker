@@ -2,33 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:30:00",
-    "seen_at": "2026-04-28T07:30:44.714Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:30, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:30:00",
-    "seen_at": "2026-04-28T07:30:44.714Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:30, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "79933",
-    "event_time": "2026-04-28T09:30:00",
-    "seen_at": "2026-04-28T07:36:38.768Z",
-    "raw": "Br. Vlaka 79933 odlazak      28.04.26. 09:30, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "PODSUSED tvornica",
     "train_number": "48799",
     "event_time": "2026-04-28T09:42:00",
@@ -9385,5 +9358,23 @@
     "event_time": "2026-05-01T09:25:00",
     "seen_at": "2026-05-01T07:25:39.090Z",
     "raw": "Br. Vlaka 48582 formiran     01.05.26. 09:25, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Formiran",
+    "station": "NOVO DRNJE",
+    "train_number": "89196",
+    "event_time": "2026-05-01T09:28:00",
+    "seen_at": "2026-05-01T07:29:17.039Z",
+    "raw": "Br. Vlaka 89196 formiran     01.05.26. 09:28, kolodvor 73164"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69006",
+    "event_time": "2026-05-01T09:34:00",
+    "seen_at": "2026-05-01T07:35:11.105Z",
+    "raw": "Br. Vlaka 69006 odlazak      01.05.26. 09:34, kolodvor OŠTARIJE"
   }
 ]
