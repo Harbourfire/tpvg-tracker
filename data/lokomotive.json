@@ -1,77 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89251",
-    "event_time": "2026-04-28T11:25:00",
-    "seen_at": "2026-04-28T09:25:32.876Z",
-    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:25, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "89251",
-    "event_time": "2026-04-28T11:25:00",
-    "seen_at": "2026-04-28T09:25:32.876Z",
-    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:25, kolodvor 72303"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Dolazak",
-    "station": "ORIOVAC",
-    "train_number": "89716",
-    "event_time": "2026-04-28T11:24:00",
-    "seen_at": "2026-04-28T09:26:36.990Z",
-    "raw": "Br. Vlaka 89716 dolazak      28.04.26. 11:24, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Odlazak",
-    "station": "KUTINA",
-    "train_number": "71101",
-    "event_time": "2026-04-28T11:27:00",
-    "seen_at": "2026-04-28T09:28:34.623Z",
-    "raw": "Br. Vlaka 71101 odlazak      28.04.26. 11:27, kolodvor KUTINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-28T11:08:00",
-    "seen_at": "2026-04-28T09:33:17.127Z",
-    "raw": "Br. Vlaka 45104 odlazak      28.04.26. 11:08, kolodvor 71308"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-28T11:17:00",
-    "seen_at": "2026-04-28T09:33:40.541Z",
-    "raw": "Br. Vlaka 45104 dolazak      28.04.26. 11:17, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89251",
-    "event_time": "2026-04-28T11:32:00",
-    "seen_at": "2026-04-28T09:34:05.764Z",
-    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:32, kolodvor 72302"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "89251",
-    "event_time": "2026-04-28T11:32:00",
-    "seen_at": "2026-04-28T09:34:05.764Z",
-    "raw": "Br. Vlaka 89251 odlazak      28.04.26. 11:32, kolodvor 72302"
-  },
-  {
     "uic": "987891032094",
     "type": "Odlazak",
     "station": "BANOVA JARUGA",
@@ -9133,5 +9061,41 @@
     "event_time": "2026-05-01T11:10:00",
     "seen_at": "2026-05-01T09:10:40.342Z",
     "raw": "Br. Vlaka 45104 odlazak      01.05.26. 11:10, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "82503",
+    "event_time": "2026-05-01T11:24:00",
+    "seen_at": "2026-05-01T09:25:19.901Z",
+    "raw": "Br. Vlaka 82503 odlazak      01.05.26. 11:24, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "DUGO SELO",
+    "train_number": "44795",
+    "event_time": "2026-05-01T11:23:00",
+    "seen_at": "2026-05-01T09:26:07.389Z",
+    "raw": "Br. Vlaka 44795 dolazak      01.05.26. 11:23, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-05-01T11:26:00",
+    "seen_at": "2026-05-01T09:27:42.121Z",
+    "raw": "Br. Vlaka 45104 odlazak      01.05.26. 11:26, kolodvor SPAČVA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "82503",
+    "event_time": "2026-05-01T11:30:00",
+    "seen_at": "2026-05-01T09:31:37.182Z",
+    "raw": "Br. Vlaka 82503 odlazak      01.05.26. 11:30, kolodvor JOSIPDOL"
   }
 ]
