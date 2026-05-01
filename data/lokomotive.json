@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-28T02:25:00",
-    "seen_at": "2026-04-28T00:27:24.579Z",
-    "raw": "Br. Vlaka 45105 formiran     28.04.26. 02:25, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "47988",
-    "event_time": "2026-04-28T02:28:00",
-    "seen_at": "2026-04-28T00:28:33.474Z",
-    "raw": "Br. Vlaka 47988 formiran     28.04.26. 02:28, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-28T02:28:00",
-    "seen_at": "2026-04-28T00:28:33.474Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:28, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63306",
-    "event_time": "2026-04-28T02:28:00",
-    "seen_at": "2026-04-28T00:28:33.474Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:28, kolodvor JOSIPDOL"
-  },
-  {
     "uic": "927820621195",
     "type": "Dolazak",
     "station": "VARAŽDIN",
@@ -9772,5 +9736,14 @@
     "event_time": "2026-05-01T02:24:00",
     "seen_at": "2026-05-01T00:24:17.519Z",
     "raw": "Br. Vlaka 47944 dolazak      01.05.26. 02:24, kolodvor SESVETE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "SESVETE",
+    "train_number": "47944",
+    "event_time": "2026-05-01T02:34:00",
+    "seen_at": "2026-05-01T00:34:50.338Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 02:34, kolodvor SESVETE"
   }
 ]
