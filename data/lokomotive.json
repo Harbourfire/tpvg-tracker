@@ -1,15 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "PREČEC stajalište",
-    "train_number": "79931",
-    "event_time": "2026-04-28T05:00:00",
-    "seen_at": "2026-04-28T03:00:14.170Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 05:00, kolodvor 92515"
-  },
-  {
-    "uic": "987890033630",
     "type": "Dolazak",
     "station": "IVANIĆ GRAD",
     "train_number": "79931",
@@ -9817,5 +9808,14 @@
     "event_time": "2026-05-01T04:08:00",
     "seen_at": "2026-05-01T02:42:18.206Z",
     "raw": "Br. Vlaka 63306 promjena sas 01.05.26. 04:08, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63306",
+    "event_time": "2026-05-01T05:06:00",
+    "seen_at": "2026-05-01T03:08:25.934Z",
+    "raw": "Br. Vlaka 63306 odlazak      01.05.26. 05:06, kolodvor RUDOPOLJE"
   }
 ]
