@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "71202",
-    "event_time": "2026-04-28T07:25:00",
-    "seen_at": "2026-04-28T05:25:54.960Z",
-    "raw": "Br. Vlaka 71202 odlazak      28.04.26. 07:25, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-28T07:25:00",
-    "seen_at": "2026-04-28T05:26:40.394Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82107",
-    "event_time": "2026-04-28T07:27:00",
-    "seen_at": "2026-04-28T05:28:33.832Z",
-    "raw": "Br. Vlaka 82107 odlazak      28.04.26. 07:27, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "79931",
-    "event_time": "2026-04-28T07:29:00",
-    "seen_at": "2026-04-28T05:30:04.520Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 07:29, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71202",
-    "event_time": "2026-04-28T07:32:00",
-    "seen_at": "2026-04-28T05:32:45.546Z",
-    "raw": "Br. Vlaka 71202 odlazak      28.04.26. 07:32, kolodvor STARI MIKANOVCI"
-  },
-  {
     "uic": "997894215638",
     "type": "Formiran",
     "station": "ZAPREŠIĆ",
@@ -9826,5 +9781,32 @@
     "event_time": "2026-05-01T07:04:00",
     "seen_at": "2026-05-01T05:05:12.501Z",
     "raw": "Br. Vlaka 45105 odlazak      01.05.26. 07:04, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "ZAGREB RESNIK",
+    "train_number": null,
+    "event_time": "2026-05-01T03:00:00",
+    "seen_at": "2026-05-01T05:26:44.486Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-05-01T07:26:00",
+    "seen_at": "2026-05-01T05:29:24.878Z",
+    "raw": "Br. Vlaka 45105 odlazak      01.05.26. 07:26, kolodvor OTOK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47944",
+    "event_time": "2026-05-01T07:26:00",
+    "seen_at": "2026-05-01T05:29:47.790Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 07:26, kolodvor 73164"
   }
 ]
