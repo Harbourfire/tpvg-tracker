@@ -1,15 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "LUDINA",
-    "train_number": "79931",
-    "event_time": "2026-04-28T05:40:00",
-    "seen_at": "2026-04-28T03:44:47.937Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 05:40, kolodvor LUDINA"
-  },
-  {
-    "uic": "987890033630",
     "type": "Dolazak",
     "station": "POPOVAČA",
     "train_number": "79931",
@@ -9772,5 +9763,32 @@
     "event_time": "2026-05-01T05:30:00",
     "seen_at": "2026-05-01T03:31:33.457Z",
     "raw": "Br. Vlaka 63306 odlazak      01.05.26. 05:30, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-05-01T05:39:00",
+    "seen_at": "2026-05-01T03:40:38.708Z",
+    "raw": "Br. Vlaka 63306 odlazak      01.05.26. 05:39, kolodvor BLATA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "47944",
+    "event_time": "2026-05-01T05:40:00",
+    "seen_at": "2026-05-01T03:43:42.963Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 05:40, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89871",
+    "event_time": "2026-05-01T05:45:00",
+    "seen_at": "2026-05-01T03:46:01.694Z",
+    "raw": "Br. Vlaka 89871 odlazak      01.05.26. 05:45, kolodvor 73164"
   }
 ]
