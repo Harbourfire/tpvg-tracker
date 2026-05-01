@@ -2,15 +2,6 @@
   {
     "uic": "987890033630",
     "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "79931",
-    "event_time": "2026-04-28T06:36:00",
-    "seen_at": "2026-04-28T04:37:05.313Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 06:36, kolodvor LIPOVLJANI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
     "station": "NOVSKA",
     "train_number": "79931",
     "event_time": "2026-04-28T06:46:00",
@@ -9844,5 +9835,23 @@
     "event_time": "2026-05-01T06:30:00",
     "seen_at": "2026-05-01T04:30:19.912Z",
     "raw": "Br. Vlaka 45105 formiran     01.05.26. 06:30, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "69782",
+    "event_time": "2026-05-01T06:33:00",
+    "seen_at": "2026-05-01T04:36:20.118Z",
+    "raw": "Br. Vlaka 69782 odlazak      01.05.26. 06:33, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "69782",
+    "event_time": "2026-05-01T06:44:00",
+    "seen_at": "2026-05-01T04:45:22.482Z",
+    "raw": "Br. Vlaka 69782 odlazak      01.05.26. 06:44, kolodvor IVANKOVO"
   }
 ]
