@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA",
-    "train_number": null,
-    "event_time": "2026-04-28T23:00:00",
-    "seen_at": "2026-04-28T12:52:07.293Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73160 KOPRIVNICA"
-  },
-  {
-    "uic": "927820440240",
     "type": "Formiran",
     "station": "KOPRIVNICA",
     "train_number": "89893",
@@ -9079,5 +9070,59 @@
     "event_time": "2026-05-01T14:41:00",
     "seen_at": "2026-05-01T12:42:27.443Z",
     "raw": "Br. Vlaka 63310 odlazak      01.05.26. 14:41, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48580",
+    "event_time": "2026-05-01T14:50:00",
+    "seen_at": "2026-05-01T12:54:13.930Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 14:50, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48580",
+    "event_time": "2026-05-01T14:50:00",
+    "seen_at": "2026-05-01T12:54:13.930Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 14:50, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-05-01T14:54:00",
+    "seen_at": "2026-05-01T12:54:37.262Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Rasformiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": null,
+    "event_time": "2026-05-01T14:54:00",
+    "seen_at": "2026-05-01T12:54:37.262Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-04-30T22:35:00",
+    "seen_at": "2026-05-01T12:55:24.133Z",
+    "raw": "Br. Vlaka 47944 formiran     30.04.26. 22:35, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "47944",
+    "event_time": "2026-04-30T22:35:00",
+    "seen_at": "2026-05-01T12:55:47.282Z",
+    "raw": "Br. Vlaka 47944 formiran     30.04.26. 22:35, kolodvor SAVSKI MAROF GRANICA"
   }
 ]
