@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894215638",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "89009",
-    "event_time": "2026-04-28T07:36:00",
-    "seen_at": "2026-04-28T05:37:09.416Z",
-    "raw": "Br. Vlaka 89009 formiran     28.04.26. 07:36, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-28T07:39:00",
-    "seen_at": "2026-04-28T05:39:28.909Z",
-    "raw": "Br. Vlaka 45105 odlazak      28.04.26. 07:39, kolodvor OTOK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "79931",
-    "event_time": "2026-04-28T07:40:00",
-    "seen_at": "2026-04-28T05:40:14.909Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 07:40, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-04-28T07:41:00",
-    "seen_at": "2026-04-28T05:41:24.565Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "71203",
-    "event_time": "2026-04-28T07:41:00",
-    "seen_at": "2026-04-28T05:41:52.273Z",
-    "raw": "Br. Vlaka 71203 formiran     28.04.26. 07:41, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "987891113316",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -9808,5 +9763,14 @@
     "event_time": "2026-05-01T07:26:00",
     "seen_at": "2026-05-01T05:29:47.790Z",
     "raw": "Br. Vlaka 47944 odlazak      01.05.26. 07:26, kolodvor 73164"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-05-01T07:39:00",
+    "seen_at": "2026-05-01T05:42:04.766Z",
+    "raw": "Br. Vlaka 45105 odlazak      01.05.26. 07:39, kolodvor SPAČVA"
   }
 ]
