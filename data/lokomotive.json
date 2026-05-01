@@ -9142,5 +9142,32 @@
     "event_time": "2026-05-01T15:30:00",
     "seen_at": "2026-05-01T13:32:25.470Z",
     "raw": "Br. Vlaka 63310 odlazak      01.05.26. 15:30, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63310",
+    "event_time": "2026-05-01T15:43:00",
+    "seen_at": "2026-05-01T13:44:03.028Z",
+    "raw": "Br. Vlaka 63310 dolazak      01.05.26. 15:43, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "RUDOPOLJE",
+    "train_number": null,
+    "event_time": "2026-05-01T15:13:00",
+    "seen_at": "2026-05-01T13:44:25.751Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "RUDOPOLJE",
+    "train_number": "69177",
+    "event_time": "2026-05-01T13:15:00",
+    "seen_at": "2026-05-01T13:44:49.528Z",
+    "raw": "Br. Vlaka 69177 formiran     01.05.26. 13:15, kolodvor RUDOPOLJE"
   }
 ]
