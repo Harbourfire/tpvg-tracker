@@ -2,51 +2,6 @@
   {
     "uic": "927820622037",
     "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "69613",
-    "event_time": "2026-04-28T10:26:00",
-    "seen_at": "2026-04-28T08:27:05.511Z",
-    "raw": "Br. Vlaka 69613 odlazak      28.04.26. 10:26, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81971",
-    "event_time": "2026-04-28T10:26:00",
-    "seen_at": "2026-04-28T08:28:09.622Z",
-    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 10:26, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81971",
-    "event_time": "2026-04-28T10:26:00",
-    "seen_at": "2026-04-28T08:28:09.622Z",
-    "raw": "Br. Vlaka 81971 odlazak      28.04.26. 10:26, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "KOTORIBA-GR",
-    "train_number": null,
-    "event_time": "2026-04-28T10:29:00",
-    "seen_at": "2026-04-28T08:31:00.802Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74809 KOTORIBA-GR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "69613",
-    "event_time": "2026-04-28T10:33:00",
-    "seen_at": "2026-04-28T08:34:34.817Z",
-    "raw": "Br. Vlaka 69613 odlazak      28.04.26. 10:33, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
     "station": "ZAGREB RESNIK",
     "train_number": "69613",
     "event_time": "2026-04-28T10:38:00",
@@ -9286,5 +9241,32 @@
     "event_time": "2026-05-01T10:25:00",
     "seen_at": "2026-05-01T08:25:48.112Z",
     "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:25, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "BELI MANASTIR-GR",
+    "train_number": "42999",
+    "event_time": "2026-05-01T10:04:00",
+    "seen_at": "2026-05-01T08:27:40.330Z",
+    "raw": "Br. Vlaka 42999 formiran     01.05.26. 10:04, kolodvor BELI MANASTIR-GR"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "44795",
+    "event_time": "2026-05-01T10:29:00",
+    "seen_at": "2026-05-01T08:30:04.613Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 10:29, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-05-01T10:32:00",
+    "seen_at": "2026-05-01T08:35:57.920Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
   }
 ]
