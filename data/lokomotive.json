@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-29T00:47:00",
-    "seen_at": "2026-04-28T22:47:57.140Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 00:47, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-29T00:47:00",
-    "seen_at": "2026-04-28T22:47:57.140Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 00:47, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
     "train_number": "63305",
     "event_time": "2026-04-29T01:00:00",
@@ -9520,5 +9502,14 @@
     "event_time": "2026-05-02T00:25:00",
     "seen_at": "2026-05-01T22:28:00.142Z",
     "raw": "Br. Vlaka 47998 odlazak      02.05.26. 00:25, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "47998",
+    "event_time": "2026-05-02T00:41:00",
+    "seen_at": "2026-05-01T22:41:38.003Z",
+    "raw": "Br. Vlaka 47998 odlazak      02.05.26. 00:41, kolodvor 73164"
   }
 ]
