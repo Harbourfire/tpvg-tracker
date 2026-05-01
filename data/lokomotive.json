@@ -1,33 +1,6 @@
 [
   {
     "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DARDA",
-    "train_number": "69771",
-    "event_time": "2026-04-28T14:14:00",
-    "seen_at": "2026-04-28T12:14:56.661Z",
-    "raw": "Br. Vlaka 69771 odlazak      28.04.26. 14:14, kolodvor DARDA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "NOVA GRADIŠKA",
-    "train_number": "83808",
-    "event_time": "2026-04-28T14:14:00",
-    "seen_at": "2026-04-28T12:15:19.977Z",
-    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 14:14, kolodvor NOVA GRADIŠKA"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76501",
-    "event_time": "2026-04-28T14:17:00",
-    "seen_at": "2026-04-28T12:18:31.581Z",
-    "raw": "Br. Vlaka 76501 odlazak      28.04.26. 14:17, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820620189",
     "type": "Dolazak",
     "station": "OSIJEK",
     "train_number": "69771",
@@ -9079,5 +9052,23 @@
     "event_time": "2026-05-01T14:04:00",
     "seen_at": "2026-05-01T12:05:02.219Z",
     "raw": "Br. Vlaka 46657 odlazak      01.05.26. 14:04, kolodvor KUKAČA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "46657",
+    "event_time": "2026-05-01T14:10:00",
+    "seen_at": "2026-05-01T12:11:35.485Z",
+    "raw": "Br. Vlaka 46657 dolazak      01.05.26. 14:10, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-05-01T14:10:00",
+    "seen_at": "2026-05-01T12:11:59.292Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
