@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "ČAKOVEC",
-    "train_number": "89923",
-    "event_time": "2026-04-28T12:57:00",
-    "seen_at": "2026-04-28T10:57:21.420Z",
-    "raw": "Br. Vlaka 89923 dolazak      28.04.26. 12:57, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "89721",
-    "event_time": "2026-04-28T12:59:00",
-    "seen_at": "2026-04-28T11:01:18.594Z",
-    "raw": "Br. Vlaka 89721 odlazak      28.04.26. 12:59, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820621104",
     "type": "Odlazak",
     "station": "POŽEGA",
@@ -9043,5 +9025,41 @@
     "event_time": "2026-05-01T12:51:00",
     "seen_at": "2026-05-01T10:52:28.097Z",
     "raw": "Br. Vlaka 82503 odlazak      01.05.26. 12:51, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "44795",
+    "event_time": "2026-05-01T12:19:00",
+    "seen_at": "2026-05-01T10:57:06.777Z",
+    "raw": "Br. Vlaka 44795 dolazak      01.05.26. 12:19, kolodvor 72303"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DRAGANIĆI",
+    "train_number": "46657",
+    "event_time": "2026-05-01T12:57:00",
+    "seen_at": "2026-05-01T10:59:06.035Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 12:57, kolodvor DRAGANIĆI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:43:00",
+    "seen_at": "2026-05-01T11:02:39.548Z",
+    "raw": "Br. Vlaka 48580 dolazak      01.05.26. 12:43, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:43:00",
+    "seen_at": "2026-05-01T11:02:39.549Z",
+    "raw": "Br. Vlaka 48580 dolazak      01.05.26. 12:43, kolodvor SAVSKI MAROF"
   }
 ]
