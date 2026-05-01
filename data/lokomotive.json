@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:42:00",
-    "seen_at": "2026-04-28T07:42:23.566Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:42, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:42:00",
-    "seen_at": "2026-04-28T07:42:23.567Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:42, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-28T09:44:00",
-    "seen_at": "2026-04-28T07:45:08.092Z",
-    "raw": "Br. Vlaka 69175 odlazak      28.04.26. 09:44, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-28T09:44:00",
-    "seen_at": "2026-04-28T07:45:08.093Z",
-    "raw": "Br. Vlaka 69175 odlazak      28.04.26. 09:44, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "82107",
-    "event_time": "2026-04-28T09:27:00",
-    "seen_at": "2026-04-28T07:47:07.117Z",
-    "raw": "Br. Vlaka 82107 dolazak      28.04.26. 09:27, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:47:00",
-    "seen_at": "2026-04-28T07:47:30.721Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:47, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:47:00",
-    "seen_at": "2026-04-28T07:47:30.722Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:47, kolodvor ZAPREŠIĆ"
-  },
-  {
     "uic": "927820621104",
     "type": "Rasformiran",
     "station": "VELIKA",
@@ -9376,5 +9313,41 @@
     "event_time": "2026-05-01T09:34:00",
     "seen_at": "2026-05-01T07:35:11.105Z",
     "raw": "Br. Vlaka 69006 odlazak      01.05.26. 09:34, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OGULIN",
+    "train_number": null,
+    "event_time": "2026-05-01T09:40:00",
+    "seen_at": "2026-05-01T07:40:49.529Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "44795",
+    "event_time": "2026-05-01T09:38:00",
+    "seen_at": "2026-05-01T07:41:13.320Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 09:38, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-01T08:50:00",
+    "seen_at": "2026-05-01T07:42:22.680Z",
+    "raw": "Br. Vlaka 69005 formiran     01.05.26. 08:50, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "48582",
+    "event_time": "2026-05-01T09:40:00",
+    "seen_at": "2026-05-01T07:46:39.055Z",
+    "raw": "Br. Vlaka 48582 odlazak      01.05.26. 09:40, kolodvor ĐAKOVO"
   }
 ]
