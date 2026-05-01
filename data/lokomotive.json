@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987821323118",
-    "type": "Dolazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "89721",
-    "event_time": "2026-04-28T13:23:00",
-    "seen_at": "2026-04-28T11:23:46.270Z",
-    "raw": "Br. Vlaka 89721 dolazak      28.04.26. 13:23, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "83808",
-    "event_time": "2026-04-28T13:22:00",
-    "seen_at": "2026-04-28T11:24:32.677Z",
-    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 13:22, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-28T13:23:00",
-    "seen_at": "2026-04-28T11:24:32.678Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "927820620247",
     "type": "Odlazak",
     "station": "ČAKOVEC",
@@ -9088,5 +9061,32 @@
     "event_time": "2026-05-01T13:20:00",
     "seen_at": "2026-05-01T11:21:54.153Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-28T13:23:00",
+    "seen_at": "2026-05-01T11:25:13.683Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "63310",
+    "event_time": "2026-05-01T13:27:00",
+    "seen_at": "2026-05-01T11:27:58.381Z",
+    "raw": "Br. Vlaka 63310 formiran     01.05.26. 13:27, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "DUGA RESA",
+    "train_number": "46657",
+    "event_time": "2026-05-01T13:27:00",
+    "seen_at": "2026-05-01T11:29:07.989Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 13:27, kolodvor DUGA RESA"
   }
 ]
