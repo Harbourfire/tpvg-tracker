@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-28T14:43:00",
-    "seen_at": "2026-04-28T12:43:26.174Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "927820440240",
     "type": "Rasformiran",
     "station": "KOPRIVNICA",
@@ -9079,5 +9070,14 @@
     "event_time": "2026-05-01T14:25:00",
     "seen_at": "2026-05-01T12:28:14.420Z",
     "raw": "Br. Vlaka 63310 odlazak      01.05.26. 14:25, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63310",
+    "event_time": "2026-05-01T14:41:00",
+    "seen_at": "2026-05-01T12:42:27.443Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.05.26. 14:41, kolodvor PERUŠIĆ"
   }
 ]
