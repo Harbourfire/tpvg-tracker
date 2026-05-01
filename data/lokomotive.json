@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-28T17:27:00",
-    "seen_at": "2026-04-28T15:29:47.223Z",
-    "raw": "Br. Vlaka 63310 dolazak      28.04.26. 17:27, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63310",
-    "event_time": "2026-04-28T17:27:00",
-    "seen_at": "2026-04-28T15:29:47.223Z",
-    "raw": "Br. Vlaka 63310 dolazak      28.04.26. 17:27, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
     "train_number": "63310",
@@ -9394,5 +9376,14 @@
     "event_time": "2026-05-01T17:22:00",
     "seen_at": "2026-05-01T15:24:02.524Z",
     "raw": "Br. Vlaka 63310 odlazak      01.05.26. 17:22, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63310",
+    "event_time": "2026-05-01T17:32:00",
+    "seen_at": "2026-05-01T15:32:52.366Z",
+    "raw": "Br. Vlaka 63310 odlazak      01.05.26. 17:32, kolodvor BLATA"
   }
 ]
