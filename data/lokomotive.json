@@ -1,68 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-28T02:16:00",
-    "seen_at": "2026-04-28T00:16:56.689Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:16, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "63306",
-    "event_time": "2026-04-28T02:16:00",
-    "seen_at": "2026-04-28T00:16:56.689Z",
-    "raw": "Br. Vlaka 63306 odlazak      28.04.26. 02:16, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "81970",
-    "event_time": "2026-04-28T02:17:00",
-    "seen_at": "2026-04-28T00:18:28.537Z",
-    "raw": "Br. Vlaka 81970 dolazak      28.04.26. 02:17, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "81970",
-    "event_time": "2026-04-28T02:17:00",
-    "seen_at": "2026-04-28T00:18:28.538Z",
-    "raw": "Br. Vlaka 81970 dolazak      28.04.26. 02:17, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-28T01:00:00",
-    "seen_at": "2026-04-28T00:21:19.733Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-28T01:00:00",
-    "seen_at": "2026-04-28T00:21:19.734Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Odlazak",
-    "station": "TURČIN",
-    "train_number": "82104",
-    "event_time": "2026-04-28T02:23:00",
-    "seen_at": "2026-04-28T00:25:30.810Z",
-    "raw": "Br. Vlaka 82104 odlazak      28.04.26. 02:23, kolodvor TURČIN"
-  },
-  {
     "uic": "927820620171",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -9817,5 +9754,23 @@
     "event_time": "2026-05-01T02:02:00",
     "seen_at": "2026-05-01T00:15:49.693Z",
     "raw": "Br. Vlaka 47944 dolazak      01.05.26. 02:02, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "47944",
+    "event_time": "2026-05-01T02:17:00",
+    "seen_at": "2026-05-01T00:23:54.140Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 02:17, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "47944",
+    "event_time": "2026-05-01T02:24:00",
+    "seen_at": "2026-05-01T00:24:17.519Z",
+    "raw": "Br. Vlaka 47944 dolazak      01.05.26. 02:24, kolodvor SESVETE"
   }
 ]
