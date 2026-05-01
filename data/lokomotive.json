@@ -1,33 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "79931",
-    "event_time": "2026-04-28T04:01:00",
-    "seen_at": "2026-04-28T02:21:19.837Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:01, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "79931",
-    "event_time": "2026-04-28T04:09:00",
-    "seen_at": "2026-04-28T02:22:05.778Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:09, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "79931",
-    "event_time": "2026-04-28T04:25:00",
-    "seen_at": "2026-04-28T02:26:52.080Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 04:25, kolodvor SESVETE"
-  },
-  {
-    "uic": "987890033630",
     "type": "Dolazak",
     "station": "DUGO SELO",
     "train_number": "79931",
@@ -9826,5 +9799,14 @@
     "event_time": "2026-05-01T04:19:00",
     "seen_at": "2026-05-01T02:21:12.877Z",
     "raw": "Trenutna pozicija je u kolodvoru 76011 VRHOVINE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "VRHOVINE",
+    "train_number": "63308",
+    "event_time": "2026-05-01T00:15:00",
+    "seen_at": "2026-05-01T02:21:57.410Z",
+    "raw": "Br. Vlaka 63308 formiran     01.05.26. 00:15, kolodvor VRHOVINE"
   }
 ]
