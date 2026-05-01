@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69613",
-    "event_time": "2026-04-28T09:11:00",
-    "seen_at": "2026-04-28T07:11:30.392Z",
-    "raw": "Br. Vlaka 69613 formiran     28.04.26. 09:11, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82107",
-    "event_time": "2026-04-28T09:11:00",
-    "seen_at": "2026-04-28T07:11:54.089Z",
-    "raw": "Br. Vlaka 82107 odlazak      28.04.26. 09:11, kolodvor POŽEGA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "79931",
-    "event_time": "2026-04-28T09:07:00",
-    "seen_at": "2026-04-28T07:12:17.872Z",
-    "raw": "Br. Vlaka 79931 dolazak      28.04.26. 09:07, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-28T09:07:00",
-    "seen_at": "2026-04-28T07:12:41.821Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "89009",
-    "event_time": "2026-04-28T09:11:00",
-    "seen_at": "2026-04-28T07:13:54.804Z",
-    "raw": "Br. Vlaka 89009 dolazak      28.04.26. 09:11, kolodvor 72304"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-04-28T09:13:00",
-    "seen_at": "2026-04-28T07:14:18.781Z",
-    "raw": "Br. Vlaka 45104 formiran     28.04.26. 09:13, kolodvor 71308"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-28T09:11:00",
-    "seen_at": "2026-04-28T07:14:18.783Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:16:00",
-    "seen_at": "2026-04-28T07:17:05.225Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:16, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "48799",
-    "event_time": "2026-04-28T09:16:00",
-    "seen_at": "2026-04-28T07:17:05.226Z",
-    "raw": "Br. Vlaka 48799 odlazak      28.04.26. 09:16, kolodvor ZAGREB KLARA"
-  },
-  {
     "uic": "987890033630",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -9412,5 +9331,50 @@
     "event_time": "2026-04-28T09:05:00",
     "seen_at": "2026-05-01T07:09:12.108Z",
     "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "89870",
+    "event_time": "2026-05-01T09:09:00",
+    "seen_at": "2026-05-01T07:10:19.694Z",
+    "raw": "Br. Vlaka 89870 dolazak      01.05.26. 09:09, kolodvor 73164"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-05-01T09:09:00",
+    "seen_at": "2026-05-01T07:10:43.402Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "41990",
+    "event_time": "2026-05-01T09:13:00",
+    "seen_at": "2026-05-01T07:14:13.969Z",
+    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 09:13, kolodvor 72302"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-05-01T07:15:00.093Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "44795",
+    "event_time": "2026-05-01T09:12:00",
+    "seen_at": "2026-05-01T07:15:46.234Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 09:12, kolodvor 73164"
   }
 ]
