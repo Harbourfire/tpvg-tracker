@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "89923",
-    "event_time": "2026-04-28T13:35:00",
-    "seen_at": "2026-04-28T11:35:46.859Z",
-    "raw": "Br. Vlaka 89923 odlazak      28.04.26. 13:35, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620247",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
     "train_number": null,
@@ -9088,5 +9079,14 @@
     "event_time": "2026-05-01T13:27:00",
     "seen_at": "2026-05-01T11:29:07.989Z",
     "raw": "Br. Vlaka 46657 odlazak      01.05.26. 13:27, kolodvor DUGA RESA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZVEČAJ",
+    "train_number": "46657",
+    "event_time": "2026-05-01T13:38:00",
+    "seen_at": "2026-05-01T11:39:12.107Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 13:38, kolodvor ZVEČAJ"
   }
 ]
