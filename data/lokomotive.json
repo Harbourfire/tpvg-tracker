@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "79933",
-    "event_time": "2026-04-28T09:27:00",
-    "seen_at": "2026-04-28T07:28:13.776Z",
-    "raw": "Br. Vlaka 79933 formiran     28.04.26. 09:27, kolodvor VINKOVCI"
-  },
-  {
     "uic": "927820440141",
     "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
@@ -9376,5 +9367,23 @@
     "event_time": "2026-05-01T09:12:00",
     "seen_at": "2026-05-01T07:15:46.234Z",
     "raw": "Br. Vlaka 44795 odlazak      01.05.26. 09:12, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "41990",
+    "event_time": "2026-05-01T09:20:00",
+    "seen_at": "2026-05-01T07:24:29.590Z",
+    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 09:20, kolodvor ZAGREB RESNIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "ĐAKOVO",
+    "train_number": "48582",
+    "event_time": "2026-05-01T09:25:00",
+    "seen_at": "2026-05-01T07:25:39.090Z",
+    "raw": "Br. Vlaka 48582 formiran     01.05.26. 09:25, kolodvor ĐAKOVO"
   }
 ]
