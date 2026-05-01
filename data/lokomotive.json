@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-29T00:21:00",
-    "seen_at": "2026-04-28T22:23:03.190Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 00:21, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKA JESENICA",
-    "train_number": "63305",
-    "event_time": "2026-04-29T00:21:00",
-    "seen_at": "2026-04-28T22:23:03.190Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 00:21, kolodvor LIČKA JESENICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "RUDOPOLJE",
     "train_number": "63305",
     "event_time": "2026-04-29T00:40:00",
@@ -9529,5 +9511,32 @@
     "event_time": "2026-05-02T00:12:00",
     "seen_at": "2026-05-01T22:13:19.130Z",
     "raw": "Br. Vlaka 47998 odlazak      02.05.26. 00:12, kolodvor BREGI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47998",
+    "event_time": "2026-05-02T00:22:00",
+    "seen_at": "2026-05-01T22:22:33.253Z",
+    "raw": "Br. Vlaka 47998 dolazak      02.05.26. 00:22, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "81222",
+    "event_time": "2026-05-02T00:25:00",
+    "seen_at": "2026-05-01T22:27:36.368Z",
+    "raw": "Br. Vlaka 81222 odlazak      02.05.26. 00:25, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47998",
+    "event_time": "2026-05-02T00:25:00",
+    "seen_at": "2026-05-01T22:28:00.142Z",
+    "raw": "Br. Vlaka 47998 odlazak      02.05.26. 00:25, kolodvor KOPRIVNICA"
   }
 ]
