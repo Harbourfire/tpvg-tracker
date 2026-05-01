@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891162040",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "71203",
-    "event_time": "2026-04-28T09:57:00",
-    "seen_at": "2026-04-28T07:58:15.558Z",
-    "raw": "Br. Vlaka 71203 odlazak      28.04.26. 09:57, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "SPAČVA",
-    "train_number": "79933",
-    "event_time": "2026-04-28T10:03:00",
-    "seen_at": "2026-04-28T08:04:52.900Z",
-    "raw": "Br. Vlaka 79933 dolazak      28.04.26. 10:03, kolodvor SPAČVA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-28T23:29:00",
-    "seen_at": "2026-04-28T08:05:40.589Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89251",
-    "event_time": "2026-04-28T08:49:00",
-    "seen_at": "2026-04-28T08:06:04.445Z",
-    "raw": "Br. Vlaka 89251 formiran     28.04.26. 08:49, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Formiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": "69613",
-    "event_time": "2026-04-28T10:05:00",
-    "seen_at": "2026-04-28T08:06:04.445Z",
-    "raw": "Br. Vlaka 69613 formiran     28.04.26. 10:05, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "89251",
-    "event_time": "2026-04-28T08:49:00",
-    "seen_at": "2026-04-28T08:06:28.417Z",
-    "raw": "Br. Vlaka 89251 formiran     28.04.26. 08:49, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Formiran",
     "station": "ZAGREB RESNIK",
@@ -9286,5 +9232,68 @@
     "event_time": "2026-05-01T09:51:00",
     "seen_at": "2026-05-01T07:51:34.857Z",
     "raw": "Br. Vlaka 44795 odlazak      01.05.26. 09:51, kolodvor MUČNA REKA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "48582",
+    "event_time": "2026-05-01T09:57:00",
+    "seen_at": "2026-05-01T07:59:16.880Z",
+    "raw": "Br. Vlaka 48582 dolazak      01.05.26. 09:57, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "SESVETE",
+    "train_number": "41990",
+    "event_time": "2026-05-01T09:57:00",
+    "seen_at": "2026-05-01T08:01:15.537Z",
+    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 09:57, kolodvor SESVETE"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "LEPAVINA",
+    "train_number": "44795",
+    "event_time": "2026-05-01T10:01:00",
+    "seen_at": "2026-05-01T08:02:02.518Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 10:01, kolodvor LEPAVINA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-05-01T09:00:00",
+    "seen_at": "2026-05-01T08:04:23.212Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "69783",
+    "event_time": "2026-05-01T09:12:00",
+    "seen_at": "2026-05-01T08:04:46.928Z",
+    "raw": "Br. Vlaka 69783 formiran     01.05.26. 09:12, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "BELI MANASTIR-GR",
+    "train_number": "42999",
+    "event_time": "2026-05-01T10:04:00",
+    "seen_at": "2026-05-01T08:04:46.929Z",
+    "raw": "Br. Vlaka 42999 formiran     01.05.26. 10:04, kolodvor BELI MANASTIR-GR"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR-GR",
+    "train_number": null,
+    "event_time": "2026-05-01T15:10:00",
+    "seen_at": "2026-05-01T08:05:10.239Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71706 BELI MANASTIR-GR"
   }
 ]
