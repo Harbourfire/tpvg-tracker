@@ -1,86 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "79931",
-    "event_time": "2026-04-28T08:55:00",
-    "seen_at": "2026-04-28T07:01:56.689Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 08:55, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82107",
-    "event_time": "2026-04-28T09:01:00",
-    "seen_at": "2026-04-28T07:02:21.085Z",
-    "raw": "Br. Vlaka 82107 odlazak      28.04.26. 09:01, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "47988",
-    "event_time": "2026-04-28T09:03:00",
-    "seen_at": "2026-04-28T07:04:20.330Z",
-    "raw": "Br. Vlaka 47988 dolazak      28.04.26. 09:03, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Dolazak",
-    "station": "ZAPREŠIĆ",
-    "train_number": "81286",
-    "event_time": "2026-04-28T09:00:00",
-    "seen_at": "2026-04-28T07:05:56.800Z",
-    "raw": "Br. Vlaka 81286 dolazak      28.04.26. 09:00, kolodvor ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-28T09:00:00",
-    "seen_at": "2026-04-28T07:06:21.108Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89009",
-    "event_time": "2026-04-28T09:06:00",
-    "seen_at": "2026-04-28T07:07:09.206Z",
-    "raw": "Br. Vlaka 89009 odlazak      28.04.26. 09:06, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR",
-    "train_number": null,
-    "event_time": "2026-04-28T03:30:00",
-    "seen_at": "2026-04-28T07:07:56.793Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "BELI MANASTIR",
-    "train_number": "69771",
-    "event_time": "2026-04-28T06:36:00",
-    "seen_at": "2026-04-28T07:08:20.741Z",
-    "raw": "Br. Vlaka 69771 formiran     28.04.26. 06:36, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "987891032151",
-    "type": "Rasformiran",
-    "station": "VRBOVEC",
-    "train_number": null,
-    "event_time": "2026-04-28T09:05:00",
-    "seen_at": "2026-04-28T07:08:45.018Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
-  },
-  {
     "uic": "927820622037",
     "type": "Formiran",
     "station": "ZAPREŠIĆ",
@@ -9466,5 +9385,32 @@
     "event_time": "2026-05-01T08:51:00",
     "seen_at": "2026-05-01T06:56:40.528Z",
     "raw": "Br. Vlaka 69006 formiran     01.05.26. 08:51, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "89870",
+    "event_time": "2026-05-01T09:04:00",
+    "seen_at": "2026-05-01T07:04:48.957Z",
+    "raw": "Br. Vlaka 89870 odlazak      01.05.26. 09:04, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "41990",
+    "event_time": "2026-05-01T09:05:00",
+    "seen_at": "2026-05-01T07:06:25.490Z",
+    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 09:05, kolodvor 72303"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "VRBOVEC",
+    "train_number": null,
+    "event_time": "2026-04-28T09:05:00",
+    "seen_at": "2026-05-01T07:09:12.108Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
   }
 ]
