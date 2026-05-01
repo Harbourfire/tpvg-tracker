@@ -1,68 +1,5 @@
 [
   {
-    "uic": "987891032094",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "71101",
-    "event_time": "2026-04-28T11:35:00",
-    "seen_at": "2026-04-28T09:35:42.742Z",
-    "raw": "Br. Vlaka 71101 odlazak      28.04.26. 11:35, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "79932",
-    "event_time": "2026-04-28T11:34:00",
-    "seen_at": "2026-04-28T09:37:11.274Z",
-    "raw": "Br. Vlaka 79932 odlazak      28.04.26. 11:34, kolodvor OTOK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-04-28T11:35:00",
-    "seen_at": "2026-04-28T09:38:45.112Z",
-    "raw": "Br. Vlaka 45104 odlazak      28.04.26. 11:35, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-28T11:38:00",
-    "seen_at": "2026-04-28T09:38:45.112Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": null,
-    "event_time": "2026-04-28T11:38:00",
-    "seen_at": "2026-04-28T09:38:45.113Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72301 ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "83808",
-    "event_time": "2026-04-28T11:35:00",
-    "seen_at": "2026-04-28T09:42:17.868Z",
-    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 11:35, kolodvor VELIKA"
-  },
-  {
-    "uic": "987891032094",
-    "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "71101",
-    "event_time": "2026-04-28T11:42:00",
-    "seen_at": "2026-04-28T09:42:17.869Z",
-    "raw": "Br. Vlaka 71101 odlazak      28.04.26. 11:42, kolodvor LIPOVLJANI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "LIČKO LEŠĆE",
@@ -9097,5 +9034,59 @@
     "event_time": "2026-05-01T11:30:00",
     "seen_at": "2026-05-01T09:31:37.182Z",
     "raw": "Br. Vlaka 82503 odlazak      01.05.26. 11:30, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "DUGO SELO",
+    "train_number": "44795",
+    "event_time": "2026-05-01T11:33:00",
+    "seen_at": "2026-05-01T09:35:45.303Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 11:33, kolodvor DUGO SELO"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF granica",
+    "train_number": "46657",
+    "event_time": "2026-05-01T11:30:00",
+    "seen_at": "2026-05-01T09:35:45.304Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 11:30, kolodvor SAVSKI MAROF GRANICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "46657",
+    "event_time": "2026-05-01T11:34:00",
+    "seen_at": "2026-05-01T09:36:09.466Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 11:34, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45104",
+    "event_time": "2026-05-01T11:40:00",
+    "seen_at": "2026-05-01T09:40:50.096Z",
+    "raw": "Br. Vlaka 45104 odlazak      01.05.26. 11:40, kolodvor OTOK"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "46657",
+    "event_time": "2026-05-01T11:39:00",
+    "seen_at": "2026-05-01T09:40:50.097Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 11:39, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "46657",
+    "event_time": "2026-05-01T11:43:00",
+    "seen_at": "2026-05-01T09:43:55.850Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 11:43, kolodvor PODSUSED tvornica"
   }
 ]
