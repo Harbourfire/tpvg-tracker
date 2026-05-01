@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "81286",
-    "event_time": "2026-04-28T08:03:00",
-    "seen_at": "2026-04-28T06:04:12.228Z",
-    "raw": "Br. Vlaka 81286 odlazak      28.04.26. 08:03, kolodvor 72303"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "79931",
-    "event_time": "2026-04-28T08:03:00",
-    "seen_at": "2026-04-28T06:05:21.159Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 08:03, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "47988",
-    "event_time": "2026-04-28T07:58:00",
-    "seen_at": "2026-04-28T06:06:07.009Z",
-    "raw": "Br. Vlaka 47988 odlazak      28.04.26. 07:58, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-28T08:09:00",
-    "seen_at": "2026-04-28T06:09:58.054Z",
-    "raw": "Br. Vlaka 45105 dolazak      28.04.26. 08:09, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": "81286",
-    "event_time": "2026-04-28T08:09:00",
-    "seen_at": "2026-04-28T06:11:07.929Z",
-    "raw": "Br. Vlaka 81286 odlazak      28.04.26. 08:09, kolodvor 72304"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "SLAVONSKI BROD",
@@ -9745,5 +9700,23 @@
     "event_time": "2026-04-30T23:54:00",
     "seen_at": "2026-05-01T05:50:56.892Z",
     "raw": "Br. Vlaka 89870 formiran     30.04.26. 23:54, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "44795",
+    "event_time": "2026-05-01T08:02:00",
+    "seen_at": "2026-05-01T06:04:49.061Z",
+    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 08:02, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-05-01T07:57:00",
+    "seen_at": "2026-05-01T06:06:44.813Z",
+    "raw": "Br. Vlaka 45105 dolazak      01.05.26. 07:57, kolodvor DRENOVCI"
   }
 ]
