@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA-GR",
-    "train_number": "89923",
-    "event_time": "2026-04-28T12:26:00",
-    "seen_at": "2026-04-28T10:34:46.226Z",
-    "raw": "Br. Vlaka 89923 odlazak      28.04.26. 12:26, kolodvor KOTORIBA-GR"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "89923",
-    "event_time": "2026-04-28T12:30:00",
-    "seen_at": "2026-04-28T10:35:09.481Z",
-    "raw": "Br. Vlaka 89923 dolazak      28.04.26. 12:30, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "KOTORIBA",
-    "train_number": "89923",
-    "event_time": "2026-04-28T12:31:00",
-    "seen_at": "2026-04-28T10:35:55.235Z",
-    "raw": "Br. Vlaka 89923 odlazak      28.04.26. 12:31, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "JANKOVCI",
-    "train_number": "79934",
-    "event_time": "2026-04-28T12:37:00",
-    "seen_at": "2026-04-28T10:37:27.870Z",
-    "raw": "Br. Vlaka 79934 odlazak      28.04.26. 12:37, kolodvor JANKOVCI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-28T12:38:00",
-    "seen_at": "2026-04-28T10:39:45.075Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820620247",
-    "type": "Odlazak",
-    "station": "DONJI KRALJEVEC",
-    "train_number": "89923",
-    "event_time": "2026-04-28T12:42:00",
-    "seen_at": "2026-04-28T10:42:50.871Z",
-    "raw": "Br. Vlaka 89923 odlazak      28.04.26. 12:42, kolodvor DONJI KRALJEVEC"
-  },
-  {
     "uic": "987890033630",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -9034,5 +8980,86 @@
     "event_time": "2026-05-01T12:31:00",
     "seen_at": "2026-05-01T10:31:26.902Z",
     "raw": "Br. Vlaka 82503 odlazak      01.05.26. 12:31, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:34:00",
+    "seen_at": "2026-05-01T10:35:16.391Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:34, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "PODSUSED tvornica",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:34:00",
+    "seen_at": "2026-05-01T10:35:16.391Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:34, kolodvor PODSUSED tvornica"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:38:00",
+    "seen_at": "2026-05-01T10:38:57.616Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:38, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAPREŠIĆ",
+    "train_number": "48580",
+    "event_time": "2026-05-01T12:38:00",
+    "seen_at": "2026-05-01T10:38:57.616Z",
+    "raw": "Br. Vlaka 48580 odlazak      01.05.26. 12:38, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82503",
+    "event_time": "2026-05-01T12:38:00",
+    "seen_at": "2026-05-01T10:38:57.616Z",
+    "raw": "Br. Vlaka 82503 odlazak      01.05.26. 12:38, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "ZDENČINA",
+    "train_number": "46657",
+    "event_time": "2026-05-01T12:34:00",
+    "seen_at": "2026-05-01T10:40:10.313Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 12:34, kolodvor ZDENČINA"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "41990",
+    "event_time": "2026-05-01T12:37:00",
+    "seen_at": "2026-05-01T10:41:22.716Z",
+    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 12:37, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Dolazak",
+    "station": "KOPRIVNICA",
+    "train_number": "41990",
+    "event_time": "2026-05-01T12:37:00",
+    "seen_at": "2026-05-01T10:41:22.717Z",
+    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 12:37, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JASTREBARSKO",
+    "train_number": "46657",
+    "event_time": "2026-05-01T12:41:00",
+    "seen_at": "2026-05-01T10:41:22.718Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 12:41, kolodvor JASTREBARSKO"
   }
 ]
