@@ -2,24 +2,6 @@
   {
     "uic": "987890033630",
     "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "79931",
-    "event_time": "2026-04-28T03:47:00",
-    "seen_at": "2026-04-28T01:47:50.752Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 03:47, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "47988",
-    "event_time": "2026-04-28T03:50:00",
-    "seen_at": "2026-04-28T01:50:33.233Z",
-    "raw": "Br. Vlaka 47988 dolazak      28.04.26. 03:50, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
     "station": "ZAGREB GL. KOL.",
     "train_number": "79931",
     "event_time": "2026-04-28T04:01:00",
@@ -9745,5 +9727,32 @@
     "event_time": "2026-05-01T03:31:00",
     "seen_at": "2026-05-01T01:34:07.846Z",
     "raw": "Br. Vlaka 63306 odlazak      01.05.26. 03:31, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "VRBOVEC",
+    "train_number": "47944",
+    "event_time": "2026-05-01T03:43:00",
+    "seen_at": "2026-05-01T01:44:32.205Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 03:43, kolodvor VRBOVEC"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "47944",
+    "event_time": "2026-05-01T03:50:00",
+    "seen_at": "2026-05-01T01:50:18.991Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 03:50, kolodvor GRADEC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Promjena sastava",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-05-01T03:50:00",
+    "seen_at": "2026-05-01T01:52:15.035Z",
+    "raw": "Br. Vlaka 63306 promjena sas 01.05.26. 03:50, kolodvor VRHOVINE"
   }
 ]
