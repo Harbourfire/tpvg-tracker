@@ -2,15 +2,6 @@
   {
     "uic": "927820621104",
     "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "83808",
-    "event_time": "2026-04-28T13:02:00",
-    "seen_at": "2026-04-28T11:03:28.165Z",
-    "raw": "Br. Vlaka 83808 odlazak      28.04.26. 13:02, kolodvor POŽEGA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
     "train_number": "83808",
     "event_time": "2026-04-28T13:12:00",
@@ -9061,5 +9052,23 @@
     "event_time": "2026-05-01T12:43:00",
     "seen_at": "2026-05-01T11:02:39.549Z",
     "raw": "Br. Vlaka 48580 dolazak      01.05.26. 12:43, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "KARLOVAC",
+    "train_number": "46657",
+    "event_time": "2026-05-01T13:10:00",
+    "seen_at": "2026-05-01T11:10:16.710Z",
+    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 13:10, kolodvor KARLOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82503",
+    "event_time": "2026-05-01T13:09:00",
+    "seen_at": "2026-05-01T11:10:39.845Z",
+    "raw": "Br. Vlaka 82503 odlazak      01.05.26. 13:09, kolodvor PERUŠIĆ"
   }
 ]
