@@ -2,15 +2,6 @@
   {
     "uic": "987890033630",
     "type": "Odlazak",
-    "station": "MOSLAVAČKA GRAČENICA",
-    "train_number": "79931",
-    "event_time": "2026-04-28T06:12:00",
-    "seen_at": "2026-04-28T04:12:45.805Z",
-    "raw": "Br. Vlaka 79931 odlazak      28.04.26. 06:12, kolodvor MOSLAVAČKA GRAČENICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
     "station": "KUTINA",
     "train_number": "79931",
     "event_time": "2026-04-28T06:17:00",
@@ -9808,5 +9799,50 @@
     "event_time": "2026-05-01T06:00:00",
     "seen_at": "2026-05-01T04:00:35.454Z",
     "raw": "Br. Vlaka 47944 dolazak      01.05.26. 06:00, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-04-30T19:06:00",
+    "seen_at": "2026-05-01T04:08:22.841Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-05-01T06:09:00",
+    "seen_at": "2026-05-01T04:09:54.815Z",
+    "raw": "Br. Vlaka 63306 odlazak      01.05.26. 06:09, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "47944",
+    "event_time": "2026-05-01T06:14:00",
+    "seen_at": "2026-05-01T04:15:23.902Z",
+    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 06:14, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": null,
+    "event_time": "2026-05-01T06:06:00",
+    "seen_at": "2026-05-01T04:15:23.902Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-05-01T06:15:00",
+    "seen_at": "2026-05-01T04:16:11.576Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
