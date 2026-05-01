@@ -2,24 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-28T18:33:00",
-    "seen_at": "2026-04-28T16:34:25.792Z",
-    "raw": "Br. Vlaka 63310 odlazak      28.04.26. 18:33, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-28T18:33:00",
-    "seen_at": "2026-04-28T16:34:25.792Z",
-    "raw": "Br. Vlaka 63310 odlazak      28.04.26. 18:33, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63310",
     "event_time": "2026-04-28T18:45:00",
@@ -9349,5 +9331,32 @@
     "event_time": "2026-05-01T18:08:00",
     "seen_at": "2026-05-01T16:09:59.318Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-05-01T20:00:00",
+    "seen_at": "2026-05-01T16:34:00.979Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "89158",
+    "event_time": "2026-05-01T18:33:00",
+    "seen_at": "2026-05-01T16:34:25.144Z",
+    "raw": "Br. Vlaka 89158 formiran     01.05.26. 18:33, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "89196",
+    "event_time": "2026-05-01T18:33:00",
+    "seen_at": "2026-05-01T16:34:49.050Z",
+    "raw": "Br. Vlaka 89196 odlazak      01.05.26. 18:33, kolodvor KOPRIVNICA"
   }
 ]
