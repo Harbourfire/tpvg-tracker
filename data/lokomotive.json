@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-29T01:18:00",
-    "seen_at": "2026-04-28T23:19:37.980Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 01:18, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63305",
-    "event_time": "2026-04-29T01:18:00",
-    "seen_at": "2026-04-28T23:19:37.980Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 01:18, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230035",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
     "train_number": null,
@@ -9529,5 +9511,50 @@
     "event_time": "2026-05-02T01:07:00",
     "seen_at": "2026-05-01T23:07:44.627Z",
     "raw": "Br. Vlaka 81982 odlazak      02.05.26. 01:07, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81982",
+    "event_time": "2026-05-02T01:18:00",
+    "seen_at": "2026-05-01T23:20:15.852Z",
+    "raw": "Br. Vlaka 81982 odlazak      02.05.26. 01:18, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81982",
+    "event_time": "2026-05-02T01:18:00",
+    "seen_at": "2026-05-01T23:20:15.852Z",
+    "raw": "Br. Vlaka 81982 odlazak      02.05.26. 01:18, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "81222",
+    "event_time": "2026-05-02T01:12:00",
+    "seen_at": "2026-05-01T23:21:49.620Z",
+    "raw": "Br. Vlaka 81222 odlazak      02.05.26. 01:12, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "81222",
+    "event_time": "2026-05-02T01:24:00",
+    "seen_at": "2026-05-01T23:24:54.492Z",
+    "raw": "Br. Vlaka 81222 dolazak      02.05.26. 01:24, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": null,
+    "event_time": "2026-05-01T20:00:00",
+    "seen_at": "2026-05-01T23:26:28.625Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
   }
 ]
