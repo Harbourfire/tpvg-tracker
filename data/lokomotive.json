@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Formiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76512",
-    "event_time": "2026-04-29T05:07:00",
-    "seen_at": "2026-04-29T03:08:04.810Z",
-    "raw": "Br. Vlaka 76512 formiran     29.04.26. 05:07, kolodvor SLAVONSKI BROD"
-  },
-  {
     "uic": "987891162057",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -9457,5 +9448,14 @@
     "event_time": "2026-05-02T04:55:00",
     "seen_at": "2026-05-02T02:55:58.374Z",
     "raw": "Br. Vlaka 48799 odlazak      02.05.26. 04:55, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "MUČNA REKA",
+    "train_number": "48799",
+    "event_time": "2026-05-02T05:06:00",
+    "seen_at": "2026-05-02T03:06:21.450Z",
+    "raw": "Br. Vlaka 48799 odlazak      02.05.26. 05:06, kolodvor MUČNA REKA"
   }
 ]
