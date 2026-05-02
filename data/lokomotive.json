@@ -2,42 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "45999",
-    "event_time": "2026-04-29T03:32:00",
-    "seen_at": "2026-04-29T01:37:20.605Z",
-    "raw": "Br. Vlaka 45999 odlazak      29.04.26. 03:32, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "45999",
-    "event_time": "2026-04-29T03:32:00",
-    "seen_at": "2026-04-29T01:37:20.605Z",
-    "raw": "Br. Vlaka 45999 odlazak      29.04.26. 03:32, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81972",
-    "event_time": "2026-04-29T03:37:00",
-    "seen_at": "2026-04-29T01:38:05.888Z",
-    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 03:37, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "81972",
-    "event_time": "2026-04-29T03:37:00",
-    "seen_at": "2026-04-29T01:38:05.888Z",
-    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 03:37, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "NOVO DRNJE",
     "train_number": "45999",
     "event_time": "2026-04-29T03:39:00",
@@ -9583,5 +9547,23 @@
     "event_time": "2026-05-02T02:58:00",
     "seen_at": "2026-05-02T00:59:21.259Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA GR    A",
+    "train_number": "48799",
+    "event_time": "2026-05-02T03:30:00",
+    "seen_at": "2026-05-02T01:40:54.645Z",
+    "raw": "Br. Vlaka 48799 odlazak      02.05.26. 03:30, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48799",
+    "event_time": "2026-05-02T03:41:00",
+    "seen_at": "2026-05-02T01:41:41.214Z",
+    "raw": "Br. Vlaka 48799 dolazak      02.05.26. 03:41, kolodvor 73164"
   }
 ]
