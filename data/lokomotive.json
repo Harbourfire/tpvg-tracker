@@ -1,24 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ŽUPANJA",
-    "train_number": null,
-    "event_time": "2026-04-29T12:25:00",
-    "seen_at": "2026-04-29T10:26:21.591Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "79922",
-    "event_time": "2026-04-29T12:26:00",
-    "seen_at": "2026-04-29T10:29:27.228Z",
-    "raw": "Br. Vlaka 79922 formiran     29.04.26. 12:26, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "987890033630",
     "type": "Odlazak",
     "station": "ŽUPANJA",
     "train_number": "79922",
@@ -8944,5 +8926,14 @@
     "event_time": "2026-05-02T12:13:00",
     "seen_at": "2026-05-02T10:17:02.102Z",
     "raw": "Br. Vlaka 48799 dolazak      02.05.26. 12:13, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-05-02T12:29:00",
+    "seen_at": "2026-05-02T10:29:19.047Z",
+    "raw": "Br. Vlaka 45104 formiran     02.05.26. 12:29, kolodvor 71308"
   }
 ]
