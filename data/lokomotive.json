@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-29T12:57:00",
-    "seen_at": "2026-04-29T10:57:28.784Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "PERUŠIĆ",
@@ -8899,5 +8890,41 @@
     "event_time": "2026-05-02T12:50:00",
     "seen_at": "2026-05-02T10:50:31.717Z",
     "raw": "Br. Vlaka 45104 odlazak      02.05.26. 12:50, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB ŽITNJAK",
+    "train_number": "81191",
+    "event_time": "2026-05-02T12:54:00",
+    "seen_at": "2026-05-02T10:56:56.711Z",
+    "raw": "Br. Vlaka 81191 odlazak      02.05.26. 12:54, kolodvor 72302"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-29T12:57:00",
+    "seen_at": "2026-05-02T10:58:06.722Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81984",
+    "event_time": "2026-05-02T12:59:00",
+    "seen_at": "2026-05-02T11:00:26.192Z",
+    "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:59, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "81984",
+    "event_time": "2026-05-02T12:59:00",
+    "seen_at": "2026-05-02T11:00:26.193Z",
+    "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:59, kolodvor PERUŠIĆ"
   }
 ]
