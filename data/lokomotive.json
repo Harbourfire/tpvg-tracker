@@ -1,77 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "89300",
-    "event_time": "2026-04-29T12:44:00",
-    "seen_at": "2026-04-29T10:44:44.454Z",
-    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 12:44, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47945",
-    "event_time": "2026-04-29T05:15:00",
-    "seen_at": "2026-04-29T10:45:24.673Z",
-    "raw": "Br. Vlaka 47945 promjena sas 29.04.26. 05:15, kolodvor 72303"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "OKUČANI",
-    "train_number": "82525",
-    "event_time": "2026-04-29T12:45:00",
-    "seen_at": "2026-04-29T10:45:48.757Z",
-    "raw": "Br. Vlaka 82525 formiran     29.04.26. 12:45, kolodvor OKUČANI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "ČAČINCI",
-    "train_number": null,
-    "event_time": "2026-04-29T12:44:00",
-    "seen_at": "2026-04-29T10:45:48.758Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ČAČINCI",
-    "train_number": null,
-    "event_time": "2026-04-29T12:44:00",
-    "seen_at": "2026-04-29T10:45:48.758Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73906 ČAČINCI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "STARO PETROVO SELO",
-    "train_number": "75003",
-    "event_time": "2026-04-29T12:46:00",
-    "seen_at": "2026-04-29T10:46:58.896Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 12:46, kolodvor STARO PETROVO SELO"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81973",
-    "event_time": "2026-04-29T12:46:00",
-    "seen_at": "2026-04-29T10:48:55.061Z",
-    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 12:46, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81973",
-    "event_time": "2026-04-29T12:46:00",
-    "seen_at": "2026-04-29T10:48:55.061Z",
-    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 12:46, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "997894215703",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -8917,5 +8845,59 @@
     "event_time": "2026-05-02T12:29:00",
     "seen_at": "2026-05-02T10:29:19.047Z",
     "raw": "Br. Vlaka 45104 formiran     02.05.26. 12:29, kolodvor 71308"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81984",
+    "event_time": "2026-05-02T12:45:00",
+    "seen_at": "2026-05-02T10:45:49.936Z",
+    "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:45, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "81984",
+    "event_time": "2026-05-02T12:45:00",
+    "seen_at": "2026-05-02T10:45:49.937Z",
+    "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:45, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": "45104",
+    "event_time": "2026-05-02T11:08:00",
+    "seen_at": "2026-05-02T10:46:13.673Z",
+    "raw": "Br. Vlaka 45104 odlazak      02.05.26. 11:08, kolodvor 71308"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-05-02T11:17:00",
+    "seen_at": "2026-05-02T10:46:37.174Z",
+    "raw": "Br. Vlaka 45104 dolazak      02.05.26. 11:17, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "81191",
+    "event_time": "2026-05-02T12:46:00",
+    "seen_at": "2026-05-02T10:50:07.986Z",
+    "raw": "Br. Vlaka 81191 odlazak      02.05.26. 12:46, kolodvor 72303"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45104",
+    "event_time": "2026-05-02T12:50:00",
+    "seen_at": "2026-05-02T10:50:31.717Z",
+    "raw": "Br. Vlaka 45104 odlazak      02.05.26. 12:50, kolodvor DRENOVCI"
   }
 ]
