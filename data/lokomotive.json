@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81972",
-    "event_time": "2026-04-29T02:17:00",
-    "seen_at": "2026-04-29T00:17:32.322Z",
-    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 02:17, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "81972",
-    "event_time": "2026-04-29T02:17:00",
-    "seen_at": "2026-04-29T00:17:32.322Z",
-    "raw": "Br. Vlaka 81972 odlazak      29.04.26. 02:17, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "PERUŠIĆ",
     "train_number": "81972",
@@ -9574,5 +9556,41 @@
     "event_time": "2026-05-02T02:01:00",
     "seen_at": "2026-05-02T00:02:23.157Z",
     "raw": "Br. Vlaka 81982 odlazak      02.05.26. 02:01, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81982",
+    "event_time": "2026-05-02T02:15:00",
+    "seen_at": "2026-05-02T00:17:37.289Z",
+    "raw": "Br. Vlaka 81982 odlazak      02.05.26. 02:15, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "81982",
+    "event_time": "2026-05-02T02:15:00",
+    "seen_at": "2026-05-02T00:17:37.289Z",
+    "raw": "Br. Vlaka 81982 odlazak      02.05.26. 02:15, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81982",
+    "event_time": "2026-05-02T02:24:00",
+    "seen_at": "2026-05-02T00:25:44.777Z",
+    "raw": "Br. Vlaka 81982 odlazak      02.05.26. 02:24, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "81982",
+    "event_time": "2026-05-02T02:24:00",
+    "seen_at": "2026-05-02T00:25:44.777Z",
+    "raw": "Br. Vlaka 81982 odlazak      02.05.26. 02:24, kolodvor BLATA"
   }
 ]
