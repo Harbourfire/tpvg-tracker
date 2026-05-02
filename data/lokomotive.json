@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-29T07:34:00",
-    "seen_at": "2026-04-29T05:35:07.651Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "PITOMAČA",
@@ -9304,5 +9295,23 @@
     "event_time": "2026-05-02T07:24:00",
     "seen_at": "2026-05-02T05:24:29.732Z",
     "raw": "Br. Vlaka 45105 odlazak      02.05.26. 07:24, kolodvor OTOK"
+  },
+  {
+    "uic": "987891113316",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-29T07:34:00",
+    "seen_at": "2026-05-02T05:35:47.287Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45105",
+    "event_time": "2026-05-02T07:35:00",
+    "seen_at": "2026-05-02T05:36:56.725Z",
+    "raw": "Br. Vlaka 45105 odlazak      02.05.26. 07:35, kolodvor SPAČVA"
   }
 ]
