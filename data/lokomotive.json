@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "NOVI MAROF",
-    "train_number": "81291",
-    "event_time": "2026-04-29T20:39:00",
-    "seen_at": "2026-04-29T18:44:40.672Z",
-    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 20:39, kolodvor NOVI MAROF"
-  },
-  {
     "uic": "927820440232",
     "type": "Dolazak",
     "station": "KRIŽEVCI",
@@ -8296,5 +8287,14 @@
     "event_time": "2026-05-02T20:27:00",
     "seen_at": "2026-05-02T18:28:13.767Z",
     "raw": "Br. Vlaka 81191 odlazak      02.05.26. 20:27, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81281",
+    "event_time": "2026-05-02T20:44:00",
+    "seen_at": "2026-05-02T18:45:55.424Z",
+    "raw": "Br. Vlaka 81281 odlazak      02.05.26. 20:44, kolodvor VINKOVCI"
   }
 ]
