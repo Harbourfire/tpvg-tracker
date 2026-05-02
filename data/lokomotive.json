@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SIBINJ",
-    "train_number": null,
-    "event_time": "2026-04-29T09:31:00",
-    "seen_at": "2026-04-29T07:32:34.922Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72702 SIBINJ"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Formiran",
-    "station": "PLETERNICA",
-    "train_number": "89300",
-    "event_time": "2026-04-29T09:34:00",
-    "seen_at": "2026-04-29T07:35:07.221Z",
-    "raw": "Br. Vlaka 89300 formiran     29.04.26. 09:34, kolodvor PLETERNICA"
-  },
-  {
     "uic": "997894215703",
     "type": "Dolazak",
     "station": "IVANIĆ GRAD",
@@ -9124,5 +9106,23 @@
     "event_time": "2026-05-02T07:46:00",
     "seen_at": "2026-05-02T07:21:40.832Z",
     "raw": "Br. Vlaka 81981 formiran     02.05.26. 07:46, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "47988",
+    "event_time": "2026-05-02T09:30:00",
+    "seen_at": "2026-05-02T07:30:52.062Z",
+    "raw": "Br. Vlaka 47988 dolazak      02.05.26. 09:30, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "BELI MANASTIR",
+    "train_number": "69771",
+    "event_time": "2026-05-02T04:44:00",
+    "seen_at": "2026-05-02T07:32:26.826Z",
+    "raw": "Br. Vlaka 69771 formiran     02.05.26. 04:44, kolodvor BELI MANASTIR"
   }
 ]
