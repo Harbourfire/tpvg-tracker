@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-29T12:14:00",
-    "seen_at": "2026-04-29T10:15:46.978Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "75003",
-    "event_time": "2026-04-29T12:19:00",
-    "seen_at": "2026-04-29T10:19:29.299Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 12:19, kolodvor OKUČANI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81973",
-    "event_time": "2026-04-29T12:20:00",
-    "seen_at": "2026-04-29T10:20:38.492Z",
-    "raw": "Br. Vlaka 81973 dolazak      29.04.26. 12:20, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "81973",
-    "event_time": "2026-04-29T12:20:00",
-    "seen_at": "2026-04-29T10:20:38.493Z",
-    "raw": "Br. Vlaka 81973 dolazak      29.04.26. 12:20, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "89109",
-    "event_time": "2026-04-29T12:22:00",
-    "seen_at": "2026-04-29T10:22:34.829Z",
-    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 12:22, kolodvor SLATINA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "SLATINA",
-    "train_number": "89109",
-    "event_time": "2026-04-29T12:22:00",
-    "seen_at": "2026-04-29T10:22:34.829Z",
-    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 12:22, kolodvor SLATINA"
-  },
-  {
     "uic": "987890033630",
     "type": "Rasformiran",
     "station": "ŽUPANJA",
@@ -8980,5 +8926,23 @@
     "event_time": "2026-05-02T06:48:00",
     "seen_at": "2026-05-02T10:13:34.783Z",
     "raw": "Br. Vlaka 83831 promjena sas 02.05.26. 06:48, kolodvor 72303"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48799",
+    "event_time": "2026-05-02T12:13:00",
+    "seen_at": "2026-05-02T10:17:02.101Z",
+    "raw": "Br. Vlaka 48799 dolazak      02.05.26. 12:13, kolodvor 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48799",
+    "event_time": "2026-05-02T12:13:00",
+    "seen_at": "2026-05-02T10:17:02.102Z",
+    "raw": "Br. Vlaka 48799 dolazak      02.05.26. 12:13, kolodvor 72303"
   }
 ]
