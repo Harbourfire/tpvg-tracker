@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ANDRIJEVCI",
-    "train_number": "79924",
-    "event_time": "2026-04-29T15:18:00",
-    "seen_at": "2026-04-29T13:19:13.225Z",
-    "raw": "Br. Vlaka 79924 odlazak      29.04.26. 15:18, kolodvor ANDRIJEVCI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "89300",
-    "event_time": "2026-04-29T15:20:00",
-    "seen_at": "2026-04-29T13:21:54.024Z",
-    "raw": "Br. Vlaka 89300 dolazak      29.04.26. 15:20, kolodvor OSIJEK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "79924",
-    "event_time": "2026-04-29T15:25:00",
-    "seen_at": "2026-04-29T13:25:47.576Z",
-    "raw": "Br. Vlaka 79924 odlazak      29.04.26. 15:25, kolodvor GARČIN"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "SLATINA",
@@ -8575,5 +8548,23 @@
     "event_time": "2026-05-02T12:49:00",
     "seen_at": "2026-05-02T13:04:36.661Z",
     "raw": "Br. Vlaka 69820 formiran     02.05.26. 12:49, kolodvor ŽUPANJA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-05-02T14:40:00",
+    "seen_at": "2026-05-02T13:26:05.775Z",
+    "raw": "Br. Vlaka 81984 promjena sas 02.05.26. 14:40, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-05-02T14:40:00",
+    "seen_at": "2026-05-02T13:26:05.775Z",
+    "raw": "Br. Vlaka 81984 promjena sas 02.05.26. 14:40, kolodvor JOSIPDOL"
   }
 ]
