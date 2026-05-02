@@ -2,33 +2,6 @@
   {
     "uic": "987891113316",
     "type": "Odlazak",
-    "station": "SLAVONSKI BROD",
-    "train_number": "76512",
-    "event_time": "2026-04-29T06:58:00",
-    "seen_at": "2026-04-29T04:58:55.262Z",
-    "raw": "Br. Vlaka 76512 odlazak      29.04.26. 06:58, kolodvor SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "ĐURĐEVAC",
-    "train_number": "45999",
-    "event_time": "2026-04-29T06:59:00",
-    "seen_at": "2026-04-29T05:03:52.892Z",
-    "raw": "Br. Vlaka 45999 odlazak      29.04.26. 06:59, kolodvor ĐURĐEVAC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "ĐURĐEVAC",
-    "train_number": "45999",
-    "event_time": "2026-04-29T06:59:00",
-    "seen_at": "2026-04-29T05:03:52.893Z",
-    "raw": "Br. Vlaka 45999 odlazak      29.04.26. 06:59, kolodvor ĐURĐEVAC"
-  },
-  {
-    "uic": "987891113316",
-    "type": "Odlazak",
     "station": "SIBINJ",
     "train_number": "76512",
     "event_time": "2026-04-29T07:09:00",
@@ -9385,5 +9358,32 @@
     "event_time": "2026-05-02T05:30:00",
     "seen_at": "2026-05-02T03:30:31.764Z",
     "raw": "Br. Vlaka 48799 dolazak      02.05.26. 05:30, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Promjena sastava",
+    "station": "KRIŽEVCI",
+    "train_number": "48799",
+    "event_time": "2026-05-02T05:30:00",
+    "seen_at": "2026-05-02T04:56:37.475Z",
+    "raw": "Br. Vlaka 48799 promjena sas 02.05.26. 05:30, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Promjena sastava",
+    "station": "KRIŽEVCI",
+    "train_number": "48799",
+    "event_time": "2026-05-02T05:30:00",
+    "seen_at": "2026-05-02T04:56:37.475Z",
+    "raw": "Br. Vlaka 48799 promjena sas 02.05.26. 05:30, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-05-02T07:00:00",
+    "seen_at": "2026-05-02T05:00:32.324Z",
+    "raw": "Br. Vlaka 45105 odlazak      02.05.26. 07:00, kolodvor VINKOVCI"
   }
 ]
