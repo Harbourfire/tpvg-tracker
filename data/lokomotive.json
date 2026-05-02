@@ -1,33 +1,6 @@
 [
   {
     "uic": "997894215703",
-    "type": "Promjena sastava",
-    "station": "IVANIĆ GRAD",
-    "train_number": "75003",
-    "event_time": "2026-04-29T09:36:00",
-    "seen_at": "2026-04-29T08:19:49.575Z",
-    "raw": "Br. Vlaka 75003 promjena sas 29.04.26. 09:36, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Formiran",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-04-29T10:22:00",
-    "seen_at": "2026-04-29T08:22:46.512Z",
-    "raw": "Br. Vlaka 71207 formiran     29.04.26. 10:22, kolodvor SIBINJ"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "75003",
-    "event_time": "2026-04-29T10:25:00",
-    "seen_at": "2026-04-29T08:25:28.172Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 10:25, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "997894215703",
     "type": "Odlazak",
     "station": "DEANOVEC",
     "train_number": "75003",
@@ -9151,5 +9124,23 @@
     "event_time": "2026-05-02T10:01:00",
     "seen_at": "2026-05-02T08:02:49.941Z",
     "raw": "Br. Vlaka 81981 odlazak      02.05.26. 10:01, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81981",
+    "event_time": "2026-05-02T10:18:00",
+    "seen_at": "2026-05-02T08:19:14.312Z",
+    "raw": "Br. Vlaka 81981 odlazak      02.05.26. 10:18, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "81981",
+    "event_time": "2026-05-02T10:18:00",
+    "seen_at": "2026-05-02T08:19:14.312Z",
+    "raw": "Br. Vlaka 81981 odlazak      02.05.26. 10:18, kolodvor PLAŠKI"
   }
 ]
