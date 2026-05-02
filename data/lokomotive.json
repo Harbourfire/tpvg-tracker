@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-29T23:51:00",
-    "seen_at": "2026-04-29T21:51:48.733Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-29T23:51:00",
-    "seen_at": "2026-04-29T21:51:48.733Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "JOSIPOVAC",
-    "train_number": "89119",
-    "event_time": "2026-04-29T23:50:00",
-    "seen_at": "2026-04-29T21:52:58.957Z",
-    "raw": "Br. Vlaka 89119 odlazak      29.04.26. 23:50, kolodvor JOSIPOVAC"
-  },
-  {
     "uic": "927820622029",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -8368,5 +8341,68 @@
     "event_time": "2026-05-02T23:48:00",
     "seen_at": "2026-05-02T21:51:35.190Z",
     "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:48, kolodvor ĐURĐEVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-05-02T23:51:00",
+    "seen_at": "2026-05-02T21:52:40.735Z",
+    "raw": "Br. Vlaka 63305 dolazak      02.05.26. 23:51, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-05-02T23:51:00",
+    "seen_at": "2026-05-02T21:52:40.735Z",
+    "raw": "Br. Vlaka 63305 dolazak      02.05.26. 23:51, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-05-02T23:59:00",
+    "seen_at": "2026-05-02T21:59:42.402Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 23:59, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63305",
+    "event_time": "2026-05-02T23:59:00",
+    "seen_at": "2026-05-02T21:59:42.402Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 23:59, kolodvor BLATA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "BJELOVAR",
+    "train_number": "89108",
+    "event_time": "2026-05-02T23:58:00",
+    "seen_at": "2026-05-02T22:00:28.348Z",
+    "raw": "Br. Vlaka 89108 dolazak      02.05.26. 23:58, kolodvor BJELOVAR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KLOŠTAR",
+    "train_number": "45997",
+    "event_time": "2026-05-02T23:58:00",
+    "seen_at": "2026-05-02T22:00:51.183Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:58, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KLOŠTAR",
+    "train_number": "45997",
+    "event_time": "2026-05-02T23:58:00",
+    "seen_at": "2026-05-02T22:00:51.184Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:58, kolodvor KLOŠTAR"
   }
 ]
