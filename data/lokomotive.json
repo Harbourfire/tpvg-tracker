@@ -1,14 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "POPOVAČA",
-    "train_number": "75003",
-    "event_time": "2026-04-29T10:52:00",
-    "seen_at": "2026-04-29T08:52:30.370Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 10:52, kolodvor POPOVAČA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -9151,5 +9142,23 @@
     "event_time": "2026-05-02T10:38:00",
     "seen_at": "2026-05-02T08:39:48.752Z",
     "raw": "Br. Vlaka 81981 odlazak      02.05.26. 10:38, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81981",
+    "event_time": "2026-05-02T10:54:00",
+    "seen_at": "2026-05-02T08:54:57.560Z",
+    "raw": "Br. Vlaka 81981 odlazak      02.05.26. 10:54, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "81981",
+    "event_time": "2026-05-02T10:54:00",
+    "seen_at": "2026-05-02T08:54:57.561Z",
+    "raw": "Br. Vlaka 81981 odlazak      02.05.26. 10:54, kolodvor RUDOPOLJE"
   }
 ]
