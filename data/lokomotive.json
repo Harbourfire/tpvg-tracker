@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891113316",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76512",
-    "event_time": "2026-04-29T07:21:00",
-    "seen_at": "2026-04-29T05:22:07.918Z",
-    "raw": "Br. Vlaka 76512 odlazak      29.04.26. 07:21, kolodvor ORIOVAC"
-  },
-  {
     "uic": "927820620189",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -9358,5 +9349,14 @@
     "event_time": "2026-05-02T07:00:00",
     "seen_at": "2026-05-02T05:00:32.324Z",
     "raw": "Br. Vlaka 45105 odlazak      02.05.26. 07:00, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "45105",
+    "event_time": "2026-05-02T07:24:00",
+    "seen_at": "2026-05-02T05:24:29.732Z",
+    "raw": "Br. Vlaka 45105 odlazak      02.05.26. 07:24, kolodvor OTOK"
   }
 ]
