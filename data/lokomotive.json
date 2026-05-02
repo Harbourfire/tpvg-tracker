@@ -1,104 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "PČELIĆ",
-    "train_number": "89109",
-    "event_time": "2026-04-29T11:14:00",
-    "seen_at": "2026-04-29T09:18:39.336Z",
-    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 11:14, kolodvor PČELIĆ"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "PČELIĆ",
-    "train_number": "89109",
-    "event_time": "2026-04-29T11:14:00",
-    "seen_at": "2026-04-29T09:18:39.336Z",
-    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 11:14, kolodvor PČELIĆ"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "76510",
-    "event_time": "2026-04-29T11:18:00",
-    "seen_at": "2026-04-29T09:18:39.336Z",
-    "raw": "Br. Vlaka 76510 odlazak      29.04.26. 11:18, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "75003",
-    "event_time": "2026-04-29T11:17:00",
-    "seen_at": "2026-04-29T09:18:39.337Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 11:17, kolodvor BANOVA JARUGA"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "71207",
-    "event_time": "2026-04-29T11:19:00",
-    "seen_at": "2026-04-29T09:20:14.905Z",
-    "raw": "Br. Vlaka 71207 odlazak      29.04.26. 11:19, kolodvor SIBINJ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81973",
-    "event_time": "2026-04-29T11:22:00",
-    "seen_at": "2026-04-29T09:23:23.872Z",
-    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 11:22, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "81973",
-    "event_time": "2026-04-29T11:22:00",
-    "seen_at": "2026-04-29T09:23:23.872Z",
-    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 11:22, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "CABUNA",
-    "train_number": "89109",
-    "event_time": "2026-04-29T11:21:00",
-    "seen_at": "2026-04-29T09:24:34.841Z",
-    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 11:21, kolodvor CABUNA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "CABUNA",
-    "train_number": "89109",
-    "event_time": "2026-04-29T11:21:00",
-    "seen_at": "2026-04-29T09:24:34.841Z",
-    "raw": "Br. Vlaka 89109 odlazak      29.04.26. 11:21, kolodvor CABUNA"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "75003",
-    "event_time": "2026-04-29T11:24:00",
-    "seen_at": "2026-04-29T09:24:58.208Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 11:24, kolodvor LIPOVLJANI"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "75003",
-    "event_time": "2026-04-29T11:17:00",
-    "seen_at": "2026-04-29T09:25:45.053Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 11:17, kolodvor BANOVA JARUGA"
-  },
-  {
     "uic": "987891162057",
     "type": "Dolazak",
     "station": "SLAVONSKI BROD",
@@ -9106,5 +9007,23 @@
     "event_time": "2026-05-02T11:15:00",
     "seen_at": "2026-05-02T09:16:21.212Z",
     "raw": "Br. Vlaka 81981 odlazak      02.05.26. 11:15, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-05-01T05:00:00",
+    "seen_at": "2026-05-02T09:20:08.479Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Rasformiran",
+    "station": "NOVO DRNJE",
+    "train_number": null,
+    "event_time": "2026-05-01T05:00:00",
+    "seen_at": "2026-05-02T09:20:08.480Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
   }
 ]
