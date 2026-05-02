@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ČAKOVEC",
-    "train_number": "66751",
-    "event_time": "2026-04-29T18:41:00",
-    "seen_at": "2026-04-29T16:43:02.962Z",
-    "raw": "Br. Vlaka 66751 odlazak      29.04.26. 18:41, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820620015",
     "type": "Dolazak",
     "station": "VARAŽDIN",
     "train_number": "66751",
@@ -8359,5 +8350,14 @@
     "event_time": "2026-05-02T18:18:00",
     "seen_at": "2026-05-02T16:19:19.144Z",
     "raw": "Br. Vlaka 83831 odlazak      02.05.26. 18:18, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "83831",
+    "event_time": "2026-05-02T18:48:00",
+    "seen_at": "2026-05-02T16:50:02.569Z",
+    "raw": "Br. Vlaka 83831 dolazak      02.05.26. 18:48, kolodvor NOVSKA"
   }
 ]
