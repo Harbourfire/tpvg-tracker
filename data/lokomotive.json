@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987891213314",
-    "type": "Formiran",
-    "station": "ORIOVAC",
-    "train_number": "76510",
-    "event_time": "2026-04-29T09:07:00",
-    "seen_at": "2026-04-29T07:10:19.385Z",
-    "raw": "Br. Vlaka 76510 formiran     29.04.26. 09:07, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "79921",
-    "event_time": "2026-04-29T08:57:00",
-    "seen_at": "2026-04-29T07:10:42.751Z",
-    "raw": "Br. Vlaka 79921 dolazak      29.04.26. 08:57, kolodvor VINKOVCI"
-  },
-  {
     "uic": "997894245619",
     "type": "Formiran",
     "station": "DUGA RESA",
@@ -9160,5 +9142,14 @@
     "event_time": "2026-05-02T08:47:00",
     "seen_at": "2026-05-02T06:47:25.662Z",
     "raw": "Br. Vlaka 47988 odlazak      02.05.26. 08:47, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "47988",
+    "event_time": "2026-05-02T09:03:00",
+    "seen_at": "2026-05-02T07:05:50.822Z",
+    "raw": "Br. Vlaka 47988 odlazak      02.05.26. 09:03, kolodvor DARDA"
   }
 ]
