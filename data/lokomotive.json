@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47944",
-    "event_time": "2026-04-29T16:36:00",
-    "seen_at": "2026-04-29T14:36:54.121Z",
-    "raw": "Br. Vlaka 47944 dolazak      29.04.26. 16:36, kolodvor 72303"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "47944",
-    "event_time": "2026-04-29T16:36:00",
-    "seen_at": "2026-04-29T14:36:54.121Z",
-    "raw": "Br. Vlaka 47944 dolazak      29.04.26. 16:36, kolodvor 72303"
-  },
-  {
-    "uic": "927820440026",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
     "train_number": null,
@@ -8404,5 +8386,50 @@
     "event_time": "2026-05-02T16:35:00",
     "seen_at": "2026-05-02T14:35:39.436Z",
     "raw": "Br. Vlaka 48799 odlazak      02.05.26. 16:35, kolodvor ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-05-02T16:41:00",
+    "seen_at": "2026-05-02T14:41:44.596Z",
+    "raw": "Br. Vlaka 48799 dolazak      02.05.26. 16:41, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Dolazak",
+    "station": "SAVSKI MAROF",
+    "train_number": "48799",
+    "event_time": "2026-05-02T16:41:00",
+    "seen_at": "2026-05-02T14:41:44.596Z",
+    "raw": "Br. Vlaka 48799 dolazak      02.05.26. 16:41, kolodvor SAVSKI MAROF"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "69820",
+    "event_time": "2026-05-02T16:40:00",
+    "seen_at": "2026-05-02T14:42:07.924Z",
+    "raw": "Br. Vlaka 69820 dolazak      02.05.26. 16:40, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-05-02T16:40:00",
+    "seen_at": "2026-05-02T14:42:31.311Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81281",
+    "event_time": "2026-05-02T06:28:00",
+    "seen_at": "2026-05-02T14:42:55.093Z",
+    "raw": "Br. Vlaka 81281 promjena sas 02.05.26. 06:28, kolodvor VINKOVCI"
   }
 ]
