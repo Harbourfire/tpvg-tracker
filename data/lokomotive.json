@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "45992",
-    "event_time": "2026-04-29T23:02:00",
-    "seen_at": "2026-04-29T21:03:56.033Z",
-    "raw": "Br. Vlaka 45992 dolazak      29.04.26. 23:02, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-29T23:05:00",
-    "seen_at": "2026-04-29T21:05:43.867Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:05, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-04-29T23:05:00",
-    "seen_at": "2026-04-29T21:05:43.867Z",
-    "raw": "Br. Vlaka 63305 odlazak      29.04.26. 23:05, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "81291",
-    "event_time": "2026-04-29T23:06:00",
-    "seen_at": "2026-04-29T21:06:30.593Z",
-    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 23:06, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-29T20:00:00",
-    "seen_at": "2026-04-29T21:13:09.781Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "VINKOVCI",
@@ -8314,5 +8269,77 @@
     "event_time": "2026-05-02T23:03:00",
     "seen_at": "2026-05-02T21:03:37.297Z",
     "raw": "Br. Vlaka 89255 odlazak      02.05.26. 23:03, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89255",
+    "event_time": "2026-05-02T23:08:00",
+    "seen_at": "2026-05-02T21:08:30.443Z",
+    "raw": "Br. Vlaka 89255 odlazak      02.05.26. 23:08, kolodvor 72304"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": "89255",
+    "event_time": "2026-05-02T23:08:00",
+    "seen_at": "2026-05-02T21:08:30.443Z",
+    "raw": "Br. Vlaka 89255 odlazak      02.05.26. 23:08, kolodvor 72304"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45997",
+    "event_time": "2026-05-02T23:10:00",
+    "seen_at": "2026-05-02T21:12:02.931Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:10, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "45997",
+    "event_time": "2026-05-02T23:10:00",
+    "seen_at": "2026-05-02T21:12:02.932Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:10, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-05-02T22:52:00",
+    "seen_at": "2026-05-02T21:12:02.932Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:52, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-05-02T22:52:00",
+    "seen_at": "2026-05-02T21:12:02.932Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:52, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-05-02T22:57:00",
+    "seen_at": "2026-05-02T21:12:25.985Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:57, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "63305",
+    "event_time": "2026-05-02T22:57:00",
+    "seen_at": "2026-05-02T21:12:25.985Z",
+    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:57, kolodvor JOSIPDOL"
   }
 ]
