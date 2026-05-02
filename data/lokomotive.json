@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620015",
-    "type": "Odlazak",
-    "station": "KONJŠČINA",
-    "train_number": "81291",
-    "event_time": "2026-04-29T21:12:00",
-    "seen_at": "2026-04-29T19:12:38.349Z",
-    "raw": "Br. Vlaka 81291 odlazak      29.04.26. 21:12, kolodvor KONJŠČINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "ČAČINCI",
-    "train_number": "89119",
-    "event_time": "2026-04-29T21:15:00",
-    "seen_at": "2026-04-29T19:15:51.722Z",
-    "raw": "Br. Vlaka 89119 formiran     29.04.26. 21:15, kolodvor ČAČINCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -8251,5 +8233,23 @@
     "event_time": "2026-05-02T20:44:00",
     "seen_at": "2026-05-02T18:45:55.424Z",
     "raw": "Br. Vlaka 81281 odlazak      02.05.26. 20:44, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45996",
+    "event_time": "2026-05-02T21:08:00",
+    "seen_at": "2026-05-02T19:08:41.846Z",
+    "raw": "Br. Vlaka 45996 odlazak      02.05.26. 21:08, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45996",
+    "event_time": "2026-05-02T21:08:00",
+    "seen_at": "2026-05-02T19:08:41.847Z",
+    "raw": "Br. Vlaka 45996 odlazak      02.05.26. 21:08, kolodvor 73164"
   }
 ]
