@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-29T04:35:00",
-    "seen_at": "2026-04-29T02:36:38.455Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-29T04:35:00",
-    "seen_at": "2026-04-29T02:36:38.455Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "987891113316",
     "type": "Formiran",
     "station": "SLAVONSKI BROD",
@@ -9448,5 +9430,23 @@
     "event_time": "2026-05-02T03:41:00",
     "seen_at": "2026-05-02T01:45:06.545Z",
     "raw": "Br. Vlaka 48799 promjena sas 02.05.26. 03:41, kolodvor 73164"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Formiran",
+    "station": "VINKOVCI",
+    "train_number": "45105",
+    "event_time": "2026-05-02T04:33:00",
+    "seen_at": "2026-05-02T02:35:12.619Z",
+    "raw": "Br. Vlaka 45105 formiran     02.05.26. 04:33, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "48799",
+    "event_time": "2026-05-02T04:38:00",
+    "seen_at": "2026-05-02T02:41:00.653Z",
+    "raw": "Br. Vlaka 48799 odlazak      02.05.26. 04:38, kolodvor 73164"
   }
 ]
