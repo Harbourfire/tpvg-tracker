@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "79920",
-    "event_time": "2026-04-29T08:22:00",
-    "seen_at": "2026-04-29T06:22:59.263Z",
-    "raw": "Br. Vlaka 79920 odlazak      29.04.26. 08:22, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "76509",
-    "event_time": "2026-04-29T08:23:00",
-    "seen_at": "2026-04-29T06:23:22.486Z",
-    "raw": "Br. Vlaka 76509 odlazak      29.04.26. 08:23, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "75003",
-    "event_time": "2026-04-29T08:26:00",
-    "seen_at": "2026-04-29T06:26:35.706Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 08:26, kolodvor SESVETE"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "VUKOVAR",
-    "train_number": null,
-    "event_time": "2026-04-29T08:26:00",
-    "seen_at": "2026-04-29T06:30:24.142Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "VUKOVAR",
-    "train_number": "79921",
-    "event_time": "2026-04-29T07:31:00",
-    "seen_at": "2026-04-29T06:30:47.234Z",
-    "raw": "Br. Vlaka 79921 formiran     29.04.26. 07:31, kolodvor VUKOVAR"
-  },
-  {
     "uic": "987891213314",
     "type": "Rasformiran",
     "station": "ORIOVAC",
@@ -9241,5 +9196,32 @@
     "event_time": "2026-05-02T08:20:00",
     "seen_at": "2026-05-02T06:21:08.736Z",
     "raw": "Br. Vlaka 48799 odlazak      02.05.26. 08:20, kolodvor KRIŽEVCI"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "45105",
+    "event_time": "2026-05-02T08:20:00",
+    "seen_at": "2026-05-02T06:23:19.042Z",
+    "raw": "Br. Vlaka 45105 odlazak      02.05.26. 08:20, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "48799",
+    "event_time": "2026-05-02T08:30:00",
+    "seen_at": "2026-05-02T06:30:50.284Z",
+    "raw": "Br. Vlaka 48799 odlazak      02.05.26. 08:30, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "GRADEC",
+    "train_number": "48799",
+    "event_time": "2026-05-02T08:30:00",
+    "seen_at": "2026-05-02T06:30:50.284Z",
+    "raw": "Br. Vlaka 48799 odlazak      02.05.26. 08:30, kolodvor GRADEC"
   }
 ]
