@@ -1,68 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47945",
-    "event_time": "2026-04-29T14:32:00",
-    "seen_at": "2026-04-29T12:33:01.256Z",
-    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:32, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "47945",
-    "event_time": "2026-04-29T14:32:00",
-    "seen_at": "2026-04-29T12:33:01.257Z",
-    "raw": "Br. Vlaka 47945 odlazak      29.04.26. 14:32, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "KOTORIBA",
-    "train_number": "89730",
-    "event_time": "2026-04-29T14:24:00",
-    "seen_at": "2026-04-29T12:34:57.790Z",
-    "raw": "Br. Vlaka 89730 dolazak      29.04.26. 14:24, kolodvor KOTORIBA"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "KOTORIBA",
-    "train_number": null,
-    "event_time": "2026-04-29T14:24:00",
-    "seen_at": "2026-04-29T12:35:21.101Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74808 KOTORIBA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82522",
-    "event_time": "2026-04-29T14:34:00",
-    "seen_at": "2026-04-29T12:35:44.322Z",
-    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 14:34, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "82522",
-    "event_time": "2026-04-29T14:34:00",
-    "seen_at": "2026-04-29T12:35:44.322Z",
-    "raw": "Br. Vlaka 82522 odlazak      29.04.26. 14:34, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "89300",
-    "event_time": "2026-04-29T14:36:00",
-    "seen_at": "2026-04-29T12:37:19.068Z",
-    "raw": "Br. Vlaka 89300 odlazak      29.04.26. 14:36, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "SLAVONSKI ŠAMAC",
@@ -8737,5 +8674,32 @@
     "event_time": "2026-05-02T14:22:00",
     "seen_at": "2026-05-02T12:22:50.115Z",
     "raw": "Br. Vlaka 81984 odlazak      02.05.26. 14:22, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "69771",
+    "event_time": "2026-05-02T14:29:00",
+    "seen_at": "2026-05-02T12:33:16.306Z",
+    "raw": "Br. Vlaka 69771 dolazak      02.05.26. 14:29, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Dolazak",
+    "station": "SV. IVAN ŽABNO",
+    "train_number": "81191",
+    "event_time": "2026-05-02T14:24:00",
+    "seen_at": "2026-05-02T12:33:16.307Z",
+    "raw": "Br. Vlaka 81191 dolazak      02.05.26. 14:24, kolodvor SV. IVAN ŽABNO"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-05-02T14:29:00",
+    "seen_at": "2026-05-02T12:33:39.376Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
