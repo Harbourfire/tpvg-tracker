@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "KOŠKA",
-    "train_number": "89119",
-    "event_time": "2026-04-29T22:58:00",
-    "seen_at": "2026-04-29T20:58:46.538Z",
-    "raw": "Br. Vlaka 89119 odlazak      29.04.26. 22:58, kolodvor KOŠKA"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "45992",
-    "event_time": "2026-04-29T22:54:00",
-    "seen_at": "2026-04-29T21:01:57.392Z",
-    "raw": "Br. Vlaka 45992 odlazak      29.04.26. 22:54, kolodvor 72302"
-  },
-  {
     "uic": "928012230076",
     "type": "Dolazak",
     "station": "ZAGREB RESNIK",
@@ -8287,5 +8269,50 @@
     "event_time": "2026-05-02T22:50:00",
     "seen_at": "2026-05-02T20:51:35.982Z",
     "raw": "Br. Vlaka 45997 odlazak      02.05.26. 22:50, kolodvor KOPRIVNICA GR    A"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45997",
+    "event_time": "2026-05-02T22:58:00",
+    "seen_at": "2026-05-02T20:59:37.498Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 22:58, kolodvor 73164"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "NOVO DRNJE",
+    "train_number": "45997",
+    "event_time": "2026-05-02T22:58:00",
+    "seen_at": "2026-05-02T20:59:37.499Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 22:58, kolodvor 73164"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "PITOMAČA",
+    "train_number": "89108",
+    "event_time": "2026-05-02T23:02:00",
+    "seen_at": "2026-05-02T21:03:37.297Z",
+    "raw": "Br. Vlaka 89108 odlazak      02.05.26. 23:02, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89255",
+    "event_time": "2026-05-02T23:03:00",
+    "seen_at": "2026-05-02T21:03:37.297Z",
+    "raw": "Br. Vlaka 89255 odlazak      02.05.26. 23:03, kolodvor ZAGREB KLARA"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Odlazak",
+    "station": "ZAGREB KLARA",
+    "train_number": "89255",
+    "event_time": "2026-05-02T23:03:00",
+    "seen_at": "2026-05-02T21:03:37.297Z",
+    "raw": "Br. Vlaka 89255 odlazak      02.05.26. 23:03, kolodvor ZAGREB KLARA"
   }
 ]
