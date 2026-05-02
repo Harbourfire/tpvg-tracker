@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820620015",
-    "type": "Dolazak",
-    "station": "VARAŽDIN",
-    "train_number": "66751",
-    "event_time": "2026-04-29T18:58:00",
-    "seen_at": "2026-04-29T17:00:29.230Z",
-    "raw": "Br. Vlaka 66751 dolazak      29.04.26. 18:58, kolodvor VARAŽDIN"
-  },
-  {
-    "uic": "927820620015",
     "type": "Rasformiran",
     "station": "VARAŽDIN",
     "train_number": null,
@@ -8359,5 +8350,32 @@
     "event_time": "2026-05-02T18:48:00",
     "seen_at": "2026-05-02T16:50:02.569Z",
     "raw": "Br. Vlaka 83831 dolazak      02.05.26. 18:48, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "47565",
+    "train_number": null,
+    "event_time": "2026-05-02T16:54:35.884Z",
+    "seen_at": "2026-05-02T16:54:35.884Z",
+    "raw": "Trenutna pozicija je u kolodvoru 47565 47565"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-02T17:32:00",
+    "seen_at": "2026-05-02T16:54:59.448Z",
+    "raw": "Br. Vlaka 69005 formiran     02.05.26. 17:32, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-02T17:32:00",
+    "seen_at": "2026-05-02T16:54:59.448Z",
+    "raw": "Br. Vlaka 69005 formiran     02.05.26. 17:32, kolodvor OGULIN"
   }
 ]
