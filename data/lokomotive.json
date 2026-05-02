@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81973",
-    "event_time": "2026-04-29T13:04:00",
-    "seen_at": "2026-04-29T11:05:45.587Z",
-    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 13:04, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81973",
-    "event_time": "2026-04-29T13:04:00",
-    "seen_at": "2026-04-29T11:05:45.587Z",
-    "raw": "Br. Vlaka 81973 odlazak      29.04.26. 13:04, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Formiran",
-    "station": "ČAKOVEC",
-    "train_number": "89730",
-    "event_time": "2026-04-29T13:08:00",
-    "seen_at": "2026-04-29T11:09:16.711Z",
-    "raw": "Br. Vlaka 89730 formiran     29.04.26. 13:08, kolodvor ČAKOVEC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "82525",
-    "event_time": "2026-04-29T13:09:00",
-    "seen_at": "2026-04-29T11:10:05.294Z",
-    "raw": "Br. Vlaka 82525 odlazak      29.04.26. 13:09, kolodvor OKUČANI"
-  },
-  {
     "uic": "987890033630",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -8926,5 +8890,23 @@
     "event_time": "2026-05-02T12:59:00",
     "seen_at": "2026-05-02T11:00:26.193Z",
     "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:59, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "45104",
+    "event_time": "2026-05-02T13:06:00",
+    "seen_at": "2026-05-02T11:07:35.915Z",
+    "raw": "Br. Vlaka 45104 odlazak      02.05.26. 13:06, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820622037",
+    "type": "Odlazak",
+    "station": "ZAGREB RESNIK",
+    "train_number": "81191",
+    "event_time": "2026-05-02T13:03:00",
+    "seen_at": "2026-05-02T11:09:31.537Z",
+    "raw": "Br. Vlaka 81191 odlazak      02.05.26. 13:03, kolodvor ZAGREB RESNIK"
   }
 ]
