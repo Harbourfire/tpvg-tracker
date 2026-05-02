@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-04-29T23:58:00",
-    "seen_at": "2026-04-29T22:03:27.286Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "OSIJEK",
-    "train_number": "45131",
-    "event_time": "2026-04-30T00:02:00",
-    "seen_at": "2026-04-29T22:06:58.182Z",
-    "raw": "Br. Vlaka 45131 odlazak      30.04.26. 00:02, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "44690",
-    "event_time": "2026-04-30T00:07:00",
-    "seen_at": "2026-04-29T22:08:30.659Z",
-    "raw": "Br. Vlaka 44690 dolazak      30.04.26. 00:07, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "DUGO SELO",
-    "train_number": "44690",
-    "event_time": "2026-04-30T00:07:00",
-    "seen_at": "2026-04-29T22:08:30.659Z",
-    "raw": "Br. Vlaka 44690 dolazak      30.04.26. 00:07, kolodvor DUGO SELO"
-  },
-  {
     "uic": "927820620189",
     "type": "Dolazak",
     "station": "VINKOVCI",
@@ -8404,5 +8368,41 @@
     "event_time": "2026-05-02T23:58:00",
     "seen_at": "2026-05-02T22:00:51.184Z",
     "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:58, kolodvor KLOŠTAR"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "PITOMAČA",
+    "train_number": "45997",
+    "event_time": "2026-05-03T00:05:00",
+    "seen_at": "2026-05-02T22:07:44.233Z",
+    "raw": "Br. Vlaka 45997 odlazak      03.05.26. 00:05, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "PITOMAČA",
+    "train_number": "45997",
+    "event_time": "2026-05-03T00:05:00",
+    "seen_at": "2026-05-02T22:07:44.233Z",
+    "raw": "Br. Vlaka 45997 odlazak      03.05.26. 00:05, kolodvor PITOMAČA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-05-03T00:08:00",
+    "seen_at": "2026-05-02T22:09:41.024Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.05.26. 00:08, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-05-03T00:08:00",
+    "seen_at": "2026-05-02T22:09:41.024Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.05.26. 00:08, kolodvor LIČKA JESENICA"
   }
 ]
