@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "44690",
-    "event_time": "2026-04-29T23:24:00",
-    "seen_at": "2026-04-29T21:24:30.641Z",
-    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:24, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "44690",
-    "event_time": "2026-04-29T23:24:00",
-    "seen_at": "2026-04-29T21:24:30.642Z",
-    "raw": "Br. Vlaka 44690 odlazak      29.04.26. 23:24, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440232",
     "type": "Dolazak",
     "station": "VRBOVEC",
     "train_number": "44690",
@@ -8368,5 +8350,23 @@
     "event_time": "2026-05-02T23:16:00",
     "seen_at": "2026-05-02T21:16:31.720Z",
     "raw": "Br. Vlaka 82128 formiran     02.05.26. 23:16, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440141",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "45997",
+    "event_time": "2026-05-02T23:26:00",
+    "seen_at": "2026-05-02T21:32:22.718Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:26, kolodvor BREGI"
+  },
+  {
+    "uic": "927820440265",
+    "type": "Odlazak",
+    "station": "BREGI",
+    "train_number": "45997",
+    "event_time": "2026-05-02T23:26:00",
+    "seen_at": "2026-05-02T21:32:22.719Z",
+    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:26, kolodvor BREGI"
   }
 ]
