@@ -1,23 +1,5 @@
 [
   {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "PREČEC stajalište",
-    "train_number": "75003",
-    "event_time": "2026-04-29T09:26:00",
-    "seen_at": "2026-04-29T07:26:45.689Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 09:26, kolodvor 92515"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "MRZLO POLJE",
-    "train_number": "75052",
-    "event_time": "2026-04-29T09:27:00",
-    "seen_at": "2026-04-29T07:28:19.037Z",
-    "raw": "Br. Vlaka 75052 dolazak      29.04.26. 09:27, kolodvor MRZLO POLJE"
-  },
-  {
     "uic": "987891162057",
     "type": "Rasformiran",
     "station": "SIBINJ",
@@ -9124,5 +9106,23 @@
     "event_time": "2026-05-02T09:03:00",
     "seen_at": "2026-05-02T07:05:50.822Z",
     "raw": "Br. Vlaka 47988 odlazak      02.05.26. 09:03, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81981",
+    "event_time": "2026-05-02T07:46:00",
+    "seen_at": "2026-05-02T07:21:16.472Z",
+    "raw": "Br. Vlaka 81981 formiran     02.05.26. 07:46, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "81981",
+    "event_time": "2026-05-02T07:46:00",
+    "seen_at": "2026-05-02T07:21:40.832Z",
+    "raw": "Br. Vlaka 81981 formiran     02.05.26. 07:46, kolodvor OŠTARIJE"
   }
 ]
