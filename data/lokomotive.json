@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "44690",
-    "event_time": "2026-04-29T19:25:00",
-    "seen_at": "2026-04-29T17:31:37.084Z",
-    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 19:25, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "44690",
-    "event_time": "2026-04-29T19:25:00",
-    "seen_at": "2026-04-29T17:31:37.084Z",
-    "raw": "Br. Vlaka 44690 dolazak      29.04.26. 19:25, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440232",
     "type": "Odlazak",
     "station": "KOPRIVNICA",
     "train_number": "44690",
@@ -8341,5 +8323,23 @@
     "event_time": "2026-05-02T17:32:00",
     "seen_at": "2026-05-02T16:54:59.448Z",
     "raw": "Br. Vlaka 69005 formiran     02.05.26. 17:32, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-02T19:35:00",
+    "seen_at": "2026-05-02T17:35:39.720Z",
+    "raw": "Br. Vlaka 69005 odlazak      02.05.26. 19:35, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-02T19:35:00",
+    "seen_at": "2026-05-02T17:35:39.720Z",
+    "raw": "Br. Vlaka 69005 odlazak      02.05.26. 19:35, kolodvor OGULIN"
   }
 ]
