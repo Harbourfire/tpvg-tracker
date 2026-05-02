@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "SLAVONSKI ŠAMAC",
-    "train_number": "79924",
-    "event_time": "2026-04-29T14:30:00",
-    "seen_at": "2026-04-29T12:40:50.581Z",
-    "raw": "Br. Vlaka 79924 odlazak      29.04.26. 14:30, kolodvor SLAVONSKI ŠAMAC"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "KOPANICA-BERAVCI",
-    "train_number": "79924",
-    "event_time": "2026-04-29T14:40:00",
-    "seen_at": "2026-04-29T12:41:49.846Z",
-    "raw": "Br. Vlaka 79924 dolazak      29.04.26. 14:40, kolodvor KOPANICA-BERAVCI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-29T14:36:00",
-    "seen_at": "2026-04-29T12:42:58.919Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-29T14:36:00",
-    "seen_at": "2026-04-29T12:42:58.919Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "ĐAKOVO",
@@ -8701,5 +8665,23 @@
     "event_time": "2026-05-02T14:29:00",
     "seen_at": "2026-05-02T12:33:39.376Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-05-02T14:40:00",
+    "seen_at": "2026-05-02T12:42:51.649Z",
+    "raw": "Br. Vlaka 81984 dolazak      02.05.26. 14:40, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "81984",
+    "event_time": "2026-05-02T14:40:00",
+    "seen_at": "2026-05-02T12:42:51.649Z",
+    "raw": "Br. Vlaka 81984 dolazak      02.05.26. 14:40, kolodvor JOSIPDOL"
   }
 ]
