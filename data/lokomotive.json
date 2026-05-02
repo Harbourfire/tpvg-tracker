@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "ORIOVAC",
-    "train_number": null,
-    "event_time": "2026-04-29T08:35:00",
-    "seen_at": "2026-04-29T06:36:04.674Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72706 ORIOVAC"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "VUKOVAR",
-    "train_number": "79921",
-    "event_time": "2026-04-29T08:35:00",
-    "seen_at": "2026-04-29T06:36:28.561Z",
-    "raw": "Br. Vlaka 79921 odlazak      29.04.26. 08:35, kolodvor VUKOVAR"
-  },
-  {
-    "uic": "997894215703",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "75003",
-    "event_time": "2026-04-29T08:40:00",
-    "seen_at": "2026-04-29T06:40:49.493Z",
-    "raw": "Br. Vlaka 75003 odlazak      29.04.26. 08:40, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "VUKOVAR-BOROVO NAS.",
-    "train_number": "79921",
-    "event_time": "2026-04-29T08:40:00",
-    "seen_at": "2026-04-29T06:41:13.157Z",
-    "raw": "Br. Vlaka 79921 odlazak      29.04.26. 08:40, kolodvor VUKOVAR-BOROVO NAS."
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "OŠTARIJE",
@@ -9223,5 +9187,14 @@
     "event_time": "2026-05-02T08:30:00",
     "seen_at": "2026-05-02T06:30:50.284Z",
     "raw": "Br. Vlaka 48799 odlazak      02.05.26. 08:30, kolodvor GRADEC"
+  },
+  {
+    "uic": "927820620189",
+    "type": "Rasformiran",
+    "station": "BRČKO - izvan HŽ",
+    "train_number": null,
+    "event_time": "2026-05-02T08:29:00",
+    "seen_at": "2026-05-02T06:40:31.169Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
   }
 ]
