@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "ČAČINCI",
-    "train_number": "89300",
-    "event_time": "2026-04-30T07:24:00",
-    "seen_at": "2026-04-30T05:24:12.619Z",
-    "raw": "Br. Vlaka 89300 dolazak      30.04.26. 07:24, kolodvor ČAČINCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89870",
-    "event_time": "2026-04-30T07:23:00",
-    "seen_at": "2026-04-30T05:26:19.633Z",
-    "raw": "Br. Vlaka 89870 dolazak      30.04.26. 07:23, kolodvor 73164"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "79931",
-    "event_time": "2026-04-30T07:25:00",
-    "seen_at": "2026-04-30T05:27:06.048Z",
-    "raw": "Br. Vlaka 79931 odlazak      30.04.26. 07:25, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "ČAČINCI",
-    "train_number": "89300",
-    "event_time": "2026-04-30T07:27:00",
-    "seen_at": "2026-04-30T05:28:15.374Z",
-    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 07:27, kolodvor ČAČINCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "OTOK",
@@ -8386,5 +8350,14 @@
     "event_time": "2026-05-03T06:28:00",
     "seen_at": "2026-05-03T04:29:29.968Z",
     "raw": "Br. Vlaka 89186 formiran     03.05.26. 06:28, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Formiran",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89116",
+    "event_time": "2026-05-03T07:32:00",
+    "seen_at": "2026-05-03T05:32:37.063Z",
+    "raw": "Br. Vlaka 89116 formiran     03.05.26. 07:32, kolodvor STRIZIVOJNA VRPOLJE"
   }
 ]
