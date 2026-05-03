@@ -2,42 +2,6 @@
   {
     "uic": "987890033630",
     "type": "Odlazak",
-    "station": "SIBINJ",
-    "train_number": "79930",
-    "event_time": "2026-04-30T05:58:00",
-    "seen_at": "2026-04-30T03:58:28.301Z",
-    "raw": "Br. Vlaka 79930 odlazak      30.04.26. 05:58, kolodvor SIBINJ"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "45105",
-    "event_time": "2026-04-30T06:05:00",
-    "seen_at": "2026-04-30T04:05:36.180Z",
-    "raw": "Br. Vlaka 45105 formiran     30.04.26. 06:05, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Odlazak",
-    "station": "BIZOVAC",
-    "train_number": "89300",
-    "event_time": "2026-04-30T06:03:00",
-    "seen_at": "2026-04-30T04:05:36.184Z",
-    "raw": "Br. Vlaka 89300 odlazak      30.04.26. 06:03, kolodvor BIZOVAC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45992",
-    "event_time": "2026-04-30T06:00:00",
-    "seen_at": "2026-04-30T04:07:10.460Z",
-    "raw": "Br. Vlaka 45992 dolazak      30.04.26. 06:00, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
     "station": "ORIOVAC",
     "train_number": "79930",
     "event_time": "2026-04-30T06:10:00",
@@ -8557,5 +8521,14 @@
     "event_time": "2026-05-03T05:47:00",
     "seen_at": "2026-05-03T03:54:10.830Z",
     "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "89400",
+    "event_time": "2026-05-02T13:23:00",
+    "seen_at": "2026-05-03T04:02:13.822Z",
+    "raw": "Br. Vlaka 89400 formiran     02.05.26. 13:23, kolodvor 71020"
   }
 ]
