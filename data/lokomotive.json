@@ -2,15 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63305",
-    "event_time": "2026-05-01T00:18:00",
-    "seen_at": "2026-04-30T22:19:36.014Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:18, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "63305",
     "event_time": "2026-05-01T00:27:00",
@@ -8377,5 +8368,14 @@
     "event_time": "2026-05-04T00:15:00",
     "seen_at": "2026-05-03T22:16:55.062Z",
     "raw": "Br. Vlaka 63305 odlazak      04.05.26. 00:15, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "48895",
+    "event_time": "2026-05-04T00:20:00",
+    "seen_at": "2026-05-03T22:20:42.726Z",
+    "raw": "Br. Vlaka 48895 odlazak      04.05.26. 00:20, kolodvor JANKOVCI"
   }
 ]
