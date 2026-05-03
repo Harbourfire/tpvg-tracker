@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47944",
-    "event_time": "2026-05-01T01:33:00",
-    "seen_at": "2026-04-30T23:33:40.970Z",
-    "raw": "Br. Vlaka 47944 dolazak      01.05.26. 01:33, kolodvor 72302"
-  },
-  {
     "uic": "928012230035",
     "type": "Rasformiran",
     "station": "GOSPIĆ",
@@ -8386,5 +8377,23 @@
     "event_time": "2026-05-04T01:10:00",
     "seen_at": "2026-05-03T23:11:24.871Z",
     "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:10, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-05-04T01:23:00",
+    "seen_at": "2026-05-03T23:25:37.447Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:23, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "63306",
+    "event_time": "2026-05-04T01:23:00",
+    "seen_at": "2026-05-03T23:25:37.447Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:23, kolodvor PERUŠIĆ"
   }
 ]
