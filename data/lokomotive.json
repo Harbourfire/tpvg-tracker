@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "69821",
-    "event_time": "2026-04-30T08:23:00",
-    "seen_at": "2026-04-30T06:24:05.246Z",
-    "raw": "Br. Vlaka 69821 formiran     30.04.26. 08:23, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "PLETERNICA",
-    "train_number": "79933",
-    "event_time": "2026-04-30T08:29:00",
-    "seen_at": "2026-04-30T06:29:54.865Z",
-    "raw": "Br. Vlaka 79933 formiran     30.04.26. 08:29, kolodvor PLETERNICA"
-  },
-  {
     "uic": "928012230142",
     "type": "Rasformiran",
     "station": "SAVSKI MAROF granica",
@@ -8395,5 +8377,32 @@
     "event_time": "2026-05-03T08:14:00",
     "seen_at": "2026-05-03T06:17:52.101Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:14, kolodvor ĐELETOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "JANKOVCI",
+    "train_number": "89400",
+    "event_time": "2026-05-03T08:22:00",
+    "seen_at": "2026-05-03T06:22:44.419Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:22, kolodvor JANKOVCI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Formiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48895",
+    "event_time": "2026-05-03T08:24:00",
+    "seen_at": "2026-05-03T06:29:06.780Z",
+    "raw": "Br. Vlaka 48895 formiran     03.05.26. 08:24, kolodvor 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89400",
+    "event_time": "2026-05-03T08:30:00",
+    "seen_at": "2026-05-03T06:31:29.253Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:30, kolodvor VINKOVCI"
   }
 ]
