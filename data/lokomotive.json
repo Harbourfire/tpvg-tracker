@@ -1,59 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "89250",
-    "event_time": "2026-04-30T09:23:00",
-    "seen_at": "2026-04-30T07:27:07.078Z",
-    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:23, kolodvor SAVSKI MAROF"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-30T09:26:00",
-    "seen_at": "2026-04-30T07:27:53.940Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-04-29T19:25:00",
-    "seen_at": "2026-04-30T07:28:17.400Z",
-    "raw": "Br. Vlaka 47944 formiran     29.04.26. 19:25, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "VELIKA",
-    "train_number": "79933",
-    "event_time": "2026-04-30T09:27:00",
-    "seen_at": "2026-04-30T07:28:17.402Z",
-    "raw": "Br. Vlaka 79933 dolazak      30.04.26. 09:27, kolodvor VELIKA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "ŽUPANJA",
-    "train_number": null,
-    "event_time": "2026-04-30T09:28:00",
-    "seen_at": "2026-04-30T07:28:40.594Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71405 ŽUPANJA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "VELIKA",
-    "train_number": null,
-    "event_time": "2026-04-30T09:27:00",
-    "seen_at": "2026-04-30T07:29:04.302Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73505 VELIKA"
-  },
-  {
     "uic": "987891162057",
     "type": "Rasformiran",
     "station": "GARČIN",
@@ -8341,5 +8287,32 @@
     "event_time": "2026-05-03T09:14:00",
     "seen_at": "2026-05-03T07:15:09.397Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:14, kolodvor SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89116",
+    "event_time": "2026-05-03T09:22:00",
+    "seen_at": "2026-05-03T07:23:08.719Z",
+    "raw": "Br. Vlaka 89116 odlazak      03.05.26. 09:22, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "89400",
+    "event_time": "2026-05-03T09:23:00",
+    "seen_at": "2026-05-03T07:23:54.805Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:23, kolodvor SIBINJ"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VUKOVAR-BOROVO NAS.",
+    "train_number": "81187",
+    "event_time": "2026-05-03T09:23:00",
+    "seen_at": "2026-05-03T07:24:42.102Z",
+    "raw": "Br. Vlaka 81187 odlazak      03.05.26. 09:23, kolodvor VUKOVAR-BOROVO NAS."
   }
 ]
