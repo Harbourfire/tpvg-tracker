@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63305",
-    "event_time": "2026-05-01T00:46:00",
-    "seen_at": "2026-04-30T22:47:17.450Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:46, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "VRHOVINE",
-    "train_number": "63305",
-    "event_time": "2026-05-01T00:52:00",
-    "seen_at": "2026-04-30T22:54:13.815Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 00:52, kolodvor VRHOVINE"
-  },
-  {
     "uic": "927820620254",
     "type": "Rasformiran",
     "station": "VINKOVCI",
@@ -8422,5 +8404,14 @@
     "event_time": "2026-05-04T00:37:00",
     "seen_at": "2026-05-03T22:38:57.263Z",
     "raw": "Br. Vlaka 48895 dolazak      04.05.26. 00:37, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "46894",
+    "event_time": "2026-05-04T00:53:00",
+    "seen_at": "2026-05-03T22:53:37.177Z",
+    "raw": "Br. Vlaka 46894 odlazak      04.05.26. 00:53, kolodvor VINKOVCI"
   }
 ]
