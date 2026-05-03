@@ -1,51 +1,6 @@
 [
   {
     "uic": "987891162057",
-    "type": "Odlazak",
-    "station": "GARČIN",
-    "train_number": "71204",
-    "event_time": "2026-04-30T11:25:00",
-    "seen_at": "2026-04-30T09:28:34.206Z",
-    "raw": "Br. Vlaka 71204 odlazak      30.04.26. 11:25, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "82525",
-    "event_time": "2026-04-30T11:27:00",
-    "seen_at": "2026-04-30T09:29:19.926Z",
-    "raw": "Br. Vlaka 82525 odlazak      30.04.26. 11:27, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "OKUČANI",
-    "train_number": "79934",
-    "event_time": "2026-04-30T11:29:00",
-    "seen_at": "2026-04-30T09:30:06.178Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 11:29, kolodvor OKUČANI"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "75065",
-    "event_time": "2026-04-30T11:30:00",
-    "seen_at": "2026-04-30T09:32:25.360Z",
-    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 11:30, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "987891032060",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-27T11:31:00",
-    "seen_at": "2026-04-30T09:33:11.179Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "987891162057",
     "type": "Rasformiran",
     "station": "SLAVONSKI BROD",
     "train_number": null,
@@ -8215,5 +8170,32 @@
     "event_time": "2026-05-03T11:22:00",
     "seen_at": "2026-05-03T09:23:55.694Z",
     "raw": "Br. Vlaka 69861 odlazak      03.05.26. 11:22, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82323",
+    "event_time": "2026-05-03T11:32:00",
+    "seen_at": "2026-05-03T09:33:54.055Z",
+    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 11:32, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82323",
+    "event_time": "2026-05-03T11:32:00",
+    "seen_at": "2026-05-03T09:33:54.055Z",
+    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 11:32, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "987891032060",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-27T11:31:00",
+    "seen_at": "2026-05-03T09:33:54.057Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
