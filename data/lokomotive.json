@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-29T15:00:00",
-    "seen_at": "2026-04-30T07:03:13.699Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "89250",
-    "event_time": "2026-04-30T09:03:00",
-    "seen_at": "2026-04-30T07:03:13.699Z",
-    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 09:03, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440240",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-04-29T15:00:00",
-    "seen_at": "2026-04-30T07:03:37.070Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "79933",
-    "event_time": "2026-04-30T09:03:00",
-    "seen_at": "2026-04-30T07:04:23.386Z",
-    "raw": "Br. Vlaka 79933 odlazak      30.04.26. 09:03, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "PODSUSED tvornica",
@@ -8404,5 +8368,23 @@
     "event_time": "2026-05-03T08:58:00",
     "seen_at": "2026-05-03T06:58:53.031Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:58, kolodvor ANDRIJEVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "GARČIN",
+    "train_number": "89400",
+    "event_time": "2026-05-03T09:04:00",
+    "seen_at": "2026-05-03T07:05:02.651Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:04, kolodvor GARČIN"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "81187",
+    "event_time": "2026-05-03T09:05:00",
+    "seen_at": "2026-05-03T07:06:38.271Z",
+    "raw": "Br. Vlaka 81187 odlazak      03.05.26. 09:05, kolodvor VINKOVCI"
   }
 ]
