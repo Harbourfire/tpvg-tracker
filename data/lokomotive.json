@@ -1,24 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "NOVSKA",
-    "train_number": "79934",
-    "event_time": "2026-04-30T11:45:00",
-    "seen_at": "2026-04-30T09:47:36.361Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 11:45, kolodvor NOVSKA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "82525",
-    "event_time": "2026-04-30T11:49:00",
-    "seen_at": "2026-04-30T09:51:33.626Z",
-    "raw": "Br. Vlaka 82525 odlazak      30.04.26. 11:49, kolodvor POŽEGA"
-  },
-  {
-    "uic": "987890033630",
     "type": "Dolazak",
     "station": "LIPOVLJANI",
     "train_number": "79934",
@@ -8161,5 +8143,32 @@
     "event_time": "2026-05-03T11:44:00",
     "seen_at": "2026-05-03T09:45:31.989Z",
     "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "JALŽABET",
+    "train_number": "81220",
+    "event_time": "2026-05-03T11:45:00",
+    "seen_at": "2026-05-03T09:47:43.398Z",
+    "raw": "Br. Vlaka 81220 odlazak      03.05.26. 11:45, kolodvor JALŽABET"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82500",
+    "event_time": "2026-05-03T11:26:00",
+    "seen_at": "2026-05-03T09:53:39.506Z",
+    "raw": "Br. Vlaka 82500 formiran     03.05.26. 11:26, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "GOSPIĆ",
+    "train_number": "82500",
+    "event_time": "2026-05-03T11:26:00",
+    "seen_at": "2026-05-03T09:54:03.331Z",
+    "raw": "Br. Vlaka 82500 formiran     03.05.26. 11:26, kolodvor GOSPIĆ"
   }
 ]
