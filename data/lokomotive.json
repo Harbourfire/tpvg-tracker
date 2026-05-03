@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-30T23:49:00",
-    "seen_at": "2026-04-30T21:54:26.284Z",
-    "raw": "Br. Vlaka 63305 dolazak      30.04.26. 23:49, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-04-30T23:49:00",
-    "seen_at": "2026-04-30T21:56:44.345Z",
-    "raw": "Br. Vlaka 63305 promjena sas 30.04.26. 23:49, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63305",
@@ -8359,5 +8341,14 @@
     "event_time": "2026-05-03T23:28:00",
     "seen_at": "2026-05-03T21:40:59.113Z",
     "raw": "Br. Vlaka 63305 promjena sas 03.05.26. 23:28, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "48895",
+    "event_time": "2026-05-03T23:51:00",
+    "seen_at": "2026-05-03T21:52:29.199Z",
+    "raw": "Br. Vlaka 48895 odlazak      03.05.26. 23:51, kolodvor VINKOVCI"
   }
 ]
