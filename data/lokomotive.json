@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "79933",
-    "event_time": "2026-04-30T08:52:00",
-    "seen_at": "2026-04-30T06:55:07.808Z",
-    "raw": "Br. Vlaka 79933 odlazak      30.04.26. 08:52, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "89250",
-    "event_time": "2026-04-30T08:55:00",
-    "seen_at": "2026-04-30T06:55:31.495Z",
-    "raw": "Br. Vlaka 89250 odlazak      30.04.26. 08:55, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "69821",
-    "event_time": "2026-04-30T08:50:00",
-    "seen_at": "2026-04-30T06:56:18.810Z",
-    "raw": "Br. Vlaka 69821 odlazak      30.04.26. 08:50, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-30T08:59:00",
-    "seen_at": "2026-04-30T07:00:13.086Z",
-    "raw": "Br. Vlaka 45104 formiran     30.04.26. 08:59, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820440232",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8413,5 +8377,32 @@
     "event_time": "2026-05-03T08:47:00",
     "seen_at": "2026-05-03T06:49:09.814Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "VINKOVCI",
+    "train_number": "81187",
+    "event_time": "2026-05-03T08:46:00",
+    "seen_at": "2026-05-03T06:52:15.535Z",
+    "raw": "Br. Vlaka 81187 promjena sas 03.05.26. 08:46, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "STRIZIVOJNA VRPOLJE",
+    "train_number": "89400",
+    "event_time": "2026-05-03T08:50:00",
+    "seen_at": "2026-05-03T06:55:45.785Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:50, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ANDRIJEVCI",
+    "train_number": "89400",
+    "event_time": "2026-05-03T08:58:00",
+    "seen_at": "2026-05-03T06:58:53.031Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:58, kolodvor ANDRIJEVCI"
   }
 ]
