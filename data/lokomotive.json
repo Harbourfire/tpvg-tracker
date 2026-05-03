@@ -2,15 +2,6 @@
   {
     "uic": "927820621104",
     "type": "Odlazak",
-    "station": "ORIOVAC",
-    "train_number": "82121",
-    "event_time": "2026-04-30T20:33:00",
-    "seen_at": "2026-04-30T18:34:14.601Z",
-    "raw": "Br. Vlaka 82121 odlazak      30.04.26. 20:33, kolodvor ORIOVAC"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
     "station": "SIBINJ",
     "train_number": "82121",
     "event_time": "2026-04-30T20:48:00",
@@ -8332,5 +8323,32 @@
     "event_time": "2026-05-03T20:19:00",
     "seen_at": "2026-05-03T18:23:07.874Z",
     "raw": "Br. Vlaka 48895 odlazak      03.05.26. 20:19, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-05-03T20:22:00",
+    "seen_at": "2026-05-03T18:26:32.789Z",
+    "raw": "Br. Vlaka 63305 formiran     03.05.26. 20:22, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OŠTARIJE",
+    "train_number": "63305",
+    "event_time": "2026-05-03T20:22:00",
+    "seen_at": "2026-05-03T18:26:56.574Z",
+    "raw": "Br. Vlaka 63305 formiran     03.05.26. 20:22, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SIBINJ",
+    "train_number": "48895",
+    "event_time": "2026-05-03T20:33:00",
+    "seen_at": "2026-05-03T18:33:56.673Z",
+    "raw": "Br. Vlaka 48895 odlazak      03.05.26. 20:33, kolodvor SIBINJ"
   }
 ]
