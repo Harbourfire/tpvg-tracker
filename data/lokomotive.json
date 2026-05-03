@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "47944",
-    "event_time": "2026-04-30T12:43:00",
-    "seen_at": "2026-04-30T10:44:22.559Z",
-    "raw": "Br. Vlaka 47944 odlazak      30.04.26. 12:43, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "NOVOSELEC",
-    "train_number": "79934",
-    "event_time": "2026-04-30T12:46:00",
-    "seen_at": "2026-04-30T10:46:48.050Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 12:46, kolodvor NOVOSELEC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-04-30T12:49:00",
-    "seen_at": "2026-04-30T10:50:46.263Z",
-    "raw": "Br. Vlaka 47944 dolazak      30.04.26. 12:49, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "DEANOVEC",
@@ -8080,5 +8053,23 @@
     "event_time": "2026-05-03T12:21:00",
     "seen_at": "2026-05-03T10:21:44.919Z",
     "raw": "Br. Vlaka 47191 odlazak      03.05.26. 12:21, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "RASINJA",
+    "train_number": "81220",
+    "event_time": "2026-05-03T12:24:00",
+    "seen_at": "2026-05-03T10:44:00.874Z",
+    "raw": "Br. Vlaka 81220 odlazak      03.05.26. 12:24, kolodvor RASINJA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T12:37:00",
+    "seen_at": "2026-05-03T10:47:54.573Z",
+    "raw": "Br. Vlaka 89400 dolazak      03.05.26. 12:37, kolodvor HRVATSKA DUBICA"
   }
 ]
