@@ -1,15 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63310",
-    "event_time": "2026-04-30T15:59:00",
-    "seen_at": "2026-04-30T14:00:34.552Z",
-    "raw": "Br. Vlaka 63310 dolazak      30.04.26. 15:59, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230035",
     "type": "Odlazak",
     "station": "PLAŠKI",
     "train_number": "63310",
@@ -8125,5 +8116,14 @@
     "event_time": "2026-05-03T15:48:00",
     "seen_at": "2026-05-03T13:55:42.472Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 15:48, kolodvor SUNJA"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "SISAK",
+    "train_number": "48895",
+    "event_time": "2026-05-03T15:43:00",
+    "seen_at": "2026-05-03T13:58:59.902Z",
+    "raw": "Br. Vlaka 48895 dolazak      03.05.26. 15:43, kolodvor SISAK"
   }
 ]
