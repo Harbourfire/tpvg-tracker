@@ -1,23 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Rasformiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": null,
-    "event_time": "2026-04-27T08:35:00",
-    "seen_at": "2026-04-30T06:36:11.851Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74103 SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "KOPRIVNICA",
-    "train_number": "47990",
-    "event_time": "2026-04-30T08:24:00",
-    "seen_at": "2026-04-30T06:37:48.428Z",
-    "raw": "Br. Vlaka 47990 formiran     30.04.26. 08:24, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -8404,5 +8386,32 @@
     "event_time": "2026-05-03T08:30:00",
     "seen_at": "2026-05-03T06:31:29.253Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:30, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89400",
+    "event_time": "2026-05-03T08:38:00",
+    "seen_at": "2026-05-03T06:38:35.640Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:38, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Promjena sastava",
+    "station": "ČAKOVEC",
+    "train_number": "81220",
+    "event_time": "2026-05-03T05:08:00",
+    "seen_at": "2026-05-03T06:40:37.499Z",
+    "raw": "Br. Vlaka 81220 promjena sas 03.05.26. 05:08, kolodvor ČAKOVEC"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Odlazak",
+    "station": "OSIJEK DONJI GRAD",
+    "train_number": "69750",
+    "event_time": "2026-05-03T08:40:00",
+    "seen_at": "2026-05-03T06:41:01.209Z",
+    "raw": "Br. Vlaka 69750 odlazak      03.05.26. 08:40, kolodvor OSIJEK DONJI GRAD"
   }
 ]
