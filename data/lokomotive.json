@@ -1,41 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "GARČIN",
-    "train_number": null,
-    "event_time": "2026-04-30T09:30:00",
-    "seen_at": "2026-04-30T07:32:26.307Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72804 GARČIN"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "79932",
-    "event_time": "2026-04-30T09:29:00",
-    "seen_at": "2026-04-30T07:32:49.586Z",
-    "raw": "Br. Vlaka 79932 formiran     30.04.26. 09:29, kolodvor VELIKA"
-  },
-  {
-    "uic": "987891162057",
-    "type": "Formiran",
-    "station": "GARČIN",
-    "train_number": "71204",
-    "event_time": "2026-04-30T09:35:00",
-    "seen_at": "2026-04-30T07:35:31.901Z",
-    "raw": "Br. Vlaka 71204 formiran     30.04.26. 09:35, kolodvor GARČIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-04-30T09:37:00",
-    "seen_at": "2026-04-30T07:38:38.285Z",
-    "raw": "Br. Vlaka 45104 odlazak      30.04.26. 09:37, kolodvor SPAČVA"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "VELIKA",
@@ -8314,5 +8278,50 @@
     "event_time": "2026-05-03T09:23:00",
     "seen_at": "2026-05-03T07:24:42.102Z",
     "raw": "Br. Vlaka 81187 odlazak      03.05.26. 09:23, kolodvor VUKOVAR-BOROVO NAS."
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VUKOVAR",
+    "train_number": null,
+    "event_time": "2026-05-03T09:29:00",
+    "seen_at": "2026-05-03T07:33:45.923Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71452 VUKOVAR"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-05-03T09:33:00",
+    "seen_at": "2026-05-03T07:34:09.550Z",
+    "raw": "Br. Vlaka 69175 odlazak      03.05.26. 09:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "OŠTARIJE",
+    "train_number": "69175",
+    "event_time": "2026-05-03T09:33:00",
+    "seen_at": "2026-05-03T07:34:09.551Z",
+    "raw": "Br. Vlaka 69175 odlazak      03.05.26. 09:33, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "ĐAKOVO",
+    "train_number": "89116",
+    "event_time": "2026-05-03T09:36:00",
+    "seen_at": "2026-05-03T07:37:41.100Z",
+    "raw": "Br. Vlaka 89116 odlazak      03.05.26. 09:36, kolodvor ĐAKOVO"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "89400",
+    "event_time": "2026-05-03T09:36:00",
+    "seen_at": "2026-05-03T07:37:41.100Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:36, kolodvor ORIOVAC"
   }
 ]
