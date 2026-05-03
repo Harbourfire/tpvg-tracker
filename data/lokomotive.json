@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "VELIKA",
-    "train_number": "79932",
-    "event_time": "2026-04-30T09:35:00",
-    "seen_at": "2026-04-30T07:41:14.670Z",
-    "raw": "Br. Vlaka 79932 odlazak      30.04.26. 09:35, kolodvor VELIKA"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "MRZLO POLJE",
-    "train_number": null,
-    "event_time": "2026-04-29T09:27:00",
-    "seen_at": "2026-04-30T07:45:56.186Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75101 MRZLO POLJE"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Formiran",
-    "station": "MRZLO POLJE",
-    "train_number": "75065",
-    "event_time": "2026-04-30T09:39:00",
-    "seen_at": "2026-04-30T07:46:19.544Z",
-    "raw": "Br. Vlaka 75065 formiran     30.04.26. 09:39, kolodvor MRZLO POLJE"
-  },
-  {
     "uic": "997894245619",
     "type": "Odlazak",
     "station": "MRZLO POLJE",
@@ -8323,5 +8296,32 @@
     "event_time": "2026-05-03T09:36:00",
     "seen_at": "2026-05-03T07:37:41.100Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:36, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-05-03T09:38:00",
+    "seen_at": "2026-05-03T07:43:00.721Z",
+    "raw": "Br. Vlaka 69175 odlazak      03.05.26. 09:38, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "JOSIPDOL",
+    "train_number": "69175",
+    "event_time": "2026-05-03T09:38:00",
+    "seen_at": "2026-05-03T07:43:00.721Z",
+    "raw": "Br. Vlaka 69175 odlazak      03.05.26. 09:38, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T09:45:00",
+    "seen_at": "2026-05-03T07:46:58.176Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:45, kolodvor NOVA KAPELA-BATRINA"
   }
 ]
