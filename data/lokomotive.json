@@ -2,15 +2,6 @@
   {
     "uic": "928012230076",
     "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "45992",
-    "event_time": "2026-04-30T04:40:00",
-    "seen_at": "2026-04-30T02:42:03.347Z",
-    "raw": "Br. Vlaka 45992 odlazak      30.04.26. 04:40, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
     "station": "GRADEC",
     "train_number": "45992",
     "event_time": "2026-04-30T04:51:00",
@@ -8647,5 +8638,41 @@
     "event_time": "2026-05-03T04:33:00",
     "seen_at": "2026-05-03T02:35:53.828Z",
     "raw": "Br. Vlaka 82320 odlazak      03.05.26. 04:33, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "82320",
+    "event_time": "2026-05-03T04:40:00",
+    "seen_at": "2026-05-03T02:42:22.045Z",
+    "raw": "Br. Vlaka 82320 dolazak      03.05.26. 04:40, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "OŠTARIJE",
+    "train_number": "82320",
+    "event_time": "2026-05-03T04:40:00",
+    "seen_at": "2026-05-03T02:42:22.045Z",
+    "raw": "Br. Vlaka 82320 dolazak      03.05.26. 04:40, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-05-03T04:40:00",
+    "seen_at": "2026-05-03T02:43:08.686Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-05-03T04:40:00",
+    "seen_at": "2026-05-03T02:43:08.686Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
   }
 ]
