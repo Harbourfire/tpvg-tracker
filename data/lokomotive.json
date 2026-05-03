@@ -1,32 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "75065",
-    "event_time": "2026-04-30T09:48:00",
-    "seen_at": "2026-04-30T07:49:45.465Z",
-    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 09:48, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45104",
-    "event_time": "2026-04-30T09:51:00",
-    "seen_at": "2026-04-30T07:51:20.284Z",
-    "raw": "Br. Vlaka 45104 odlazak      30.04.26. 09:51, kolodvor OTOK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "POŽEGA",
-    "train_number": "79932",
-    "event_time": "2026-04-30T09:50:00",
-    "seen_at": "2026-04-30T07:51:20.286Z",
-    "raw": "Br. Vlaka 79932 odlazak      30.04.26. 09:50, kolodvor POŽEGA"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "BLACKO JAKŠIĆ",
@@ -8323,5 +8296,32 @@
     "event_time": "2026-05-03T09:45:00",
     "seen_at": "2026-05-03T07:46:58.176Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:45, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-05-03T09:53:00",
+    "seen_at": "2026-05-03T07:54:23.368Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "PLAŠKI",
+    "train_number": null,
+    "event_time": "2026-05-03T09:53:00",
+    "seen_at": "2026-05-03T07:54:23.368Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76005 PLAŠKI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89400",
+    "event_time": "2026-05-03T09:56:00",
+    "seen_at": "2026-05-03T07:57:07.847Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:56, kolodvor STARO PETROVO SELO"
   }
 ]
