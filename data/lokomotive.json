@@ -1,24 +1,6 @@
 [
   {
     "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "LIPOVLJANI",
-    "train_number": "79934",
-    "event_time": "2026-04-30T11:56:00",
-    "seen_at": "2026-04-30T09:56:42.707Z",
-    "raw": "Br. Vlaka 79934 dolazak      30.04.26. 11:56, kolodvor LIPOVLJANI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Formiran",
-    "station": "ŽUPANJA",
-    "train_number": "45788",
-    "event_time": "2026-04-30T12:04:00",
-    "seen_at": "2026-04-30T10:04:19.768Z",
-    "raw": "Br. Vlaka 45788 formiran     30.04.26. 12:04, kolodvor ŽUPANJA"
-  },
-  {
-    "uic": "987890033630",
     "type": "Odlazak",
     "station": "LIPOVLJANI",
     "train_number": "79934",
@@ -8170,5 +8152,14 @@
     "event_time": "2026-05-03T11:26:00",
     "seen_at": "2026-05-03T09:54:03.331Z",
     "raw": "Br. Vlaka 82500 formiran     03.05.26. 11:26, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "LUDBREG",
+    "train_number": "81220",
+    "event_time": "2026-05-03T12:01:00",
+    "seen_at": "2026-05-03T10:02:06.902Z",
+    "raw": "Br. Vlaka 81220 odlazak      03.05.26. 12:01, kolodvor LUDBREG"
   }
 ]
