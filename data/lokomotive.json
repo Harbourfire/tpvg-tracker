@@ -1,50 +1,5 @@
 [
   {
-    "uic": "987895225611",
-    "type": "Dolazak",
-    "station": "VIROVITICA",
-    "train_number": "89300",
-    "event_time": "2026-04-30T08:19:00",
-    "seen_at": "2026-04-30T08:31:40.085Z",
-    "raw": "Br. Vlaka 89300 dolazak      30.04.26. 08:19, kolodvor VIROVITICA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-30T08:19:00",
-    "seen_at": "2026-04-30T08:32:26.413Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-27T10:30:00",
-    "seen_at": "2026-04-30T08:33:35.543Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "69175",
-    "event_time": "2026-04-30T10:36:00",
-    "seen_at": "2026-04-30T08:37:03.934Z",
-    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:36, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "PLAŠKI",
-    "train_number": "69175",
-    "event_time": "2026-04-30T10:36:00",
-    "seen_at": "2026-04-30T08:37:03.934Z",
-    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:36, kolodvor PLAŠKI"
-  },
-  {
     "uic": "997894245619",
     "type": "Odlazak",
     "station": "DRAGANIĆI",
@@ -8314,5 +8269,50 @@
     "event_time": "2026-05-03T10:26:00",
     "seen_at": "2026-05-03T08:28:19.484Z",
     "raw": "Br. Vlaka 47191 promjena sas 03.05.26. 10:26, kolodvor OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82323",
+    "event_time": "2026-05-03T10:32:00",
+    "seen_at": "2026-05-03T08:32:54.094Z",
+    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 10:32, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "82323",
+    "event_time": "2026-05-03T10:32:00",
+    "seen_at": "2026-05-03T08:32:54.094Z",
+    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 10:32, kolodvor BLATA"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-04-30T08:19:00",
+    "seen_at": "2026-05-03T08:32:54.096Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-27T10:30:00",
+    "seen_at": "2026-05-03T08:34:04.310Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T10:37:00",
+    "seen_at": "2026-05-03T08:38:00.952Z",
+    "raw": "Br. Vlaka 89400 dolazak      03.05.26. 10:37, kolodvor NOVSKA"
   }
 ]
