@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "LIPOVLJANI",
-    "train_number": "79934",
-    "event_time": "2026-04-30T12:04:00",
-    "seen_at": "2026-04-30T10:06:12.210Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 12:04, kolodvor LIPOVLJANI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "BANOVA JARUGA",
-    "train_number": "79934",
-    "event_time": "2026-04-30T12:12:00",
-    "seen_at": "2026-04-30T10:12:50.984Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 12:12, kolodvor BANOVA JARUGA"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "ŽUPANJA",
@@ -8161,5 +8143,14 @@
     "event_time": "2026-05-03T12:01:00",
     "seen_at": "2026-05-03T10:02:06.902Z",
     "raw": "Br. Vlaka 81220 odlazak      03.05.26. 12:01, kolodvor LUDBREG"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T12:10:00",
+    "seen_at": "2026-05-03T10:11:47.510Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 12:10, kolodvor NOVSKA"
   }
 ]
