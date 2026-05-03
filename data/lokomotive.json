@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-30T14:56:00",
-    "seen_at": "2026-04-30T12:58:47.122Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "POŽEGA",
-    "train_number": "82121",
-    "event_time": "2026-04-30T14:56:00",
-    "seen_at": "2026-04-30T13:04:07.527Z",
-    "raw": "Br. Vlaka 82121 dolazak      30.04.26. 14:56, kolodvor POŽEGA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -8188,5 +8170,23 @@
     "event_time": "2026-05-03T14:56:00",
     "seen_at": "2026-05-03T12:57:27.806Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987890033630",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-30T14:56:00",
+    "seen_at": "2026-05-03T12:59:15.301Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Dolazak",
+    "station": "GREDA",
+    "train_number": "48895",
+    "event_time": "2026-05-03T15:02:00",
+    "seen_at": "2026-05-03T13:02:24.613Z",
+    "raw": "Br. Vlaka 48895 dolazak      03.05.26. 15:02, kolodvor GREDA"
   }
 ]
