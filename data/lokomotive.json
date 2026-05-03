@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81197",
-    "event_time": "2026-04-30T12:16:00",
-    "seen_at": "2026-04-30T11:48:36.838Z",
-    "raw": "Br. Vlaka 81197 promjena sas 30.04.26. 12:16, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "PREČEC stajalište",
-    "train_number": "79934",
-    "event_time": "2026-04-30T13:46:00",
-    "seen_at": "2026-04-30T11:49:47.458Z",
-    "raw": "Br. Vlaka 79934 dolazak      30.04.26. 13:46, kolodvor 92515"
-  },
-  {
     "uic": "987891213314",
     "type": "Dolazak",
     "station": "ORIOVAC",
@@ -8080,5 +8062,50 @@
     "event_time": "2026-05-03T13:37:00",
     "seen_at": "2026-05-03T11:38:37.454Z",
     "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:37, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "HRVATSKA DUBICA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T13:27:00",
+    "seen_at": "2026-05-03T11:42:47.735Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 13:27, kolodvor HRVATSKA DUBICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:47:00",
+    "seen_at": "2026-05-03T11:48:19.070Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:47, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:47:00",
+    "seen_at": "2026-05-03T11:48:19.070Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:47, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "RASINJA",
+    "train_number": "69660",
+    "event_time": "2026-05-03T13:35:00",
+    "seen_at": "2026-05-03T11:50:19.450Z",
+    "raw": "Br. Vlaka 69660 odlazak      03.05.26. 13:35, kolodvor RASINJA"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "LUDBREG",
+    "train_number": "69660",
+    "event_time": "2026-05-03T13:48:00",
+    "seen_at": "2026-05-03T11:50:43.483Z",
+    "raw": "Br. Vlaka 69660 odlazak      03.05.26. 13:48, kolodvor LUDBREG"
   }
 ]
