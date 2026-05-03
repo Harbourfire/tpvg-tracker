@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "82121",
-    "event_time": "2026-04-30T20:01:00",
-    "seen_at": "2026-04-30T18:02:47.611Z",
-    "raw": "Br. Vlaka 82121 dolazak      30.04.26. 20:01, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820621104",
     "type": "Odlazak",
     "station": "NOVA KAPELA-BATRINA",
     "train_number": "82121",
@@ -8323,5 +8314,14 @@
     "event_time": "2026-05-03T19:44:00",
     "seen_at": "2026-05-03T17:44:54.073Z",
     "raw": "Br. Vlaka 48895 odlazak      03.05.26. 19:44, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "48895",
+    "event_time": "2026-05-03T19:58:00",
+    "seen_at": "2026-05-03T17:58:16.703Z",
+    "raw": "Br. Vlaka 48895 odlazak      03.05.26. 19:58, kolodvor STARO PETROVO SELO"
   }
 ]
