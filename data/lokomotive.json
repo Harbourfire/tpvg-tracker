@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "45788",
-    "event_time": "2026-04-30T13:05:00",
-    "seen_at": "2026-04-30T11:06:11.593Z",
-    "raw": "Br. Vlaka 45788 dolazak      30.04.26. 13:05, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-30T13:08:00",
-    "seen_at": "2026-04-30T11:08:32.897Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-04-30T13:08:00",
-    "seen_at": "2026-04-30T11:08:32.898Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
     "uic": "987891213314",
     "type": "Formiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -8089,5 +8062,41 @@
     "event_time": "2026-05-03T12:03:00",
     "seen_at": "2026-05-03T11:01:25.703Z",
     "raw": "Br. Vlaka 69660 formiran     03.05.26. 12:03, kolodvor KOPRIVNICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:06:00",
+    "seen_at": "2026-05-03T11:07:29.491Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:06, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PERUŠIĆ",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:06:00",
+    "seen_at": "2026-05-03T11:07:29.491Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:06, kolodvor PERUŠIĆ"
+  },
+  {
+    "uic": "928012230100",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-04-30T13:08:00",
+    "seen_at": "2026-05-03T11:09:01.984Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "KOPRIVNICA",
+    "train_number": "69660",
+    "event_time": "2026-05-03T13:08:00",
+    "seen_at": "2026-05-03T11:09:49.289Z",
+    "raw": "Br. Vlaka 69660 odlazak      03.05.26. 13:08, kolodvor KOPRIVNICA"
   }
 ]
