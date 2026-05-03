@@ -2,51 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB ZAPADNI",
-    "train_number": "47944",
-    "event_time": "2026-04-30T22:59:00",
-    "seen_at": "2026-04-30T20:59:41.456Z",
-    "raw": "Br. Vlaka 47944 odlazak      30.04.26. 22:59, kolodvor ZAGREB ZAP. KOL."
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": null,
-    "event_time": "2026-04-30T22:56:00",
-    "seen_at": "2026-04-30T21:01:39.939Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73204 KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89872",
-    "event_time": "2026-04-30T08:23:00",
-    "seen_at": "2026-04-30T21:02:49.758Z",
-    "raw": "Br. Vlaka 89872 formiran     30.04.26. 08:23, kolodvor KOPRIVNICA GR    A"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "82121",
-    "event_time": "2026-04-30T23:03:00",
-    "seen_at": "2026-04-30T21:04:24.249Z",
-    "raw": "Br. Vlaka 82121 odlazak      30.04.26. 23:03, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB KLARA",
-    "train_number": "47944",
-    "event_time": "2026-04-30T23:06:00",
-    "seen_at": "2026-04-30T21:07:28.529Z",
-    "raw": "Br. Vlaka 47944 odlazak      30.04.26. 23:06, kolodvor ZAGREB KLARA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "ZAGREB RANŽIRNI (PS)",
     "train_number": "47944",
     "event_time": "2026-04-30T23:11:00",
@@ -8404,5 +8359,23 @@
     "event_time": "2026-05-03T22:37:00",
     "seen_at": "2026-05-03T20:38:50.820Z",
     "raw": "Br. Vlaka 63305 odlazak      03.05.26. 22:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-05-03T23:05:00",
+    "seen_at": "2026-05-03T21:08:41.685Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.05.26. 23:05, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "RUDOPOLJE",
+    "train_number": "63305",
+    "event_time": "2026-05-03T23:05:00",
+    "seen_at": "2026-05-03T21:08:41.685Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.05.26. 23:05, kolodvor RUDOPOLJE"
   }
 ]
