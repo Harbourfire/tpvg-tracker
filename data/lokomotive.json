@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-30T06:26:00",
-    "seen_at": "2026-04-30T04:33:16.011Z",
-    "raw": "Br. Vlaka 69005 odlazak      30.04.26. 06:26, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-04-30T06:26:00",
-    "seen_at": "2026-04-30T04:33:16.011Z",
-    "raw": "Br. Vlaka 69005 odlazak      30.04.26. 06:26, kolodvor OGULIN"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-30T06:33:00",
-    "seen_at": "2026-04-30T04:33:39.018Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-30T06:33:00",
-    "seen_at": "2026-04-30T04:33:39.018Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "KOŠKA",
@@ -8485,5 +8449,14 @@
     "event_time": "2026-05-02T13:23:00",
     "seen_at": "2026-05-03T04:02:13.822Z",
     "raw": "Br. Vlaka 89400 formiran     02.05.26. 13:23, kolodvor 71020"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Formiran",
+    "station": "VARAŽDIN",
+    "train_number": "89186",
+    "event_time": "2026-05-03T06:28:00",
+    "seen_at": "2026-05-03T04:29:29.968Z",
+    "raw": "Br. Vlaka 89186 formiran     03.05.26. 06:28, kolodvor VARAŽDIN"
   }
 ]
