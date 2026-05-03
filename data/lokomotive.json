@@ -1,24 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "63310",
-    "event_time": "2026-04-30T15:46:00",
-    "seen_at": "2026-04-30T13:47:33.449Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 15:46, kolodvor BLATA"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "82121",
-    "event_time": "2026-04-30T15:49:00",
-    "seen_at": "2026-04-30T13:53:35.494Z",
-    "raw": "Br. Vlaka 82121 dolazak      30.04.26. 15:49, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "928012230035",
     "type": "Dolazak",
     "station": "PLAŠKI",
     "train_number": "63310",
@@ -8134,5 +8116,14 @@
     "event_time": "2026-05-03T15:30:00",
     "seen_at": "2026-05-03T13:35:15.386Z",
     "raw": "Br. Vlaka 48895 odlazak      03.05.26. 15:30, kolodvor GREDA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "SUNJA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T15:48:00",
+    "seen_at": "2026-05-03T13:55:42.472Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 15:48, kolodvor SUNJA"
   }
 ]
