@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-30T04:12:00",
-    "seen_at": "2026-04-30T02:13:48.165Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-04-30T04:12:00",
-    "seen_at": "2026-04-30T02:13:48.165Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-30T02:46:00",
-    "seen_at": "2026-04-30T02:19:13.270Z",
-    "raw": "Br. Vlaka 69006 formiran     30.04.26. 02:46, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-04-30T02:46:00",
-    "seen_at": "2026-04-30T02:19:13.270Z",
-    "raw": "Br. Vlaka 69006 formiran     30.04.26. 02:46, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -8647,5 +8611,23 @@
     "event_time": "2026-05-03T04:06:00",
     "seen_at": "2026-05-03T02:07:16.925Z",
     "raw": "Br. Vlaka 82320 odlazak      03.05.26. 04:06, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82320",
+    "event_time": "2026-05-03T04:17:00",
+    "seen_at": "2026-05-03T02:18:05.638Z",
+    "raw": "Br. Vlaka 82320 odlazak      03.05.26. 04:17, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "82320",
+    "event_time": "2026-05-03T04:17:00",
+    "seen_at": "2026-05-03T02:18:05.638Z",
+    "raw": "Br. Vlaka 82320 odlazak      03.05.26. 04:17, kolodvor PLAŠKI"
   }
 ]
