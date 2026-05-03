@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "45992",
-    "event_time": "2026-04-30T05:02:00",
-    "seen_at": "2026-04-30T03:02:30.955Z",
-    "raw": "Br. Vlaka 45992 dolazak      30.04.26. 05:02, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -8665,5 +8656,23 @@
     "event_time": "2026-05-03T04:40:00",
     "seen_at": "2026-05-03T02:43:08.686Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Dolazak",
+    "station": "OSIJEK",
+    "train_number": "82128",
+    "event_time": "2026-05-03T00:45:00",
+    "seen_at": "2026-05-03T03:04:15.180Z",
+    "raw": "Br. Vlaka 82128 dolazak      03.05.26. 00:45, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-05-03T00:45:00",
+    "seen_at": "2026-05-03T03:04:38.739Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
