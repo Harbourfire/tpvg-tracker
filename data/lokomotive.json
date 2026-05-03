@@ -1,23 +1,5 @@
 [
   {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "79932",
-    "event_time": "2026-04-30T09:58:00",
-    "seen_at": "2026-04-30T07:59:27.519Z",
-    "raw": "Br. Vlaka 79932 odlazak      30.04.26. 09:58, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "KARLOVAC",
-    "train_number": "75065",
-    "event_time": "2026-04-30T09:58:00",
-    "seen_at": "2026-04-30T07:59:27.520Z",
-    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 09:58, kolodvor KARLOVAC"
-  },
-  {
     "uic": "997894245619",
     "type": "Dolazak",
     "station": "DRAGANIĆI",
@@ -8323,5 +8305,14 @@
     "event_time": "2026-05-03T09:56:00",
     "seen_at": "2026-05-03T07:57:07.847Z",
     "raw": "Br. Vlaka 89400 odlazak      03.05.26. 09:56, kolodvor STARO PETROVO SELO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Formiran",
+    "station": "VUKOVAR",
+    "train_number": "69861",
+    "event_time": "2026-05-03T10:07:00",
+    "seen_at": "2026-05-03T08:08:22.228Z",
+    "raw": "Br. Vlaka 69861 formiran     03.05.26. 10:07, kolodvor VUKOVAR"
   }
 ]
