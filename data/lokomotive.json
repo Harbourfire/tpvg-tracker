@@ -1,95 +1,5 @@
 [
   {
-    "uic": "987891162057",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-30T11:35:00",
-    "seen_at": "2026-04-30T09:36:13.893Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "69175",
-    "event_time": "2026-04-30T11:34:00",
-    "seen_at": "2026-04-30T09:37:01.317Z",
-    "raw": "Br. Vlaka 69175 dolazak      30.04.26. 11:34, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Dolazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "69175",
-    "event_time": "2026-04-30T11:34:00",
-    "seen_at": "2026-04-30T09:37:01.317Z",
-    "raw": "Br. Vlaka 69175 dolazak      30.04.26. 11:34, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "LIČKO LEŠĆE",
-    "train_number": null,
-    "event_time": "2026-04-30T11:34:00",
-    "seen_at": "2026-04-30T09:37:25.006Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76103 LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Rasformiran",
-    "station": "LIČKO LEŠĆE",
-    "train_number": null,
-    "event_time": "2026-04-30T11:34:00",
-    "seen_at": "2026-04-30T09:37:25.006Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76103 LIČKO LEŠĆE"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "PODSUSED tvornica",
-    "train_number": "75065",
-    "event_time": "2026-04-30T11:38:00",
-    "seen_at": "2026-04-30T09:38:35.666Z",
-    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 11:38, kolodvor PODSUSED tvornica"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Odlazak",
-    "station": "BLACKO JAKŠIĆ",
-    "train_number": "82525",
-    "event_time": "2026-04-30T11:39:00",
-    "seen_at": "2026-04-30T09:39:22.817Z",
-    "raw": "Br. Vlaka 82525 odlazak      30.04.26. 11:39, kolodvor BLACKO JAKŠIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82127",
-    "event_time": "2026-04-30T08:57:00",
-    "seen_at": "2026-04-30T09:40:11.076Z",
-    "raw": "Br. Vlaka 82127 formiran     30.04.26. 08:57, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Formiran",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "82127",
-    "event_time": "2026-04-30T08:57:00",
-    "seen_at": "2026-04-30T09:40:11.077Z",
-    "raw": "Br. Vlaka 82127 formiran     30.04.26. 08:57, kolodvor LIČKO LEŠĆE"
-  },
-  {
-    "uic": "997894245619",
-    "type": "Rasformiran",
-    "station": "ZAPREŠIĆ",
-    "train_number": null,
-    "event_time": "2026-04-30T11:43:00",
-    "seen_at": "2026-04-30T09:43:44.592Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
-  },
-  {
     "uic": "987890033630",
     "type": "Odlazak",
     "station": "NOVSKA",
@@ -8197,5 +8107,59 @@
     "event_time": "2026-04-27T11:31:00",
     "seen_at": "2026-05-03T09:33:54.057Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "987891162057",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-30T11:35:00",
+    "seen_at": "2026-05-03T09:36:51.016Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "VINKOVCI",
+    "train_number": "69861",
+    "event_time": "2026-05-03T11:38:00",
+    "seen_at": "2026-05-03T09:40:49.245Z",
+    "raw": "Br. Vlaka 69861 dolazak      03.05.26. 11:38, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-05-03T11:38:00",
+    "seen_at": "2026-05-03T09:41:12.706Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "997894245619",
+    "type": "Rasformiran",
+    "station": "ZAPREŠIĆ",
+    "train_number": null,
+    "event_time": "2026-04-30T11:43:00",
+    "seen_at": "2026-05-03T09:44:21.763Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74004 ZAPREŠIĆ"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-05-03T11:44:00",
+    "seen_at": "2026-05-03T09:45:31.989Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "GOSPIĆ",
+    "train_number": null,
+    "event_time": "2026-05-03T11:44:00",
+    "seen_at": "2026-05-03T09:45:31.989Z",
+    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
   }
 ]
