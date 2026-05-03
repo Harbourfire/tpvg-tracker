@@ -2,24 +2,6 @@
   {
     "uic": "987890033630",
     "type": "Odlazak",
-    "station": "ZAGREB GL. KOL.",
-    "train_number": "79934",
-    "event_time": "2026-04-30T14:35:00",
-    "seen_at": "2026-04-30T12:35:36.165Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:35, kolodvor ZAGREB GL. KOL."
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-30T14:37:00",
-    "seen_at": "2026-04-30T12:38:45.836Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 14:37, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
     "station": "ZAGREB ZAPADNI",
     "train_number": "79934",
     "event_time": "2026-04-30T14:40:00",
@@ -8116,5 +8098,32 @@
     "event_time": "2026-05-03T14:25:00",
     "seen_at": "2026-05-03T12:26:09.877Z",
     "raw": "Br. Vlaka 82500 dolazak      03.05.26. 14:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "82500",
+    "event_time": "2026-05-03T14:25:00",
+    "seen_at": "2026-05-03T12:30:14.325Z",
+    "raw": "Br. Vlaka 82500 promjena sas 03.05.26. 14:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Promjena sastava",
+    "station": "PLAŠKI",
+    "train_number": "82500",
+    "event_time": "2026-05-03T14:25:00",
+    "seen_at": "2026-05-03T12:30:14.325Z",
+    "raw": "Br. Vlaka 82500 promjena sas 03.05.26. 14:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "927820440240",
+    "type": "Odlazak",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": "48895",
+    "event_time": "2026-05-03T14:30:00",
+    "seen_at": "2026-05-03T12:31:48.059Z",
+    "raw": "Br. Vlaka 48895 odlazak      03.05.26. 14:30, kolodvor 72303"
   }
 ]
