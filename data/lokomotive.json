@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440125",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "47990",
-    "event_time": "2026-04-30T22:30:00",
-    "seen_at": "2026-04-30T20:31:00.785Z",
-    "raw": "Br. Vlaka 47990 odlazak      30.04.26. 22:30, kolodvor 73164"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48580",
-    "event_time": "2026-04-30T22:29:00",
-    "seen_at": "2026-04-30T20:31:24.552Z",
-    "raw": "Br. Vlaka 48580 promjena sas 30.04.26. 22:29, kolodvor 72303"
-  },
-  {
-    "uic": "927820440240",
-    "type": "Promjena sastava",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": "48580",
-    "event_time": "2026-04-30T22:29:00",
-    "seen_at": "2026-04-30T20:31:48.015Z",
-    "raw": "Br. Vlaka 48580 promjena sas 30.04.26. 22:29, kolodvor 72303"
-  },
-  {
     "uic": "927820620254",
     "type": "Formiran",
     "station": "OSIJEK",
@@ -8431,5 +8404,23 @@
     "event_time": "2026-05-03T22:26:00",
     "seen_at": "2026-05-03T20:28:57.342Z",
     "raw": "Br. Vlaka 63305 odlazak      03.05.26. 22:26, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-05-03T22:37:00",
+    "seen_at": "2026-05-03T20:38:50.820Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.05.26. 22:37, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63305",
+    "event_time": "2026-05-03T22:37:00",
+    "seen_at": "2026-05-03T20:38:50.820Z",
+    "raw": "Br. Vlaka 63305 odlazak      03.05.26. 22:37, kolodvor LIČKA JESENICA"
   }
 ]
