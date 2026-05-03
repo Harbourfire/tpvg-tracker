@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-30T13:31:00",
-    "seen_at": "2026-04-30T11:31:49.970Z",
-    "raw": "Br. Vlaka 63310 formiran     30.04.26. 13:31, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "927820621104",
-    "type": "Formiran",
-    "station": "VELIKA",
-    "train_number": "82121",
-    "event_time": "2026-04-30T13:35:00",
-    "seen_at": "2026-04-30T11:38:05.417Z",
-    "raw": "Br. Vlaka 82121 formiran     30.04.26. 13:35, kolodvor VELIKA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "79934",
-    "event_time": "2026-04-30T13:00:00",
-    "seen_at": "2026-04-30T11:38:28.750Z",
-    "raw": "Br. Vlaka 79934 dolazak      30.04.26. 13:00, kolodvor IVANIĆ GRAD"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "IVANIĆ GRAD",
-    "train_number": "79934",
-    "event_time": "2026-04-30T13:36:00",
-    "seen_at": "2026-04-30T11:39:38.614Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 13:36, kolodvor IVANIĆ GRAD"
-  },
-  {
     "uic": "927820622029",
     "type": "Promjena sastava",
     "station": "VINKOVCI",
@@ -8098,5 +8062,23 @@
     "event_time": "2026-05-03T13:23:00",
     "seen_at": "2026-05-03T11:24:58.978Z",
     "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:23, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:37:00",
+    "seen_at": "2026-05-03T11:38:37.453Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:37, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:37:00",
+    "seen_at": "2026-05-03T11:38:37.454Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:37, kolodvor VRHOVINE"
   }
 ]
