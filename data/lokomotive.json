@@ -1,50 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Dolazak",
-    "station": "DRAGANIĆI",
-    "train_number": "75065",
-    "event_time": "2026-04-30T10:09:00",
-    "seen_at": "2026-04-30T08:09:22.486Z",
-    "raw": "Br. Vlaka 75065 dolazak      30.04.26. 10:09, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-30T10:13:00",
-    "seen_at": "2026-04-30T08:14:05.099Z",
-    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:13, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69175",
-    "event_time": "2026-04-30T10:13:00",
-    "seen_at": "2026-04-30T08:14:05.099Z",
-    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:13, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "PLETERNICA",
-    "train_number": "79932",
-    "event_time": "2026-04-30T10:08:00",
-    "seen_at": "2026-04-30T08:16:49.507Z",
-    "raw": "Br. Vlaka 79932 dolazak      30.04.26. 10:08, kolodvor PLETERNICA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "PLETERNICA",
-    "train_number": "79932",
-    "event_time": "2026-04-30T10:14:00",
-    "seen_at": "2026-04-30T08:17:12.934Z",
-    "raw": "Br. Vlaka 79932 odlazak      30.04.26. 10:14, kolodvor PLETERNICA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "JOSIPDOL",
@@ -8314,5 +8269,23 @@
     "event_time": "2026-05-03T10:07:00",
     "seen_at": "2026-05-03T08:08:22.228Z",
     "raw": "Br. Vlaka 69861 formiran     03.05.26. 10:07, kolodvor VUKOVAR"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89400",
+    "event_time": "2026-05-03T10:08:00",
+    "seen_at": "2026-05-03T08:09:24.751Z",
+    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 10:08, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-05-03T10:09:00",
+    "seen_at": "2026-05-03T08:12:11.950Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
