@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63305",
-    "event_time": "2026-05-01T01:05:00",
-    "seen_at": "2026-04-30T23:06:53.856Z",
-    "raw": "Br. Vlaka 63305 odlazak      01.05.26. 01:05, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820620254",
     "type": "Promjena sastava",
     "station": "VINKOVCI",
@@ -8404,5 +8395,23 @@
     "event_time": "2026-05-04T00:53:00",
     "seen_at": "2026-05-03T22:53:37.177Z",
     "raw": "Br. Vlaka 46894 odlazak      04.05.26. 00:53, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-05-04T01:10:00",
+    "seen_at": "2026-05-03T23:11:24.871Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:10, kolodvor GOSPIĆ"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "GOSPIĆ",
+    "train_number": "63306",
+    "event_time": "2026-05-04T01:10:00",
+    "seen_at": "2026-05-03T23:11:24.871Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:10, kolodvor GOSPIĆ"
   }
 ]
