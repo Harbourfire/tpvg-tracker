@@ -1,32 +1,5 @@
 [
   {
-    "uic": "987891213314",
-    "type": "Formiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "71207",
-    "event_time": "2026-04-30T13:24:00",
-    "seen_at": "2026-04-30T11:24:47.600Z",
-    "raw": "Br. Vlaka 71207 formiran     30.04.26. 13:24, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "VINKOVCI",
-    "train_number": "48588",
-    "event_time": "2026-04-30T13:22:00",
-    "seen_at": "2026-04-30T11:25:57.954Z",
-    "raw": "Br. Vlaka 48588 dolazak      30.04.26. 13:22, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Odlazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "71207",
-    "event_time": "2026-04-30T13:26:00",
-    "seen_at": "2026-04-30T11:28:18.212Z",
-    "raw": "Br. Vlaka 71207 odlazak      30.04.26. 13:26, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -8107,5 +8080,23 @@
     "event_time": "2026-05-03T13:19:00",
     "seen_at": "2026-05-03T11:20:29.597Z",
     "raw": "Br. Vlaka 47191 dolazak      03.05.26. 13:19, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:23:00",
+    "seen_at": "2026-05-03T11:24:58.978Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:23, kolodvor LIČKO LEŠĆE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKO LEŠĆE",
+    "train_number": "82500",
+    "event_time": "2026-05-03T13:23:00",
+    "seen_at": "2026-05-03T11:24:58.978Z",
+    "raw": "Br. Vlaka 82500 odlazak      03.05.26. 13:23, kolodvor LIČKO LEŠĆE"
   }
 ]
