@@ -2,42 +2,6 @@
   {
     "uic": "987890033630",
     "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "79934",
-    "event_time": "2026-04-30T14:21:00",
-    "seen_at": "2026-04-30T12:21:36.503Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:21, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "GOSPIĆ",
-    "train_number": "63310",
-    "event_time": "2026-04-30T14:24:00",
-    "seen_at": "2026-04-30T12:24:43.874Z",
-    "raw": "Br. Vlaka 63310 odlazak      30.04.26. 14:24, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
-    "station": "ZAGREB BORONGAJ",
-    "train_number": "79934",
-    "event_time": "2026-04-30T14:26:00",
-    "seen_at": "2026-04-30T12:27:05.362Z",
-    "raw": "Br. Vlaka 79934 odlazak      30.04.26. 14:26, kolodvor ZAGREB BORONGAJ"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Formiran",
-    "station": "ZAGREB RESNIK",
-    "train_number": "89103",
-    "event_time": "2026-04-30T14:27:00",
-    "seen_at": "2026-04-30T12:28:15.408Z",
-    "raw": "Br. Vlaka 89103 formiran     30.04.26. 14:27, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Odlazak",
     "station": "ZAGREB GL. KOL.",
     "train_number": "79934",
     "event_time": "2026-04-30T14:35:00",
@@ -8125,5 +8089,32 @@
     "event_time": "2026-05-03T14:18:00",
     "seen_at": "2026-05-03T12:19:38.800Z",
     "raw": "Br. Vlaka 69660 dolazak      03.05.26. 14:18, kolodvor VARAŽDIN"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-05-03T14:18:00",
+    "seen_at": "2026-05-03T12:20:20.220Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "82500",
+    "event_time": "2026-05-03T14:25:00",
+    "seen_at": "2026-05-03T12:26:09.877Z",
+    "raw": "Br. Vlaka 82500 dolazak      03.05.26. 14:25, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "PLAŠKI",
+    "train_number": "82500",
+    "event_time": "2026-05-03T14:25:00",
+    "seen_at": "2026-05-03T12:26:09.877Z",
+    "raw": "Br. Vlaka 82500 dolazak      03.05.26. 14:25, kolodvor PLAŠKI"
   }
 ]
