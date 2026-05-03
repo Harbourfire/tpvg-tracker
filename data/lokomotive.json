@@ -1,59 +1,5 @@
 [
   {
-    "uic": "997894245619",
-    "type": "Odlazak",
-    "station": "DRAGANIĆI",
-    "train_number": "75065",
-    "event_time": "2026-04-30T10:42:00",
-    "seen_at": "2026-04-30T08:42:37.747Z",
-    "raw": "Br. Vlaka 75065 odlazak      30.04.26. 10:42, kolodvor DRAGANIĆI"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Dolazak",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": "79932",
-    "event_time": "2026-04-30T10:46:00",
-    "seen_at": "2026-04-30T08:46:15.951Z",
-    "raw": "Br. Vlaka 79932 dolazak      30.04.26. 10:46, kolodvor NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "69175",
-    "event_time": "2026-04-30T10:45:00",
-    "seen_at": "2026-04-30T08:46:39.303Z",
-    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:45, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230100",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "69175",
-    "event_time": "2026-04-30T10:45:00",
-    "seen_at": "2026-04-30T08:46:39.303Z",
-    "raw": "Br. Vlaka 69175 odlazak      30.04.26. 10:45, kolodvor BLATA"
-  },
-  {
-    "uic": "987890033630",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-04-30T10:46:00",
-    "seen_at": "2026-04-30T08:46:39.304Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "47944",
-    "event_time": "2026-04-30T10:42:00",
-    "seen_at": "2026-04-30T08:47:26.486Z",
-    "raw": "Br. Vlaka 47944 odlazak      30.04.26. 10:42, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "SAVSKI MAROF",
@@ -8314,5 +8260,23 @@
     "event_time": "2026-05-03T10:37:00",
     "seen_at": "2026-05-03T08:38:00.952Z",
     "raw": "Br. Vlaka 89400 dolazak      03.05.26. 10:37, kolodvor NOVSKA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82323",
+    "event_time": "2026-05-03T10:40:00",
+    "seen_at": "2026-05-03T08:41:24.764Z",
+    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 10:40, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "82323",
+    "event_time": "2026-05-03T10:40:00",
+    "seen_at": "2026-05-03T08:41:24.764Z",
+    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 10:40, kolodvor LIČKA JESENICA"
   }
 ]
