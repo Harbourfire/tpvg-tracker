@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "OTOK",
-    "train_number": "45105",
-    "event_time": "2026-04-30T07:32:00",
-    "seen_at": "2026-04-30T05:35:24.758Z",
-    "raw": "Br. Vlaka 45105 odlazak      30.04.26. 07:32, kolodvor OTOK"
-  },
-  {
     "uic": "987895225611",
     "type": "Odlazak",
     "station": "SLATINA",
@@ -8359,5 +8350,23 @@
     "event_time": "2026-05-03T07:32:00",
     "seen_at": "2026-05-03T05:32:37.063Z",
     "raw": "Br. Vlaka 89116 formiran     03.05.26. 07:32, kolodvor STRIZIVOJNA VRPOLJE"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Formiran",
+    "station": "OSIJEK",
+    "train_number": "66853",
+    "event_time": "2026-05-03T07:35:00",
+    "seen_at": "2026-05-03T05:35:59.894Z",
+    "raw": "Br. Vlaka 66853 formiran     03.05.26. 07:35, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820621195",
+    "type": "Odlazak",
+    "station": "VARAŽDIN",
+    "train_number": "89186",
+    "event_time": "2026-05-03T07:37:00",
+    "seen_at": "2026-05-03T05:42:19.020Z",
+    "raw": "Br. Vlaka 89186 odlazak      03.05.26. 07:37, kolodvor VARAŽDIN"
   }
 ]
