@@ -1,50 +1,5 @@
 [
   {
-    "uic": "928012230076",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-05-01T07:04:00",
-    "seen_at": "2026-05-01T11:18:45.029Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "MRZLO POLJE",
-    "train_number": "46657",
-    "event_time": "2026-05-01T13:19:00",
-    "seen_at": "2026-05-01T11:20:18.958Z",
-    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 13:19, kolodvor MRZLO POLJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "GOSPIĆ",
-    "train_number": "82503",
-    "event_time": "2026-05-01T13:20:00",
-    "seen_at": "2026-05-01T11:21:30.639Z",
-    "raw": "Br. Vlaka 82503 dolazak      01.05.26. 13:20, kolodvor GOSPIĆ"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "GOSPIĆ",
-    "train_number": null,
-    "event_time": "2026-05-01T13:20:00",
-    "seen_at": "2026-05-01T11:21:54.153Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76108 GOSPIĆ"
-  },
-  {
-    "uic": "987821323118",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-28T13:23:00",
-    "seen_at": "2026-05-01T11:25:13.683Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
     "uic": "928012230035",
     "type": "Formiran",
     "station": "GOSPIĆ",
@@ -7324,5 +7279,23 @@
     "event_time": "2026-05-04T11:35:00",
     "seen_at": "2026-05-04T10:19:46.482Z",
     "raw": "Br. Vlaka 69005 odlazak      04.05.26. 11:35, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230076",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-05-01T07:04:00",
+    "seen_at": "2026-05-04T11:19:30.578Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "987821323118",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-28T13:23:00",
+    "seen_at": "2026-05-04T11:25:45.778Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
