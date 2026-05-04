@@ -1,86 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Odlazak",
-    "station": "BELI MANASTIR",
-    "train_number": "42999",
-    "event_time": "2026-05-01T10:38:00",
-    "seen_at": "2026-05-01T08:42:26.903Z",
-    "raw": "Br. Vlaka 42999 odlazak      01.05.26. 10:38, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "BELI MANASTIR",
-    "train_number": "42999",
-    "event_time": "2026-05-01T10:38:00",
-    "seen_at": "2026-05-01T08:42:49.991Z",
-    "raw": "Br. Vlaka 42999 dolazak      01.05.26. 10:38, kolodvor BELI MANASTIR"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:44:00",
-    "seen_at": "2026-05-01T08:45:10.218Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:44, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:44:00",
-    "seen_at": "2026-05-01T08:45:10.219Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:44, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "69005",
-    "event_time": "2026-05-01T10:43:00",
-    "seen_at": "2026-05-01T08:45:33.410Z",
-    "raw": "Br. Vlaka 69005 dolazak      01.05.26. 10:43, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-05-01T10:43:00",
-    "seen_at": "2026-05-01T08:45:57.131Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OŠTARIJE",
-    "train_number": "82503",
-    "event_time": "2026-05-01T09:45:00",
-    "seen_at": "2026-05-01T08:47:01.658Z",
-    "raw": "Br. Vlaka 82503 formiran     01.05.26. 09:45, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:50:00",
-    "seen_at": "2026-05-01T08:51:20.834Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:50, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:50:00",
-    "seen_at": "2026-05-01T08:51:20.835Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:50, kolodvor GRADEC"
-  },
-  {
     "uic": "927820622037",
     "type": "Rasformiran",
     "station": "ZAGREB RANŽIRNI (OS)",
@@ -7873,5 +7792,14 @@
     "event_time": "2026-05-03T17:12:00",
     "seen_at": "2026-05-04T08:23:14.248Z",
     "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "SPAČVA",
+    "train_number": "47191",
+    "event_time": "2026-05-04T10:41:00",
+    "seen_at": "2026-05-04T08:44:11.738Z",
+    "raw": "Br. Vlaka 47191 odlazak      04.05.26. 10:41, kolodvor SPAČVA"
   }
 ]
