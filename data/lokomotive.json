@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-05-01T20:00:00",
-    "seen_at": "2026-05-01T16:34:00.979Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "OSIJEK",
-    "train_number": "89158",
-    "event_time": "2026-05-01T18:33:00",
-    "seen_at": "2026-05-01T16:34:25.144Z",
-    "raw": "Br. Vlaka 89158 formiran     01.05.26. 18:33, kolodvor OSIJEK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89196",
-    "event_time": "2026-05-01T18:33:00",
-    "seen_at": "2026-05-01T16:34:49.050Z",
-    "raw": "Br. Vlaka 89196 odlazak      01.05.26. 18:33, kolodvor KOPRIVNICA"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "BREGI",
@@ -6820,5 +6793,41 @@
     "event_time": "2026-05-04T11:40:00",
     "seen_at": "2026-05-04T16:12:44.669Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVA GRADIŠKA",
+    "train_number": "89406",
+    "event_time": "2026-05-04T10:26:00",
+    "seen_at": "2026-05-04T16:34:41.030Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 10:26, kolodvor NOVA GRADIŠKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "OKUČANI",
+    "train_number": "89406",
+    "event_time": "2026-05-04T10:41:00",
+    "seen_at": "2026-05-04T16:35:51.422Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 10:41, kolodvor OKUČANI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "NOVSKA",
+    "train_number": "89406",
+    "event_time": "2026-05-04T10:52:00",
+    "seen_at": "2026-05-04T16:36:14.964Z",
+    "raw": "Br. Vlaka 89406 dolazak      04.05.26. 10:52, kolodvor NOVSKA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVSKA",
+    "train_number": "89406",
+    "event_time": "2026-05-04T11:24:00",
+    "seen_at": "2026-05-04T16:36:39.106Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 11:24, kolodvor NOVSKA"
   }
 ]
