@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620189",
-    "type": "Rasformiran",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": null,
-    "event_time": "2026-05-01T08:19:00",
-    "seen_at": "2026-05-01T06:22:49.834Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69782",
-    "event_time": "2026-05-01T08:28:00",
-    "seen_at": "2026-05-01T06:28:45.908Z",
-    "raw": "Br. Vlaka 69782 odlazak      01.05.26. 08:28, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
     "uic": "927820620171",
     "type": "Rasformiran",
     "station": "ĐAKOVO",
@@ -8098,5 +8080,14 @@
     "event_time": "2026-05-04T06:37:00",
     "seen_at": "2026-05-04T05:56:40.187Z",
     "raw": "Br. Vlaka 89406 dolazak      04.05.26. 06:37, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "TOVARNIK",
+    "train_number": "89406",
+    "event_time": "2026-05-04T08:22:00",
+    "seen_at": "2026-05-04T06:24:29.227Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 08:22, kolodvor TOVARNIK"
   }
 ]
