@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63310",
-    "event_time": "2026-05-01T18:02:00",
-    "seen_at": "2026-05-01T16:03:19.799Z",
-    "raw": "Br. Vlaka 63310 odlazak      01.05.26. 18:02, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "KOPRIVNICA",
-    "train_number": "89196",
-    "event_time": "2026-05-01T18:06:00",
-    "seen_at": "2026-05-01T16:08:26.024Z",
-    "raw": "Br. Vlaka 89196 dolazak      01.05.26. 18:06, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "OŠTARIJE",
-    "train_number": "63310",
-    "event_time": "2026-05-01T18:08:00",
-    "seen_at": "2026-05-01T16:08:49.419Z",
-    "raw": "Br. Vlaka 63310 dolazak      01.05.26. 18:08, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OŠTARIJE",
-    "train_number": null,
-    "event_time": "2026-05-01T18:08:00",
-    "seen_at": "2026-05-01T16:09:59.318Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
-  },
-  {
     "uic": "927820622029",
     "type": "Rasformiran",
     "station": "OSIJEK",
@@ -6820,5 +6784,23 @@
     "event_time": "2026-05-04T09:49:00",
     "seen_at": "2026-05-04T15:15:16.648Z",
     "raw": "Br. Vlaka 89406 odlazak      04.05.26. 09:49, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": "89406",
+    "event_time": "2026-05-04T09:56:00",
+    "seen_at": "2026-05-04T16:03:07.158Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 09:56, kolodvor NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "STARO PETROVO SELO",
+    "train_number": "89406",
+    "event_time": "2026-05-04T10:09:00",
+    "seen_at": "2026-05-04T16:04:18.204Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 10:09, kolodvor STARO PETROVO SELO"
   }
 ]
