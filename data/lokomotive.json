@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "82503",
-    "event_time": "2026-05-01T11:30:00",
-    "seen_at": "2026-05-01T09:31:37.182Z",
-    "raw": "Br. Vlaka 82503 odlazak      01.05.26. 11:30, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "44795",
-    "event_time": "2026-05-01T11:33:00",
-    "seen_at": "2026-05-01T09:35:45.303Z",
-    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 11:33, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "46657",
-    "event_time": "2026-05-01T11:30:00",
-    "seen_at": "2026-05-01T09:35:45.304Z",
-    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 11:30, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "SAVSKI MAROF",
-    "train_number": "46657",
-    "event_time": "2026-05-01T11:34:00",
-    "seen_at": "2026-05-01T09:36:09.466Z",
-    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 11:34, kolodvor SAVSKI MAROF"
-  },
-  {
     "uic": "927820620189",
     "type": "Odlazak",
     "station": "OTOK",
@@ -7720,5 +7684,23 @@
     "event_time": "2026-05-04T10:17:00",
     "seen_at": "2026-05-04T09:04:20.804Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "DRENOVCI",
+    "train_number": "47191",
+    "event_time": "2026-05-04T11:34:00",
+    "seen_at": "2026-05-04T09:37:40.080Z",
+    "raw": "Br. Vlaka 47191 odlazak      04.05.26. 11:34, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "GUNJA",
+    "train_number": "47191",
+    "event_time": "2026-05-04T11:38:00",
+    "seen_at": "2026-05-04T09:39:13.618Z",
+    "raw": "Br. Vlaka 47191 odlazak      04.05.26. 11:38, kolodvor GUNJA"
   }
 ]
