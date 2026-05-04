@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "OGULIN",
-    "train_number": null,
-    "event_time": "2026-05-01T09:40:00",
-    "seen_at": "2026-05-01T07:40:49.529Z",
-    "raw": "Trenutna pozicija je u kolodvoru 75460 OGULIN"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "44795",
-    "event_time": "2026-05-01T09:38:00",
-    "seen_at": "2026-05-01T07:41:13.320Z",
-    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 09:38, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "OGULIN",
-    "train_number": "69005",
-    "event_time": "2026-05-01T08:50:00",
-    "seen_at": "2026-05-01T07:42:22.680Z",
-    "raw": "Br. Vlaka 69005 formiran     01.05.26. 08:50, kolodvor OGULIN"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "ĐAKOVO",
-    "train_number": "48582",
-    "event_time": "2026-05-01T09:40:00",
-    "seen_at": "2026-05-01T07:46:39.055Z",
-    "raw": "Br. Vlaka 48582 odlazak      01.05.26. 09:40, kolodvor ĐAKOVO"
-  },
-  {
     "uic": "927820440265",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -8026,5 +7990,32 @@
     "event_time": "2026-05-04T01:45:00",
     "seen_at": "2026-05-04T07:33:39.614Z",
     "raw": "Br. Vlaka 46894 promjena sas 04.05.26. 01:45, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "47191",
+    "event_time": "2026-05-04T09:38:00",
+    "seen_at": "2026-05-04T07:42:17.395Z",
+    "raw": "Br. Vlaka 47191 odlazak      04.05.26. 09:38, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "IVANKOVO",
+    "train_number": "89406",
+    "event_time": "2026-05-04T08:51:00",
+    "seen_at": "2026-05-04T07:42:41.524Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 08:51, kolodvor IVANKOVO"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "OSIJEK",
+    "train_number": "46894",
+    "event_time": "2026-05-04T09:42:00",
+    "seen_at": "2026-05-04T07:43:06.209Z",
+    "raw": "Br. Vlaka 46894 odlazak      04.05.26. 09:42, kolodvor OSIJEK"
   }
 ]
