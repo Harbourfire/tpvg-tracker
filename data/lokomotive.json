@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "47944",
-    "event_time": "2026-05-01T03:50:00",
-    "seen_at": "2026-05-01T01:50:18.991Z",
-    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 03:50, kolodvor GRADEC"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Promjena sastava",
-    "station": "VRHOVINE",
-    "train_number": "63306",
-    "event_time": "2026-05-01T03:50:00",
-    "seen_at": "2026-05-01T01:52:15.035Z",
-    "raw": "Br. Vlaka 63306 promjena sas 01.05.26. 03:50, kolodvor VRHOVINE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "47944",
-    "event_time": "2026-05-01T03:57:00",
-    "seen_at": "2026-05-01T01:57:25.957Z",
-    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 03:57, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "VRHOVINE",
@@ -8431,5 +8404,23 @@
     "event_time": "2026-05-04T03:42:00",
     "seen_at": "2026-05-04T01:43:27.281Z",
     "raw": "Br. Vlaka 89406 formiran     04.05.26. 03:42, kolodvor 71020"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-05-04T03:46:00",
+    "seen_at": "2026-05-04T01:52:45.923Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 03:46, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "PLAŠKI",
+    "train_number": "63306",
+    "event_time": "2026-05-04T03:46:00",
+    "seen_at": "2026-05-04T01:52:45.923Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 03:46, kolodvor PLAŠKI"
   }
 ]
