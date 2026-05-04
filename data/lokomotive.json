@@ -1,15 +1,6 @@
 [
   {
     "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "47944",
-    "event_time": "2026-05-01T01:56:00",
-    "seen_at": "2026-04-30T23:56:42.183Z",
-    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 01:56, kolodvor 72302"
-  },
-  {
-    "uic": "927820440026",
     "type": "Dolazak",
     "station": "ZAGREB RESNIK",
     "train_number": "47944",
@@ -8395,5 +8386,23 @@
     "event_time": "2026-05-03T17:12:00",
     "seen_at": "2026-05-03T23:45:54.758Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-05-04T01:54:00",
+    "seen_at": "2026-05-03T23:55:46.260Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:54, kolodvor VRHOVINE"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "VRHOVINE",
+    "train_number": "63306",
+    "event_time": "2026-05-04T01:54:00",
+    "seen_at": "2026-05-03T23:55:46.260Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 01:54, kolodvor VRHOVINE"
   }
 ]
