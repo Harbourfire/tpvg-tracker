@@ -2,15 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "VRBOVEC",
-    "train_number": "47944",
-    "event_time": "2026-05-01T03:43:00",
-    "seen_at": "2026-05-01T01:44:32.205Z",
-    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 03:43, kolodvor VRBOVEC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "GRADEC",
     "train_number": "47944",
     "event_time": "2026-05-01T03:50:00",
@@ -8431,5 +8422,14 @@
     "event_time": "2026-05-04T03:31:00",
     "seen_at": "2026-05-04T01:32:37.985Z",
     "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Formiran",
+    "station": "TOVARNIK granica",
+    "train_number": "89406",
+    "event_time": "2026-05-04T03:42:00",
+    "seen_at": "2026-05-04T01:43:27.281Z",
+    "raw": "Br. Vlaka 89406 formiran     04.05.26. 03:42, kolodvor 71020"
   }
 ]
