@@ -1,51 +1,6 @@
 [
   {
     "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "RUDOPOLJE",
-    "train_number": "63306",
-    "event_time": "2026-05-01T04:08:00",
-    "seen_at": "2026-05-01T02:09:22.000Z",
-    "raw": "Br. Vlaka 63306 dolazak      01.05.26. 04:08, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Rasformiran",
-    "station": "RUDOPOLJE",
-    "train_number": null,
-    "event_time": "2026-05-01T06:04:00",
-    "seen_at": "2026-05-01T02:10:09.873Z",
-    "raw": "Trenutna pozicija je u kolodvoru 76010 RUDOPOLJE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "LEPAVINA",
-    "train_number": "47944",
-    "event_time": "2026-05-01T04:11:00",
-    "seen_at": "2026-05-01T02:12:05.624Z",
-    "raw": "Br. Vlaka 47944 dolazak      01.05.26. 04:11, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Formiran",
-    "station": "RUDOPOLJE",
-    "train_number": "69173",
-    "event_time": "2026-05-01T00:15:00",
-    "seen_at": "2026-05-01T02:12:05.624Z",
-    "raw": "Br. Vlaka 69173 formiran     01.05.26. 00:15, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "RUDOPOLJE",
-    "train_number": "69173",
-    "event_time": "2026-05-01T04:13:00",
-    "seen_at": "2026-05-01T02:13:42.567Z",
-    "raw": "Br. Vlaka 69173 odlazak      01.05.26. 04:13, kolodvor RUDOPOLJE"
-  },
-  {
-    "uic": "928012230035",
     "type": "Rasformiran",
     "station": "VRHOVINE",
     "train_number": null,
@@ -8413,5 +8368,23 @@
     "event_time": "2026-05-04T03:46:00",
     "seen_at": "2026-05-04T01:52:45.923Z",
     "raw": "Br. Vlaka 63306 odlazak      04.05.26. 03:46, kolodvor PLAŠKI"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-05-04T04:07:00",
+    "seen_at": "2026-05-04T02:10:17.622Z",
+    "raw": "Br. Vlaka 63306 dolazak      04.05.26. 04:07, kolodvor JOSIPDOL"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Dolazak",
+    "station": "JOSIPDOL",
+    "train_number": "63306",
+    "event_time": "2026-05-04T04:07:00",
+    "seen_at": "2026-05-04T02:10:17.623Z",
+    "raw": "Br. Vlaka 63306 dolazak      04.05.26. 04:07, kolodvor JOSIPDOL"
   }
 ]
