@@ -1,59 +1,5 @@
 [
   {
-    "uic": "987891032151",
-    "type": "Rasformiran",
-    "station": "VRBOVEC",
-    "train_number": null,
-    "event_time": "2026-04-28T09:05:00",
-    "seen_at": "2026-05-01T07:09:12.108Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "NOVO DRNJE",
-    "train_number": "89870",
-    "event_time": "2026-05-01T09:09:00",
-    "seen_at": "2026-05-01T07:10:19.694Z",
-    "raw": "Br. Vlaka 89870 dolazak      01.05.26. 09:09, kolodvor 73164"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "NOVO DRNJE",
-    "train_number": null,
-    "event_time": "2026-05-01T09:09:00",
-    "seen_at": "2026-05-01T07:10:43.402Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "ZAGREB ŽITNJAK",
-    "train_number": "41990",
-    "event_time": "2026-05-01T09:13:00",
-    "seen_at": "2026-05-01T07:14:13.969Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 09:13, kolodvor 72302"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-28T09:11:00",
-    "seen_at": "2026-05-01T07:15:00.093Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "NOVO DRNJE",
-    "train_number": "44795",
-    "event_time": "2026-05-01T09:12:00",
-    "seen_at": "2026-05-01T07:15:46.234Z",
-    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 09:12, kolodvor 73164"
-  },
-  {
     "uic": "927820440265",
     "type": "Dolazak",
     "station": "ZAGREB RESNIK",
@@ -8089,5 +8035,23 @@
     "event_time": "2026-05-04T08:49:00",
     "seen_at": "2026-05-04T06:58:03.586Z",
     "raw": "Br. Vlaka 69006 formiran     04.05.26. 08:49, kolodvor OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "VINKOVCI",
+    "train_number": "89406",
+    "event_time": "2026-05-04T08:43:00",
+    "seen_at": "2026-05-04T07:14:48.238Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 08:43, kolodvor VINKOVCI"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-05-04T07:15:37.064Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
   }
 ]
