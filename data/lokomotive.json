@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "KOPRIVNICA GR    A",
-    "train_number": "89870",
-    "event_time": "2026-04-30T23:54:00",
-    "seen_at": "2026-05-01T05:50:56.892Z",
-    "raw": "Br. Vlaka 89870 formiran     30.04.26. 23:54, kolodvor KOPRIVNICA GR    A"
-  },
-  {
     "uic": "928012230076",
     "type": "Odlazak",
     "station": "KOPRIVNICA GR    A",
@@ -8134,5 +8125,14 @@
     "event_time": "2026-05-03T01:06:00",
     "seen_at": "2026-05-04T04:42:18.205Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "TOVARNIK",
+    "train_number": "89406",
+    "event_time": "2026-05-04T06:37:00",
+    "seen_at": "2026-05-04T05:56:40.187Z",
+    "raw": "Br. Vlaka 89406 dolazak      04.05.26. 06:37, kolodvor TOVARNIK"
   }
 ]
