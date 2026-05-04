@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Formiran",
-    "station": "NOVO DRNJE",
-    "train_number": "89196",
-    "event_time": "2026-05-01T09:28:00",
-    "seen_at": "2026-05-01T07:29:17.039Z",
-    "raw": "Br. Vlaka 89196 formiran     01.05.26. 09:28, kolodvor 73164"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "69006",
-    "event_time": "2026-05-01T09:34:00",
-    "seen_at": "2026-05-01T07:35:11.105Z",
-    "raw": "Br. Vlaka 69006 odlazak      01.05.26. 09:34, kolodvor OŠTARIJE"
-  },
-  {
     "uic": "928012230035",
     "type": "Rasformiran",
     "station": "OGULIN",
@@ -8035,5 +8017,14 @@
     "event_time": "2026-04-28T09:11:00",
     "seen_at": "2026-05-04T07:15:37.064Z",
     "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Promjena sastava",
+    "station": "OSIJEK",
+    "train_number": "46894",
+    "event_time": "2026-05-04T01:45:00",
+    "seen_at": "2026-05-04T07:33:39.614Z",
+    "raw": "Br. Vlaka 46894 promjena sas 04.05.26. 01:45, kolodvor OSIJEK"
   }
 ]
