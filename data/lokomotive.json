@@ -1,41 +1,5 @@
 [
   {
-    "uic": "928012230142",
-    "type": "Formiran",
-    "station": "SAVSKI MAROF granica",
-    "train_number": "46657",
-    "event_time": "2026-05-01T10:13:00",
-    "seen_at": "2026-05-01T08:14:02.858Z",
-    "raw": "Br. Vlaka 46657 formiran     01.05.26. 10:13, kolodvor SAVSKI MAROF GRANICA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "69783",
-    "event_time": "2026-05-01T10:15:00",
-    "seen_at": "2026-05-01T08:16:26.187Z",
-    "raw": "Br. Vlaka 69783 odlazak      01.05.26. 10:15, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "987891162040",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-04-28T10:15:00",
-    "seen_at": "2026-05-01T08:16:26.189Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "KRIŽEVCI",
-    "train_number": "44795",
-    "event_time": "2026-05-01T10:20:00",
-    "seen_at": "2026-05-01T08:21:48.359Z",
-    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 10:20, kolodvor KRIŽEVCI"
-  },
-  {
     "uic": "927820620171",
     "type": "Odlazak",
     "station": "IVANKOVO",
@@ -7954,5 +7918,32 @@
     "event_time": "2026-05-04T10:06:00",
     "seen_at": "2026-05-04T08:07:34.431Z",
     "raw": "Br. Vlaka 76617 odlazak      04.05.26. 10:06, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "987891162040",
+    "type": "Rasformiran",
+    "station": "VINKOVCI",
+    "train_number": null,
+    "event_time": "2026-04-28T10:15:00",
+    "seen_at": "2026-05-04T08:17:07.451Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "SPAČVA",
+    "train_number": "47191",
+    "event_time": "2026-05-04T10:17:00",
+    "seen_at": "2026-05-04T08:19:32.291Z",
+    "raw": "Br. Vlaka 47191 dolazak      04.05.26. 10:17, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Dolazak",
+    "station": "BELI MANASTIR",
+    "train_number": "46894",
+    "event_time": "2026-05-04T10:20:00",
+    "seen_at": "2026-05-04T08:21:06.448Z",
+    "raw": "Br. Vlaka 46894 dolazak      04.05.26. 10:20, kolodvor BELI MANASTIR"
   }
 ]
