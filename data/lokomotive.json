@@ -1,32 +1,5 @@
 [
   {
-    "uic": "927820440026",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "47944",
-    "event_time": "2026-05-01T02:34:00",
-    "seen_at": "2026-05-01T00:34:50.338Z",
-    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 02:34, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820621195",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-28T02:36:00",
-    "seen_at": "2026-05-01T00:40:35.841Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Dolazak",
-    "station": "OSIJEK",
-    "train_number": "81975",
-    "event_time": "2026-05-01T02:40:00",
-    "seen_at": "2026-05-01T00:40:59.105Z",
-    "raw": "Br. Vlaka 81975 dolazak      01.05.26. 02:40, kolodvor OSIJEK"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "GOSPIĆ",
@@ -8413,5 +8386,23 @@
     "event_time": "2026-05-04T02:22:00",
     "seen_at": "2026-05-04T00:24:01.225Z",
     "raw": "Br. Vlaka 63306 odlazak      04.05.26. 02:22, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-05-04T02:30:00",
+    "seen_at": "2026-05-04T00:33:02.502Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 02:30, kolodvor BLATA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "BLATA",
+    "train_number": "63306",
+    "event_time": "2026-05-04T02:30:00",
+    "seen_at": "2026-05-04T00:33:02.502Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 02:30, kolodvor BLATA"
   }
 ]
