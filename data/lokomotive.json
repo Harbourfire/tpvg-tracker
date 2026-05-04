@@ -1,50 +1,5 @@
 [
   {
-    "uic": "927820440141",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "41990",
-    "event_time": "2026-05-01T11:00:00",
-    "seen_at": "2026-05-01T09:01:43.198Z",
-    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 11:00, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "KRIŽEVCI",
-    "train_number": "41990",
-    "event_time": "2026-05-01T11:00:00",
-    "seen_at": "2026-05-01T09:01:43.199Z",
-    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 11:00, kolodvor KRIŽEVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "BRČKO - izvan HŽ",
-    "train_number": "45104",
-    "event_time": "2026-05-01T10:18:00",
-    "seen_at": "2026-05-01T09:02:53.438Z",
-    "raw": "Br. Vlaka 45104 odlazak      01.05.26. 10:18, kolodvor 71308"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-05-01T10:27:00",
-    "seen_at": "2026-05-01T09:03:18.098Z",
-    "raw": "Br. Vlaka 45104 dolazak      01.05.26. 10:27, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "DRENOVCI",
-    "train_number": "45104",
-    "event_time": "2026-05-01T11:10:00",
-    "seen_at": "2026-05-01T09:10:40.342Z",
-    "raw": "Br. Vlaka 45104 odlazak      01.05.26. 11:10, kolodvor DRENOVCI"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OŠTARIJE",
@@ -7774,5 +7729,23 @@
     "event_time": "2026-05-04T10:41:00",
     "seen_at": "2026-05-04T08:44:11.738Z",
     "raw": "Br. Vlaka 47191 odlazak      04.05.26. 10:41, kolodvor SPAČVA"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Dolazak",
+    "station": "DRENOVCI",
+    "train_number": "47191",
+    "event_time": "2026-05-04T10:58:00",
+    "seen_at": "2026-05-04T09:02:46.992Z",
+    "raw": "Br. Vlaka 47191 dolazak      04.05.26. 10:58, kolodvor DRENOVCI"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-05-04T10:17:00",
+    "seen_at": "2026-05-04T09:04:20.804Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
