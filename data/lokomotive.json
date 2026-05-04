@@ -1,113 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Dolazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "48582",
-    "event_time": "2026-05-01T09:57:00",
-    "seen_at": "2026-05-01T07:59:16.880Z",
-    "raw": "Br. Vlaka 48582 dolazak      01.05.26. 09:57, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "41990",
-    "event_time": "2026-05-01T09:57:00",
-    "seen_at": "2026-05-01T08:01:15.537Z",
-    "raw": "Br. Vlaka 41990 dolazak      01.05.26. 09:57, kolodvor SESVETE"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "LEPAVINA",
-    "train_number": "44795",
-    "event_time": "2026-05-01T10:01:00",
-    "seen_at": "2026-05-01T08:02:02.518Z",
-    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 10:01, kolodvor LEPAVINA"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": null,
-    "event_time": "2026-05-01T09:00:00",
-    "seen_at": "2026-05-01T08:04:23.212Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71104 STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Formiran",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69783",
-    "event_time": "2026-05-01T09:12:00",
-    "seen_at": "2026-05-01T08:04:46.928Z",
-    "raw": "Br. Vlaka 69783 formiran     01.05.26. 09:12, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "BELI MANASTIR-GR",
-    "train_number": "42999",
-    "event_time": "2026-05-01T10:04:00",
-    "seen_at": "2026-05-01T08:04:46.929Z",
-    "raw": "Br. Vlaka 42999 formiran     01.05.26. 10:04, kolodvor BELI MANASTIR-GR"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Rasformiran",
-    "station": "BELI MANASTIR-GR",
-    "train_number": null,
-    "event_time": "2026-05-01T15:10:00",
-    "seen_at": "2026-05-01T08:05:10.239Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71706 BELI MANASTIR-GR"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "STRIZIVOJNA VRPOLJE",
-    "train_number": "69783",
-    "event_time": "2026-05-01T10:06:00",
-    "seen_at": "2026-05-01T08:08:06.468Z",
-    "raw": "Br. Vlaka 69783 odlazak      01.05.26. 10:06, kolodvor STRIZIVOJNA VRPOLJE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Promjena sastava",
-    "station": "SESVETE",
-    "train_number": "41990",
-    "event_time": "2026-05-01T09:57:00",
-    "seen_at": "2026-05-01T08:10:04.197Z",
-    "raw": "Br. Vlaka 41990 promjena sas 01.05.26. 09:57, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Promjena sastava",
-    "station": "SESVETE",
-    "train_number": "41990",
-    "event_time": "2026-05-01T09:57:00",
-    "seen_at": "2026-05-01T08:10:04.198Z",
-    "raw": "Br. Vlaka 41990 promjena sas 01.05.26. 09:57, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:07:00",
-    "seen_at": "2026-05-01T08:12:27.522Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:07, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "SESVETE",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:07:00",
-    "seen_at": "2026-05-01T08:12:27.523Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:07, kolodvor SESVETE"
-  },
-  {
     "uic": "928012230142",
     "type": "Formiran",
     "station": "SAVSKI MAROF granica",
@@ -7999,5 +7891,68 @@
     "event_time": "2026-05-04T09:42:00",
     "seen_at": "2026-05-04T07:43:06.209Z",
     "raw": "Br. Vlaka 46894 odlazak      04.05.26. 09:42, kolodvor OSIJEK"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Odlazak",
+    "station": "DARDA",
+    "train_number": "46894",
+    "event_time": "2026-05-04T09:58:00",
+    "seen_at": "2026-05-04T08:03:18.566Z",
+    "raw": "Br. Vlaka 46894 odlazak      04.05.26. 09:58, kolodvor DARDA"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-04T08:49:00",
+    "seen_at": "2026-05-04T08:04:46.540Z",
+    "raw": "Br. Vlaka 69005 formiran     04.05.26. 08:49, kolodvor OGULIN"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Rasformiran",
+    "station": "OŠTARIJE",
+    "train_number": null,
+    "event_time": "2026-05-04T00:03:00",
+    "seen_at": "2026-05-04T08:04:46.540Z",
+    "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Formiran",
+    "station": "ORIOVAC",
+    "train_number": "76617",
+    "event_time": "2026-05-04T10:04:00",
+    "seen_at": "2026-05-04T08:04:46.541Z",
+    "raw": "Br. Vlaka 76617 formiran     04.05.26. 10:04, kolodvor ORIOVAC"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Formiran",
+    "station": "OGULIN",
+    "train_number": "69005",
+    "event_time": "2026-05-04T08:49:00",
+    "seen_at": "2026-05-04T08:05:10.186Z",
+    "raw": "Br. Vlaka 69005 formiran     04.05.26. 08:49, kolodvor OGULIN"
+  },
+  {
+    "uic": "927820622029",
+    "type": "Odlazak",
+    "station": "OTOK",
+    "train_number": "47191",
+    "event_time": "2026-05-04T10:03:00",
+    "seen_at": "2026-05-04T08:05:57.521Z",
+    "raw": "Br. Vlaka 47191 odlazak      04.05.26. 10:03, kolodvor OTOK"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Odlazak",
+    "station": "ORIOVAC",
+    "train_number": "76617",
+    "event_time": "2026-05-04T10:06:00",
+    "seen_at": "2026-05-04T08:07:34.431Z",
+    "raw": "Br. Vlaka 76617 odlazak      04.05.26. 10:06, kolodvor ORIOVAC"
   }
 ]
