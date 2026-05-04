@@ -2,24 +2,6 @@
   {
     "uic": "927820440026",
     "type": "Odlazak",
-    "station": "ZAGREB RESNIK",
-    "train_number": "47944",
-    "event_time": "2026-05-01T02:17:00",
-    "seen_at": "2026-05-01T00:23:54.140Z",
-    "raw": "Br. Vlaka 47944 odlazak      01.05.26. 02:17, kolodvor ZAGREB RESNIK"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Dolazak",
-    "station": "SESVETE",
-    "train_number": "47944",
-    "event_time": "2026-05-01T02:24:00",
-    "seen_at": "2026-05-01T00:24:17.519Z",
-    "raw": "Br. Vlaka 47944 dolazak      01.05.26. 02:24, kolodvor SESVETE"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Odlazak",
     "station": "SESVETE",
     "train_number": "47944",
     "event_time": "2026-05-01T02:34:00",
@@ -8413,5 +8395,23 @@
     "event_time": "2026-05-04T02:04:00",
     "seen_at": "2026-05-04T00:05:22.645Z",
     "raw": "Br. Vlaka 63306 odlazak      04.05.26. 02:04, kolodvor RUDOPOLJE"
+  },
+  {
+    "uic": "928012230035",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-05-04T02:22:00",
+    "seen_at": "2026-05-04T00:24:01.225Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 02:22, kolodvor LIČKA JESENICA"
+  },
+  {
+    "uic": "928012230142",
+    "type": "Odlazak",
+    "station": "LIČKA JESENICA",
+    "train_number": "63306",
+    "event_time": "2026-05-04T02:22:00",
+    "seen_at": "2026-05-04T00:24:01.225Z",
+    "raw": "Br. Vlaka 63306 odlazak      04.05.26. 02:22, kolodvor LIČKA JESENICA"
   }
 ]
