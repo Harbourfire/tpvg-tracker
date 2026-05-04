@@ -1,51 +1,6 @@
 [
   {
     "uic": "927820620171",
-    "type": "Odlazak",
-    "station": "IVANKOVO",
-    "train_number": "69783",
-    "event_time": "2026-05-01T10:23:00",
-    "seen_at": "2026-05-01T08:24:11.875Z",
-    "raw": "Br. Vlaka 69783 odlazak      01.05.26. 10:23, kolodvor IVANKOVO"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:25:00",
-    "seen_at": "2026-05-01T08:25:48.112Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:25, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "DUGO SELO",
-    "train_number": "41990",
-    "event_time": "2026-05-01T10:25:00",
-    "seen_at": "2026-05-01T08:25:48.112Z",
-    "raw": "Br. Vlaka 41990 odlazak      01.05.26. 10:25, kolodvor DUGO SELO"
-  },
-  {
-    "uic": "927820622029",
-    "type": "Formiran",
-    "station": "BELI MANASTIR-GR",
-    "train_number": "42999",
-    "event_time": "2026-05-01T10:04:00",
-    "seen_at": "2026-05-01T08:27:40.330Z",
-    "raw": "Br. Vlaka 42999 formiran     01.05.26. 10:04, kolodvor BELI MANASTIR-GR"
-  },
-  {
-    "uic": "928012230076",
-    "type": "Odlazak",
-    "station": "GRADEC",
-    "train_number": "44795",
-    "event_time": "2026-05-01T10:29:00",
-    "seen_at": "2026-05-01T08:30:04.613Z",
-    "raw": "Br. Vlaka 44795 odlazak      01.05.26. 10:29, kolodvor GRADEC"
-  },
-  {
-    "uic": "927820620171",
     "type": "Rasformiran",
     "station": "VINKOVCI",
     "train_number": null,
@@ -7945,5 +7900,14 @@
     "event_time": "2026-05-04T10:20:00",
     "seen_at": "2026-05-04T08:21:06.448Z",
     "raw": "Br. Vlaka 46894 dolazak      04.05.26. 10:20, kolodvor BELI MANASTIR"
+  },
+  {
+    "uic": "927820620171",
+    "type": "Rasformiran",
+    "station": "BELI MANASTIR",
+    "train_number": null,
+    "event_time": "2026-05-03T17:12:00",
+    "seen_at": "2026-05-04T08:23:14.248Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
   }
 ]
