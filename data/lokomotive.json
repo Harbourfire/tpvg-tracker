@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820620247",
-    "type": "Rasformiran",
-    "station": "VARAŽDIN",
-    "train_number": null,
-    "event_time": "2026-04-28T13:46:00",
-    "seen_at": "2026-05-01T11:46:55.998Z",
-    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "GENERALSKI STOL",
-    "train_number": "46657",
-    "event_time": "2026-05-01T13:47:00",
-    "seen_at": "2026-05-01T11:47:18.862Z",
-    "raw": "Br. Vlaka 46657 odlazak      01.05.26. 13:47, kolodvor GENERALSKI STOL"
-  },
-  {
     "uic": "928012230142",
     "type": "Odlazak",
     "station": "GORNJE DUBRAVE",
@@ -7270,5 +7252,14 @@
     "event_time": "2026-04-28T13:23:00",
     "seen_at": "2026-05-04T11:25:45.778Z",
     "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
+  },
+  {
+    "uic": "927820620247",
+    "type": "Rasformiran",
+    "station": "VARAŽDIN",
+    "train_number": null,
+    "event_time": "2026-04-28T13:46:00",
+    "seen_at": "2026-05-04T11:47:37.971Z",
+    "raw": "Trenutna pozicija je u kolodvoru 74460 VARAŽDIN"
   }
 ]
