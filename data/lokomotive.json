@@ -1,14 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "LIČKO LEŠĆE",
-    "train_number": "63306",
-    "event_time": "2026-05-01T03:31:00",
-    "seen_at": "2026-05-01T01:34:07.846Z",
-    "raw": "Br. Vlaka 63306 odlazak      01.05.26. 03:31, kolodvor LIČKO LEŠĆE"
-  },
-  {
     "uic": "927820440026",
     "type": "Odlazak",
     "station": "VRBOVEC",
@@ -8422,5 +8413,23 @@
     "event_time": "2026-05-04T03:28:00",
     "seen_at": "2026-05-04T01:29:58.647Z",
     "raw": "Br. Vlaka 48895 odlazak      04.05.26. 03:28, kolodvor TOVARNIK"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Dolazak",
+    "station": "TOVARNIK granica",
+    "train_number": "48895",
+    "event_time": "2026-05-04T03:31:00",
+    "seen_at": "2026-05-04T01:32:14.586Z",
+    "raw": "Br. Vlaka 48895 dolazak      04.05.26. 03:31, kolodvor 71020"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Rasformiran",
+    "station": "TOVARNIK granica",
+    "train_number": null,
+    "event_time": "2026-05-04T03:31:00",
+    "seen_at": "2026-05-04T01:32:37.985Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71020 71020"
   }
 ]
