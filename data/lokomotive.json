@@ -1,32 +1,5 @@
 [
   {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81984",
-    "event_time": "2026-05-02T12:59:00",
-    "seen_at": "2026-05-02T11:00:26.192Z",
-    "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:59, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "PERUŠIĆ",
-    "train_number": "81984",
-    "event_time": "2026-05-02T12:59:00",
-    "seen_at": "2026-05-02T11:00:26.193Z",
-    "raw": "Br. Vlaka 81984 odlazak      02.05.26. 12:59, kolodvor PERUŠIĆ"
-  },
-  {
-    "uic": "927820620189",
-    "type": "Odlazak",
-    "station": "SPAČVA",
-    "train_number": "45104",
-    "event_time": "2026-05-02T13:06:00",
-    "seen_at": "2026-05-02T11:07:35.915Z",
-    "raw": "Br. Vlaka 45104 odlazak      02.05.26. 13:06, kolodvor SPAČVA"
-  },
-  {
     "uic": "927820622037",
     "type": "Odlazak",
     "station": "ZAGREB RESNIK",
@@ -5343,6 +5316,15 @@
     "train_number": null,
     "event_time": "2026-04-29T07:34:00",
     "seen_at": "2026-05-05T05:36:28.864Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
+  },
+  {
+    "uic": "997894215703",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-04-29T12:57:00",
+    "seen_at": "2026-05-05T10:59:08.129Z",
     "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
