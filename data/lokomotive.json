@@ -2,141 +2,6 @@
   {
     "uic": "927820440141",
     "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45997",
-    "event_time": "2026-05-02T23:10:00",
-    "seen_at": "2026-05-02T21:12:02.931Z",
-    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:10, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "927820440265",
-    "type": "Odlazak",
-    "station": "KOPRIVNICA",
-    "train_number": "45997",
-    "event_time": "2026-05-02T23:10:00",
-    "seen_at": "2026-05-02T21:12:02.932Z",
-    "raw": "Br. Vlaka 45997 odlazak      02.05.26. 23:10, kolodvor KOPRIVNICA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-05-02T22:52:00",
-    "seen_at": "2026-05-02T21:12:02.932Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:52, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "OŠTARIJE",
-    "train_number": "63305",
-    "event_time": "2026-05-02T22:52:00",
-    "seen_at": "2026-05-02T21:12:02.932Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:52, kolodvor OŠTARIJE"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-05-02T22:57:00",
-    "seen_at": "2026-05-02T21:12:25.985Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:57, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "JOSIPDOL",
-    "train_number": "63305",
-    "event_time": "2026-05-02T22:57:00",
-    "seen_at": "2026-05-02T21:12:25.985Z",
-    "raw": "Br. Vlaka 63305 odlazak      02.05.26. 22:57, kolodvor JOSIPDOL"
-  },
-  {
-    "uic": "927820620015",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-29T20:00:00",
-    "seen_at": "2026-05-02T21:13:45.919Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
-    "uic": "927820622037",
-    "type": "Odlazak",
-    "station": "KLOŠTAR",
-    "train_number": "89108",
-    "event_time": "2026-05-02T23:12:00",
-    "seen_at": "2026-05-02T21:14:09.719Z",
-    "raw": "Br. Vlaka 89108 odlazak      02.05.26. 23:12, kolodvor KLOŠTAR"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-05-02T23:14:00",
-    "seen_at": "2026-05-02T21:14:56.921Z",
-    "raw": "Br. Vlaka 63305 dolazak      02.05.26. 23:14, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Dolazak",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-05-02T23:14:00",
-    "seen_at": "2026-05-02T21:14:56.921Z",
-    "raw": "Br. Vlaka 63305 dolazak      02.05.26. 23:14, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820440026",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-05-02T23:14:00",
-    "seen_at": "2026-05-02T21:15:20.807Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "927820440125",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (OS)",
-    "train_number": null,
-    "event_time": "2026-05-02T23:14:00",
-    "seen_at": "2026-05-02T21:15:20.807Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-05-02T23:14:00",
-    "seen_at": "2026-05-02T21:15:44.260Z",
-    "raw": "Br. Vlaka 63305 promjena sas 02.05.26. 23:14, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Promjena sastava",
-    "station": "PLAŠKI",
-    "train_number": "63305",
-    "event_time": "2026-05-02T23:14:00",
-    "seen_at": "2026-05-02T21:15:44.260Z",
-    "raw": "Br. Vlaka 63305 promjena sas 02.05.26. 23:14, kolodvor PLAŠKI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Formiran",
-    "station": "VINKOVCI",
-    "train_number": "82128",
-    "event_time": "2026-05-02T23:16:00",
-    "seen_at": "2026-05-02T21:16:31.720Z",
-    "raw": "Br. Vlaka 82128 formiran     02.05.26. 23:16, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440141",
-    "type": "Odlazak",
     "station": "BREGI",
     "train_number": "45997",
     "event_time": "2026-05-02T23:26:00",
@@ -4102,5 +3967,32 @@
     "event_time": "2026-05-02T15:06:00",
     "seen_at": "2026-05-05T11:48:43.425Z",
     "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
+  },
+  {
+    "uic": "927820620015",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-29T20:00:00",
+    "seen_at": "2026-05-05T21:19:54.826Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
+  },
+  {
+    "uic": "927820440026",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-05-02T23:14:00",
+    "seen_at": "2026-05-05T21:19:54.827Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "927820440125",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (OS)",
+    "train_number": null,
+    "event_time": "2026-05-02T23:14:00",
+    "seen_at": "2026-05-05T21:19:54.827Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
   }
 ]
