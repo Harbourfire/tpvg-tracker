@@ -1,41 +1,5 @@
 [
   {
-    "uic": "927820620171",
-    "type": "Rasformiran",
-    "station": "VINKOVCI",
-    "train_number": null,
-    "event_time": "2026-05-02T16:40:00",
-    "seen_at": "2026-05-02T14:42:31.311Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71160 VINKOVCI"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81281",
-    "event_time": "2026-05-02T06:28:00",
-    "seen_at": "2026-05-02T14:42:55.093Z",
-    "raw": "Br. Vlaka 81281 promjena sas 02.05.26. 06:28, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "SISAK",
-    "train_number": "83831",
-    "event_time": "2026-05-02T16:34:00",
-    "seen_at": "2026-05-02T14:49:01.564Z",
-    "raw": "Br. Vlaka 83831 odlazak      02.05.26. 16:34, kolodvor SISAK"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "SISAK CAPRAG",
-    "train_number": "83831",
-    "event_time": "2026-05-02T16:42:00",
-    "seen_at": "2026-05-02T14:49:24.928Z",
-    "raw": "Br. Vlaka 83831 dolazak      02.05.26. 16:42, kolodvor SISAK CAPRAG"
-  },
-  {
     "uic": "927820440232",
     "type": "Odlazak",
     "station": "SISAK CAPRAG",
