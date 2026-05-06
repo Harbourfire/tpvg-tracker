@@ -2,33 +2,6 @@
   {
     "uic": "927820440232",
     "type": "Odlazak",
-    "station": "STARI MIKANOVCI",
-    "train_number": "89400",
-    "event_time": "2026-05-03T08:44:00",
-    "seen_at": "2026-05-03T06:44:49.128Z",
-    "raw": "Br. Vlaka 89400 odlazak      03.05.26. 08:44, kolodvor STARI MIKANOVCI"
-  },
-  {
-    "uic": "927820620254",
-    "type": "Rasformiran",
-    "station": "OSIJEK",
-    "train_number": null,
-    "event_time": "2026-05-03T08:47:00",
-    "seen_at": "2026-05-03T06:49:09.814Z",
-    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
-  },
-  {
-    "uic": "927820620171",
-    "type": "Promjena sastava",
-    "station": "VINKOVCI",
-    "train_number": "81187",
-    "event_time": "2026-05-03T08:46:00",
-    "seen_at": "2026-05-03T06:52:15.535Z",
-    "raw": "Br. Vlaka 81187 promjena sas 03.05.26. 08:46, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Odlazak",
     "station": "STRIZIVOJNA VRPOLJE",
     "train_number": "89400",
     "event_time": "2026-05-03T08:50:00",
@@ -2968,5 +2941,14 @@
     "event_time": "2026-05-03T03:23:00",
     "seen_at": "2026-05-06T01:24:29.472Z",
     "raw": "Trenutna pozicija je u kolodvoru 73164 73164"
+  },
+  {
+    "uic": "927820620254",
+    "type": "Rasformiran",
+    "station": "OSIJEK",
+    "train_number": null,
+    "event_time": "2026-05-03T08:47:00",
+    "seen_at": "2026-05-06T06:49:50.582Z",
+    "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
   }
 ]
