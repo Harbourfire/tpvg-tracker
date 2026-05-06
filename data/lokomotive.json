@@ -2,51 +2,6 @@
   {
     "uic": "928012230035",
     "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82323",
-    "event_time": "2026-05-03T10:32:00",
-    "seen_at": "2026-05-03T08:32:54.094Z",
-    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 10:32, kolodvor BLATA"
-  },
-  {
-    "uic": "928012230142",
-    "type": "Odlazak",
-    "station": "BLATA",
-    "train_number": "82323",
-    "event_time": "2026-05-03T10:32:00",
-    "seen_at": "2026-05-03T08:32:54.094Z",
-    "raw": "Br. Vlaka 82323 odlazak      03.05.26. 10:32, kolodvor BLATA"
-  },
-  {
-    "uic": "987895225611",
-    "type": "Rasformiran",
-    "station": "VIROVITICA",
-    "train_number": null,
-    "event_time": "2026-04-30T08:19:00",
-    "seen_at": "2026-05-03T08:32:54.096Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
-  },
-  {
-    "uic": "987891032144",
-    "type": "Rasformiran",
-    "station": "SLAVONSKI BROD",
-    "train_number": null,
-    "event_time": "2026-04-27T10:30:00",
-    "seen_at": "2026-05-03T08:34:04.310Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
-  },
-  {
-    "uic": "927820440232",
-    "type": "Dolazak",
-    "station": "NOVSKA",
-    "train_number": "89400",
-    "event_time": "2026-05-03T10:37:00",
-    "seen_at": "2026-05-03T08:38:00.952Z",
-    "raw": "Br. Vlaka 89400 dolazak      03.05.26. 10:37, kolodvor NOVSKA"
-  },
-  {
-    "uic": "928012230035",
-    "type": "Odlazak",
     "station": "LIČKA JESENICA",
     "train_number": "82323",
     "event_time": "2026-05-03T10:40:00",
@@ -2698,5 +2653,23 @@
     "event_time": "2026-05-03T08:47:00",
     "seen_at": "2026-05-06T06:49:50.582Z",
     "raw": "Trenutna pozicija je u kolodvoru 71960 OSIJEK"
+  },
+  {
+    "uic": "987895225611",
+    "type": "Rasformiran",
+    "station": "VIROVITICA",
+    "train_number": null,
+    "event_time": "2026-04-30T08:19:00",
+    "seen_at": "2026-05-06T08:33:17.987Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73003 VIROVITICA"
+  },
+  {
+    "uic": "987891032144",
+    "type": "Rasformiran",
+    "station": "SLAVONSKI BROD",
+    "train_number": null,
+    "event_time": "2026-04-27T10:30:00",
+    "seen_at": "2026-05-06T08:34:27.705Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72807 SLAVONSKI BROD"
   }
 ]
