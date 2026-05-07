@@ -1,24 +1,6 @@
 [
   {
     "uic": "927820622029",
-    "type": "Dolazak",
-    "station": "DRENOVCI",
-    "train_number": "47191",
-    "event_time": "2026-05-04T10:58:00",
-    "seen_at": "2026-05-04T09:02:46.992Z",
-    "raw": "Br. Vlaka 47191 dolazak      04.05.26. 10:58, kolodvor DRENOVCI"
-  },
-  {
-    "uic": "987891213314",
-    "type": "Rasformiran",
-    "station": "NOVA KAPELA-BATRINA",
-    "train_number": null,
-    "event_time": "2026-05-04T10:17:00",
-    "seen_at": "2026-05-04T09:04:20.804Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
-  },
-  {
-    "uic": "927820622029",
     "type": "Odlazak",
     "station": "DRENOVCI",
     "train_number": "47191",
@@ -835,5 +817,14 @@
     "event_time": "2026-05-03T17:12:00",
     "seen_at": "2026-05-07T08:23:41.003Z",
     "raw": "Trenutna pozicija je u kolodvoru 71705 BELI MANASTIR"
+  },
+  {
+    "uic": "987891213314",
+    "type": "Rasformiran",
+    "station": "NOVA KAPELA-BATRINA",
+    "train_number": null,
+    "event_time": "2026-05-04T10:17:00",
+    "seen_at": "2026-05-07T09:04:57.270Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72708 NOVA KAPELA-BATRINA"
   }
 ]
