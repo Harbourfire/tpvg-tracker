@@ -1,23 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "VINKOVCI",
-    "train_number": "89406",
-    "event_time": "2026-05-04T08:43:00",
-    "seen_at": "2026-05-04T07:14:48.238Z",
-    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 08:43, kolodvor VINKOVCI"
-  },
-  {
-    "uic": "997894215638",
-    "type": "Rasformiran",
-    "station": "ZAGREB RANŽIRNI (PS)",
-    "train_number": null,
-    "event_time": "2026-04-28T09:11:00",
-    "seen_at": "2026-05-04T07:15:37.064Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
-  },
-  {
     "uic": "927820620171",
     "type": "Promjena sastava",
     "station": "OSIJEK",
@@ -970,5 +952,14 @@
     "event_time": "2026-05-03T01:06:00",
     "seen_at": "2026-05-07T04:42:46.480Z",
     "raw": "Trenutna pozicija je u kolodvoru 72303 72303"
+  },
+  {
+    "uic": "997894215638",
+    "type": "Rasformiran",
+    "station": "ZAGREB RANŽIRNI (PS)",
+    "train_number": null,
+    "event_time": "2026-04-28T09:11:00",
+    "seen_at": "2026-05-07T07:16:01.923Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72304 72304"
   }
 ]
