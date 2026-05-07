@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891032094",
-    "type": "Rasformiran",
-    "station": "NOVSKA",
-    "train_number": null,
-    "event_time": "2026-04-28T11:52:00",
-    "seen_at": "2026-05-04T09:55:13.139Z",
-    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
-  },
-  {
     "uic": "928012230035",
     "type": "Odlazak",
     "station": "OGULIN",
@@ -808,5 +799,14 @@
     "event_time": "2026-05-04T11:44:00",
     "seen_at": "2026-05-07T09:46:45.989Z",
     "raw": "Trenutna pozicija je u kolodvoru 71308 71308"
+  },
+  {
+    "uic": "987891032094",
+    "type": "Rasformiran",
+    "station": "NOVSKA",
+    "train_number": null,
+    "event_time": "2026-04-28T11:52:00",
+    "seen_at": "2026-05-07T09:55:52.000Z",
+    "raw": "Trenutna pozicija je u kolodvoru 72560 NOVSKA"
   }
 ]
