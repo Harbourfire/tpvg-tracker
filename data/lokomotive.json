@@ -1,14 +1,5 @@
 [
   {
-    "uic": "987891032151",
-    "type": "Rasformiran",
-    "station": "VRBOVEC",
-    "train_number": null,
-    "event_time": "2026-05-01T21:33:00",
-    "seen_at": "2026-05-07T19:35:39.958Z",
-    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
-  },
-  {
     "uic": "987891113316",
     "type": "Rasformiran",
     "station": "NOVA KAPELA-BATRINA",
@@ -628,5 +619,14 @@
     "event_time": "2026-05-04T15:11:00",
     "seen_at": "2026-05-10T18:04:29.084Z",
     "raw": "Br. Vlaka 89406 odlazak      04.05.26. 15:11, kolodvor GREDA"
+  },
+  {
+    "uic": "987891032151",
+    "type": "Rasformiran",
+    "station": "VRBOVEC",
+    "train_number": null,
+    "event_time": "2026-05-01T21:33:00",
+    "seen_at": "2026-05-10T19:36:13.198Z",
+    "raw": "Trenutna pozicija je u kolodvoru 73110 VRBOVEC"
   }
 ]
