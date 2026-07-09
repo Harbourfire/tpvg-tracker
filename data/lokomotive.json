@@ -1,14 +1,5 @@
 [
   {
-    "uic": "927820440232",
-    "type": "Odlazak",
-    "station": "GREDA",
-    "train_number": "89406",
-    "event_time": "2026-05-04T15:11:00",
-    "seen_at": "2026-07-06T18:15:58.443Z",
-    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 15:11, kolodvor GREDA"
-  },
-  {
     "uic": "987891032151",
     "type": "Rasformiran",
     "station": "VRBOVEC",
@@ -628,5 +619,14 @@
     "event_time": "2026-05-04T11:40:00",
     "seen_at": "2026-07-09T16:26:49.974Z",
     "raw": "Trenutna pozicija je u kolodvoru 75111 OŠTARIJE"
+  },
+  {
+    "uic": "927820440232",
+    "type": "Odlazak",
+    "station": "GREDA",
+    "train_number": "89406",
+    "event_time": "2026-05-04T15:11:00",
+    "seen_at": "2026-07-09T18:16:40.782Z",
+    "raw": "Br. Vlaka 89406 odlazak      04.05.26. 15:11, kolodvor GREDA"
   }
 ]
